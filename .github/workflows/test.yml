@@ -54,6 +54,9 @@ jobs:
       run: |
         weblate collectstatic
         coverage run `which weblate` test
+    - name: Coverage
+      run: |
+        coverage xml
     - uses: codecov/codecov-action@v1
       with:
         token: ${{secrets.CODECOV_TOKEN}}
