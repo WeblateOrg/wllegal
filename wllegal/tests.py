@@ -23,17 +23,17 @@ from django.urls import reverse
 
 class LegalTestCase(TestCase):
     def test_terms(self):
-        response = self.client.get(reverse('legal:terms'))
+        response = self.client.get(reverse("legal:terms"))
         self.assertContains(response, "04705904")
 
     def test_privacy(self):
-        response = self.client.get(reverse('legal:privacy'))
+        response = self.client.get(reverse("legal:privacy"))
         self.assertContains(response, "04705904")
 
     def test_index(self):
-        response = self.client.get(reverse('legal:index'))
+        response = self.client.get(reverse("legal:index"))
         self.assertContains(response, "The services are provided")
 
     def test_security(self):
-        response = self.client.get('/security.txt')
+        response = self.client.get("/security.txt")
         self.assertContains(response, "https://hackerone.com/weblate")
