@@ -50,7 +50,7 @@ jobs:
         CI_DATABASE: "postgresql"
         CI_DB_PASSWORD: "postgres"
         CI_DB_HOST: "localhost"
-        DJANGO_SETTINGS_MODULE: wlhosted.settings_test
+        DJANGO_SETTINGS_MODULE: wllegal.settings_test
       run: |
         coverage run `which weblate` test
     - uses: codecov/codecov-action@v1

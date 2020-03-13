@@ -6,7 +6,7 @@
 set -e
 
 export PYTHONPATH=../weblate
-export DJANGO_SETTINGS_MODULE=wlhosted.settings_test
+export DJANGO_SETTINGS_MODULE=wllegal.settings_test
 
 # Lock Weblate
 wlc lock weblate/hosted
@@ -25,11 +25,11 @@ sed \
     -i \
     -e 's/"Report-Msgid-Bugs-To:.*/"Report-Msgid-Bugs-To: weblate@lists.cihar.com\\n"/' \
     -e 's/"Project-Id-Version:.*/"Project-Id-Version: Hosted Weblate '$version'\\n"/' \
-    wlhosted/locale/*/*/*.po wlhosted/locale/*.pot \
+    wllegal/locale/*/*/*.po wllegal/locale/*.pot \
 
 # Commit changes
-git add wlhosted/locale/*/*/*.po
-git add wlhosted/locale/*.pot
+git add wllegal/locale/*/*/*.po
+git add wllegal/locale/*.pot
 
 git commit -s -m "Update po files
 
