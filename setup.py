@@ -29,15 +29,15 @@ with open(os.path.join(os.path.dirname(__file__), "README.rst")) as readme:
     LONG_DESCRIPTION = readme.read()
 
 setup(
-    name="wlhosted",
+    name="wllegal",
     version="0.1",
-    packages=["wlhosted"],
+    packages=["wllegal"],
     include_package_data=True,
     license="GPLv3+",
-    description=("Hosted Weblate Customization"),
+    description=("Hosted Weblate legal stuff"),
     url="https://weblate.org/",
     download_url="https://weblate.org/download/",
-    bugtrack_url="https://github.com/WeblateOrg/hosted/issues",
+    bugtrack_url="https://github.com/WeblateOrg/wllegal/issues",
     author="Michal Čihař",
     author_email="michal@cihar.com",
     zip_safe=True,

@@ -1,3 +1,2 @@
-fakturace
-psycopg2-binary
 Weblate
+psycopg2-binary

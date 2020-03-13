@@ -17,22 +17,12 @@
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 #
 
-from django.contrib import admin
+import os.path
 
-from wlhosted.payments.models import Customer, Payment
+from weblate.settings_test import *
 
+INSTALLED_APPS += (
+    "wllegal",
+)
 
-class CustomerAdmin(admin.ModelAdmin):
-    list_display = ("email", "name", "country", "vat", "origin")
-    list_filter = ("country", "origin")
-    search_fields = ("name", "email")
-
-
-class PaymentAdmin(admin.ModelAdmin):
-    list_display = ("description", "amount", "customer", "state", "backend", "repeat")
-    list_filter = ("state", "backend", "customer__name", "repeat")
-    search_fields = ("description", "customer__name", "customer__email")
-
-
-admin.site.register(Customer, CustomerAdmin)
-admin.site.register(Payment, PaymentAdmin)
+LOCALE_PATHS = [os.path.join(os.path.dirname(__file__), "locale")]
