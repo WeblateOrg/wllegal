@@ -8,10 +8,10 @@ set -e
 export DJANGO_SETTINGS_MODULE=wllegal.settings_test
 
 # Lock Weblate
-wlc lock weblate/hosted
+wlc lock weblate/legal
 
 # Push changes from Weblate to GitHub
-wlc push weblate/hosted
+wlc push weblate/legal
 
 # Pull changes from GitHub
 git pull --rebase
@@ -38,4 +38,4 @@ git commit -s -m "Update po files
 git push
 
 # Unlock Weblate
-wlc unlock weblate/hosted
+wlc unlock weblate/legal
