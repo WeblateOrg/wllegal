@@ -8,9 +8,9 @@
 # frottle <catatan.kungkong@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2019-12-15 12:07+0000\n"
+"POT-Creation-Date: 2020-03-13 08:42+0000\n"
 "PO-Revision-Date: 2020-02-21 16:32+0000\n"
 "Last-Translator: frottle <catatan.kungkong@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/weblate/"
@@ -22,159 +22,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.11.1\n"
 
-#: wlhosted/addons.py:37 wlhosted/addons.py:38
-msgid "Generate Unknown Horizons scenario data"
-msgstr "Hasilkan data skenario Unknown Horizons"
-
-#: wlhosted/addons.py:60
-msgid "Reset repository to upstream"
-msgstr "Reset repositori ke upstream"
-
-#: wlhosted/addons.py:61
-msgid "Reset all changes in the local repository"
-msgstr "Reset semua perubahan di repositori lokal"
-
-#: wlhosted/integrations/forms.py:35
-msgid "Billing"
-msgstr "Penagihan"
-
-#: wlhosted/integrations/forms.py:36
-msgid "Choose the billing plan you want to update"
-msgstr "Pilih plan penagihan yang ingin Anda perbarui"
-
-#: wlhosted/integrations/forms.py:37
-msgid "Create new billing plan"
-msgstr "Buat plan penagihan baru"
-
-#: wlhosted/integrations/templates/hosted/create.html:7
-msgid "Create billing plan"
-msgstr "Buat plan penagihan"
-
-#: wlhosted/integrations/templates/hosted/create.html:16
-msgid "New billing plan"
-msgstr "Plan penagihan baru"
-
-#: wlhosted/integrations/templates/hosted/create.html:19
-msgid "Please choose a hosting plan that fits the size of your project."
-msgstr "Silakan memilih plan hosting yang sesuai dengan proyek Anda."
-
-#: wlhosted/integrations/templates/hosted/create.html:25
-msgid "Current billing status"
-msgstr "Status penagihan saat ini"
-
-#: wlhosted/integrations/templates/hosted/create.html:46
-msgid "Too small for your project."
-msgstr "Terlalu kecil untuk proyek Anda."
-
-#: wlhosted/integrations/templates/hosted/create.html:46
-msgid "Too small"
-msgstr "Terlalu kecil"
-
-#: wlhosted/integrations/templates/hosted/create.html:48
-msgid "Selected plan"
-msgstr "Plan terpilih"
-
-#: wlhosted/integrations/templates/hosted/create.html:50
-msgid "Current plan"
-msgstr "Plan saat ini"
-
-#: wlhosted/integrations/templates/hosted/create.html:55
-msgid "Strings limit"
-msgstr "Batas string"
-
-#: wlhosted/integrations/templates/hosted/create.html:56
-#: wlhosted/integrations/templates/hosted/create.html:59
-#: wlhosted/integrations/templates/hosted/create.html:62
-#: wlhosted/integrations/templates/hosted/create.html:65
-msgid "Unlimited"
-msgstr "Tidak terbatas"
-
-#: wlhosted/integrations/templates/hosted/create.html:58
-msgid "Languages limit"
-msgstr "Batasan bahasa"
-
-#: wlhosted/integrations/templates/hosted/create.html:61
-msgid "Component limit"
-msgstr "Batasan komponen"
-
-#: wlhosted/integrations/templates/hosted/create.html:64
-msgid "Projects limit"
-msgstr "Batas proyek"
-
-#: wlhosted/integrations/templates/hosted/create.html:77
-#, python-format
-msgid "%(price)s EUR / month"
-msgstr "%(price)s EUR / bulan"
-
-#: wlhosted/integrations/templates/hosted/create.html:78
-#: wlhosted/integrations/templates/hosted/create.html:84
-#, python-format
-msgid "%(price)s EUR including VAT"
-msgstr "%(price)s EUR termasuk VAT"
-
-#: wlhosted/integrations/templates/hosted/create.html:83
-#, python-format
-msgid "%(price)s EUR / year"
-msgstr "%(price)s EUR / tahun"
-
-#: wlhosted/integrations/templates/hosted/create.html:95
-msgid ""
-"Pricing is based on the number of source strings and target languages. The "
-"source string is a text unit defined in a translation format, it can be a "
-"word, sentence or paragraph."
-msgstr ""
-"Harga berdasarkan jumlah string sumber dan bahasa target. String sumber "
-"adalah unit teks yang ditetapkan dalam format terjemahan, dapat berupa kata, "
-"kalimat, atau paragraf."
-
-#: wlhosted/integrations/templates/hosted/create.html:98
-msgid "All listed prices exclude VAT."
-msgstr "Semua harga tercantum tidak termasuk VAT."
-
-#: wlhosted/integrations/templates/hosted/create.html:99
-#, python-format
-msgid ""
-"EU end users and Czech companies will be charged with additional 21%% VAT."
-msgstr ""
-"Pengguna akhir EU dan perusahaan Republik Ceko akan dikenakan tambahan 21%% "
-"VAT."
-
-#: wlhosted/integrations/templates/hosted/create.html:100
-msgid ""
-"The reverse charge applies to invoices issued to businesses within the EU."
-msgstr ""
-"Pengembalian dana berlaku pada faktur yang dikeluarkan untuk bisnis yang "
-"berada di UE."
-
-#: wlhosted/integrations/views.py:69
-msgid "No matching payment found."
-msgstr "Tidak ditemukan pembayaran yang cocok."
-
-#: wlhosted/integrations/views.py:77
-msgid "Thank you for purchasing a hosting plan, it is now active."
-msgstr "Terima kasih atas pembelian plan hosting, sekarang sudah aktif."
-
-#: wlhosted/integrations/views.py:84
-msgid ""
-"Thank you for purchasing a hosting plan, the payment for it is pending and "
-"will be processed in the background."
-msgstr ""
-"Terima kasih atas pembelian plan hosting, pembayaran masih tertunda dan akan "
-"diproses di latar belakang."
-
-#: wlhosted/integrations/views.py:92
-msgid "The payment was rejected: {}"
-msgstr "Pembayaran ditolak: {}"
-
-#: wlhosted/integrations/views.py:93
-msgid "Unknown reason"
-msgstr "Alasan tidak diketahui"
-
-#: wlhosted/integrations/views.py:110
-msgid "Payments are temporarily inactive."
-msgstr "Pembayaran untuk sementara tidak aktif."
-
-#: wlhosted/legal/templates/legal/documents/privacy.html:6
+#: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
 msgid ""
 "We comply with the Regulation No. %(law_679_2016)s, the General Data "
@@ -185,16 +33,16 @@ msgstr ""
 "Umum, juga dikenal sebagai GDPR. Dokumen ini mencakup spesifikasi yang "
 "diperlukan."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:9
+#: wllegal/templates/legal/documents/privacy.html:9
 msgid "Personal Data Controller"
 msgstr "Pengendali Data Pribadi"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:12
+#: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
 msgid "%(provider)s, Reg. No. %(reg_no)s"
 msgstr "%(provider)s, Reg. No. %(reg_no)s"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:15
+#: wllegal/templates/legal/documents/privacy.html:15
 #, python-format
 msgid ""
 "Weblate has appointed a data protection officer who may be reached via "
@@ -203,41 +51,41 @@ msgstr ""
 "Weblate telah menunjuk petugas perlindungan data yang dapat dihubungi "
 "melalui %(privacy_contact)s."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:17
+#: wllegal/templates/legal/documents/privacy.html:17
 msgid "Personal Data processed by Weblate"
 msgstr "Data Pribadi yang diolah oleh Weblate"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:20
+#: wllegal/templates/legal/documents/privacy.html:20
 msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr ""
 "Weblate hanya mengolah Data Pribadi yang disediakan oleh Pengguna secara:"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:25
+#: wllegal/templates/legal/documents/privacy.html:25
 msgid "Name and e-mail"
 msgstr "Nama dan surel"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:26
+#: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits"
 msgstr "Ini digunakan untuk mengidentifikasi Anda dalam commit VCS"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:27
+#: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events"
 msgstr ""
 "Selain itu, surel digunakan untuk memberi notifikasi pada proyek yang diikuti"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:29
+#: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
 msgstr "Kata sandi dalam bentuk yang ditagarkan"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:30
+#: wllegal/templates/legal/documents/privacy.html:30
 msgid "Used to authenticate the User, if configured"
 msgstr "Digunakan untuk autentikasi Pengguna, bila telah dikonfigurasi"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:32
+#: wllegal/templates/legal/documents/privacy.html:32
 msgid "IP address and browser name"
 msgstr "Alamat IP dan nama peramban web"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:33
+#: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen"
@@ -245,11 +93,11 @@ msgstr ""
 "Ini dicatat jika ada perubahan penting pada akun Anda (seperti Perubahan "
 "kata sandi) untuk memungkinkan pemeriksaan seandainya akun Anda dicuri"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:35
+#: wllegal/templates/legal/documents/privacy.html:35
 msgid "Billing information"
 msgstr "Informasi penagihan"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:36
+#: wllegal/templates/legal/documents/privacy.html:36
 msgid ""
 "In case you purchase service from us, we collect additional billing "
 "information necessary for issuing an invoice"
@@ -257,15 +105,15 @@ msgstr ""
 "Jika Anda membeli layanan dari kami, kami mengumpulkan tambahan informasi "
 "penagihan yang diperlukan untuk menerbitkan faktur"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:40
+#: wllegal/templates/legal/documents/privacy.html:40
 msgid "Purpose and legal basis of processing Personal Data"
 msgstr "Tujuan dan dasar hukum pengolahan Data Pribadi"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:42
+#: wllegal/templates/legal/documents/privacy.html:42
 msgid "Your Personal Data will be used for the purposes of the Service:"
 msgstr "Data Pribadi Anda akan digunakan untuk keperluan Layanan:"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:46
+#: wllegal/templates/legal/documents/privacy.html:46
 #, python-format
 msgid ""
 "for providing our services on the Service, to contact you in matters "
@@ -280,7 +128,7 @@ msgstr ""
 "kewajiban kontraktual dan pra-kontraktual (<a href=\"%(url)s\">Pasal 6 (1) "
 "b. GDPR</a>)"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:47
+#: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
 msgid ""
 "to analyze your use of our services and improve our services (<a href="
@@ -289,7 +137,7 @@ msgstr ""
 "untuk menganalisis penggunaan Anda atas layanan kami dan meningkatkan "
 "layanan kami (<a href=\"%(url)s\">Pasal 6 (1) b. dan f. GDPR</a>)"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:48
+#: wllegal/templates/legal/documents/privacy.html:48
 #, python-format
 msgid ""
 "with your express consent or instruction to carry out our business "
@@ -300,11 +148,11 @@ msgstr ""
 "bisnis kami atau mengirimkan buletin kepada Anda (<a href=\"%(url)s\">Pasal "
 "6 (1) a. GDPR</a>)"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:51
+#: wllegal/templates/legal/documents/privacy.html:51
 msgid "Access to the Personal Data"
 msgstr "Akses ke Data Pribadi"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:53
+#: wllegal/templates/legal/documents/privacy.html:53
 msgid ""
 "The Controller has made all reasonable technical means to protect the "
 "Personal Data. Only authorized persons can access the Personal Data."
@@ -312,30 +160,30 @@ msgstr ""
 "Pengendali telah melakukan semua upaya teknis yang pantas untuk menjaga Data "
 "Pribadi. Hanya orang yang berwenang yang dapat mengakses Data Pribadi."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:55
+#: wllegal/templates/legal/documents/privacy.html:55
 msgid ""
 "Third parties which can gain access to the Personal Data when necessary are:"
 msgstr ""
 "Pihak ke-tiga yang dapat mendapatkan akses ke Data Pribadi bila diperlukan "
 "adalah:"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:58
+#: wllegal/templates/legal/documents/privacy.html:58
 msgid "Persons which are contracted for technical assurance of the service."
 msgstr "Orang yang dikontrak untuk jaminan teknis layanan."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:59
+#: wllegal/templates/legal/documents/privacy.html:59
 msgid "Payment processors."
 msgstr "Pemroses pembayaran."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:62
+#: wllegal/templates/legal/documents/privacy.html:62
 msgid "All Personal Data is stored in the European Union."
 msgstr "Semua Data Pribadi disimpan di Uni Eropa."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:64
+#: wllegal/templates/legal/documents/privacy.html:64
 msgid "The Personal Data retention"
 msgstr "Penyimpanan Data Pribadi"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:66
+#: wllegal/templates/legal/documents/privacy.html:66
 msgid ""
 "The Personal Data is stored in the Service until the User deletes their "
 "account on the service."
@@ -343,7 +191,7 @@ msgstr ""
 "Data Pribadi disimpan dalam Layanan sampai Pengguna menghapus akun mereka "
 "pada layanan."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:68
+#: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "Access log information might be collected for a longer period for the "
 "purpose of establishing, exercising or defending legal claims."
@@ -352,11 +200,11 @@ msgstr ""
 "lama yang ber tujuan untuk membangun, menjalankan, atau mempertahankan klaim "
 "hukum."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:70
+#: wllegal/templates/legal/documents/privacy.html:70
 msgid "Your rights"
 msgstr "Hak Anda"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:72
+#: wllegal/templates/legal/documents/privacy.html:72
 msgid ""
 "The User provides use of Personal Data voluntarily. Without this Personal "
 "Data Weblate is not able to provide our services."
@@ -364,7 +212,7 @@ msgstr ""
 "Pengguna menyediakan penggunaan Data Pribadi secara sukarela. Tanpa Data "
 "Pribadi ini, kami tidak dapat menyediakan layanan kami."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:74
+#: wllegal/templates/legal/documents/privacy.html:74
 msgid ""
 "We want you to always be in control of your Personal Data. To this end, you "
 "have certain rights that allow for it. Under certain conditions, you may:"
@@ -373,7 +221,7 @@ msgstr ""
 "tujuan ini, anda memiliki hak-hak tertentu yang memungkinkan untuk hal "
 "tersebut. Dalam kondisi tertentu, Anda dapat:"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:78
+#: wllegal/templates/legal/documents/privacy.html:78
 #, python-format
 msgid ""
 "Gain access to all your Personal Data that Weblate uses or processes, and "
@@ -383,25 +231,25 @@ msgstr ""
 "Weblate, dan bahkan dapatkan semua salinannya (<a href=\"%(url)s\">Pasal 15 "
 "GDPR</a>)"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:79
+#: wllegal/templates/legal/documents/privacy.html:79
 msgid ""
 "Correct the Personal Data that Weblate processes if you think that there are "
 "mistakes"
 msgstr "Perbaiki Data Pribadi yang diolah Weblate apabila dirasa ada kesalahan"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:80
+#: wllegal/templates/legal/documents/privacy.html:80
 msgid "Order us to delete your Personal Data"
 msgstr "Minta kami untuk menghapus Data Pribadi"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:81
+#: wllegal/templates/legal/documents/privacy.html:81
 msgid "Restrict the Personal Data processing"
 msgstr "Batasi pengolahan Data Pribadi"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:82
+#: wllegal/templates/legal/documents/privacy.html:82
 msgid "Object to processing"
 msgstr "Objek untuk diolah"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:83
+#: wllegal/templates/legal/documents/privacy.html:83
 msgid ""
 "Receive your Personal Data in a commonly used and machine-readable format or "
 "to transmit this Personal Data to a different provider."
@@ -410,14 +258,14 @@ msgstr ""
 "format yang dapat dibaca oleh mesin atau untuk dikirimkan pada penyedia "
 "lainnya."
 
-#: wlhosted/legal/templates/legal/documents/summary.html:4
+#: wllegal/templates/legal/documents/summary.html:4
 msgid ""
 "The services are provided “as is”, at your own risk, without any warranty."
 msgstr ""
 "Layanan diberikan \"sebagaimana adanya\", dengan risiko Anda sendiri, tanpa "
 "jaminan apapun."
 
-#: wlhosted/legal/templates/legal/documents/summary.html:5
+#: wllegal/templates/legal/documents/summary.html:5
 msgid ""
 "Additional guarantees might apply to commercial customers, those are "
 "expressed in corresponding contracts."
@@ -425,7 +273,7 @@ msgstr ""
 "Jaminan tambahan mungkin berlaku untuk pelanggan komersial, yang dinyatakan "
 "dalam kontrak masing-masing."
 
-#: wlhosted/legal/templates/legal/documents/summary.html:6
+#: wllegal/templates/legal/documents/summary.html:6
 msgid ""
 "We process private data (such as your e-mail address), those will be "
 "discarded from our database as soon as you remove your account."
@@ -433,7 +281,7 @@ msgstr ""
 "Kami mengolah data pribadi (seperti alamat surel Anda), dan akan dibuang "
 "dari basis data kami segera setelah Anda menghapus akun Anda."
 
-#: wlhosted/legal/templates/legal/documents/summary.html:7
+#: wllegal/templates/legal/documents/summary.html:7
 msgid ""
 "Your translations are made under license which is specified by each "
 "translation."
@@ -441,21 +289,21 @@ msgstr ""
 "Terjemahan Anda dibuat berdasarkan lisensi yang ditentukan oleh setiap "
 "terjemahan."
 
-#: wlhosted/legal/templates/legal/documents/summary.html:8
+#: wllegal/templates/legal/documents/summary.html:8
 msgid ""
 "Your name and e-mail address is used in VCS commits, it will stay there "
 "indefinitely."
 msgstr "Nama dan surel Anda digunakan di VCS, mereka akan tetap ada selamanya."
 
-#: wlhosted/legal/templates/legal/documents/summary.html:9
+#: wllegal/templates/legal/documents/summary.html:9
 msgid "We use cookies to deliver our services."
 msgstr "Kami menggunakan kuki untuk memberikan layanan kami."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:10
+#: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
 msgstr "Lihat versi Bahasa Inggris"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:11
+#: wllegal/templates/legal/documents/tos.html:11
 msgid ""
 "The Terms of Service document is authoritative in English, translations are "
 "provided for your convenience."
@@ -463,7 +311,7 @@ msgstr ""
 "Dokumen Persyaratan Layanan berkuasa dalam Bahasa Inggris, terjemahan "
 "disediakan untuk kenyamanan Anda."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:17
+#: wllegal/templates/legal/documents/tos.html:17
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these Terms of Service."
@@ -471,19 +319,19 @@ msgstr ""
 "Hak dan kewajiban dari Pengguna dan Penyedia yang dihasilkan dari penggunaan "
 "Layanan diatur oleh Persyaratan Layanan ini."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:20
+#: wllegal/templates/legal/documents/tos.html:20
 msgid "Definitions"
 msgstr "Definisi"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:22
+#: wllegal/templates/legal/documents/tos.html:22
 msgid "In these Terms of Service:"
 msgstr "Dalam Persyaratan Layanan ini:"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:26
+#: wllegal/templates/legal/documents/tos.html:26
 msgid "Agreement"
 msgstr "Perjanjian"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:27
+#: wllegal/templates/legal/documents/tos.html:27
 msgid ""
 "means License Agreement within the meaning of Article 2358 et seq. of the "
 "Civil Code concluded by and between the User and the Provider upon the "
@@ -492,21 +340,21 @@ msgstr ""
 "berarti Persetujuan Lisensi dalam arti Pasal 2358 et seq. dari Kode Sipil "
 "disimpulkan oleh dan antara Pengguna dan Penyedia atas Persetujuan"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:29
+#: wllegal/templates/legal/documents/tos.html:29
 msgid "Civil Code"
 msgstr "Kode Sipil"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:30
+#: wllegal/templates/legal/documents/tos.html:30
 #, python-format
 msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgstr ""
 "berarti UU No. %(law_89_2012)s Coll., Kode Sipil, sebagaimana diamandemenkan"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:32
+#: wllegal/templates/legal/documents/tos.html:32
 msgid "Consent"
 msgstr "Persetujuan"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:33
+#: wllegal/templates/legal/documents/tos.html:33
 msgid ""
 "means the User’s consent with these Terms of Service and other legal "
 "documents expressed by checking the checkbox during the registration"
@@ -515,12 +363,12 @@ msgstr ""
 "hukum lainnya dinyatakan dengan mencentang kotak centang pada saat "
 "pendaftaran"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:35
-#: wlhosted/legal/templates/legal/documents/tos.html:131
+#: wllegal/templates/legal/documents/tos.html:35
+#: wllegal/templates/legal/documents/tos.html:131
 msgid "Cookies"
 msgstr "Kuki"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:36
+#: wllegal/templates/legal/documents/tos.html:36
 msgid ""
 "means any datafile sent by the web server of the Service to the User’s "
 "computer or other device connected to the Internet, which enable obtaining "
@@ -530,11 +378,11 @@ msgstr ""
 "Pengguna atau perangkat lalin yang tersambung internet, yang memungkinkan "
 "perolehan identifikasi unik dari peramban web yang digunakan oleh Pengguna"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:39
+#: wllegal/templates/legal/documents/tos.html:39
 msgid "GDPR"
 msgstr "GDPR"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:40
+#: wllegal/templates/legal/documents/tos.html:40
 #, python-format
 msgid ""
 "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
@@ -542,11 +390,11 @@ msgid ""
 msgstr ""
 "berarti Regulasi UE No. %(law_679_2016)s, Regulasi Perlindungan Data Umum"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:42
+#: wllegal/templates/legal/documents/tos.html:42
 msgid "License"
 msgstr "Lisensi"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:43
+#: wllegal/templates/legal/documents/tos.html:43
 msgid ""
 "means non-exclusive license granted by the Provider to the User for use of "
 "the Service"
@@ -554,21 +402,21 @@ msgstr ""
 "berarti lisensi non eksklusif yang diberikan oleh Penyedia kepada Pengguna "
 "untuk penggunaan Layanan"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:45
+#: wllegal/templates/legal/documents/tos.html:45
 msgid "Provider"
 msgstr "Penyedia"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:46
+#: wllegal/templates/legal/documents/tos.html:46
 #, python-format
 msgid "means %(provider)s, Reg. No. %(reg_no)s"
 msgstr "berarti %(provider)s, Reg. No. %(reg_no)s"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:48
-#: wlhosted/legal/templates/legal/documents/tos.html:98
+#: wllegal/templates/legal/documents/tos.html:48
+#: wllegal/templates/legal/documents/tos.html:98
 msgid "Personal Data"
 msgstr "Data Pribadi"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:49
+#: wllegal/templates/legal/documents/tos.html:49
 #, python-format
 msgid ""
 "means personal data within the meaning of EU Regulation No. %(law_679_2016)s "
@@ -577,47 +425,47 @@ msgstr ""
 "berarti data pribadi dalam arti Regulasi UE No. %(law_679_2016)s dimasukkan "
 "oleh Pengguna ke dalam Layanan dan atau kuki"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:51
+#: wllegal/templates/legal/documents/tos.html:51
 msgid "Owner"
 msgstr "Pemilik"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:52
+#: wllegal/templates/legal/documents/tos.html:52
 msgid "means the User who can manage Project"
 msgstr "berarti Pengguna yang dapat mengatur Proyek"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:54
+#: wllegal/templates/legal/documents/tos.html:54
 msgid "Project"
 msgstr "Proyek"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:55
+#: wllegal/templates/legal/documents/tos.html:55
 msgid "means translation project operated on the Service"
 msgstr "berarti proyek terjemahan yang dioperasikan pada Layanan"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:57
+#: wllegal/templates/legal/documents/tos.html:57
 msgid "Service"
 msgstr "Layanan"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:58
+#: wllegal/templates/legal/documents/tos.html:58
 msgid ""
 "means the website and services based on Weblate operated by the Provider"
 msgstr ""
 "berarti situs web dan layanan berdasarkan Weblate yang dioperasikan oleh "
 "Penyedia"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:60
+#: wllegal/templates/legal/documents/tos.html:60
 msgid "Translation Memory"
 msgstr "Memori penerjemahan"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:61
+#: wllegal/templates/legal/documents/tos.html:61
 msgid "means the optional translation memory service provided within Weblate"
 msgstr ""
 "berarti layanan memori penerjemahan opsional yang disediakan dalam Weblate"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:63
+#: wllegal/templates/legal/documents/tos.html:63
 msgid "User"
 msgstr "Pengguna"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:64
+#: wllegal/templates/legal/documents/tos.html:64
 msgid ""
 "means any legal entity or an individual other than the Provider, who is "
 "using the Service"
@@ -625,11 +473,11 @@ msgstr ""
 "berarti setiap badan hukum atau individu selain dari Penyedia, yang "
 "menggunakan Layanan"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:66
+#: wllegal/templates/legal/documents/tos.html:66
 msgid "VCS"
 msgstr "VCS"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:67
+#: wllegal/templates/legal/documents/tos.html:67
 msgid ""
 "means distributed version control system used by the Project such as Git or "
 "Mercurial"
@@ -637,11 +485,11 @@ msgstr ""
 "berarti sistem kontrol versi terdistribusi yang digunakan oleh Proyek "
 "seperti Git atau Mercurial"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:71
+#: wllegal/templates/legal/documents/tos.html:71
 msgid "License Agreement Conclusion"
 msgstr "Kesimpulan Perjanjian Lisensi"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:73
+#: wllegal/templates/legal/documents/tos.html:73
 msgid ""
 "The License Agreement is concluded upon the User’s Acceptance of the "
 "Provider’s Offer."
@@ -649,11 +497,11 @@ msgstr ""
 "Perjanjian Lisensi disimpulkan setelah Penerimaan Pengguna atas Penawaran "
 "Penyedia."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:76
+#: wllegal/templates/legal/documents/tos.html:76
 msgid "License Agreement"
 msgstr "Perjanjian Lisensi"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:78
+#: wllegal/templates/legal/documents/tos.html:78
 msgid ""
 "By concluding Agreement under Article 2.1 of this Agreement, the following "
 "provisions of this Article 3 of the Terms of Service come into force."
@@ -661,7 +509,7 @@ msgstr ""
 "Dengan menyimpulkan Perjanjian berdasarkan Pasal 2.1 dari Perjanjian ini, "
 "ketentuan dari Pasal 3 dari Persyaratan Layanan ini mulai berlaku."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:80
+#: wllegal/templates/legal/documents/tos.html:80
 msgid ""
 "The Provider presents the User with a License Agreement and the User accepts "
 "this License Agreement, all this under the terms and conditions stated in "
@@ -671,7 +519,7 @@ msgstr ""
 "Perjanjian Lisensi ini, semua ini berdasarkan syarat dan ketentuan yang "
 "tercantum dalam Persyaratan Layanan ini."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:82
+#: wllegal/templates/legal/documents/tos.html:82
 msgid ""
 "The Provider shall have the right to shut down, adjust, modify or make the "
 "Service unavailable on the web address at any time."
@@ -679,7 +527,7 @@ msgstr ""
 "Penyedia berhak untuk sewaktu-waktu menutup, menyesuaikan, memodifikasi,atau "
 "menjadikan Layanan tidak tersedia pada alamat web."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:84
+#: wllegal/templates/legal/documents/tos.html:84
 msgid ""
 "The User agrees to use the Service only in a manner not jeopardizing "
 "technical software and/or hardware means of the Provider and/or such means "
@@ -689,7 +537,7 @@ msgstr ""
 "membahayakan perangkat lunak teknis dan atau perangkat keras dari Penyedia "
 "dan atau cara semacam itu dalam penggunaan Penyedia."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:86
+#: wllegal/templates/legal/documents/tos.html:86
 msgid ""
 "The User agrees to refrain from use of the Service in bad faith and/or "
 "deliberately causing any damage to the Service."
@@ -698,7 +546,7 @@ msgstr ""
 "Layanan dan atau dengan sengaja menyebabkan segala macam kerusakan pada "
 "Layanan."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:88
+#: wllegal/templates/legal/documents/tos.html:88
 msgid ""
 "The User agrees to refrain from bypassing the Service’s software and/or "
 "technical hardware means, in particular the security systems."
@@ -706,11 +554,11 @@ msgstr ""
 "Pengguna menyetujui untuk menjauhkan diri dari menghindari perangkat lunak "
 "dan atau perangkat keras teknis Layanan, khususnya sistem keamanan."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:91
+#: wllegal/templates/legal/documents/tos.html:91
 msgid "Liability for Damage"
 msgstr "Tanggung jawab atas Kerusakan"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:93
+#: wllegal/templates/legal/documents/tos.html:93
 msgid ""
 "The User hereby renders it undisputed that the Provider shall not be liable "
 "for any damage caused to the User resulting from the use of the Service."
@@ -719,7 +567,7 @@ msgstr ""
 "bertanggung jawab atas segala kerusakan yang terjadi pada Pengguna yang "
 "diakibatkan oleh penggunaan Layanan."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:95
+#: wllegal/templates/legal/documents/tos.html:95
 msgid ""
 "If the User is an entrepreneur, it hereby expressly waives its right to "
 "compensation from the Provider for damage unintentionally caused by the "
@@ -732,7 +580,7 @@ msgstr ""
 "ada di dalam Persyaratan Layanan ini dan atau dihasilkan dari penggunaan "
 "Layanan."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:101
+#: wllegal/templates/legal/documents/tos.html:101
 #, python-format
 msgid ""
 "Within the meaning of <a href=\"%(url)s\">Article 7</a> of the GDPR the User "
@@ -752,7 +600,7 @@ msgstr ""
 "Penyedia, dan atau mitra bisnis resmi Penyedia. Persetujuan ini diberikan "
 "selama pengguna tidak menghapus akun mereka dari Layanan."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:103
+#: wllegal/templates/legal/documents/tos.html:103
 #, python-format
 msgid ""
 "The purpose of the processing of Personal Data as determined by the Provider "
@@ -765,13 +613,13 @@ msgid ""
 msgstr ""
 "Tujuan pengolahan Data Pribadi sebagaimana ditentukan oleh Penyedia adalah "
 "penggunaan Data Pribadi untuk mengirim komunikasi komersil kepada subjek "
-"data (Pengguna) melalui sarana elektronik berdasarkan UU No. %(law_480_2004)"
-"s Coll., mengenai layanan tertentu dari masyarakat informasi, sebagaimana "
-"diamandemenkan, dan selanjutnya untuk kebutuhan pemasaran dan bisnis dari "
-"mitra kontraktual Penyedia dan untuk tujuan statistik dan atau kegiatan "
-"pemasaran dari Penyedia."
+"data (Pengguna) melalui sarana elektronik berdasarkan UU No. "
+"%(law_480_2004)s Coll., mengenai layanan tertentu dari masyarakat informasi, "
+"sebagaimana diamandemenkan, dan selanjutnya untuk kebutuhan pemasaran dan "
+"bisnis dari mitra kontraktual Penyedia dan untuk tujuan statistik dan atau "
+"kegiatan pemasaran dari Penyedia."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:105
+#: wllegal/templates/legal/documents/tos.html:105
 msgid ""
 "If the User directly and effectively informs the Provider of no longer "
 "wishing to receive business information from the Provider, the Provider "
@@ -781,7 +629,7 @@ msgstr ""
 "ketidakbersediaannya menerima informasi bisnis dari Penyedia, maka Penyedia "
 "akan berhenti mengirimkan lebih lanjut komunikasi bisnis yang tidak diminta."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:109
+#: wllegal/templates/legal/documents/tos.html:109
 #, python-format
 msgid ""
 "The User declares awareness of own rights under <a href=\"%(url_15)s"
@@ -789,12 +637,12 @@ msgid ""
 "declares that all the Personal Data is accurate and true and has been "
 "provided voluntarily."
 msgstr ""
-"Pengguna menyatakan kesadaran akan hak pribadinya berdasarkan <a href=\""
-"%(url_15)s\">Pasal 15</a> dan <a href=\"%(url_17)s\">Pasal 17</a> dari GDPR "
-"dan menyatakan bahwa semua Data Pribadi akurat dan benar, serta telah "
+"Pengguna menyatakan kesadaran akan hak pribadinya berdasarkan <a href="
+"\"%(url_15)s\">Pasal 15</a> dan <a href=\"%(url_17)s\">Pasal 17</a> dari "
+"GDPR dan menyatakan bahwa semua Data Pribadi akurat dan benar, serta telah "
 "diberikan secara sukarela."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:111
+#: wllegal/templates/legal/documents/tos.html:111
 msgid ""
 "The Provider declares that it will collect Personal Data only in the extent "
 "necessary for meeting the above-specified purpose and process the Personal "
@@ -811,7 +659,7 @@ msgstr ""
 "dengan Penyedia akan menjaga kerahasiaan dari Data Pribadi, bahkan setelah "
 "pemutusan hubungan kerja atau hubungan bisnis dengan Penyedia."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:113
+#: wllegal/templates/legal/documents/tos.html:113
 msgid ""
 "The Provider declares that it will process the Personal Data by electronic "
 "means (automatically) via computer programs for which the Provider has "
@@ -821,7 +669,7 @@ msgstr ""
 "(otomatis) melalui program komputer yang mana Penyedia telah memiliki hak "
 "dalam penggunaannya, khususnya Layanan."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:115
+#: wllegal/templates/legal/documents/tos.html:115
 msgid ""
 "The User’s consent under this Article 5 of the Terms of Service constitutes "
 "a free and informed juridical act which concerns the consent of the subject "
@@ -831,11 +679,11 @@ msgstr ""
 "tindakan yuridis yang bebas dan dimaklumi yang terkait dengan kesadaran "
 "subjek data (Pengguna) dengan pengolahan Data Pribadi."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:118
+#: wllegal/templates/legal/documents/tos.html:118
 msgid "Translations"
 msgstr "Penerjemahan"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:120
+#: wllegal/templates/legal/documents/tos.html:120
 msgid ""
 "The Service organizes translation into individual Projects, where the Owner "
 "is responsible for managing them and for specifying accurately the license "
@@ -845,7 +693,7 @@ msgstr ""
 "bertanggung jawab untuk mengatur mereka dan menentukan secara tepat lisensi "
 "Proyek."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:122
+#: wllegal/templates/legal/documents/tos.html:122
 msgid ""
 "Not specifying translation license means that the translations are available "
 "under same license as the given Project itself."
@@ -853,7 +701,7 @@ msgstr ""
 "Tidak menentukan lisensi terjemahan berarti bahwa terjemahan tersebut "
 "tersedia berdasarkan lisensi yang sama dengan Proyek itu sendiri."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:124
+#: wllegal/templates/legal/documents/tos.html:124
 msgid ""
 "Should the Project opt in for the Translation Memory, license to use the "
 "translation is granted to all Translation Memory users."
@@ -861,7 +709,7 @@ msgstr ""
 "Jika proyek memilih Memori Penerjemahan, lisensi untuk menggunakan untuk "
 "menggunakan terjemahan diberikan pada semua pengguna Memori Penerjemahan."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:126
+#: wllegal/templates/legal/documents/tos.html:126
 msgid ""
 "The User agrees, upon contributing to a Project, to the license the Project "
 "has specified."
@@ -869,7 +717,7 @@ msgstr ""
 "Pengguna menyetujui, ketika memberikan kontribusi pada sebuah Proyek, "
 "lisensi yang telah dispesifikasikan oleh Proyek."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:128
+#: wllegal/templates/legal/documents/tos.html:128
 msgid ""
 "The User agrees to use of own name and e-mail as authorship in the VCS "
 "commits. The User understands that this grant is non revocable due to nature "
@@ -879,7 +727,7 @@ msgstr ""
 "kepengarangan pada commit VCS. Pengguna memahami bahwa hibah ini tidak dapat "
 "dibatalkan karena sifat VCS."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:133
+#: wllegal/templates/legal/documents/tos.html:133
 #, python-format
 msgid ""
 "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
@@ -890,18 +738,18 @@ msgstr ""
 "elektronik, sebagaimana diamendemenkan, Pengguna diberi informasi bahwa "
 "Layanan menggunakan kuki."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:135
+#: wllegal/templates/legal/documents/tos.html:135
 msgid ""
 "The Service uses cookies to personalise content, and to analyse our traffic."
 msgstr ""
 "Layanan menggunakan kuki untuk personalisasi konten, dan untuk menganalisis "
 "lalu lintas kami."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:138
+#: wllegal/templates/legal/documents/tos.html:138
 msgid "Governing Law"
 msgstr "Hukum yang Mengatur"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:140
+#: wllegal/templates/legal/documents/tos.html:140
 msgid ""
 "These Terms of Service shall be governed by the laws of the Czech Republic "
 "with exclusion of conflict rules."
@@ -909,7 +757,7 @@ msgstr ""
 "Persyaratan Layanan ini akan diatur oleh hukum Republik Ceko dengan "
 "mengesampingkan peraturan konflik."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:142
+#: wllegal/templates/legal/documents/tos.html:142
 msgid ""
 "Any disputes arising on the basis of the Agreement and/or these Terms of "
 "Service shall be resolved by the court of the Czech republic having "
@@ -919,209 +767,287 @@ msgstr ""
 "Persyaratan Layanan ini harus diselesaikan secara hukum oleh pengadilan "
 "Republik Ceko yang memiliki yuridiksi substansif dan lokal."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:145
+#: wllegal/templates/legal/documents/tos.html:145
 msgid "Effect"
 msgstr "Berlaku"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:147
+#: wllegal/templates/legal/documents/tos.html:147
 msgid ""
 "These Terms of Service shall come into force and effect on 1st September "
 "2017."
 msgstr "Persyaratan Layanan ini mulai berlaku pada 1 September 2017."
 
-#: wlhosted/payments/backends.py:188
-msgid "Your payment on weblate.org"
-msgstr "Pembayaran Anda pada weblate.org"
+#~ msgid "Generate Unknown Horizons scenario data"
+#~ msgstr "Hasilkan data skenario Unknown Horizons"
 
-#: wlhosted/payments/backends.py:190
-#, python-format
-msgid ""
-"Hello,\n"
-"\n"
-"Thank you for your payment on weblate.org.\n"
-"\n"
-"You will find an invoice for this payment attached.\n"
-"Alternatively, you can download it from the website:\n"
-"\n"
-"%s\n"
-msgstr ""
-"Halo,\n"
-"\n"
-"Terima kasih atas pembayaran Anda pada weblate.org\n"
-"\n"
-"Anda dapat menemukan faktur untuk pembayaran ini dalam lampiran.\n"
-"Atau, Anda dapat mengunduhnya dari situs web:\n"
-"\n"
-"%s\n"
+#~ msgid "Reset repository to upstream"
+#~ msgstr "Reset repositori ke upstream"
 
-#: wlhosted/payments/backends.py:216
-msgid "Your payment on weblate.org failed"
-msgstr "Pembayaran Anda pada weblate.org gagal"
+#~ msgid "Reset all changes in the local repository"
+#~ msgstr "Reset semua perubahan di repositori lokal"
 
-#: wlhosted/payments/backends.py:218
-#, python-format
-msgid ""
-"Hello,\n"
-"\n"
-"Your payment on weblate.org has failed.\n"
-"\n"
-"%s\n"
-"\n"
-"Retry issuing the payment on the website:\n"
-"\n"
-"%s\n"
-"\n"
-"If concerning a recurring payment, it is retried three times,\n"
-"and if still failing, cancelled.\n"
-msgstr ""
-"Halo,\n"
-"\n"
-"Pembayaran Anda pada weblate.org gagal.\n"
-"\n"
-"%s\n"
-"\n"
-"Ulangi pembayaran pada situs web:\n"
-"\n"
-"%s\n"
-"\n"
-"Apabila terkait dengan pembayaran berulang, dibatalkan apabila tetap gagal\n"
-"setelah diulangi sebanyak tiga kali.\n"
+#~ msgid "Billing"
+#~ msgstr "Penagihan"
 
-#: wlhosted/payments/backends.py:251
-msgid "Your pending payment on weblate.org"
-msgstr "Pembayaran Anda pada weblate.org yang tertunda"
+#~ msgid "Choose the billing plan you want to update"
+#~ msgstr "Pilih plan penagihan yang ingin Anda perbarui"
 
-#: wlhosted/payments/backends.py:253
-msgid ""
-"Hello,\n"
-"\n"
-"Your payment on weblate.org is pending. Please follow the provided\n"
-"instructions to complete the payment.\n"
-msgstr ""
-"Halo,\n"
-"\n"
-"Pembayaran Anda pada weblate.org masih tertunda. Harap mengikuti\n"
-"petunjuk yang disediakan untuk menyelesaikan pembayaran.\n"
+#~ msgid "Create new billing plan"
+#~ msgstr "Buat plan penagihan baru"
 
-#: wlhosted/payments/backends.py:335
-msgid "Payment card"
-msgstr "Kartu pembayaran"
+#~ msgid "Create billing plan"
+#~ msgstr "Buat plan penagihan"
 
-#: wlhosted/payments/backends.py:411
-msgid "Payment cancelled"
-msgstr "Pembayaran dibatalkan"
+#~ msgid "New billing plan"
+#~ msgstr "Plan penagihan baru"
 
-#: wlhosted/payments/backends.py:413
-msgid "Payment error"
-msgstr "Kesalahan pembayaran"
+#~ msgid "Please choose a hosting plan that fits the size of your project."
+#~ msgstr "Silakan memilih plan hosting yang sesuai dengan proyek Anda."
 
-#: wlhosted/payments/backends.py:425
-msgid "Bitcoin"
-msgstr "Bitcoin"
+#~ msgid "Current billing status"
+#~ msgstr "Status penagihan saat ini"
 
-#: wlhosted/payments/backends.py:434
-msgid "IBAN bank transfer"
-msgstr "Transfer bank melalui IBAN"
+#~ msgid "Too small for your project."
+#~ msgstr "Terlalu kecil untuk proyek Anda."
 
-#: wlhosted/payments/backends.py:464
-msgid "Issuing bank"
-msgstr "Bank yang menerbitkan"
+#~ msgid "Too small"
+#~ msgstr "Terlalu kecil"
 
-#: wlhosted/payments/backends.py:465
-msgid "Account holder"
-msgstr "Nama pemegang rekening"
+#~ msgid "Selected plan"
+#~ msgstr "Plan terpilih"
 
-#: wlhosted/payments/backends.py:466
-msgid "Account number"
-msgstr "Nomor rekeniing"
+#~ msgid "Current plan"
+#~ msgstr "Plan saat ini"
 
-#: wlhosted/payments/backends.py:467
-msgid "SWIFT code"
-msgstr "Kode SWIFT"
+#~ msgid "Strings limit"
+#~ msgstr "Batas string"
 
-#: wlhosted/payments/backends.py:468
-msgid "IBAN"
-msgstr "IBAN"
+#~ msgid "Unlimited"
+#~ msgstr "Tidak terbatas"
 
-#: wlhosted/payments/backends.py:469
-msgid "Reference"
-msgstr "Referensi"
+#~ msgid "Languages limit"
+#~ msgstr "Batasan bahasa"
 
-#: wlhosted/payments/models.py:83
-msgid "European VAT ID"
-msgstr "ID VAT Eropa"
+#~ msgid "Component limit"
+#~ msgstr "Batasan komponen"
 
-#: wlhosted/payments/models.py:85
-msgid "Please fill in European Union VAT ID, leave blank if not applicable."
-msgstr "Silakan mengisi ID VAT Uni Eropa, kosongkan bila tidak berlaku."
+#~ msgid "Projects limit"
+#~ msgstr "Batas proyek"
 
-#: wlhosted/payments/models.py:91
-msgid "Tax registration"
-msgstr "Registrasi pajak"
+#~ msgid "%(price)s EUR / month"
+#~ msgstr "%(price)s EUR / bulan"
 
-#: wlhosted/payments/models.py:93
-msgid ""
-"Please fill in your tax registration if it should appear on the invoice."
-msgstr ""
-"Silakan mengisi registrasi pajak Anda apabila akan dimunculkan pada faktur."
+#~ msgid "%(price)s EUR including VAT"
+#~ msgstr "%(price)s EUR termasuk VAT"
 
-#: wlhosted/payments/models.py:100
-msgid "Company or individual name"
-msgstr "Perusahaan atau individu"
+#~ msgid "%(price)s EUR / year"
+#~ msgstr "%(price)s EUR / tahun"
 
-#: wlhosted/payments/models.py:103
-msgid "Address"
-msgstr "Alamat"
+#~ msgid ""
+#~ "Pricing is based on the number of source strings and target languages. "
+#~ "The source string is a text unit defined in a translation format, it can "
+#~ "be a word, sentence or paragraph."
+#~ msgstr ""
+#~ "Harga berdasarkan jumlah string sumber dan bahasa target. String sumber "
+#~ "adalah unit teks yang ditetapkan dalam format terjemahan, dapat berupa "
+#~ "kata, kalimat, atau paragraf."
 
-#: wlhosted/payments/models.py:106
-msgid "Postcode and city"
-msgstr "Kode pos dan kota"
+#~ msgid "All listed prices exclude VAT."
+#~ msgstr "Semua harga tercantum tidak termasuk VAT."
 
-#: wlhosted/payments/models.py:108
-msgid "Country"
-msgstr "Negara"
+#~ msgid ""
+#~ "EU end users and Czech companies will be charged with additional 21%% VAT."
+#~ msgstr ""
+#~ "Pengguna akhir EU dan perusahaan Republik Ceko akan dikenakan tambahan 21%"
+#~ "% VAT."
 
-#: wlhosted/payments/models.py:136
-msgid "The country has to match your VAT code"
-msgstr "Negara harus sesuai dengan kode VAT Anda"
+#~ msgid ""
+#~ "The reverse charge applies to invoices issued to businesses within the EU."
+#~ msgstr ""
+#~ "Pengembalian dana berlaku pada faktur yang dikeluarkan untuk bisnis yang "
+#~ "berada di UE."
 
-#: wlhosted/payments/models.py:159
-msgid "Annual"
-msgstr "Tahunan"
+#~ msgid "No matching payment found."
+#~ msgstr "Tidak ditemukan pembayaran yang cocok."
 
-#: wlhosted/payments/models.py:160
-msgid "Biannual"
-msgstr "Dua kali setahun"
+#~ msgid "Thank you for purchasing a hosting plan, it is now active."
+#~ msgstr "Terima kasih atas pembelian plan hosting, sekarang sudah aktif."
 
-#: wlhosted/payments/models.py:161
-msgid "Quarterly"
-msgstr "Triwulanan"
+#~ msgid ""
+#~ "Thank you for purchasing a hosting plan, the payment for it is pending "
+#~ "and will be processed in the background."
+#~ msgstr ""
+#~ "Terima kasih atas pembelian plan hosting, pembayaran masih tertunda dan "
+#~ "akan diproses di latar belakang."
 
-#: wlhosted/payments/models.py:162
-msgid "Monthly"
-msgstr "Bulanan"
+#~ msgid "The payment was rejected: {}"
+#~ msgstr "Pembayaran ditolak: {}"
 
-#: wlhosted/payments/models.py:163
-msgid "Onetime"
-msgstr "Satu kali"
+#~ msgid "Unknown reason"
+#~ msgstr "Alasan tidak diketahui"
 
-#: wlhosted/payments/validators.py:38
-msgid "{} is not a valid country code for any European Union member."
-msgstr "{} bukan kode negara yang sah untuk negara anggota Uni Eropa."
+#~ msgid "Payments are temporarily inactive."
+#~ msgstr "Pembayaran untuk sementara tidak aktif."
 
-#: wlhosted/payments/validators.py:43
-msgid "{} does not match the country's VAT ID specifications."
-msgstr "{} tidak sesuai dengan spesifikasi ID VAT negara yang bersangkutan."
+#~ msgid "Your payment on weblate.org"
+#~ msgstr "Pembayaran Anda pada weblate.org"
 
-#: wlhosted/payments/validators.py:50
-msgid "VAT ID validation service unavailable for {}, please try again later."
-msgstr ""
-"Layanan validasi ID VAT tidak tersedia untuk {}, silakan coba beberapa saat "
-"lagi."
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "Thank you for your payment on weblate.org.\n"
+#~ "\n"
+#~ "You will find an invoice for this payment attached.\n"
+#~ "Alternatively, you can download it from the website:\n"
+#~ "\n"
+#~ "%s\n"
+#~ msgstr ""
+#~ "Halo,\n"
+#~ "\n"
+#~ "Terima kasih atas pembayaran Anda pada weblate.org\n"
+#~ "\n"
+#~ "Anda dapat menemukan faktur untuk pembayaran ini dalam lampiran.\n"
+#~ "Atau, Anda dapat mengunduhnya dari situs web:\n"
+#~ "\n"
+#~ "%s\n"
 
-#: wlhosted/payments/validators.py:53
-msgid "{} is not a valid VAT ID."
-msgstr "{} bukan ID VAT yang valid."
+#~ msgid "Your payment on weblate.org failed"
+#~ msgstr "Pembayaran Anda pada weblate.org gagal"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "Your payment on weblate.org has failed.\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Retry issuing the payment on the website:\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "If concerning a recurring payment, it is retried three times,\n"
+#~ "and if still failing, cancelled.\n"
+#~ msgstr ""
+#~ "Halo,\n"
+#~ "\n"
+#~ "Pembayaran Anda pada weblate.org gagal.\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Ulangi pembayaran pada situs web:\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Apabila terkait dengan pembayaran berulang, dibatalkan apabila tetap "
+#~ "gagal\n"
+#~ "setelah diulangi sebanyak tiga kali.\n"
+
+#~ msgid "Your pending payment on weblate.org"
+#~ msgstr "Pembayaran Anda pada weblate.org yang tertunda"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "Your payment on weblate.org is pending. Please follow the provided\n"
+#~ "instructions to complete the payment.\n"
+#~ msgstr ""
+#~ "Halo,\n"
+#~ "\n"
+#~ "Pembayaran Anda pada weblate.org masih tertunda. Harap mengikuti\n"
+#~ "petunjuk yang disediakan untuk menyelesaikan pembayaran.\n"
+
+#~ msgid "Payment card"
+#~ msgstr "Kartu pembayaran"
+
+#~ msgid "Payment cancelled"
+#~ msgstr "Pembayaran dibatalkan"
+
+#~ msgid "Payment error"
+#~ msgstr "Kesalahan pembayaran"
+
+#~ msgid "Bitcoin"
+#~ msgstr "Bitcoin"
+
+#~ msgid "IBAN bank transfer"
+#~ msgstr "Transfer bank melalui IBAN"
+
+#~ msgid "Issuing bank"
+#~ msgstr "Bank yang menerbitkan"
+
+#~ msgid "Account holder"
+#~ msgstr "Nama pemegang rekening"
+
+#~ msgid "Account number"
+#~ msgstr "Nomor rekeniing"
+
+#~ msgid "SWIFT code"
+#~ msgstr "Kode SWIFT"
+
+#~ msgid "IBAN"
+#~ msgstr "IBAN"
+
+#~ msgid "Reference"
+#~ msgstr "Referensi"
+
+#~ msgid "European VAT ID"
+#~ msgstr "ID VAT Eropa"
+
+#~ msgid "Please fill in European Union VAT ID, leave blank if not applicable."
+#~ msgstr "Silakan mengisi ID VAT Uni Eropa, kosongkan bila tidak berlaku."
+
+#~ msgid "Tax registration"
+#~ msgstr "Registrasi pajak"
+
+#~ msgid ""
+#~ "Please fill in your tax registration if it should appear on the invoice."
+#~ msgstr ""
+#~ "Silakan mengisi registrasi pajak Anda apabila akan dimunculkan pada "
+#~ "faktur."
+
+#~ msgid "Company or individual name"
+#~ msgstr "Perusahaan atau individu"
+
+#~ msgid "Address"
+#~ msgstr "Alamat"
+
+#~ msgid "Postcode and city"
+#~ msgstr "Kode pos dan kota"
+
+#~ msgid "Country"
+#~ msgstr "Negara"
+
+#~ msgid "The country has to match your VAT code"
+#~ msgstr "Negara harus sesuai dengan kode VAT Anda"
+
+#~ msgid "Annual"
+#~ msgstr "Tahunan"
+
+#~ msgid "Biannual"
+#~ msgstr "Dua kali setahun"
+
+#~ msgid "Quarterly"
+#~ msgstr "Triwulanan"
+
+#~ msgid "Monthly"
+#~ msgstr "Bulanan"
+
+#~ msgid "Onetime"
+#~ msgstr "Satu kali"
+
+#~ msgid "{} is not a valid country code for any European Union member."
+#~ msgstr "{} bukan kode negara yang sah untuk negara anggota Uni Eropa."
+
+#~ msgid "{} does not match the country's VAT ID specifications."
+#~ msgstr "{} tidak sesuai dengan spesifikasi ID VAT negara yang bersangkutan."
+
+#~ msgid ""
+#~ "VAT ID validation service unavailable for {}, please try again later."
+#~ msgstr ""
+#~ "Layanan validasi ID VAT tidak tersedia untuk {}, silakan coba beberapa "
+#~ "saat lagi."
+
+#~ msgid "{} is not a valid VAT ID."
+#~ msgstr "{} bukan ID VAT yang valid."
 
 #~ msgid "Repositories limit"
 #~ msgstr "Batasan repositori"

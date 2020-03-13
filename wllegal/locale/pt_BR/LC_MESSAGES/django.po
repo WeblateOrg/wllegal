@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2019-12-15 12:07+0000\n"
+"POT-Creation-Date: 2020-03-13 08:42+0000\n"
 "PO-Revision-Date: 2019-10-20 19:20+0000\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
@@ -19,158 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.9.1-dev\n"
 
-#: wlhosted/addons.py:37 wlhosted/addons.py:38
-msgid "Generate Unknown Horizons scenario data"
-msgstr "Gerar dados de cenário de Unknown Horizons"
-
-#: wlhosted/addons.py:60
-msgid "Reset repository to upstream"
-msgstr "Redefinir repositório para upstream"
-
-#: wlhosted/addons.py:61
-msgid "Reset all changes in the local repository"
-msgstr "Redefinir todas as alterações no repositório local"
-
-#: wlhosted/integrations/forms.py:35
-msgid "Billing"
-msgstr "Cobrança"
-
-#: wlhosted/integrations/forms.py:36
-msgid "Choose the billing plan you want to update"
-msgstr "Escolha o plano de cobrança que você deseja atualizar"
-
-#: wlhosted/integrations/forms.py:37
-msgid "Create new billing plan"
-msgstr "Criar novo plano de cobrança"
-
-#: wlhosted/integrations/templates/hosted/create.html:7
-msgid "Create billing plan"
-msgstr "Criar plano de cobrança"
-
-#: wlhosted/integrations/templates/hosted/create.html:16
-msgid "New billing plan"
-msgstr "Novo plano de cobrança"
-
-#: wlhosted/integrations/templates/hosted/create.html:19
-msgid "Please choose a hosting plan that fits the size of your project."
-msgstr "Escolha um plano de hospedagem adequado para o tamanho de seu projeto."
-
-#: wlhosted/integrations/templates/hosted/create.html:25
-msgid "Current billing status"
-msgstr "Status atual de cobrança"
-
-#: wlhosted/integrations/templates/hosted/create.html:46
-msgid "Too small for your project."
-msgstr "Pequeno demais para seu projeto."
-
-#: wlhosted/integrations/templates/hosted/create.html:46
-msgid "Too small"
-msgstr "Pequeno demais"
-
-#: wlhosted/integrations/templates/hosted/create.html:48
-msgid "Selected plan"
-msgstr "Plano selecionado"
-
-#: wlhosted/integrations/templates/hosted/create.html:50
-msgid "Current plan"
-msgstr "Plano atual"
-
-#: wlhosted/integrations/templates/hosted/create.html:55
-msgid "Strings limit"
-msgstr "Limites do texto"
-
-#: wlhosted/integrations/templates/hosted/create.html:56
-#: wlhosted/integrations/templates/hosted/create.html:59
-#: wlhosted/integrations/templates/hosted/create.html:62
-#: wlhosted/integrations/templates/hosted/create.html:65
-msgid "Unlimited"
-msgstr "Ilimitados"
-
-#: wlhosted/integrations/templates/hosted/create.html:58
-msgid "Languages limit"
-msgstr "Limite de idiomas"
-
-#: wlhosted/integrations/templates/hosted/create.html:61
-msgid "Component limit"
-msgstr "Limite de componentes"
-
-#: wlhosted/integrations/templates/hosted/create.html:64
-msgid "Projects limit"
-msgstr "Limite do projetos"
-
-#: wlhosted/integrations/templates/hosted/create.html:77
-#, python-format
-msgid "%(price)s EUR / month"
-msgstr "%(price)s EUR / mês"
-
-#: wlhosted/integrations/templates/hosted/create.html:78
-#: wlhosted/integrations/templates/hosted/create.html:84
-#, python-format
-msgid "%(price)s EUR including VAT"
-msgstr "%(price)s EUR incluindo IVA (VAT)"
-
-#: wlhosted/integrations/templates/hosted/create.html:83
-#, python-format
-msgid "%(price)s EUR / year"
-msgstr "%(price)s EUR / ano"
-
-#: wlhosted/integrations/templates/hosted/create.html:95
-msgid ""
-"Pricing is based on the number of source strings and target languages. The "
-"source string is a text unit defined in a translation format, it can be a "
-"word, sentence or paragraph."
-msgstr ""
-"O preço é baseado no número de textos fontes e idiomas de destino. O texto "
-"fonte é uma unidade de texto definida em um formato de tradução, podendo ser "
-"uma palavra, sentença ou parágrafo."
-
-#: wlhosted/integrations/templates/hosted/create.html:98
-msgid "All listed prices exclude VAT."
-msgstr "Todos os preços listados não incluem o IVA."
-
-#: wlhosted/integrations/templates/hosted/create.html:99
-#, python-format
-msgid ""
-"EU end users and Czech companies will be charged with additional 21%% VAT."
-msgstr ""
-"Os usuários-finais da UE e as empresas tchecas serão cobrados com 21%% de "
-"IVA adicional."
-
-#: wlhosted/integrations/templates/hosted/create.html:100
-msgid ""
-"The reverse charge applies to invoices issued to businesses within the EU."
-msgstr ""
-"A autoliquidação se aplica a faturas emitidas para empresas dentro da UE."
-
-#: wlhosted/integrations/views.py:69
-msgid "No matching payment found."
-msgstr "Nenhum pagamento correspondente localizado."
-
-#: wlhosted/integrations/views.py:77
-msgid "Thank you for purchasing a hosting plan, it is now active."
-msgstr "Obrigado por comprar um plano de hospedagem. Ele está ativo agora."
-
-#: wlhosted/integrations/views.py:84
-msgid ""
-"Thank you for purchasing a hosting plan, the payment for it is pending and "
-"will be processed in the background."
-msgstr ""
-"Obrigado por comprar um plano de hospedagem. O pagamento para ele está "
-"pendente e será processado em segundo plano."
-
-#: wlhosted/integrations/views.py:92
-msgid "The payment was rejected: {}"
-msgstr "O pagamento foi rejeitado: {}"
-
-#: wlhosted/integrations/views.py:93
-msgid "Unknown reason"
-msgstr "Motivo desconhecido"
-
-#: wlhosted/integrations/views.py:110
-msgid "Payments are temporarily inactive."
-msgstr "Pagamentos estão temporariamente inativos."
-
-#: wlhosted/legal/templates/legal/documents/privacy.html:6
+#: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
 msgid ""
 "We comply with the Regulation No. %(law_679_2016)s, the General Data "
@@ -181,16 +30,16 @@ msgstr ""
 "Proteção de Dados, também conhecido como RGPD. Este documento inclui "
 "especificações necessárias."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:9
+#: wllegal/templates/legal/documents/privacy.html:9
 msgid "Personal Data Controller"
 msgstr "Controlador de Dados Pessoais"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:12
+#: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
 msgid "%(provider)s, Reg. No. %(reg_no)s"
 msgstr "%(provider)s, Reg. nº %(reg_no)s"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:15
+#: wllegal/templates/legal/documents/privacy.html:15
 #, python-format
 msgid ""
 "Weblate has appointed a data protection officer who may be reached via "
@@ -199,40 +48,40 @@ msgstr ""
 "O Weblate nomeou um escritório de proteção de dados que pode ser alcançado "
 "via %(privacy_contact)s."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:17
+#: wllegal/templates/legal/documents/privacy.html:17
 msgid "Personal Data processed by Weblate"
 msgstr "Dados Pessoais processados pelo Weblate"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:20
+#: wllegal/templates/legal/documents/privacy.html:20
 msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr ""
 "O Weblate só processa Dados Pessoais que o Usuário nos fornece usando-o:"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:25
+#: wllegal/templates/legal/documents/privacy.html:25
 msgid "Name and e-mail"
 msgstr "Nome e e-mail"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:26
+#: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits"
 msgstr "Estes são usados para identificar você nos commits de VCS"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:27
+#: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events"
 msgstr "Além disto, o e-mail é usado para notificação de eventos observados"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:29
+#: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
 msgstr "Senha na forma de hash"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:30
+#: wllegal/templates/legal/documents/privacy.html:30
 msgid "Used to authenticate the User, if configured"
 msgstr "Usado para autenticar o Usuário, se configurado"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:32
+#: wllegal/templates/legal/documents/privacy.html:32
 msgid "IP address and browser name"
 msgstr "Endereço IP e nome do navegador"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:33
+#: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen"
@@ -240,11 +89,11 @@ msgstr ""
 "Eles são registrados no caso de alterações importantes em sua conta (ex: "
 "alteração de senha) e permitem um diagnóstico caso sua conta seja roubada"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:35
+#: wllegal/templates/legal/documents/privacy.html:35
 msgid "Billing information"
 msgstr "Informações de cobrança"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:36
+#: wllegal/templates/legal/documents/privacy.html:36
 msgid ""
 "In case you purchase service from us, we collect additional billing "
 "information necessary for issuing an invoice"
@@ -252,15 +101,15 @@ msgstr ""
 "No caso de você contratar nosso serviço, coletamos informações adicionais de "
 "cobrança necessárias para emitir uma fatura"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:40
+#: wllegal/templates/legal/documents/privacy.html:40
 msgid "Purpose and legal basis of processing Personal Data"
 msgstr "Proposta e base legal de processamento de Dados Pessoais"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:42
+#: wllegal/templates/legal/documents/privacy.html:42
 msgid "Your Personal Data will be used for the purposes of the Service:"
 msgstr "Seus Dados Pessoais serão usados para os propósitos do Serviço:"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:46
+#: wllegal/templates/legal/documents/privacy.html:46
 #, python-format
 msgid ""
 "for providing our services on the Service, to contact you in matters "
@@ -275,7 +124,7 @@ msgstr ""
 "obrigações contratuais ou pré-contratuais (<a href=\"%(url)s\">Artigo 6º (1) "
 "b. RGPD</a>)"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:47
+#: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
 msgid ""
 "to analyze your use of our services and improve our services (<a href="
@@ -284,7 +133,7 @@ msgstr ""
 "para analisar o uso de nossos serviços e melhorar nossos serviços (<a href="
 "\"%(url)s\">Artigo 6º (1) b e f. RGPD</a>)"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:48
+#: wllegal/templates/legal/documents/privacy.html:48
 #, python-format
 msgid ""
 "with your express consent or instruction to carry out our business "
@@ -295,11 +144,11 @@ msgstr ""
 "atividades comerciais ou enviar boletins informativos (<a href=\"%(url)s"
 "\">Artigo 6º (1) a. RGPD</a>)"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:51
+#: wllegal/templates/legal/documents/privacy.html:51
 msgid "Access to the Personal Data"
 msgstr "Acesso aos Dados Pessoais"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:53
+#: wllegal/templates/legal/documents/privacy.html:53
 msgid ""
 "The Controller has made all reasonable technical means to protect the "
 "Personal Data. Only authorized persons can access the Personal Data."
@@ -307,29 +156,29 @@ msgstr ""
 "O Controlador fez todos os meios técnicos razoáveis para proteger os Dados "
 "Pessoais. Apenas pessoas autorizadas podem acessar os Dados Pessoais."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:55
+#: wllegal/templates/legal/documents/privacy.html:55
 msgid ""
 "Third parties which can gain access to the Personal Data when necessary are:"
 msgstr ""
 "Os terceiros que podem obter acesso aos Dados Pessoais quando necessário são:"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:58
+#: wllegal/templates/legal/documents/privacy.html:58
 msgid "Persons which are contracted for technical assurance of the service."
 msgstr "Pessoas que são contratadas para garantia técnica do serviço."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:59
+#: wllegal/templates/legal/documents/privacy.html:59
 msgid "Payment processors."
 msgstr "Processadores de pagamento."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:62
+#: wllegal/templates/legal/documents/privacy.html:62
 msgid "All Personal Data is stored in the European Union."
 msgstr "Todos os Dados Pessoais são armazenados na União Europeia."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:64
+#: wllegal/templates/legal/documents/privacy.html:64
 msgid "The Personal Data retention"
 msgstr "A retenção de Dados Pessoais"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:66
+#: wllegal/templates/legal/documents/privacy.html:66
 msgid ""
 "The Personal Data is stored in the Service until the User deletes their "
 "account on the service."
@@ -337,7 +186,7 @@ msgstr ""
 "Os Dados Pessoais são armazenados no serviço até que o Usuário exclua sua "
 "conta no serviço."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:68
+#: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "Access log information might be collected for a longer period for the "
 "purpose of establishing, exercising or defending legal claims."
@@ -346,11 +195,11 @@ msgstr ""
 "longo para fins de estabelecimento, exercício ou defesa de reivindicações "
 "legais."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:70
+#: wllegal/templates/legal/documents/privacy.html:70
 msgid "Your rights"
 msgstr "Seus direitos"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:72
+#: wllegal/templates/legal/documents/privacy.html:72
 msgid ""
 "The User provides use of Personal Data voluntarily. Without this Personal "
 "Data Weblate is not able to provide our services."
@@ -358,7 +207,7 @@ msgstr ""
 "O Usuário fornece o uso de Dados Pessoais voluntariamente. Sem esses Dados "
 "Pessoais, o Weblate não pode fornecer seus serviços."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:74
+#: wllegal/templates/legal/documents/privacy.html:74
 msgid ""
 "We want you to always be in control of your Personal Data. To this end, you "
 "have certain rights that allow for it. Under certain conditions, you may:"
@@ -367,7 +216,7 @@ msgstr ""
 "este fim, você tem certos direitos que permitem isso. Sob certas condições, "
 "você pode:"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:78
+#: wllegal/templates/legal/documents/privacy.html:78
 #, python-format
 msgid ""
 "Gain access to all your Personal Data that Weblate uses or processes, and "
@@ -377,26 +226,26 @@ msgstr ""
 "até mesmo obter uma cópia de todos eles (<a href=\"%(url)s\">Artigo 15 RGPD</"
 "a>)"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:79
+#: wllegal/templates/legal/documents/privacy.html:79
 msgid ""
 "Correct the Personal Data that Weblate processes if you think that there are "
 "mistakes"
 msgstr ""
 "Corrigir os Dados Pessoais que Weblate processa se você acha que há erros"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:80
+#: wllegal/templates/legal/documents/privacy.html:80
 msgid "Order us to delete your Personal Data"
 msgstr "Exigir que excluamos seus Dados Pessoais"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:81
+#: wllegal/templates/legal/documents/privacy.html:81
 msgid "Restrict the Personal Data processing"
 msgstr "Restringir o processamento de Dados Pessoais"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:82
+#: wllegal/templates/legal/documents/privacy.html:82
 msgid "Object to processing"
 msgstr "Contestar ao processamento"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:83
+#: wllegal/templates/legal/documents/privacy.html:83
 msgid ""
 "Receive your Personal Data in a commonly used and machine-readable format or "
 "to transmit this Personal Data to a different provider."
@@ -404,14 +253,14 @@ msgstr ""
 "Receber seus Dados Pessoais em um formato comumente usado e legível por "
 "máquina ou para transmitir esses Dados Pessoais para um provedor diferente."
 
-#: wlhosted/legal/templates/legal/documents/summary.html:4
+#: wllegal/templates/legal/documents/summary.html:4
 msgid ""
 "The services are provided “as is”, at your own risk, without any warranty."
 msgstr ""
 "Os serviços são fornecidos “como está”, por seu próprio risco, sem qualquer "
 "garantia."
 
-#: wlhosted/legal/templates/legal/documents/summary.html:5
+#: wllegal/templates/legal/documents/summary.html:5
 msgid ""
 "Additional guarantees might apply to commercial customers, those are "
 "expressed in corresponding contracts."
@@ -419,7 +268,7 @@ msgstr ""
 "Garantias adicionais podem ser aplicáveis a clientes comerciais, as quais "
 "são expressas nos contratos correspondentes."
 
-#: wlhosted/legal/templates/legal/documents/summary.html:6
+#: wllegal/templates/legal/documents/summary.html:6
 msgid ""
 "We process private data (such as your e-mail address), those will be "
 "discarded from our database as soon as you remove your account."
@@ -427,14 +276,14 @@ msgstr ""
 "Processamos os dados privados (como seu endereço de e-mail), os quais serão "
 "descartados de nossa base de dados tão logo você remova sua conta."
 
-#: wlhosted/legal/templates/legal/documents/summary.html:7
+#: wllegal/templates/legal/documents/summary.html:7
 msgid ""
 "Your translations are made under license which is specified by each "
 "translation."
 msgstr ""
 "Suas traduções são feitas sob a licença especificada por cada tradução."
 
-#: wlhosted/legal/templates/legal/documents/summary.html:8
+#: wllegal/templates/legal/documents/summary.html:8
 msgid ""
 "Your name and e-mail address is used in VCS commits, it will stay there "
 "indefinitely."
@@ -442,15 +291,15 @@ msgstr ""
 "Seu nome e endereço de e-mail é usado nos commits de VCS, e ficará por lá "
 "para sempre."
 
-#: wlhosted/legal/templates/legal/documents/summary.html:9
+#: wllegal/templates/legal/documents/summary.html:9
 msgid "We use cookies to deliver our services."
 msgstr "Usamos cookies para entregar nossos serviços."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:10
+#: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
 msgstr "Ver a versão em inglês"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:11
+#: wllegal/templates/legal/documents/tos.html:11
 msgid ""
 "The Terms of Service document is authoritative in English, translations are "
 "provided for your convenience."
@@ -458,7 +307,7 @@ msgstr ""
 "O documento Termos de Serviço é autoritário em inglês, sendo as traduções "
 "fornecidas para sua conveniência."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:17
+#: wllegal/templates/legal/documents/tos.html:17
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these Terms of Service."
@@ -466,19 +315,19 @@ msgstr ""
 "Os direitos e obrigações do Usuário e do Provedor resultantes do uso do "
 "Serviço são regidos por estes Termos de Serviço."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:20
+#: wllegal/templates/legal/documents/tos.html:20
 msgid "Definitions"
 msgstr "Descrições"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:22
+#: wllegal/templates/legal/documents/tos.html:22
 msgid "In these Terms of Service:"
 msgstr "Nestes Termos do Serviço:"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:26
+#: wllegal/templates/legal/documents/tos.html:26
 msgid "Agreement"
 msgstr "Contrato"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:27
+#: wllegal/templates/legal/documents/tos.html:27
 msgid ""
 "means License Agreement within the meaning of Article 2358 et seq. of the "
 "Civil Code concluded by and between the User and the Provider upon the "
@@ -488,20 +337,20 @@ msgstr ""
 "Código Civil celebrado por e entre o Usuário e o Provedor após o "
 "Consentimento"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:29
+#: wllegal/templates/legal/documents/tos.html:29
 msgid "Civil Code"
 msgstr "Código Civil"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:30
+#: wllegal/templates/legal/documents/tos.html:30
 #, python-format
 msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgstr "significa o Lei Nº %(law_89_2012)s, o Código Civil, conforme emenda"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:32
+#: wllegal/templates/legal/documents/tos.html:32
 msgid "Consent"
 msgstr "Consentimento"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:33
+#: wllegal/templates/legal/documents/tos.html:33
 msgid ""
 "means the User’s consent with these Terms of Service and other legal "
 "documents expressed by checking the checkbox during the registration"
@@ -509,12 +358,12 @@ msgstr ""
 "significa o consentimento do usuário com estes Termos de Serviço e outros "
 "documentos legais expressos marcando a caixa de seleção durante o registro"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:35
-#: wlhosted/legal/templates/legal/documents/tos.html:131
+#: wllegal/templates/legal/documents/tos.html:35
+#: wllegal/templates/legal/documents/tos.html:131
 msgid "Cookies"
 msgstr "Cookies"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:36
+#: wllegal/templates/legal/documents/tos.html:36
 msgid ""
 "means any datafile sent by the web server of the Service to the User’s "
 "computer or other device connected to the Internet, which enable obtaining "
@@ -524,11 +373,11 @@ msgstr ""
 "para o computador do Usuário ou outro dispositivo conectado à Internet, que "
 "permite obter uma identificação exclusiva do navegador da web do Usuário"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:39
+#: wllegal/templates/legal/documents/tos.html:39
 msgid "GDPR"
 msgstr "RGPD"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:40
+#: wllegal/templates/legal/documents/tos.html:40
 #, python-format
 msgid ""
 "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
@@ -537,11 +386,11 @@ msgstr ""
 "significa o Regulamento (UE) nº %(law_679_2016)s, o Regulamento Geral sobre "
 "a Proteção de Dados"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:42
+#: wllegal/templates/legal/documents/tos.html:42
 msgid "License"
 msgstr "Licença"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:43
+#: wllegal/templates/legal/documents/tos.html:43
 msgid ""
 "means non-exclusive license granted by the Provider to the User for use of "
 "the Service"
@@ -549,21 +398,21 @@ msgstr ""
 "significa licença não exclusiva concedida pelo Provedor ao Usuário para uso "
 "do Serviço"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:45
+#: wllegal/templates/legal/documents/tos.html:45
 msgid "Provider"
 msgstr "Provedor"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:46
+#: wllegal/templates/legal/documents/tos.html:46
 #, python-format
 msgid "means %(provider)s, Reg. No. %(reg_no)s"
 msgstr "significa %(provider)s, Reg. Nº %(reg_no)s"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:48
-#: wlhosted/legal/templates/legal/documents/tos.html:98
+#: wllegal/templates/legal/documents/tos.html:48
+#: wllegal/templates/legal/documents/tos.html:98
 msgid "Personal Data"
 msgstr "Dados Pessoais"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:49
+#: wllegal/templates/legal/documents/tos.html:49
 #, python-format
 msgid ""
 "means personal data within the meaning of EU Regulation No. %(law_679_2016)s "
@@ -572,47 +421,47 @@ msgstr ""
 "significa dados pessoais nos termos do Regulamento (UE) nº %(law_679_2016)s "
 "inseridos pelo Usuário no Serviço e/ou em Cookies"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:51
+#: wllegal/templates/legal/documents/tos.html:51
 msgid "Owner"
 msgstr "Proprietário"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:52
+#: wllegal/templates/legal/documents/tos.html:52
 msgid "means the User who can manage Project"
 msgstr "significa o Usuário que pode gerenciar o Projeto"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:54
+#: wllegal/templates/legal/documents/tos.html:54
 msgid "Project"
 msgstr "Projeto"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:55
+#: wllegal/templates/legal/documents/tos.html:55
 msgid "means translation project operated on the Service"
 msgstr "significa projeto de tradução operado no Serviço"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:57
+#: wllegal/templates/legal/documents/tos.html:57
 msgid "Service"
 msgstr "Serviço"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:58
+#: wllegal/templates/legal/documents/tos.html:58
 msgid ""
 "means the website and services based on Weblate operated by the Provider"
 msgstr ""
 "significa o site e os serviços baseados no Weblate operados pelo Provedor"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:60
+#: wllegal/templates/legal/documents/tos.html:60
 msgid "Translation Memory"
 msgstr "Memória de Tradução"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:61
+#: wllegal/templates/legal/documents/tos.html:61
 msgid "means the optional translation memory service provided within Weblate"
 msgstr ""
 "significa o serviço opcional de memória de tradução fornecido dentro do "
 "Weblate"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:63
+#: wllegal/templates/legal/documents/tos.html:63
 msgid "User"
 msgstr "Usuário"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:64
+#: wllegal/templates/legal/documents/tos.html:64
 msgid ""
 "means any legal entity or an individual other than the Provider, who is "
 "using the Service"
@@ -620,11 +469,11 @@ msgstr ""
 "significa qualquer entidade legal ou um indivíduo que não seja o Provedor, "
 "que está usando o Serviço"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:66
+#: wllegal/templates/legal/documents/tos.html:66
 msgid "VCS"
 msgstr "VCS"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:67
+#: wllegal/templates/legal/documents/tos.html:67
 msgid ""
 "means distributed version control system used by the Project such as Git or "
 "Mercurial"
@@ -632,11 +481,11 @@ msgstr ""
 "significa sistema de controle de versão distribuído usado pelo Projeto, como "
 "Git ou Mercurial"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:71
+#: wllegal/templates/legal/documents/tos.html:71
 msgid "License Agreement Conclusion"
 msgstr "Celebração de Contrato de Licença"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:73
+#: wllegal/templates/legal/documents/tos.html:73
 msgid ""
 "The License Agreement is concluded upon the User’s Acceptance of the "
 "Provider’s Offer."
@@ -644,11 +493,11 @@ msgstr ""
 "O Contrato de Licença é celebrado após a Aceitação do Usuário da Oferta do "
 "Provedor."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:76
+#: wllegal/templates/legal/documents/tos.html:76
 msgid "License Agreement"
 msgstr "Contrato de Licença"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:78
+#: wllegal/templates/legal/documents/tos.html:78
 msgid ""
 "By concluding Agreement under Article 2.1 of this Agreement, the following "
 "provisions of this Article 3 of the Terms of Service come into force."
@@ -656,7 +505,7 @@ msgstr ""
 "Ao celebrar o Contrato sob o Artigo 2.1 deste Contrato, as seguintes "
 "disposições deste Artigo 3º dos Termos de Serviço entram em vigor."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:80
+#: wllegal/templates/legal/documents/tos.html:80
 msgid ""
 "The Provider presents the User with a License Agreement and the User accepts "
 "this License Agreement, all this under the terms and conditions stated in "
@@ -666,7 +515,7 @@ msgstr ""
 "este Contrato de Licença, tudo isso sob os termos e condições estabelecidos "
 "nestes Termos de Serviço."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:82
+#: wllegal/templates/legal/documents/tos.html:82
 msgid ""
 "The Provider shall have the right to shut down, adjust, modify or make the "
 "Service unavailable on the web address at any time."
@@ -674,7 +523,7 @@ msgstr ""
 "O Provedor terá o direito de encerrar, ajustar, modificar ou tornar o "
 "Serviço indisponível no endereço da Web a qualquer momento."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:84
+#: wllegal/templates/legal/documents/tos.html:84
 msgid ""
 "The User agrees to use the Service only in a manner not jeopardizing "
 "technical software and/or hardware means of the Provider and/or such means "
@@ -684,7 +533,7 @@ msgstr ""
 "software técnico e/ou os meios de hardware do Provedor e/ou tais meios no "
 "uso do Provedor."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:86
+#: wllegal/templates/legal/documents/tos.html:86
 msgid ""
 "The User agrees to refrain from use of the Service in bad faith and/or "
 "deliberately causing any damage to the Service."
@@ -692,7 +541,7 @@ msgstr ""
 "O Usuário concorda em abster-se de usar o Serviço de má-fé e/ou causar "
 "deliberadamente qualquer dano ao Serviço."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:88
+#: wllegal/templates/legal/documents/tos.html:88
 msgid ""
 "The User agrees to refrain from bypassing the Service’s software and/or "
 "technical hardware means, in particular the security systems."
@@ -700,11 +549,11 @@ msgstr ""
 "O Usuário concorda em não ignorar o software e/ou o hardware técnico do "
 "Serviço, em particular os sistemas de segurança."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:91
+#: wllegal/templates/legal/documents/tos.html:91
 msgid "Liability for Damage"
 msgstr "Responsabilidade por Danos"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:93
+#: wllegal/templates/legal/documents/tos.html:93
 msgid ""
 "The User hereby renders it undisputed that the Provider shall not be liable "
 "for any damage caused to the User resulting from the use of the Service."
@@ -713,7 +562,7 @@ msgstr ""
 "responsável por qualquer dano causado ao Usuário resultante do uso do "
 "Serviço."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:95
+#: wllegal/templates/legal/documents/tos.html:95
 msgid ""
 "If the User is an entrepreneur, it hereby expressly waives its right to "
 "compensation from the Provider for damage unintentionally caused by the "
@@ -725,7 +574,7 @@ msgstr ""
 "pelo Provedor ao Usuário por meio de uma violação de qualquer obrigação "
 "contida nestes Termos de Serviço e/ou resultante do uso do Serviço."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:101
+#: wllegal/templates/legal/documents/tos.html:101
 #, python-format
 msgid ""
 "Within the meaning of <a href=\"%(url)s\">Article 7</a> of the GDPR the User "
@@ -746,7 +595,7 @@ msgstr ""
 "Esse consentimento é concedido desde que o Usuário não remova sua conta do "
 "Serviço."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:103
+#: wllegal/templates/legal/documents/tos.html:103
 #, python-format
 msgid ""
 "The purpose of the processing of Personal Data as determined by the Provider "
@@ -765,7 +614,7 @@ msgstr ""
 "negócios dos parceiros contratuais do Provedor e para fins estatísticos e/ou "
 "de marketing do Provedor."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:105
+#: wllegal/templates/legal/documents/tos.html:105
 msgid ""
 "If the User directly and effectively informs the Provider of no longer "
 "wishing to receive business information from the Provider, the Provider "
@@ -775,7 +624,7 @@ msgstr ""
 "mais receber informações comerciais do Provedor, o Provedor deverá abster-se "
 "de enviar mais comunicações comerciais não solicitadas."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:109
+#: wllegal/templates/legal/documents/tos.html:109
 #, python-format
 msgid ""
 "The User declares awareness of own rights under <a href=\"%(url_15)s"
@@ -788,7 +637,7 @@ msgstr ""
 "que todos os Dados Pessoais são precisos e verdadeiros e foram fornecidos "
 "voluntariamente."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:111
+#: wllegal/templates/legal/documents/tos.html:111
 msgid ""
 "The Provider declares that it will collect Personal Data only in the extent "
 "necessary for meeting the above-specified purpose and process the Personal "
@@ -806,7 +655,7 @@ msgstr ""
 "Dados Pessoais, mesmo após o término de seu vínculo empregatício ou "
 "comercial com o Provedor."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:113
+#: wllegal/templates/legal/documents/tos.html:113
 msgid ""
 "The Provider declares that it will process the Personal Data by electronic "
 "means (automatically) via computer programs for which the Provider has "
@@ -816,7 +665,7 @@ msgstr ""
 "eletrônicos (automaticamente) através de programas de computador para os "
 "quais o Provedor tenha assegurado o direito de uso, em particular o Serviço."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:115
+#: wllegal/templates/legal/documents/tos.html:115
 msgid ""
 "The User’s consent under this Article 5 of the Terms of Service constitutes "
 "a free and informed juridical act which concerns the consent of the subject "
@@ -827,11 +676,11 @@ msgstr ""
 "consentimento do sujeito dos dados (o Usuário) com o processamento dos Dados "
 "Pessoais."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:118
+#: wllegal/templates/legal/documents/tos.html:118
 msgid "Translations"
 msgstr "Traduções"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:120
+#: wllegal/templates/legal/documents/tos.html:120
 msgid ""
 "The Service organizes translation into individual Projects, where the Owner "
 "is responsible for managing them and for specifying accurately the license "
@@ -841,7 +690,7 @@ msgstr ""
 "responsável por gerenciá-los e por especificar com precisão a licença do "
 "Projeto."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:122
+#: wllegal/templates/legal/documents/tos.html:122
 msgid ""
 "Not specifying translation license means that the translations are available "
 "under same license as the given Project itself."
@@ -849,7 +698,7 @@ msgstr ""
 "Não especificar a licença de tradução significa que as traduções estão "
 "disponíveis sob a mesma licença como fornecido pelo próprio Projeto."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:124
+#: wllegal/templates/legal/documents/tos.html:124
 msgid ""
 "Should the Project opt in for the Translation Memory, license to use the "
 "translation is granted to all Translation Memory users."
@@ -857,7 +706,7 @@ msgstr ""
 "Caso o Projeto opte pela Memória de Tradução, a licença para usar a tradução "
 "é concedida a todos os usuários da Memória de Tradução."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:126
+#: wllegal/templates/legal/documents/tos.html:126
 msgid ""
 "The User agrees, upon contributing to a Project, to the license the Project "
 "has specified."
@@ -865,7 +714,7 @@ msgstr ""
 "O Usuário concorda, ao contribuir para um Projeto, com a licença que o "
 "Projeto especificou."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:128
+#: wllegal/templates/legal/documents/tos.html:128
 msgid ""
 "The User agrees to use of own name and e-mail as authorship in the VCS "
 "commits. The User understands that this grant is non revocable due to nature "
@@ -875,7 +724,7 @@ msgstr ""
 "commits de VCS. O Usuário entende que esta concessão não é revogável devido "
 "à natureza do VCS."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:133
+#: wllegal/templates/legal/documents/tos.html:133
 #, python-format
 msgid ""
 "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
@@ -886,17 +735,17 @@ msgstr ""
 "eletrônica, conforme emenda, o Usuário é informado de que o Serviço usa "
 "cookies."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:135
+#: wllegal/templates/legal/documents/tos.html:135
 msgid ""
 "The Service uses cookies to personalise content, and to analyse our traffic."
 msgstr ""
 "O Serviço usa cookies para personalizar o conteúdo e analisar nosso tráfego."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:138
+#: wllegal/templates/legal/documents/tos.html:138
 msgid "Governing Law"
 msgstr "Lei Aplicável"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:140
+#: wllegal/templates/legal/documents/tos.html:140
 msgid ""
 "These Terms of Service shall be governed by the laws of the Czech Republic "
 "with exclusion of conflict rules."
@@ -904,7 +753,7 @@ msgstr ""
 "Estes Termos de Serviço serão regidos pelas leis da República Tcheca, com "
 "exclusão das regras conflitantes."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:142
+#: wllegal/templates/legal/documents/tos.html:142
 msgid ""
 "Any disputes arising on the basis of the Agreement and/or these Terms of "
 "Service shall be resolved by the court of the Czech republic having "
@@ -914,214 +763,290 @@ msgstr ""
 "Serviço serão resolvidos pelo foro da República Tcheca, com jurisdição local "
 "e substantiva."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:145
+#: wllegal/templates/legal/documents/tos.html:145
 msgid "Effect"
 msgstr "Efeito"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:147
+#: wllegal/templates/legal/documents/tos.html:147
 msgid ""
 "These Terms of Service shall come into force and effect on 1st September "
 "2017."
 msgstr ""
 "Estes Termos de Serviço entrarão em vigor a partir de 1º de setembro de 2017."
 
-#: wlhosted/payments/backends.py:188
-msgid "Your payment on weblate.org"
-msgstr "Seu pagamento no weblate.org"
+#~ msgid "Generate Unknown Horizons scenario data"
+#~ msgstr "Gerar dados de cenário de Unknown Horizons"
 
-#: wlhosted/payments/backends.py:190
-#, python-format
-msgid ""
-"Hello,\n"
-"\n"
-"Thank you for your payment on weblate.org.\n"
-"\n"
-"You will find an invoice for this payment attached.\n"
-"Alternatively, you can download it from the website:\n"
-"\n"
-"%s\n"
-msgstr ""
-"Olá!\n"
-"\n"
-"Obrigado por seu pagamento no weblate.org.\n"
-"\n"
-"Você encontrará anexada uma fatura para esse pagamento.\n"
-"Alternativamente, você pode baixá-la do site:\n"
-"\n"
-"%s\n"
+#~ msgid "Reset repository to upstream"
+#~ msgstr "Redefinir repositório para upstream"
 
-#: wlhosted/payments/backends.py:216
-msgid "Your payment on weblate.org failed"
-msgstr "Seu pagamento no weblate.org falhou"
+#~ msgid "Reset all changes in the local repository"
+#~ msgstr "Redefinir todas as alterações no repositório local"
 
-#: wlhosted/payments/backends.py:218
-#, python-format
-msgid ""
-"Hello,\n"
-"\n"
-"Your payment on weblate.org has failed.\n"
-"\n"
-"%s\n"
-"\n"
-"Retry issuing the payment on the website:\n"
-"\n"
-"%s\n"
-"\n"
-"If concerning a recurring payment, it is retried three times,\n"
-"and if still failing, cancelled.\n"
-msgstr ""
-"Olá!\n"
-"\n"
-"Seu pagamento no weblate.org falhou.\n"
-"\n"
-"%s\n"
-"\n"
-"Tente emitir novamente o pagamento no site:\n"
-"\n"
-"%s\n"
-"\n"
-"Se estiver relacionado a um pagamento recorrente,\n"
-"ele será repetido três vezes e, se ainda falhar, cancelado.\n"
+#~ msgid "Billing"
+#~ msgstr "Cobrança"
 
-#: wlhosted/payments/backends.py:251
-msgid "Your pending payment on weblate.org"
-msgstr "Seu pagamento pendente no weblate.org"
+#~ msgid "Choose the billing plan you want to update"
+#~ msgstr "Escolha o plano de cobrança que você deseja atualizar"
 
-#: wlhosted/payments/backends.py:253
-msgid ""
-"Hello,\n"
-"\n"
-"Your payment on weblate.org is pending. Please follow the provided\n"
-"instructions to complete the payment.\n"
-msgstr ""
-"Olá!\n"
-"\n"
-"Seu pagamento no weblate.org está pendente. Por favor, siga as\n"
-"instruções fornecidas para concluir o pagamento.\n"
+#~ msgid "Create new billing plan"
+#~ msgstr "Criar novo plano de cobrança"
 
-#: wlhosted/payments/backends.py:335
-msgid "Payment card"
-msgstr "Cartão de pagamento"
+#~ msgid "Create billing plan"
+#~ msgstr "Criar plano de cobrança"
 
-#: wlhosted/payments/backends.py:411
-msgid "Payment cancelled"
-msgstr "Pagamento cancelado"
+#~ msgid "New billing plan"
+#~ msgstr "Novo plano de cobrança"
 
-#: wlhosted/payments/backends.py:413
-msgid "Payment error"
-msgstr "Erro de pagamento"
+#~ msgid "Please choose a hosting plan that fits the size of your project."
+#~ msgstr ""
+#~ "Escolha um plano de hospedagem adequado para o tamanho de seu projeto."
 
-#: wlhosted/payments/backends.py:425
-msgid "Bitcoin"
-msgstr "Bitcoin"
+#~ msgid "Current billing status"
+#~ msgstr "Status atual de cobrança"
 
-#: wlhosted/payments/backends.py:434
-msgid "IBAN bank transfer"
-msgstr "Transferência bancária IBAN"
+#~ msgid "Too small for your project."
+#~ msgstr "Pequeno demais para seu projeto."
 
-#: wlhosted/payments/backends.py:464
-msgid "Issuing bank"
-msgstr "Banco emissor"
+#~ msgid "Too small"
+#~ msgstr "Pequeno demais"
 
-#: wlhosted/payments/backends.py:465
-msgid "Account holder"
-msgstr "Titular da conta"
+#~ msgid "Selected plan"
+#~ msgstr "Plano selecionado"
 
-#: wlhosted/payments/backends.py:466
-msgid "Account number"
-msgstr "Número da conta"
+#~ msgid "Current plan"
+#~ msgstr "Plano atual"
 
-#: wlhosted/payments/backends.py:467
-msgid "SWIFT code"
-msgstr "Código SWIFT"
+#~ msgid "Strings limit"
+#~ msgstr "Limites do texto"
 
-#: wlhosted/payments/backends.py:468
-msgid "IBAN"
-msgstr "IBAN"
+#~ msgid "Unlimited"
+#~ msgstr "Ilimitados"
 
-#: wlhosted/payments/backends.py:469
-msgid "Reference"
-msgstr "Referência"
+#~ msgid "Languages limit"
+#~ msgstr "Limite de idiomas"
 
-#: wlhosted/payments/models.py:83
-msgid "European VAT ID"
-msgstr "ID de IVA europeu"
+#~ msgid "Component limit"
+#~ msgstr "Limite de componentes"
 
-#: wlhosted/payments/models.py:85
-msgid "Please fill in European Union VAT ID, leave blank if not applicable."
-msgstr ""
-"Por favor, preencha o ID do IVA da União Europeia. Deixe em branco se não "
-"for aplicável."
+#~ msgid "Projects limit"
+#~ msgstr "Limite do projetos"
 
-#: wlhosted/payments/models.py:91
-msgid "Tax registration"
-msgstr "Registro de imposto"
+#~ msgid "%(price)s EUR / month"
+#~ msgstr "%(price)s EUR / mês"
 
-#: wlhosted/payments/models.py:93
-msgid ""
-"Please fill in your tax registration if it should appear on the invoice."
-msgstr ""
-"Por favor, preencha o seu registro de imposto se ele deveria aparecer na "
-"fatura."
+#~ msgid "%(price)s EUR including VAT"
+#~ msgstr "%(price)s EUR incluindo IVA (VAT)"
 
-#: wlhosted/payments/models.py:100
-msgid "Company or individual name"
-msgstr "Nome da empresa ou indivíduo"
+#~ msgid "%(price)s EUR / year"
+#~ msgstr "%(price)s EUR / ano"
 
-#: wlhosted/payments/models.py:103
-msgid "Address"
-msgstr "Endereço"
+#~ msgid ""
+#~ "Pricing is based on the number of source strings and target languages. "
+#~ "The source string is a text unit defined in a translation format, it can "
+#~ "be a word, sentence or paragraph."
+#~ msgstr ""
+#~ "O preço é baseado no número de textos fontes e idiomas de destino. O "
+#~ "texto fonte é uma unidade de texto definida em um formato de tradução, "
+#~ "podendo ser uma palavra, sentença ou parágrafo."
 
-#: wlhosted/payments/models.py:106
-msgid "Postcode and city"
-msgstr "Código postal e cidade"
+#~ msgid "All listed prices exclude VAT."
+#~ msgstr "Todos os preços listados não incluem o IVA."
 
-#: wlhosted/payments/models.py:108
-msgid "Country"
-msgstr "País"
+#~ msgid ""
+#~ "EU end users and Czech companies will be charged with additional 21%% VAT."
+#~ msgstr ""
+#~ "Os usuários-finais da UE e as empresas tchecas serão cobrados com 21%% de "
+#~ "IVA adicional."
 
-#: wlhosted/payments/models.py:136
-msgid "The country has to match your VAT code"
-msgstr "O país tem que corresponder ao seu código IVA"
+#~ msgid ""
+#~ "The reverse charge applies to invoices issued to businesses within the EU."
+#~ msgstr ""
+#~ "A autoliquidação se aplica a faturas emitidas para empresas dentro da UE."
 
-#: wlhosted/payments/models.py:159
-msgid "Annual"
-msgstr "Anual"
+#~ msgid "No matching payment found."
+#~ msgstr "Nenhum pagamento correspondente localizado."
 
-#: wlhosted/payments/models.py:160
-msgid "Biannual"
-msgstr "Bienal"
+#~ msgid "Thank you for purchasing a hosting plan, it is now active."
+#~ msgstr "Obrigado por comprar um plano de hospedagem. Ele está ativo agora."
 
-#: wlhosted/payments/models.py:161
-msgid "Quarterly"
-msgstr "Trimestralmente"
+#~ msgid ""
+#~ "Thank you for purchasing a hosting plan, the payment for it is pending "
+#~ "and will be processed in the background."
+#~ msgstr ""
+#~ "Obrigado por comprar um plano de hospedagem. O pagamento para ele está "
+#~ "pendente e será processado em segundo plano."
 
-#: wlhosted/payments/models.py:162
-msgid "Monthly"
-msgstr "Mensal"
+#~ msgid "The payment was rejected: {}"
+#~ msgstr "O pagamento foi rejeitado: {}"
 
-#: wlhosted/payments/models.py:163
-msgid "Onetime"
-msgstr "Uma vez"
+#~ msgid "Unknown reason"
+#~ msgstr "Motivo desconhecido"
 
-#: wlhosted/payments/validators.py:38
-msgid "{} is not a valid country code for any European Union member."
-msgstr ""
-"{} não é um código de país válido para qualquer membro da União Europeia."
+#~ msgid "Payments are temporarily inactive."
+#~ msgstr "Pagamentos estão temporariamente inativos."
 
-#: wlhosted/payments/validators.py:43
-msgid "{} does not match the country's VAT ID specifications."
-msgstr "{} não corresponde às especificações de ID de IVA do país."
+#~ msgid "Your payment on weblate.org"
+#~ msgstr "Seu pagamento no weblate.org"
 
-#: wlhosted/payments/validators.py:50
-msgid "VAT ID validation service unavailable for {}, please try again later."
-msgstr ""
-"Serviço de validação de ID de IVA indisponível para {}. Por favor, tente "
-"novamente mais tarde."
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "Thank you for your payment on weblate.org.\n"
+#~ "\n"
+#~ "You will find an invoice for this payment attached.\n"
+#~ "Alternatively, you can download it from the website:\n"
+#~ "\n"
+#~ "%s\n"
+#~ msgstr ""
+#~ "Olá!\n"
+#~ "\n"
+#~ "Obrigado por seu pagamento no weblate.org.\n"
+#~ "\n"
+#~ "Você encontrará anexada uma fatura para esse pagamento.\n"
+#~ "Alternativamente, você pode baixá-la do site:\n"
+#~ "\n"
+#~ "%s\n"
 
-#: wlhosted/payments/validators.py:53
-msgid "{} is not a valid VAT ID."
-msgstr "{} não é um ID de IVA válido."
+#~ msgid "Your payment on weblate.org failed"
+#~ msgstr "Seu pagamento no weblate.org falhou"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "Your payment on weblate.org has failed.\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Retry issuing the payment on the website:\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "If concerning a recurring payment, it is retried three times,\n"
+#~ "and if still failing, cancelled.\n"
+#~ msgstr ""
+#~ "Olá!\n"
+#~ "\n"
+#~ "Seu pagamento no weblate.org falhou.\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Tente emitir novamente o pagamento no site:\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Se estiver relacionado a um pagamento recorrente,\n"
+#~ "ele será repetido três vezes e, se ainda falhar, cancelado.\n"
+
+#~ msgid "Your pending payment on weblate.org"
+#~ msgstr "Seu pagamento pendente no weblate.org"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "Your payment on weblate.org is pending. Please follow the provided\n"
+#~ "instructions to complete the payment.\n"
+#~ msgstr ""
+#~ "Olá!\n"
+#~ "\n"
+#~ "Seu pagamento no weblate.org está pendente. Por favor, siga as\n"
+#~ "instruções fornecidas para concluir o pagamento.\n"
+
+#~ msgid "Payment card"
+#~ msgstr "Cartão de pagamento"
+
+#~ msgid "Payment cancelled"
+#~ msgstr "Pagamento cancelado"
+
+#~ msgid "Payment error"
+#~ msgstr "Erro de pagamento"
+
+#~ msgid "Bitcoin"
+#~ msgstr "Bitcoin"
+
+#~ msgid "IBAN bank transfer"
+#~ msgstr "Transferência bancária IBAN"
+
+#~ msgid "Issuing bank"
+#~ msgstr "Banco emissor"
+
+#~ msgid "Account holder"
+#~ msgstr "Titular da conta"
+
+#~ msgid "Account number"
+#~ msgstr "Número da conta"
+
+#~ msgid "SWIFT code"
+#~ msgstr "Código SWIFT"
+
+#~ msgid "IBAN"
+#~ msgstr "IBAN"
+
+#~ msgid "Reference"
+#~ msgstr "Referência"
+
+#~ msgid "European VAT ID"
+#~ msgstr "ID de IVA europeu"
+
+#~ msgid "Please fill in European Union VAT ID, leave blank if not applicable."
+#~ msgstr ""
+#~ "Por favor, preencha o ID do IVA da União Europeia. Deixe em branco se não "
+#~ "for aplicável."
+
+#~ msgid "Tax registration"
+#~ msgstr "Registro de imposto"
+
+#~ msgid ""
+#~ "Please fill in your tax registration if it should appear on the invoice."
+#~ msgstr ""
+#~ "Por favor, preencha o seu registro de imposto se ele deveria aparecer na "
+#~ "fatura."
+
+#~ msgid "Company or individual name"
+#~ msgstr "Nome da empresa ou indivíduo"
+
+#~ msgid "Address"
+#~ msgstr "Endereço"
+
+#~ msgid "Postcode and city"
+#~ msgstr "Código postal e cidade"
+
+#~ msgid "Country"
+#~ msgstr "País"
+
+#~ msgid "The country has to match your VAT code"
+#~ msgstr "O país tem que corresponder ao seu código IVA"
+
+#~ msgid "Annual"
+#~ msgstr "Anual"
+
+#~ msgid "Biannual"
+#~ msgstr "Bienal"
+
+#~ msgid "Quarterly"
+#~ msgstr "Trimestralmente"
+
+#~ msgid "Monthly"
+#~ msgstr "Mensal"
+
+#~ msgid "Onetime"
+#~ msgstr "Uma vez"
+
+#~ msgid "{} is not a valid country code for any European Union member."
+#~ msgstr ""
+#~ "{} não é um código de país válido para qualquer membro da União Europeia."
+
+#~ msgid "{} does not match the country's VAT ID specifications."
+#~ msgstr "{} não corresponde às especificações de ID de IVA do país."
+
+#~ msgid ""
+#~ "VAT ID validation service unavailable for {}, please try again later."
+#~ msgstr ""
+#~ "Serviço de validação de ID de IVA indisponível para {}. Por favor, tente "
+#~ "novamente mais tarde."
+
+#~ msgid "{} is not a valid VAT ID."
+#~ msgstr "{} não é um ID de IVA válido."
 
 #~ msgid "Repositories limit"
 #~ msgstr "Limite do repositórios"

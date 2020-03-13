@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2019-12-15 12:07+0000\n"
+"POT-Creation-Date: 2020-03-13 08:42+0000\n"
 "PO-Revision-Date: 2019-11-07 11:57+0000\n"
 "Last-Translator: Mattias Münster <mattiasmun@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/weblate/hosted/"
@@ -19,158 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.10-dev\n"
 
-#: wlhosted/addons.py:37 wlhosted/addons.py:38
-msgid "Generate Unknown Horizons scenario data"
-msgstr "Generera Unknown Horizons scenariodata"
-
-#: wlhosted/addons.py:60
-msgid "Reset repository to upstream"
-msgstr "Återställ förrådet till uppströms"
-
-#: wlhosted/addons.py:61
-msgid "Reset all changes in the local repository"
-msgstr "Återställ alla ändringar i det lokala förrådet"
-
-#: wlhosted/integrations/forms.py:35
-msgid "Billing"
-msgstr "Fakturering"
-
-#: wlhosted/integrations/forms.py:36
-msgid "Choose the billing plan you want to update"
-msgstr "Välj den faktureringsplan du vill uppdatera"
-
-#: wlhosted/integrations/forms.py:37
-msgid "Create new billing plan"
-msgstr "Skapa ny faktureringsplan"
-
-#: wlhosted/integrations/templates/hosted/create.html:7
-msgid "Create billing plan"
-msgstr "Skapa faktureringsplan"
-
-#: wlhosted/integrations/templates/hosted/create.html:16
-msgid "New billing plan"
-msgstr "Ny faktureringsplan"
-
-#: wlhosted/integrations/templates/hosted/create.html:19
-msgid "Please choose a hosting plan that fits the size of your project."
-msgstr "Välj ett hosting-abbonnemang som passar ditt projekts storlek."
-
-#: wlhosted/integrations/templates/hosted/create.html:25
-msgid "Current billing status"
-msgstr "Aktuell faktureringsstatus"
-
-#: wlhosted/integrations/templates/hosted/create.html:46
-msgid "Too small for your project."
-msgstr "För liten för ditt projekt."
-
-#: wlhosted/integrations/templates/hosted/create.html:46
-msgid "Too small"
-msgstr "För liten"
-
-#: wlhosted/integrations/templates/hosted/create.html:48
-msgid "Selected plan"
-msgstr "Vald plan"
-
-#: wlhosted/integrations/templates/hosted/create.html:50
-msgid "Current plan"
-msgstr "Aktuell plan"
-
-#: wlhosted/integrations/templates/hosted/create.html:55
-msgid "Strings limit"
-msgstr "Strängbegränsning"
-
-#: wlhosted/integrations/templates/hosted/create.html:56
-#: wlhosted/integrations/templates/hosted/create.html:59
-#: wlhosted/integrations/templates/hosted/create.html:62
-#: wlhosted/integrations/templates/hosted/create.html:65
-msgid "Unlimited"
-msgstr "Obegränsat"
-
-#: wlhosted/integrations/templates/hosted/create.html:58
-msgid "Languages limit"
-msgstr "Språkbegränsning"
-
-#: wlhosted/integrations/templates/hosted/create.html:61
-msgid "Component limit"
-msgstr "Komponentgräns"
-
-#: wlhosted/integrations/templates/hosted/create.html:64
-msgid "Projects limit"
-msgstr "Projektbegränsning"
-
-#: wlhosted/integrations/templates/hosted/create.html:77
-#, python-format
-msgid "%(price)s EUR / month"
-msgstr "%(price)s EUR / månad"
-
-#: wlhosted/integrations/templates/hosted/create.html:78
-#: wlhosted/integrations/templates/hosted/create.html:84
-#, python-format
-msgid "%(price)s EUR including VAT"
-msgstr "%(price)s EURO inklusive MOMS"
-
-#: wlhosted/integrations/templates/hosted/create.html:83
-#, python-format
-msgid "%(price)s EUR / year"
-msgstr "%(price)s EUR / år"
-
-#: wlhosted/integrations/templates/hosted/create.html:95
-msgid ""
-"Pricing is based on the number of source strings and target languages. The "
-"source string is a text unit defined in a translation format, it can be a "
-"word, sentence or paragraph."
-msgstr ""
-"Prissättning baseras på antalet källsträngar och språk. Källsträngen är en "
-"textenhet definierad i ett översättningsformat, det kan vara ett ord, en "
-"mening eller ett stycke."
-
-#: wlhosted/integrations/templates/hosted/create.html:98
-msgid "All listed prices exclude VAT."
-msgstr "Alla listade priser är exklusive moms."
-
-#: wlhosted/integrations/templates/hosted/create.html:99
-#, python-format
-msgid ""
-"EU end users and Czech companies will be charged with additional 21%% VAT."
-msgstr ""
-"EU-slutanvändare och tjeckiska företag kommer att debiteras ytterligare 21%% "
-"moms."
-
-#: wlhosted/integrations/templates/hosted/create.html:100
-msgid ""
-"The reverse charge applies to invoices issued to businesses within the EU."
-msgstr ""
-"Den omvända avgiften gäller fakturor som utfärdas till företag inom EU."
-
-#: wlhosted/integrations/views.py:69
-msgid "No matching payment found."
-msgstr "Ingen matchande betalning hittades."
-
-#: wlhosted/integrations/views.py:77
-msgid "Thank you for purchasing a hosting plan, it is now active."
-msgstr "Tack för att du tecknat ett hosting-abbonemang, det är nu aktivt."
-
-#: wlhosted/integrations/views.py:84
-msgid ""
-"Thank you for purchasing a hosting plan, the payment for it is pending and "
-"will be processed in the background."
-msgstr ""
-"Tack för att du tecknar ett hosting-abbonemang, betalningen för det är "
-"pågående och kommer att bearbetas i bakgrunden."
-
-#: wlhosted/integrations/views.py:92
-msgid "The payment was rejected: {}"
-msgstr "Betalningen avvisades: {}"
-
-#: wlhosted/integrations/views.py:93
-msgid "Unknown reason"
-msgstr "Okänd anledning"
-
-#: wlhosted/integrations/views.py:110
-msgid "Payments are temporarily inactive."
-msgstr "Betalningar är tillfälligt inaktiva."
-
-#: wlhosted/legal/templates/legal/documents/privacy.html:6
+#: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
 msgid ""
 "We comply with the Regulation No. %(law_679_2016)s, the General Data "
@@ -181,16 +30,16 @@ msgstr ""
 "dataskyddsförordningen, även känd som GDPR. Detta dokument innehåller "
 "nödvändiga specifikationer."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:9
+#: wllegal/templates/legal/documents/privacy.html:9
 msgid "Personal Data Controller"
 msgstr "Personuppgiftsansvarig"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:12
+#: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
 msgid "%(provider)s, Reg. No. %(reg_no)s"
 msgstr "%(provider)s, Reg. No. %(reg_no)s"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:15
+#: wllegal/templates/legal/documents/privacy.html:15
 #, python-format
 msgid ""
 "Weblate has appointed a data protection officer who may be reached via "
@@ -198,42 +47,42 @@ msgid ""
 msgstr ""
 "Weblate har utsett ett dataskyddsombud som kan nås via %(privacy_contact)s."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:17
+#: wllegal/templates/legal/documents/privacy.html:17
 msgid "Personal Data processed by Weblate"
 msgstr "Personuppgifter som behandlas av Weblate"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:20
+#: wllegal/templates/legal/documents/privacy.html:20
 msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr ""
 "Weblate behandlar endast personuppgifter som användaren tillhandahåller "
 "genom att använda den:"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:25
+#: wllegal/templates/legal/documents/privacy.html:25
 msgid "Name and e-mail"
 msgstr "Användarnamn och mejl"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:26
+#: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits"
 msgstr "Dessa används för att identifiera dig i VCS-arkiveringar"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:27
+#: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events"
 msgstr ""
 "Dessutom används mejl-adressen för notifieringar om övervakade händelser"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:29
+#: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
 msgstr "Lösenordet i hashat format"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:30
+#: wllegal/templates/legal/documents/privacy.html:30
 msgid "Used to authenticate the User, if configured"
 msgstr "Används för att autentisera användaren, om konfigurerad"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:32
+#: wllegal/templates/legal/documents/privacy.html:32
 msgid "IP address and browser name"
 msgstr "IP-adress och webbläsarnamn"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:33
+#: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen"
@@ -241,11 +90,11 @@ msgstr ""
 "Dessa loggas vid viktiga ändringar i ditt konto (t. ex. lösenordsändring) "
 "för att tillåta diagnos om ditt konto blir stulet"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:35
+#: wllegal/templates/legal/documents/privacy.html:35
 msgid "Billing information"
 msgstr "Faktureringsinformation"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:36
+#: wllegal/templates/legal/documents/privacy.html:36
 msgid ""
 "In case you purchase service from us, we collect additional billing "
 "information necessary for issuing an invoice"
@@ -253,15 +102,15 @@ msgstr ""
 "Om du köper tjänst från oss, samlar vi in ytterligare "
 "faktureringsinformation som är nödvändig för att utfärda en faktura"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:40
+#: wllegal/templates/legal/documents/privacy.html:40
 msgid "Purpose and legal basis of processing Personal Data"
 msgstr "Syfte och rättslig grund för behandling av personuppgifter"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:42
+#: wllegal/templates/legal/documents/privacy.html:42
 msgid "Your Personal Data will be used for the purposes of the Service:"
 msgstr "Dina personuppgifter kommer att användas för tjänsten:"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:46
+#: wllegal/templates/legal/documents/privacy.html:46
 #, python-format
 msgid ""
 "for providing our services on the Service, to contact you in matters "
@@ -276,7 +125,7 @@ msgstr ""
 "avtalsenliga eller kontraktsmässiga skyldigheter (<a href=\"%(url)s\"> "
 "Artikel 6 (1) b. GDPR</a>)"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:47
+#: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
 msgid ""
 "to analyze your use of our services and improve our services (<a href="
@@ -285,7 +134,7 @@ msgstr ""
 "att analysera din användning av våra tjänster och förbättra våra tjänster "
 "(<a href=\"%(url)s\">artikel 6 (1) b. och  f. GDPR</a>)"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:48
+#: wllegal/templates/legal/documents/privacy.html:48
 #, python-format
 msgid ""
 "with your express consent or instruction to carry out our business "
@@ -296,11 +145,11 @@ msgstr ""
 "affärsverksamhet eller skicka nyhetsbrev till dig (<a href=\"%(url)s"
 "\">artikel 6 (1) a. GDPR</a>)"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:51
+#: wllegal/templates/legal/documents/privacy.html:51
 msgid "Access to the Personal Data"
 msgstr "Åtkomst till persondata"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:53
+#: wllegal/templates/legal/documents/privacy.html:53
 msgid ""
 "The Controller has made all reasonable technical means to protect the "
 "Personal Data. Only authorized persons can access the Personal Data."
@@ -309,28 +158,28 @@ msgstr ""
 "personuppgifterna. Endast auktoriserade personer kan komma åt "
 "personuppgifterna."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:55
+#: wllegal/templates/legal/documents/privacy.html:55
 msgid ""
 "Third parties which can gain access to the Personal Data when necessary are:"
 msgstr "Utomstående som vid behov kan få tillgång till personuppgifterna är:"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:58
+#: wllegal/templates/legal/documents/privacy.html:58
 msgid "Persons which are contracted for technical assurance of the service."
 msgstr "Personer som anlitas för teknisk försäkran om tjänsten."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:59
+#: wllegal/templates/legal/documents/privacy.html:59
 msgid "Payment processors."
 msgstr "Betalningstjänster."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:62
+#: wllegal/templates/legal/documents/privacy.html:62
 msgid "All Personal Data is stored in the European Union."
 msgstr "Alla personuppgifter lagras i Europeiska unionen."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:64
+#: wllegal/templates/legal/documents/privacy.html:64
 msgid "The Personal Data retention"
 msgstr "Lagringen av personuppgifter"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:66
+#: wllegal/templates/legal/documents/privacy.html:66
 msgid ""
 "The Personal Data is stored in the Service until the User deletes their "
 "account on the service."
@@ -338,7 +187,7 @@ msgstr ""
 "Persondata lagras i tjänsten tills användaren raderar sitt konto hos "
 "tjänsten."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:68
+#: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "Access log information might be collected for a longer period for the "
 "purpose of establishing, exercising or defending legal claims."
@@ -346,11 +195,11 @@ msgstr ""
 "Åtkomstlogginformation kan samlas in under en längre tid för att fastställa, "
 "utöva eller försvara rättsliga anspråk."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:70
+#: wllegal/templates/legal/documents/privacy.html:70
 msgid "Your rights"
 msgstr "Dina rättigheter"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:72
+#: wllegal/templates/legal/documents/privacy.html:72
 msgid ""
 "The User provides use of Personal Data voluntarily. Without this Personal "
 "Data Weblate is not able to provide our services."
@@ -358,7 +207,7 @@ msgstr ""
 "Användaren tillhandahåller användning av personuppgifter frivilligt. Utan "
 "dessa personuppgifter kan Weblate inte tillhandahålla våra tjänster."
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:74
+#: wllegal/templates/legal/documents/privacy.html:74
 msgid ""
 "We want you to always be in control of your Personal Data. To this end, you "
 "have certain rights that allow for it. Under certain conditions, you may:"
@@ -367,7 +216,7 @@ msgstr ""
 "ändamål har du vissa rättigheter som tillåter det. Under vissa "
 "förutsättningar kan du:"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:78
+#: wllegal/templates/legal/documents/privacy.html:78
 #, python-format
 msgid ""
 "Gain access to all your Personal Data that Weblate uses or processes, and "
@@ -377,7 +226,7 @@ msgstr ""
 "behandlar, och även få en kopia av allt det (<a href=\"%(url)s\">Artikel 15 "
 "GDPR</a>)"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:79
+#: wllegal/templates/legal/documents/privacy.html:79
 msgid ""
 "Correct the Personal Data that Weblate processes if you think that there are "
 "mistakes"
@@ -385,19 +234,19 @@ msgstr ""
 "Korrigera de personuppgifter som Weblate behandlar om du tror att det finns "
 "misstag"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:80
+#: wllegal/templates/legal/documents/privacy.html:80
 msgid "Order us to delete your Personal Data"
 msgstr "Beordra oss att radera dina personuppgifter"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:81
+#: wllegal/templates/legal/documents/privacy.html:81
 msgid "Restrict the Personal Data processing"
 msgstr "Begränsa behandlingen av personuppgifter"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:82
+#: wllegal/templates/legal/documents/privacy.html:82
 msgid "Object to processing"
 msgstr "Objekt för behandling"
 
-#: wlhosted/legal/templates/legal/documents/privacy.html:83
+#: wllegal/templates/legal/documents/privacy.html:83
 msgid ""
 "Receive your Personal Data in a commonly used and machine-readable format or "
 "to transmit this Personal Data to a different provider."
@@ -405,14 +254,14 @@ msgstr ""
 "Ta emot dina personuppgifter i ett allmänt använt och maskinläsbart format "
 "eller för att överföra dessa personuppgifter till en annan leverantör."
 
-#: wlhosted/legal/templates/legal/documents/summary.html:4
+#: wllegal/templates/legal/documents/summary.html:4
 msgid ""
 "The services are provided “as is”, at your own risk, without any warranty."
 msgstr ""
 "Tjänsterna tillhandahålls \"i befintligt skick\", på egen risk, utan någon "
 "garanti."
 
-#: wlhosted/legal/templates/legal/documents/summary.html:5
+#: wllegal/templates/legal/documents/summary.html:5
 msgid ""
 "Additional guarantees might apply to commercial customers, those are "
 "expressed in corresponding contracts."
@@ -420,7 +269,7 @@ msgstr ""
 "Ytterligare garantier kan gälla för kommersiella kunder, som uttrycks i "
 "motsvarande kontrakt."
 
-#: wlhosted/legal/templates/legal/documents/summary.html:6
+#: wllegal/templates/legal/documents/summary.html:6
 msgid ""
 "We process private data (such as your e-mail address), those will be "
 "discarded from our database as soon as you remove your account."
@@ -428,13 +277,13 @@ msgstr ""
 "Vi behandlar privata data (till exempel din e-postadress), de kommer att "
 "kasseras från vår databas så snart du tar bort ditt konto."
 
-#: wlhosted/legal/templates/legal/documents/summary.html:7
+#: wllegal/templates/legal/documents/summary.html:7
 msgid ""
 "Your translations are made under license which is specified by each "
 "translation."
 msgstr "Dina översättningar görs under licens som anges av varje översättning."
 
-#: wlhosted/legal/templates/legal/documents/summary.html:8
+#: wllegal/templates/legal/documents/summary.html:8
 msgid ""
 "Your name and e-mail address is used in VCS commits, it will stay there "
 "indefinitely."
@@ -442,15 +291,15 @@ msgstr ""
 "Ditt namn och din e-postadress används i VCS-åtaganden, den kommer att "
 "stanna där på obestämd tid."
 
-#: wlhosted/legal/templates/legal/documents/summary.html:9
+#: wllegal/templates/legal/documents/summary.html:9
 msgid "We use cookies to deliver our services."
 msgstr "Vi använder kakor för att leverera våra tjänster."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:10
+#: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
 msgstr "Visa versionen på engelska"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:11
+#: wllegal/templates/legal/documents/tos.html:11
 msgid ""
 "The Terms of Service document is authoritative in English, translations are "
 "provided for your convenience."
@@ -458,7 +307,7 @@ msgstr ""
 "Dokumentet med användarvillkor för tjänsten är endast giltigt på engelska "
 "och översättningarna har publicerats av hänsyn till användarna."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:17
+#: wllegal/templates/legal/documents/tos.html:17
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these Terms of Service."
@@ -466,19 +315,19 @@ msgstr ""
 "Rättigheter och skyldigheter för användaren och leverantören som följer av "
 "användningen av tjänsten styrs av dessa användarvillkor."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:20
+#: wllegal/templates/legal/documents/tos.html:20
 msgid "Definitions"
 msgstr "Definitioner"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:22
+#: wllegal/templates/legal/documents/tos.html:22
 msgid "In these Terms of Service:"
 msgstr "I villkoren för användning av tjänsten:"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:26
+#: wllegal/templates/legal/documents/tos.html:26
 msgid "Agreement"
 msgstr "Överenskommelse"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:27
+#: wllegal/templates/legal/documents/tos.html:27
 msgid ""
 "means License Agreement within the meaning of Article 2358 et seq. of the "
 "Civil Code concluded by and between the User and the Provider upon the "
@@ -488,21 +337,21 @@ msgstr ""
 "med fortsättning, fattat av och mellan användaren och tillhandahållaren av "
 "tjänsten efter givet samtycke"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:29
+#: wllegal/templates/legal/documents/tos.html:29
 msgid "Civil Code"
 msgstr "Civilkod"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:30
+#: wllegal/templates/legal/documents/tos.html:30
 #, python-format
 msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgstr ""
 "betyder artikel nummer %(law_89_2012)s i civilkoden, såsom i senaste ändring"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:32
+#: wllegal/templates/legal/documents/tos.html:32
 msgid "Consent"
 msgstr "Samtycke"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:33
+#: wllegal/templates/legal/documents/tos.html:33
 msgid ""
 "means the User’s consent with these Terms of Service and other legal "
 "documents expressed by checking the checkbox during the registration"
@@ -511,12 +360,12 @@ msgstr ""
 "andra juridiska dokument specificerade genom att bocka i kryssrutan under "
 "registreringen"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:35
-#: wlhosted/legal/templates/legal/documents/tos.html:131
+#: wllegal/templates/legal/documents/tos.html:35
+#: wllegal/templates/legal/documents/tos.html:131
 msgid "Cookies"
 msgstr "Cookies"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:36
+#: wllegal/templates/legal/documents/tos.html:36
 msgid ""
 "means any datafile sent by the web server of the Service to the User’s "
 "computer or other device connected to the Internet, which enable obtaining "
@@ -526,11 +375,11 @@ msgstr ""
 "dator eller annan enhet som är ansluten till Internet, vilket gör det "
 "möjligt att erhålla unik identifiering av användarens webbläsare"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:39
+#: wllegal/templates/legal/documents/tos.html:39
 msgid "GDPR"
 msgstr "GDPR"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:40
+#: wllegal/templates/legal/documents/tos.html:40
 #, python-format
 msgid ""
 "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
@@ -539,11 +388,11 @@ msgstr ""
 "avser EU:s förordning nr. %(law_679_2016)s, den allmänna "
 "dataskyddsförordningen"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:42
+#: wllegal/templates/legal/documents/tos.html:42
 msgid "License"
 msgstr "Licens"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:43
+#: wllegal/templates/legal/documents/tos.html:43
 msgid ""
 "means non-exclusive license granted by the Provider to the User for use of "
 "the Service"
@@ -551,21 +400,21 @@ msgstr ""
 "innebär icke-exklusiv licens som beviljats av leverantören till användaren "
 "för användning av tjänsten"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:45
+#: wllegal/templates/legal/documents/tos.html:45
 msgid "Provider"
 msgstr "Leverantör"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:46
+#: wllegal/templates/legal/documents/tos.html:46
 #, python-format
 msgid "means %(provider)s, Reg. No. %(reg_no)s"
 msgstr "betyder %(provider)s, Reg. Nr. %(reg_no)s"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:48
-#: wlhosted/legal/templates/legal/documents/tos.html:98
+#: wllegal/templates/legal/documents/tos.html:48
+#: wllegal/templates/legal/documents/tos.html:98
 msgid "Personal Data"
 msgstr "Personlig data"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:49
+#: wllegal/templates/legal/documents/tos.html:49
 #, python-format
 msgid ""
 "means personal data within the meaning of EU Regulation No. %(law_679_2016)s "
@@ -574,47 +423,47 @@ msgstr ""
 "betyder personuppgifter i den mening som avses i EU-förordningen nr "
 "%(law_679_2016)s som införts av användaren i tjänsten och/eller kakor"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:51
+#: wllegal/templates/legal/documents/tos.html:51
 msgid "Owner"
 msgstr "Ägare"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:52
+#: wllegal/templates/legal/documents/tos.html:52
 msgid "means the User who can manage Project"
 msgstr "betyder användaren som kan hantera projektet"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:54
+#: wllegal/templates/legal/documents/tos.html:54
 msgid "Project"
 msgstr "Projekt"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:55
+#: wllegal/templates/legal/documents/tos.html:55
 msgid "means translation project operated on the Service"
 msgstr "betyder översättningsprojekt som drivs på Tjänsten"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:57
+#: wllegal/templates/legal/documents/tos.html:57
 msgid "Service"
 msgstr "Tjänst"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:58
+#: wllegal/templates/legal/documents/tos.html:58
 msgid ""
 "means the website and services based on Weblate operated by the Provider"
 msgstr ""
 "avser webbplatsen och tjänsterna baserade på Weblate som drivs av "
 "leverantören"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:60
+#: wllegal/templates/legal/documents/tos.html:60
 msgid "Translation Memory"
 msgstr "Översättningsminne"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:61
+#: wllegal/templates/legal/documents/tos.html:61
 msgid "means the optional translation memory service provided within Weblate"
 msgstr ""
 "betyder valfri översättningsminnestjänst som tillhandahålls inom Weblate"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:63
+#: wllegal/templates/legal/documents/tos.html:63
 msgid "User"
 msgstr "Användare"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:64
+#: wllegal/templates/legal/documents/tos.html:64
 msgid ""
 "means any legal entity or an individual other than the Provider, who is "
 "using the Service"
@@ -622,11 +471,11 @@ msgstr ""
 "betyder varje juridisk person eller någon annan än leverantören som använder "
 "tjänsten"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:66
+#: wllegal/templates/legal/documents/tos.html:66
 msgid "VCS"
 msgstr "VCS"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:67
+#: wllegal/templates/legal/documents/tos.html:67
 msgid ""
 "means distributed version control system used by the Project such as Git or "
 "Mercurial"
@@ -634,21 +483,21 @@ msgstr ""
 "betyder distribuerat versionskontrollsystem som används av projekt som Git "
 "eller Mercurial"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:71
+#: wllegal/templates/legal/documents/tos.html:71
 msgid "License Agreement Conclusion"
 msgstr "Licensavtalets slutsats"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:73
+#: wllegal/templates/legal/documents/tos.html:73
 msgid ""
 "The License Agreement is concluded upon the User’s Acceptance of the "
 "Provider’s Offer."
 msgstr "Licensavtalet ingås när användaren godkänner leverantörens erbjudande."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:76
+#: wllegal/templates/legal/documents/tos.html:76
 msgid "License Agreement"
 msgstr "Licensavtal"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:78
+#: wllegal/templates/legal/documents/tos.html:78
 msgid ""
 "By concluding Agreement under Article 2.1 of this Agreement, the following "
 "provisions of this Article 3 of the Terms of Service come into force."
@@ -656,7 +505,7 @@ msgstr ""
 "Genom att ingå avtal enligt artikel 2.1 i detta avtal, träder följande "
 "bestämmelser i denna artikel 3 i användarvillkoren i kraft."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:80
+#: wllegal/templates/legal/documents/tos.html:80
 msgid ""
 "The Provider presents the User with a License Agreement and the User accepts "
 "this License Agreement, all this under the terms and conditions stated in "
@@ -666,7 +515,7 @@ msgstr ""
 "accepterar detta licensavtal, allt detta enligt de villkor som anges i dessa "
 "användarvillkor."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:82
+#: wllegal/templates/legal/documents/tos.html:82
 msgid ""
 "The Provider shall have the right to shut down, adjust, modify or make the "
 "Service unavailable on the web address at any time."
@@ -674,7 +523,7 @@ msgstr ""
 "Leverantören ska ha rätt att när som helst stänga av, justera, modifiera "
 "eller göra tjänsten otillgänglig på webbadressen."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:84
+#: wllegal/templates/legal/documents/tos.html:84
 msgid ""
 "The User agrees to use the Service only in a manner not jeopardizing "
 "technical software and/or hardware means of the Provider and/or such means "
@@ -684,7 +533,7 @@ msgstr ""
 "äventyrar teknisk programvara och/eller hårdvara för leverantören och/eller "
 "sådana medel i leverantörens användning."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:86
+#: wllegal/templates/legal/documents/tos.html:86
 msgid ""
 "The User agrees to refrain from use of the Service in bad faith and/or "
 "deliberately causing any damage to the Service."
@@ -692,7 +541,7 @@ msgstr ""
 "Användaren samtycker till att avstå från att använda tjänsten i ond tro och/"
 "eller avsiktligt orsaka någon skada på tjänsten."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:88
+#: wllegal/templates/legal/documents/tos.html:88
 msgid ""
 "The User agrees to refrain from bypassing the Service’s software and/or "
 "technical hardware means, in particular the security systems."
@@ -700,11 +549,11 @@ msgstr ""
 "Användaren samtycker till att avstå från att kringgå tjänstens programvara "
 "och/eller tekniska hårdvara, särskilt säkerhetssystemen."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:91
+#: wllegal/templates/legal/documents/tos.html:91
 msgid "Liability for Damage"
 msgstr "Ansvar för skada"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:93
+#: wllegal/templates/legal/documents/tos.html:93
 msgid ""
 "The User hereby renders it undisputed that the Provider shall not be liable "
 "for any damage caused to the User resulting from the use of the Service."
@@ -713,7 +562,7 @@ msgstr ""
 "eventuella skador som orsakats användaren till följd av användningen av "
 "tjänsten."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:95
+#: wllegal/templates/legal/documents/tos.html:95
 msgid ""
 "If the User is an entrepreneur, it hereby expressly waives its right to "
 "compensation from the Provider for damage unintentionally caused by the "
@@ -725,7 +574,7 @@ msgstr ""
 "till användaren genom en överträdelse av någon skyldighet i dessa "
 "användarvillkor och/eller till följd av användning av tjänsten."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:101
+#: wllegal/templates/legal/documents/tos.html:101
 #, python-format
 msgid ""
 "Within the meaning of <a href=\"%(url)s\">Article 7</a> of the GDPR the User "
@@ -746,7 +595,7 @@ msgstr ""
 "affärspartners. Detta medgivande ges så länge användaren inte tar bort sitt "
 "konto från tjänsten."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:103
+#: wllegal/templates/legal/documents/tos.html:103
 #, python-format
 msgid ""
 "The purpose of the processing of Personal Data as determined by the Provider "
@@ -765,7 +614,7 @@ msgstr ""
 "leverantörens avtalspartner och för leverantörens statistiska och/eller "
 "marknadsföringsmässiga ändamål."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:105
+#: wllegal/templates/legal/documents/tos.html:105
 msgid ""
 "If the User directly and effectively informs the Provider of no longer "
 "wishing to receive business information from the Provider, the Provider "
@@ -775,7 +624,7 @@ msgstr ""
 "längre vill ta emot företagsinformation från leverantören, ska leverantören "
 "avstå från att skicka ytterligare oönskad affärskommunikation."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:109
+#: wllegal/templates/legal/documents/tos.html:109
 #, python-format
 msgid ""
 "The User declares awareness of own rights under <a href=\"%(url_15)s"
@@ -788,7 +637,7 @@ msgstr ""
 "GDPR och försäkrar att alla personuppgifter är korrekta och sanningsenliga "
 "och har tillhandahållits frivilligt."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:111
+#: wllegal/templates/legal/documents/tos.html:111
 msgid ""
 "The Provider declares that it will collect Personal Data only in the extent "
 "necessary for meeting the above-specified purpose and process the Personal "
@@ -806,7 +655,7 @@ msgstr ""
 "sekretessen för personuppgifterna, även efter det att deras anställning "
 "eller affärsrelation med leverantören har upphört ."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:113
+#: wllegal/templates/legal/documents/tos.html:113
 msgid ""
 "The Provider declares that it will process the Personal Data by electronic "
 "means (automatically) via computer programs for which the Provider has "
@@ -816,7 +665,7 @@ msgstr ""
 "elektronisk väg (automatiskt) via datorprogram som leverantören har säkrat "
 "nyttjanderätten till, i synnerhet tjänsten."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:115
+#: wllegal/templates/legal/documents/tos.html:115
 msgid ""
 "The User’s consent under this Article 5 of the Terms of Service constitutes "
 "a free and informed juridical act which concerns the consent of the subject "
@@ -826,11 +675,11 @@ msgstr ""
 "fri och informerad juridisk handling som avser samtycke från föremålet för "
 "uppgifterna (användaren) med behandling av personuppgifter."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:118
+#: wllegal/templates/legal/documents/tos.html:118
 msgid "Translations"
 msgstr "Översättningar"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:120
+#: wllegal/templates/legal/documents/tos.html:120
 msgid ""
 "The Service organizes translation into individual Projects, where the Owner "
 "is responsible for managing them and for specifying accurately the license "
@@ -840,7 +689,7 @@ msgstr ""
 "ansvarig för att hantera dem och för att exakt specificera licensen för "
 "projektet."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:122
+#: wllegal/templates/legal/documents/tos.html:122
 msgid ""
 "Not specifying translation license means that the translations are available "
 "under same license as the given Project itself."
@@ -848,7 +697,7 @@ msgstr ""
 "Att inte ange översättnings licens innebär att översättningarna är "
 "tillgängliga under samma licens som det givna projektet."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:124
+#: wllegal/templates/legal/documents/tos.html:124
 msgid ""
 "Should the Project opt in for the Translation Memory, license to use the "
 "translation is granted to all Translation Memory users."
@@ -856,7 +705,7 @@ msgstr ""
 "Om projektet skulle anmäla sig till översättningsminnet beviljas alla "
 "användare av översättningsminnen licens att använda översättningen."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:126
+#: wllegal/templates/legal/documents/tos.html:126
 msgid ""
 "The User agrees, upon contributing to a Project, to the license the Project "
 "has specified."
@@ -864,7 +713,7 @@ msgstr ""
 "Användaren samtycker, vid bidrag till ett projekt, till licensen som "
 "projektet har specificerat."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:128
+#: wllegal/templates/legal/documents/tos.html:128
 msgid ""
 "The User agrees to use of own name and e-mail as authorship in the VCS "
 "commits. The User understands that this grant is non revocable due to nature "
@@ -874,7 +723,7 @@ msgstr ""
 "i VCS begår. Användaren förstår att detta bidrag inte kan återkallas på "
 "grund av arten av VCS."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:133
+#: wllegal/templates/legal/documents/tos.html:133
 #, python-format
 msgid ""
 "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
@@ -885,18 +734,18 @@ msgstr ""
 "elektronisk kommunikation, såsom ändrat, användaren informeras om att "
 "tjänsten använder cookies."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:135
+#: wllegal/templates/legal/documents/tos.html:135
 msgid ""
 "The Service uses cookies to personalise content, and to analyse our traffic."
 msgstr ""
 "Tjänsten använder cookies för att personifiera innehåll och för att "
 "analysera vår trafik."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:138
+#: wllegal/templates/legal/documents/tos.html:138
 msgid "Governing Law"
 msgstr "Gällande lag"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:140
+#: wllegal/templates/legal/documents/tos.html:140
 msgid ""
 "These Terms of Service shall be governed by the laws of the Czech Republic "
 "with exclusion of conflict rules."
@@ -904,7 +753,7 @@ msgstr ""
 "Dessa användarvillkor ska regleras av lagarna i Tjeckien med undantag av "
 "lagvalsregler."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:142
+#: wllegal/templates/legal/documents/tos.html:142
 msgid ""
 "Any disputes arising on the basis of the Agreement and/or these Terms of "
 "Service shall be resolved by the court of the Czech republic having "
@@ -914,208 +763,284 @@ msgstr ""
 "användarvillkor skall lösas av domstolen i Tjeckien som har materiell och "
 "lokal jurisdiktion."
 
-#: wlhosted/legal/templates/legal/documents/tos.html:145
+#: wllegal/templates/legal/documents/tos.html:145
 msgid "Effect"
 msgstr "Effekt"
 
-#: wlhosted/legal/templates/legal/documents/tos.html:147
+#: wllegal/templates/legal/documents/tos.html:147
 msgid ""
 "These Terms of Service shall come into force and effect on 1st September "
 "2017."
 msgstr "Dessa användarvillkor träder i kraft den 1 september 2017."
 
-#: wlhosted/payments/backends.py:188
-msgid "Your payment on weblate.org"
-msgstr "Din betalning på weblate.org"
+#~ msgid "Generate Unknown Horizons scenario data"
+#~ msgstr "Generera Unknown Horizons scenariodata"
 
-#: wlhosted/payments/backends.py:190
-#, python-format
-msgid ""
-"Hello,\n"
-"\n"
-"Thank you for your payment on weblate.org.\n"
-"\n"
-"You will find an invoice for this payment attached.\n"
-"Alternatively, you can download it from the website:\n"
-"\n"
-"%s\n"
-msgstr ""
-"Hej,\n"
-"\n"
-"Tack för din betalning på weblate.org.\n"
-"\n"
-"Du hittar en faktura för denna betalning bifogad.\n"
-"Alternativt, kan du ladda ner den från hemsidan:\n"
-"\n"
-"%s\n"
+#~ msgid "Reset repository to upstream"
+#~ msgstr "Återställ förrådet till uppströms"
 
-#: wlhosted/payments/backends.py:216
-msgid "Your payment on weblate.org failed"
-msgstr "Din betalning på weblate.org misslyckades"
+#~ msgid "Reset all changes in the local repository"
+#~ msgstr "Återställ alla ändringar i det lokala förrådet"
 
-#: wlhosted/payments/backends.py:218
-#, python-format
-msgid ""
-"Hello,\n"
-"\n"
-"Your payment on weblate.org has failed.\n"
-"\n"
-"%s\n"
-"\n"
-"Retry issuing the payment on the website:\n"
-"\n"
-"%s\n"
-"\n"
-"If concerning a recurring payment, it is retried three times,\n"
-"and if still failing, cancelled.\n"
-msgstr ""
-"Hej,\n"
-"\n"
-"Din betalning på weblate.org har misslyckats.\n"
-"\n"
-"%s\n"
-"\n"
-"Försök igen att utfärda betalningen på webbplatsen:\n"
-"\n"
-"%s\n"
-"\n"
-"Om det gäller en återkommande betalning, försöks den igen tre gånger\n"
-"och om det fortfarande misslyckas, annulleras.\n"
+#~ msgid "Billing"
+#~ msgstr "Fakturering"
 
-#: wlhosted/payments/backends.py:251
-msgid "Your pending payment on weblate.org"
-msgstr "Din väntande betalning på weblate.org"
+#~ msgid "Choose the billing plan you want to update"
+#~ msgstr "Välj den faktureringsplan du vill uppdatera"
 
-#: wlhosted/payments/backends.py:253
-msgid ""
-"Hello,\n"
-"\n"
-"Your payment on weblate.org is pending. Please follow the provided\n"
-"instructions to complete the payment.\n"
-msgstr ""
-"Hej,\n"
-"\n"
-"Din betalning på weblate.org är väntande. Vänligen följ de medföljande\n"
-"instruktionerna för att slutföra betalningen.\n"
+#~ msgid "Create new billing plan"
+#~ msgstr "Skapa ny faktureringsplan"
 
-#: wlhosted/payments/backends.py:335
-msgid "Payment card"
-msgstr "Betalkort"
+#~ msgid "Create billing plan"
+#~ msgstr "Skapa faktureringsplan"
 
-#: wlhosted/payments/backends.py:411
-msgid "Payment cancelled"
-msgstr "Betalning avbruten"
+#~ msgid "New billing plan"
+#~ msgstr "Ny faktureringsplan"
 
-#: wlhosted/payments/backends.py:413
-msgid "Payment error"
-msgstr "Betalningsfel"
+#~ msgid "Please choose a hosting plan that fits the size of your project."
+#~ msgstr "Välj ett hosting-abbonnemang som passar ditt projekts storlek."
 
-#: wlhosted/payments/backends.py:425
-msgid "Bitcoin"
-msgstr "Bitcoin"
+#~ msgid "Current billing status"
+#~ msgstr "Aktuell faktureringsstatus"
 
-#: wlhosted/payments/backends.py:434
-msgid "IBAN bank transfer"
-msgstr "IBAN banköverföring"
+#~ msgid "Too small for your project."
+#~ msgstr "För liten för ditt projekt."
 
-#: wlhosted/payments/backends.py:464
-msgid "Issuing bank"
-msgstr "Utfärdande bank"
+#~ msgid "Too small"
+#~ msgstr "För liten"
 
-#: wlhosted/payments/backends.py:465
-msgid "Account holder"
-msgstr "Kontoinnehavare"
+#~ msgid "Selected plan"
+#~ msgstr "Vald plan"
 
-#: wlhosted/payments/backends.py:466
-msgid "Account number"
-msgstr "Kontonummer"
+#~ msgid "Current plan"
+#~ msgstr "Aktuell plan"
 
-#: wlhosted/payments/backends.py:467
-msgid "SWIFT code"
-msgstr "SWIFT-kod"
+#~ msgid "Strings limit"
+#~ msgstr "Strängbegränsning"
 
-#: wlhosted/payments/backends.py:468
-msgid "IBAN"
-msgstr "IBAN"
+#~ msgid "Unlimited"
+#~ msgstr "Obegränsat"
 
-#: wlhosted/payments/backends.py:469
-msgid "Reference"
-msgstr "Referens"
+#~ msgid "Languages limit"
+#~ msgstr "Språkbegränsning"
 
-#: wlhosted/payments/models.py:83
-msgid "European VAT ID"
-msgstr "Europeiskt moms-ID"
+#~ msgid "Component limit"
+#~ msgstr "Komponentgräns"
 
-#: wlhosted/payments/models.py:85
-msgid "Please fill in European Union VAT ID, leave blank if not applicable."
-msgstr "Vänligen fyll i EU:s moms-ID, lämna tomt om inte tillämpligt."
+#~ msgid "Projects limit"
+#~ msgstr "Projektbegränsning"
 
-#: wlhosted/payments/models.py:91
-msgid "Tax registration"
-msgstr "Skatteregistrering"
+#~ msgid "%(price)s EUR / month"
+#~ msgstr "%(price)s EUR / månad"
 
-#: wlhosted/payments/models.py:93
-msgid ""
-"Please fill in your tax registration if it should appear on the invoice."
-msgstr "Vänligen fyll i din skatteregistrering om den ska visas på fakturan."
+#~ msgid "%(price)s EUR including VAT"
+#~ msgstr "%(price)s EURO inklusive MOMS"
 
-#: wlhosted/payments/models.py:100
-msgid "Company or individual name"
-msgstr "Företag eller enskilt namn"
+#~ msgid "%(price)s EUR / year"
+#~ msgstr "%(price)s EUR / år"
 
-#: wlhosted/payments/models.py:103
-msgid "Address"
-msgstr "Adress"
+#~ msgid ""
+#~ "Pricing is based on the number of source strings and target languages. "
+#~ "The source string is a text unit defined in a translation format, it can "
+#~ "be a word, sentence or paragraph."
+#~ msgstr ""
+#~ "Prissättning baseras på antalet källsträngar och språk. Källsträngen är "
+#~ "en textenhet definierad i ett översättningsformat, det kan vara ett ord, "
+#~ "en mening eller ett stycke."
 
-#: wlhosted/payments/models.py:106
-msgid "Postcode and city"
-msgstr "Postnummer och stad"
+#~ msgid "All listed prices exclude VAT."
+#~ msgstr "Alla listade priser är exklusive moms."
 
-#: wlhosted/payments/models.py:108
-msgid "Country"
-msgstr "Land"
+#~ msgid ""
+#~ "EU end users and Czech companies will be charged with additional 21%% VAT."
+#~ msgstr ""
+#~ "EU-slutanvändare och tjeckiska företag kommer att debiteras ytterligare "
+#~ "21%% moms."
 
-#: wlhosted/payments/models.py:136
-msgid "The country has to match your VAT code"
-msgstr "Landet måste matcha din momskod"
+#~ msgid ""
+#~ "The reverse charge applies to invoices issued to businesses within the EU."
+#~ msgstr ""
+#~ "Den omvända avgiften gäller fakturor som utfärdas till företag inom EU."
 
-#: wlhosted/payments/models.py:159
-msgid "Annual"
-msgstr "Årlig"
+#~ msgid "No matching payment found."
+#~ msgstr "Ingen matchande betalning hittades."
 
-#: wlhosted/payments/models.py:160
-msgid "Biannual"
-msgstr "Två gånger om året"
+#~ msgid "Thank you for purchasing a hosting plan, it is now active."
+#~ msgstr "Tack för att du tecknat ett hosting-abbonemang, det är nu aktivt."
 
-#: wlhosted/payments/models.py:161
-msgid "Quarterly"
-msgstr "Kvartalsvis"
+#~ msgid ""
+#~ "Thank you for purchasing a hosting plan, the payment for it is pending "
+#~ "and will be processed in the background."
+#~ msgstr ""
+#~ "Tack för att du tecknar ett hosting-abbonemang, betalningen för det är "
+#~ "pågående och kommer att bearbetas i bakgrunden."
 
-#: wlhosted/payments/models.py:162
-msgid "Monthly"
-msgstr "Månatlig"
+#~ msgid "The payment was rejected: {}"
+#~ msgstr "Betalningen avvisades: {}"
 
-#: wlhosted/payments/models.py:163
-msgid "Onetime"
-msgstr "En gång"
+#~ msgid "Unknown reason"
+#~ msgstr "Okänd anledning"
 
-#: wlhosted/payments/validators.py:38
-msgid "{} is not a valid country code for any European Union member."
-msgstr "{} är inte en giltig landskod för någon EU-medlem."
+#~ msgid "Payments are temporarily inactive."
+#~ msgstr "Betalningar är tillfälligt inaktiva."
 
-#: wlhosted/payments/validators.py:43
-msgid "{} does not match the country's VAT ID specifications."
-msgstr "{} stämmer inte med landets moms-ID-specifikationer."
+#~ msgid "Your payment on weblate.org"
+#~ msgstr "Din betalning på weblate.org"
 
-#: wlhosted/payments/validators.py:50
-msgid "VAT ID validation service unavailable for {}, please try again later."
-msgstr ""
-"Valideringstjänsten för moms-ID är inte tillgänglig för {}, försök igen "
-"senare."
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "Thank you for your payment on weblate.org.\n"
+#~ "\n"
+#~ "You will find an invoice for this payment attached.\n"
+#~ "Alternatively, you can download it from the website:\n"
+#~ "\n"
+#~ "%s\n"
+#~ msgstr ""
+#~ "Hej,\n"
+#~ "\n"
+#~ "Tack för din betalning på weblate.org.\n"
+#~ "\n"
+#~ "Du hittar en faktura för denna betalning bifogad.\n"
+#~ "Alternativt, kan du ladda ner den från hemsidan:\n"
+#~ "\n"
+#~ "%s\n"
 
-#: wlhosted/payments/validators.py:53
-msgid "{} is not a valid VAT ID."
-msgstr "{} är inte ett giltigt moms-ID."
+#~ msgid "Your payment on weblate.org failed"
+#~ msgstr "Din betalning på weblate.org misslyckades"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "Your payment on weblate.org has failed.\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Retry issuing the payment on the website:\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "If concerning a recurring payment, it is retried three times,\n"
+#~ "and if still failing, cancelled.\n"
+#~ msgstr ""
+#~ "Hej,\n"
+#~ "\n"
+#~ "Din betalning på weblate.org har misslyckats.\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Försök igen att utfärda betalningen på webbplatsen:\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Om det gäller en återkommande betalning, försöks den igen tre gånger\n"
+#~ "och om det fortfarande misslyckas, annulleras.\n"
+
+#~ msgid "Your pending payment on weblate.org"
+#~ msgstr "Din väntande betalning på weblate.org"
+
+#~ msgid ""
+#~ "Hello,\n"
+#~ "\n"
+#~ "Your payment on weblate.org is pending. Please follow the provided\n"
+#~ "instructions to complete the payment.\n"
+#~ msgstr ""
+#~ "Hej,\n"
+#~ "\n"
+#~ "Din betalning på weblate.org är väntande. Vänligen följ de medföljande\n"
+#~ "instruktionerna för att slutföra betalningen.\n"
+
+#~ msgid "Payment card"
+#~ msgstr "Betalkort"
+
+#~ msgid "Payment cancelled"
+#~ msgstr "Betalning avbruten"
+
+#~ msgid "Payment error"
+#~ msgstr "Betalningsfel"
+
+#~ msgid "Bitcoin"
+#~ msgstr "Bitcoin"
+
+#~ msgid "IBAN bank transfer"
+#~ msgstr "IBAN banköverföring"
+
+#~ msgid "Issuing bank"
+#~ msgstr "Utfärdande bank"
+
+#~ msgid "Account holder"
+#~ msgstr "Kontoinnehavare"
+
+#~ msgid "Account number"
+#~ msgstr "Kontonummer"
+
+#~ msgid "SWIFT code"
+#~ msgstr "SWIFT-kod"
+
+#~ msgid "IBAN"
+#~ msgstr "IBAN"
+
+#~ msgid "Reference"
+#~ msgstr "Referens"
+
+#~ msgid "European VAT ID"
+#~ msgstr "Europeiskt moms-ID"
+
+#~ msgid "Please fill in European Union VAT ID, leave blank if not applicable."
+#~ msgstr "Vänligen fyll i EU:s moms-ID, lämna tomt om inte tillämpligt."
+
+#~ msgid "Tax registration"
+#~ msgstr "Skatteregistrering"
+
+#~ msgid ""
+#~ "Please fill in your tax registration if it should appear on the invoice."
+#~ msgstr ""
+#~ "Vänligen fyll i din skatteregistrering om den ska visas på fakturan."
+
+#~ msgid "Company or individual name"
+#~ msgstr "Företag eller enskilt namn"
+
+#~ msgid "Address"
+#~ msgstr "Adress"
+
+#~ msgid "Postcode and city"
+#~ msgstr "Postnummer och stad"
+
+#~ msgid "Country"
+#~ msgstr "Land"
+
+#~ msgid "The country has to match your VAT code"
+#~ msgstr "Landet måste matcha din momskod"
+
+#~ msgid "Annual"
+#~ msgstr "Årlig"
+
+#~ msgid "Biannual"
+#~ msgstr "Två gånger om året"
+
+#~ msgid "Quarterly"
+#~ msgstr "Kvartalsvis"
+
+#~ msgid "Monthly"
+#~ msgstr "Månatlig"
+
+#~ msgid "Onetime"
+#~ msgstr "En gång"
+
+#~ msgid "{} is not a valid country code for any European Union member."
+#~ msgstr "{} är inte en giltig landskod för någon EU-medlem."
+
+#~ msgid "{} does not match the country's VAT ID specifications."
+#~ msgstr "{} stämmer inte med landets moms-ID-specifikationer."
+
+#~ msgid ""
+#~ "VAT ID validation service unavailable for {}, please try again later."
+#~ msgstr ""
+#~ "Valideringstjänsten för moms-ID är inte tillgänglig för {}, försök igen "
+#~ "senare."
+
+#~ msgid "{} is not a valid VAT ID."
+#~ msgstr "{} är inte ett giltigt moms-ID."
 
 #~ msgid "Repositories limit"
 #~ msgstr "Arkivbegränsning"
