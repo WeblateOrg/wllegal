@@ -49,7 +49,7 @@ Usage
 -----
 
 Include the module in the `INSTALLED_APPS`, it has tbe placed prior to other
-Weblaate modules to override it's templates:
+Weblate modules to override it's templates:
 
 .. code-block:: python
 
