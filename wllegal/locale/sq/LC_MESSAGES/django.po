@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-03-13 08:42+0000\n"
-"PO-Revision-Date: 2020-03-13 09:36+0000\n"
+"PO-Revision-Date: 2020-03-13 09:42+0000\n"
 "Last-Translator: Michal Čihař <michal@cihar.com>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/weblate/legal/"
 "sq/>\n"
@@ -368,7 +368,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:35
 #: wllegal/templates/legal/documents/tos.html:131
 msgid "Cookies"
-msgstr "<em>Cookies</em>"
+msgstr "Cookies"
 
 #: wllegal/templates/legal/documents/tos.html:36
 msgid ""
@@ -407,7 +407,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:45
 msgid "Provider"
-msgstr "Furnizues Shërbimi"
+msgstr "Furnizues"
 
 #: wllegal/templates/legal/documents/tos.html:46
 #, python-format
@@ -538,9 +538,8 @@ msgid ""
 "in the Provider’s use."
 msgstr ""
 "Përdoruesi bie dakord të përdorë Shërbimin vetëm në një mënyrë që nuk "
-"rrezikon mjetet teknike <em>software</em> dhe/ose <em>hardware</em> të "
-"Furnizuesit të Shërbimit dhe/ose mjete të tilla në përdorim të Furnizuesit "
-"të Shërbimit."
+"rrezikon mjetet teknike software dhe/ose hardware të Furnizuesit të "
+"Shërbimit dhe/ose mjete të tilla në përdorim të Furnizuesit të Shërbimit."
 
 #: wllegal/templates/legal/documents/tos.html:86
 msgid ""
@@ -747,14 +746,14 @@ msgid ""
 msgstr ""
 "Sipas kuptimit të Nenit 89 të Aktit Nr. %(law_480_2004)s Coll., mbi "
 "komunikimet elektronike, siç është ndryshuar, Përdoruesi është në dijeni se "
-"Shërbimi përdor <em>cookies</em>."
+"Shërbimi përdor cookies."
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid ""
 "The Service uses cookies to personalise content, and to analyse our traffic."
 msgstr ""
-"Shërbimi përdor <em>cookies</em> për të personalizuar lëndë, dhe për të "
-"analizuar trafikun tonë."
+"Shërbimi përdor cookies për të personalizuar lëndë, dhe për të analizuar "
+"trafikun tonë."
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid "Governing Law"
