@@ -5,7 +5,6 @@
 # Exit on failure
 set -e
 
-export PYTHONPATH=../weblate
 export DJANGO_SETTINGS_MODULE=wllegal.settings_test
 
 # Lock Weblate
