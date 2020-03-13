@@ -38,7 +38,7 @@ class BabelSdist(sdist):
 
 setup(
     name="wllegal",
-    version="0.1",
+    version="0.2",
     packages=["wllegal"],
     include_package_data=True,
     license="GPLv3+",
