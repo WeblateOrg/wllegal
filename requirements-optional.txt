@@ -1,2 +1,2 @@
-Weblate
 psycopg2-binary
+Weblate

@@ -52,6 +52,7 @@ jobs:
         CI_DB_HOST: "localhost"
         DJANGO_SETTINGS_MODULE: wllegal.settings_test
       run: |
+        weblate collectstatic
         coverage run `which weblate` test
     - uses: codecov/codecov-action@v1
       with:
