@@ -32,7 +32,7 @@ think something should be part of Weblate, please open an issue.
 
 .. image:: https://readthedocs.org/projects/weblate/badge/
     :alt: Documentation
-    :target: https://docs.weblate.org/en/latest/wllegal.html
+    :target: https://docs.weblate.org/
 
 Installation
 ------------
