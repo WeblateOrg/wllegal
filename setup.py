@@ -21,12 +21,17 @@
 import os
 
 from setuptools import setup
+from setuptools.command.sdist import sdist as _sdist
+from babel.messages import frontend as babel
 
 with open("requirements.txt") as requirements:
     REQUIRES = requirements.read().splitlines()
 
 with open(os.path.join(os.path.dirname(__file__), "README.rst")) as readme:
     LONG_DESCRIPTION = readme.read()
+
+class sdist(_sdist):
+    sub_commands = _sdist.sub_commands + [('compile_catalog', None)]
 
 setup(
     name="wllegal",
@@ -61,5 +66,7 @@ setup(
         "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
     ],
     install_requires=REQUIRES,
+    setup_requires=["Babel"],
     long_description=LONG_DESCRIPTION,
+    cmdclass = {'compile_catalog': babel.compile_catalog, 'sdist': sdist},
 )
