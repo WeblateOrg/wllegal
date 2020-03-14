@@ -40,7 +40,7 @@ class BabelSdist(sdist):
 
 setup(
     name="wllegal",
-    version="0.3",
+    version="0.4",
     packages=["wllegal"],
     include_package_data=True,
     license="GPLv3+",
