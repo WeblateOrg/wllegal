@@ -33,7 +33,9 @@ with open(os.path.join(os.path.dirname(__file__), "README.rst")) as readme:
 
 
 class BabelSdist(sdist):
-    sub_commands = [("compile_catalog", None)] + sdist.sub_commands
+    def run(self):
+        self.run_command("compile_catalog")
+        super().run()
 
 
 setup(
