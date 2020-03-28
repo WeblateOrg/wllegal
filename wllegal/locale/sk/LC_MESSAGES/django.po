@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-03-13 08:42+0000\n"
-"PO-Revision-Date: 2020-03-19 09:36+0000\n"
+"PO-Revision-Date: 2020-03-28 15:39+0000\n"
 "Last-Translator: Ivan Pleva <ivan.pleva@tutanota.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/weblate/legal/sk/>"
 "\n"
@@ -359,6 +359,8 @@ msgid ""
 "means the User’s consent with these Terms of Service and other legal "
 "documents expressed by checking the checkbox during the registration"
 msgstr ""
+"rozumie sa súhlas Používateľa s týmito Podmienkami služby a ďalšími právnymi "
+"dokumentmi vyjadrený zaškrtnutím políčka počas registrácie"
 
 #: wllegal/templates/legal/documents/tos.html:35
 #: wllegal/templates/legal/documents/tos.html:131
@@ -371,6 +373,9 @@ msgid ""
 "computer or other device connected to the Internet, which enable obtaining "
 "unique identification of the User’s web browser"
 msgstr ""
+"rozumie sa údajový súbor odoslaný webovým serverom Služby na počítač alebo "
+"iné zariadenie Používateľa pripojené na Internet, ktorý umožňuje získanie "
+"jedinečnej identifikácie webového prehliadača Používateľa"
 
 #: wllegal/templates/legal/documents/tos.html:39
 msgid "GDPR"
@@ -382,6 +387,8 @@ msgid ""
 "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
 "Regulation"
 msgstr ""
+"rozumie sa nariadenie EÚ č. %(law_679_2016)s, Všeobecné nariadenie o ochrane "
+"údajov"
 
 #: wllegal/templates/legal/documents/tos.html:42
 msgid "License"
@@ -392,6 +399,8 @@ msgid ""
 "means non-exclusive license granted by the Provider to the User for use of "
 "the Service"
 msgstr ""
+"rozumie sa nevýhradná licencia udelená Poskytovateľom Používateľovi na "
+"používanie Služby"
 
 #: wllegal/templates/legal/documents/tos.html:45
 msgid "Provider"
@@ -400,7 +409,7 @@ msgstr "Poskytovateľ"
 #: wllegal/templates/legal/documents/tos.html:46
 #, python-format
 msgid "means %(provider)s, Reg. No. %(reg_no)s"
-msgstr ""
+msgstr "rozumie sa %(provider)s, reg. č. %(reg_no)s"
 
 #: wllegal/templates/legal/documents/tos.html:48
 #: wllegal/templates/legal/documents/tos.html:98
@@ -413,6 +422,8 @@ msgid ""
 "means personal data within the meaning of EU Regulation No. %(law_679_2016)s "
 "inserted by the User into the Service and/or Cookies"
 msgstr ""
+"rozumejú sa osobné údaje v zmysle nariadenia EÚ č. %(law_679_2016)s vložené "
+"Používateľom do Služby a/alebo súbory cookies"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Owner"
@@ -494,6 +505,8 @@ msgid ""
 "By concluding Agreement under Article 2.1 of this Agreement, the following "
 "provisions of this Article 3 of the Terms of Service come into force."
 msgstr ""
+"Uzatvorením Zmluvy podľa čl. 2.1 tejto Zmluvy vstupujú do platnosti "
+"nasledujúce ustanovenia čl. 3 Podmienok služby."
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid ""
@@ -501,12 +514,17 @@ msgid ""
 "this License Agreement, all this under the terms and conditions stated in "
 "these Terms of Service."
 msgstr ""
+"Poskytovateľ predkladá Používateľovi Licenčnú zmluvu a Používateľ akceptuje "
+"túto Licenčnú zmluvu, a to všetko za podmienok uvedených v Podmienkach "
+"služby."
 
 #: wllegal/templates/legal/documents/tos.html:82
 msgid ""
 "The Provider shall have the right to shut down, adjust, modify or make the "
 "Service unavailable on the web address at any time."
 msgstr ""
+"Poskytovateľ si vyhradzuje právo kedykoľvek ukončiť, upraviť alebo "
+"zneprístupniť Službu na webovej adrese."
 
 #: wllegal/templates/legal/documents/tos.html:84
 msgid ""
@@ -514,18 +532,25 @@ msgid ""
 "technical software and/or hardware means of the Provider and/or such means "
 "in the Provider’s use."
 msgstr ""
+"Používateľ súhlasí s používaním Služby iba takým spôsobom, ktorý neohrozuje "
+"technické softvérové a/alebo hardvérové prostriedky Poskytovateľa a/alebo "
+"také prostriedky v užívaní Poskytovateľa."
 
 #: wllegal/templates/legal/documents/tos.html:86
 msgid ""
 "The User agrees to refrain from use of the Service in bad faith and/or "
 "deliberately causing any damage to the Service."
 msgstr ""
+"Používateľ vyjadruje súhlas, že nebude používať Službu so zlým úmyslom a/"
+"alebo úmyselne spôsobovať akékoľvek poškodenie Služby."
 
 #: wllegal/templates/legal/documents/tos.html:88
 msgid ""
 "The User agrees to refrain from bypassing the Service’s software and/or "
 "technical hardware means, in particular the security systems."
 msgstr ""
+"Používateľ vyjadruje súhlas, že nebude obchádzať technické softvérové a/"
+"alebo hardvérové prostriedky Služby, obzvlášť systémy zabezpečenia."
 
 #: wllegal/templates/legal/documents/tos.html:91
 msgid "Liability for Damage"
@@ -536,6 +561,9 @@ msgid ""
 "The User hereby renders it undisputed that the Provider shall not be liable "
 "for any damage caused to the User resulting from the use of the Service."
 msgstr ""
+"Používateľ týmto činí nesporným skutočnosť, že Poskytovateľ nebude "
+"zodpovedať za akúkoľvek škodu spôsobenú Používateľovi v dôsledku používania "
+"Služby."
 
 #: wllegal/templates/legal/documents/tos.html:95
 msgid ""
@@ -544,6 +572,10 @@ msgid ""
 "Provider to the User through a breach of any obligation contained in these "
 "Terms of Service and/or resulting from the use of the Service."
 msgstr ""
+"Ak je Používateľ podnikateľ, týmto sa výslovne zrieka práva na náhradu škody "
+"od Poskytovateľa za škodu neúmyselne spôsobenú Používateľovi Poskytovateľom "
+"prostredníctvom porušenia akéhokoľvek záväzku obsiahnutého v Podmienkach "
+"služby a/alebo vyplývajúceho z používania Služby."
 
 #: wllegal/templates/legal/documents/tos.html:101
 #, python-format
