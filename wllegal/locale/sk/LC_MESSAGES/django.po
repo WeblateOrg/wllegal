@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-03-13 08:42+0000\n"
-"PO-Revision-Date: 2020-03-31 15:55+0000\n"
+"PO-Revision-Date: 2020-04-01 07:58+0000\n"
 "Last-Translator: Ivan Pleva <ivan.pleva@tutanota.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/weblate/legal/sk/>"
 "\n"
@@ -601,6 +601,13 @@ msgid ""
 "contractual partners and for statistical and/or marketing purposes of the "
 "Provider."
 msgstr ""
+"Účelom spracovávania Osobných údajov určeným Poskytovateľom je použitie "
+"Osobných údajov na zasielanie obchodnej komunikácie subjektu údajov "
+"(Používateľ) prostredníctvom elektronických prostriedkov podľa zákona "
+"%(law_480_2004)s Zb., o niektorých službách informačnej spoločnosti v znení "
+"neskorších predpisov, ďalej pre marketingové a obchodné potreby zmluvných "
+"partnerov Poskytovateľa a na štatictické a/alebo marketingové účely "
+"Poskytovateľa."
 
 #: wllegal/templates/legal/documents/tos.html:105
 msgid ""
@@ -682,12 +689,17 @@ msgid ""
 "Should the Project opt in for the Translation Memory, license to use the "
 "translation is granted to all Translation Memory users."
 msgstr ""
+"V prípade, že sa Používateľ rozhodne pre použitie Pamäte prekladu v rámci "
+"Projektu, licenca na použitie prekladu sa udelí všetkým používateľom Pamäte "
+"prekladu."
 
 #: wllegal/templates/legal/documents/tos.html:126
 msgid ""
 "The User agrees, upon contributing to a Project, to the license the Project "
 "has specified."
 msgstr ""
+"Prispievaním do Projektu Používateľ súhlasí s licenciou, ktorá je uvedená v "
+"Projekte."
 
 #: wllegal/templates/legal/documents/tos.html:128
 msgid ""
@@ -695,6 +707,9 @@ msgid ""
 "commits. The User understands that this grant is non revocable due to nature "
 "of the VCS."
 msgstr ""
+"Používateľ súhlasí s použitím svojho mena a e-mailu na účely autorstva v "
+"zápisoch VCS. Používateľ rozumie, že toto udelenie je neodvolateľné kvôli "
+"povahe VCS."
 
 #: wllegal/templates/legal/documents/tos.html:133
 #, python-format
@@ -703,6 +718,9 @@ msgid ""
 "electronic communication, as ammended, the User is informed that the Service "
 "uses cookies."
 msgstr ""
+"V zmysle článku 89 zákona %(law_480_2004)s Zb. o elektronických "
+"komunikáciách v znení neskorších predpisov je Používateľ informovaný, že "
+"Služba používa súbory cookies."
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid ""
@@ -720,6 +738,8 @@ msgid ""
 "These Terms of Service shall be governed by the laws of the Czech Republic "
 "with exclusion of conflict rules."
 msgstr ""
+"Tieto Podmienky služby sa riadia zákonmi Českej republiky s vylúčením "
+"kolíznych noriem."
 
 #: wllegal/templates/legal/documents/tos.html:142
 msgid ""
@@ -727,6 +747,8 @@ msgid ""
 "Service shall be resolved by the court of the Czech republic having "
 "substantive and local jurisdiction."
 msgstr ""
+"Akékoľvek spory vzniknuté na základe Zmluvy a/alebo Podmienok služby sa "
+"riešia súdom Českej republiky s vecnou a miestnou príslušnosťou."
 
 #: wllegal/templates/legal/documents/tos.html:145
 msgid "Effect"
