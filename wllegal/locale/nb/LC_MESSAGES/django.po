@@ -9,19 +9,19 @@
 # Michal Čihař <michal@cihar.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-03-13 08:42+0000\n"
-"PO-Revision-Date: 2019-10-21 15:10+0000\n"
+"PO-Revision-Date: 2020-04-02 15:29+0000\n"
 "Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/weblate/"
-"hosted/nb_NO/>\n"
+"legal/nb_NO/>\n"
 "Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.9.1-dev\n"
+"X-Generator: Weblate 4.0-dev\n"
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -441,7 +441,7 @@ msgstr "menes oversettelsesprosjekter tilgjengelige på denne tjeneren"
 
 #: wllegal/templates/legal/documents/tos.html:57
 msgid "Service"
-msgstr "Service"
+msgstr "Tjeneste"
 
 #: wllegal/templates/legal/documents/tos.html:58
 msgid ""
