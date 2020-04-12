@@ -5,11 +5,11 @@
 # Mattias Münster <mattiasmun@gmail.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-04-12 05:56+0000\n"
-"PO-Revision-Date: 2020-03-13 09:42+0000\n"
-"Last-Translator: Michal Čihař <michal@cihar.com>\n"
+"PO-Revision-Date: 2020-04-13 05:24+0000\n"
+"Last-Translator: Johan Jacobsson <johan.jacobsson@telia.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/weblate/legal/sv/"
 ">\n"
 "Language: sv\n"
@@ -58,8 +58,6 @@ msgstr ""
 "genom att använda den:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
-#, fuzzy
-#| msgid "Name and e-mail"
 msgid "Name and e-mail address"
 msgstr "Användarnamn och mejl"
 
@@ -69,8 +67,7 @@ msgstr "Dessa används för att identifiera dig i VCS-arkiveringar"
 
 #: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events"
-msgstr ""
-"Dessutom används mejl-adressen för notifieringar om övervakade händelser"
+msgstr "Dessutom används mejl-adressen för aviseringar om bevakade händelser"
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
