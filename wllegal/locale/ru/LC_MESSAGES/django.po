@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2020-03-13 08:42+0000\n"
+"POT-Creation-Date: 2020-04-12 05:56+0000\n"
 "PO-Revision-Date: 2020-01-20 04:32+0000\n"
 "Last-Translator: Golubev Alexander <fatzer2@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/weblate/hosted/"
@@ -67,7 +67,9 @@ msgstr ""
 "предоставляет при использования нашей услуги:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
-msgid "Name and e-mail"
+#, fuzzy
+#| msgid "Name and e-mail"
+msgid "Name and e-mail address"
 msgstr "Имя и e-mail"
 
 #: wllegal/templates/legal/documents/privacy.html:26

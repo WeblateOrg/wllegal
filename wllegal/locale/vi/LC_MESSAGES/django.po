@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2020-03-13 08:42+0000\n"
+"POT-Creation-Date: 2020-04-12 05:56+0000\n"
 "PO-Revision-Date: 2019-07-24 08:58+0000\n"
 "Last-Translator: Michal Čihař <michal@cihar.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/weblate/"
@@ -57,7 +57,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:25
 #, fuzzy
 #| msgid "Username"
-msgid "Name and e-mail"
+msgid "Name and e-mail address"
 msgstr "Tên tài khoản"
 
 #: wllegal/templates/legal/documents/privacy.html:26

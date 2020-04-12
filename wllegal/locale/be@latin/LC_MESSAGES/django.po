@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2020-03-13 08:42+0000\n"
+"POT-Creation-Date: 2020-04-12 05:56+0000\n"
 "PO-Revision-Date: 2019-09-21 01:17+0000\n"
 "Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Belarusian (latin) <https://hosted.weblate.org/projects/"
@@ -62,7 +62,9 @@ msgstr ""
 "pradastaŭliaje nam šliacham vykarystannia našaha servisu:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
-msgid "Name and e-mail"
+#, fuzzy
+#| msgid "Name and e-mail"
+msgid "Name and e-mail address"
 msgstr "Imia i eliektronnaja pošta"
 
 #: wllegal/templates/legal/documents/privacy.html:26

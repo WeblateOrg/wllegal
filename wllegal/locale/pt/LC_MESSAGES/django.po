@@ -7,9 +7,9 @@
 # Manuela Silva <mmsrs@sky.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2020-03-13 08:42+0000\n"
+"POT-Creation-Date: 2020-04-12 05:56+0000\n"
 "PO-Revision-Date: 2020-03-13 09:42+0000\n"
 "Last-Translator: Michal Čihař <michal@cihar.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/weblate/legal/"
@@ -61,7 +61,9 @@ msgstr ""
 "utilizar-os:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
-msgid "Name and e-mail"
+#, fuzzy
+#| msgid "Name and e-mail"
+msgid "Name and e-mail address"
 msgstr "Nome e e-mail"
 
 #: wllegal/templates/legal/documents/privacy.html:26

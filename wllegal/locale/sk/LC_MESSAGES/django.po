@@ -8,13 +8,13 @@
 # Ivan Pleva <ivan.pleva@tutanota.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2020-03-13 08:42+0000\n"
+"POT-Creation-Date: 2020-04-12 05:56+0000\n"
 "PO-Revision-Date: 2020-04-02 07:30+0000\n"
 "Last-Translator: Ivan Pleva <ivan.pleva@tutanota.com>\n"
-"Language-Team: Slovak <https://hosted.weblate.org/projects/weblate/legal/sk/>"
-"\n"
+"Language-Team: Slovak <https://hosted.weblate.org/projects/weblate/legal/sk/"
+">\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -60,7 +60,9 @@ msgstr ""
 "Weblate spracúva iba osobné údaje, ktoré používateľ poskytuje používaním:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
-msgid "Name and e-mail"
+#, fuzzy
+#| msgid "Name and e-mail"
+msgid "Name and e-mail address"
 msgstr "Meno a e-mail"
 
 #: wllegal/templates/legal/documents/privacy.html:26
@@ -634,9 +636,9 @@ msgid ""
 "declares that all the Personal Data is accurate and true and has been "
 "provided voluntarily."
 msgstr ""
-"Používateľ prehlasuje, že si je vedomý svojich práv podľa <a href=\"%(url_15)"
-"s\">článku 15</a> a <a href=\"%(url_17)s\">17</a> nariadenia GDPR a "
-"prehlasuje, že všetky Osobné údaje sú presné a pravdivé a boli poskytnuté "
+"Používateľ prehlasuje, že si je vedomý svojich práv podľa <a href="
+"\"%(url_15)s\">článku 15</a> a <a href=\"%(url_17)s\">17</a> nariadenia GDPR "
+"a prehlasuje, že všetky Osobné údaje sú presné a pravdivé a boli poskytnuté "
 "dobrovoľne."
 
 #: wllegal/templates/legal/documents/tos.html:111

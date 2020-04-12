@@ -6,9 +6,9 @@
 # Besnik Bleta <besnik@programeshqip.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2020-03-13 08:42+0000\n"
+"POT-Creation-Date: 2020-04-12 05:56+0000\n"
 "PO-Revision-Date: 2020-03-16 08:36+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/weblate/legal/"
@@ -60,7 +60,9 @@ msgstr ""
 "përmes përdorimit të tij:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
-msgid "Name and e-mail"
+#, fuzzy
+#| msgid "Name and e-mail"
+msgid "Name and e-mail address"
 msgstr "Emër dhe email"
 
 #: wllegal/templates/legal/documents/privacy.html:26
@@ -538,9 +540,9 @@ msgid ""
 "in the Provider’s use."
 msgstr ""
 "Përdoruesi bie dakord të përdorë Shërbimin vetëm në një mënyrë që nuk "
-"rrezikon mjetet teknike &lt;em&gt;software&lt;/em&gt; dhe/ose "
-"&lt;em&gt;hardware&lt;/em&gt; të Furnizuesit të Shërbimit dhe/ose mjete të "
-"tilla në përdorim të Furnizuesit të Shërbimit."
+"rrezikon mjetet teknike &lt;em&gt;software&lt;/em&gt; dhe/ose &lt;em&gt;"
+"hardware&lt;/em&gt; të Furnizuesit të Shërbimit dhe/ose mjete të tilla në "
+"përdorim të Furnizuesit të Shërbimit."
 
 #: wllegal/templates/legal/documents/tos.html:86
 msgid ""

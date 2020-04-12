@@ -9,9 +9,9 @@
 # amano <amano.hajime@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2020-03-13 08:42+0000\n"
+"POT-Creation-Date: 2020-04-12 05:56+0000\n"
 "PO-Revision-Date: 2020-03-13 09:35+0000\n"
 "Last-Translator: Michal Čihař <michal@cihar.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/weblate/legal/"
@@ -59,7 +59,9 @@ msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr "Weblate は、利用者が提供する個人情報のみ使用します。"
 
 #: wllegal/templates/legal/documents/privacy.html:25
-msgid "Name and e-mail"
+#, fuzzy
+#| msgid "Name and e-mail"
+msgid "Name and e-mail address"
 msgstr "名前とメールアドレス"
 
 #: wllegal/templates/legal/documents/privacy.html:26
@@ -355,8 +357,9 @@ msgid ""
 "computer or other device connected to the Internet, which enable obtaining "
 "unique identification of the User’s web browser"
 msgstr ""
-"インターネットに接続した利用者のコンピュータ、もしくは他のデバイスに、web サーバーから送信したデータ ファイルを意味します。これにより、利用者の "
-"web ブラウザ個別の識別情報を取得できます"
+"インターネットに接続した利用者のコンピュータ、もしくは他のデバイスに、web "
+"サーバーから送信したデータ ファイルを意味します。これにより、利用者の web ブ"
+"ラウザ個別の識別情報を取得できます"
 
 #: wllegal/templates/legal/documents/tos.html:39
 msgid "GDPR"

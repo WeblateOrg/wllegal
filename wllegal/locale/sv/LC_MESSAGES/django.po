@@ -5,9 +5,9 @@
 # Mattias Münster <mattiasmun@gmail.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2020-03-13 08:42+0000\n"
+"POT-Creation-Date: 2020-04-12 05:56+0000\n"
 "PO-Revision-Date: 2020-03-13 09:42+0000\n"
 "Last-Translator: Michal Čihař <michal@cihar.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/weblate/legal/sv/"
@@ -58,7 +58,9 @@ msgstr ""
 "genom att använda den:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
-msgid "Name and e-mail"
+#, fuzzy
+#| msgid "Name and e-mail"
+msgid "Name and e-mail address"
 msgstr "Användarnamn och mejl"
 
 #: wllegal/templates/legal/documents/privacy.html:26
@@ -131,8 +133,8 @@ msgid ""
 "to analyze your use of our services and improve our services (<a href="
 "\"%(url)s\">Article 6 (1) b. and f. GDPR</a>)"
 msgstr ""
-"att analysera din användning av våra tjänster och förbättra våra tjänster (<"
-"a href=\"%(url)s\">artikel 6 (1) b. och f. GDPR</a>)"
+"att analysera din användning av våra tjänster och förbättra våra tjänster "
+"(<a href=\"%(url)s\">artikel 6 (1) b. och f. GDPR</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:48
 #, python-format

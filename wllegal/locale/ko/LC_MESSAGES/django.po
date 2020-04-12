@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2020-03-13 08:42+0000\n"
+"POT-Creation-Date: 2020-04-12 05:56+0000\n"
 "PO-Revision-Date: 2020-02-19 17:57+0000\n"
 "Last-Translator: Lee Yunseok <ironyunseok@protonmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/weblate/hosted/ko/"
@@ -59,7 +59,9 @@ msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr "우리는 사용자가 제공한 개인 정보만 처리합니다:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
-msgid "Name and e-mail"
+#, fuzzy
+#| msgid "Name and e-mail"
+msgid "Name and e-mail address"
 msgstr "이름과 전자우편"
 
 #: wllegal/templates/legal/documents/privacy.html:26

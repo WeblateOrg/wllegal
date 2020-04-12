@@ -8,9 +8,9 @@
 # Ali Demirtas <alidemirtas94@gmail.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2020-03-13 08:42+0000\n"
+"POT-Creation-Date: 2020-04-12 05:56+0000\n"
 "PO-Revision-Date: 2020-04-12 05:37+0000\n"
 "Last-Translator: Burak Yavuz <hitowerdigit@hotmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/weblate/legal/tr/"
@@ -59,7 +59,9 @@ msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr "Weblate, yalnızca Kullanıcının sağladığı Kişisel Verileri kullanır:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
-msgid "Name and e-mail"
+#, fuzzy
+#| msgid "Name and e-mail"
+msgid "Name and e-mail address"
 msgstr "Ad ve e-posta"
 
 #: wllegal/templates/legal/documents/privacy.html:26
@@ -628,9 +630,10 @@ msgid ""
 "declares that all the Personal Data is accurate and true and has been "
 "provided voluntarily."
 msgstr ""
-"Kullanıcı, GDPR'ın <a href=\"%(url_15)s\">Madde 15</a> ve <a href=\"%(url_17)"
-"s\">Madde 17</a>kendi hakları ndan farkındalığı beyan eder ve tüm Kişisel "
-"Verilerin doğru ve doğru olduğunu ve gönüllü olarak sağlandığını beyan eder."
+"Kullanıcı, GDPR'ın <a href=\"%(url_15)s\">Madde 15</a> ve <a href="
+"\"%(url_17)s\">Madde 17</a>kendi hakları ndan farkındalığı beyan eder ve tüm "
+"Kişisel Verilerin doğru ve doğru olduğunu ve gönüllü olarak sağlandığını "
+"beyan eder."
 
 #: wllegal/templates/legal/documents/tos.html:111
 msgid ""

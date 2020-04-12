@@ -13,9 +13,9 @@
 # Changpeng Sun <zzjbcn@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2020-03-13 08:42+0000\n"
+"POT-Creation-Date: 2020-04-12 05:56+0000\n"
 "PO-Revision-Date: 2020-03-15 02:37+0000\n"
 "Last-Translator: Changpeng Sun <zzjbcn@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
@@ -63,7 +63,9 @@ msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr "Weblate 仅处理用户提供的个人数据：："
 
 #: wllegal/templates/legal/documents/privacy.html:25
-msgid "Name and e-mail"
+#, fuzzy
+#| msgid "Name and e-mail"
+msgid "Name and e-mail address"
 msgstr "名称和电子邮箱"
 
 #: wllegal/templates/legal/documents/privacy.html:26
@@ -121,8 +123,9 @@ msgid ""
 "contractual or pre-contractual obligations (<a href=\"%(url)s\">Article 6 "
 "(1) b. GDPR</a>)"
 msgstr ""
-"为了提供我们服务的服务，就我们的服务事宜（也通过电子邮件和信息）与您联系，并确保我们的服务履行合同或合同前义务的技术功能（<a href=\"%(url)"
-"s\">第 6 (1) b款 GDPR</a>)"
+"为了提供我们服务的服务，就我们的服务事宜（也通过电子邮件和信息）与您联系，并"
+"确保我们的服务履行合同或合同前义务的技术功能（<a href=\"%(url)s\">第 6 (1) b"
+"款 GDPR</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:47
 #, python-format

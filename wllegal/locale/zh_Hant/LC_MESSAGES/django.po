@@ -7,9 +7,9 @@
 # byStarTW <pan93412@gmail.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2020-03-13 08:42+0000\n"
+"POT-Creation-Date: 2020-04-12 05:56+0000\n"
 "PO-Revision-Date: 2020-04-02 16:29+0000\n"
 "Last-Translator: Chang-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
@@ -57,7 +57,9 @@ msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr "Weblate 只處理「使用者」經由我們服務提供的「個人資料」："
 
 #: wllegal/templates/legal/documents/privacy.html:25
-msgid "Name and e-mail"
+#, fuzzy
+#| msgid "Name and e-mail"
+msgid "Name and e-mail address"
 msgstr "名稱和電子郵件"
 
 #: wllegal/templates/legal/documents/privacy.html:26
@@ -343,7 +345,9 @@ msgid ""
 "means any datafile sent by the web server of the Service to the User’s "
 "computer or other device connected to the Internet, which enable obtaining "
 "unique identification of the User’s web browser"
-msgstr "指「服務」網路伺服器發送到「使用者」的電腦，或其連接到網際網路的其他設備的任何資料檔案，從而能夠獲得「使用者」網路瀏覽器的唯一識別資訊"
+msgstr ""
+"指「服務」網路伺服器發送到「使用者」的電腦，或其連接到網際網路的其他設備的任"
+"何資料檔案，從而能夠獲得「使用者」網路瀏覽器的唯一識別資訊"
 
 #: wllegal/templates/legal/documents/tos.html:39
 msgid "GDPR"
@@ -387,7 +391,9 @@ msgstr "個人資料"
 msgid ""
 "means personal data within the meaning of EU Regulation No. %(law_679_2016)s "
 "inserted by the User into the Service and/or Cookies"
-msgstr "指「使用者」在「服務」和或「Cookie」中插入的有關歐盟法規 No. %(law_679_2016)s 號所指的個人資料"
+msgstr ""
+"指「使用者」在「服務」和或「Cookie」中插入的有關歐盟法規 No. "
+"%(law_679_2016)s 號所指的個人資料"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Owner"
@@ -467,7 +473,9 @@ msgid ""
 "The Provider presents the User with a License Agreement and the User accepts "
 "this License Agreement, all this under the terms and conditions stated in "
 "these Terms of Service."
-msgstr "供應商提供「使用者」「契約授權」，且「使用者」接受授權協議，所有全都根據這些「服務條款」所規定的條款與細則進行。"
+msgstr ""
+"供應商提供「使用者」「契約授權」，且「使用者」接受授權協議，所有全都根據這些"
+"「服務條款」所規定的條款與細則進行。"
 
 #: wllegal/templates/legal/documents/tos.html:82
 msgid ""
@@ -533,9 +541,10 @@ msgid ""
 "This consent is given as long as User does not remove their account from the "
 "Service."
 msgstr ""
-"修訂的個人資料保護法<a href=\"%(url)s\">第7條</a>的含義範圍內，「使用者」在此同意，透過使用該「服務」，管理員可收集、存儲和處理使"
-"用者的個人資料，管理員即是「供應商」；使用者同意供應商、其員工和/或其授權的業務合作夥伴處理和使用其個人資料。只要使用者不從服務中刪除其帳號，即給予此同意"
-"。"
+"修訂的個人資料保護法<a href=\"%(url)s\">第7條</a>的含義範圍內，「使用者」在此"
+"同意，透過使用該「服務」，管理員可收集、存儲和處理使用者的個人資料，管理員即"
+"是「供應商」；使用者同意供應商、其員工和/或其授權的業務合作夥伴處理和使用其個"
+"人資料。只要使用者不從服務中刪除其帳號，即給予此同意。"
 
 #: wllegal/templates/legal/documents/tos.html:103
 #, python-format
@@ -557,7 +566,9 @@ msgid ""
 "If the User directly and effectively informs the Provider of no longer "
 "wishing to receive business information from the Provider, the Provider "
 "shall refrain from sending further unsolicited business communications."
-msgstr "如果「使用者」直接有效地通知「供應商」，他不再希望從供應商處接收商務資訊，則供應商應避免發送更多未經請求的業務通信。"
+msgstr ""
+"如果「使用者」直接有效地通知「供應商」，他不再希望從供應商處接收商務資訊，則"
+"供應商應避免發送更多未經請求的業務通信。"
 
 #: wllegal/templates/legal/documents/tos.html:109
 #, python-format
@@ -567,8 +578,9 @@ msgid ""
 "declares that all the Personal Data is accurate and true and has been "
 "provided voluntarily."
 msgstr ""
-"「使用者」依據個人資料保護法<a href=\"%(url_15)s\">第15條</a>和<a href=\"%(url_17)s\""
-">第17條</a>聲明其自己的權利，並聲明所有個人資料皆準確、真實，且是自願提供。"
+"「使用者」依據個人資料保護法<a href=\"%(url_15)s\">第15條</a>和<a href="
+"\"%(url_17)s\">第17條</a>聲明其自己的權利，並聲明所有個人資料皆準確、真實，且"
+"是自願提供。"
 
 #: wllegal/templates/legal/documents/tos.html:111
 msgid ""

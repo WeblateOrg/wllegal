@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2020-03-13 08:42+0000\n"
+"POT-Creation-Date: 2020-04-12 05:56+0000\n"
 "PO-Revision-Date: 2018-01-30 18:47+0000\n"
 "Last-Translator: Michal Čihař <michal@cihar.com>\n"
 "Language-Team: Frisian <https://hosted.weblate.org/projects/weblate/master/"
@@ -58,7 +58,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:25
 #, fuzzy
 #| msgid "Username or email"
-msgid "Name and e-mail"
+msgid "Name and e-mail address"
 msgstr "Brûkersnamme of e-mail"
 
 #: wllegal/templates/legal/documents/privacy.html:26
