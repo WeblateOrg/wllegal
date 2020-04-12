@@ -9,11 +9,11 @@
 # Michal Čihař <michal@cihar.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-04-12 05:56+0000\n"
-"PO-Revision-Date: 2020-04-02 15:29+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"PO-Revision-Date: 2020-04-13 05:24+0000\n"
+"Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/weblate/"
 "legal/nb_NO/>\n"
 "Language: nb\n"
@@ -63,10 +63,8 @@ msgstr ""
 "bruke det:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
-#, fuzzy
-#| msgid "Name and e-mail"
 msgid "Name and e-mail address"
-msgstr "Navn og e-post"
+msgstr "Navn og e-post-adresse"
 
 #: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits"
