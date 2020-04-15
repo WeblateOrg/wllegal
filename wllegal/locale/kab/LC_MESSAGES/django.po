@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-04-12 05:56+0000\n"
-"PO-Revision-Date: 2020-04-15 20:53+0000\n"
+"PO-Revision-Date: 2020-04-16 07:03+0000\n"
 "Last-Translator: Muḥend Belqasem <belkacem77@gmail.com>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/weblate/legal/kab/"
 ">\n"
@@ -24,10 +24,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:9
-#, fuzzy
-#| msgid "Versions"
 msgid "Personal Data Controller"
-msgstr "Ileqman"
+msgstr "Amsefrak n yisefka udmawanen"
 
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
@@ -42,18 +40,14 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:17
-#, fuzzy
-#| msgid "Versions"
 msgid "Personal Data processed by Weblate"
-msgstr "Ileqman"
+msgstr "Isefka udmawanen ttwasesfren sɣur Weblate"
 
 #: wllegal/templates/legal/documents/privacy.html:20
 msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:25
-#, fuzzy
-#| msgid "Username or email"
 msgid "Name and e-mail address"
 msgstr "Isem n useqdac neɣ tansa imayl"
 
@@ -66,8 +60,6 @@ msgid "Additionally, e-mail is used for notification of watched events"
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:29
-#, fuzzy
-#| msgid "Password has been changed."
 msgid "Password in hashed form"
 msgstr "Awal uffir ibeddel."
 
@@ -172,10 +164,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:70
-#, fuzzy
-#| msgid "Your profile"
 msgid "Your rights"
-msgstr "Amaɣnu-ik"
+msgstr "Izerfan-inek"
 
 #: wllegal/templates/legal/documents/privacy.html:72
 msgid ""
@@ -272,20 +262,16 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:20
-#, fuzzy
-#| msgid "Description"
 msgid "Definitions"
-msgstr "Aglam"
+msgstr "Tabadut"
 
 #: wllegal/templates/legal/documents/tos.html:22
-#, fuzzy
-#| msgid "Terms of Service"
 msgid "In these Terms of Service:"
-msgstr "Tiwtilin n useqdec"
+msgstr "Deg tiwtilin-a n useqdec"
 
 #: wllegal/templates/legal/documents/tos.html:26
 msgid "Agreement"
-msgstr ""
+msgstr "Amtawa d tewtilin n umeẓlu {date}."
 
 #: wllegal/templates/legal/documents/tos.html:27
 msgid ""
@@ -357,10 +343,8 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:48
 #: wllegal/templates/legal/documents/tos.html:98
-#, fuzzy
-#| msgid "Personal info"
 msgid "Personal Data"
-msgstr "Talɣut tudmawant"
+msgstr "Kkes tabdart n isefka udmawanen"
 
 #: wllegal/templates/legal/documents/tos.html:49
 #, python-format
@@ -371,7 +355,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Owner"
-msgstr ""
+msgstr "Bab"
 
 #: wllegal/templates/legal/documents/tos.html:52
 msgid "means the User who can manage Project"
@@ -382,9 +366,6 @@ msgid "Project"
 msgstr "Asenfar"
 
 #: wllegal/templates/legal/documents/tos.html:55
-#, fuzzy
-#| msgid ""
-#| "However the following translation projects are available on this server:"
 msgid "means translation project operated on the Service"
 msgstr "Acu kan, isenfaṛen-agi n tsuqilt llan ɣef uqeddac-agi:"
 
@@ -398,10 +379,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:60
-#, fuzzy
-#| msgid "Translation"
 msgid "Translation Memory"
-msgstr "Tasuqilt"
+msgstr "Takatut n tsuqqilt"
 
 #: wllegal/templates/legal/documents/tos.html:61
 msgid "means the optional translation memory service provided within Weblate"
@@ -439,7 +418,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:76
 msgid "License Agreement"
-msgstr ""
+msgstr "Amtawa n turagt"
 
 #: wllegal/templates/legal/documents/tos.html:78
 msgid ""
@@ -631,7 +610,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:145
 msgid "Effect"
-msgstr ""
+msgstr "Isemda"
 
 #: wllegal/templates/legal/documents/tos.html:147
 msgid ""
