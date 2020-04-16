@@ -7,11 +7,11 @@
 # byStarTW <pan93412@gmail.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-04-12 05:56+0000\n"
-"PO-Revision-Date: 2020-04-02 16:29+0000\n"
-"Last-Translator: Chang-Chia Tseng <pswo10680@gmail.com>\n"
+"PO-Revision-Date: 2020-04-16 07:03+0000\n"
+"Last-Translator: Jeff Huang <s8321414@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "weblate/legal/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -57,10 +57,8 @@ msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr "Weblate 只處理「使用者」經由我們服務提供的「個人資料」："
 
 #: wllegal/templates/legal/documents/privacy.html:25
-#, fuzzy
-#| msgid "Name and e-mail"
 msgid "Name and e-mail address"
-msgstr "名稱和電子郵件"
+msgstr "名稱和電子郵件地址"
 
 #: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits"
