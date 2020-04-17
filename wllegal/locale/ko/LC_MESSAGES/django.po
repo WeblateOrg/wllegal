@@ -7,19 +7,19 @@
 # Lee Yunseok <ironyunseok@protonmail.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-04-12 05:56+0000\n"
-"PO-Revision-Date: 2020-02-19 17:57+0000\n"
-"Last-Translator: Lee Yunseok <ironyunseok@protonmail.com>\n"
-"Language-Team: Korean <https://hosted.weblate.org/projects/weblate/hosted/ko/"
-">\n"
+"PO-Revision-Date: 2020-04-17 20:56+0000\n"
+"Last-Translator: k ks <kmshts@naver.com>\n"
+"Language-Team: Korean <https://hosted.weblate.org/projects/weblate/legal/ko/>"
+"\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.11\n"
+"X-Generator: Weblate 4.0.2-dev\n"
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -59,10 +59,8 @@ msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr "우리는 사용자가 제공한 개인 정보만 처리합니다:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
-#, fuzzy
-#| msgid "Name and e-mail"
 msgid "Name and e-mail address"
-msgstr "이름과 전자우편"
+msgstr "이름과 전자우편 주소"
 
 #: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits"
