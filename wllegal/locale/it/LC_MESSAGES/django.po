@@ -13,8 +13,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-04-12 05:56+0000\n"
-"PO-Revision-Date: 2020-04-22 07:10+0000\n"
-"Last-Translator: coronabond <coronabond@airmail.cc>\n"
+"PO-Revision-Date: 2020-04-27 15:11+0000\n"
+"Last-Translator: Jeannette L <j.lavoie@net-c.ca>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/weblate/legal/it/"
 ">\n"
 "Language: it\n"
@@ -74,7 +74,7 @@ msgstr "Questi sono usati per identificarti nelle modifiche VCS"
 
 #: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events"
-msgstr "Inoltre, la mail è usata per le notifiche gli eventi monitorati"
+msgstr "Inoltre, l'e-mail è usata per le notifiche gli eventi monitorati"
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
