@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-04-12 05:56+0000\n"
-"PO-Revision-Date: 2020-04-15 20:53+0000\n"
+"PO-Revision-Date: 2020-07-03 05:41+0000\n"
 "Last-Translator: Kyotaro Iijima <kyotaro.eyes@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/weblate/legal/"
 "ja/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.0-dev\n"
+"X-Generator: Weblate 4.2-dev\n"
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -80,7 +80,7 @@ msgstr "設定すると、利用者の認証に使用します"
 
 #: wllegal/templates/legal/documents/privacy.html:32
 msgid "IP address and browser name"
-msgstr "IP アドレスとブラウザ名"
+msgstr "IP アドレスとブラウザー名"
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
@@ -355,9 +355,8 @@ msgid ""
 "computer or other device connected to the Internet, which enable obtaining "
 "unique identification of the User’s web browser"
 msgstr ""
-"インターネットに接続した利用者のコンピュータ、もしくは他のデバイスに、web "
-"サーバーから送信したデータ ファイルを意味します。これにより、利用者の web ブ"
-"ラウザ個別の識別情報を取得できます"
+"インターネットに接続した利用者のコンピュータ、もしくは他のデバイスに、web サーバーから送信したデータ ファイルを意味します。これにより、利用者の "
+"web ブラウザー個別の識別情報を取得できます"
 
 #: wllegal/templates/legal/documents/tos.html:39
 msgid "GDPR"
@@ -659,9 +658,7 @@ msgstr ""
 msgid ""
 "Should the Project opt in for the Translation Memory, license to use the "
 "translation is granted to all Translation Memory users."
-msgstr ""
-"プロジェクトが翻訳メモリを有効にした場合、翻訳メモリはすべての翻訳メモリ ユー"
-"ザに付与されます。"
+msgstr "プロジェクトが翻訳メモリを有効にした場合、翻訳メモリはすべての翻訳メモリ ユーザーに付与されます。"
 
 #: wllegal/templates/legal/documents/tos.html:126
 msgid ""
