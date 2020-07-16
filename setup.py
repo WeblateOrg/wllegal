@@ -20,10 +20,9 @@
 
 import os
 
+from babel.messages import frontend as babel
 from setuptools import setup
 from setuptools.command.sdist import sdist
-
-from babel.messages import frontend as babel
 
 with open("requirements.txt") as requirements:
     REQUIRES = requirements.read().splitlines()
