@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-04-12 05:56+0000\n"
-"PO-Revision-Date: 2020-07-12 05:05+0000\n"
-"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
+"PO-Revision-Date: 2020-07-29 14:02+0000\n"
+"Last-Translator: ihor_ck <igor_ck@outlook.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/weblate/legal/"
 "uk/>\n"
 "Language: uk\n"
@@ -294,7 +294,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:9
 msgid "We use cookies to deliver our services."
-msgstr "Ми використовуємо реп'яшки, щоби доставити наші послуги."
+msgstr "Ми використовуємо реп'яшки, щоб доставити наші послуги."
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
