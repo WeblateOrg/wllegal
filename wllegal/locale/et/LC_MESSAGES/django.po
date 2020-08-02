@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-04-12 05:56+0000\n"
-"PO-Revision-Date: 2020-07-31 03:40+0000\n"
+"PO-Revision-Date: 2020-08-03 14:23+0000\n"
 "Last-Translator: Priit Jõerüüt <hwlate@joeruut.com>\n"
 "Language-Team: Estonian <https://hosted.weblate.org/projects/weblate/legal/"
 "et/>\n"
@@ -368,11 +368,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Owner"
-msgstr ""
+msgstr "Omanik"
 
 #: wllegal/templates/legal/documents/tos.html:52
 msgid "means the User who can manage Project"
-msgstr ""
+msgstr "tähendab Kasutajat, kes haldab Projekti"
 
 #: wllegal/templates/legal/documents/tos.html:54
 msgid "Project"
@@ -380,16 +380,18 @@ msgstr "Projekt"
 
 #: wllegal/templates/legal/documents/tos.html:55
 msgid "means translation project operated on the Service"
-msgstr ""
+msgstr "tähendab tõlkeprojekti, mida hallatakse Teenuses"
 
 #: wllegal/templates/legal/documents/tos.html:57
 msgid "Service"
-msgstr ""
+msgstr "Teenus"
 
 #: wllegal/templates/legal/documents/tos.html:58
 msgid ""
 "means the website and services based on Weblate operated by the Provider"
 msgstr ""
+"tähendab veebisaiti ja Weblate'il põhinevaid teenuseid, mida haldab "
+"Teenusepakkuja"
 
 #: wllegal/templates/legal/documents/tos.html:60
 msgid "Translation Memory"
@@ -397,7 +399,7 @@ msgstr "Tõlkemälu"
 
 #: wllegal/templates/legal/documents/tos.html:61
 msgid "means the optional translation memory service provided within Weblate"
-msgstr ""
+msgstr "tähendab valikulist tõlkemälu teenust mida pakutakse Weblate'is"
 
 #: wllegal/templates/legal/documents/tos.html:63
 msgid "User"
@@ -408,16 +410,19 @@ msgid ""
 "means any legal entity or an individual other than the Provider, who is "
 "using the Service"
 msgstr ""
+"tähendab iga juriidilist või füüsilist isikut, kes ei ole Teenusepakkuja ja "
+"kes kasutab Teenust"
 
 #: wllegal/templates/legal/documents/tos.html:66
 msgid "VCS"
-msgstr ""
+msgstr "Versioonihaldussüsteem"
 
 #: wllegal/templates/legal/documents/tos.html:67
 msgid ""
 "means distributed version control system used by the Project such as Git or "
 "Mercurial"
 msgstr ""
+"tähendab Projektis kasutatavat versioonihaldussüsteemi nagu Git või Mercurial"
 
 #: wllegal/templates/legal/documents/tos.html:71
 msgid "License Agreement Conclusion"
