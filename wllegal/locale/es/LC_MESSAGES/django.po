@@ -8,9 +8,9 @@
 # Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2020-04-12 05:56+0000\n"
+"POT-Creation-Date: 2020-08-03 14:24+0000\n"
 "PO-Revision-Date: 2020-07-15 22:30+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/weblate/legal/es/"

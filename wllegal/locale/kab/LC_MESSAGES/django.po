@@ -1,9 +1,9 @@
 # anonymous <noreply@weblate.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2020-04-12 05:56+0000\n"
+"POT-Creation-Date: 2020-08-03 14:24+0000\n"
 "PO-Revision-Date: 2020-04-24 08:48+0000\n"
 "Last-Translator: Muḥend Belqasem <belkacem77@gmail.com>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/weblate/legal/kab/"
@@ -118,8 +118,8 @@ msgid ""
 msgstr ""
 "I umuddu n uxeddim deg yimeẓla-nneɣ, akken ad k-id-nenermes ɣef usentel "
 "yerzan imeẓla (daɣen s yimayl akked tirawt) daɣen akken ad neḍmen tiddin "
-"tatiknikant n yimeẓla-nneɣ s uqadeṛ n ugatu neɣ agatu uzwir (<a href=\"%(url)"
-"s\">Amagrad 6 (1) b. GDPR</a>)"
+"tatiknikant n yimeẓla-nneɣ s uqadeṛ n ugatu neɣ agatu uzwir (<a href="
+"\"%(url)s\">Amagrad 6 (1) b. GDPR</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
@@ -138,8 +138,8 @@ msgid ""
 "GDPR</a>)"
 msgstr ""
 "s uqbal-ik ibanen neɣ s tsiregt-ik akken ad nessiweḍ akken iwata armud-nneɣ "
-"n uzenzi neɣ akken ad ak-d-nazen tibratin n yisallen (<a href=\"%(url)s\">"
-"Amagrad 6, taseddaṛt1, agaz a), n RGPD</a>)"
+"n uzenzi neɣ akken ad ak-d-nazen tibratin n yisallen (<a href=\"%(url)s"
+"\">Amagrad 6, taseddaṛt1, agaz a), n RGPD</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:51
 msgid "Access to the Personal Data"

@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2020-04-12 05:56+0000\n"
+"POT-Creation-Date: 2020-08-03 14:24+0000\n"
 "PO-Revision-Date: 2020-07-19 20:00+0000\n"
 "Last-Translator: ssantos <ssantos@web.de>\n"
 "Language-Team: Portuguese (Portugal) <https://hosted.weblate.org/projects/"
@@ -112,8 +112,8 @@ msgstr "Propósito e bases legais do processamento de \"Dados Pessoais\""
 #: wllegal/templates/legal/documents/privacy.html:42
 msgid "Your Personal Data will be used for the purposes of the Service:"
 msgstr ""
-"Os seus \"Dados Pessoais\" serão utilizados para os propósitos do \"Serviço\""
-":"
+"Os seus \"Dados Pessoais\" serão utilizados para os propósitos do \"Serviço"
+"\":"
 
 #: wllegal/templates/legal/documents/privacy.html:46
 #, python-format
@@ -127,8 +127,8 @@ msgstr ""
 "para fornecer os nossos serviços no \"Serviço\", para o contactar sobre "
 "assuntos relacionados com os nossos serviços (também por meio de ''e-mails'' "
 "e mensagens) e para garantir a funcionalidade técnica dos nossos serviços e "
-"cumprimento das obrigações contratuais e pré-contratuais (<a href=\"%(url)s\""
-">Artigo 6 (1) b. RGPD</a>)"
+"cumprimento das obrigações contratuais e pré-contratuais (<a href=\"%(url)s"
+"\">Artigo 6 (1) b. RGPD</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
@@ -232,8 +232,8 @@ msgid ""
 "even get a copy of all of it (<a href=\"%(url)s\">Article 15 GDPR</a>)"
 msgstr ""
 "Ober acesso a todos os seus \"Dados Pessoais\" que a Weblate utiliza ou "
-"processa, e até mesmo receber uma cópia dos mesmos (<a href=\"%(url)s\""
-">Artigo 15 RGPD</a>)"
+"processa, e até mesmo receber uma cópia dos mesmos (<a href=\"%(url)s"
+"\">Artigo 15 RGPD</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:79
 msgid ""
