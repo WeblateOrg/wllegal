@@ -1,4 +1,12 @@
 {
-    "dd688904278968c2": "Licencováno pod GNU GPLv3+",
-    "f1755fb51ebbc26a": "Stav služby"
+  "dd688904278968c2": "Licencováno pod GNU GPLv3+",
+  "f1755fb51ebbc26a": "Stav služby",
+  "f3e2fd9f17199fd9": "Je nám líto, ale na tomto webu jste dosáhli limitu počtu požadavků. Prosím zkuste to znovu později.",
+  "404c9a7eb09bf5cf": "Weblate omezil počet požadavků",
+  "cefd423328bbabae": "Limit počtu požadavků",
+  "700639553f6a669b": "Podmínky a soukromí",
+  "855aad6254dbc154": "Je nám líto, ale tento web je v současné době nefunkční kvůli údržbě.",
+  "f0a04eec920f8be1": "Probíhá údržba",
+  "580c807df3faaff0": "Probíhá údržba serveru Weblate",
+  "255e70ad23ee477b": "Podmínky a soukromí"
 }
