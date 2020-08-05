@@ -5,16 +5,20 @@
 # Exit on failure
 set -e
 
+export CI_DATABASE=postgresql
 export DJANGO_SETTINGS_MODULE=wllegal.settings_test
 
 # Lock Weblate
-wlc lock weblate/legal
+wlc lock
 
 # Push changes from Weblate to GitHub
-wlc push weblate/legal
+wlc push
+
+# Update Weblate remote
+git remote update weblate
 
 # Pull changes from GitHub
-git pull --rebase
+git rebase --onto weblate/master
 
 # Update po files itself
 weblate makemessages --keep-pot -a -i 'data/*' -i 'docs/*' -i 'examples/*' -i 'build/*'
@@ -30,9 +34,7 @@ sed \
 git add wllegal/locale/*/*/*.po
 git add wllegal/locale/*.pot
 
-git commit -s -m "Update po files
-
-[CI skip]"
+git commit -m "i18n: Update PO files"
 
 # Push changes
 git push
