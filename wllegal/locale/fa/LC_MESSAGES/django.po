@@ -4,11 +4,11 @@
 # Michal Čihař <michal@cihar.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-08-05 09:41+0000\n"
-"PO-Revision-Date: 2020-04-04 18:12+0000\n"
-"Last-Translator: sayyed hamed nasib <cghamed752@chmail.ir>\n"
+"PO-Revision-Date: 2020-08-11 10:32+0000\n"
+"Last-Translator: سهیل خانعلی‌پور <soheilkhanalipur@tutanota.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/weblate/legal/fa/"
 ">\n"
 "Language: fa\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.0-dev\n"
+"X-Generator: Weblate 4.2-dev\n"
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -43,10 +43,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:17
-#, fuzzy
-#| msgid "Translate"
 msgid "Personal Data processed by Weblate"
-msgstr "ترجمه"
+msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:20
 msgid "Weblate only processes Personal Data the User provides by using it:"
@@ -250,7 +248,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
-msgstr ""
+msgstr "دیدن نگارش انگلیسی"
 
 #: wllegal/templates/legal/documents/tos.html:11
 msgid ""
@@ -305,7 +303,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:35
 #: wllegal/templates/legal/documents/tos.html:131
 msgid "Cookies"
-msgstr ""
+msgstr "کوکی‌ها"
 
 #: wllegal/templates/legal/documents/tos.html:36
 msgid ""
@@ -366,7 +364,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:54
 msgid "Project"
-msgstr "پروژه"
+msgstr "برنامه"
 
 #: wllegal/templates/legal/documents/tos.html:55
 msgid "means translation project operated on the Service"
@@ -382,10 +380,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:60
-#, fuzzy
-#| msgid "Translate"
 msgid "Translation Memory"
-msgstr "ترجمه"
+msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:61
 msgid "means the optional translation memory service provided within Weblate"
@@ -615,7 +611,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:145
 msgid "Effect"
-msgstr ""
+msgstr "جلوه"
 
 #: wllegal/templates/legal/documents/tos.html:147
 msgid ""
