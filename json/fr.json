@@ -5,7 +5,7 @@
   "580c807df3faaff0": "Maintenance du serveur Weblate",
   "dd688904278968c2": "Sous licence GNU GPLv3+",
   "f1755fb51ebbc26a": "État du service",
-  "f3e2fd9f17199fd9": "Nous sommes désolés, mais vous avez atteint la limite de débit sur ce site. Veuillez réessayer plus tard.",
-  "cefd423328bbabae": "Limite de débit",
-  "404c9a7eb09bf5cf": "Limite de débit Weblate"
+  "f3e2fd9f17199fd9": "Nous sommes désolés, mais vous avez atteint la limite de requêtes sur ce site. Veuillez réessayer plus tard.",
+  "cefd423328bbabae": "Limite de requêtes",
+  "404c9a7eb09bf5cf": "Limite de requêtes Weblate"
 }
