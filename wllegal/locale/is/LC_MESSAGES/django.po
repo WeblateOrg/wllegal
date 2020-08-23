@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-08-05 09:41+0000\n"
-"PO-Revision-Date: 2020-08-21 22:24+0000\n"
+"PO-Revision-Date: 2020-08-23 19:08+0000\n"
 "Last-Translator: Þórhalla Guðmundsdóttir Beck <plergux@outlook.com>\n"
 "Language-Team: Icelandic <https://hosted.weblate.org/projects/weblate/legal/"
 "is/>\n"
@@ -45,38 +45,44 @@ msgid ""
 "Weblate has appointed a data protection officer who may be reached via "
 "%(privacy_contact)s."
 msgstr ""
+"Weblate hefur skipað upplýsingavörð sem hægt er að hafa samband við í gegn "
+"um %(privacy_contact)s."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 msgid "Personal Data processed by Weblate"
-msgstr ""
+msgstr "Persónuupplýsingar meðhöndlaðar af Weblate"
 
 #: wllegal/templates/legal/documents/privacy.html:20
 msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr ""
+"Persónuupplýsingar sem notendur gefa Weblate eru einungis notaðar til þess "
+"að:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid "Name and e-mail address"
-msgstr ""
+msgstr "Nafn og vefpóstfang"
 
 #: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits"
-msgstr ""
+msgstr "Notuð til þess að bera kennsl á þig í VCS-innleggjum"
 
 #: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events"
 msgstr ""
+"Auk þess er tölvupóstfangið notað til þess að senda út umbeðin tíðindi og "
+"fréttir"
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
-msgstr ""
+msgstr "Aðgangsorð með mylnusniði"
 
 #: wllegal/templates/legal/documents/privacy.html:30
 msgid "Used to authenticate the User, if configured"
-msgstr ""
+msgstr "Notað til þess að bera kennsl á notandann, ef stillingin er notuð"
 
 #: wllegal/templates/legal/documents/privacy.html:32
 msgid "IP address and browser name"
-msgstr ""
+msgstr "IP-númer og heiti vafra"
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
@@ -185,6 +191,9 @@ msgid ""
 "We want you to always be in control of your Personal Data. To this end, you "
 "have certain rights that allow for it. Under certain conditions, you may:"
 msgstr ""
+"Við viljum að þú hafir alltaf stjórn á þínum persónuupplýsingum. Í þessum "
+"tilgangi hefur þú ákveðin réttindi sem gera það kleyft. Undir ákveðnum "
+"kringumstæðum mátt þú:"
 
 #: wllegal/templates/legal/documents/privacy.html:78
 #, python-format
@@ -192,6 +201,9 @@ msgid ""
 "Gain access to all your Personal Data that Weblate uses or processes, and "
 "even get a copy of all of it (<a href=\"%(url)s\">Article 15 GDPR</a>)"
 msgstr ""
+"Fengið aðgang að öllum þínum persónuupplýsingum sem Weblate notar eða vinnur "
+"með, og jafnvel fengið afrit af þeim öllum (<a href=\"%(url)s\">Grein 15 "
+"GDPR</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:79
 msgid ""
