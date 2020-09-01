@@ -4,5 +4,8 @@
   "855aad6254dbc154": "Es tut uns leid, aber diese Website ist derzeit wegen Wartungsarbeiten nicht verfügbar.",
   "580c807df3faaff0": "Weblate Server-Wartung",
   "dd688904278968c2": "Lizenziert unter GNU GPLv3+",
-  "f1755fb51ebbc26a": "Service-Status"
+  "f1755fb51ebbc26a": "Service-Status",
+  "f3e2fd9f17199fd9": "Es tut uns leid, aber Sie haben die Begrenzung der Anzahl der Abfragen auf dieser Website erreicht. Bitte versuchen Sie es später nochmal.",
+  "cefd423328bbabae": "Begrenzung der Anzahl der Abfragen",
+  "404c9a7eb09bf5cf": "Begrenzung der Anzahl der Abfragen für Weblate"
 }
