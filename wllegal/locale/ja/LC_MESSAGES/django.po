@@ -9,10 +9,10 @@
 # amano <amano.hajime@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-08-05 09:41+0000\n"
-"PO-Revision-Date: 2020-07-03 05:41+0000\n"
+"PO-Revision-Date: 2020-09-04 08:45+0000\n"
 "Last-Translator: Kyotaro Iijima <kyotaro.eyes@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/weblate/legal/"
 "ja/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.2-dev\n"
+"X-Generator: Weblate 4.3-dev\n"
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -340,9 +340,7 @@ msgstr "同意"
 msgid ""
 "means the User’s consent with these Terms of Service and other legal "
 "documents expressed by checking the checkbox during the registration"
-msgstr ""
-"登録時にチェックボックスをチェックして、表示された本利用規約およびその他の法"
-"的文書に利用者が同意します"
+msgstr "登録時にチェックボックスにチェックをして、表示された本利用規約およびその他の法的文書に利用者が同意します"
 
 #: wllegal/templates/legal/documents/tos.html:35
 #: wllegal/templates/legal/documents/tos.html:131
