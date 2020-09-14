@@ -1,5 +1,6 @@
 Contact: https://hackerone.com/weblate
 Contact: mailto:security@weblate.org
 Encryption: https://cihar.com/.well-known/openpgpkey/hu/wmxth3chu9jfxdxywj1skpmhsj311mzm
+Policy: https://docs.weblate.org/en/latest/contributing/issues.html#security
 Acknowledgments: https://hackerone.com/weblate/thanks
 Preferred-Languages: en,cs
