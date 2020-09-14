@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Contact: https://hackerone.com/weblate
 Contact: mailto:security@weblate.org
 Encryption: https://cihar.com/.well-known/openpgpkey/hu/wmxth3chu9jfxdxywj1skpmhsj311mzm
@@ -6,3 +9,19 @@ Policy: https://docs.weblate.org/en/latest/contributing/issues.html#security
 Acknowledgments: https://hackerone.com/weblate/thanks
 Canonical: https://weblate.org/.well-known/security.txt
 Preferred-Languages: en,cs
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEh+Zzr4P2w6DDRMjD9KoinU1YwkUFAl9fX/4ACgkQ9KoinU1Y
+wkXP8g/7BqzDWuwF7CF6zT2wZVjht9Zy6oUu++0uqqx7n+J/CNRfSp43/Il6+/P3
+pX32Z5OsgsAnfVs/l0NK7tZMBVegXHg+A/lnhipcAhFhXBaLiAauz+12P7ZaSil/
+MgVxcEHkIUACqViJ+ysACfTGCNKRCTkPPsjLgRhHkkKUnsL9zAGk0TnHuwIx/pJQ
+hl5Eei3wE9w01yZx8WVorIOsCyOF2CPx6N6u+YJK2aOvC2o9ZFLww4q5osY6B/n0
+uiZ/8/eXo7Q7MmdCN0f/GlxpKBHIsvySBMkAAXUiQ6YDjLhjoPcQyTSwFMI9oD7v
+Gf4shT1sqtDCgyU9F/BlAXCktN2fLOWYEPrfEicUoG/QyRr86s5RbkGLsDGYacNy
+BFkyvCXDi232v3gjocPxb8fJps5luyDcXHRXl0zBFETpYBGtKkI1Uxp9XsPmF3HN
+5rBIwYMg7hXhjzPRnUALWlCnozsQMGNv5ITgjZJo5dzoXyqLJ1ivrSAm5r2hFEo0
+e+qfF9+3P9kA5BxuCrpv/yUsIBW8v7gyuQiXDCG2zK6Znp9a7BnihGXjRWwWp5iN
+R7qz6sURceIyK1pvGpno0wKleDub6Mjk07ZyMsRSURMBSqWk45laGy07QHkr8KEL
+iF6J7txvsKl1csBfLnahUh5/U/E1rVblAD6B80SHmc8YvO5w5S0=
+=HUoF
+-----END PGP SIGNATURE-----
