@@ -6,10 +6,10 @@
 # anonymous <noreply@weblate.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-08-05 09:41+0000\n"
-"PO-Revision-Date: 2020-07-12 05:05+0000\n"
+"PO-Revision-Date: 2020-09-22 16:38+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/weblate/legal/"
 "hr/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.2-dev\n"
+"X-Generator: Weblate 4.3-dev\n"
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -333,7 +333,7 @@ msgid ""
 "Civil Code concluded by and between the User and the Provider upon the "
 "Consent"
 msgstr ""
-"znači Ugovor o licenci u smislu Građanskog zakonika članak 2358 i slijedeće, "
+"znači licencni ugovori u smislu Građanskog zakonika članak 2358 i slijedeće, "
 "sklopljenog između i između korisnika i pružatelja nakon suglasnosti"
 
 #: wllegal/templates/legal/documents/tos.html:29
@@ -489,7 +489,7 @@ msgid ""
 "The License Agreement is concluded upon the User’s Acceptance of the "
 "Provider’s Offer."
 msgstr ""
-"Licencni ugovor je sklopljen, nakon što korisnik prihvati ponudu pružatelja "
+"Licencni ugovor je sklopljen nakon što korisnik prihvati ponudu pružatelja "
 "usluge."
 
 #: wllegal/templates/legal/documents/tos.html:76
@@ -510,9 +510,9 @@ msgid ""
 "this License Agreement, all this under the terms and conditions stated in "
 "these Terms of Service."
 msgstr ""
-"Pružatelj predstavlja korisniku ugovor s licencom, a korisnik prihvaća ovaj "
-"licencni ugovor, a sve to pod uvjetima i odredbama navedenim u ovim uvjetima "
-"pružanja usluge."
+"Pružatelj pruža korisniku licencni ugovor, a korisnik prihvaća ovaj licencni "
+"ugovor, a sve to pod uvjetima i odredbama navedenim u ovim uvjetima pružanja "
+"usluge."
 
 #: wllegal/templates/legal/documents/tos.html:82
 msgid ""
