@@ -8,10 +8,10 @@
 # Alex Ky <esthomolupus@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-08-05 09:41+0000\n"
-"PO-Revision-Date: 2020-05-20 07:07+0000\n"
+"PO-Revision-Date: 2020-09-25 20:25+0000\n"
 "Last-Translator: Zmicer Turok <nashtlumach@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/weblate/legal/"
 "be/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 4.3-dev\n"
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -94,14 +94,14 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:35
 msgid "Billing information"
-msgstr "Плацёжная інфармацыя"
+msgstr "Плацежная інфармацыя"
 
 #: wllegal/templates/legal/documents/privacy.html:36
 msgid ""
 "In case you purchase service from us, we collect additional billing "
 "information necessary for issuing an invoice"
 msgstr ""
-"Калі вы набываеце ў нас паслугу, мы збіраем дадатковую плацёжную інфармацыю, "
+"Калі вы набываеце ў нас паслугу, мы збіраем дадатковую плацежную інфармацыю, "
 "каб выставіць рахунак"
 
 #: wllegal/templates/legal/documents/privacy.html:40
