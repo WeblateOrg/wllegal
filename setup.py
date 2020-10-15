@@ -35,9 +35,6 @@ LOCALE_MASKS = [
 with open("requirements.txt") as requirements:
     REQUIRES = requirements.read().splitlines()
 
-with open(os.path.join(os.path.dirname(__file__), "README.rst")) as readme:
-    LONG_DESCRIPTION = readme.read()
-
 
 class BuildMo(Command):
     description = "update MO files to match PO"
@@ -67,39 +64,7 @@ class WeblateBuild(build):
 
 
 setup(
-    name="wllegal",
-    version="0.8",
-    packages=["wllegal"],
-    include_package_data=True,
-    license="GPLv3+",
-    description=("Hosted Weblate legal stuff"),
-    url="https://weblate.org/",
-    download_url="https://weblate.org/download/",
-    bugtrack_url="https://github.com/WeblateOrg/wllegal/issues",
-    author="Michal Čihař",
-    author_email="michal@cihar.com",
-    zip_safe=True,
-    classifiers=[
-        "Environment :: Web Environment",
-        "Framework :: Django",
-        "Intended Audience :: Developers",
-        "Intended Audience :: System Administrators",
-        "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
-        "Operating System :: OS Independent",
-        "Development Status :: 5 - Production/Stable",
-        "Programming Language :: Python",
-        "Programming Language :: Python :: 2",
-        "Programming Language :: Python :: 2.7",
-        "Programming Language :: Python :: 3",
-        "Programming Language :: Python :: 3.4",
-        "Programming Language :: Python :: 3.5",
-        "Topic :: Software Development :: Internationalization",
-        "Topic :: Software Development :: Localization",
-        "Topic :: Internet :: WWW/HTTP",
-        "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
-    ],
     install_requires=REQUIRES,
     setup_requires=["translate-toolkit"],
-    long_description=LONG_DESCRIPTION,
     cmdclass={"build_mo": BuildMo, "build": WeblateBuild},
 )
