@@ -5,10 +5,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-10-15 10:43+0000\n"
-"PO-Revision-Date: 2020-10-15 09:11+0000\n"
+"PO-Revision-Date: 2020-10-15 22:11+0000\n"
 "Last-Translator: Hakim Oubouali <hakim.oubouali.skr@gmail.com>\n"
 "Language-Team: Central Atlas Tamazight <https://hosted.weblate.org/projects/"
 "weblate/legal/tzm/>\n"
@@ -408,7 +408,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:66
 msgid "VCS"
-msgstr ""
+msgstr "VCS"
 
 #: wllegal/templates/legal/documents/tos.html:67
 msgid ""
