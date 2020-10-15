@@ -19,10 +19,18 @@
 #
 
 import os
+from distutils.command.build import build
+from distutils.core import Command
+from distutils.dep_util import newer
+from glob import glob
+from itertools import chain
 
-from babel.messages import frontend as babel
 from setuptools import setup
-from setuptools.command.sdist import sdist
+from translate.tools.pocompile import convertmo
+
+LOCALE_MASKS = [
+    "wllegal/locale/*/LC_MESSAGES/*.po",
+]
 
 with open("requirements.txt") as requirements:
     REQUIRES = requirements.read().splitlines()
@@ -31,10 +39,31 @@ with open(os.path.join(os.path.dirname(__file__), "README.rst")) as readme:
     LONG_DESCRIPTION = readme.read()
 
 
-class BabelSdist(sdist):
+class BuildMo(Command):
+    description = "update MO files to match PO"
+    user_options = []
+
+    def initialize_options(self):
+        self.build_base = None
+
+    def finalize_options(self):
+        self.set_undefined_options("build", ("build_base", "build_base"))
+
     def run(self):
-        self.run_command("compile_catalog")
-        super().run()
+        for name in chain.from_iterable(glob(mask) for mask in LOCALE_MASKS):
+            output = os.path.splitext(name)[0] + ".mo"
+            if not newer(name, output):
+                continue
+            print(f"compiling {name} -> {output}")
+            with open(name, "rb") as pofile, open(output, "wb") as mofile:
+                convertmo(pofile, mofile, None)
+
+
+class WeblateBuild(build):
+    """Override the default build with new subcommands."""
+
+    # The build_mo has to be before build_data
+    sub_commands = [("build_mo", lambda self: True)] + build.sub_commands
 
 
 setup(
@@ -70,7 +99,7 @@ setup(
         "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
     ],
     install_requires=REQUIRES,
-    setup_requires=["Babel"],
+    setup_requires=["translate-toolkit"],
     long_description=LONG_DESCRIPTION,
-    cmdclass={"compile_catalog": babel.compile_catalog, "sdist": BabelSdist},
+    cmdclass={"build_mo": BuildMo, "build": WeblateBuild},
 )

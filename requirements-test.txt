@@ -1,5 +1,5 @@
-Babel
 pre-commit
 pytest
 pytest-cov
+translate-toolkit
 twine
