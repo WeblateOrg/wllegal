@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2020-10-15 09:12+0000\n"
+"POT-Creation-Date: 2020-10-15 10:43+0000\n"
 "PO-Revision-Date: 2020-05-07 21:19+0000\n"
 "Last-Translator: Marek freezy Víger <marek.viger@gmail.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/weblate/legal/sk/"
@@ -23,7 +23,7 @@ msgstr ""
 "X-Generator: Weblate 4.1-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
-msgid "Subcontractor in Accordance with Art. 28 GDPR"
+msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr ""
 
 #: wllegal/templates/legal/documents/contracts.html:10

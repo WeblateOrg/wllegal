@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2020-10-15 09:12+0000\n"
+"POT-Creation-Date: 2020-10-15 10:43+0000\n"
 "PO-Revision-Date: 2019-10-11 12:16+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language-Team: Welsh <https://hosted.weblate.org/projects/weblate/hosted/cy/"
@@ -22,7 +22,7 @@ msgstr ""
 "X-Generator: Weblate 3.9-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
-msgid "Subcontractor in Accordance with Art. 28 GDPR"
+msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr ""
 
 #: wllegal/templates/legal/documents/contracts.html:10
