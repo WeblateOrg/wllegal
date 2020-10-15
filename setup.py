@@ -65,6 +65,5 @@ class WeblateBuild(build):
 
 setup(
     install_requires=REQUIRES,
-    setup_requires=["translate-toolkit"],
     cmdclass={"build_mo": BuildMo, "build": WeblateBuild},
 )
