@@ -10,11 +10,11 @@
 # Valentina Grassi <vale.grassi11@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-10-15 10:43+0000\n"
-"PO-Revision-Date: 2020-06-08 11:49+0000\n"
-"Last-Translator: Michele Salvador <michelesalvador@iol.it>\n"
+"PO-Revision-Date: 2020-10-15 22:11+0000\n"
+"Last-Translator: Pierfrancesco Passerini <p.passerini@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/weblate/legal/it/"
 ">\n"
 "Language: it\n"
@@ -22,16 +22,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 4.3-dev\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr ""
+msgstr "Subappaltatori in conformità con l'Art. 28 GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:10
+#, fuzzy
 msgid "Status as of October 2020."
-msgstr ""
+msgstr "Aggiornato ad Ottobre 2020."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
