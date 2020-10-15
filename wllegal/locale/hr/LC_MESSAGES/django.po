@@ -6,10 +6,10 @@
 # anonymous <noreply@weblate.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-10-15 10:43+0000\n"
-"PO-Revision-Date: 2020-09-22 16:38+0000\n"
+"PO-Revision-Date: 2020-10-15 22:11+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/weblate/legal/"
 "hr/>\n"
@@ -23,11 +23,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr ""
+msgstr "Podkooperanti sukladno čl. 28 GDPR-a"
 
 #: wllegal/templates/legal/documents/contracts.html:10
 msgid "Status as of October 2020."
-msgstr ""
+msgstr "Stanje od listopada 2020."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
