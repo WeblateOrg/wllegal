@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2020-08-05 09:41+0000\n"
+"POT-Creation-Date: 2020-10-15 09:12+0000\n"
 "PO-Revision-Date: 2014-10-01 09:41+0200\n"
 "Last-Translator: Michal Čihař <michal@cihar.com>\n"
 "Language-Team: Colognian <https://hosted.weblate.org/projects/weblate/master/"
@@ -18,6 +18,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==0 ? 0 : n==1 ? 1 : 2;\n"
 "X-Generator: Weblate 1.10-dev\n"
+
+#: wllegal/templates/legal/documents/contracts.html:3
+msgid "Subcontractor in Accordance with Art. 28 GDPR"
+msgstr ""
+
+#: wllegal/templates/legal/documents/contracts.html:10
+msgid "Status as of October 2020."
+msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format

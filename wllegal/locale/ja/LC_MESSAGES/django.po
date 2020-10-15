@@ -9,9 +9,9 @@
 # amano <amano.hajime@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2020-08-05 09:41+0000\n"
+"POT-Creation-Date: 2020-10-15 09:12+0000\n"
 "PO-Revision-Date: 2020-09-24 06:20+0000\n"
 "Last-Translator: Kyotaro Iijima <kyotaro.eyes@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/weblate/legal/"
@@ -22,6 +22,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.3-dev\n"
+
+#: wllegal/templates/legal/documents/contracts.html:3
+msgid "Subcontractor in Accordance with Art. 28 GDPR"
+msgstr ""
+
+#: wllegal/templates/legal/documents/contracts.html:10
+msgid "Status as of October 2020."
+msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -98,7 +106,8 @@ msgstr "請求情報"
 msgid ""
 "In case you purchase service from us, we collect additional billing "
 "information necessary for issuing an invoice"
-msgstr "サービスを購入された場合、請求書の発行に必要な追加の請求情報を収集します"
+msgstr ""
+"サービスを購入された場合、請求書の発行に必要な追加の請求情報を収集します"
 
 #: wllegal/templates/legal/documents/privacy.html:40
 msgid "Purpose and legal basis of processing Personal Data"
@@ -339,7 +348,9 @@ msgstr "同意"
 msgid ""
 "means the User’s consent with these Terms of Service and other legal "
 "documents expressed by checking the checkbox during the registration"
-msgstr "登録時にチェックボックスにチェックをして、表示された本利用規約およびその他の法的文書に利用者が同意します"
+msgstr ""
+"登録時にチェックボックスにチェックをして、表示された本利用規約およびその他の"
+"法的文書に利用者が同意します"
 
 #: wllegal/templates/legal/documents/tos.html:35
 #: wllegal/templates/legal/documents/tos.html:131

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2020-08-05 09:41+0000\n"
+"POT-Creation-Date: 2020-10-15 09:12+0000\n"
 "PO-Revision-Date: 2020-02-02 21:50+0000\n"
 "Last-Translator: ButterflyOfFire <ButterflyOfFire@protonmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/weblate/hosted/ar/"
@@ -21,6 +21,14 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 "X-Generator: Weblate 3.11-dev\n"
+
+#: wllegal/templates/legal/documents/contracts.html:3
+msgid "Subcontractor in Accordance with Art. 28 GDPR"
+msgstr ""
+
+#: wllegal/templates/legal/documents/contracts.html:10
+msgid "Status as of October 2020."
+msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format

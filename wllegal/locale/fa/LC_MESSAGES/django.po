@@ -4,9 +4,9 @@
 # Michal Čihař <michal@cihar.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
-"POT-Creation-Date: 2020-08-05 09:41+0000\n"
+"POT-Creation-Date: 2020-10-15 09:12+0000\n"
 "PO-Revision-Date: 2020-08-11 10:32+0000\n"
 "Last-Translator: سهیل خانعلی‌پور <soheilkhanalipur@tutanota.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/weblate/legal/fa/"
@@ -17,6 +17,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.2-dev\n"
+
+#: wllegal/templates/legal/documents/contracts.html:3
+msgid "Subcontractor in Accordance with Art. 28 GDPR"
+msgstr ""
+
+#: wllegal/templates/legal/documents/contracts.html:10
+msgid "Status as of October 2020."
+msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
