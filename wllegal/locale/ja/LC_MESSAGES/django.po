@@ -9,10 +9,10 @@
 # amano <amano.hajime@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-10-15 09:12+0000\n"
-"PO-Revision-Date: 2020-09-24 06:20+0000\n"
+"PO-Revision-Date: 2020-10-15 10:42+0000\n"
 "Last-Translator: Kyotaro Iijima <kyotaro.eyes@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/weblate/legal/"
 "ja/>\n"
@@ -25,11 +25,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractor in Accordance with Art. 28 GDPR"
-msgstr ""
+msgstr "GDPR 第 28 条に従う協力者"
 
 #: wllegal/templates/legal/documents/contracts.html:10
 msgid "Status as of October 2020."
-msgstr ""
+msgstr "2020 年10 月 現在。"
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
