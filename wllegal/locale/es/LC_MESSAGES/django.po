@@ -8,10 +8,10 @@
 # Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-10-15 10:43+0000\n"
-"PO-Revision-Date: 2020-07-15 22:30+0000\n"
+"PO-Revision-Date: 2020-10-18 09:30+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/weblate/legal/es/"
 ">\n"
@@ -20,15 +20,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.2-dev\n"
+"X-Generator: Weblate 4.3.1-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr ""
+msgstr "Subcontratistas de acuerdo al art. 28 del RGPD"
 
 #: wllegal/templates/legal/documents/contracts.html:10
 msgid "Status as of October 2020."
-msgstr ""
+msgstr "Estado a partir de octubre de 2020."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -80,8 +80,8 @@ msgstr "Estos se utilizan para identificarle en las consignas de VCS"
 #: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events"
 msgstr ""
-"Además, el correo electrónico se utiliza para la notificación de sucesos en "
-"seguimiento"
+"Además, el correo electrónico se utiliza para la notificación de sucesos "
+"monitorizados"
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
@@ -133,11 +133,11 @@ msgid ""
 "contractual or pre-contractual obligations (<a href=\"%(url)s\">Article 6 "
 "(1) b. GDPR</a>)"
 msgstr ""
-"por dar nuestros servicios en el Servicio, para contactar con problemas de "
-"nuestros servicios (también como método de emails y mensajes) y para "
-"asegurar las funcionalidades técnicas de nuestro servicio cumplen con las "
-"obligaciones contractuales y precontractuales (<a href=\"%(url)s\">Artículo "
-"6 (1) b. RGPD</a>)"
+"para brindar nuestros servicios en el Servicio, para contactar con usted en "
+"lo que respecta a nuestros servicios (también a través de mensajería y "
+"correo electrónico) y para asegurar la funcionalidad técnica del "
+"cumplimiento por parte de nuestros servicios de obligaciones contractuales o "
+"precontractuales (<a href=\"%(url)s\">artículo 6 (1) b. RGPD</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
