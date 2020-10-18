@@ -8,11 +8,11 @@
 # Ali Demirtas <alidemirtas94@gmail.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2020-10-15 10:43+0000\n"
-"PO-Revision-Date: 2020-05-23 14:41+0000\n"
-"Last-Translator: Burak Yavuz <hitowerdigit@hotmail.com>\n"
+"PO-Revision-Date: 2020-10-19 16:26+0000\n"
+"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/weblate/legal/tr/"
 ">\n"
 "Language: tr\n"
@@ -20,15 +20,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 4.3.1-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr ""
+msgstr "GPDR'nin 28. Maddesi uyarınca alt yükleniciler"
 
 #: wllegal/templates/legal/documents/contracts.html:10
 msgid "Status as of October 2020."
-msgstr ""
+msgstr "Ekim 2020 itibarıyla durum."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
