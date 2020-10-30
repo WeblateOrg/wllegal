@@ -5,19 +5,19 @@
 # anonymous <noreply@weblate.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2020-10-26 19:19+0000\n"
-"PO-Revision-Date: 2019-09-21 01:17+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2020-10-31 07:26+0000\n"
+"Last-Translator: ប៉ុកណូ រ៉ូយ៉ាល់ <royalpokno68@gmail.com>\n"
 "Language-Team: Central Khmer <https://hosted.weblate.org/projects/weblate/"
-"hosted/km/>\n"
+"legal/km/>\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.9-dev\n"
+"X-Generator: Weblate 4.3.2-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -34,15 +34,18 @@ msgid ""
 "Protection Regulation, also known as GDPR. This document includes necessary "
 "specifications."
 msgstr ""
+"យើងអនុវត្តតាមបទប្បញ្ញត្តិលេខ %(law_679_2016)s "
+"បទប្បញ្ញត្តិការពារទិន្នន័យទូទៅដែលត្រូវបានគេស្គាល់ថា GDPR ។ "
+"ឯកសារនេះរួមបញ្ចូលទាំងការបញ្ជាក់ចាំបាច់មួយចំនួន។"
 
 #: wllegal/templates/legal/documents/privacy.html:9
 msgid "Personal Data Controller"
-msgstr ""
+msgstr "ឧបករណ៍គ្រប់គ្រងទិន្នន័យផ្ទាល់ខ្លួន"
 
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
 msgid "%(provider)s, Reg. No. %(reg_no)s"
-msgstr ""
+msgstr "%(provider)s លេខចុះបញ្ជាការ %(reg_no)s"
 
 #: wllegal/templates/legal/documents/privacy.html:15
 #, python-format
@@ -50,10 +53,12 @@ msgid ""
 "Weblate has appointed a data protection officer who may be reached via "
 "%(privacy_contact)s."
 msgstr ""
+"Weblate បានតែងតាំងភ្នាក់ងារការពារទិន្នន័យ អ្នកដែលអាចទាក់ទងបានតាមរយៈ "
+"%(privacy_contact)s ។"
 
 #: wllegal/templates/legal/documents/privacy.html:17
 msgid "Personal Data processed by Weblate"
-msgstr ""
+msgstr "ទិន្នន័យផ្ទាល់ខ្លួនត្រូវបានដំណើរការដោយ Weblate"
 
 #: wllegal/templates/legal/documents/privacy.html:20
 msgid "Weblate only processes Personal Data the User provides by using it:"
