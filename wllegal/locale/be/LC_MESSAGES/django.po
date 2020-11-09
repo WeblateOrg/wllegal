@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2020-10-26 19:19+0000\n"
-"PO-Revision-Date: 2020-11-07 08:26+0000\n"
+"PO-Revision-Date: 2020-11-10 09:28+0000\n"
 "Last-Translator: Zmicer Turok <nashtlumach@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/weblate/legal/"
 "be/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.3.2\n"
+"X-Generator: Weblate 4.4-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -178,7 +178,7 @@ msgstr "Асобы, да якіх звярнуліся за тэхнічным �
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "Payment processors."
-msgstr "Апрацоўшчыкі плацяжоў."
+msgstr "Апрацоўнікі плацяжоў."
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "All Personal Data is stored in the European Union."
