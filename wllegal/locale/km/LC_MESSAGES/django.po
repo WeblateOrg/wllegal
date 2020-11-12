@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2020-10-26 19:19+0000\n"
-"PO-Revision-Date: 2020-10-31 07:26+0000\n"
+"PO-Revision-Date: 2020-11-13 11:28+0000\n"
 "Last-Translator: ប៉ុកណូ រ៉ូយ៉ាល់ <royalpokno68@gmail.com>\n"
-"Language-Team: Central Khmer <https://hosted.weblate.org/projects/weblate/"
+"Language-Team: Khmer (Central) <https://hosted.weblate.org/projects/weblate/"
 "legal/km/>\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3.2-dev\n"
+"X-Generator: Weblate 4.4-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -62,7 +62,7 @@ msgstr "ទិន្នន័យផ្ទាល់ខ្លួនត្រូវ
 
 #: wllegal/templates/legal/documents/privacy.html:20
 msgid "Weblate only processes Personal Data the User provides by using it:"
-msgstr ""
+msgstr "Weblate គ្រាន់តែដំណើការទិន្នន័យឯកជនដែលអ្នកប្រើប្រាស់ផ្ដល់ជូនដោយប្រើវា៖"
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid "Name and e-mail address"
@@ -71,46 +71,53 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits"
 msgstr ""
+"ទាំងនេះត្រូវបានប្រើ ដើម្បីកំណត់អត្តសញ្ញាណអ្នកនៅក្នុងការប្តេជ្ញាចិត្ត VCS"
 
 #: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events"
 msgstr ""
+"លើសពីនេះទៀតអ៊ីមែលត្រូវបានប្រើសម្រាប់ការជូនដំណឹងអំពីព្រឹត្តិការណ៍ដែលបានមើល"
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
-msgstr ""
+msgstr "ពាក្យសម្ងាត់នៅក្នុងសំណុំបែបបទរួមផ្សំ"
 
 #: wllegal/templates/legal/documents/privacy.html:30
 msgid "Used to authenticate the User, if configured"
-msgstr ""
+msgstr "ត្រូវបានប្រើដើម្បីផ្ទៀងផ្ទាត់អ្នកប្រើ ប្រសិនបើបានកំណត់រចនាសម្ព័ន្ធ"
 
 #: wllegal/templates/legal/documents/privacy.html:32
 msgid "IP address and browser name"
-msgstr ""
+msgstr "អាសយដ្ឋាន IP និងឈ្មោះកម្មវិធីរុករក"
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen"
 msgstr ""
+"ទាំងនេះត្រូវបានកត់ត្រាក្នុងករណីមានការផ្លាស់ប្តូរសំខាន់ៗ ចំពោះគណនីរបស់អ្នក "
+"(ឧទាហរណ៍៖ ការផ្លាស់ប្តូរពាក្យសម្ងាត់) "
+"ដើម្បីអនុញ្ញាតឱ្យធ្វើការវិនិច្ឆ័យក្នុងករណីគណនីរបស់អ្នកត្រូវបានគេលួច"
 
 #: wllegal/templates/legal/documents/privacy.html:35
 msgid "Billing information"
-msgstr ""
+msgstr "ព័ត៌មានវិក័យប័ត្រ"
 
 #: wllegal/templates/legal/documents/privacy.html:36
 msgid ""
 "In case you purchase service from us, we collect additional billing "
 "information necessary for issuing an invoice"
 msgstr ""
+"ក្នុងករណីដែលអ្នកទិញសេវាកម្មពីពួកយើង "
+"យើងនឹងប្រមូលព័ត៌មានវិក័យប័ត្របន្ថែមដែលចាំបាច់សម្រាប់ការចេញវិក្កយបត្រ"
 
 #: wllegal/templates/legal/documents/privacy.html:40
 msgid "Purpose and legal basis of processing Personal Data"
-msgstr ""
+msgstr "គោលបំណង និងមូលដ្ឋានច្បាប់នៃដំណើរការទិន្នន័យផ្ទាល់ខ្លួន"
 
 #: wllegal/templates/legal/documents/privacy.html:42
 msgid "Your Personal Data will be used for the purposes of the Service:"
-msgstr ""
+msgstr "ទិន្នន័យផ្ទាល់ខ្លួនរបស់អ្នក នឹងត្រូវបានប្រើសម្រាប់គោលបំណងនៃសេវាកម្ម៖"
 
 #: wllegal/templates/legal/documents/privacy.html:46
 #, python-format
@@ -121,6 +128,11 @@ msgid ""
 "contractual or pre-contractual obligations (<a href=\"%(url)s\">Article 6 "
 "(1) b. GDPR</a>)"
 msgstr ""
+"សម្រាប់ការផ្តល់ជូននូវសេវាកម្មរបស់យើងនៅលើសេវាកម្ម "
+"ដើម្បីទាក់ទងអ្នកនៅក្នុងបញ្ហាទាក់ទងនឹងសេវាកម្មរបស់យើង (រួមផងដែរតាមរយៈអ៊ីមែល "
+"និងការផ្ញើសារ) "
+"និងដើម្បីធានាឱ្យបាននូវមុខងារបច្ចេកទេសនៃសេវាកម្មរបស់យើងបំពេញនូវកិច្ចសន្យា "
+"ឬកាតព្វកិច្ចមុនកិច្ចសន្យា (<a href=\"%(url)s\">មាត្ 6 (1) b. GDPR</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
@@ -358,10 +370,8 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:48
 #: wllegal/templates/legal/documents/tos.html:98
-#, fuzzy
-#| msgid "Personal info"
 msgid "Personal Data"
-msgstr "ពត៌មានលម្អិត"
+msgstr "ទិន្នន័យ​ផ្ទាល់​ខ្លួន"
 
 #: wllegal/templates/legal/documents/tos.html:49
 #, python-format
@@ -379,10 +389,8 @@ msgid "means the User who can manage Project"
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:54
-#, fuzzy
-#| msgid "Projects limit"
 msgid "Project"
-msgstr "គម្រោង​មានដែនកំណត់"
+msgstr "គម្រោង​"
 
 #: wllegal/templates/legal/documents/tos.html:55
 msgid "means translation project operated on the Service"
@@ -398,20 +406,16 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:60
-#, fuzzy
-#| msgid "Translate"
 msgid "Translation Memory"
-msgstr "បកប្រែ"
+msgstr "ការចងចាំការបកប្រែ"
 
 #: wllegal/templates/legal/documents/tos.html:61
 msgid "means the optional translation memory service provided within Weblate"
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:63
-#, fuzzy
-#| msgid "Username"
 msgid "User"
-msgstr "ឈ្មោះអ្នកប្រើ"
+msgstr "អ្នកប្រើ"
 
 #: wllegal/templates/legal/documents/tos.html:64
 msgid ""
@@ -566,10 +570,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:118
-#, fuzzy
-#| msgid "Translation status"
 msgid "Translations"
-msgstr "ស្ថានភាព​ការបកប្រែ"
+msgstr "​ការបកប្រែ"
 
 #: wllegal/templates/legal/documents/tos.html:120
 msgid ""
