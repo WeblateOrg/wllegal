@@ -1,11 +1,11 @@
 {
-  "700639553f6a669b": "Termos e privacidade",
+  "700639553f6a669b": "Termos e Privacidade",
   "855aad6254dbc154": "Lamentamos, mas este site está atualmente em manutenção.",
-  "f0a04eec920f8be1": "Manutenção em andamento",
+  "f0a04eec920f8be1": "Em manutenção",
   "580c807df3faaff0": "Manutenção do servidor Weblate",
   "dd688904278968c2": "Licenciado sob GNU GPLv3+",
   "f1755fb51ebbc26a": "Estado do serviço",
-  "f3e2fd9f17199fd9": "Lamentamos, mas atingiu o limite da taxa neste site. Por favor, tente novamente mais tarde.",
-  "cefd423328bbabae": "Limite de taxa",
-  "404c9a7eb09bf5cf": "Limite de taxa de Weblate"
+  "f3e2fd9f17199fd9": "Lamentamos, mas atingiu o limite de tentativas neste site. Por favor, tente novamente mais tarde.",
+  "cefd423328bbabae": "Valor limite",
+  "404c9a7eb09bf5cf": "Valor Limite no Weblate"
 }
