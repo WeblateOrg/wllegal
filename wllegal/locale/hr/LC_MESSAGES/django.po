@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2020-10-26 19:19+0000\n"
-"PO-Revision-Date: 2020-11-20 18:29+0000\n"
+"PO-Revision-Date: 2020-12-19 21:30+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/weblate/legal/"
 "hr/>\n"
@@ -79,7 +79,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events"
-msgstr "E-adresa se koristi i za obavještavanje o događajima koje pratiš"
+msgstr "E-adresa se koristi i za obavijesti događaja koje pratiš"
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
