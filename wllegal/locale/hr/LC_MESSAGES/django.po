@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2020-10-26 19:19+0000\n"
-"PO-Revision-Date: 2020-12-19 21:30+0000\n"
+"PO-Revision-Date: 2020-12-22 00:29+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/weblate/legal/"
 "hr/>\n"
@@ -74,7 +74,7 @@ msgstr "Ime i e-adresa"
 #: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits"
 msgstr ""
-"Koriste se kako bi te se identificiralo u izmjenama u sustavu za kontrolu "
+"Koriste se kako bi te se identificiralo u promjenama u sustavu za kontrolu "
 "verzija"
 
 #: wllegal/templates/legal/documents/privacy.html:27
@@ -351,7 +351,7 @@ msgstr "Građanski zakonik"
 #, python-format
 msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgstr ""
-"znači Zakon br. %(law_89_2012)s zbirka, Građanski zakonik, s izmjenama i "
+"znači Zakon br. %(law_89_2012)s zbirka, Građanski zakonik, s promjenama i "
 "dopunama"
 
 #: wllegal/templates/legal/documents/tos.html:32
@@ -613,7 +613,7 @@ msgstr ""
 "Svrha obrade osobnih podataka kako je odredio pružatelj usluge je upotreba "
 "osobnih podataka za slanje komercijalne komunikacije subjektu podataka "
 "(korisniku) elektroničkim putem prema zakonu br. %(law_480_2004)s zbirka, na "
-"određene usluge informacijskog društva, s izmjenama i dopunama, nadalje za "
+"određene usluge informacijskog društva, s promjenama i dopunama, nadalje za "
 "marketinške i poslovne potrebe ugovornih partnera pružatelja usluge i za "
 "statističke i/ili marketinške svrhe pružatelja usluga."
 
@@ -720,7 +720,7 @@ msgid ""
 "commits. The User understands that this grant is non revocable due to nature "
 "of the VCS."
 msgstr ""
-"Korisnik pristaje koristiti vlastito ime i e-adresu kao autorstvo izmjena u "
+"Korisnik pristaje koristiti vlastito ime i e-adresu kao autorstvo promjena u "
 "sustavu za kontrolu verzija. Korisnik shvaća da se ova dozvola ne može "
 "opozvati zbog same prirode sustava za kontrolu verzija."
 
@@ -732,7 +732,7 @@ msgid ""
 "uses cookies."
 msgstr ""
 "U smislu članka 89. Zakona br. %(law_480_2004)s zbirka, o elektroničkoj "
-"komunikaciji, s izmjenama i dopunama, korisnik je obaviješten da usluga "
+"komunikaciji, s promjenama i dopunama, korisnik je obaviješten da usluga "
 "koristi kolačiće."
 
 #: wllegal/templates/legal/documents/tos.html:135
