@@ -9,11 +9,11 @@
 # amano <amano.hajime@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2020-10-26 19:19+0000\n"
-"PO-Revision-Date: 2020-10-15 11:29+0000\n"
-"Last-Translator: 日陰のコスモス <baffclan@yahoo.co.jp>\n"
+"PO-Revision-Date: 2020-12-25 09:37+0000\n"
+"Last-Translator: Kyotaro Iijima <kyotaro.eyes@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/weblate/legal/"
 "ja/>\n"
 "Language: ja\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3-dev\n"
+"X-Generator: Weblate 4.4.1-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -192,9 +192,7 @@ msgstr "個人情報は、利用者がアカウントを削除するまで、サ
 msgid ""
 "Access log information might be collected for a longer period for the "
 "purpose of establishing, exercising or defending legal claims."
-msgstr ""
-"アクセス ログ情報は、法的な請求、行使、防御を目的として、長期間にわたって収集"
-"する場合があります。"
+msgstr "アクセス ログ情報は、法的な請求、行使、防御を目的として、長期間にわたって収集することがあります。"
 
 #: wllegal/templates/legal/documents/privacy.html:70
 msgid "Your rights"
@@ -260,9 +258,7 @@ msgstr "本サービスは、「現状のまま」、自己責任、保証なし
 msgid ""
 "Additional guarantees might apply to commercial customers, those are "
 "expressed in corresponding contracts."
-msgstr ""
-"有償ホスティングをご利用のお客様は、契約内容により追加の保証が適用される場合"
-"があります。"
+msgstr "有償ホスティングをご利用のお客様は、契約内容により追加の保証が適用されることがあります。"
 
 #: wllegal/templates/legal/documents/summary.html:6
 msgid ""
