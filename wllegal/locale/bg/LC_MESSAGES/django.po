@@ -4,11 +4,11 @@
 # anonymous <noreply@weblate.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2020-10-26 19:19+0000\n"
-"PO-Revision-Date: 2020-09-14 11:46+0000\n"
-"Last-Translator: Whod <whodizhod@gmail.com>\n"
+"PO-Revision-Date: 2021-01-11 18:32+0000\n"
+"Last-Translator: Georgi <g.georgiev.shumen@gmail.com>\n"
 "Language-Team: Bulgarian <https://hosted.weblate.org/projects/weblate/legal/"
 "bg/>\n"
 "Language: bg\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.3-dev\n"
+"X-Generator: Weblate 4.4.1-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -63,8 +63,6 @@ msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:25
-#, fuzzy
-#| msgid "Name and e-mail"
 msgid "Name and e-mail address"
 msgstr "Име и е-поща"
 
@@ -190,10 +188,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:70
-#, fuzzy
-#| msgid "Your profile"
 msgid "Your rights"
-msgstr "Вашият профил"
+msgstr "Вашите права"
 
 #: wllegal/templates/legal/documents/privacy.html:72
 msgid ""
@@ -376,7 +372,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:45
 msgid "Provider"
-msgstr ""
+msgstr "Лице за контакт"
 
 #: wllegal/templates/legal/documents/tos.html:46
 #, python-format
