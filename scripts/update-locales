@@ -21,7 +21,7 @@ git remote update weblate
 git rebase --onto weblate/master
 
 # Cleanup locale dirs
-find wllegal/locale -name '*.mo' -delete
+find wllegal/locale -name '*.mo' -o -name '*~' -delete
 find wllegal/locale -type d -empty -delete
 
 # Update po files itself
