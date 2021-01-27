@@ -17,7 +17,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-01-27 07:48+0000\n"
 "PO-Revision-Date: 2021-01-28 08:55+0000\n"
-"Last-Translator: Eric <spice2wolf@gmail.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "weblate/legal/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -444,11 +444,9 @@ msgid ""
 msgstr "指使用服务的任何法律实体或提供者以外的个人"
 
 #: wllegal/templates/legal/documents/tos.html:66
-#, fuzzy
-#| msgid "VCS"
 msgctxt "Definition in terms of service"
 msgid "VCS"
-msgstr "版本控制系统（VCS ）"
+msgstr "版本控制系统（VCS）"
 
 #: wllegal/templates/legal/documents/tos.html:67
 msgid ""
