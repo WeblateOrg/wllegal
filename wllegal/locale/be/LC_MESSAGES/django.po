@@ -8,11 +8,11 @@
 # Alex Ky <esthomolupus@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-01-27 07:48+0000\n"
-"PO-Revision-Date: 2020-11-10 09:28+0000\n"
-"Last-Translator: Zmicer Turok <nashtlumach@gmail.com>\n"
+"PO-Revision-Date: 2021-01-28 08:55+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/weblate/legal/"
 "be/>\n"
 "Language: be\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4-dev\n"
+"X-Generator: Weblate 4.5-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -479,11 +479,9 @@ msgstr ""
 "выкарыстоўвае Паслугу"
 
 #: wllegal/templates/legal/documents/tos.html:66
-#, fuzzy
-#| msgid "VCS"
 msgctxt "Definition in terms of service"
 msgid "VCS"
-msgstr "VCS"
+msgstr "Сістэма кіравання версіямі (VCS)"
 
 #: wllegal/templates/legal/documents/tos.html:67
 msgid ""
