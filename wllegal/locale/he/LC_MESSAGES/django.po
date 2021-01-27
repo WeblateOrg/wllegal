@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-01-27 07:48+0000\n"
 "PO-Revision-Date: 2021-01-28 08:55+0000\n"
-"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/weblate/legal/he/>"
 "\n"
 "Language: he\n"
@@ -458,8 +458,6 @@ msgid ""
 msgstr "מתייחס לישות החוקית או לכל גוף אחר מלבד הספק שעושה שימוש בשירות"
 
 #: wllegal/templates/legal/documents/tos.html:66
-#, fuzzy
-#| msgid "VCS"
 msgctxt "Definition in terms of service"
 msgid "VCS"
 msgstr "מערכת ניהול גרסאות (VCS)"
