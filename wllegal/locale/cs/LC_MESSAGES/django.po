@@ -5,19 +5,19 @@
 # Pavel Borecki <pavel.borecki@gmail.com>, 2018, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-01-27 07:48+0000\n"
-"PO-Revision-Date: 2020-10-15 11:29+0000\n"
-"Last-Translator: Michal Čihař <michal@cihar.com>\n"
-"Language-Team: Czech <https://hosted.weblate.org/projects/weblate/legal/cs/"
-">\n"
+"PO-Revision-Date: 2021-01-28 08:55+0000\n"
+"Last-Translator: Michal Čihař <michal@weblate.org>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/weblate/legal/cs/>"
+"\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.3-dev\n"
+"X-Generator: Weblate 4.5-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -727,11 +727,7 @@ msgstr ""
 "VCS. Uživatel chápe, že tento souhlas je kvůli povaze VCS neodvolatelný."
 
 #: wllegal/templates/legal/documents/tos.html:133
-#, fuzzy, python-format
-#| msgid ""
-#| "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
-#| "electronic communication, as ammended, the User is informed that the "
-#| "Service uses cookies."
+#, python-format
 msgid ""
 "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
 "electronic communication, as amended, the User is informed that the Service "
@@ -739,17 +735,13 @@ msgid ""
 msgstr ""
 "Ve smyslu článku 89 zákona %(law_480_2004)s Sb., o elektronické komunikaci, "
 "ve znění pozdějších předpisů, je uživatel informován, že služba používá "
-"cookies."
+"Cookies."
 
 #: wllegal/templates/legal/documents/tos.html:135
-#, fuzzy
-#| msgid ""
-#| "The Service uses cookies to personalise content, and to analyse our "
-#| "traffic."
 msgid ""
 "The Service uses Cookies to personalise content, and to analyse our traffic."
 msgstr ""
-"Služba používá cookies k přizpůsobení obsahu a analýze naší návštěvnosti."
+"Služba používá Cookies k přizpůsobení obsahu a analýze naší návštěvnosti."
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid "Governing Law"
