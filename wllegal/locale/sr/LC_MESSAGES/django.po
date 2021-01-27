@@ -7,10 +7,10 @@
 # anonymous <noreply@weblate.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-01-27 07:48+0000\n"
-"PO-Revision-Date: 2021-01-24 18:32+0000\n"
+"PO-Revision-Date: 2021-01-28 08:55+0000\n"
 "Last-Translator: Слободан Симић(Slobodan Simić) <slsimic@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/weblate/legal/sr/"
 ">\n"
@@ -24,11 +24,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr ""
+msgstr "Подизвођачи у складу са чланом 28 ГДПР"
 
 #: wllegal/templates/legal/documents/contracts.html:10
 msgid "Status as of October 2020."
-msgstr ""
+msgstr "Статус од октобра 2020."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -37,6 +37,9 @@ msgid ""
 "Protection Regulation, also known as GDPR. This document includes necessary "
 "specifications."
 msgstr ""
+"Усклађени смо са регулативом бр. %(law_679_2016)s, „Општом регулативом "
+"заштите података“, познатом и као ГДПР (GDPR). Овај документ садржи "
+"неопходне спецификације."
 
 #: wllegal/templates/legal/documents/privacy.html:9
 msgid "Personal Data Controller"
@@ -45,7 +48,7 @@ msgstr "Контролор личних података"
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
 msgid "%(provider)s, Reg. No. %(reg_no)s"
-msgstr ""
+msgstr "%(provider)s, рег. бр. %(reg_no)s"
 
 #: wllegal/templates/legal/documents/privacy.html:15
 #, python-format
@@ -84,7 +87,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:32
 msgid "IP address and browser name"
-msgstr ""
+msgstr "ИП адреса и назив прегледача"
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
@@ -160,11 +163,11 @@ msgstr "Обрађивачи плаћања."
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "All Personal Data is stored in the European Union."
-msgstr ""
+msgstr "Сви лични подаци су смештени у Европској унији."
 
 #: wllegal/templates/legal/documents/privacy.html:64
 msgid "The Personal Data retention"
-msgstr ""
+msgstr "Повлачење личних података"
 
 #: wllegal/templates/legal/documents/privacy.html:66
 msgid ""
@@ -209,11 +212,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:80
 msgid "Order us to delete your Personal Data"
-msgstr ""
+msgstr "Захтев да обришемо ваше личне податке"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "Restrict the Personal Data processing"
-msgstr ""
+msgstr "Ограничите обраду личних података"
 
 #: wllegal/templates/legal/documents/privacy.html:82
 msgid "Object to processing"
@@ -256,17 +259,19 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:9
 msgid "We use cookies to deliver our services."
-msgstr ""
+msgstr "Користимо колачиће да испоручимо наше услуге."
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
-msgstr ""
+msgstr "Погледај верзију на енглеском"
 
 #: wllegal/templates/legal/documents/tos.html:11
 msgid ""
 "The Terms of Service document is authoritative in English, translations are "
 "provided for your convenience."
 msgstr ""
+"Документ Услова коришћења је званичан на енглеском. Превод је омогућен да "
+"вам олакша увид."
 
 #: wllegal/templates/legal/documents/tos.html:17
 msgid ""
@@ -284,7 +289,7 @@ msgstr "У овим условима коришћења:"
 
 #: wllegal/templates/legal/documents/tos.html:26
 msgid "Agreement"
-msgstr ""
+msgstr "Споразум"
 
 #: wllegal/templates/legal/documents/tos.html:27
 msgid ""
@@ -315,7 +320,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:35
 #: wllegal/templates/legal/documents/tos.html:131
 msgid "Cookies"
-msgstr ""
+msgstr "Колачићи"
 
 #: wllegal/templates/legal/documents/tos.html:36
 msgid ""
@@ -326,7 +331,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:39
 msgid "GDPR"
-msgstr ""
+msgstr "ГДПР(GDPR)"
 
 #: wllegal/templates/legal/documents/tos.html:40
 #, python-format
@@ -334,6 +339,8 @@ msgid ""
 "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
 "Regulation"
 msgstr ""
+"означава ЕУ регулативу бр. %(law_679_2016)s, „Општа регулатива заштите "
+"података“"
 
 #: wllegal/templates/legal/documents/tos.html:42
 msgid "License"
@@ -372,7 +379,7 @@ msgstr "Власник"
 
 #: wllegal/templates/legal/documents/tos.html:52
 msgid "means the User who can manage Project"
-msgstr ""
+msgstr "означава корисника који управља пројектом"
 
 #: wllegal/templates/legal/documents/tos.html:54
 msgid "Project"
