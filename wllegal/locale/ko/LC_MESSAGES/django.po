@@ -7,13 +7,13 @@
 # Lee Yunseok <ironyunseok@protonmail.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2020-10-26 19:19+0000\n"
+"POT-Creation-Date: 2021-01-27 07:48+0000\n"
 "PO-Revision-Date: 2020-11-04 15:37+0000\n"
 "Last-Translator: Lee Yunseok <ironyunseok@protonmail.com>\n"
-"Language-Team: Korean <https://hosted.weblate.org/projects/weblate/legal/ko/>"
-"\n"
+"Language-Team: Korean <https://hosted.weblate.org/projects/weblate/legal/ko/"
+">\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -458,6 +458,9 @@ msgid ""
 msgstr "서비스를 사용하는 제공하는 사람 이외의 법인 또는 개인을 의미"
 
 #: wllegal/templates/legal/documents/tos.html:66
+#, fuzzy
+#| msgid "VCS"
+msgctxt "Definition in terms of service"
 msgid "VCS"
 msgstr "버전 관리 시스템(VCS)"
 
@@ -692,18 +695,26 @@ msgstr ""
 "니다."
 
 #: wllegal/templates/legal/documents/tos.html:133
-#, python-format
+#, fuzzy, python-format
+#| msgid ""
+#| "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
+#| "electronic communication, as ammended, the User is informed that the "
+#| "Service uses cookies."
 msgid ""
 "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
-"electronic communication, as ammended, the User is informed that the Service "
-"uses cookies."
+"electronic communication, as amended, the User is informed that the Service "
+"uses Cookies."
 msgstr ""
 "개정된 전자 통신에 대해서는 제89조 제 %(law_480_2004)s 의미 내에서, 이용자에"
 "게 서비스가 쿠키를 사용한다는 통보를 합니다."
 
 #: wllegal/templates/legal/documents/tos.html:135
+#, fuzzy
+#| msgid ""
+#| "The Service uses cookies to personalise content, and to analyse our "
+#| "traffic."
 msgid ""
-"The Service uses cookies to personalise content, and to analyse our traffic."
+"The Service uses Cookies to personalise content, and to analyse our traffic."
 msgstr ""
 "콘텐츠를 개인화하고 트래픽을 분석할 수 있도록 서비스는 쿠키를 사용합니다."
 

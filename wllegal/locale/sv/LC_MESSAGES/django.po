@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2020-10-26 19:19+0000\n"
+"POT-Creation-Date: 2021-01-27 07:48+0000\n"
 "PO-Revision-Date: 2020-10-15 22:11+0000\n"
 "Last-Translator: Johan Jacobsson <johan.jacobsson@telia.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/weblate/legal/sv/"
@@ -479,6 +479,9 @@ msgstr ""
 "tjänsten"
 
 #: wllegal/templates/legal/documents/tos.html:66
+#, fuzzy
+#| msgid "VCS"
+msgctxt "Definition in terms of service"
 msgid "VCS"
 msgstr "VCS"
 
@@ -731,19 +734,27 @@ msgstr ""
 "grund av arten av VCS."
 
 #: wllegal/templates/legal/documents/tos.html:133
-#, python-format
+#, fuzzy, python-format
+#| msgid ""
+#| "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
+#| "electronic communication, as ammended, the User is informed that the "
+#| "Service uses cookies."
 msgid ""
 "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
-"electronic communication, as ammended, the User is informed that the Service "
-"uses cookies."
+"electronic communication, as amended, the User is informed that the Service "
+"uses Cookies."
 msgstr ""
 "I den mening som avses i artikel 89 i lag nr %(law_480_2004)s coll., om "
 "elektronisk kommunikation, såsom ändrat, användaren informeras om att "
 "tjänsten använder cookies."
 
 #: wllegal/templates/legal/documents/tos.html:135
+#, fuzzy
+#| msgid ""
+#| "The Service uses cookies to personalise content, and to analyse our "
+#| "traffic."
 msgid ""
-"The Service uses cookies to personalise content, and to analyse our traffic."
+"The Service uses Cookies to personalise content, and to analyse our traffic."
 msgstr ""
 "Tjänsten använder cookies för att personifiera innehåll och för att "
 "analysera vår trafik."

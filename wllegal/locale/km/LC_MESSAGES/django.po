@@ -5,9 +5,9 @@
 # anonymous <noreply@weblate.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2020-10-26 19:19+0000\n"
+"POT-Creation-Date: 2021-01-27 07:48+0000\n"
 "PO-Revision-Date: 2020-11-13 11:28+0000\n"
 "Last-Translator: ប៉ុកណូ រ៉ូយ៉ាល់ <royalpokno68@gmail.com>\n"
 "Language-Team: Khmer (Central) <https://hosted.weblate.org/projects/weblate/"
@@ -70,13 +70,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits"
-msgstr ""
-"ទាំងនេះត្រូវបានប្រើ ដើម្បីកំណត់អត្តសញ្ញាណអ្នកនៅក្នុងការប្តេជ្ញាចិត្ត VCS"
+msgstr "ទាំងនេះត្រូវបានប្រើ ដើម្បីកំណត់អត្តសញ្ញាណអ្នកនៅក្នុងការប្តេជ្ញាចិត្ត VCS"
 
 #: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events"
-msgstr ""
-"លើសពីនេះទៀតអ៊ីមែលត្រូវបានប្រើសម្រាប់ការជូនដំណឹងអំពីព្រឹត្តិការណ៍ដែលបានមើល"
+msgstr "លើសពីនេះទៀតអ៊ីមែលត្រូវបានប្រើសម្រាប់ការជូនដំណឹងអំពីព្រឹត្តិការណ៍ដែលបានមើល"
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
@@ -95,9 +93,8 @@ msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen"
 msgstr ""
-"ទាំងនេះត្រូវបានកត់ត្រាក្នុងករណីមានការផ្លាស់ប្តូរសំខាន់ៗ ចំពោះគណនីរបស់អ្នក "
-"(ឧទាហរណ៍៖ ការផ្លាស់ប្តូរពាក្យសម្ងាត់) "
-"ដើម្បីអនុញ្ញាតឱ្យធ្វើការវិនិច្ឆ័យក្នុងករណីគណនីរបស់អ្នកត្រូវបានគេលួច"
+"ទាំងនេះត្រូវបានកត់ត្រាក្នុងករណីមានការផ្លាស់ប្តូរសំខាន់ៗ ចំពោះគណនីរបស់អ្នក (ឧទាហរណ៍៖ "
+"ការផ្លាស់ប្តូរពាក្យសម្ងាត់) ដើម្បីអនុញ្ញាតឱ្យធ្វើការវិនិច្ឆ័យក្នុងករណីគណនីរបស់អ្នកត្រូវបានគេលួច"
 
 #: wllegal/templates/legal/documents/privacy.html:35
 msgid "Billing information"
@@ -129,8 +126,7 @@ msgid ""
 "(1) b. GDPR</a>)"
 msgstr ""
 "សម្រាប់ការផ្តល់ជូននូវសេវាកម្មរបស់យើងនៅលើសេវាកម្ម "
-"ដើម្បីទាក់ទងអ្នកនៅក្នុងបញ្ហាទាក់ទងនឹងសេវាកម្មរបស់យើង (រួមផងដែរតាមរយៈអ៊ីមែល "
-"និងការផ្ញើសារ) "
+"ដើម្បីទាក់ទងអ្នកនៅក្នុងបញ្ហាទាក់ទងនឹងសេវាកម្មរបស់យើង (រួមផងដែរតាមរយៈអ៊ីមែល និងការផ្ញើសារ) "
 "និងដើម្បីធានាឱ្យបាននូវមុខងារបច្ចេកទេសនៃសេវាកម្មរបស់យើងបំពេញនូវកិច្ចសន្យា "
 "ឬកាតព្វកិច្ចមុនកិច្ចសន្យា (<a href=\"%(url)s\">មាត្ 6 (1) b. GDPR</a>)"
 
@@ -424,6 +420,7 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:66
+msgctxt "Definition in terms of service"
 msgid "VCS"
 msgstr ""
 
@@ -609,13 +606,13 @@ msgstr ""
 #, python-format
 msgid ""
 "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
-"electronic communication, as ammended, the User is informed that the Service "
-"uses cookies."
+"electronic communication, as amended, the User is informed that the Service "
+"uses Cookies."
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid ""
-"The Service uses cookies to personalise content, and to analyse our traffic."
+"The Service uses Cookies to personalise content, and to analyse our traffic."
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:138

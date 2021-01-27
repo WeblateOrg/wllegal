@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2020-10-26 19:19+0000\n"
+"POT-Creation-Date: 2021-01-27 07:48+0000\n"
 "PO-Revision-Date: 2019-10-29 17:53+0000\n"
 "Last-Translator: Iváns <ivanrsm1997@gmail.com>\n"
 "Language-Team: Galician <https://hosted.weblate.org/projects/weblate/hosted/"
@@ -486,6 +486,9 @@ msgstr ""
 "estea a emprega-lo Servizo"
 
 #: wllegal/templates/legal/documents/tos.html:66
+#, fuzzy
+#| msgid "VCS"
+msgctxt "Definition in terms of service"
 msgid "VCS"
 msgstr "VCS (Sistema de Control das Versións)"
 
@@ -740,19 +743,27 @@ msgstr ""
 "que esta aceptación non é revogábel pola natureza do SCV."
 
 #: wllegal/templates/legal/documents/tos.html:133
-#, python-format
+#, fuzzy, python-format
+#| msgid ""
+#| "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
+#| "electronic communication, as ammended, the User is informed that the "
+#| "Service uses cookies."
 msgid ""
 "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
-"electronic communication, as ammended, the User is informed that the Service "
-"uses cookies."
+"electronic communication, as amended, the User is informed that the Service "
+"uses Cookies."
 msgstr ""
 "No senso do artigo 89 da Lei número %(law_480_2004)s Coll. sobre "
 "comunicación electrónica, na súa versión modificada, infórmase ó Usuario de "
 "que o Servizo emprega cookies."
 
 #: wllegal/templates/legal/documents/tos.html:135
+#, fuzzy
+#| msgid ""
+#| "The Service uses cookies to personalise content, and to analyse our "
+#| "traffic."
 msgid ""
-"The Service uses cookies to personalise content, and to analyse our traffic."
+"The Service uses Cookies to personalise content, and to analyse our traffic."
 msgstr ""
 "O Servizo emprega cookies para personalizar o contido e analizar o noso "
 "tráfico."

@@ -6,13 +6,13 @@
 # Stanisław Krukowski <pet209a1@riseup.net>, 2018.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2020-10-26 19:19+0000\n"
+"POT-Creation-Date: 2021-01-27 07:48+0000\n"
 "PO-Revision-Date: 2020-10-31 22:27+0000\n"
 "Last-Translator: WaldiS <sto@tutanota.de>\n"
-"Language-Team: Polish <https://hosted.weblate.org/projects/weblate/legal/pl/>"
-"\n"
+"Language-Team: Polish <https://hosted.weblate.org/projects/weblate/legal/pl/"
+">\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -486,6 +486,9 @@ msgstr ""
 "z Usługi"
 
 #: wllegal/templates/legal/documents/tos.html:66
+#, fuzzy
+#| msgid "VCS"
+msgctxt "Definition in terms of service"
 msgid "VCS"
 msgstr "VCS"
 
@@ -740,19 +743,27 @@ msgstr ""
 "odwołać ze względu na charakter VCS."
 
 #: wllegal/templates/legal/documents/tos.html:133
-#, python-format
+#, fuzzy, python-format
+#| msgid ""
+#| "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
+#| "electronic communication, as ammended, the User is informed that the "
+#| "Service uses cookies."
 msgid ""
 "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
-"electronic communication, as ammended, the User is informed that the Service "
-"uses cookies."
+"electronic communication, as amended, the User is informed that the Service "
+"uses Cookies."
 msgstr ""
 "W rozumieniu art. 89 ustawy nr %(law_480_2004)s Coll. o komunikacji "
 "elektronicznej, z późniejszymi zmianami, Użytkownik jest informowany, że "
 "Serwis używa plików cookie."
 
 #: wllegal/templates/legal/documents/tos.html:135
+#, fuzzy
+#| msgid ""
+#| "The Service uses cookies to personalise content, and to analyse our "
+#| "traffic."
 msgid ""
-"The Service uses cookies to personalise content, and to analyse our traffic."
+"The Service uses Cookies to personalise content, and to analyse our traffic."
 msgstr ""
 "Serwis wykorzystuje pliki cookie w celu personalizowania treści i analizy "
 "naszego ruchu."

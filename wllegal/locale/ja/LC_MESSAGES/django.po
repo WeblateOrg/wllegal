@@ -9,9 +9,9 @@
 # amano <amano.hajime@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2020-10-26 19:19+0000\n"
+"POT-Creation-Date: 2021-01-27 07:48+0000\n"
 "PO-Revision-Date: 2020-12-25 09:37+0000\n"
 "Last-Translator: Kyotaro Iijima <kyotaro.eyes@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/weblate/legal/"
@@ -192,7 +192,9 @@ msgstr "個人情報は、利用者がアカウントを削除するまで、サ
 msgid ""
 "Access log information might be collected for a longer period for the "
 "purpose of establishing, exercising or defending legal claims."
-msgstr "アクセス ログ情報は、法的な請求、行使、防御を目的として、長期間にわたって収集することがあります。"
+msgstr ""
+"アクセス ログ情報は、法的な請求、行使、防御を目的として、長期間にわたって収集"
+"することがあります。"
 
 #: wllegal/templates/legal/documents/privacy.html:70
 msgid "Your rights"
@@ -258,7 +260,9 @@ msgstr "本サービスは、「現状のまま」、自己責任、保証なし
 msgid ""
 "Additional guarantees might apply to commercial customers, those are "
 "expressed in corresponding contracts."
-msgstr "有償ホスティングをご利用のお客様は、契約内容により追加の保証が適用されることがあります。"
+msgstr ""
+"有償ホスティングをご利用のお客様は、契約内容により追加の保証が適用されること"
+"があります。"
 
 #: wllegal/templates/legal/documents/summary.html:6
 msgid ""
@@ -452,6 +456,9 @@ msgid ""
 msgstr "本サービスを使用している、提供者以外の法人または個人"
 
 #: wllegal/templates/legal/documents/tos.html:66
+#, fuzzy
+#| msgid "VCS"
+msgctxt "Definition in terms of service"
 msgid "VCS"
 msgstr "VCS"
 
@@ -684,18 +691,26 @@ msgstr ""
 "ます。"
 
 #: wllegal/templates/legal/documents/tos.html:133
-#, python-format
+#, fuzzy, python-format
+#| msgid ""
+#| "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
+#| "electronic communication, as ammended, the User is informed that the "
+#| "Service uses cookies."
 msgid ""
 "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
-"electronic communication, as ammended, the User is informed that the Service "
-"uses cookies."
+"electronic communication, as amended, the User is informed that the Service "
+"uses Cookies."
 msgstr ""
 "本サービスは Cookie を使用することを、改正された電子通信に関する法例集 No. "
 "%(law_480_2004)s 第 89 条に規定されたとおり、利用者に通知します。"
 
 #: wllegal/templates/legal/documents/tos.html:135
+#, fuzzy
+#| msgid ""
+#| "The Service uses cookies to personalise content, and to analyse our "
+#| "traffic."
 msgid ""
-"The Service uses cookies to personalise content, and to analyse our traffic."
+"The Service uses Cookies to personalise content, and to analyse our traffic."
 msgstr ""
 "本サービスは、コンテンツをパーソナライズし、トラフィックを分析するためにクッ"
 "キーを使用します。"

@@ -6,9 +6,9 @@
 # Besnik Bleta <besnik@programeshqip.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2020-10-26 19:19+0000\n"
+"POT-Creation-Date: 2021-01-27 07:48+0000\n"
 "PO-Revision-Date: 2020-11-15 22:28+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/weblate/legal/"
@@ -486,6 +486,9 @@ msgstr ""
 "Shërbimit, që përdor Shërbimin"
 
 #: wllegal/templates/legal/documents/tos.html:66
+#, fuzzy
+#| msgid "VCS"
+msgctxt "Definition in terms of service"
 msgid "VCS"
 msgstr "VCS"
 
@@ -747,19 +750,27 @@ msgstr ""
 "për shkak të natyrës së VCS-s."
 
 #: wllegal/templates/legal/documents/tos.html:133
-#, python-format
+#, fuzzy, python-format
+#| msgid ""
+#| "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
+#| "electronic communication, as ammended, the User is informed that the "
+#| "Service uses cookies."
 msgid ""
 "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
-"electronic communication, as ammended, the User is informed that the Service "
-"uses cookies."
+"electronic communication, as amended, the User is informed that the Service "
+"uses Cookies."
 msgstr ""
 "Sipas kuptimit të Nenit 89 të Aktit Nr. %(law_480_2004)s Coll., mbi "
 "komunikimet elektronike, siç është ndryshuar, Përdoruesi është në dijeni se "
 "Shërbimi përdor &lt;em&gt;cookies &lt;/em&gt;."
 
 #: wllegal/templates/legal/documents/tos.html:135
+#, fuzzy
+#| msgid ""
+#| "The Service uses cookies to personalise content, and to analyse our "
+#| "traffic."
 msgid ""
-"The Service uses cookies to personalise content, and to analyse our traffic."
+"The Service uses Cookies to personalise content, and to analyse our traffic."
 msgstr ""
 "Shërbimi përdor &lt;em&gt;cookies&lt;/em&gt; për të personalizuar lëndë, dhe "
 "për të analizuar trafikun tonë."
