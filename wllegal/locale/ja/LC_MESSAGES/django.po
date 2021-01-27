@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-01-27 07:48+0000\n"
 "PO-Revision-Date: 2021-01-28 08:55+0000\n"
-"Last-Translator: Kyotaro Iijima <kyotaro.eyes@gmail.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/weblate/legal/"
 "ja/>\n"
 "Language: ja\n"
@@ -456,8 +456,6 @@ msgid ""
 msgstr "本サービスを使用している、提供者以外の法人または個人"
 
 #: wllegal/templates/legal/documents/tos.html:66
-#, fuzzy
-#| msgid "VCS"
 msgctxt "Definition in terms of service"
 msgid "VCS"
 msgstr "VCS"
