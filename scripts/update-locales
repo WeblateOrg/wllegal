@@ -44,4 +44,4 @@ git commit -m "i18n: Update PO files"
 git push
 
 # Unlock Weblate
-wlc unlock weblate/legal
+wlc unlock
