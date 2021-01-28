@@ -5,20 +5,20 @@
 # ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2018.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-01-27 07:48+0000\n"
-"PO-Revision-Date: 2020-10-15 11:29+0000\n"
+"PO-Revision-Date: 2021-01-28 08:55+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
-"Language-Team: Hebrew <https://hosted.weblate.org/projects/weblate/legal/he/"
-">\n"
+"Language-Team: Hebrew <https://hosted.weblate.org/projects/weblate/legal/he/>"
+"\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 4.3-dev\n"
+"X-Generator: Weblate 4.5-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -330,15 +330,17 @@ msgid ""
 "Civil Code concluded by and between the User and the Provider upon the "
 "Consent"
 msgstr ""
+"כלומר הסכם רישוי במשמעות של סעיף 2358 ואילך לקודקס האזרחי על ידי ובין המשתמש "
+"והספק בגדר ההסכמה"
 
 #: wllegal/templates/legal/documents/tos.html:29
 msgid "Civil Code"
-msgstr "קוד אזרחי"
+msgstr "הקודקס האזרחי"
 
 #: wllegal/templates/legal/documents/tos.html:30
 #, python-format
 msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
-msgstr ""
+msgstr "כלומר סעיף מס׳ ‎%(law_89_2012)s Coll.‎, הקודקס האזרחי, כפי שמצורף"
 
 #: wllegal/templates/legal/documents/tos.html:32
 msgid "Consent"
@@ -349,6 +351,8 @@ msgid ""
 "means the User’s consent with these Terms of Service and other legal "
 "documents expressed by checking the checkbox during the registration"
 msgstr ""
+"כלומר הסכמת המשתמש לתנאי השירות האלו ומסמכים משפטיים נוספים שחלים מתוקף "
+"סימון התיבה בזמן ההתקנה"
 
 #: wllegal/templates/legal/documents/tos.html:35
 #: wllegal/templates/legal/documents/tos.html:131
@@ -361,10 +365,12 @@ msgid ""
 "computer or other device connected to the Internet, which enable obtaining "
 "unique identification of the User’s web browser"
 msgstr ""
+"כלומר כל קובץ נתונים שהוא שנשלח על ידי השרת של השירות למחשב המשתמש או למכשיר "
+"אחר שמחובר לאינטרנט שיכול לקבל את הזהות הייחודית של דפדפן המשתמש"
 
 #: wllegal/templates/legal/documents/tos.html:39
 msgid "GDPR"
-msgstr ""
+msgstr "GDPR"
 
 #: wllegal/templates/legal/documents/tos.html:40
 #, python-format
@@ -383,7 +389,7 @@ msgstr "רישיון"
 msgid ""
 "means non-exclusive license granted by the Provider to the User for use of "
 "the Service"
-msgstr ""
+msgstr "כלומר רישיון שאינו בלעדי שהוענק על ידי הספק למשתמש לצורך שימוש בשירות"
 
 #: wllegal/templates/legal/documents/tos.html:45
 msgid "Provider"
@@ -392,7 +398,7 @@ msgstr "ספק"
 #: wllegal/templates/legal/documents/tos.html:46
 #, python-format
 msgid "means %(provider)s, Reg. No. %(reg_no)s"
-msgstr ""
+msgstr "כלומר %(provider)s, מס׳ רישוי %(reg_no)s"
 
 #: wllegal/templates/legal/documents/tos.html:48
 #: wllegal/templates/legal/documents/tos.html:98
@@ -405,6 +411,8 @@ msgid ""
 "means personal data within the meaning of EU Regulation No. %(law_679_2016)s "
 "inserted by the User into the Service and/or Cookies"
 msgstr ""
+"כלומר נתונים אישיים בהתאם למשמעות של האסדרה האירופית %(law_679_2016)s שסופקה "
+"על ידי המשתמש אל השירות ו/או קובצי העוגיות"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Owner"
@@ -464,13 +472,13 @@ msgstr "מתייחס למערכת בקרת גרסאות מבוזרת בו משת
 
 #: wllegal/templates/legal/documents/tos.html:71
 msgid "License Agreement Conclusion"
-msgstr ""
+msgstr "הכללת הסכם הרישוי"
 
 #: wllegal/templates/legal/documents/tos.html:73
 msgid ""
 "The License Agreement is concluded upon the User’s Acceptance of the "
 "Provider’s Offer."
-msgstr ""
+msgstr "הסכם הרישוי נכלל בהסכמת המשתמש להצעת הספק."
 
 #: wllegal/templates/legal/documents/tos.html:76
 msgid "License Agreement"
@@ -481,6 +489,7 @@ msgid ""
 "By concluding Agreement under Article 2.1 of this Agreement, the following "
 "provisions of this Article 3 of the Terms of Service come into force."
 msgstr ""
+"בהכללת ההסכם תחת סעיף 2.1 של ההסכם הזה, חלות הוראות סעיף 3 זה של תנאי השירות."
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid ""
@@ -559,6 +568,11 @@ msgid ""
 "This consent is given as long as User does not remove their account from the "
 "Service."
 msgstr ""
+"כחלק מהמשמעויות של <a href=\"%(url)s\">סעיף 7</a> של ה־GDPR המשתמש מעניק את "
+"הסכמתו לאיסוף, אחסון ועיבוד הנתונים האישיים שסופקו על ידי המשתמש להנהלה, "
+"שהיא הספק, במהלך השימוש בשירות. המשתמש מסכים לעיבוד ולשימוש בנתונים האישיים "
+"של המשתמש לספק, עובדי הספק ו/או השותפים העסקיים המורשים של הספק. הסכמה זו "
+"חלה כל עוד המשתמש לא הסיר את החשבון שלו מהשירות."
 
 #: wllegal/templates/legal/documents/tos.html:103
 #, python-format
@@ -619,6 +633,8 @@ msgid ""
 "a free and informed juridical act which concerns the consent of the subject "
 "of the data (the User) with processing of the Personal Data."
 msgstr ""
+"הסכמת המשתמש תחת סעיף 5 של תנאי השירות מהווה פעולה משפטית חופשית ומודעת "
+"שמתייחסת להסכמת גורם הבעלות על הנתונים (המשתמש) לעיבוד הנתונים האישיים."
 
 #: wllegal/templates/legal/documents/tos.html:118
 msgid "Translations"
@@ -671,12 +687,10 @@ msgid ""
 "electronic communication, as amended, the User is informed that the Service "
 "uses Cookies."
 msgstr ""
+"כחלק מהמשמעות של סעיף 89 לחוק ‎%(law_480_2004)s Coll.‎, על תקשורת אלקטרונית, "
+"כפי שמצורף, המשתמש מודע לכך שהשירות משתמש בעוגיות."
 
 #: wllegal/templates/legal/documents/tos.html:135
-#, fuzzy
-#| msgid ""
-#| "The Service uses cookies to personalise content, and to analyse our "
-#| "traffic."
 msgid ""
 "The Service uses Cookies to personalise content, and to analyse our traffic."
 msgstr "השירות משתמש בעוגיות כדי להתאים את התוכן ולנתח את התעבורה שלנו."
