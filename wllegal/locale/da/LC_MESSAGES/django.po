@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-01-27 07:48+0000\n"
-"PO-Revision-Date: 2021-01-28 08:55+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2021-02-05 15:11+0000\n"
+"Last-Translator: Aputsiak Niels Janussen <aputtu@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/weblate/legal/da/>"
 "\n"
 "Language: da\n"
@@ -24,11 +24,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr ""
+msgstr "Underleverandører i henhold til artikel 28 GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:10
 msgid "Status as of October 2020."
-msgstr ""
+msgstr "Status per oktober 2020."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -37,6 +37,9 @@ msgid ""
 "Protection Regulation, also known as GDPR. This document includes necessary "
 "specifications."
 msgstr ""
+"Vi efterlever regulativ nr. %(law_679_2016)s, General Data Protection "
+"Regulation, også kendt som GDPR. Dette dokument indeholder de nødvendige "
+"specifikationer."
 
 #: wllegal/templates/legal/documents/privacy.html:9
 msgid "Personal Data Controller"
@@ -45,7 +48,7 @@ msgstr "Personlig datastyring"
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
 msgid "%(provider)s, Reg. No. %(reg_no)s"
-msgstr ""
+msgstr "%(provider)s, registreringsnummer %(reg_no)s"
 
 #: wllegal/templates/legal/documents/privacy.html:15
 #, python-format
@@ -53,6 +56,8 @@ msgid ""
 "Weblate has appointed a data protection officer who may be reached via "
 "%(privacy_contact)s."
 msgstr ""
+"Weblate har udpeget en databeskyttelsesansvarlig, der kan kontaktes via "
+"%(privacy_contact)s."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 msgid "Personal Data processed by Weblate"
@@ -104,14 +109,16 @@ msgid ""
 "In case you purchase service from us, we collect additional billing "
 "information necessary for issuing an invoice"
 msgstr ""
+"Dersom du køber en tjeneste fra os, så vil vi indsamle yderligere nødvendige "
+"faktureringsoplysninger til udstedelse af faktura"
 
 #: wllegal/templates/legal/documents/privacy.html:40
 msgid "Purpose and legal basis of processing Personal Data"
-msgstr ""
+msgstr "Formålet og det lovgrundlaget for behandling af personlige data"
 
 #: wllegal/templates/legal/documents/privacy.html:42
 msgid "Your Personal Data will be used for the purposes of the Service:"
-msgstr ""
+msgstr "Dine personlige data vil blive brugt til tjenestens formål:"
 
 #: wllegal/templates/legal/documents/privacy.html:46
 #, python-format
