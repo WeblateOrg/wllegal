@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-01-27 07:48+0000\n"
-"PO-Revision-Date: 2021-02-05 11:37+0000\n"
+"PO-Revision-Date: 2021-02-05 15:11+0000\n"
 "Last-Translator: Слободан Симић(Slobodan Simić) <slsimic@gmail.com>\n"
 "Language-Team: Serbian (latin) <https://hosted.weblate.org/projects/weblate/"
 "legal/sr_Latn/>\n"
@@ -314,7 +314,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:35
 #: wllegal/templates/legal/documents/tos.html:131
 msgid "Cookies"
-msgstr ""
+msgstr "Kolačići"
 
 #: wllegal/templates/legal/documents/tos.html:36
 msgid ""
@@ -336,7 +336,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:42
 msgid "License"
-msgstr ""
+msgstr "Licenca"
 
 #: wllegal/templates/legal/documents/tos.html:43
 msgid ""
@@ -557,7 +557,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:118
 msgid "Translations"
-msgstr ""
+msgstr "Prevodi"
 
 #: wllegal/templates/legal/documents/tos.html:120
 msgid ""
