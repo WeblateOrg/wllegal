@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-01-27 07:48+0000\n"
-"PO-Revision-Date: 2021-02-05 15:11+0000\n"
+"PO-Revision-Date: 2021-02-09 02:02+0000\n"
 "Last-Translator: Слободан Симић(Slobodan Simić) <slsimic@gmail.com>\n"
 "Language-Team: Serbian (latin) <https://hosted.weblate.org/projects/weblate/"
 "legal/sr_Latn/>\n"
@@ -21,11 +21,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr ""
+msgstr "Podizvođači u skladu sa članom 28 GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:10
 msgid "Status as of October 2020."
-msgstr ""
+msgstr "Status od oktobra 2020."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -34,15 +34,18 @@ msgid ""
 "Protection Regulation, also known as GDPR. This document includes necessary "
 "specifications."
 msgstr ""
+"Usklađeni smo sa regulativom br. %(law_679_2016)s, „Opštom regulativom "
+"zaštite podataka“, poznatom i kao GDPR (GDPR). Ovaj dokument sadrži "
+"neophodne specifikacije."
 
 #: wllegal/templates/legal/documents/privacy.html:9
 msgid "Personal Data Controller"
-msgstr ""
+msgstr "Kontrolor ličnih podataka"
 
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
 msgid "%(provider)s, Reg. No. %(reg_no)s"
-msgstr ""
+msgstr "%(provider)s, reg. br. %(reg_no)s"
 
 #: wllegal/templates/legal/documents/privacy.html:15
 #, python-format
@@ -53,7 +56,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:17
 msgid "Personal Data processed by Weblate"
-msgstr ""
+msgstr "Lični podaci koje Veblejt obrađuje"
 
 #: wllegal/templates/legal/documents/privacy.html:20
 msgid "Weblate only processes Personal Data the User provides by using it:"
@@ -61,7 +64,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid "Name and e-mail address"
-msgstr ""
+msgstr "Ime i adresa e-pošte"
 
 #: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits"
@@ -73,7 +76,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
-msgstr ""
+msgstr "Lozinka u heširanom obliku"
 
 #: wllegal/templates/legal/documents/privacy.html:30
 msgid "Used to authenticate the User, if configured"
@@ -81,7 +84,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:32
 msgid "IP address and browser name"
-msgstr ""
+msgstr "IP adresa i naziv pregledača"
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
@@ -134,7 +137,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:51
 msgid "Access to the Personal Data"
-msgstr ""
+msgstr "Pristup ličnim podacima"
 
 #: wllegal/templates/legal/documents/privacy.html:53
 msgid ""
@@ -153,15 +156,15 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "Payment processors."
-msgstr ""
+msgstr "Obrađivači plaćanja."
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "All Personal Data is stored in the European Union."
-msgstr ""
+msgstr "Svi lični podaci su smešteni u Evropskoj uniji."
 
 #: wllegal/templates/legal/documents/privacy.html:64
 msgid "The Personal Data retention"
-msgstr ""
+msgstr "Povlačenje ličnih podataka"
 
 #: wllegal/templates/legal/documents/privacy.html:66
 msgid ""
@@ -177,7 +180,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:70
 msgid "Your rights"
-msgstr ""
+msgstr "Vaša prava"
 
 #: wllegal/templates/legal/documents/privacy.html:72
 msgid ""
@@ -206,15 +209,15 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:80
 msgid "Order us to delete your Personal Data"
-msgstr ""
+msgstr "Zahtev da obrišemo vaše lične podatke"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "Restrict the Personal Data processing"
-msgstr ""
+msgstr "Ograničite obradu ličnih podataka"
 
 #: wllegal/templates/legal/documents/privacy.html:82
 msgid "Object to processing"
-msgstr ""
+msgstr "Predmet obrade"
 
 #: wllegal/templates/legal/documents/privacy.html:83
 msgid ""
@@ -253,7 +256,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:9
 msgid "We use cookies to deliver our services."
-msgstr ""
+msgstr "Koristimo kolačiće da isporučimo naše usluge."
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
@@ -275,15 +278,15 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid "Definitions"
-msgstr ""
+msgstr "Definicije"
 
 #: wllegal/templates/legal/documents/tos.html:22
 msgid "In these Terms of Service:"
-msgstr ""
+msgstr "U ovim uslovima korišćenja:"
 
 #: wllegal/templates/legal/documents/tos.html:26
 msgid "Agreement"
-msgstr ""
+msgstr "Sporazum"
 
 #: wllegal/templates/legal/documents/tos.html:27
 msgid ""
@@ -325,7 +328,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:39
 msgid "GDPR"
-msgstr ""
+msgstr "GDPR(GDPR)"
 
 #: wllegal/templates/legal/documents/tos.html:40
 #, python-format
@@ -333,6 +336,8 @@ msgid ""
 "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
 "Regulation"
 msgstr ""
+"označava EU regulativu br. %(law_679_2016)s, „Opšta regulativa zaštite "
+"podataka“"
 
 #: wllegal/templates/legal/documents/tos.html:42
 msgid "License"
@@ -356,7 +361,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:48
 #: wllegal/templates/legal/documents/tos.html:98
 msgid "Personal Data"
-msgstr ""
+msgstr "Lični podaci"
 
 #: wllegal/templates/legal/documents/tos.html:49
 #, python-format
@@ -367,11 +372,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Owner"
-msgstr ""
+msgstr "Vlasnik"
 
 #: wllegal/templates/legal/documents/tos.html:52
 msgid "means the User who can manage Project"
-msgstr ""
+msgstr "označava korisnika koji upravlja projektom"
 
 #: wllegal/templates/legal/documents/tos.html:54
 msgid "Project"
@@ -379,7 +384,7 @@ msgstr "Projekat"
 
 #: wllegal/templates/legal/documents/tos.html:55
 msgid "means translation project operated on the Service"
-msgstr ""
+msgstr "označava projekat prevođenja obrađivan na Pružaocu usluga"
 
 #: wllegal/templates/legal/documents/tos.html:57
 msgid "Service"
@@ -392,7 +397,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:60
 msgid "Translation Memory"
-msgstr ""
+msgstr "Prevodilačka memorija"
 
 #: wllegal/templates/legal/documents/tos.html:61
 msgid "means the optional translation memory service provided within Weblate"
@@ -400,7 +405,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:63
 msgid "User"
-msgstr ""
+msgstr "Korisnik"
 
 #: wllegal/templates/legal/documents/tos.html:64
 msgid ""
@@ -411,7 +416,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:66
 msgctxt "Definition in terms of service"
 msgid "VCS"
-msgstr ""
+msgstr "Sistem kontrole verzija"
 
 #: wllegal/templates/legal/documents/tos.html:67
 msgid ""
