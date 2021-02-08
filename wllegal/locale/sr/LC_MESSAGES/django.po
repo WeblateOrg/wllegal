@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-01-27 07:48+0000\n"
-"PO-Revision-Date: 2021-01-28 08:55+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2021-02-09 02:02+0000\n"
+"Last-Translator: Слободан Симић(Slobodan Simić) <slsimic@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/weblate/legal/sr/"
 ">\n"
 "Language: sr\n"
@@ -97,7 +97,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:35
 msgid "Billing information"
-msgstr ""
+msgstr "Подаци за наплату"
 
 #: wllegal/templates/legal/documents/privacy.html:36
 msgid ""
@@ -391,7 +391,7 @@ msgstr "означава пројекат превођења обрађиван 
 
 #: wllegal/templates/legal/documents/tos.html:57
 msgid "Service"
-msgstr "Сервис"
+msgstr "Услуга"
 
 #: wllegal/templates/legal/documents/tos.html:58
 msgid ""
