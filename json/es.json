@@ -3,9 +3,10 @@
   "855aad6254dbc154": "Este sitio se encuentra desconectado para su mantenimiento.",
   "f0a04eec920f8be1": "Mantenimiento en curso",
   "580c807df3faaff0": "Mantenimiento en el servidor de Weblate",
-  "dd688904278968c2": "Distribuido en virtud de la GNU GPLv3+",
+  "dd688904278968c2": "Distribuido en virtud de la GNU GPL v3+",
   "f1755fb51ebbc26a": "Estado del servicio",
   "f3e2fd9f17199fd9": "Ha superado el límite de frecuencia de uso del sitio. Intente lo que estaba haciendo más tarde.",
   "cefd423328bbabae": "Límite de frecuencia",
-  "404c9a7eb09bf5cf": "Límite de frecuencia de Weblate"
+  "404c9a7eb09bf5cf": "Límite de frecuencia de Weblate",
+  "20deef135140c70": "Bajo licencia GNU GPL v3+"
 }
