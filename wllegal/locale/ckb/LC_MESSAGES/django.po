@@ -4,27 +4,27 @@
 # anonymous <noreply@weblate.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-01-27 07:48+0000\n"
-"PO-Revision-Date: 2020-10-04 16:41+0000\n"
-"Last-Translator: Kurd As <kurd68587@gmail.com>\n"
-"Language-Team: Central Kurdish <https://hosted.weblate.org/projects/weblate/"
-"legal/ckb/>\n"
+"PO-Revision-Date: 2021-04-03 10:53+0000\n"
+"Last-Translator: Rener kaka <Rabarajax51@gmail.com>\n"
+"Language-Team: Kurdish (Central) <https://hosted.weblate.org/projects/"
+"weblate/legal/ckb/>\n"
 "Language: ckb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.3-dev\n"
+"X-Generator: Weblate 4.6-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr ""
+msgstr "بەڵێندەرە لاوەکیەکان بەپێی هونەر. 28 GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:10
 msgid "Status as of October 2020."
-msgstr ""
+msgstr "بار تا مانگی تشرینی یەکەمی 2020."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -109,11 +109,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:40
 msgid "Purpose and legal basis of processing Personal Data"
-msgstr ""
+msgstr "مەبەست و بنەمای یاسایی لە پرۆسەی داتاکەسی"
 
 #: wllegal/templates/legal/documents/privacy.html:42
 msgid "Your Personal Data will be used for the purposes of the Service:"
-msgstr ""
+msgstr "زانیاری ە کەسیەکەت بەکاردەهێنرێت بۆ مەبەستی خزمەتگوزاریەکە:"
 
 #: wllegal/templates/legal/documents/privacy.html:46
 #, python-format
@@ -142,64 +142,74 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:51
 msgid "Access to the Personal Data"
-msgstr ""
+msgstr "دەستگەیشتن بە داتا کەسییەکان"
 
 #: wllegal/templates/legal/documents/privacy.html:53
 msgid ""
 "The Controller has made all reasonable technical means to protect the "
 "Personal Data. Only authorized persons can access the Personal Data."
 msgstr ""
+"کۆنترۆڵکەر هەموو مەبەستێکی تەکنیکی دروست کردووە بۆ پاراستنی داتای کەسی. "
+"تەنها کەسانی ڕێپێدراو دەتوانن دەستگەیشتنیان هەبێت بۆ داتای کەسی."
 
 #: wllegal/templates/legal/documents/privacy.html:55
 msgid ""
 "Third parties which can gain access to the Personal Data when necessary are:"
 msgstr ""
+"لایەنی سێیەم کە دەتوانن دەستگەیشتن یان دەستگەیشتن بە داتای کەسی بەدەست بهێنن "
+"لەکاتی پێویستدا ئەمانەن:"
 
 #: wllegal/templates/legal/documents/privacy.html:58
 msgid "Persons which are contracted for technical assurance of the service."
-msgstr ""
+msgstr "که س که بۆ دڵنیایی تەکنیکی خزمەتگوزارییه کان گرێبەستدەکرێن."
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "Payment processors."
-msgstr ""
+msgstr "چارەسەرکەرەکانی پارەدان."
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "All Personal Data is stored in the European Union."
-msgstr ""
+msgstr "هەموو داتا کەسیەکان خەزن کراون لە یەکێتی ئەوروپا."
 
 #: wllegal/templates/legal/documents/privacy.html:64
 msgid "The Personal Data retention"
-msgstr ""
+msgstr "هێشتنەوەی داتای کەسی"
 
 #: wllegal/templates/legal/documents/privacy.html:66
 msgid ""
 "The Personal Data is stored in the Service until the User deletes their "
 "account on the service."
 msgstr ""
+"زانیاریە کەسیەکان لە خزمەتگوزاریدا خەزن کراوە هەتا بەکارهێنەر ئەژمێرەکەی "
+"لەسەر خزمەتگوزاریەکە دەسڕێتەوە."
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "Access log information might be collected for a longer period for the "
 "purpose of establishing, exercising or defending legal claims."
 msgstr ""
+"لەوانەیە زانیاری چوونە ژوورەوە کۆبکرێتەوە بۆ ماوەیەکی درێژتر بە مەبەستی "
+"دامەزران، وەرزشکردن یان بەرگریکردن لە داوا یاساییەکان."
 
 #: wllegal/templates/legal/documents/privacy.html:70
-#, fuzzy
-#| msgid "Your profile"
 msgid "Your rights"
-msgstr "پرۆفایلەکەت"
+msgstr "مافەکانت"
 
 #: wllegal/templates/legal/documents/privacy.html:72
 msgid ""
 "The User provides use of Personal Data voluntarily. Without this Personal "
 "Data Weblate is not able to provide our services."
 msgstr ""
+"بەکارهێنەر بە خۆبەخشیی یی زانیاری کەسیی بەکاردەهێنێت. بەبێ ئەم وێبلایتە "
+"زانیاریە کەسییە ناتوانێت خزمەتەکانمان دابین بکات."
 
 #: wllegal/templates/legal/documents/privacy.html:74
 msgid ""
 "We want you to always be in control of your Personal Data. To this end, you "
 "have certain rights that allow for it. Under certain conditions, you may:"
 msgstr ""
+"دەمانەوێت هەمیشە لە کۆنترۆڵی داتای کەسیی خۆت دا بیت. بۆ ئەم کۆتاییە، مافی "
+"دیاریکراوت هەیە کە رێگەی پێدەدات لە هەندێک مەرجدا، لەوانەیە:"
 
 #: wllegal/templates/legal/documents/privacy.html:78
 #, python-format
@@ -207,95 +217,109 @@ msgid ""
 "Gain access to all your Personal Data that Weblate uses or processes, and "
 "even get a copy of all of it (<a href=\"%(url)s\">Article 15 GDPR</a>)"
 msgstr ""
+"دەستگەیشتن بەدەست بهێنە بۆ هەموو زانیاریە کەسیەکەت کە وێبسایت بەکاری دەهێنێت "
+"یان پرۆسەکان, و تەنانەت کۆپیەکی هەمووی دەست بخە(<a href=\"%(url)s\"></a>"
 
 #: wllegal/templates/legal/documents/privacy.html:79
 msgid ""
 "Correct the Personal Data that Weblate processes if you think that there are "
 "mistakes"
 msgstr ""
+"داتا کەسیەکە ڕاست بکەوە کە وێبلایت پڕۆسە دەکات ئەگەر وا بیر دەکەیتەوە کە "
+"هەڵە هەیە"
 
 #: wllegal/templates/legal/documents/privacy.html:80
 msgid "Order us to delete your Personal Data"
-msgstr ""
+msgstr "فەرمانمان پێبکە بۆ سڕینەوەی داتا کەسیەکەت"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "Restrict the Personal Data processing"
-msgstr ""
+msgstr "سنوردارکردنی پرۆسەی زانیارییە کەسیەکان"
 
 #: wllegal/templates/legal/documents/privacy.html:82
-#, fuzzy
-#| msgid "Languages"
 msgid "Object to processing"
-msgstr "زمانەکان"
+msgstr "ئامانج بۆ برۆسەکردن"
 
 #: wllegal/templates/legal/documents/privacy.html:83
 msgid ""
 "Receive your Personal Data in a commonly used and machine-readable format or "
 "to transmit this Personal Data to a different provider."
 msgstr ""
+"وەرگرتنی زانیاری تایبەتی خۆت بە شێوەیەکی گشتی بەکاردێت و ئامێر-خوێندنەوە یان "
+"بۆ گواستنەوەی ئەم زانیاریە کەسییە بۆ دابینکەری جیاواز."
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
 "The services are provided “as is”, at your own risk, without any warranty."
 msgstr ""
+"خزمەتگوزاریەکان دابین کراون \"وەک خۆی\", لە مەترسی خۆت, بەبێ هیچ گەرەنتیەک."
 
 #: wllegal/templates/legal/documents/summary.html:5
 msgid ""
 "Additional guarantees might apply to commercial customers, those are "
 "expressed in corresponding contracts."
 msgstr ""
+"لەوانەیە گەرەنتی زیاتر جێبەجێ بکرێت بۆ کڕیارە بازرگانیەکان، ئەوانەی لە "
+"گرێبەستی هاوچەوچەدا دەریانبڕیون"
 
 #: wllegal/templates/legal/documents/summary.html:6
 msgid ""
 "We process private data (such as your e-mail address), those will be "
 "discarded from our database as soon as you remove your account."
 msgstr ""
+"ئێمە زانیاری تایبەت پرۆسێس دەکەین (وەک ناونیشانی ئیمەیڵەکەت) ، ئەوانەی لە "
+"بنکەی زانیارێکان دوور دەکەونەوە هەر کە ئەژمێرەکەت لادەبەیت."
 
 #: wllegal/templates/legal/documents/summary.html:7
 msgid ""
 "Your translations are made under license which is specified by each "
 "translation."
 msgstr ""
+"وەرگێڕانەکانت لە ژێر مۆڵەت دروست کراون کە دیاریکراوە لە لایەن هەر وەرگێڕانێک."
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
 "Your name and e-mail address is used in VCS commits, it will stay there "
 "indefinitely."
 msgstr ""
+"ناو و ناونیشانی ئیمەیڵەکەت لە VCS دا بەکارهاتووە، بە شێوەیەکی بێ ناو لەوێ "
+"دەمێننەوە."
 
 #: wllegal/templates/legal/documents/summary.html:9
 msgid "We use cookies to deliver our services."
-msgstr ""
+msgstr "ئێمە cookies بەکار ئەهێنیت بۆ گەیاندنی خزمەتگوزاریەکانمان."
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
-msgstr ""
+msgstr "سەیری وەشانی ئینگلیزی بکە"
 
 #: wllegal/templates/legal/documents/tos.html:11
 msgid ""
 "The Terms of Service document is authoritative in English, translations are "
 "provided for your convenience."
 msgstr ""
+"مەرجەکانی بەڵگەنامەی خزمەت بە ئینگلیزی کاردەکەن، وەرگێڕانەکان بۆ ئاسانی ئێوە "
+"دابین کراون."
 
 #: wllegal/templates/legal/documents/tos.html:17
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these Terms of Service."
 msgstr ""
+"ماف و پابەندبوونەکانی بەکارهێنەر و دابینکەر کە لە بەکارهێنانی خزمەتگوزاریەوە "
+"ئەنجام یان هەیە، ئەم مەرجانەی خزمەتگوزاری بەڕێوەدەبرێن"
 
 #: wllegal/templates/legal/documents/tos.html:20
-#, fuzzy
-#| msgid "Description"
 msgid "Definitions"
-msgstr "پێناسە"
+msgstr "پێناسەکان"
 
 #: wllegal/templates/legal/documents/tos.html:22
 msgid "In these Terms of Service:"
-msgstr ""
+msgstr "لەم مەرجانەی خزمەتگوزاری:"
 
 #: wllegal/templates/legal/documents/tos.html:26
 msgid "Agreement"
-msgstr ""
+msgstr "ڕێککەوتن"
 
 #: wllegal/templates/legal/documents/tos.html:27
 msgid ""
@@ -303,10 +327,12 @@ msgid ""
 "Civil Code concluded by and between the User and the Provider upon the "
 "Consent"
 msgstr ""
+"واتە ڕەزامەندی مۆڵەت لە نێو مانای مادەی 2358 و et seq. لە یاسای مەدەنی "
+"کۆتایی پێهاتووە و لە نێوان بەکارهێنەر و دابینکەر لەسەر ڕەزامەندی"
 
 #: wllegal/templates/legal/documents/tos.html:29
 msgid "Civil Code"
-msgstr ""
+msgstr "کۆدی شارستانی"
 
 #: wllegal/templates/legal/documents/tos.html:30
 #, python-format
@@ -315,13 +341,15 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:32
 msgid "Consent"
-msgstr ""
+msgstr "ڕازیبوون"
 
 #: wllegal/templates/legal/documents/tos.html:33
 msgid ""
 "means the User’s consent with these Terms of Service and other legal "
 "documents expressed by checking the checkbox during the registration"
 msgstr ""
+"واتە ڕەزامەندی بەکارهێنەر لەگەڵ ئەم مەرجانەی خزمەتگوزاری و بەڵگەنامە "
+"یاساییەکانی تر کە بە پشکنینی چێکبۆکس ەکە لە کاتی تۆمارکردنەکەدا دەربڕدران"
 
 #: wllegal/templates/legal/documents/tos.html:35
 #: wllegal/templates/legal/documents/tos.html:131
