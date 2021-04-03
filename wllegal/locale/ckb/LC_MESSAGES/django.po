@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-01-27 07:48+0000\n"
-"PO-Revision-Date: 2021-04-03 10:53+0000\n"
+"PO-Revision-Date: 2021-04-04 13:26+0000\n"
 "Last-Translator: Rener kaka <Rabarajax51@gmail.com>\n"
 "Language-Team: Kurdish (Central) <https://hosted.weblate.org/projects/"
 "weblate/legal/ckb/>\n"
@@ -124,6 +124,11 @@ msgid ""
 "contractual or pre-contractual obligations (<a href=\"%(url)s\">Article 6 "
 "(1) b. GDPR</a>)"
 msgstr ""
+"بۆ دابینکردنی خزمەتگوزاریەکانمان لەسەر خزمەتگوزاری، پەیوەندیت پێوە بکەین لە "
+"بابەتەکان سەبارەت بە خزمەتەکانمان (هەروەها بە ڕێگەی ئیمەیڵ و نامە) و بۆ "
+"دڵنیابوون لە ئەرکە تەکنیکیەکانی خزمەتەکانمان بەجێهێنانی ئەرکە گرێبەستەکان "
+"یان پێش بەڵێنەکان (<a href=\"%(url)s\">href=\"%(url)s\"&gt;Article 6 (1) b. "
+"GDPR</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
@@ -131,6 +136,8 @@ msgid ""
 "to analyze your use of our services and improve our services (<a href="
 "\"%(url)s\">Article 6 (1) b. and f. GDPR</a>)"
 msgstr ""
+"بۆ شیکردنەوەی بەکارهێنانی خزمەتگوزاریەکانمان و باشترکردنی خزمەتگوزاریەکانمان "
+"(<a href=\"%(url)s\">)</a>"
 
 #: wllegal/templates/legal/documents/privacy.html:48
 #, python-format
@@ -139,6 +146,9 @@ msgid ""
 "activities or send you newsletters (<a href=\"%(url)s\">Article 6 (1) a. "
 "GDPR</a>)"
 msgstr ""
+"بە ڕەزامەندی دەربڕینیان یان ڕێنمایی بۆ ئەنجامدانی چالاکی بازرگانیمان یان "
+"ناردنی هەواڵنامە (<a href=\"%(url)s\">href=\"%(url)s\"&gt;Article 6 (1) a. "
+"GDPR</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:51
 msgid "Access to the Personal Data"
@@ -260,7 +270,7 @@ msgid ""
 "expressed in corresponding contracts."
 msgstr ""
 "لەوانەیە گەرەنتی زیاتر جێبەجێ بکرێت بۆ کڕیارە بازرگانیەکان، ئەوانەی لە "
-"گرێبەستی هاوچەوچەدا دەریانبڕیون"
+"گرێبەستی هاوچەوچەدا دەریانبڕیون."
 
 #: wllegal/templates/legal/documents/summary.html:6
 msgid ""
@@ -307,7 +317,7 @@ msgid ""
 "use of the Service are governed by these Terms of Service."
 msgstr ""
 "ماف و پابەندبوونەکانی بەکارهێنەر و دابینکەر کە لە بەکارهێنانی خزمەتگوزاریەوە "
-"ئەنجام یان هەیە، ئەم مەرجانەی خزمەتگوزاری بەڕێوەدەبرێن"
+"ئەنجام یان هەیە، ئەم مەرجانەی خزمەتگوزاری بەڕێوەدەبرێن."
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid "Definitions"
@@ -337,7 +347,7 @@ msgstr "کۆدی شارستانی"
 #: wllegal/templates/legal/documents/tos.html:30
 #, python-format
 msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
-msgstr ""
+msgstr "واتە یاسای ژمارە . %(law_89_2012)s،یاسای شارستانی، بە هەموارکراو"
 
 #: wllegal/templates/legal/documents/tos.html:32
 msgid "Consent"
@@ -354,7 +364,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:35
 #: wllegal/templates/legal/documents/tos.html:131
 msgid "Cookies"
-msgstr ""
+msgstr "Cookies"
 
 #: wllegal/templates/legal/documents/tos.html:36
 msgid ""
@@ -362,17 +372,20 @@ msgid ""
 "computer or other device connected to the Internet, which enable obtaining "
 "unique identification of the User’s web browser"
 msgstr ""
+"واتە هەر فایلێکی داتا کە لەلایەن ڕاژەکاری وێب ەوە نێردراوە بۆ کۆمپیوتەری "
+"بەکارهێنەر یان ئامێرەکانی تری گرێدراو بە ئینتەرنێتەوە، کە بە توانا دەبێت "
+"ناسنامەی بێ هاوتای وێبگەڕی بەکارهێنەر بەدەست بێنێت"
 
 #: wllegal/templates/legal/documents/tos.html:39
 msgid "GDPR"
-msgstr ""
+msgstr "GDPR"
 
 #: wllegal/templates/legal/documents/tos.html:40
 #, python-format
 msgid ""
 "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
 "Regulation"
-msgstr ""
+msgstr "واتە ڕێکخستنی EU ژمارە.%(law_679_2016)s، ڕێکخستنی پاراستنی داتای گشتی"
 
 #: wllegal/templates/legal/documents/tos.html:42
 msgid "License"
@@ -383,22 +396,22 @@ msgid ""
 "means non-exclusive license granted by the Provider to the User for use of "
 "the Service"
 msgstr ""
+"مانای مۆڵەتی نا تایبەتە کە دراوە لەلایەن دابینکارەوە بۆ بەکارهێنەر بۆ "
+"بەکارهێنانی خزمەتگوزاریەکە"
 
 #: wllegal/templates/legal/documents/tos.html:45
 msgid "Provider"
-msgstr ""
+msgstr "دابینکەر"
 
 #: wllegal/templates/legal/documents/tos.html:46
 #, python-format
 msgid "means %(provider)s, Reg. No. %(reg_no)s"
-msgstr ""
+msgstr "واتە %(provider)s ,ڕیگ. نەخێر.%(reg_no)s"
 
 #: wllegal/templates/legal/documents/tos.html:48
 #: wllegal/templates/legal/documents/tos.html:98
-#, fuzzy
-#| msgid "Persian"
 msgid "Personal Data"
-msgstr "فارسی"
+msgstr "زانیاری تایبەتی"
 
 #: wllegal/templates/legal/documents/tos.html:49
 #, python-format
@@ -406,14 +419,16 @@ msgid ""
 "means personal data within the meaning of EU Regulation No. %(law_679_2016)s "
 "inserted by the User into the Service and/or Cookies"
 msgstr ""
+"واتە داتای کەسی لە ناو مانای رێکخستنی EU ژمارە.%(law_679_2016)sلە لایەن "
+"بەکارهێنەرەوە تێکراوە بۆ خزمەتگوزاری و/یانCookies"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Owner"
-msgstr ""
+msgstr "خاوەن"
 
 #: wllegal/templates/legal/documents/tos.html:52
 msgid "means the User who can manage Project"
-msgstr ""
+msgstr "واتە بەکارهێنەر کە دەتوانێت خاوەن پرۆژە بەڕێوە ببا"
 
 #: wllegal/templates/legal/documents/tos.html:54
 msgid "Project"
@@ -421,71 +436,76 @@ msgstr "پڕۆژە"
 
 #: wllegal/templates/legal/documents/tos.html:55
 msgid "means translation project operated on the Service"
-msgstr ""
+msgstr "واتە پرۆژەی وەرگێڕان لە خزمەتگوزاریدا کاردەکات"
 
 #: wllegal/templates/legal/documents/tos.html:57
-#, fuzzy
-#| msgid "Server Error"
 msgid "Service"
-msgstr "هەڵە هەیە لە ڕاژەکار"
+msgstr "خزمەتگوزاری"
 
 #: wllegal/templates/legal/documents/tos.html:58
 msgid ""
 "means the website and services based on Weblate operated by the Provider"
 msgstr ""
+"واتە وێبسایت و خزمەتگوزاریەکان لەسەر بنەمای وێبلایت کە لەلایەن دابینکارەوە "
+"بەکارخراوە"
 
 #: wllegal/templates/legal/documents/tos.html:60
-#, fuzzy
-#| msgid "Translation"
 msgid "Translation Memory"
-msgstr "وەرگێڕان"
+msgstr "بیرگەی وەرگێڕان"
 
 #: wllegal/templates/legal/documents/tos.html:61
 msgid "means the optional translation memory service provided within Weblate"
 msgstr ""
+"مانای خزمەتگوزاری بیرگەی وەرگێڕانی ئارەزوومەندانەیە کە لە وێبلایت دابین کراوە"
 
 #: wllegal/templates/legal/documents/tos.html:63
-#, fuzzy
-#| msgid "User ID"
 msgid "User"
-msgstr "ناسنامەی بەکارهێنەر"
+msgstr "بەکارهێنەر"
 
 #: wllegal/templates/legal/documents/tos.html:64
 msgid ""
 "means any legal entity or an individual other than the Provider, who is "
 "using the Service"
 msgstr ""
+"واتە هەر قەوارەیەکی یاسایی یان تاکێکی تر جگە لە دابینکەر، کە خزمەتگوزاری "
+"بەکار دەهێنێ"
 
 #: wllegal/templates/legal/documents/tos.html:66
 msgctxt "Definition in terms of service"
 msgid "VCS"
-msgstr ""
+msgstr "VCS"
 
 #: wllegal/templates/legal/documents/tos.html:67
 msgid ""
 "means distributed version control system used by the Project such as Git or "
 "Mercurial"
 msgstr ""
+"مانای دابەشکردنی سیستەمی کۆنترۆڵی ڤێرژن کە لەلایەن پرۆژەکەوە بەکار هاتووە "
+"وەک Git یان Mercurial"
 
 #: wllegal/templates/legal/documents/tos.html:71
 msgid "License Agreement Conclusion"
-msgstr ""
+msgstr "کۆتایی ڕێککەوتنی مۆڵەت"
 
 #: wllegal/templates/legal/documents/tos.html:73
 msgid ""
 "The License Agreement is concluded upon the User’s Acceptance of the "
 "Provider’s Offer."
 msgstr ""
+"ڕێکەوتننامەی مۆڵەتەکە لەسەر پەسەندکردنی بەکارهێنەر بۆ ئۆفەری دابینکەر کۆتایی "
+"پێدێت."
 
 #: wllegal/templates/legal/documents/tos.html:76
 msgid "License Agreement"
-msgstr ""
+msgstr "ڕێککەوتنی مۆڵەت"
 
 #: wllegal/templates/legal/documents/tos.html:78
 msgid ""
 "By concluding Agreement under Article 2.1 of this Agreement, the following "
 "provisions of this Article 3 of the Terms of Service come into force."
 msgstr ""
+"بە ئەنجام دانی ڕێکەوتن لە ژێر مادەی 2 ی ئەم ڕێکەوتننامەدا ئەم بەندانەی "
+"خوارەوە ی ئەم مادەی3 ی مەرجەکانی خزمەتگوزاری دێتە بواری جێبەجێ کردنەوە."
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid ""
@@ -493,12 +513,17 @@ msgid ""
 "this License Agreement, all this under the terms and conditions stated in "
 "these Terms of Service."
 msgstr ""
+"دابینکەر بە پێی رێکەوتننامەی مۆڵەت پێشکەش بە بەکارهێنەر دەکات و بەکارهێنەر "
+"ڕازی دەبێت بەم رێکەوتنە ی مۆڵەت، هەموو ئەمانە لە ژێر ئەو مەرج و مەرجانەی لەم "
+"مەرجانەی خزمەتگوزاریدا هاتووە."
 
 #: wllegal/templates/legal/documents/tos.html:82
 msgid ""
 "The Provider shall have the right to shut down, adjust, modify or make the "
 "Service unavailable on the web address at any time."
 msgstr ""
+"دابینکەر مافی کوژاندنەوەی، دەستکاریکردن، یان کردنی خزمەتگوزاری بەردەست نیە "
+"لە ناونیشانی وێب لە هەر کاتێک."
 
 #: wllegal/templates/legal/documents/tos.html:84
 msgid ""
@@ -506,28 +531,37 @@ msgid ""
 "technical software and/or hardware means of the Provider and/or such means "
 "in the Provider’s use."
 msgstr ""
+"بەکارهێنەر ڕازی دەبێت لەسەر بەکارهێنانی خزمەتگوزاری ەکە تەنها بە وشێوەیەی کە "
+"software تەکنیکی و/یان ئامێرەکانی hardwareدابینکەر و/یان ئەو مانایانە نەخاتە "
+"مەترسیەوە لە بەکارهێنانی دابینکەر."
 
 #: wllegal/templates/legal/documents/tos.html:86
 msgid ""
 "The User agrees to refrain from use of the Service in bad faith and/or "
 "deliberately causing any damage to the Service."
 msgstr ""
+"بەکارهێنەر ڕازی دەبێت بە خۆبەدوورگرتن لە بەکارهێنانی خزمەتگوزاری لە باوەڕێکی "
+"خراپ و/یان بە ئەنقەست دەبێتە هۆی هەر زیانێک بۆ خزمەتگوزاریەکە."
 
 #: wllegal/templates/legal/documents/tos.html:88
 msgid ""
 "The User agrees to refrain from bypassing the Service’s software and/or "
 "technical hardware means, in particular the security systems."
 msgstr ""
+"بەکارهێنەر ڕازی دەبێت بە خۆدوورگرتن لە تێپەڕاندنی software خزمەتگوزاری و/یان "
+"مانای ئامێری تەکنیکی، بە تایبەتی سیستەمەکانی پاراستن."
 
 #: wllegal/templates/legal/documents/tos.html:91
 msgid "Liability for Damage"
-msgstr ""
+msgstr "بەرپرسیارێتی زیان"
 
 #: wllegal/templates/legal/documents/tos.html:93
 msgid ""
 "The User hereby renders it undisputed that the Provider shall not be liable "
 "for any damage caused to the User resulting from the use of the Service."
 msgstr ""
+"بەکارهێنەر لە ڕێگەی ئەمەوە بێ کێشە دەکات کە دابینکەر نابێت لە هیچ زیانێک کە "
+"بەر بەکارهێنەر ەکە کە لە ئەنجامی بەکارهێنانی خزمەتگوزاریەکەوە بێت."
 
 #: wllegal/templates/legal/documents/tos.html:95
 msgid ""
@@ -536,6 +570,10 @@ msgid ""
 "Provider to the User through a breach of any obligation contained in these "
 "Terms of Service and/or resulting from the use of the Service."
 msgstr ""
+"ئەگەر بەکارهێنەر بازرگان بێت, ئەوە لێرەوە بە دەربڕینی دەستبەردار دەبێت لە "
+"مافی قەرەبووکردنەوە لە دابینکار بۆ ئەو زیانانەی کە بە بێ مەبەست لە لایەن "
+"دابینکارەوە بۆ بەکارهێنەر دروست دەبێت لە ڕێگەی شکاندنی هەر پابەندیەک کە لەم "
+"مەرجانەی خزمەتگوزاری و/یان لە ئەنجامی بەکارهێنانی ڕاژەکە بێت."
 
 #: wllegal/templates/legal/documents/tos.html:101
 #, python-format
@@ -549,6 +587,13 @@ msgid ""
 "This consent is given as long as User does not remove their account from the "
 "Service."
 msgstr ""
+"&gt; لە مانای <a href=\"%(url)s\"> Article 7</a>بەکارهێنەر لێرەوە ڕەزامەندی "
+"دەدات بە کۆکردنەوە، خەزنکردن و پرۆسەی داتا کەسیەکان کە بەکارهێنەر دابینی "
+"کردووە بۆ بەڕێوەبەر، کە دابینکارە، لە ڕێگەی بەکارهێنانی خزمەتگوزاریەوە؛ "
+"بەکارهێنەر ڕەزامەندی دەدات بە پرۆسەکردن و بەکارهێنانی داتا کەسییەکانی "
+"بەکارهێنەر لەلایەن دابینکارەوە، کارمەندانی دابینکار و/یان هاوبەشی بازرگانی "
+"ڕێگەپێدەر. ئەم ڕازیبوونانە دراوە بە ویکە بەکارهێنەر هەژمارەکەیان لانەبەیت لە "
+"خزمەتگوزاری."
 
 #: wllegal/templates/legal/documents/tos.html:103
 #, python-format
@@ -561,6 +606,12 @@ msgid ""
 "contractual partners and for statistical and/or marketing purposes of the "
 "Provider."
 msgstr ""
+"مەبەست لە پرۆسەی داتای کەسی کە لەلایەن دابینکارەوە دیاری دەکرێت بەکارهێنانی "
+"داتای کەسییە بۆ ناردنی پەیوەندی بازرگانی بۆ بابەتی داتاکان (بەکارهێنەر) لە "
+"ڕێگەی ئەلیکترۆنیەوە لە ژێر یاسای ژمارە %(law_480_2004)s.، لەسەر هەندێک "
+"خزمەتگوزاری کۆمەڵگای زانیاری، بە هەموارکراو، و زیاتر بۆ بازاڕکردن و "
+"پێویستیەکانی بازرگانی هاوبەشانی گرێبەستی دابینکەر و بۆ مەبەستی ئامار و/یان "
+"بەبازاڕکردنی دابینکەر."
 
 #: wllegal/templates/legal/documents/tos.html:105
 msgid ""
@@ -568,6 +619,9 @@ msgid ""
 "wishing to receive business information from the Provider, the Provider "
 "shall refrain from sending further unsolicited business communications."
 msgstr ""
+"ئەگەر بەکارهێنەر ڕاستەوخۆ و کاریگەرانە بە دابینکەری راگەیاندن بدات کە چیتر "
+"ئارەزووی وەرگرتنی زانیاری بازرگانی لە دابینکارەوە نیە، بەڵام دابینکار خۆی لە "
+"ناردنی پەیوەندی بازرگانی زیاتر بە داوا نەکراو دەدزتەوە."
 
 #: wllegal/templates/legal/documents/tos.html:109
 #, python-format
@@ -577,6 +631,9 @@ msgid ""
 "declares that all the Personal Data is accurate and true and has been "
 "provided voluntarily."
 msgstr ""
+"بەکارهێنەر هۆشیاری لە مافی خۆی ڕادەگەیەنی لەژێر <a href=\"%(url_15)s\"> "
+"Article15</a>و<a href=\"%(url_17)s\"> article7</a>و رایدەگەیەنین کە هەموو "
+"داتا کەسییەکان دروست و راستن و خۆبەخشانە دەستەبەر کراوە."
 
 #: wllegal/templates/legal/documents/tos.html:111
 msgid ""
@@ -588,6 +645,12 @@ msgid ""
 "the Personal Data, even after the termination of their employment or "
 "business relationship with the Provider."
 msgstr ""
+"دابینکەر ڕایدەگەیەنێت کە داتای کەسی کۆدەکەنەوە تەنیا بەو ڕادەیەی کە پێویست "
+"بێت بۆ کۆبوونەوەی ئەو مەبەستەی سەرەوە دیاریکراوە و پرۆسەی داتا کەسییەکان "
+"دەکات بە پێی ئەو مەبەستەی بۆی کۆکراوەتەوە . کارمەندانی دابینکەر و کەسانی تر "
+"کە داتای کەسی یی لەسەر بنەمای گرێبەست لەگەڵ دابینکەر داتای کەسیی پرۆسێس "
+"دەکەن، دەبێت نهێنیی داتای کەسیی بپارێزێت، تەنانەت دوای کۆتایی هاتنی کاریان "
+"یان پەیوەندی بازرگانییان لەگەڵ دابینکەر."
 
 #: wllegal/templates/legal/documents/tos.html:113
 msgid ""
@@ -595,6 +658,9 @@ msgid ""
 "means (automatically) via computer programs for which the Provider has "
 "secured the right of use, in particular the Service."
 msgstr ""
+"دابینکەر رایدەگەیەنێت کە داتا ی کەسی بە رێگەی ئەلیکترۆنی (ئۆتۆماتیکی) لە "
+"رێگەی بەرنامەکانی کۆمپیوتەرەوە کە دابینکەری مافی بەکارهێنانی بۆ دەستەبەر "
+"کردووە، بە تایبەتی خزمەتگوزاریەکە."
 
 #: wllegal/templates/legal/documents/tos.html:115
 msgid ""
@@ -602,12 +668,13 @@ msgid ""
 "a free and informed juridical act which concerns the consent of the subject "
 "of the data (the User) with processing of the Personal Data."
 msgstr ""
+"ڕەزامەندی بەکارهێنەر لەژێر ئەم ماددەیە 5 ی مەرجەکانی خزمەتگوزاری داکارێکی "
+"یاسای ئازاد و ئاگادار دروست دەکات کە خەمی ڕەزامەندی بابەتی داتای ( "
+"بەکارهێنەر ) ە لەگەڵ پرۆسەی داتای کەسی ."
 
 #: wllegal/templates/legal/documents/tos.html:118
-#, fuzzy
-#| msgid "Translation"
 msgid "Translations"
-msgstr "وەرگێڕان"
+msgstr "وەرگێڕانەکان"
 
 #: wllegal/templates/legal/documents/tos.html:120
 msgid ""
@@ -615,24 +682,32 @@ msgid ""
 "is responsible for managing them and for specifying accurately the license "
 "of the Project."
 msgstr ""
+"خزمەتگوزاری وەرگێڕان ڕێکدەخه نه ناو پرۆژه ی تاک، که تیایدا خاوەنەکەی بەرپرسە "
+"له بەڕێوەبردنیان و بۆ دیاریکردنی وردی مۆڵەتی پرۆژەکە."
 
 #: wllegal/templates/legal/documents/tos.html:122
 msgid ""
 "Not specifying translation license means that the translations are available "
 "under same license as the given Project itself."
 msgstr ""
+"دیاری کردنی مۆڵەتی وەرگێڕان مانای وایە وەرگێڕانەکان لەژێر هەمان مۆڵەتدا هەن "
+"وەک خودی پڕۆژەی دراوەکە."
 
 #: wllegal/templates/legal/documents/tos.html:124
 msgid ""
 "Should the Project opt in for the Translation Memory, license to use the "
 "translation is granted to all Translation Memory users."
 msgstr ""
+"پێویستە پڕۆژەکە هەڵبژێرێت بۆ بێرگەی وەرگێڕانەکە، مۆڵەت بۆ بەکارهێنانی "
+"وەرگێڕانەکە دراوە بە هەموو بەکارهێنەرانی بێرگەی وەرگێڕان."
 
 #: wllegal/templates/legal/documents/tos.html:126
 msgid ""
 "The User agrees, upon contributing to a Project, to the license the Project "
 "has specified."
 msgstr ""
+"بەکارهێنەر ڕازی دەبێت، لە سەر بەشداری کردن لە پرۆژە، بۆ مۆڵەت پڕۆژەکە دیاری "
+"کردووە."
 
 #: wllegal/templates/legal/documents/tos.html:128
 msgid ""
@@ -640,6 +715,9 @@ msgid ""
 "commits. The User understands that this grant is non revocable due to nature "
 "of the VCS."
 msgstr ""
+"بەکارهێنەر ڕازی دەبێت بە بەکارهێنانی ناو و ئیمەیلی تایبەت بە خۆی وەک "
+"نووسەرێک لە VCS دا ئەنجام یان دەکات. بەکارهێنەر ەکە لەوە تێدەگا کە ئەم "
+"بەخشینە بەهۆی سروشتی VCS ەوە توانای دووبارە کردنەوەی نیە."
 
 #: wllegal/templates/legal/documents/tos.html:133
 #, python-format
@@ -648,21 +726,27 @@ msgid ""
 "electronic communication, as amended, the User is informed that the Service "
 "uses Cookies."
 msgstr ""
+"لە چوارچێوەی یاسای ژمارە 89 %(law_480_2004)s.، لەسەر پەیوەندی ئەلیکترۆنی، بە "
+"هەموارکراو، بەکارهێنەر ئاگادار دەکرێت کە خزمەتگوزاری Cookies بەکاردەهێنێت."
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid ""
 "The Service uses Cookies to personalise content, and to analyse our traffic."
 msgstr ""
+"خزمەتگوزاریەکە Cookies بەکاردێنێت بۆ بە کەسیکردنی ناوەڕۆک، و شیکردنەوەی "
+"ترافیکەکەمان."
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid "Governing Law"
-msgstr ""
+msgstr "یاسای حوکمڕانی"
 
 #: wllegal/templates/legal/documents/tos.html:140
 msgid ""
 "These Terms of Service shall be governed by the laws of the Czech Republic "
 "with exclusion of conflict rules."
 msgstr ""
+"ئەم مەرجانەی خزمەتگوزاری بە یاساکانی کۆماری چیک بەڕێوە دەبرێت لەگەڵ "
+"بەدەرکردن لە یاساکانی ململانێ ."
 
 #: wllegal/templates/legal/documents/tos.html:142
 msgid ""
@@ -670,16 +754,20 @@ msgid ""
 "Service shall be resolved by the court of the Czech republic having "
 "substantive and local jurisdiction."
 msgstr ""
+"هەر ناکۆکییەکان لەسەر بنەمای ڕێکەوتن و/ یان ئەم مەرجەکانی خزمەتگوزاریە دروست "
+"دەبن، لەلایەن دادگای کۆماری چیکەوە چارەسەر دەکرێت کە دەسەڵاتی دادوەریی "
+"ناوچەیی و بن دەستان هەیە."
 
 #: wllegal/templates/legal/documents/tos.html:145
 msgid "Effect"
-msgstr ""
+msgstr "کاریگەری"
 
 #: wllegal/templates/legal/documents/tos.html:147
 msgid ""
 "These Terms of Service shall come into force and effect on 1st September "
 "2017."
 msgstr ""
+"ئەم مەرجانەی خزمەتگوزاری لە 1ی ئەیلولی 2017 دا دێنە بواری کار و کاریگەریەوە."
 
 #~ msgid "Current plan"
 #~ msgstr "پلانی ئێستا"
