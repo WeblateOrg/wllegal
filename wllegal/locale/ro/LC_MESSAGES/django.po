@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-01-27 07:48+0000\n"
-"PO-Revision-Date: 2021-04-05 09:54+0000\n"
-"Last-Translator: Christian Eichert <c@zp1.net>\n"
+"PO-Revision-Date: 2021-04-05 22:34+0000\n"
+"Last-Translator: Simona Iacob <s@zp1.net>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/weblate/legal/"
 "ro/>\n"
 "Language: ro\n"
@@ -353,7 +353,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:35
 #: wllegal/templates/legal/documents/tos.html:131
 msgid "Cookies"
-msgstr ""
+msgstr "Cookie-uri"
 
 #: wllegal/templates/legal/documents/tos.html:36
 msgid ""
