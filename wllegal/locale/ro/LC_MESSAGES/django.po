@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-01-27 07:48+0000\n"
 "PO-Revision-Date: 2021-04-08 16:27+0000\n"
-"Last-Translator: Christian Eichert <c@zp1.net>\n"
+"Last-Translator: Simona Iacob <s@zp1.net>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/weblate/legal/"
 "ro/>\n"
 "Language: ro\n"
@@ -415,7 +415,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:42
 msgid "License"
-msgstr ""
+msgstr "Licență"
 
 #: wllegal/templates/legal/documents/tos.html:43
 msgid ""
