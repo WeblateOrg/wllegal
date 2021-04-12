@@ -88,4 +88,4 @@ def law_url(context, coll, year=None, scope=None):
 @register.simple_tag(takes_context=True)
 def law_link(context, coll, year=None, scope=None):
     url = law_url(context, coll, year, scope)
-    return mark_safe('<a href="{}">{}/{}</a>'.format(escape(url), coll, year))
+    return mark_safe(f'<a href="{escape(url)}">{coll}/{year}</a>')
