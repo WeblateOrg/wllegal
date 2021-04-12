@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-01-27 07:48+0000\n"
-"PO-Revision-Date: 2021-03-26 11:37+0000\n"
+"PO-Revision-Date: 2021-04-13 09:13+0000\n"
 "Last-Translator: Michalis <michalisntovas@yahoo.gr>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/weblate/legal/el/>"
 "\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.5.2\n"
+"X-Generator: Weblate 4.6-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -99,7 +99,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:35
 msgid "Billing information"
-msgstr ""
+msgstr "Πληροφορίες χρέωσης"
 
 #: wllegal/templates/legal/documents/privacy.html:36
 msgid ""
@@ -275,7 +275,7 @@ msgstr "Χρησιμοποιούμε cookies για να παραδώσουμε 
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
-msgstr ""
+msgstr "Προβολή αγγλικής έκδοσης"
 
 #: wllegal/templates/legal/documents/tos.html:11
 msgid ""
