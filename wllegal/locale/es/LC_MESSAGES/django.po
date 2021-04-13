@@ -8,9 +8,9 @@
 # Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2021-01-27 07:48+0000\n"
+"POT-Creation-Date: 2021-04-13 09:13+0000\n"
 "PO-Revision-Date: 2021-03-19 04:18+0000\n"
 "Last-Translator: David Leal <halfpacho@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/weblate/legal/es/"
@@ -91,11 +91,15 @@ msgstr "Contraseña en forma de resumen criptográfico"
 msgid "Used to authenticate the User, if configured"
 msgstr "Se utiliza para autenticar al usuario si está configurado"
 
-#: wllegal/templates/legal/documents/privacy.html:32
+#: wllegal/templates/legal/documents/privacy.html:31
+msgid "Passwords are stored hashed using Argon2."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:33
 msgid "IP address and browser name"
 msgstr "Dirección IP y nombre del navegador"
 
-#: wllegal/templates/legal/documents/privacy.html:33
+#: wllegal/templates/legal/documents/privacy.html:34
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen"
@@ -104,11 +108,11 @@ msgstr ""
 "cambio de contraseña) para permitir el diagnóstico en caso de que su cuenta "
 "sea robada"
 
-#: wllegal/templates/legal/documents/privacy.html:35
+#: wllegal/templates/legal/documents/privacy.html:36
 msgid "Billing information"
 msgstr "Datos de facturación"
 
-#: wllegal/templates/legal/documents/privacy.html:36
+#: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
 "In case you purchase service from us, we collect additional billing "
 "information necessary for issuing an invoice"
@@ -116,15 +120,15 @@ msgstr ""
 "En caso comprar un servicio, recopilamos la información de facturación "
 "adicional necesaria para emitir una factura"
 
-#: wllegal/templates/legal/documents/privacy.html:40
+#: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
 msgstr "Propósito y marco jurídico para el procesamiento de datos personales"
 
-#: wllegal/templates/legal/documents/privacy.html:42
+#: wllegal/templates/legal/documents/privacy.html:43
 msgid "Your Personal Data will be used for the purposes of the Service:"
 msgstr "Sus datos personales se utilizarán para las finalidades del servicio:"
 
-#: wllegal/templates/legal/documents/privacy.html:46
+#: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
 msgid ""
 "for providing our services on the Service, to contact you in matters "
@@ -139,7 +143,7 @@ msgstr ""
 "cumplimiento por parte de nuestros servicios de obligaciones contractuales o "
 "precontractuales (<a href=\"%(url)s\">artículo 6 (1) b. RGPD</a>)"
 
-#: wllegal/templates/legal/documents/privacy.html:47
+#: wllegal/templates/legal/documents/privacy.html:48
 #, python-format
 msgid ""
 "to analyze your use of our services and improve our services (<a href="
@@ -148,7 +152,7 @@ msgstr ""
 "para analizar su uso de nuestros servicios y mejorarlos (<a href=\"%(url)s"
 "\">artículo 6 (1) b. y f. del RGPD</a>)"
 
-#: wllegal/templates/legal/documents/privacy.html:48
+#: wllegal/templates/legal/documents/privacy.html:49
 #, python-format
 msgid ""
 "with your express consent or instruction to carry out our business "
@@ -159,11 +163,11 @@ msgstr ""
 "nuestras actividades de negocio o enviar boletines de noticias (<a href="
 "\"%(url)s\">Artículo 6 (1) a. del RGPD</a>)"
 
-#: wllegal/templates/legal/documents/privacy.html:51
+#: wllegal/templates/legal/documents/privacy.html:52
 msgid "Access to the Personal Data"
 msgstr "Acceso a los datos personales"
 
-#: wllegal/templates/legal/documents/privacy.html:53
+#: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Controller has made all reasonable technical means to protect the "
 "Personal Data. Only authorized persons can access the Personal Data."
@@ -171,31 +175,31 @@ msgstr ""
 "La empresa ha hecho los esfuerzos necesarios para proteger los datos "
 "personales. Solo personas autorizadas tienen acceso a los datos personales."
 
-#: wllegal/templates/legal/documents/privacy.html:55
+#: wllegal/templates/legal/documents/privacy.html:56
 msgid ""
 "Third parties which can gain access to the Personal Data when necessary are:"
 msgstr ""
 "Los terceros que pueden tener acceso a los datos personales cuando sea "
 "necesario son:"
 
-#: wllegal/templates/legal/documents/privacy.html:58
+#: wllegal/templates/legal/documents/privacy.html:59
 msgid "Persons which are contracted for technical assurance of the service."
 msgstr ""
 "Personas que son contratadas para el aseguramiento técnico del servicio."
 
-#: wllegal/templates/legal/documents/privacy.html:59
+#: wllegal/templates/legal/documents/privacy.html:60
 msgid "Payment processors."
 msgstr "Procesadores de pagos."
 
-#: wllegal/templates/legal/documents/privacy.html:62
+#: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
 msgstr "Todos los datos personales se almacenan en la Unión Europea."
 
-#: wllegal/templates/legal/documents/privacy.html:64
+#: wllegal/templates/legal/documents/privacy.html:65
 msgid "The Personal Data retention"
 msgstr "La conservación de datos personales"
 
-#: wllegal/templates/legal/documents/privacy.html:66
+#: wllegal/templates/legal/documents/privacy.html:67
 msgid ""
 "The Personal Data is stored in the Service until the User deletes their "
 "account on the service."
@@ -203,7 +207,7 @@ msgstr ""
 "Los datos personales se almacenan en el servicio hasta que el usuario "
 "elimina su cuenta del servicio."
 
-#: wllegal/templates/legal/documents/privacy.html:68
+#: wllegal/templates/legal/documents/privacy.html:69
 msgid ""
 "Access log information might be collected for a longer period for the "
 "purpose of establishing, exercising or defending legal claims."
@@ -211,11 +215,11 @@ msgstr ""
 "La información de los accesos a la cuenta serán almacenados por más tiempo "
 "con el objetivo de establecer, ejercer o defender demandas judiciales."
 
-#: wllegal/templates/legal/documents/privacy.html:70
+#: wllegal/templates/legal/documents/privacy.html:71
 msgid "Your rights"
 msgstr "Sus derechos"
 
-#: wllegal/templates/legal/documents/privacy.html:72
+#: wllegal/templates/legal/documents/privacy.html:73
 msgid ""
 "The User provides use of Personal Data voluntarily. Without this Personal "
 "Data Weblate is not able to provide our services."
@@ -223,7 +227,7 @@ msgstr ""
 "El usuario proporciona voluntariamente sus datos. Sin estos datos, Weblate "
 "no podría ofrecer sus servicios."
 
-#: wllegal/templates/legal/documents/privacy.html:74
+#: wllegal/templates/legal/documents/privacy.html:75
 msgid ""
 "We want you to always be in control of your Personal Data. To this end, you "
 "have certain rights that allow for it. Under certain conditions, you may:"
@@ -231,7 +235,7 @@ msgstr ""
 "Queremos que siempre tenga el control de sus datos personales. Para tal fin, "
 "tiene algunos derechos que lo permiten. En determinadas condiciones, puede:"
 
-#: wllegal/templates/legal/documents/privacy.html:78
+#: wllegal/templates/legal/documents/privacy.html:79
 #, python-format
 msgid ""
 "Gain access to all your Personal Data that Weblate uses or processes, and "
@@ -241,7 +245,7 @@ msgstr ""
 "Weblate, e incluso conseguir una copia completa de estos (<a href=\"%(url)s"
 "\">artículo 15 del RGPD</a>)"
 
-#: wllegal/templates/legal/documents/privacy.html:79
+#: wllegal/templates/legal/documents/privacy.html:80
 msgid ""
 "Correct the Personal Data that Weblate processes if you think that there are "
 "mistakes"
@@ -249,19 +253,19 @@ msgstr ""
 "Corregir los datos personales procesados por Weblate si cree que tienen "
 "errores"
 
-#: wllegal/templates/legal/documents/privacy.html:80
+#: wllegal/templates/legal/documents/privacy.html:81
 msgid "Order us to delete your Personal Data"
 msgstr "Pedirnos que eliminemos sus datos personales"
 
-#: wllegal/templates/legal/documents/privacy.html:81
+#: wllegal/templates/legal/documents/privacy.html:82
 msgid "Restrict the Personal Data processing"
 msgstr "Restringir el procesamiento de datos personales"
 
-#: wllegal/templates/legal/documents/privacy.html:82
+#: wllegal/templates/legal/documents/privacy.html:83
 msgid "Object to processing"
 msgstr "Oponerse al procesamiento"
 
-#: wllegal/templates/legal/documents/privacy.html:83
+#: wllegal/templates/legal/documents/privacy.html:84
 msgid ""
 "Receive your Personal Data in a commonly used and machine-readable format or "
 "to transmit this Personal Data to a different provider."
