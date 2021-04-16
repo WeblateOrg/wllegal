@@ -4,10 +4,10 @@
 # Michal Čihař <michal@cihar.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-04-13 09:13+0000\n"
-"PO-Revision-Date: 2021-04-10 13:26+0000\n"
+"PO-Revision-Date: 2021-04-17 23:27+0000\n"
 "Last-Translator: bruh <quangtrung02hn16@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/weblate/legal/"
 "vi/>\n"
@@ -399,8 +399,6 @@ msgid "means translation project operated on the Service"
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:57
-#, fuzzy
-#| msgid "Status"
 msgid "Service"
 msgstr "Dịch vụ"
 
