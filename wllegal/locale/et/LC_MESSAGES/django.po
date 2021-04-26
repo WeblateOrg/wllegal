@@ -6,10 +6,10 @@
 # anonymous <noreply@weblate.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-04-13 09:13+0000\n"
-"PO-Revision-Date: 2021-04-13 09:13+0000\n"
+"PO-Revision-Date: 2021-04-27 16:32+0000\n"
 "Last-Translator: Priit Jõerüüt <hwlate@joeruut.com>\n"
 "Language-Team: Estonian <https://hosted.weblate.org/projects/weblate/legal/"
 "et/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.6-dev\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -92,7 +92,7 @@ msgstr "Kui on vastavalt seadistatud, siis pruugitakse kasutaja autentimisel"
 
 #: wllegal/templates/legal/documents/privacy.html:31
 msgid "Passwords are stored hashed using Argon2."
-msgstr ""
+msgstr "Salasõnade salvestamisel kasutame Argon2 räsifunktsiooni."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid "IP address and browser name"
@@ -153,7 +153,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:52
 msgid "Access to the Personal Data"
-msgstr ""
+msgstr "Ligipääs isiklikele andmetele"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
@@ -164,19 +164,20 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:56
 msgid ""
 "Third parties which can gain access to the Personal Data when necessary are:"
-msgstr ""
+msgstr "Kolmandad osapooled, kellel on vajadusel ligipääs isiklikele andmetele:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "Persons which are contracted for technical assurance of the service."
-msgstr ""
+msgstr "Isikud, kellelt on tellitud selle teenuse tehnilise toimimise tagamine."
 
 #: wllegal/templates/legal/documents/privacy.html:60
 msgid "Payment processors."
-msgstr ""
+msgstr "Maksete töötlejad."
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
 msgstr ""
+"Kõik isiklikud andmed on salvestatud Euroopa Lidus asuvatel andmekandjatel."
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid "The Personal Data retention"
@@ -196,7 +197,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "Your rights"
-msgstr ""
+msgstr "Sinu õigused"
 
 #: wllegal/templates/legal/documents/privacy.html:73
 msgid ""
