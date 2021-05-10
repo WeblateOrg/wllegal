@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-04-13 09:13+0000\n"
-"PO-Revision-Date: 2021-04-29 02:28+0000\n"
+"PO-Revision-Date: 2021-05-10 15:13+0000\n"
 "Last-Translator: Aputsiaĸ Niels Janussen <aj@isit.gl>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/weblate/legal/da/>"
 "\n"
@@ -181,7 +181,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "Persons which are contracted for technical assurance of the service."
-msgstr ""
+msgstr "Personer, der har indgået kontrakt for teknisk forsikring af tjenesten."
 
 #: wllegal/templates/legal/documents/privacy.html:60
 msgid "Payment processors."
@@ -189,23 +189,27 @@ msgstr "Betalingsprocesser."
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
-msgstr ""
+msgstr "Alle personlige data er lagret i den Europæiske Union."
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid "The Personal Data retention"
-msgstr ""
+msgstr "Opbevaring af personoplysninger"
 
 #: wllegal/templates/legal/documents/privacy.html:67
 msgid ""
 "The Personal Data is stored in the Service until the User deletes their "
 "account on the service."
 msgstr ""
+"De personlige data gemmes i tjenesten, indtil brugeren sletter deres konto i "
+"tjenesten."
 
 #: wllegal/templates/legal/documents/privacy.html:69
 msgid ""
 "Access log information might be collected for a longer period for the "
 "purpose of establishing, exercising or defending legal claims."
 msgstr ""
+"Adgangslogoplysninger kan indsamles i en længere periode med henblik på at "
+"etablere, udøve eller forsvare juridiske krav."
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "Your rights"
@@ -216,12 +220,18 @@ msgid ""
 "The User provides use of Personal Data voluntarily. Without this Personal "
 "Data Weblate is not able to provide our services."
 msgstr ""
+"Brugeren stiller frivilligt personoplysninger til rådighed for os. Uden "
+"disse personoplysninger er Weblate ikke i stand til at levere vores "
+"tjenester."
 
 #: wllegal/templates/legal/documents/privacy.html:75
 msgid ""
 "We want you to always be in control of your Personal Data. To this end, you "
 "have certain rights that allow for it. Under certain conditions, you may:"
 msgstr ""
+"Vi ønsker, at du altid skal have kontrol over dine personlige oplysninger. "
+"Med henblik herpå har du visse rettigheder, der giver dig mulighed for det. "
+"Under visse betingelser kan du:"
 
 #: wllegal/templates/legal/documents/privacy.html:79
 #, python-format
@@ -229,30 +239,36 @@ msgid ""
 "Gain access to all your Personal Data that Weblate uses or processes, and "
 "even get a copy of all of it (<a href=\"%(url)s\">Article 15 GDPR</a>)"
 msgstr ""
+"Få adgang til alle dine personlige data, som Weblate bruger eller behandler, "
+"og endda få en kopi af dem alle (<a href=\"%(url)s\">Artikel 15 GDPR</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:80
 msgid ""
 "Correct the Personal Data that Weblate processes if you think that there are "
 "mistakes"
 msgstr ""
+"Korrigere de personlige data, som Weblate behandler, hvis du mener, at der "
+"er fejl"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "Order us to delete your Personal Data"
-msgstr ""
+msgstr "Få os til at slette dine personlige oplysninger"
 
 #: wllegal/templates/legal/documents/privacy.html:82
 msgid "Restrict the Personal Data processing"
-msgstr ""
+msgstr "Begræns behandlingen af personoplysninger"
 
 #: wllegal/templates/legal/documents/privacy.html:83
 msgid "Object to processing"
-msgstr ""
+msgstr "Indsigelse mod behandling"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid ""
 "Receive your Personal Data in a commonly used and machine-readable format or "
 "to transmit this Personal Data to a different provider."
 msgstr ""
+"Modtag dine personoplysninger i et almindeligt anvendt og maskinlæsbart "
+"format eller for at overføre disse personoplysninger til en anden udbyder."
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
@@ -297,19 +313,23 @@ msgstr "Vi bruger cookies til at levere vores tjenester."
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
-msgstr ""
+msgstr "Se engelsk version"
 
 #: wllegal/templates/legal/documents/tos.html:11
 msgid ""
 "The Terms of Service document is authoritative in English, translations are "
 "provided for your convenience."
 msgstr ""
+"Servicevilkår er autoritativt på engelsk, oversættelser leveres for at gøre "
+"det lettere for dig."
 
 #: wllegal/templates/legal/documents/tos.html:17
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these Terms of Service."
 msgstr ""
+"Brugerens og udbyderens rettigheder og forpligtelser som følge af brugen af "
+"tjenesten er reguleret af disse vilkår for tjenesten."
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid "Definitions"
@@ -329,25 +349,30 @@ msgid ""
 "Civil Code concluded by and between the User and the Provider upon the "
 "Consent"
 msgstr ""
+"betyder licensaftale som omhandlet i artikel 2358 ff. i den civillovbog, der "
+"er indgået af og mellem brugeren og udbyderen ved samtykket"
 
 #: wllegal/templates/legal/documents/tos.html:29
 msgid "Civil Code"
-msgstr ""
+msgstr "Civillovbog"
 
 #: wllegal/templates/legal/documents/tos.html:30
 #, python-format
 msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
-msgstr ""
+msgstr "lov nr. %(law_89_2012)s Coll., den civile lovbog, som ændret"
 
 #: wllegal/templates/legal/documents/tos.html:32
 msgid "Consent"
-msgstr ""
+msgstr "Samtykke"
 
 #: wllegal/templates/legal/documents/tos.html:33
 msgid ""
 "means the User’s consent with these Terms of Service and other legal "
 "documents expressed by checking the checkbox during the registration"
 msgstr ""
+"betyder brugerens samtykke til disse servicevilkår og andre juridiske "
+"dokumenter, som kommer til udtryk ved at afkrydse afkrydsningsfeltet under "
+"registreringen"
 
 #: wllegal/templates/legal/documents/tos.html:35
 #: wllegal/templates/legal/documents/tos.html:131
