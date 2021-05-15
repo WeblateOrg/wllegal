@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-04-13 09:13+0000\n"
-"PO-Revision-Date: 2021-05-09 04:21+0000\n"
+"PO-Revision-Date: 2021-05-16 22:32+0000\n"
 "Last-Translator: Eugenia Russell <eugenia.russell2019@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/weblate/legal/el/>"
 "\n"
@@ -116,11 +116,12 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
-msgstr ""
+msgstr "Σκοπός και νομική βάση επεξεργασίας Προσωπικών Δεδομένων"
 
 #: wllegal/templates/legal/documents/privacy.html:43
 msgid "Your Personal Data will be used for the purposes of the Service:"
 msgstr ""
+"Τα Προσωπικά σας Δεδομένα θα χρησιμοποιηθούν για τους σκοπούς της Υπηρεσίας:"
 
 #: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
@@ -172,7 +173,7 @@ msgstr "Επεξεργαστές πληρωμών."
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
-msgstr ""
+msgstr "Όλα τα Προσωπικά Δεδομένα αποθηκεύονται στην Ευρωπαϊκή Ένωση."
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid "The Personal Data retention"
@@ -218,10 +219,12 @@ msgid ""
 "Correct the Personal Data that Weblate processes if you think that there are "
 "mistakes"
 msgstr ""
+"Να διορθώσετε τα Προσωπικά Δεδομένα που επεξεργάζεται η Weblate, εάν "
+"πιστεύετε ότι υπάρχουν λάθη"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "Order us to delete your Personal Data"
-msgstr ""
+msgstr "Να μας διατάξετε να διαγράψουμε τα Προσωπικά σας Δεδομένα"
 
 #: wllegal/templates/legal/documents/privacy.html:82
 msgid "Restrict the Personal Data processing"
