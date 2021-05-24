@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-04-13 09:13+0000\n"
-"PO-Revision-Date: 2021-05-16 22:32+0000\n"
+"PO-Revision-Date: 2021-05-25 03:04+0000\n"
 "Last-Translator: Eugenia Russell <eugenia.russell2019@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/weblate/legal/el/>"
 "\n"
@@ -177,7 +177,7 @@ msgstr "Όλα τα Προσωπικά Δεδομένα αποθηκεύοντα
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid "The Personal Data retention"
-msgstr ""
+msgstr "Η διατήρηση προσωπικών δεδομένων"
 
 #: wllegal/templates/legal/documents/privacy.html:67
 msgid ""
@@ -228,7 +228,7 @@ msgstr "Να μας διατάξετε να διαγράψουμε τα Προσ
 
 #: wllegal/templates/legal/documents/privacy.html:82
 msgid "Restrict the Personal Data processing"
-msgstr ""
+msgstr "Περιορίστε την επεξεργασία προσωπικών δεδομένων"
 
 #: wllegal/templates/legal/documents/privacy.html:83
 msgid "Object to processing"
