@@ -7,19 +7,19 @@
 # Lee Yunseok <ironyunseok@protonmail.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-04-13 09:13+0000\n"
-"PO-Revision-Date: 2021-01-31 12:14+0000\n"
-"Last-Translator: Lee Yunseok <ironyunseok@protonmail.com>\n"
-"Language-Team: Korean <https://hosted.weblate.org/projects/weblate/legal/ko/"
-">\n"
+"PO-Revision-Date: 2021-06-09 18:33+0000\n"
+"Last-Translator: simmon <simmon@nplob.com>\n"
+"Language-Team: Korean <https://hosted.weblate.org/projects/weblate/legal/ko/>"
+"\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.5-dev\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -88,7 +88,7 @@ msgstr "구성된 경우 사용자를 인증하는 데 사용됩니다"
 
 #: wllegal/templates/legal/documents/privacy.html:31
 msgid "Passwords are stored hashed using Argon2."
-msgstr ""
+msgstr "비밀번호는 Argon2를 사용하여 해시 저장됩니다."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid "IP address and browser name"
