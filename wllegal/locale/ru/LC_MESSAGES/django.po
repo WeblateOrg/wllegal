@@ -15,8 +15,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-04-13 09:13+0000\n"
-"PO-Revision-Date: 2021-04-27 16:32+0000\n"
-"Last-Translator: Artem <KovalevArtem.ru@gmail.com>\n"
+"PO-Revision-Date: 2021-06-19 08:34+0000\n"
+"Last-Translator: Blueberry <igory.ygr200@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/weblate/legal/ru/"
 ">\n"
 "Language: ru\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 4.7\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -48,7 +48,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:9
 msgid "Personal Data Controller"
-msgstr "Управляющий Персональными данными (Personal Data Controller)"
+msgstr "Управляющий персональными данными (Personal Data Controller)"
 
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
@@ -71,7 +71,7 @@ msgstr "Персональные данные, которые обрабатыв
 #: wllegal/templates/legal/documents/privacy.html:20
 msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr ""
-"Weblate обрабатывает только те Персональные данные, которые Пользователь "
+"Weblate обрабатывает только те персональные данные, которые пользователь "
 "предоставляет при использования нашей услуги:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
@@ -126,11 +126,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
-msgstr "Назначение и правовая основа обработки Персональных данных"
+msgstr "Назначение и правовая основа обработки персональных данных"
 
 #: wllegal/templates/legal/documents/privacy.html:43
 msgid "Your Personal Data will be used for the purposes of the Service:"
-msgstr "Ваши Персональные данные будут использованы в целях Сервиса:"
+msgstr "Ваши персональные данные будут использованы в целях сервиса:"
 
 #: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
@@ -141,11 +141,11 @@ msgid ""
 "contractual or pre-contractual obligations (<a href=\"%(url)s\">Article 6 "
 "(1) b. GDPR</a>)"
 msgstr ""
-"для предоставления наших услуг связанных с Сервисом, для связи с вами по "
+"для предоставления наших услуг связанных с сервисом, для связи с вами по "
 "вопросам, касающимся наших услуг (в том числе посредством e-mail и обмена "
 "сообщениями), и для обеспечения технической функциональности наших сервисов "
-"при выполнении договорных или преддоговорных обязательств (<a href=\"%(url)s"
-"\">Статья 6 (1) b. GDPR</a>)"
+"при выполнении договорных или преддоговорных обязательств (<a href=\"%(url)"
+"s\">Статья 6 (1) b. GDPR</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:48
 #, python-format
@@ -169,22 +169,22 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:52
 msgid "Access to the Personal Data"
-msgstr "Доступ к Персональным данным"
+msgstr "Доступ к персональным данным"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Controller has made all reasonable technical means to protect the "
 "Personal Data. Only authorized persons can access the Personal Data."
 msgstr ""
-"Контролёр принял все целесообразные технические меры для защиты Персональных "
-"данных. Только уполномоченные лица могут получить доступ к Персональным "
+"Контролёр принял все целесообразные технические меры для защиты персональных "
+"данных. Только уполномоченные лица могут получить доступ к персональным "
 "данным."
 
 #: wllegal/templates/legal/documents/privacy.html:56
 msgid ""
 "Third parties which can gain access to the Personal Data when necessary are:"
 msgstr ""
-"Третьи лица, которые при необходимости могут получить доступ к Персональным "
+"Третьи лица, которые при необходимости могут получить доступ к персональным "
 "данным:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
@@ -197,18 +197,18 @@ msgstr "Обрабатывающие платежи лица (Payment processors
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
-msgstr "Все Персональные данные хранятся в Европейском Союзе."
+msgstr "Все персональные данные хранятся в Европейском Союзе."
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid "The Personal Data retention"
-msgstr "Право хранения Персональных данных"
+msgstr "Право хранения персональных данных"
 
 #: wllegal/templates/legal/documents/privacy.html:67
 msgid ""
 "The Personal Data is stored in the Service until the User deletes their "
 "account on the service."
 msgstr ""
-"Персональные данные хранятся Сервисом до тех пор, пока Пользователь не "
+"Персональные данные хранятся сервисом до тех пор, пока пользователь не "
 "удалит свою учётную запись."
 
 #: wllegal/templates/legal/documents/privacy.html:69
@@ -229,14 +229,14 @@ msgid ""
 "Data Weblate is not able to provide our services."
 msgstr ""
 "Пользователь позволяет использовать свои Персональные данные добровольно. "
-"Без этих Персональных данных мы не сможем предоставлять наши услуги."
+"Без этих персональных данных мы не сможем предоставлять наши услуги."
 
 #: wllegal/templates/legal/documents/privacy.html:75
 msgid ""
 "We want you to always be in control of your Personal Data. To this end, you "
 "have certain rights that allow for it. Under certain conditions, you may:"
 msgstr ""
-"Мы хотим, чтобы вы всегда управляли своими Персональными данными. С этой "
+"Мы хотим, чтобы вы всегда управляли своими персональными данными. С этой "
 "целью, у вас имеются соответствующие права, которые позволяют это. При "
 "определённых условиях, вы можете:"
 
@@ -246,25 +246,25 @@ msgid ""
 "Gain access to all your Personal Data that Weblate uses or processes, and "
 "even get a copy of all of it (<a href=\"%(url)s\">Article 15 GDPR</a>)"
 msgstr ""
-"Получить доступ ко всем вашим Персональным данным, которые Weblate "
-"использует или обрабатывает, и даже получить их копии (<a href=\"%(url)s"
-"\">Статья 15 GDPR</a>)"
+"Получить доступ ко всем вашим персональным данным, которые Weblate "
+"использует или обрабатывает, и даже получить их копии (<a href=\"%(url)s\""
+">Статья 15 GDPR</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:80
 msgid ""
 "Correct the Personal Data that Weblate processes if you think that there are "
 "mistakes"
 msgstr ""
-"Исправлять Персональные данные, которые Weblate обрабатывает, если вы "
+"Исправлять персональные данные, которые Weblate обрабатывает, если вы "
 "считаете, что они содержат ошибки"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "Order us to delete your Personal Data"
-msgstr "Дать нам задание удалить ваши Персональные данные"
+msgstr "Дать нам задание удалить ваши персональные данные"
 
 #: wllegal/templates/legal/documents/privacy.html:82
 msgid "Restrict the Personal Data processing"
-msgstr "Ограничить обработку Персональных данных"
+msgstr "Ограничить обработку персональных данных"
 
 #: wllegal/templates/legal/documents/privacy.html:83
 msgid "Object to processing"
@@ -275,8 +275,8 @@ msgid ""
 "Receive your Personal Data in a commonly used and machine-readable format or "
 "to transmit this Personal Data to a different provider."
 msgstr ""
-"Получить свои Персональные данные в общеупотребительном и машиночитаемом "
-"формате или передать эти Персональные данные другому поставщику."
+"Получить свои персональные данные в общеупотребительном и машиночитаемом "
+"формате или передать эти персональные данные другому поставщику."
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
@@ -425,7 +425,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:45
 msgid "Provider"
-msgstr "Поставщик"
+msgstr "Адрес"
 
 #: wllegal/templates/legal/documents/tos.html:46
 #, python-format
@@ -444,8 +444,8 @@ msgid ""
 "inserted by the User into the Service and/or Cookies"
 msgstr ""
 "персональные данные в том смысле, в каком это трактует постановление ЕС № "
-"%(law_679_2016)s, предоставленные Пользователем Сервису и/или включённые в "
-"Файлы cookies"
+"%(law_679_2016)s, предоставленные пользователем сервису и/или включённые в "
+"файлы cookies"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Owner"
@@ -614,14 +614,14 @@ msgid ""
 "This consent is given as long as User does not remove their account from the "
 "Service."
 msgstr ""
-"В соответствии со <a href=\"%(url)s\">Статьёй 7</a> GDPR, Пользователь "
-"настоящим даёт своё согласие на сбор, хранение и обработку Персональных "
-"данных, предоставленных Пользователем через использование Сервиса "
-"администратору, которым является Поставщик; Пользователь даёт своё согласие "
-"на обработку и использование своих Персональных данных Поставщиком, "
-"сотрудниками Поставщика и/или уполномоченными деловыми партнёрами "
-"Поставщика. Это согласие даётся до тех пор, пока Пользователь не удалит свою "
-"учётную запись из Сервиса."
+"В соответствии со <a href=\"%(url)s\">Статьёй 7</a> GDPR, пользователь "
+"настоящим даёт своё согласие на сбор, хранение и обработку персональных "
+"данных, предоставленных пользователем через использование сервиса "
+"администратору, которым является поставщик; Пользователь даёт своё согласие "
+"на обработку и использование своих персональных данных поставщиком, "
+"сотрудниками поставщика и/или уполномоченными деловыми партнёрами "
+"поставщика. Это согласие даётся до тех пор, пока пользователь не удалит свою "
+"учётную запись из сервиса."
 
 #: wllegal/templates/legal/documents/tos.html:103
 #, python-format
@@ -634,13 +634,13 @@ msgid ""
 "contractual partners and for statistical and/or marketing purposes of the "
 "Provider."
 msgstr ""
-"Целью обработки Персональных данных, как определено Поставщиком, является "
-"использование Персональных данных для отправки коммерческих сообщений "
-"субъекту данных (Пользователю), через электронные средства в соответствии с "
+"Целью обработки персональных данных, как определено поставщиком, является "
+"использование персональных данных для отправки коммерческих сообщений "
+"субъекту данных (пользователю), через электронные средства в соответствии с "
 "Законом № %(law_480_2004)s Coll., О некоторых услугах информационного "
 "общества, с поправками, и в дальнейшем для маркетинга и деловых потребностей "
-"контрактных партнёров Поставщика, и в статистических и/или маркетинговых "
-"целях Поставщика."
+"контрактных партнёров поставщика, и в статистических и/или маркетинговых "
+"целях поставщика."
 
 #: wllegal/templates/legal/documents/tos.html:105
 msgid ""
@@ -661,8 +661,8 @@ msgid ""
 "provided voluntarily."
 msgstr ""
 "Пользователь заявляет о собственной осведомлённости о своих правах, "
-"предусмотренными <a href=\"%(url_15)s\">Статьёй 15</a> и <a href=\"%(url_17)s"
-"\">Статьёй 17</a> GDPR, а также заявляет, что все Персональные данные "
+"предусмотренными <a href=\"%(url_15)s\">Статьёй 15</a> и <a href=\"%(url_17)"
+"s\">Статьёй 17</a> GDPR, а также заявляет, что все персональные данные "
 "являются точными и достоверными и были предоставлены добровольно."
 
 #: wllegal/templates/legal/documents/tos.html:111
@@ -675,13 +675,13 @@ msgid ""
 "the Personal Data, even after the termination of their employment or "
 "business relationship with the Provider."
 msgstr ""
-"Поставщик заявляет, что будет собирать Персональные данные только в объёме, "
-"необходимом для достижения вышеуказанных целей и обрабатывать Персональных "
-"данных в соответствии с целями, для которых они были собраны. Сотрудники "
-"Поставщика и другие лица, которые обрабатывают Персональные данные на "
-"основании договора с Поставщиком, обязуются сохранять конфиденциальность "
-"Персональных данных, даже после прекращения ими трудовых или деловых "
-"отношений с Поставщиком."
+"Поставщик заявляет, что будет собирать персональные данные только в объёме, "
+"необходимом для достижения вышеуказанных целей и обрабатывать персональные "
+"данные в соответствии с целями, для которых они были собраны. Сотрудники "
+"поставщика и другие лица, которые обрабатывают персональные данные на "
+"основании договора с поставщиком, обязуются сохранять конфиденциальность "
+"персональных данных, даже после прекращения ими трудовых или деловых "
+"отношений с поставщиком."
 
 #: wllegal/templates/legal/documents/tos.html:113
 msgid ""
@@ -689,9 +689,9 @@ msgid ""
 "means (automatically) via computer programs for which the Provider has "
 "secured the right of use, in particular the Service."
 msgstr ""
-"Поставщик заявляет, что будет обрабатывать Персональные данные электронными "
+"Поставщик заявляет, что будет обрабатывать персональные данные электронными "
 "средствами (автоматически) с помощью компьютерных программ, на которые у "
-"Поставщика есть право использования, в частности, данного Сервиса."
+"поставщика есть право использования, в частности, данного сервиса."
 
 #: wllegal/templates/legal/documents/tos.html:115
 msgid ""
@@ -699,9 +699,9 @@ msgid ""
 "a free and informed juridical act which concerns the consent of the subject "
 "of the data (the User) with processing of the Personal Data."
 msgstr ""
-"Согласие Пользователя в соответствии с настоящей статьёй 5 Условий "
+"Согласие пользователя в соответствии с настоящей статьёй 5 условий "
 "обслуживания является свободным и осознанным юридическим актом, который "
-"касается согласия субъекта данных (Пользователя) на обработку Персональных "
+"касается согласия субъекта данных (пользователя) на обработку персональных "
 "данных."
 
 #: wllegal/templates/legal/documents/tos.html:118
@@ -766,7 +766,7 @@ msgstr ""
 msgid ""
 "The Service uses Cookies to personalise content, and to analyse our traffic."
 msgstr ""
-"Данный Сервис использует файлы cookies для персонализации содержания и "
+"Данный сервис использует файлы cookies для персонализации содержания и "
 "анализа нашего трафика."
 
 #: wllegal/templates/legal/documents/tos.html:138
