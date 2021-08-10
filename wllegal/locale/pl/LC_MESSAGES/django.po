@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-04-13 09:13+0000\n"
-"PO-Revision-Date: 2021-08-04 08:34+0000\n"
+"PO-Revision-Date: 2021-08-10 21:22+0000\n"
 "Last-Translator: Agnieszka C <aga_04@o2.pl>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/weblate/legal/pl/>"
 "\n"
@@ -74,7 +74,7 @@ msgstr "Nazwa i adres e-mail"
 
 #: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits"
-msgstr "Służą one do identyfikacji użytkownika w zatwierdzeniach VCS"
+msgstr "Służą one do identyfikacji użytkownika w commitach na VCS"
 
 #: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events"
@@ -306,8 +306,8 @@ msgid ""
 "Your name and e-mail address is used in VCS commits, it will stay there "
 "indefinitely."
 msgstr ""
-"Twoje imię, nazwisko i adres e-mail są używane w przesyłaniach (ang. "
-"commits) VCS i stale tam pozostaną."
+"Twoje imię, nazwisko i adres e-mail są używane w commitach na VCS i "
+"pozostaną tam na stałe."
 
 #: wllegal/templates/legal/documents/summary.html:9
 msgid "We use cookies to deliver our services."
@@ -741,7 +741,7 @@ msgid ""
 "of the VCS."
 msgstr ""
 "Użytkownik zgadza się używać własnego nazwiska i adresu e-mail jako "
-"autorstwa w zobowiązaniach VCS. Użytkownik rozumie, że tego grantu nie można "
+"autorstwa w commitach na VCS. Użytkownik rozumie, że tego grantu nie można "
 "odwołać ze względu na charakter VCS."
 
 #: wllegal/templates/legal/documents/tos.html:133
