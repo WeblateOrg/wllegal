@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-04-13 09:13+0000\n"
-"PO-Revision-Date: 2021-08-10 21:22+0000\n"
+"PO-Revision-Date: 2021-08-16 09:19+0000\n"
 "Last-Translator: Agnieszka C <aga_04@o2.pl>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/weblate/legal/pl/>"
 "\n"
@@ -339,7 +339,7 @@ msgstr "Definicje"
 
 #: wllegal/templates/legal/documents/tos.html:22
 msgid "In these Terms of Service:"
-msgstr "Warunki Usługi:"
+msgstr "W niniejszych Warunkach świadczenia usług:"
 
 #: wllegal/templates/legal/documents/tos.html:26
 msgid "Agreement"
@@ -380,7 +380,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:35
 #: wllegal/templates/legal/documents/tos.html:131
 msgid "Cookies"
-msgstr "„Ciasteczka”"
+msgstr "Ciasteczka"
 
 #: wllegal/templates/legal/documents/tos.html:36
 msgid ""
@@ -439,7 +439,7 @@ msgid ""
 "inserted by the User into the Service and/or Cookies"
 msgstr ""
 "oznacza dane osobowe w rozumieniu rozporządzenia UE Nr %(law_679_2016)s "
-"wprowadzone przez użytkownika do serwisu i/lub pliki cookie"
+"wprowadzone przez użytkownika do serwisu i/lub ciasteczka"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Owner"
@@ -759,8 +759,8 @@ msgstr ""
 msgid ""
 "The Service uses Cookies to personalise content, and to analyse our traffic."
 msgstr ""
-"Serwis wykorzystuje pliki Cookie (ciasteczek) w celu personalizowania treści "
-"i analizy naszego ruchu."
+"Serwis wykorzystuje ciasteczka w celu personalizacji treści i analizy "
+"naszego ruchu."
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid "Governing Law"
