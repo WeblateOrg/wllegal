@@ -21,6 +21,6 @@ import os.path
 
 from weblate.settings_test import *
 
-INSTALLED_APPS.insert(0, "wllegal")
+INSTALLED_APPS = ("wllegal",) + INSTALLED_APPS
 
 LOCALE_PATHS = [os.path.join(os.path.dirname(__file__), "locale")]
