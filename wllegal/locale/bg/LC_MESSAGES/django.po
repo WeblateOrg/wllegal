@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-04-13 09:13+0000\n"
-"PO-Revision-Date: 2021-05-11 21:14+0000\n"
-"Last-Translator: Georgi Georgiev <g.georgiev.shumen@gmail.com>\n"
+"PO-Revision-Date: 2021-09-08 12:32+0000\n"
+"Last-Translator: Любомир Василев <lyubomirv@gmx.com>\n"
 "Language-Team: Bulgarian <https://hosted.weblate.org/projects/weblate/legal/"
 "bg/>\n"
 "Language: bg\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 4.8.1-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -53,10 +53,8 @@ msgstr ""
 "стигне чрез %(privacy_contact)s."
 
 #: wllegal/templates/legal/documents/privacy.html:17
-#, fuzzy
-#| msgid "Translation process"
 msgid "Personal Data processed by Weblate"
-msgstr "Процес на превода"
+msgstr "Лични данни, обработвани от Weblate"
 
 #: wllegal/templates/legal/documents/privacy.html:20
 msgid "Weblate only processes Personal Data the User provides by using it:"
@@ -145,10 +143,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:52
-#, fuzzy
-#| msgid "Allow changes to the local repository"
 msgid "Access to the Personal Data"
-msgstr "Позволяване на промените в местното хранилище"
+msgstr "Достъп до личните данни"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
@@ -227,10 +223,8 @@ msgid "Restrict the Personal Data processing"
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:83
-#, fuzzy
-#| msgid "Languages processing"
 msgid "Object to processing"
-msgstr "Обработка на езиците"
+msgstr "Отказ от обработка"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid ""
@@ -298,20 +292,16 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:20
-#, fuzzy
-#| msgid "Description"
 msgid "Definitions"
-msgstr "Описание"
+msgstr "Дефиниции"
 
 #: wllegal/templates/legal/documents/tos.html:22
 msgid "In these Terms of Service:"
 msgstr "В настоящите Условия за ползване:"
 
 #: wllegal/templates/legal/documents/tos.html:26
-#, fuzzy
-#| msgid "Advertisement"
 msgid "Agreement"
-msgstr "Реклама"
+msgstr "Съгласие"
 
 #: wllegal/templates/legal/documents/tos.html:27
 msgid ""
