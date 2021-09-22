@@ -8,10 +8,10 @@
 # frottle <catatan.kungkong@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2021-06-12 12:31+0000\n"
+"PO-Revision-Date: 2021-09-22 15:42+0000\n"
 "Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/weblate/legal/"
 "id/>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -275,6 +275,8 @@ msgid ""
 "The removal, correction, and retrieval of your Personal Data can be done "
 "from the account management, and is fully automated."
 msgstr ""
+"Penghapusan, koreksi, dan pengambilan Data Pribadi Anda dapat dilakukan dari "
+"manajemen akun, dan sepenuhnya otomatis."
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
@@ -620,15 +622,7 @@ msgstr ""
 "selama pengguna tidak menghapus akun mereka dari Layanan."
 
 #: wllegal/templates/legal/documents/tos.html:103
-#, fuzzy, python-format
-#| msgid ""
-#| "The purpose of the processing of Personal Data as determined by the "
-#| "Provider is the use of Personal Data for sending commercial "
-#| "communications to the subject of the data (the User) through electronic "
-#| "means under Act No. %(law_480_2004)s Coll., on certain services of the "
-#| "information society, as amended, and further for marketing and business "
-#| "needs of the Provider’s contractual partners and for statistical and/or "
-#| "marketing purposes of the Provider."
+#, python-format
 msgid ""
 "The purpose of the processing of Personal Data as determined by the Provider "
 "is the use of Personal Data for sending commercial communications to the "
@@ -639,11 +633,10 @@ msgid ""
 msgstr ""
 "Tujuan pengolahan Data Pribadi sebagaimana ditentukan oleh Penyedia adalah "
 "penggunaan Data Pribadi untuk mengirim komunikasi komersil kepada subjek "
-"data (Pengguna) melalui sarana elektronik berdasarkan UU No. "
-"%(law_480_2004)s Coll., mengenai layanan tertentu dari masyarakat informasi, "
-"sebagaimana diamandemenkan, dan selanjutnya untuk kebutuhan pemasaran dan "
-"bisnis dari mitra kontraktual Penyedia dan untuk tujuan statistik dan atau "
-"kegiatan pemasaran dari Penyedia."
+"data (Pengguna) melalui sarana elektronik berdasarkan UU No. %(law_480_2004)"
+"s Coll., mengenai layanan tertentu dari masyarakat informasi, sebagaimana "
+"diamandemenkan, dan selanjutnya untuk kebutuhan bisnis dari mitra "
+"kontraktual Penyedia dan untuk tujuan statistik dari Penyedia."
 
 #: wllegal/templates/legal/documents/tos.html:105
 msgid ""
@@ -765,14 +758,8 @@ msgstr ""
 "Layanan menggunakan kuki."
 
 #: wllegal/templates/legal/documents/tos.html:135
-#, fuzzy
-#| msgid ""
-#| "The Service uses Cookies to personalise content, and to analyse our "
-#| "traffic."
 msgid "The Service uses Cookies to personalise content."
-msgstr ""
-"Layanan menggunakan kuki untuk personalisasi konten, dan untuk menganalisis "
-"lalu lintas kami."
+msgstr "Layanan menggunakan Cookie untuk personalisasi konten."
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid "Governing Law"
