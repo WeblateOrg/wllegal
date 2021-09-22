@@ -6,20 +6,20 @@
 # Stanisław Krukowski <pet209a1@riseup.net>, 2018.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2021-08-16 09:19+0000\n"
+"PO-Revision-Date: 2021-09-22 15:42+0000\n"
 "Last-Translator: Agnieszka C <aga_04@o2.pl>\n"
-"Language-Team: Polish <https://hosted.weblate.org/projects/weblate/legal/pl/"
-">\n"
+"Language-Team: Polish <https://hosted.weblate.org/projects/weblate/legal/pl/>"
+"\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.8-dev\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -238,9 +238,9 @@ msgid ""
 "Gain access to all your Personal Data that Weblate uses or processes, and "
 "even get a copy of all of it (<a href=\"%(url)s\">Article 15 GDPR</a>)"
 msgstr ""
-"Uzyskaj dostęp do wszystkich swoich Danych Osobowych, z których korzysta lub "
-"przetwarza Weblate, a nawet uzyskaj ich kopię (<a href=\"%(url)s\">Article "
-"15 GDPR</a>)"
+"Uzyskaj dostęp do wszystkich swoich danych osobowych, które Weblate "
+"wykorzystuje lub przetwarza, a nawet uzyskaj ich kopię (<a href=\"%(url)s\""
+">Artykuł 15 RODO (GDPR)</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:80
 msgid ""
@@ -252,7 +252,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "Order us to delete your Personal Data"
-msgstr "Zażądaj usunięcia Twoich Danych Osobowych"
+msgstr "Zażądaj od nas usunięcia Twoich danych osobowych"
 
 #: wllegal/templates/legal/documents/privacy.html:82
 msgid "Restrict the Personal Data processing"
@@ -275,6 +275,8 @@ msgid ""
 "The removal, correction, and retrieval of your Personal Data can be done "
 "from the account management, and is fully automated."
 msgstr ""
+"Usuwanie, poprawianie i odzyskiwanie swoich danych osobowych może odbywać "
+"się z poziomu zarządzania kontem i jest w pełni zautomatyzowane."
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
@@ -623,15 +625,7 @@ msgstr ""
 "udzielana, o ile Użytkownik nie usunie swojego konta z Usługi."
 
 #: wllegal/templates/legal/documents/tos.html:103
-#, fuzzy, python-format
-#| msgid ""
-#| "The purpose of the processing of Personal Data as determined by the "
-#| "Provider is the use of Personal Data for sending commercial "
-#| "communications to the subject of the data (the User) through electronic "
-#| "means under Act No. %(law_480_2004)s Coll., on certain services of the "
-#| "information society, as amended, and further for marketing and business "
-#| "needs of the Provider’s contractual partners and for statistical and/or "
-#| "marketing purposes of the Provider."
+#, python-format
 msgid ""
 "The purpose of the processing of Personal Data as determined by the Provider "
 "is the use of Personal Data for sending commercial communications to the "
@@ -640,13 +634,12 @@ msgid ""
 "amended, and further for business needs of the Provider’s contractual "
 "partners and for statistical purposes of the Provider."
 msgstr ""
-"Celem przetwarzania Danych Osobowych zgodnie z ustaleniami Dostawcy jest "
-"wykorzystanie Danych Osobowych do przesyłania informacji handlowych na temat "
-"danych (Użytkownika) drogą elektroniczną zgodnie z Ustawą Nr "
-"%(law_480_2004)s Coll., niektóre usługi społeczeństwa informacyjnego wraz z "
-"późniejszymi zmianami, a także potrzeby marketingowe i biznesowe partnerów "
-"kontraktowych Usługodawcy oraz do celów statystycznych i/lub marketingowych "
-"Dostawcy."
+"Celem przetwarzania danych osobowych zgodnie z ustaleniami Dostawcy jest "
+"wykorzystanie danych osobowych do przesyłania informacji handlowych na temat "
+"danych (Użytkownika) drogą elektroniczną zgodnie z ustawą nr %(law_480_2004)"
+"s Dz.U. o niektórych usługach społeczeństwa informacyjnego, w obowiązującym "
+"brzmieniu, a także na potrzeby biznesowe partnerów kontraktowych Usługodawcy "
+"oraz do celów statystycznych Dostawcy."
 
 #: wllegal/templates/legal/documents/tos.html:105
 msgid ""
@@ -769,14 +762,8 @@ msgstr ""
 "Serwis używa plików Cookie (ciasteczek)."
 
 #: wllegal/templates/legal/documents/tos.html:135
-#, fuzzy
-#| msgid ""
-#| "The Service uses Cookies to personalise content, and to analyse our "
-#| "traffic."
 msgid "The Service uses Cookies to personalise content."
-msgstr ""
-"Serwis wykorzystuje ciasteczka w celu personalizacji treści i analizy "
-"naszego ruchu."
+msgstr "Serwis wykorzystuje ciasteczka w celu personalizacji treści."
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid "Governing Law"
