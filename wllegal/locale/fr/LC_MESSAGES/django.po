@@ -8,13 +8,13 @@
 # Localisation Lab <ao@localizationlab.org>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2021-04-13 09:13+0000\n"
+"POT-Creation-Date: 2021-09-22 06:40+0000\n"
 "PO-Revision-Date: 2021-04-17 23:27+0000\n"
 "Last-Translator: Julien Humbert <julroy67@gmail.com>\n"
-"Language-Team: French <https://hosted.weblate.org/projects/weblate/legal/fr/>"
-"\n"
+"Language-Team: French <https://hosted.weblate.org/projects/weblate/legal/fr/"
+">\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -143,8 +143,8 @@ msgstr ""
 "pour la fourniture de nos prestations sur le Service, pour vous contacter au "
 "sujet de nos services (également par courrier électronique et messagerie) et "
 "pour assurer la fonctionnalité technique de nos services dans le respect des "
-"obligations contractuelles ou pré-contractuelles (<a href=\"%(url)s\""
-">Article 6 (1) b. RGPD</a>) ;"
+"obligations contractuelles ou pré-contractuelles (<a href=\"%(url)s"
+"\">Article 6 (1) b. RGPD</a>) ;"
 
 #: wllegal/templates/legal/documents/privacy.html:48
 #, python-format
@@ -281,6 +281,12 @@ msgstr ""
 "Recevoir vos données personnelles dans un format couramment utilisé et "
 "lisible par machine ou pour transmettre ces données personnelles à un autre "
 "fournisseur."
+
+#: wllegal/templates/legal/documents/privacy.html:87
+msgid ""
+"The removal, correction, and retrieval of your Personal Data can be done "
+"from the account management, and is fully automated."
+msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
@@ -634,15 +640,22 @@ msgstr ""
 "Service."
 
 #: wllegal/templates/legal/documents/tos.html:103
-#, python-format
+#, fuzzy, python-format
+#| msgid ""
+#| "The purpose of the processing of Personal Data as determined by the "
+#| "Provider is the use of Personal Data for sending commercial "
+#| "communications to the subject of the data (the User) through electronic "
+#| "means under Act No. %(law_480_2004)s Coll., on certain services of the "
+#| "information society, as amended, and further for marketing and business "
+#| "needs of the Provider’s contractual partners and for statistical and/or "
+#| "marketing purposes of the Provider."
 msgid ""
 "The purpose of the processing of Personal Data as determined by the Provider "
 "is the use of Personal Data for sending commercial communications to the "
 "subject of the data (the User) through electronic means under Act No. "
 "%(law_480_2004)s Coll., on certain services of the information society, as "
-"amended, and further for marketing and business needs of the Provider’s "
-"contractual partners and for statistical and/or marketing purposes of the "
-"Provider."
+"amended, and further for business needs of the Provider’s contractual "
+"partners and for statistical purposes of the Provider."
 msgstr ""
 "Le but du traitement des données personnelles tel que déterminé par le "
 "fournisseur est l’utilisation des données personnelles pour l’envoi de "
@@ -778,8 +791,11 @@ msgstr ""
 "informé que le Service utilise des témoins de connexion."
 
 #: wllegal/templates/legal/documents/tos.html:135
-msgid ""
-"The Service uses Cookies to personalise content, and to analyse our traffic."
+#, fuzzy
+#| msgid ""
+#| "The Service uses Cookies to personalise content, and to analyse our "
+#| "traffic."
+msgid "The Service uses Cookies to personalise content."
 msgstr ""
 "Le Service utilise des témoins de connexion pour adapter le contenu et "
 "analyser le trafic."

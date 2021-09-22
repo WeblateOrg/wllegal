@@ -9,9 +9,9 @@
 # amano <amano.hajime@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2021-04-13 09:13+0000\n"
+"POT-Creation-Date: 2021-09-22 06:40+0000\n"
 "PO-Revision-Date: 2021-04-17 23:27+0000\n"
 "Last-Translator: Kyotaro Iijima <kyotaro.eyes@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/weblate/legal/"
@@ -254,6 +254,12 @@ msgid ""
 msgstr ""
 "お客様の個人情報を一般的な機械読み取り可能な形式で受信するか、または個人情報"
 "を別の提供者に送信します。"
+
+#: wllegal/templates/legal/documents/privacy.html:87
+msgid ""
+"The removal, correction, and retrieval of your Personal Data can be done "
+"from the account management, and is fully automated."
+msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
@@ -577,15 +583,22 @@ msgstr ""
 "カウントをサービスから削除しない限り有効である。"
 
 #: wllegal/templates/legal/documents/tos.html:103
-#, python-format
+#, fuzzy, python-format
+#| msgid ""
+#| "The purpose of the processing of Personal Data as determined by the "
+#| "Provider is the use of Personal Data for sending commercial "
+#| "communications to the subject of the data (the User) through electronic "
+#| "means under Act No. %(law_480_2004)s Coll., on certain services of the "
+#| "information society, as amended, and further for marketing and business "
+#| "needs of the Provider’s contractual partners and for statistical and/or "
+#| "marketing purposes of the Provider."
 msgid ""
 "The purpose of the processing of Personal Data as determined by the Provider "
 "is the use of Personal Data for sending commercial communications to the "
 "subject of the data (the User) through electronic means under Act No. "
 "%(law_480_2004)s Coll., on certain services of the information society, as "
-"amended, and further for marketing and business needs of the Provider’s "
-"contractual partners and for statistical and/or marketing purposes of the "
-"Provider."
+"amended, and further for business needs of the Provider’s contractual "
+"partners and for statistical purposes of the Provider."
 msgstr ""
 "提供者が定めた個人情報の管理の目的は、法律 No. %(law_480_2004)s の下で電子的"
 "手段により情報（利用者）の対象者に、契約者の契約上のパートナーのマーケティン"
@@ -703,8 +716,11 @@ msgstr ""
 "%(law_480_2004)s 第 89 条に規定されたとおり、利用者に通知します。"
 
 #: wllegal/templates/legal/documents/tos.html:135
-msgid ""
-"The Service uses Cookies to personalise content, and to analyse our traffic."
+#, fuzzy
+#| msgid ""
+#| "The Service uses Cookies to personalise content, and to analyse our "
+#| "traffic."
+msgid "The Service uses Cookies to personalise content."
 msgstr ""
 "本サービスは、コンテンツをパーソナライズし、トラフィックを分析するために "
 "Cookies を使用します。"

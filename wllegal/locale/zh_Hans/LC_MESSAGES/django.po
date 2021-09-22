@@ -13,9 +13,9 @@
 # Changpeng Sun <zzjbcn@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2021-04-13 09:13+0000\n"
+"POT-Creation-Date: 2021-09-22 06:40+0000\n"
 "PO-Revision-Date: 2021-09-11 15:33+0000\n"
 "Last-Translator: JY3 <GeeyunJY3@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
@@ -252,6 +252,12 @@ msgid ""
 "Receive your Personal Data in a commonly used and machine-readable format or "
 "to transmit this Personal Data to a different provider."
 msgstr "以常用的机器可读格式接收您的个人数据，或将此个人数据传输给其他提供商。"
+
+#: wllegal/templates/legal/documents/privacy.html:87
+msgid ""
+"The removal, correction, and retrieval of your Personal Data can be done "
+"from the account management, and is fully automated."
+msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
@@ -554,15 +560,22 @@ msgstr ""
 "其帐户，即表示同意。"
 
 #: wllegal/templates/legal/documents/tos.html:103
-#, python-format
+#, fuzzy, python-format
+#| msgid ""
+#| "The purpose of the processing of Personal Data as determined by the "
+#| "Provider is the use of Personal Data for sending commercial "
+#| "communications to the subject of the data (the User) through electronic "
+#| "means under Act No. %(law_480_2004)s Coll., on certain services of the "
+#| "information society, as amended, and further for marketing and business "
+#| "needs of the Provider’s contractual partners and for statistical and/or "
+#| "marketing purposes of the Provider."
 msgid ""
 "The purpose of the processing of Personal Data as determined by the Provider "
 "is the use of Personal Data for sending commercial communications to the "
 "subject of the data (the User) through electronic means under Act No. "
 "%(law_480_2004)s Coll., on certain services of the information society, as "
-"amended, and further for marketing and business needs of the Provider’s "
-"contractual partners and for statistical and/or marketing purposes of the "
-"Provider."
+"amended, and further for business needs of the Provider’s contractual "
+"partners and for statistical purposes of the Provider."
 msgstr ""
 "由提供商确定的处理个人数据的目的是使用个人数据通过电子手段根据法案 No."
 "%(law_480_2004)s Coll 。向数据主体（用户）发送商业通信。经修订的信息社会的某"
@@ -671,8 +684,11 @@ msgstr ""
 "户被告知本服务使用 Cookies。"
 
 #: wllegal/templates/legal/documents/tos.html:135
-msgid ""
-"The Service uses Cookies to personalise content, and to analyse our traffic."
+#, fuzzy
+#| msgid ""
+#| "The Service uses Cookies to personalise content, and to analyse our "
+#| "traffic."
+msgid "The Service uses Cookies to personalise content."
 msgstr "该服务使用 Cookies 来个性化内容并分析我们的流量。"
 
 #: wllegal/templates/legal/documents/tos.html:138

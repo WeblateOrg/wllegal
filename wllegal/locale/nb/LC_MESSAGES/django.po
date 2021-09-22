@@ -9,9 +9,9 @@
 # Michal Čihař <michal@cihar.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2021-04-13 09:13+0000\n"
+"POT-Creation-Date: 2021-09-22 06:40+0000\n"
 "PO-Revision-Date: 2021-04-17 23:27+0000\n"
 "Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/weblate/"
@@ -270,6 +270,12 @@ msgid ""
 msgstr ""
 "Motta din personlige data i et vanlig brukt og maskinlesbart format, eller å "
 "overføre denne personlige dataen til en annen tilbyder."
+
+#: wllegal/templates/legal/documents/privacy.html:87
+msgid ""
+"The removal, correction, and retrieval of your Personal Data can be done "
+"from the account management, and is fully automated."
+msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
@@ -604,15 +610,22 @@ msgstr ""
 "konto fra tjenesten."
 
 #: wllegal/templates/legal/documents/tos.html:103
-#, python-format
+#, fuzzy, python-format
+#| msgid ""
+#| "The purpose of the processing of Personal Data as determined by the "
+#| "Provider is the use of Personal Data for sending commercial "
+#| "communications to the subject of the data (the User) through electronic "
+#| "means under Act No. %(law_480_2004)s Coll., on certain services of the "
+#| "information society, as amended, and further for marketing and business "
+#| "needs of the Provider’s contractual partners and for statistical and/or "
+#| "marketing purposes of the Provider."
 msgid ""
 "The purpose of the processing of Personal Data as determined by the Provider "
 "is the use of Personal Data for sending commercial communications to the "
 "subject of the data (the User) through electronic means under Act No. "
 "%(law_480_2004)s Coll., on certain services of the information society, as "
-"amended, and further for marketing and business needs of the Provider’s "
-"contractual partners and for statistical and/or marketing purposes of the "
-"Provider."
+"amended, and further for business needs of the Provider’s contractual "
+"partners and for statistical purposes of the Provider."
 msgstr ""
 "Formålet med behandling av personlig data som bestemt av tilbyderen er "
 "bruken av personlig data for forsendelse av kommersielle kommunikasjoner til "
@@ -742,8 +755,11 @@ msgstr ""
 "informasjonskapsler."
 
 #: wllegal/templates/legal/documents/tos.html:135
-msgid ""
-"The Service uses Cookies to personalise content, and to analyse our traffic."
+#, fuzzy
+#| msgid ""
+#| "The Service uses Cookies to personalise content, and to analyse our "
+#| "traffic."
+msgid "The Service uses Cookies to personalise content."
 msgstr ""
 "Tjenesten bruker informasjonskapsler til å personalisere innhold, og å "
 "analysere vår trafikk."

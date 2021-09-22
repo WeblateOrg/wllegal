@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2021-04-13 09:13+0000\n"
+"POT-Creation-Date: 2021-09-22 06:40+0000\n"
 "PO-Revision-Date: 2021-01-28 08:55+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/weblate/legal/kab/"
@@ -260,6 +260,12 @@ msgstr ""
 "Rmes-d isefka-ik udmawanen s umasal yettwaseqdacen s tanumi daɣen i zmrent "
 "ad d-ɣrent tmacinin neɣ akken ad tazneḍ isefka-a udmawanen ɣer usaǧǧaw-"
 "nniḍen."
+
+#: wllegal/templates/legal/documents/privacy.html:87
+msgid ""
+"The removal, correction, and retrieval of your Personal Data can be done "
+"from the account management, and is fully automated."
+msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
@@ -597,9 +603,8 @@ msgid ""
 "is the use of Personal Data for sending commercial communications to the "
 "subject of the data (the User) through electronic means under Act No. "
 "%(law_480_2004)s Coll., on certain services of the information society, as "
-"amended, and further for marketing and business needs of the Provider’s "
-"contractual partners and for statistical and/or marketing purposes of the "
-"Provider."
+"amended, and further for business needs of the Provider’s contractual "
+"partners and for statistical purposes of the Provider."
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:105
@@ -688,8 +693,7 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:135
-msgid ""
-"The Service uses Cookies to personalise content, and to analyse our traffic."
+msgid "The Service uses Cookies to personalise content."
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:138

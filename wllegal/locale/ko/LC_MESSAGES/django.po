@@ -7,13 +7,13 @@
 # Lee Yunseok <ironyunseok@protonmail.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2021-04-13 09:13+0000\n"
+"POT-Creation-Date: 2021-09-22 06:40+0000\n"
 "PO-Revision-Date: 2021-06-09 18:33+0000\n"
 "Last-Translator: simmon <simmon@nplob.com>\n"
-"Language-Team: Korean <https://hosted.weblate.org/projects/weblate/legal/ko/>"
-"\n"
+"Language-Team: Korean <https://hosted.weblate.org/projects/weblate/legal/ko/"
+">\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -258,6 +258,12 @@ msgid ""
 msgstr ""
 "일반적으로 사용되고 기계가 읽을 수 있는 형식으로 귀하의 개인 자료를 수신하거"
 "나 다른 제공하는 사람에게 전송하십시오."
+
+#: wllegal/templates/legal/documents/privacy.html:87
+msgid ""
+"The removal, correction, and retrieval of your Personal Data can be done "
+"from the account management, and is fully automated."
+msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
@@ -581,15 +587,22 @@ msgstr ""
 "에서 자신의 계정을 제거하지 않는 한 이 동의가 제공됩니다."
 
 #: wllegal/templates/legal/documents/tos.html:103
-#, python-format
+#, fuzzy, python-format
+#| msgid ""
+#| "The purpose of the processing of Personal Data as determined by the "
+#| "Provider is the use of Personal Data for sending commercial "
+#| "communications to the subject of the data (the User) through electronic "
+#| "means under Act No. %(law_480_2004)s Coll., on certain services of the "
+#| "information society, as amended, and further for marketing and business "
+#| "needs of the Provider’s contractual partners and for statistical and/or "
+#| "marketing purposes of the Provider."
 msgid ""
 "The purpose of the processing of Personal Data as determined by the Provider "
 "is the use of Personal Data for sending commercial communications to the "
 "subject of the data (the User) through electronic means under Act No. "
 "%(law_480_2004)s Coll., on certain services of the information society, as "
-"amended, and further for marketing and business needs of the Provider’s "
-"contractual partners and for statistical and/or marketing purposes of the "
-"Provider."
+"amended, and further for business needs of the Provider’s contractual "
+"partners and for statistical purposes of the Provider."
 msgstr ""
 "제공하는 사람의 결정에 따른 개인 정보의 처리 목적은 법 No. %(law_480_2004)s "
 "Coll의 개정된 정보 사회 특정 서비스에 따라 전자적 수단으로 자료의 주체 (사용"
@@ -707,8 +720,11 @@ msgstr ""
 "게 서비스가 쿠키를 사용한다는 통보를 합니다."
 
 #: wllegal/templates/legal/documents/tos.html:135
-msgid ""
-"The Service uses Cookies to personalise content, and to analyse our traffic."
+#, fuzzy
+#| msgid ""
+#| "The Service uses Cookies to personalise content, and to analyse our "
+#| "traffic."
+msgid "The Service uses Cookies to personalise content."
 msgstr ""
 "콘텐츠를 개인화하고 트래픽을 분석할 수 있도록 서비스는 쿠키를 사용합니다."
 

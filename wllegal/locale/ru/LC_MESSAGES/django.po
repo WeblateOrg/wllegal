@@ -12,9 +12,9 @@
 # Golubev Alexander <fatzer2@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2021-04-13 09:13+0000\n"
+"POT-Creation-Date: 2021-09-22 06:40+0000\n"
 "PO-Revision-Date: 2021-08-04 08:34+0000\n"
 "Last-Translator: Blueberry <igory.ygr200@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/weblate/legal/ru/"
@@ -108,8 +108,8 @@ msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen"
 msgstr ""
-"Они журналируются на случай существенных изменений в вашей учётной записи ("
-"например, смена пароля), чтобы позволить диагностику в случае кражи вашей "
+"Они журналируются на случай существенных изменений в вашей учётной записи "
+"(например, смена пароля), чтобы позволить диагностику в случае кражи вашей "
 "учётной записи"
 
 #: wllegal/templates/legal/documents/privacy.html:36
@@ -144,8 +144,8 @@ msgstr ""
 "для предоставления наших услуг связанных с сервисом, для связи с вами по "
 "вопросам, касающимся наших услуг (в том числе посредством e-mail и обмена "
 "сообщениями), и для обеспечения технической функциональности наших сервисов "
-"при выполнении договорных или преддоговорных обязательств (<a href=\"%(url)"
-"s\">Статья 6 (1) b. GDPR</a>)"
+"при выполнении договорных или преддоговорных обязательств (<a href=\"%(url)s"
+"\">Статья 6 (1) b. GDPR</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:48
 #, python-format
@@ -247,8 +247,8 @@ msgid ""
 "even get a copy of all of it (<a href=\"%(url)s\">Article 15 GDPR</a>)"
 msgstr ""
 "Получить доступ ко всем вашим персональным данным, которые Weblate "
-"использует или обрабатывает, и даже получить их копии (<a href=\"%(url)s\""
-">Статья 15 GDPR</a>)"
+"использует или обрабатывает, и даже получить их копии (<a href=\"%(url)s"
+"\">Статья 15 GDPR</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:80
 msgid ""
@@ -277,6 +277,12 @@ msgid ""
 msgstr ""
 "Получить свои персональные данные в общеупотребительном и машиночитаемом "
 "формате или передать эти персональные данные другому поставщику."
+
+#: wllegal/templates/legal/documents/privacy.html:87
+msgid ""
+"The removal, correction, and retrieval of your Personal Data can be done "
+"from the account management, and is fully automated."
+msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
@@ -624,15 +630,22 @@ msgstr ""
 "учётную запись из сервиса."
 
 #: wllegal/templates/legal/documents/tos.html:103
-#, python-format
+#, fuzzy, python-format
+#| msgid ""
+#| "The purpose of the processing of Personal Data as determined by the "
+#| "Provider is the use of Personal Data for sending commercial "
+#| "communications to the subject of the data (the User) through electronic "
+#| "means under Act No. %(law_480_2004)s Coll., on certain services of the "
+#| "information society, as amended, and further for marketing and business "
+#| "needs of the Provider’s contractual partners and for statistical and/or "
+#| "marketing purposes of the Provider."
 msgid ""
 "The purpose of the processing of Personal Data as determined by the Provider "
 "is the use of Personal Data for sending commercial communications to the "
 "subject of the data (the User) through electronic means under Act No. "
 "%(law_480_2004)s Coll., on certain services of the information society, as "
-"amended, and further for marketing and business needs of the Provider’s "
-"contractual partners and for statistical and/or marketing purposes of the "
-"Provider."
+"amended, and further for business needs of the Provider’s contractual "
+"partners and for statistical purposes of the Provider."
 msgstr ""
 "Целью обработки персональных данных, как определено поставщиком, является "
 "использование персональных данных для отправки коммерческих сообщений "
@@ -661,8 +674,8 @@ msgid ""
 "provided voluntarily."
 msgstr ""
 "Пользователь заявляет о собственной осведомлённости о своих правах, "
-"предусмотренными <a href=\"%(url_15)s\">Статьёй 15</a> и <a href=\"%(url_17)"
-"s\">Статьёй 17</a> GDPR, а также заявляет, что все персональные данные "
+"предусмотренными <a href=\"%(url_15)s\">Статьёй 15</a> и <a href=\"%(url_17)s"
+"\">Статьёй 17</a> GDPR, а также заявляет, что все персональные данные "
 "являются точными и достоверными и были предоставлены добровольно."
 
 #: wllegal/templates/legal/documents/tos.html:111
@@ -763,8 +776,11 @@ msgstr ""
 "файлы cookies."
 
 #: wllegal/templates/legal/documents/tos.html:135
-msgid ""
-"The Service uses Cookies to personalise content, and to analyse our traffic."
+#, fuzzy
+#| msgid ""
+#| "The Service uses Cookies to personalise content, and to analyse our "
+#| "traffic."
+msgid "The Service uses Cookies to personalise content."
 msgstr ""
 "Данный сервис использует файлы cookies для персонализации содержания и "
 "анализа нашего трафика."
