@@ -5,19 +5,19 @@
 # Pavel Borecki <pavel.borecki@gmail.com>, 2018, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2021-04-15 07:42+0000\n"
+"PO-Revision-Date: 2021-09-22 06:48+0000\n"
 "Last-Translator: Michal Čihař <michal@weblate.org>\n"
-"Language-Team: Czech <https://hosted.weblate.org/projects/weblate/legal/cs/"
-">\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/weblate/legal/cs/>"
+"\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.6-dev\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -269,6 +269,8 @@ msgid ""
 "The removal, correction, and retrieval of your Personal Data can be done "
 "from the account management, and is fully automated."
 msgstr ""
+"Odstranění, opravu a získání vašich Osobních Údajů lze provést ze správy "
+"účtu a je plně automatizované."
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
@@ -613,15 +615,7 @@ msgstr ""
 "Služby."
 
 #: wllegal/templates/legal/documents/tos.html:103
-#, fuzzy, python-format
-#| msgid ""
-#| "The purpose of the processing of Personal Data as determined by the "
-#| "Provider is the use of Personal Data for sending commercial "
-#| "communications to the subject of the data (the User) through electronic "
-#| "means under Act No. %(law_480_2004)s Coll., on certain services of the "
-#| "information society, as amended, and further for marketing and business "
-#| "needs of the Provider’s contractual partners and for statistical and/or "
-#| "marketing purposes of the Provider."
+#, python-format
 msgid ""
 "The purpose of the processing of Personal Data as determined by the Provider "
 "is the use of Personal Data for sending commercial communications to the "
@@ -633,9 +627,8 @@ msgstr ""
 "Účelem zpracovávání Osobních Údajů určených Provozovatelem je použití "
 "Osobních Údajů pro zasílání obchodních sdělení Uživateli elektronickými "
 "prostředky podle zákona %(law_480_2004)s Sb., O některých služby informační "
-"společnosti, ve znění pozdějších předpisů, dále pro marketingové a obchodní "
-"potřeby smluvních partnerů Provozovatele a pro statistické a/nebo "
-"marketingové účely Provozovatele."
+"společnosti, ve znění pozdějších předpisů, dále pro obchodní potřeby "
+"smluvních partnerů Provozovatele a pro statistické účely Provozovatele."
 
 #: wllegal/templates/legal/documents/tos.html:105
 msgid ""
@@ -753,13 +746,8 @@ msgstr ""
 "Cookies."
 
 #: wllegal/templates/legal/documents/tos.html:135
-#, fuzzy
-#| msgid ""
-#| "The Service uses Cookies to personalise content, and to analyse our "
-#| "traffic."
 msgid "The Service uses Cookies to personalise content."
-msgstr ""
-"Služba používá Cookies k přizpůsobení obsahu a analýze naší návštěvnosti."
+msgstr "Služba používá Cookies k přizpůsobení obsahu."
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid "Governing Law"
