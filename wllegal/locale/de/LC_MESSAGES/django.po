@@ -12,19 +12,19 @@
 # iLocIT! <matthiasc@ilocit.de>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2021-04-14 22:59+0000\n"
+"PO-Revision-Date: 2021-09-24 14:37+0000\n"
 "Last-Translator: nautilusx <translate@disroot.org>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/weblate/legal/de/"
-">\n"
+"Language-Team: German <https://hosted.weblate.org/projects/weblate/legal/de/>"
+"\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.6-dev\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -291,6 +291,8 @@ msgid ""
 "The removal, correction, and retrieval of your Personal Data can be done "
 "from the account management, and is fully automated."
 msgstr ""
+"Das Entfernen, Korrigieren und Abrufen Ihrer persönlichen Daten kann über "
+"die Kontoverwaltung erfolgen und ist vollständig automatisiert."
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
@@ -648,15 +650,7 @@ msgstr ""
 "Konto nicht aus dem Dienst entfernt."
 
 #: wllegal/templates/legal/documents/tos.html:103
-#, fuzzy, python-format
-#| msgid ""
-#| "The purpose of the processing of Personal Data as determined by the "
-#| "Provider is the use of Personal Data for sending commercial "
-#| "communications to the subject of the data (the User) through electronic "
-#| "means under Act No. %(law_480_2004)s Coll., on certain services of the "
-#| "information society, as amended, and further for marketing and business "
-#| "needs of the Provider’s contractual partners and for statistical and/or "
-#| "marketing purposes of the Provider."
+#, python-format
 msgid ""
 "The purpose of the processing of Personal Data as determined by the Provider "
 "is the use of Personal Data for sending commercial communications to the "
@@ -670,9 +664,8 @@ msgstr ""
 "kommerzieller Mitteilungen an den Betroffenen (den Nutzer) auf "
 "elektronischem Wege gemäß Gesetz Nr. %(law_480_2004)s Slg. über bestimmte "
 "Dienste der Informationsgesellschaft in ihrer jeweils gültigen Fassung und "
-"darüber hinaus für Marketing- und Geschäftszwecke der Vertragspartner des "
-"Dienstleisters sowie für statistische und/oder Marketingzwecke des "
-"Dienstleisters."
+"darüber hinaus für Geschäftszwecke der Vertragspartner des Dienstleisters "
+"sowie für statistische Zwecke des Anbieters."
 
 #: wllegal/templates/legal/documents/tos.html:105
 msgid ""
@@ -801,14 +794,8 @@ msgstr ""
 "informiert, dass der Dienst Cookies verwendet."
 
 #: wllegal/templates/legal/documents/tos.html:135
-#, fuzzy
-#| msgid ""
-#| "The Service uses Cookies to personalise content, and to analyse our "
-#| "traffic."
 msgid "The Service uses Cookies to personalise content."
-msgstr ""
-"Der Service verwendet Cookies, um den Inhalt zu personalisieren und unseren "
-"Traffic zu analysieren."
+msgstr "Der Service verwendet Cookies, um Inhalte zu personalisieren."
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid "Governing Law"
