@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2021-10-03 13:38+0000\n"
+"PO-Revision-Date: 2021-10-05 17:40+0000\n"
 "Last-Translator: JY3 <GeeyunJY3@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "weblate/legal/zh_Hans/>\n"
@@ -80,7 +80,7 @@ msgstr "这些信息将用于在版本控制系统提交（VCS commits）中辨�
 
 #: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events"
-msgstr "另外，电子邮箱地址用于接收你关注的事件的消息提醒"
+msgstr "另外，电子邮箱地址用于接收你关注的事件的消息通知"
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
