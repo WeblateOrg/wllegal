@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2021-09-26 22:37+0000\n"
+"PO-Revision-Date: 2021-10-21 09:56+0000\n"
 "Last-Translator: Agnieszka C <aga_04@o2.pl>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/weblate/legal/pl/>"
 "\n"
@@ -319,7 +319,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:9
 msgid "We use cookies to deliver our services."
-msgstr "Stosujemy cookies w celu dostarczania naszych usług."
+msgstr "Używamy ciasteczek do świadczenia naszych usług."
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
@@ -438,7 +438,7 @@ msgstr "oznacza %(provider)s, Nr rej. %(reg_no)s"
 #: wllegal/templates/legal/documents/tos.html:48
 #: wllegal/templates/legal/documents/tos.html:98
 msgid "Personal Data"
-msgstr "Dane osobiste"
+msgstr "Dane osobowe"
 
 #: wllegal/templates/legal/documents/tos.html:49
 #, python-format
