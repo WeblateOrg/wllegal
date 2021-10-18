@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2021-09-22 15:42+0000\n"
-"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
+"PO-Revision-Date: 2021-10-21 09:56+0000\n"
+"Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/weblate/legal/"
 "uk/>\n"
 "Language: uk\n"
@@ -383,7 +383,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:35
 #: wllegal/templates/legal/documents/tos.html:131
 msgid "Cookies"
-msgstr "Реп'яшки"
+msgstr "Куки"
 
 #: wllegal/templates/legal/documents/tos.html:36
 msgid ""
@@ -432,7 +432,7 @@ msgstr "означає %(provider)s, рег. №. %(reg_no)s"
 #: wllegal/templates/legal/documents/tos.html:48
 #: wllegal/templates/legal/documents/tos.html:98
 msgid "Personal Data"
-msgstr "Особисті дані"
+msgstr "Персональні дані"
 
 #: wllegal/templates/legal/documents/tos.html:49
 #, python-format
