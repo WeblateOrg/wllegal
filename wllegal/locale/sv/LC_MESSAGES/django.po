@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2021-09-29 01:52+0000\n"
+"PO-Revision-Date: 2021-10-24 16:18+0000\n"
 "Last-Translator: Johan Jacobsson <johan.jacobsson@telia.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/weblate/legal/sv/"
 ">\n"
@@ -431,7 +431,7 @@ msgstr "betyder %(provider)s, Reg. Nr. %(reg_no)s"
 #: wllegal/templates/legal/documents/tos.html:48
 #: wllegal/templates/legal/documents/tos.html:98
 msgid "Personal Data"
-msgstr "Personlig data"
+msgstr "Personuppgifter"
 
 #: wllegal/templates/legal/documents/tos.html:49
 #, python-format
