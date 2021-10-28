@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2021-10-21 09:56+0000\n"
+"PO-Revision-Date: 2021-10-28 04:58+0000\n"
 "Last-Translator: JY3 <GeeyunJY3@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "weblate/legal/zh_Hans/>\n"
@@ -260,7 +260,7 @@ msgstr "删除、更正和检索您的个人数据可以从帐户管理完成，
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
 "The services are provided “as is”, at your own risk, without any warranty."
-msgstr "本服务是 “按原样” 提供的，风险自担，无任何担保。"
+msgstr "本服务是“按原样”提供的，风险自担，无任何担保。"
 
 #: wllegal/templates/legal/documents/summary.html:5
 msgid ""
