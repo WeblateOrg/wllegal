@@ -6,10 +6,10 @@
 # Besnik Bleta <besnik@programeshqip.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2021-05-13 09:47+0000\n"
+"PO-Revision-Date: 2021-11-10 23:18+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/weblate/legal/"
 "sq/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 4.9.1-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -275,6 +275,8 @@ msgid ""
 "The removal, correction, and retrieval of your Personal Data can be done "
 "from the account management, and is fully automated."
 msgstr ""
+"Heqja, saktësimi dhe marrja e të Dhënave tuaja Personale mund të bëhet që "
+"nga administrimi i llogarisë dhe janë plotësisht të automatizuara."
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
@@ -435,7 +437,7 @@ msgstr "do të thotë %(provider)s, Nr. Regjistri %(reg_no)s"
 #: wllegal/templates/legal/documents/tos.html:48
 #: wllegal/templates/legal/documents/tos.html:98
 msgid "Personal Data"
-msgstr "Të dhënash Personale"
+msgstr "Të dhëna Personale"
 
 #: wllegal/templates/legal/documents/tos.html:49
 #, python-format
@@ -626,15 +628,7 @@ msgstr ""
 "vet prej Shërbimit."
 
 #: wllegal/templates/legal/documents/tos.html:103
-#, fuzzy, python-format
-#| msgid ""
-#| "The purpose of the processing of Personal Data as determined by the "
-#| "Provider is the use of Personal Data for sending commercial "
-#| "communications to the subject of the data (the User) through electronic "
-#| "means under Act No. %(law_480_2004)s Coll., on certain services of the "
-#| "information society, as amended, and further for marketing and business "
-#| "needs of the Provider’s contractual partners and for statistical and/or "
-#| "marketing purposes of the Provider."
+#, python-format
 msgid ""
 "The purpose of the processing of Personal Data as determined by the Provider "
 "is the use of Personal Data for sending commercial communications to the "
@@ -647,10 +641,9 @@ msgstr ""
 "i Shërbimit, është përdorimi i të Dhënave Personale për dërgim komunikimesh "
 "komerciale te subjekti i të dhënave (Përdoruesi) përmes rrugësh elektronike, "
 "sipas Aktit Nr. %(law_480_2004)s Coll., lidhur me disa shërbime të shoqërisë "
-"së informacionit, siç është ndryshuar ligji, dhe më tej për nevoja "
-"marketingu dhe biznesi të partnerëve me të cilët Furnizuesi i Shërbimit ka "
-"kontratë dhe për qëllime statistikore dhe/ose marketingu të Furnizuesit të "
-"Shërbimit."
+"së informacionit, siç është ndryshuar ligji, dhe më tej për nevoja biznesi "
+"të partnerëve me të cilët Furnizuesi i Shërbimit ka kontratë dhe për qëllime "
+"statistikore të Furnizuesit të Shërbimit."
 
 #: wllegal/templates/legal/documents/tos.html:105
 msgid ""
@@ -776,14 +769,9 @@ msgstr ""
 "Shërbimi përdor &lt;em&gt;Cookies &lt;/em&gt;."
 
 #: wllegal/templates/legal/documents/tos.html:135
-#, fuzzy
-#| msgid ""
-#| "The Service uses Cookies to personalise content, and to analyse our "
-#| "traffic."
 msgid "The Service uses Cookies to personalise content."
 msgstr ""
-"Shërbimi përdor &lt;em&gt;Cookies&lt;/em&gt; për të personalizuar lëndë, dhe "
-"për të analizuar trafikun tonë."
+"Shërbimi përdor &lt;em&gt;Cookies&lt;/em&gt; për të personalizuar lëndë."
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid "Governing Law"
