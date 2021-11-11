@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2021-10-21 09:56+0000\n"
+"PO-Revision-Date: 2021-11-11 23:03+0000\n"
 "Last-Translator: Felipe <felipefplzx@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "weblate/legal/pt_BR/>\n"
@@ -17,15 +17,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.9-dev\n"
+"X-Generator: Weblate 4.9.1-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr "Subcontratantes de acordo com o artigo 28 do RGPD"
+msgstr "Sub-contratantes de Acordo com o Artigo 28 do RGPD"
 
 #: wllegal/templates/legal/documents/contracts.html:10
 msgid "Status as of October 2020."
-msgstr "Condições a partir de Outubro de 2020."
+msgstr "Status a partir de Outubro de 2020."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -34,8 +34,8 @@ msgid ""
 "Protection Regulation, also known as GDPR. This document includes necessary "
 "specifications."
 msgstr ""
-"Cumprimos o Regulamento nº %(law_679_2016)s, o Regulamento Geral sobre a "
-"Proteção de Dados, também conhecido como RGPD. Este documento inclui "
+"Nós cumprimos com o Regulamento nº %(law_679_2016)s, o Regulamento Geral "
+"sobre a Proteção de Dados, também conhecido como RGPD. Este documento inclui "
 "especificações necessárias."
 
 #: wllegal/templates/legal/documents/privacy.html:9
