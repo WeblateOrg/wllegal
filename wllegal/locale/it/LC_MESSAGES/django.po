@@ -13,8 +13,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2021-09-22 15:42+0000\n"
-"Last-Translator: bovirus <roberto.boriotti@canon.it>\n"
+"PO-Revision-Date: 2021-11-15 20:46+0000\n"
+"Last-Translator: coronabond <coronabond@airmail.cc>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/weblate/legal/it/"
 ">\n"
 "Language: it\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.9-dev\n"
+"X-Generator: Weblate 4.9.1-dev\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
@@ -46,7 +46,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:9
 msgid "Personal Data Controller"
-msgstr "Controller dati personali"
+msgstr "Titolare del trattamento dei dati personali"
 
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
@@ -64,13 +64,13 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:17
 msgid "Personal Data processed by Weblate"
-msgstr "Dati personali analizzati da Weblate"
+msgstr "Dati personali trattati da Weblate"
 
 #: wllegal/templates/legal/documents/privacy.html:20
 msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr ""
-"Weblate elabora solo i dati personali dell'utente che ce li fornisce usando "
-"il nostro servizio:"
+"Weblate tratta solo i dati personali che l'utente fornisce usando il nostro "
+"servizio:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid "Name and e-mail address"
@@ -82,7 +82,7 @@ msgstr "Questi sono usati per identificarti nelle modifiche VCS"
 
 #: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events"
-msgstr "Inoltre, l'e-mail è usata per le notifiche gli eventi monitorati"
+msgstr "Inoltre, l'e-mail è usata per le notifiche degli eventi monitorati"
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
@@ -173,9 +173,9 @@ msgid ""
 "The Controller has made all reasonable technical means to protect the "
 "Personal Data. Only authorized persons can access the Personal Data."
 msgstr ""
-"Il controllore ha realizzato tutti gli strumenti tecnici ragionevoli per "
-"proteggere i dati personali. Solo le persone autorizzate possono accedere ai "
-"dati personali."
+"Il titolare del trattamento ha realizzato tutti gli strumenti tecnici "
+"ragionevoli per proteggere i dati personali. Solo le persone autorizzate "
+"possono accedere ai dati personali."
 
 #: wllegal/templates/legal/documents/privacy.html:56
 msgid ""
@@ -253,7 +253,7 @@ msgid ""
 "Correct the Personal Data that Weblate processes if you think that there are "
 "mistakes"
 msgstr ""
-"Correggere i dati personali che Weblate elabora se pensi che ci siano errori"
+"Correggere i dati personali che Weblate tratta se pensi che ci siano errori"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "Order us to delete your Personal Data"
@@ -261,7 +261,7 @@ msgstr "Ordinarci di eliminare i tuoi dati personali"
 
 #: wllegal/templates/legal/documents/privacy.html:82
 msgid "Restrict the Personal Data processing"
-msgstr "Limitare l'elaborazione dei dati personali"
+msgstr "Limitare il trattamento dei dati personali"
 
 #: wllegal/templates/legal/documents/privacy.html:83
 msgid "Object to processing"
@@ -334,8 +334,8 @@ msgid ""
 "The Terms of Service document is authoritative in English, translations are "
 "provided for your convenience."
 msgstr ""
-"Il documento sui \"Termini di servizio\" è ufficiale ed è in inglese. Le "
-"traduzioni sono fornite per comodità dell'utente."
+"Il documento \"Termini di servizio\" ufficiale è in inglese. Le traduzioni "
+"sono fornite per comodità dell'utente."
 
 #: wllegal/templates/legal/documents/tos.html:17
 msgid ""
