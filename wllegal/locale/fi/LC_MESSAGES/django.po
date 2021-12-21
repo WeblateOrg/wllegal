@@ -6,11 +6,11 @@
 # Tuomas Hietala <tuomas.hietala@iki.fi>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2021-08-09 10:35+0000\n"
-"Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
+"PO-Revision-Date: 2021-12-22 12:52+0000\n"
+"Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/weblate/legal/fi/"
 ">\n"
 "Language: fi\n"
@@ -18,15 +18,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8-dev\n"
+"X-Generator: Weblate 4.10\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr ""
+msgstr "Alihankkijat Art. 28 GDPR :n mukaisesti"
 
 #: wllegal/templates/legal/documents/contracts.html:10
 msgid "Status as of October 2020."
-msgstr ""
+msgstr "Tilanne lokakuussa 2020."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -35,6 +35,8 @@ msgid ""
 "Protection Regulation, also known as GDPR. This document includes necessary "
 "specifications."
 msgstr ""
+"Noudatamme asetusta nro %(law_679_2016)s, yleistä tietosuoja-asetusta, joka "
+"tunnetaan myös nimellä GDPR. Tämä asiakirja sisältää tarvittavat tiedot."
 
 #: wllegal/templates/legal/documents/privacy.html:9
 msgid "Personal Data Controller"
@@ -43,7 +45,7 @@ msgstr "Rekisterinpitäjä"
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
 msgid "%(provider)s, Reg. No. %(reg_no)s"
-msgstr ""
+msgstr "%(provider)s, Reg. No. %(reg_no)s"
 
 #: wllegal/templates/legal/documents/privacy.html:15
 #, python-format
@@ -61,34 +63,32 @@ msgstr "Weblaten käsittelemät henkilökohtaiset tiedot"
 #: wllegal/templates/legal/documents/privacy.html:20
 msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr ""
+"Weblate käsittelee vain henkilötietoja, jotka Käyttäjä antaa käyttämällä "
+"sitä:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
-#, fuzzy
-#| msgid "Name and e-mail"
 msgid "Name and e-mail address"
 msgstr "Nimi ja sähköpostiosoite"
 
 #: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits"
-msgstr ""
+msgstr "Näitä käytetään tunnistamaan sinut VCS-sitoumuksissa"
 
 #: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events"
-msgstr ""
+msgstr "Lisäksi sähköpostilla tiedotetaan katsotuista tapahtumista"
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
 msgstr "Salasana tiivistetyssä muodossa"
 
 #: wllegal/templates/legal/documents/privacy.html:30
-#, fuzzy
-#| msgid "Any authenticated user can contribute."
 msgid "Used to authenticate the User, if configured"
-msgstr "Kuka tahansa kirjautunut käyttäjä voi osallistua kääntämiseen."
+msgstr "Käytetään käyttäjän todentamiseen, jos se on määritetty"
 
 #: wllegal/templates/legal/documents/privacy.html:31
 msgid "Passwords are stored hashed using Argon2."
-msgstr ""
+msgstr "Salasanat tallennetaan tiivistettynä Argon2:lla."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid "IP address and browser name"
@@ -99,6 +99,8 @@ msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen"
 msgstr ""
+"Ne kirjataan, jos tiliisi tehdään tärkeitä muutoksia (esim. salasanan vaihto)"
+", jotta voidaan tehdä diagnoosi, jos tilisi varastetaan"
 
 #: wllegal/templates/legal/documents/privacy.html:36
 msgid "Billing information"
@@ -109,14 +111,16 @@ msgid ""
 "In case you purchase service from us, we collect additional billing "
 "information necessary for issuing an invoice"
 msgstr ""
+"Mikäli ostat meiltä palvelun, keräämme laskun laatimista varten tarvittavat "
+"lisätiedot"
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
-msgstr ""
+msgstr "Henkilötietojen käsittelyn tarkoitus ja oikeusperusta"
 
 #: wllegal/templates/legal/documents/privacy.html:43
 msgid "Your Personal Data will be used for the purposes of the Service:"
-msgstr ""
+msgstr "Henkilötietojasi käytetään Palvelun tarkoituksiin:"
 
 #: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
@@ -127,6 +131,10 @@ msgid ""
 "contractual or pre-contractual obligations (<a href=\"%(url)s\">Article 6 "
 "(1) b. GDPR</a>)"
 msgstr ""
+"palveluidemme tarjoamiseksi Palvelussa, yhteydenottoon palveluihimme "
+"liittyvissä asioissa (myös sähköpostien ja viestien välityksellä) ja "
+"palveluidemme teknisen toimivuuden varmistamiseksi sopimusvelvoitteiden "
+"täyttämiseksi (<a href=\" %(url)s\">Artikla 6 (1) b. GDPR</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:48
 #, python-format
@@ -134,6 +142,8 @@ msgid ""
 "to analyze your use of our services and improve our services (<a href="
 "\"%(url)s\">Article 6 (1) b. and f. GDPR</a>)"
 msgstr ""
+"analysoidaksemme palveluidemme käyttöäsi ja parantaaksemme palveluitamme (<a "
+"href=\"%(url)s\">GDPR artiklan 6 (1) b ja f.</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:49
 #, python-format
@@ -142,27 +152,32 @@ msgid ""
 "activities or send you newsletters (<a href=\"%(url)s\">Article 6 (1) a. "
 "GDPR</a>)"
 msgstr ""
+"nimenomaisella suostumuksellasi tai ohjeellasi harjoittaa liiketoimintaamme "
+"tai lähettää sinulle uutiskirjeitä (<a href=\"%(url)s\">Artikla 6 (1) a. "
+"GDPR</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:52
-#, fuzzy
-#| msgid "Allow changes to the local repository"
 msgid "Access to the Personal Data"
-msgstr "Salli muutokset paikalliseen arkistoon"
+msgstr "Pääsy henkilötietoihin"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Controller has made all reasonable technical means to protect the "
 "Personal Data. Only authorized persons can access the Personal Data."
 msgstr ""
+"Valvoja on tehnyt kaikki kohtuulliset tekniset keinot henkilötietojen "
+"suojaamiseksi. Vain valtuutetut henkilöt pääsevät käsiksi henkilötietoihin."
 
 #: wllegal/templates/legal/documents/privacy.html:56
 msgid ""
 "Third parties which can gain access to the Personal Data when necessary are:"
 msgstr ""
+"Kolmannet osapuolet, jotka voivat tarvittaessa päästä käsiksi "
+"henkilötietoihin, ovat:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "Persons which are contracted for technical assurance of the service."
-msgstr ""
+msgstr "Henkilöt, joilla on sopimus palvelun teknisestä varmistuksesta."
 
 #: wllegal/templates/legal/documents/privacy.html:60
 msgid "Payment processors."
@@ -174,19 +189,23 @@ msgstr "Kaikki henkilökohtaiset tiedot säilötään Euroopan unionin alueella.
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid "The Personal Data retention"
-msgstr ""
+msgstr "Henkilötietojen säilyttäminen"
 
 #: wllegal/templates/legal/documents/privacy.html:67
 msgid ""
 "The Personal Data is stored in the Service until the User deletes their "
 "account on the service."
 msgstr ""
+"Henkilötietoja säilytetään Palvelussa, kunnes Käyttäjä poistaa tilinsä "
+"palvelusta."
 
 #: wllegal/templates/legal/documents/privacy.html:69
 msgid ""
 "Access log information might be collected for a longer period for the "
 "purpose of establishing, exercising or defending legal claims."
 msgstr ""
+"Pääsylokitietoja voidaan kerätä pidemmän aikaa oikeudellisten vaatimusten "
+"nostamiseksi, esittämiseksi tai puolustamiseksi."
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "Your rights"
@@ -197,12 +216,16 @@ msgid ""
 "The User provides use of Personal Data voluntarily. Without this Personal "
 "Data Weblate is not able to provide our services."
 msgstr ""
+"Käyttäjä antaa henkilötietojensa käyttöön vapaaehtoisesti. Ilman näitä "
+"henkilötietoja Weblate ei pysty tarjoamaan palveluitamme."
 
 #: wllegal/templates/legal/documents/privacy.html:75
 msgid ""
 "We want you to always be in control of your Personal Data. To this end, you "
 "have certain rights that allow for it. Under certain conditions, you may:"
 msgstr ""
+"Haluamme sinun olevan aina henkilötietojesi hallinnassa. Tätä varten sinulla "
+"on tietyt oikeudet, jotka sallivat sen. Tietyissä olosuhteissa voit:"
 
 #: wllegal/templates/legal/documents/privacy.html:79
 #, python-format
@@ -210,12 +233,16 @@ msgid ""
 "Gain access to all your Personal Data that Weblate uses or processes, and "
 "even get a copy of all of it (<a href=\"%(url)s\">Article 15 GDPR</a>)"
 msgstr ""
+"Pääsy kaikkiin henkilötietoihisi, joita Weblate käyttää tai käsittelee, ja "
+"jopa saada kopio kaikista niistä (<a href=\"%(url)s\">GDPR artikla 15</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:80
 msgid ""
 "Correct the Personal Data that Weblate processes if you think that there are "
 "mistakes"
 msgstr ""
+"Korjaa Weblate käsittelemät henkilötiedot, jos luulet, että niissä on "
+"virheitä"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "Order us to delete your Personal Data"
@@ -226,22 +253,24 @@ msgid "Restrict the Personal Data processing"
 msgstr "Rajoita henkilökohtaisten tietojen käsittelyä"
 
 #: wllegal/templates/legal/documents/privacy.html:83
-#, fuzzy
-#| msgid "Languages processing"
 msgid "Object to processing"
-msgstr "Kieliä prosessoidaan"
+msgstr "Käsittelyn vastainen"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid ""
 "Receive your Personal Data in a commonly used and machine-readable format or "
 "to transmit this Personal Data to a different provider."
 msgstr ""
+"Vastaanota henkilötietosi yleisesti käytetyssä ja koneellisesti luettavassa "
+"muodossa tai siirtää nämä henkilötiedot toiselle palveluntarjoajalle."
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid ""
 "The removal, correction, and retrieval of your Personal Data can be done "
 "from the account management, and is fully automated."
 msgstr ""
+"Henkilötietojesi poistaminen, korjaaminen ja nouto voidaan tehdä "
+"tilinhallinnasta, ja se on täysin automatisoitu."
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
@@ -275,14 +304,12 @@ msgstr ""
 "kullekkin käännösprojektille."
 
 #: wllegal/templates/legal/documents/summary.html:8
-#, fuzzy
 msgid ""
 "Your name and e-mail address is used in VCS commits, it will stay there "
 "indefinitely."
 msgstr ""
-"Nimeäsi ja sähköpostiosoitettasi on käytetty käännösten viemisesessä "
-"versionhallintaan. Niitä ei voi poistaa tai muuttaa versionhallinnasta, ja "
-"säilyvät siellä määrämättömän ajan."
+"Nimeäsi ja sähköpostiosoitettasi käytetään VCS-sitoumuksissa, ne pysyvät "
+"siellä toistaiseksi."
 
 #: wllegal/templates/legal/documents/summary.html:9
 msgid "We use cookies to deliver our services."
@@ -297,28 +324,28 @@ msgid ""
 "The Terms of Service document is authoritative in English, translations are "
 "provided for your convenience."
 msgstr ""
+"Asiakirja palveluehdoista on englanninkielinen; käännökset tarjotaan "
+"avuksesi."
 
 #: wllegal/templates/legal/documents/tos.html:17
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these Terms of Service."
 msgstr ""
+"Käyttäjän ja Palveluntarjoajan Palvelun käytöstä johtuvia oikeuksia ja "
+"velvollisuuksia säätelevät nämä Palveluehdot."
 
 #: wllegal/templates/legal/documents/tos.html:20
-#, fuzzy
-#| msgid "Description"
 msgid "Definitions"
-msgstr "Kuvaus"
+msgstr "Määritelmät"
 
 #: wllegal/templates/legal/documents/tos.html:22
 msgid "In these Terms of Service:"
 msgstr "Näissä käyttöehdoissa:"
 
 #: wllegal/templates/legal/documents/tos.html:26
-#, fuzzy
-#| msgid "Advertisement"
 msgid "Agreement"
-msgstr "Mainos"
+msgstr "Sopimus"
 
 #: wllegal/templates/legal/documents/tos.html:27
 msgid ""
@@ -326,6 +353,9 @@ msgid ""
 "Civil Code concluded by and between the User and the Provider upon the "
 "Consent"
 msgstr ""
+"tarkoittaa lisenssisopimusta artiklan 2358 ja sitä seuraavien artiklojen "
+"mukaisesti. Käyttäjän ja Palveluntarjoajan välillä suostumuksella tehdyn "
+"siviililain mukaisesti"
 
 #: wllegal/templates/legal/documents/tos.html:29
 msgid "Civil Code"
@@ -413,13 +443,8 @@ msgid "Project"
 msgstr "Projekti"
 
 #: wllegal/templates/legal/documents/tos.html:55
-#, fuzzy
-#| msgid ""
-#| "However, the following translation projects are available on this server:"
 msgid "means translation project operated on the Service"
-msgstr ""
-"Joka tapauksessa, seuraavat käännösprojektit ovat saatavilla tällä "
-"palvelimella:"
+msgstr "tarkoittaa Palvelussa toimivaa käännösprojektia"
 
 #: wllegal/templates/legal/documents/tos.html:57
 msgid "Service"
@@ -639,14 +664,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:135
-#, fuzzy
-#| msgid ""
-#| "The Service uses cookies to personalise content, and to analyse our "
-#| "traffic."
 msgid "The Service uses Cookies to personalise content."
-msgstr ""
-"Palvelu käyttää evästeitä sisällön kohdentamiseksi ja liikenteen "
-"analysoimiseksi."
+msgstr "Palvelu käyttää evästeitä sisällön personointiin."
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid "Governing Law"
