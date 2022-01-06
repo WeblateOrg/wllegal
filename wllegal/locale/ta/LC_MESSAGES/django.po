@@ -8,8 +8,9 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2021-12-06 21:44+0000\n"
-"Last-Translator: Rajasekaran Karunanithi <rajasekaran86@gmail.com>\n"
+"PO-Revision-Date: 2022-01-07 02:39+0000\n"
+"Last-Translator: Michael Timothy Notopuro 12A1-23 MT BreakThrough "
+"<mt310804@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/weblate/legal/ta/>"
 "\n"
 "Language: ta\n"
@@ -17,23 +18,26 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.10-dev\n"
+"X-Generator: Weblate 4.10.1\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr ""
+msgstr "கலைக்கு ஏற்ப துணை ஒப்பந்தக்காரர்கள். 28 GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:10
 msgid "Status as of October 2020."
 msgstr "அக்டோபர் 2020 நிலவரப்படி."
 
 #: wllegal/templates/legal/documents/privacy.html:6
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "We comply with the Regulation No. %(law_679_2016)s, the General Data "
 "Protection Regulation, also known as GDPR. This document includes necessary "
 "specifications."
 msgstr ""
+"GDPR எனப்படும் பொதுத் தரவுப் பாதுகாப்பு ஒழுங்குமுறை விதி எண் %(சட்டம் 679 "
+"2016)க்கு நாங்கள் இணங்குகிறோம். இந்த ஆவணத்தில் தேவையான விவரக்குறிப்புகள் "
+"உள்ளன."
 
 #: wllegal/templates/legal/documents/privacy.html:9
 msgid "Personal Data Controller"
