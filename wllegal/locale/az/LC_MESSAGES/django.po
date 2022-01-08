@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2022-01-07 02:39+0000\n"
+"PO-Revision-Date: 2022-01-08 22:16+0000\n"
 "Last-Translator: Xəyyam Qocayev <xxmn77@gmail.com>\n"
 "Language-Team: Azerbaijani <https://hosted.weblate.org/projects/weblate/"
 "legal/az/>\n"
@@ -342,7 +342,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:35
 #: wllegal/templates/legal/documents/tos.html:131
 msgid "Cookies"
-msgstr ""
+msgstr "Kukilər"
 
 #: wllegal/templates/legal/documents/tos.html:36
 msgid ""
@@ -383,10 +383,8 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:48
 #: wllegal/templates/legal/documents/tos.html:98
-#, fuzzy
-#| msgid "Persian"
 msgid "Personal Data"
-msgstr "farsca"
+msgstr "Şəxsi verilənlər"
 
 #: wllegal/templates/legal/documents/tos.html:49
 #, python-format
