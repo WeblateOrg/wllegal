@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2022-02-11 23:57+0000\n"
+"PO-Revision-Date: 2022-02-13 15:58+0000\n"
 "Last-Translator: Eduard Ereza Martínez <eduard@ereza.cat>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/weblate/legal/ca/"
 ">\n"
@@ -74,8 +74,8 @@ msgstr "Nom i adreça electrònica"
 #: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits"
 msgstr ""
-"S'utilitzen per a identificar-vos a les publicacions del sistema de control "
-"de versions"
+"S'utilitzen per a identificar-vos a les comissions del sistema de control de "
+"versions"
 
 #: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events"
@@ -321,8 +321,7 @@ msgid ""
 "indefinitely."
 msgstr ""
 "El vostre nom i la vostra adreça de correu electrònic s'utilitzen en "
-"publicacions a sistemes de control de versions, i hi romandran "
-"indefinidament."
+"comissions a sistemes de control de versions, i hi romandran indefinidament."
 
 #: wllegal/templates/legal/documents/summary.html:9
 msgid "We use cookies to deliver our services."
@@ -758,7 +757,7 @@ msgid ""
 "of the VCS."
 msgstr ""
 "L'usuari accepta que s'utilitzi el seu nom i correu electrònic com a autoria "
-"a les publicacions als VCS. L'usuari entén que aquesta concessió no és "
+"a les comissions als VCS. L'usuari entén que aquesta concessió no és "
 "revocable a causa de la naturalesa dels VCS."
 
 #: wllegal/templates/legal/documents/tos.html:133
