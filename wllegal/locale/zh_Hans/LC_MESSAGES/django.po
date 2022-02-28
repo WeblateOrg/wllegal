@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2022-02-27 08:57+0000\n"
+"PO-Revision-Date: 2022-03-01 11:54+0000\n"
 "Last-Translator: JY3 <GeeyunJY3@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "weblate/legal/zh_Hans/>\n"
@@ -410,7 +410,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Owner"
-msgstr "拥有者"
+msgstr "所有者"
 
 #: wllegal/templates/legal/documents/tos.html:52
 msgid "means the User who can manage Project"
@@ -630,8 +630,7 @@ msgid ""
 "The Service organizes translation into individual Projects, where the Owner "
 "is responsible for managing them and for specifying accurately the license "
 "of the Project."
-msgstr ""
-"该服务将翻译组织到单个项目中，业主负责管理这些项目并准确指定项目许可证。"
+msgstr "该服务将翻译组织成单独的项目，所有者负责管理这些项目并准确指定项目的许可证。"
 
 #: wllegal/templates/legal/documents/tos.html:122
 msgid ""
