@@ -1,12 +1,12 @@
 {
-  "cefd423328bbabae": "Batas tarif",
-  "404c9a7eb09bf5cf": "Batas limit Weblate",
-  "20deef135140c70": "Dilisensikan GNU GPLv3+",
+  "cefd423328bbabae": "Batas akses",
+  "404c9a7eb09bf5cf": "Batas Akses Weblate",
+  "20deef135140c70": "Berlisensi GNU GPLv3+",
   "700639553f6a669b": "Ketentuan dan Privasi",
   "855aad6254dbc154": "Situs saat ini sedang dimatikan untuk perawatan.",
   "f0a04eec920f8be1": "Pemeliharaan sedang berlangsung",
-  "580c807df3faaff0": "Pemeliharaan Peladen Weblate",
+  "580c807df3faaff0": "Pemeliharaan Server Weblate",
   "dd688904278968c2": "Dilisensikan di bawah GNU GPLv3+",
   "f1755fb51ebbc26a": "Status layanan",
-  "f3e2fd9f17199fd9": "Anda telah terlalu cepat membuat terlalu banyak permintaan. Silakan coba lagi nanti."
+  "f3e2fd9f17199fd9": "Anda terlalu banyak membuat permintaan dalam waktu singkat. Silakan coba lagi nanti."
 }
