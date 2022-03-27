@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2022-03-26 23:29+0000\n"
+"PO-Revision-Date: 2022-03-28 00:28+0000\n"
 "Last-Translator: Taufik Adi Wicaksono <taufikadi.wicaksono@tutamail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/weblate/legal/"
 "id/>\n"
@@ -327,7 +327,7 @@ msgid ""
 "The Terms of Service document is authoritative in English, translations are "
 "provided for your convenience."
 msgstr ""
-"Dokumen Persyaratan Layanan resmi tersedia dalam bahasa inggris, terjemahan "
+"Dokumen Persyaratan Layanan resmi tersedia dalam bahasa Inggris, terjemahan "
 "disediakan demi kenyamanan Anda."
 
 #: wllegal/templates/legal/documents/tos.html:17
@@ -393,9 +393,9 @@ msgid ""
 "computer or other device connected to the Internet, which enable obtaining "
 "unique identification of the User’s web browser"
 msgstr ""
-"berarti berkas data yang dikirim oleh server web Layanan pada komputer "
-"Pengguna atau perangkat lalin yang tersambung internet, yang memungkinkan "
-"perolehan identifikasi unik dari peramban web yang digunakan oleh Pengguna"
+"berarti berkas data apa pun yang dikirim oleh server web Layanan ke komputer "
+"Pengguna atau perangkat lain yang terhubung ke Internet, yang memungkinkan "
+"diperolehnya identifikasi unik dari peramban web Pengguna"
 
 #: wllegal/templates/legal/documents/tos.html:39
 msgid "GDPR"
@@ -442,7 +442,7 @@ msgid ""
 "inserted by the User into the Service and/or Cookies"
 msgstr ""
 "berarti data pribadi dalam arti Regulasi UE No. %(law_679_2016)s dimasukkan "
-"oleh Pengguna ke dalam Layanan dan atau kuki"
+"oleh Pengguna ke dalam Layanan dan/ atau kuki"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Owner"
@@ -473,12 +473,12 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:60
 msgid "Translation Memory"
-msgstr "Memori penerjemahan"
+msgstr "Memori Terjemahan"
 
 #: wllegal/templates/legal/documents/tos.html:61
 msgid "means the optional translation memory service provided within Weblate"
 msgstr ""
-"berarti layanan memori penerjemahan opsional yang disediakan dalam Weblate"
+"berarti layanan memori terjemahan opsional yang disediakan dalam Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:63
 msgid "User"
@@ -544,8 +544,8 @@ msgid ""
 "The Provider shall have the right to shut down, adjust, modify or make the "
 "Service unavailable on the web address at any time."
 msgstr ""
-"Penyedia berhak untuk sewaktu-waktu menutup, menyesuaikan, memodifikasi,atau "
-"menjadikan Layanan tidak tersedia pada alamat web."
+"Penyedia berhak untuk menutup, menyesuaikan, memodifikasi, atau menjadikan "
+"Layanan tidak tersedia pada alamat web sewaktu-waktu."
 
 #: wllegal/templates/legal/documents/tos.html:84
 msgid ""
@@ -554,8 +554,8 @@ msgid ""
 "in the Provider’s use."
 msgstr ""
 "Pengguna setuju untuk menggunakan Layanan hanya dengan cara yang tidak "
-"membahayakan perangkat lunak teknis dan atau perangkat keras dari Penyedia "
-"dan atau cara semacam itu dalam penggunaan Penyedia."
+"membahayakan perangkat lunak teknis dan/ atau perangkat keras dari Penyedia "
+"dan/ atau cara semacam itu dalam penggunaan Penyedia."
 
 #: wllegal/templates/legal/documents/tos.html:86
 msgid ""
@@ -563,7 +563,7 @@ msgid ""
 "deliberately causing any damage to the Service."
 msgstr ""
 "Pengguna menyetujui untuk menjauhkan diri dari maksud buruk dalam penggunaan "
-"Layanan dan atau dengan sengaja menyebabkan segala macam kerusakan pada "
+"Layanan dan/ atau dengan sengaja menyebabkan segala macam kerusakan pada "
 "Layanan."
 
 #: wllegal/templates/legal/documents/tos.html:88
@@ -572,7 +572,7 @@ msgid ""
 "technical hardware means, in particular the security systems."
 msgstr ""
 "Pengguna menyetujui untuk menjauhkan diri dari menghindari perangkat lunak "
-"dan atau perangkat keras teknis Layanan, khususnya sistem keamanan."
+"dan/ atau perangkat keras teknis Layanan, khususnya sistem keamanan."
 
 #: wllegal/templates/legal/documents/tos.html:91
 msgid "Liability for Damage"
@@ -597,7 +597,7 @@ msgstr ""
 "Bila Pengguna adalah seorang wirausaha, dengan ini secara tegas melepaskan "
 "haknya terhadap ganti rugi dari Penyedia untuk kerusakan yang disebabkan "
 "oleh Penyedia kepada Pengguna melalui pemutusan dari semua kewajiban yang "
-"ada di dalam Persyaratan Layanan ini dan atau dihasilkan dari penggunaan "
+"ada di dalam Persyaratan Layanan ini dan/ atau dihasilkan dari penggunaan "
 "Layanan."
 
 #: wllegal/templates/legal/documents/tos.html:101
@@ -614,10 +614,10 @@ msgid ""
 msgstr ""
 "Dalam arti <a href=\"%(url)s\">Pasal 7</a> dari GDPR, Pengguna dengan ini "
 "memberi persetujuan pada pengumpulan, penyimpanan, dan pengolahan Data "
-"Pribadi yang diberikan oleh Pengguna kepada administrator, yang adalah "
+"Pribadi yang diberikan oleh Pengguna kepada administrator, yang mana adalah "
 "Penyedia, melalui penggunaan Layanan; Pengguna memberi persetujuan untuk "
 "pengolahan dan penggunaan Data Pribadi Pengguna oleh Penyedia, karyawan "
-"Penyedia, dan atau mitra bisnis resmi Penyedia. Persetujuan ini diberikan "
+"Penyedia, dan/ atau mitra bisnis resmi Penyedia. Persetujuan ini diberikan "
 "selama pengguna tidak menghapus akun mereka dari Layanan."
 
 #: wllegal/templates/legal/documents/tos.html:103
@@ -643,9 +643,10 @@ msgid ""
 "wishing to receive business information from the Provider, the Provider "
 "shall refrain from sending further unsolicited business communications."
 msgstr ""
-"Jika Pengguna secara langsung dan efektif memberi tahu Penyedia atas "
-"ketidakbersediaannya menerima informasi bisnis dari Penyedia, maka Penyedia "
-"akan berhenti mengirimkan lebih lanjut komunikasi bisnis yang tidak diminta."
+"Jika Pengguna secara langsung dan efektif menginformasikan kepada Penyedia "
+"untuk tidak ingin lagi menerima informasi bisnis dari Penyedia, maka "
+"Penyedia harus menahan diri untuk tidak mengirimkan komunikasi bisnis yang "
+"tidak diminta lebih lanjut."
 
 #: wllegal/templates/legal/documents/tos.html:109
 #, python-format
@@ -655,9 +656,9 @@ msgid ""
 "declares that all the Personal Data is accurate and true and has been "
 "provided voluntarily."
 msgstr ""
-"Pengguna menyatakan kesadaran akan hak pribadinya berdasarkan <a href="
-"\"%(url_15)s\">Pasal 15</a> dan <a href=\"%(url_17)s\">Pasal 17</a> dari "
-"GDPR dan menyatakan bahwa semua Data Pribadi akurat dan benar, serta telah "
+"Pengguna menyatakan kesadaran akan hak pribadinya berdasarkan <a href=\""
+"%(url_15)s\">Pasal 15</a> dan <a href=\"%(url_17)s\">Pasal 17</a> dari GDPR "
+"dan menyatakan bahwa semua Data Pribadi akurat dan benar, serta telah "
 "diberikan secara sukarela."
 
 #: wllegal/templates/legal/documents/tos.html:111
@@ -671,11 +672,11 @@ msgid ""
 "business relationship with the Provider."
 msgstr ""
 "Penyedia menyatakan bahwa ia akan mengumpulkan Data Pribadi hanya sejauh "
-"yang diperlukan untuk memenuhi tujuan yang telah dispesifikasikan di atas "
-"dan mengolah Data Pribadi sesuai dengan tujuan pengumpulannya. Karyawan "
-"Penyedia dan individual lain yang mengolah Data Pribadi dengan dasar kontrak "
-"dengan Penyedia akan menjaga kerahasiaan dari Data Pribadi, bahkan setelah "
-"pemutusan hubungan kerja atau hubungan bisnis dengan Penyedia."
+"yang diperlukan untuk memenuhi tujuan yang telah ditentukan di atas dan "
+"mengolah Data Pribadi sesuai dengan tujuan pengumpulannya. Karyawan Penyedia "
+"dan individu lain yang mengolah Data Pribadi berdasarkan kontrak dengan "
+"Penyedia harus menjaga kerahasiaan Data Pribadi, bahkan setelah pemutusan "
+"hubungan kerja atau bisnis mereka dengan Penyedia."
 
 #: wllegal/templates/legal/documents/tos.html:113
 msgid ""
@@ -699,7 +700,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:118
 msgid "Translations"
-msgstr "Penerjemahan"
+msgstr "Terjemahan"
 
 #: wllegal/templates/legal/documents/tos.html:120
 msgid ""
@@ -707,9 +708,9 @@ msgid ""
 "is responsible for managing them and for specifying accurately the license "
 "of the Project."
 msgstr ""
-"Layanan mengatur terjemahan ke dalam Proyek masing-masing, di mana Pemilik "
-"bertanggung jawab untuk mengatur mereka dan menentukan secara tepat lisensi "
-"Proyek."
+"Layanan mengatur terjemahan ke dalam Proyek individu, di mana Pemilik "
+"bertanggung jawab untuk mengelolanya dan untuk menentukan lisensi Proyek "
+"secara akurat."
 
 #: wllegal/templates/legal/documents/tos.html:122
 msgid ""
@@ -724,8 +725,8 @@ msgid ""
 "Should the Project opt in for the Translation Memory, license to use the "
 "translation is granted to all Translation Memory users."
 msgstr ""
-"Jika proyek memilih Memori Penerjemahan, lisensi untuk menggunakan untuk "
-"menggunakan terjemahan diberikan pada semua pengguna Memori Penerjemahan."
+"Jika Proyek memilih Memori Terjemahan, lisensi untuk menggunakan terjemahan "
+"diberikan kepada semua pengguna Memori Terjemahan."
 
 #: wllegal/templates/legal/documents/tos.html:126
 msgid ""
@@ -733,7 +734,7 @@ msgid ""
 "has specified."
 msgstr ""
 "Pengguna menyetujui, ketika memberikan kontribusi pada sebuah Proyek, "
-"lisensi yang telah dispesifikasikan oleh Proyek."
+"lisensi yang telah ditentukan oleh Proyek."
 
 #: wllegal/templates/legal/documents/tos.html:128
 msgid ""
@@ -741,7 +742,7 @@ msgid ""
 "commits. The User understands that this grant is non revocable due to nature "
 "of the VCS."
 msgstr ""
-"Pengguna setuju untuk menggunakan namanya dan surel mereka sendiri sebagai "
+"Pengguna setuju untuk menggunakan nama dan surel mereka sendiri sebagai "
 "kepengarangan pada commit VCS. Pengguna memahami bahwa hibah ini tidak dapat "
 "dibatalkan karena sifat VCS."
 
@@ -758,7 +759,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid "The Service uses Cookies to personalise content."
-msgstr "Layanan menggunakan Cookie untuk personalisasi konten."
+msgstr "Layanan menggunakan Kuki untuk mempersonalisasi konten."
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid "Governing Law"
@@ -770,7 +771,7 @@ msgid ""
 "with exclusion of conflict rules."
 msgstr ""
 "Persyaratan Layanan ini akan diatur oleh hukum Republik Ceko dengan "
-"mengesampingkan peraturan konflik."
+"mengesampingkan aturan konflik."
 
 #: wllegal/templates/legal/documents/tos.html:142
 msgid ""
@@ -778,19 +779,19 @@ msgid ""
 "Service shall be resolved by the court of the Czech republic having "
 "substantive and local jurisdiction."
 msgstr ""
-"Semua perselisihan yang dimunculkan berdasarkan Perjanjian dan atau "
+"Semua perselisihan yang dimunculkan berdasarkan Perjanjian dan/ atau "
 "Persyaratan Layanan ini harus diselesaikan secara hukum oleh pengadilan "
 "Republik Ceko yang memiliki yuridiksi substansif dan lokal."
 
 #: wllegal/templates/legal/documents/tos.html:145
 msgid "Effect"
-msgstr "Berlaku"
+msgstr "Masa Berlaku"
 
 #: wllegal/templates/legal/documents/tos.html:147
 msgid ""
 "These Terms of Service shall come into force and effect on 1st September "
 "2017."
-msgstr "Persyaratan Layanan ini mulai berlaku pada 1 September 2017."
+msgstr "Persyaratan Layanan ini mulai berlaku pada tanggal 1 September 2017."
 
 #~ msgid "Generate Unknown Horizons scenario data"
 #~ msgstr "Hasilkan data skenario Unknown Horizons"
