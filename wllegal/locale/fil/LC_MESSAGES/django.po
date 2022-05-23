@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2022-05-22 04:14+0000\n"
+"PO-Revision-Date: 2022-05-24 06:15+0000\n"
 "Last-Translator: Marco Santos <enum.scima@gmail.com>\n"
 "Language-Team: Filipino <https://hosted.weblate.org/projects/weblate/legal/"
 "fil/>\n"
@@ -108,7 +108,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:36
 msgid "Billing information"
-msgstr "Impormasyon sa billing"
+msgstr "Billing information"
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -306,13 +306,15 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
-msgstr ""
+msgstr "Tingnan ang bersyon sa Ingles"
 
 #: wllegal/templates/legal/documents/tos.html:11
 msgid ""
 "The Terms of Service document is authoritative in English, translations are "
 "provided for your convenience."
 msgstr ""
+"Authoritative po sa wikang Ingles ang dokumento ng Kasunduan sa Serbisyo, "
+"binibigay po ang mga salin para sa inyong ginhawa."
 
 #: wllegal/templates/legal/documents/tos.html:17
 msgid ""
@@ -422,7 +424,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:54
 msgid "Project"
-msgstr ""
+msgstr "Proyekto"
 
 #: wllegal/templates/legal/documents/tos.html:55
 msgid "means translation project operated on the Service"
