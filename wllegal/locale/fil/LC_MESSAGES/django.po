@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2022-05-24 06:15+0000\n"
+"PO-Revision-Date: 2022-06-01 10:15+0000\n"
 "Last-Translator: Marco Santos <enum.scima@gmail.com>\n"
 "Language-Team: Filipino <https://hosted.weblate.org/projects/weblate/legal/"
 "fil/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr "Mga Subcontractor Sang-ayon sa Art. 28 GDPR"
+msgstr "Mga Subcontractor Alinsunod sa Art. 28 GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:10
 msgid "Status as of October 2020."
@@ -36,12 +36,12 @@ msgid ""
 "specifications."
 msgstr ""
 "Sumusunod kami sa Regulation No. %(law_679_2016)s, ang General Data "
-"Protection Regulation, kilala rin sa tawag na GDPR. Kasama sa dokumentong "
-"ito ang mga kailangan na specification."
+"Protection Regulation, kilala rin bilang GDPR. Kasama sa dokumentong ito ang "
+"mga kailangan na mga specification."
 
 #: wllegal/templates/legal/documents/privacy.html:9
 msgid "Personal Data Controller"
-msgstr "Controller ng Personal na Data"
+msgstr "Personal Data Controller"
 
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
@@ -54,18 +54,18 @@ msgid ""
 "Weblate has appointed a data protection officer who may be reached via "
 "%(privacy_contact)s."
 msgstr ""
-"May hinirang na data protection officer ang Weblate na makakausap sa "
+"Naghirang ang Weblate ng data protection officer na maaabot sa "
 "%(privacy_contact)s."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 msgid "Personal Data processed by Weblate"
-msgstr "Pinoprosesong Personal na Data ng Weblate"
+msgstr "Pinoprosesong Personal Data ng Weblate"
 
 #: wllegal/templates/legal/documents/privacy.html:20
 msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr ""
-"Tanging pinoproseso lang ng Weblate ang Personal na Data na binibigay ng "
-"User sa paggamit nito:"
+"Pinoproseso ng Weblate lang ang Personal Data na binigay ng User sa "
+"pamamagitan ng paggamit nito:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid "Name and e-mail address"
@@ -83,15 +83,15 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
-msgstr "Password sa anyong naka-hash"
+msgstr "Naka-hash na password"
 
 #: wllegal/templates/legal/documents/privacy.html:30
 msgid "Used to authenticate the User, if configured"
-msgstr "Ginagamit para patunayan ang User, kung kinompigura"
+msgstr "Ginagamit para patunayan ang User, kung inayos"
 
 #: wllegal/templates/legal/documents/privacy.html:31
 msgid "Passwords are stored hashed using Argon2."
-msgstr "Itinatago ang mga password nang naka-hash gamit ang Argon2."
+msgstr "Itinatago ang mga naka-hash na password gamit ang Argon2."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid "IP address and browser name"
@@ -102,9 +102,9 @@ msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen"
 msgstr ""
-"Nilo-log ito kung sakaling may mga importanteng pagbabagong ginawa sa "
-"account mo (hal. pagbago sa password) para maging posible ang diagnosis kung "
-"sakaling nanakaw ang account mo"
+"Nilo-log ito kung sakaling may mga mahahalagang pagbabago sa account mo ("
+"hal. pagbago sa password) para mapayagan ang diagnosis kung sakaling nanakaw "
+"ang account mo"
 
 #: wllegal/templates/legal/documents/privacy.html:36
 msgid "Billing information"
@@ -115,16 +115,16 @@ msgid ""
 "In case you purchase service from us, we collect additional billing "
 "information necessary for issuing an invoice"
 msgstr ""
-"Kung sakaling bumili ka ng service mula sa amin, kokolektahin namin ang mga "
-"karagdagang impormasyon sa billing na kailangan para sa pag-isyu ng invoice"
+"Kung sakaling bumili ka ng serbisyo mula sa amin, kinokolekta rin namin ang "
+"karagdagang billing information na kailangan para makapag-isyu ng invoice"
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
-msgstr "Gamit at legal na basehan ng pagproseso sa Personal na Data"
+msgstr "Gamit at legal na basehan ng pagproseso sa Personal Data"
 
 #: wllegal/templates/legal/documents/privacy.html:43
 msgid "Your Personal Data will be used for the purposes of the Service:"
-msgstr "Gagamitin ang Personal na Data mo para sa mga paggamit ng Service:"
+msgstr "Gagamitin ang Personal Data mo para sa mga paggamit sa Serbisyo:"
 
 #: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
