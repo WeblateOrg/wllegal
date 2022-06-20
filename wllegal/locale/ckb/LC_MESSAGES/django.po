@@ -4,11 +4,11 @@
 # anonymous <noreply@weblate.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2021-04-04 13:26+0000\n"
-"Last-Translator: Rener kaka <Rabarajax51@gmail.com>\n"
+"PO-Revision-Date: 2022-06-20 06:46+0000\n"
+"Last-Translator: Kurd As <kurd68587@gmail.com>\n"
 "Language-Team: Kurdish (Central) <https://hosted.weblate.org/projects/"
 "weblate/legal/ckb/>\n"
 "Language: ckb\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.6-dev\n"
+"X-Generator: Weblate 4.13.1-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -85,7 +85,7 @@ msgstr "بەکارهاتووە بۆ ڕەسەنتکردنی بەکارهێنەر�
 
 #: wllegal/templates/legal/documents/privacy.html:31
 msgid "Passwords are stored hashed using Argon2."
-msgstr ""
+msgstr "وشە نهێنییەکان خەزن کراون بە بەکارهێنانی ئارگۆن٢."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid "IP address and browser name"
@@ -267,6 +267,8 @@ msgid ""
 "The removal, correction, and retrieval of your Personal Data can be done "
 "from the account management, and is fully automated."
 msgstr ""
+"لابردنی، ڕاستکردنەوە، و هێنانەوەی داتای کەسی دەتوانیت لە بەڕێوەبردنی "
+"هەژمارەکە ئەنجام بدرێت، و بەتەواوی ئۆتۆماتیکی بێت."
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
@@ -606,15 +608,7 @@ msgstr ""
 "خزمەتگوزاری."
 
 #: wllegal/templates/legal/documents/tos.html:103
-#, fuzzy, python-format
-#| msgid ""
-#| "The purpose of the processing of Personal Data as determined by the "
-#| "Provider is the use of Personal Data for sending commercial "
-#| "communications to the subject of the data (the User) through electronic "
-#| "means under Act No. %(law_480_2004)s Coll., on certain services of the "
-#| "information society, as amended, and further for marketing and business "
-#| "needs of the Provider’s contractual partners and for statistical and/or "
-#| "marketing purposes of the Provider."
+#, python-format
 msgid ""
 "The purpose of the processing of Personal Data as determined by the Provider "
 "is the use of Personal Data for sending commercial communications to the "
@@ -623,12 +617,12 @@ msgid ""
 "amended, and further for business needs of the Provider’s contractual "
 "partners and for statistical purposes of the Provider."
 msgstr ""
-"مەبەست لە پرۆسەی داتای کەسی کە لەلایەن دابینکارەوە دیاری دەکرێت بەکارهێنانی "
-"داتای کەسییە بۆ ناردنی پەیوەندی بازرگانی بۆ بابەتی داتاکان (بەکارهێنەر) لە "
-"ڕێگەی ئەلیکترۆنیەوە لە ژێر یاسای ژمارە %(law_480_2004)s.، لەسەر هەندێک "
-"خزمەتگوزاری کۆمەڵگای زانیاری، بە هەموارکراو، و زیاتر بۆ بازاڕکردن و "
-"پێویستیەکانی بازرگانی هاوبەشانی گرێبەستی دابینکەر و بۆ مەبەستی ئامار و/یان "
-"بەبازاڕکردنی دابینکەر."
+"ئامانج لە پرۆسەی زانیارییە کەسییەکان وەک لەلایەن دابینکەرەوە دیاری کراوە "
+"بەکارهێنانی زانیاری کەسییە بۆ ناردنی پەیوەندییە بازرگانییەکان بۆ بابەتی "
+"زانیارییەکان (بەکارهێنەر) لە ڕێگەی ئامرازە ئەلیکترۆنییەکان بەپێی یاسای ژمارە "
+"%(law_480_2004)s لەسەر هەندێک خزمەتگوزارییەکانی کۆمەڵگەی زانیاری، وەک هەموار "
+"کراوەتەوە، و زیاتر بۆ پێداویستییە بازرگانییەکانی هاوبەشە گرێبەستییەکانی "
+"دابینکەرە وە بۆ مەبەستی ئاماری دابینکەر."
 
 #: wllegal/templates/legal/documents/tos.html:105
 msgid ""
@@ -747,14 +741,8 @@ msgstr ""
 "هەموارکراو، بەکارهێنەر ئاگادار دەکرێت کە خزمەتگوزاری Cookies بەکاردەهێنێت."
 
 #: wllegal/templates/legal/documents/tos.html:135
-#, fuzzy
-#| msgid ""
-#| "The Service uses Cookies to personalise content, and to analyse our "
-#| "traffic."
 msgid "The Service uses Cookies to personalise content."
-msgstr ""
-"خزمەتگوزاریەکە Cookies بەکاردێنێت بۆ بە کەسیکردنی ناوەڕۆک، و شیکردنەوەی "
-"ترافیکەکەمان."
+msgstr "خزمەتگوزارییەکە Cookies بەکاردەهێنێت بۆ کەسایەتیکردنی ناوەڕۆک."
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid "Governing Law"
