@@ -16,8 +16,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2022-05-15 01:18+0000\n"
-"Last-Translator: JY3 <GeeyunJY3@gmail.com>\n"
+"PO-Revision-Date: 2022-07-02 08:17+0000\n"
+"Last-Translator: yangyangdaji <1504305527@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "weblate/legal/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.13-dev\n"
+"X-Generator: Weblate 4.13.1-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -41,9 +41,8 @@ msgid ""
 "We comply with the Regulation No. %(law_679_2016)s, the General Data "
 "Protection Regulation, also known as GDPR. This document includes necessary "
 "specifications."
-msgstr ""
-"我们遵守法规 No.%(law_679_2016)s ，即通用数据保护法规，也称为 GDPR 。本文档包"
-"含必要的规范。"
+msgstr "我们遵守法规 No.%(law_679_2016)s，即通用数据保护法规，也称为 "
+"GDPR。本文档包含必要的规范。"
 
 #: wllegal/templates/legal/documents/privacy.html:9
 msgid "Personal Data Controller"
@@ -71,7 +70,7 @@ msgstr "Weblate 仅处理用户通过使用它提供的个人数据："
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid "Name and e-mail address"
-msgstr "姓名和电子邮件地址"
+msgstr "姓名和电子邮箱地址"
 
 #: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits"
@@ -368,8 +367,7 @@ msgstr "GDPR"
 msgid ""
 "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
 "Regulation"
-msgstr ""
-"指欧盟法规 No.%(law_679_2016)s ，即通用数据保护法规，General Data Protection "
+msgstr "指欧盟法规 No.%(law_679_2016)s，即通用数据保护法规，General Data Protection "
 "Regulation"
 
 #: wllegal/templates/legal/documents/tos.html:42
