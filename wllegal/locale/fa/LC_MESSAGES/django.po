@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2022-02-13 15:58+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2022-07-08 17:16+0000\n"
+"Last-Translator: CodeWriter21 <codewriter21@gmail.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/weblate/legal/fa/"
 ">\n"
 "Language: fa\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.11-dev\n"
+"X-Generator: Weblate 4.13.1-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -72,7 +72,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
-msgstr ""
+msgstr "رمز عبور به صورت هش شده"
 
 #: wllegal/templates/legal/documents/privacy.html:30
 msgid "Used to authenticate the User, if configured"
@@ -94,21 +94,23 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:36
 msgid "Billing information"
-msgstr ""
+msgstr "اطلاعات پرداخت"
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
 "In case you purchase service from us, we collect additional billing "
 "information necessary for issuing an invoice"
 msgstr ""
+"در صورت خرید خدمات از ما، اطلاعات صورتحساب اضافی لازم برای صدور فاکتور را "
+"جمع آوری می کنیم"
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
-msgstr ""
+msgstr "هدف و مبنای قانونی پردازش داده های شخصی"
 
 #: wllegal/templates/legal/documents/privacy.html:43
 msgid "Your Personal Data will be used for the purposes of the Service:"
-msgstr ""
+msgstr "داده های شخصی شما برای این اهداف سرویس استفاده خواهد شد:"
 
 #: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
@@ -156,7 +158,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:60
 msgid "Payment processors."
-msgstr ""
+msgstr "پردازش کنندگان پرداخت."
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
