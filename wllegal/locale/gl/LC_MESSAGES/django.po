@@ -6,11 +6,11 @@
 # Iváns <ivanrsm1997@gmail.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2021-01-28 08:55+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2022-10-03 16:19+0000\n"
+"Last-Translator: gallegonovato <fran-carro@hotmail.es>\n"
 "Language-Team: Galician <https://hosted.weblate.org/projects/weblate/legal/"
 "gl/>\n"
 "Language: gl\n"
@@ -18,15 +18,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.5-dev\n"
+"X-Generator: Weblate 4.14.1\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr ""
+msgstr "Subcontratistas de acordo co art. 28 GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:10
 msgid "Status as of October 2020."
-msgstr ""
+msgstr "Estado a outubro de 2020."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -68,8 +68,6 @@ msgstr ""
 "empregalo:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
-#, fuzzy
-#| msgid "Name and e-mail"
 msgid "Name and e-mail address"
 msgstr "Nome e enderezo do correo electrónico"
 
@@ -93,7 +91,7 @@ msgstr "Emprégase para autenticar ó usuario se está configurado"
 
 #: wllegal/templates/legal/documents/privacy.html:31
 msgid "Passwords are stored hashed using Argon2."
-msgstr ""
+msgstr "Os contrasinais almacénanse con hash usando Argon2."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid "IP address and browser name"
@@ -277,6 +275,8 @@ msgid ""
 "The removal, correction, and retrieval of your Personal Data can be done "
 "from the account management, and is fully automated."
 msgstr ""
+"A eliminación, corrección e recuperación dos seus datos persoais pódese "
+"facer desde a xestión da conta e estopase enteira automatizada."
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
@@ -622,15 +622,7 @@ msgstr ""
 "consentimento é outorgado até que o usuario elimine a súa conta do servizo."
 
 #: wllegal/templates/legal/documents/tos.html:103
-#, fuzzy, python-format
-#| msgid ""
-#| "The purpose of the processing of Personal Data as determined by the "
-#| "Provider is the use of Personal Data for sending commercial "
-#| "communications to the subject of the data (the User) through electronic "
-#| "means under Act No. %(law_480_2004)s Coll., on certain services of the "
-#| "information society, as amended, and further for marketing and business "
-#| "needs of the Provider’s contractual partners and for statistical and/or "
-#| "marketing purposes of the Provider."
+#, python-format
 msgid ""
 "The purpose of the processing of Personal Data as determined by the Provider "
 "is the use of Personal Data for sending commercial communications to the "
@@ -639,13 +631,13 @@ msgid ""
 "amended, and further for business needs of the Provider’s contractual "
 "partners and for statistical purposes of the Provider."
 msgstr ""
-"O obxectivo do procesamento dos Datos Persoais tal e coma determinou o "
-"Fornecedor é o emprego dos Datos Persoais para enviar comunicacións "
-"comerciais ó suxeito dos datos (o Usuario) a través de medios electrónicos "
-"baixo a lei número %(law_480_2004)s, nalgúns servizos da sociedade da "
-"información, tal e coma enmendouse, e amais para os fins comerciais e de "
-"\"marketing\" dos socios contractuais do Fornecedor e para fins estatísticos "
-"e/ou comerciais do Fornecedor."
+"A finalidade do tratamento dos datos persoais, tal e como determina o "
+"provedor, é o uso de datos persoais para o envío de comunicacións comerciais "
+"ao suxeito dos datos (o usuario) a través de medios electrónicos conforme á "
+"Lei núm. %(law_480_2004)s Coll., de determinadas servizos da sociedade da "
+"información, segundo a súa modificación, e ademais para as necesidades "
+"comerciais dos socios contractuais do provedor e para fins estatísticos do "
+"provedor."
 
 #: wllegal/templates/legal/documents/tos.html:105
 msgid ""
@@ -758,29 +750,19 @@ msgstr ""
 "que esta aceptación non é revogábel pola natureza do SCV."
 
 #: wllegal/templates/legal/documents/tos.html:133
-#, fuzzy, python-format
-#| msgid ""
-#| "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
-#| "electronic communication, as ammended, the User is informed that the "
-#| "Service uses cookies."
+#, python-format
 msgid ""
 "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
 "electronic communication, as amended, the User is informed that the Service "
 "uses Cookies."
 msgstr ""
-"No senso do artigo 89 da Lei número %(law_480_2004)s Coll. sobre "
-"comunicación electrónica, na súa versión modificada, infórmase ó Usuario de "
-"que o Servizo emprega cookies."
+"No sentido do artigo 89 da Lei núm. %(law_480_2004)s Coll., das "
+"comunicacións electrónicas, na súa versión modificada, infórmase ao Usuario "
+"de que o Servizo utiliza Cookies."
 
 #: wllegal/templates/legal/documents/tos.html:135
-#, fuzzy
-#| msgid ""
-#| "The Service uses cookies to personalise content, and to analyse our "
-#| "traffic."
 msgid "The Service uses Cookies to personalise content."
-msgstr ""
-"O Servizo emprega cookies para personalizar o contido e analizar o noso "
-"tráfico."
+msgstr "O Servizo utiliza cookies para persoalizar o contido."
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid "Governing Law"
