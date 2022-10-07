@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2022-10-04 18:20+0000\n"
+"PO-Revision-Date: 2022-10-10 17:58+0000\n"
 "Last-Translator: Coool (github.com/Coool) <coool@mail.lv>\n"
 "Language-Team: Latvian <https://hosted.weblate.org/projects/weblate/legal/lv/"
 ">\n"
@@ -92,31 +92,35 @@ msgstr "Paroles tiek saglabātas šifrētas, izmantojot Argon2."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid "IP address and browser name"
-msgstr ""
+msgstr "IP adrese un pārlūkprogrammas nosaukums"
 
 #: wllegal/templates/legal/documents/privacy.html:34
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen"
 msgstr ""
+"Tie tiek reģistrēti, ja tiek veiktas svarīgas izmaiņas jūsu kontā (piemēram, "
+"paroles maiņa), lai varētu veikt diagnostiku konta nozagšanas gadījumā"
 
 #: wllegal/templates/legal/documents/privacy.html:36
 msgid "Billing information"
-msgstr ""
+msgstr "Rēķinu informācija"
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
 "In case you purchase service from us, we collect additional billing "
 "information necessary for issuing an invoice"
 msgstr ""
+"Ja iegādājaties pakalpojumu no mums, mēs ievācam papildus informāciju, kas "
+"nepieciešama rēķina izrakstīšanai"
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
-msgstr ""
+msgstr "Personas datu apstrādes mērķis un juridiskais pamats"
 
 #: wllegal/templates/legal/documents/privacy.html:43
 msgid "Your Personal Data will be used for the purposes of the Service:"
-msgstr ""
+msgstr "Jūsu personas dati tiks izmantoti pakalpojuma vajadzībām:"
 
 #: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
@@ -127,6 +131,11 @@ msgid ""
 "contractual or pre-contractual obligations (<a href=\"%(url)s\">Article 6 "
 "(1) b. GDPR</a>)"
 msgstr ""
+"nodrošināt mūsu pakalpojumus, kas saistīti ar pakalpojumu, un sazināties ar "
+"jums jautājumos par mūsu pakalpojumiem (tostarp izmantojot e-pastu un "
+"ziņojumapmaiņu) un būt pārliecinātiem par mūsu pakalpojumu tehnisko "
+"funkcionalitāti, pildot līgumsaistības vai pirmslīguma saistības (<a href=\""
+"%(url)s\">VDAR(GDPR) 6. panta 1. punkta b) apakšpunkts</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:48
 #, python-format
@@ -134,6 +143,8 @@ msgid ""
 "to analyze your use of our services and improve our services (<a href="
 "\"%(url)s\">Article 6 (1) b. and f. GDPR</a>)"
 msgstr ""
+"lai analizētu mūsu pakalpojumu izmantošanu un uzlabotu mūsu pakalpojumus (<a "
+"href=\"%(url)s\">VDAR(GDPR) 6. panta 1. punkta b) un f) apakšpunkts</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:49
 #, python-format
@@ -188,7 +199,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "Your rights"
-msgstr ""
+msgstr "Jūsu tiesības"
 
 #: wllegal/templates/legal/documents/privacy.html:73
 msgid ""
@@ -274,7 +285,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
-msgstr ""
+msgstr "Skatīt angļu valodas versiju"
 
 #: wllegal/templates/legal/documents/tos.html:11
 msgid ""
@@ -290,15 +301,15 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid "Definitions"
-msgstr ""
+msgstr "Definīcijas"
 
 #: wllegal/templates/legal/documents/tos.html:22
 msgid "In these Terms of Service:"
-msgstr ""
+msgstr "Šajos pakalpojumu sniegšanas noteikumos:"
 
 #: wllegal/templates/legal/documents/tos.html:26
 msgid "Agreement"
-msgstr ""
+msgstr "Līgums"
 
 #: wllegal/templates/legal/documents/tos.html:27
 msgid ""
@@ -309,7 +320,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:29
 msgid "Civil Code"
-msgstr ""
+msgstr "Civilkodekss"
 
 #: wllegal/templates/legal/documents/tos.html:30
 #, python-format
@@ -318,7 +329,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:32
 msgid "Consent"
-msgstr ""
+msgstr "Vienošanās"
 
 #: wllegal/templates/legal/documents/tos.html:33
 msgid ""
@@ -340,7 +351,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:39
 msgid "GDPR"
-msgstr ""
+msgstr "VDAR(GDPR)"
 
 #: wllegal/templates/legal/documents/tos.html:40
 #, python-format
