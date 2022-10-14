@@ -8,11 +8,11 @@
 # Alex Ky <esthomolupus@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2021-07-23 12:32+0000\n"
-"Last-Translator: Zmicer Turok <nashtlumach@gmail.com>\n"
+"PO-Revision-Date: 2022-10-17 00:57+0000\n"
+"Last-Translator: Viktar Vauchkevich <victorenator@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/weblate/legal/"
 "be/>\n"
 "Language: be\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.7.2-dev\n"
+"X-Generator: Weblate 4.15-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -90,7 +90,7 @@ msgstr "Выкарыстоўваецца для аўтэнтыфікацыі к�
 
 #: wllegal/templates/legal/documents/privacy.html:31
 msgid "Passwords are stored hashed using Argon2."
-msgstr ""
+msgstr "Паролі захоўваюцца хэшаваннымі Argon2."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid "IP address and browser name"
@@ -271,6 +271,8 @@ msgid ""
 "The removal, correction, and retrieval of your Personal Data can be done "
 "from the account management, and is fully automated."
 msgstr ""
+"Выдаленне, выпраўленне і атрыманне вашых асабістых даных можа быць выканана "
+"са старонкі кіравання контам і поўнасць аўтаматызава."
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
@@ -614,15 +616,7 @@ msgstr ""
 "свой акаўнт."
 
 #: wllegal/templates/legal/documents/tos.html:103
-#, fuzzy, python-format
-#| msgid ""
-#| "The purpose of the processing of Personal Data as determined by the "
-#| "Provider is the use of Personal Data for sending commercial "
-#| "communications to the subject of the data (the User) through electronic "
-#| "means under Act No. %(law_480_2004)s Coll., on certain services of the "
-#| "information society, as amended, and further for marketing and business "
-#| "needs of the Provider’s contractual partners and for statistical and/or "
-#| "marketing purposes of the Provider."
+#, python-format
 msgid ""
 "The purpose of the processing of Personal Data as determined by the Provider "
 "is the use of Personal Data for sending commercial communications to the "
@@ -635,9 +629,9 @@ msgstr ""
 "выкарыстанне Асабістых даных для перадачы камерцыйных паведамленняў суб'екту "
 "даных (Карыстальніку) пры дапамозе электронных сродкаў, прадугледжаных "
 "Законам № %(law_480_2004)s Зводу законаў пра некаторыя паслугі "
-"інфармацыйнага грамадства з выпраўленнямі, і надалей для маркетынгавых і "
-"справавых патрэб кантрактных партнёраў Пастаўшчыка, а таксама для "
-"статыстычных і / або маркетынгавых мэтаў Пастаўшчыка."
+"інфармацыйнага грамадства з выпраўленнямі, і надалей для справавых патрэб "
+"кантрактных партнёраў Пастаўшчыка, а таксама для статыстычных мэтаў "
+"Пастаўшчыка."
 
 #: wllegal/templates/legal/documents/tos.html:105
 msgid ""
@@ -748,29 +742,19 @@ msgstr ""
 "дазвол немагчыма адклікаць праз сутнасць VCS."
 
 #: wllegal/templates/legal/documents/tos.html:133
-#, fuzzy, python-format
-#| msgid ""
-#| "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
-#| "electronic communication, as ammended, the User is informed that the "
-#| "Service uses cookies."
+#, python-format
 msgid ""
 "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
 "electronic communication, as amended, the User is informed that the Service "
 "uses Cookies."
 msgstr ""
-"Па сэнсу артыкула 89 Закона няма. %(law_480_2004)s Зводу законаў аб "
-"электроннай сувязі з выпраўленнямі, Карыстальнік разумее, што Паслуга "
-"выкарыстоўвае cookies."
+"Па сэнсу артыкула 89 Закона № %(law_480_2004)s Зводу законаў аб электроннай "
+"сувязі з выпраўленнямі, Карыстальнік разумее, што Паслуга выкарыстоўвае "
+"Cookies."
 
 #: wllegal/templates/legal/documents/tos.html:135
-#, fuzzy
-#| msgid ""
-#| "The Service uses cookies to personalise content, and to analyse our "
-#| "traffic."
 msgid "The Service uses Cookies to personalise content."
-msgstr ""
-"Паслуга выкарыстоўвае cookies для персаналізацыі змесціва і для аналізу "
-"нашага трафіку."
+msgstr "Паслуга выкарыстоўвае Cookies для персаналізацыі змесціва."
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid "Governing Law"
