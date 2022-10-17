@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2021-09-22 21:13+0000\n"
-"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"PO-Revision-Date: 2022-10-17 15:22+0000\n"
+"Last-Translator: Kaya Zeren <kayazeren@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/weblate/legal/tr/"
 ">\n"
 "Language: tr\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.9-dev\n"
+"X-Generator: Weblate 4.15-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -131,10 +131,11 @@ msgid ""
 "contractual or pre-contractual obligations (<a href=\"%(url)s\">Article 6 "
 "(1) b. GDPR</a>)"
 msgstr ""
-"hizmetlerimizi hizmete sunmak için, hizmetlerimizle ilgili konularda sizinle "
-"iletişim kurmak (ayrıca e-postalar ve mesajlaşma yoluyla) ve hizmetlerimizin "
-"teknik işlevselliğini sözleşme veya sözleşme öncesi yükümlülüklerin yerine "
-"getirilmesini sağlamak <a href=\"%(url)s\">Madde 6 (1) b. GDPR</a>)"
+"hizmetlerimizi hizmet ile sunmak için, hizmetlerimizle ilgili konularda "
+"sizinle iletişim kurmak (ayrıca e-posta ve iletiler yoluyla) ve "
+"hizmetlerimizin teknik işlevselliğini sözleşme veya sözleşme öncesi "
+"yükümlülüklerin yerine getirilmesini sağlamak <a href=\"%(url)s\">Madde 6 (1)"
+" b. GDPR</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:48
 #, python-format
@@ -174,7 +175,7 @@ msgstr "Gerekli olduğunda Kişisel Verilere erişebilecek üçüncü taraflar:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "Persons which are contracted for technical assurance of the service."
-msgstr "Servisin teknik güvencesi için sözleşmeli kişiler."
+msgstr "Servisin teknik güvencesini sağlayan sözleşmeli kişiler."
 
 #: wllegal/templates/legal/documents/privacy.html:60
 msgid "Payment processors."
@@ -221,8 +222,8 @@ msgid ""
 "We want you to always be in control of your Personal Data. To this end, you "
 "have certain rights that allow for it. Under certain conditions, you may:"
 msgstr ""
-"Kişisel Verilerinizi daima kontrol altında tutmanızı istiyoruz. Bu amaçla, "
-"buna izin veren belirli haklara sahipsiniz. Belirli koşullar altında şunları "
+"Kişisel verilerinizin her zaman kontrolunuzda olmasını istiyoruz. Bu amaçla, "
+"bunu sağlayacak belirli haklarınız var. Belirli koşullar altında şunları "
 "yapabilirsiniz:"
 
 #: wllegal/templates/legal/documents/privacy.html:79
@@ -309,7 +310,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:9
 msgid "We use cookies to deliver our services."
-msgstr "Hizmetlerimizi sunmak için çerezleri kullanırız."
+msgstr "Hizmetlerimizi sunmak için tanımlama bilgileri kullanıyoruz."
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
@@ -320,7 +321,7 @@ msgid ""
 "The Terms of Service document is authoritative in English, translations are "
 "provided for your convenience."
 msgstr ""
-"Hizmet Şartları belgesinin İngilizce olanı yetkilidir, çeviriler size "
+"Kullanım koşulları belgesinin İngilizce biçimi geçerlidir. Çeviriler size "
 "kolaylık sağlaması için sunulmuştur."
 
 #: wllegal/templates/legal/documents/tos.html:17
@@ -328,8 +329,8 @@ msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these Terms of Service."
 msgstr ""
-"Hizmetin kullanımından kaynaklanan Kullanıcı ve Sağlayıcının hak ve "
-"yükümlülükleri, bu Hizmet Şartlarına tabidir."
+"Hizmetin kullanımından kaynaklanan kullanıcı ve hizmet sağlayıcının hak ve "
+"yükümlülükleri, bu kullanım koşullarına tabidir."
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid "Definitions"
@@ -337,7 +338,7 @@ msgstr "Tanımlar"
 
 #: wllegal/templates/legal/documents/tos.html:22
 msgid "In these Terms of Service:"
-msgstr "Bu Hizmet Koşullarında:"
+msgstr "Bu kullanım koşullarında:"
 
 #: wllegal/templates/legal/documents/tos.html:26
 msgid "Agreement"
@@ -372,13 +373,13 @@ msgid ""
 "means the User’s consent with these Terms of Service and other legal "
 "documents expressed by checking the checkbox during the registration"
 msgstr ""
-"Kayıt sırasında onay kutusunu işaretlemek bu Hizmet Şartları ve diğer yasal "
-"belgelerin Kullanıcı tarafından onaylanması anlamına gelir"
+"Hesap açarken kutuyu işaretlemek bu kullanım koşulları ve diğer yasal "
+"belgelerin kullanıcı tarafından onaylandığı anlamına gelir"
 
 #: wllegal/templates/legal/documents/tos.html:35
 #: wllegal/templates/legal/documents/tos.html:131
 msgid "Cookies"
-msgstr "Tanımlama Bilgileri"
+msgstr "Tanımlama bilgileri"
 
 #: wllegal/templates/legal/documents/tos.html:36
 msgid ""
@@ -435,8 +436,9 @@ msgid ""
 "means personal data within the meaning of EU Regulation No. %(law_679_2016)s "
 "inserted by the User into the Service and/or Cookies"
 msgstr ""
-"Kullanıcı tarafından Hizmete ve / veya Çerezlere Eklenen %(law_679_2016)s "
-"sayılı AB Yönetmeliği anlamındaki kişisel veriler anlamına gelir"
+"kullanıcı tarafından hizmete ve/veya tanımlama bilgilerine eklenen "
+"%(law_679_2016)s sayılı AB Yönetmeliği anlamındaki kişisel veriler anlamına "
+"gelir"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Owner"
@@ -520,8 +522,8 @@ msgid ""
 "By concluding Agreement under Article 2.1 of this Agreement, the following "
 "provisions of this Article 3 of the Terms of Service come into force."
 msgstr ""
-"İşbu Anlaşmanın 2.1 Maddesi uyarınca Sözleşme imzalayarak, Hizmet "
-"Şartları'nın 3. maddesinin aşağıdaki hükümleri yürürlüğe girer."
+"Bu anlaşmanın 2.1 maddesi uyarınca anlaşma imzalandığında, kullanım "
+"koşullarının 3. maddesinin aşağıdaki hükümleri yürürlüğe girer."
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid ""
@@ -529,9 +531,9 @@ msgid ""
 "this License Agreement, all this under the terms and conditions stated in "
 "these Terms of Service."
 msgstr ""
-"Sağlayıcı, Kullanıcıya bir Lisans Anlaşması sunar ve Kullanıcı, bu Hizmet "
-"Şartlarında belirtilen şartlar ve koşullar altında bu Lisans Anlaşmasını "
-"kabul eder."
+"Hizmet sağlayıcı, kullanıcıya bir lisans anlaşması sunar ve kullanıcı, bu "
+"kullanım koşullarında belirtilen hüküm ve koşullar altında bu lisans "
+"anlaşmasını kabul eder."
 
 #: wllegal/templates/legal/documents/tos.html:82
 msgid ""
@@ -586,10 +588,10 @@ msgid ""
 "Provider to the User through a breach of any obligation contained in these "
 "Terms of Service and/or resulting from the use of the Service."
 msgstr ""
-"Kullanıcı bir girişimci ise, bu Hizmet Şartlarında yer alan ve/veya Hizmetin "
-"kullanımından doğacak herhangi bir yükümlülüğü ihlal etmek suretiyle, "
-"Sağlayıcının istemeden Kullanıcıya doğuracağı zarar için Sağlayıcıdan "
-"tazminat etme hakkını açıkça reddeder."
+"Kullanıcı bir girişimci ise, bu kullanım koşullarında yer alan ve/veya "
+"hizmetin kullanımından doğacak herhangi bir yükümlülüğü ihlal etmek "
+"suretiyle, hizmet sağlayıcının istemeden kullanıcıya doğuracağı zararlar "
+"için hizmet sağlayıcıdan tazminat etme hakkından açıkça feragat eder."
 
 #: wllegal/templates/legal/documents/tos.html:101
 #, python-format
@@ -684,9 +686,9 @@ msgid ""
 "a free and informed juridical act which concerns the consent of the subject "
 "of the data (the User) with processing of the Personal Data."
 msgstr ""
-"Kullanıcının Hizmet Şartları'nın 5. Maddesi uyarınca kabul etmesi, Kişisel "
-"Verilerin işlenmesiyle verilerin (Kullanıcı) konusunun rızasını ilgilendiren "
-"ücretsiz ve bilgilendirilmiş bir adli işlem oluşturur."
+"Kullanım koşulları metninin 5. maddesi uyarınca kullanıcının onayı, kişisel "
+"verilerin işlenmesiyle verilerin (kullanıcı) konusunun rızasını ilgilendiren "
+"özgür ve bilgilendirilmiş bir adli işlem oluşturur."
 
 #: wllegal/templates/legal/documents/tos.html:118
 msgid "Translations"
@@ -742,13 +744,13 @@ msgid ""
 "electronic communication, as amended, the User is informed that the Service "
 "uses Cookies."
 msgstr ""
-"%(law_480_2004)s Coll. 89. Madde Kanununun anlamı uyarınca, elektronik "
-"iletişimde, değiştirildiği şekliyle, Kullanıcıya Hizmetin Tanımlama "
-"Bilgilerini kullandığını bildirir."
+"%(law_480_2004)s Coll. kanununun 89. maddesi uyarınca, elektronik "
+"iletişimde, değiştirildiği şekliyle, kullanıcıya hizmetin tanımlama "
+"bilgileri kaydettiği bildirilir."
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid "The Service uses Cookies to personalise content."
-msgstr "Hizmet, içeriği kişiselleştirmek için Tanımlama Bilgilerini kullanır."
+msgstr "Hizmet, içeriği kişiselleştirmek için tanımlama bilgilerini kullanır."
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid "Governing Law"
@@ -759,7 +761,7 @@ msgid ""
 "These Terms of Service shall be governed by the laws of the Czech Republic "
 "with exclusion of conflict rules."
 msgstr ""
-"Bu Hizmet Şartları, çatışma kurallarının hariç tutulmasıyla Çek Cumhuriyeti "
+"Bu kullanım koşulları, çatışma kurallarının dışında Çek Cumhuriyeti "
 "yasalarına tabidir."
 
 #: wllegal/templates/legal/documents/tos.html:142
@@ -768,9 +770,9 @@ msgid ""
 "Service shall be resolved by the court of the Czech republic having "
 "substantive and local jurisdiction."
 msgstr ""
-"Anlaşma ve/veya bu Hizmet Şartları temelinde ortaya çıkan anlaşmazlıklar, "
+"Anlaşma ve/veya bu kullanım koşulları temelinde ortaya çıkan anlaşmazlıklar, "
 "temel ve yerel yargı yetkisine sahip Çek Cumhuriyeti mahkemesi tarafından "
-"çözülecektir."
+"çözümlenecektir."
 
 #: wllegal/templates/legal/documents/tos.html:145
 msgid "Effect"
@@ -780,7 +782,7 @@ msgstr "Etki"
 msgid ""
 "These Terms of Service shall come into force and effect on 1st September "
 "2017."
-msgstr "Bu Hizmet Şartları 1 Eylül 2017'de yürürlüğe girecektir."
+msgstr "Bu kullanım koşulları 1 Eylül 2017 tarihinde yürürlüğe girecektir."
 
 #~ msgid "Generate Unknown Horizons scenario data"
 #~ msgstr "Unknown Horizons senaryo verilerini oluştur"
