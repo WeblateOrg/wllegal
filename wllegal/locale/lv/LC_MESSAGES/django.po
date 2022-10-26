@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2022-10-10 17:58+0000\n"
+"PO-Revision-Date: 2022-10-26 14:26+0000\n"
 "Last-Translator: Coool (github.com/Coool) <coool@mail.lv>\n"
 "Language-Team: Latvian <https://hosted.weblate.org/projects/weblate/legal/lv/"
 ">\n"
@@ -18,11 +18,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n % 10 == 0 || n % 100 >= 11 && n % 100 <= "
 "19) ? 0 : ((n % 10 == 1 && n % 100 != 11) ? 1 : 2);\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 4.14.2-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr ""
+msgstr "Apakšuzņēmēji saskaņā ar GDPR 28. pantu"
 
 #: wllegal/templates/legal/documents/contracts.html:10
 msgid "Status as of October 2020."
@@ -35,6 +35,9 @@ msgid ""
 "Protection Regulation, also known as GDPR. This document includes necessary "
 "specifications."
 msgstr ""
+"Mēs ievērojam regulu Nr. %(law_679_2016)s, Vispārīgo datu aizsardzības "
+"regulu, kas pazīstama arī kā GDPR. Šis dokuments iekļauj nepieciešamās "
+"specifikācijas."
 
 #: wllegal/templates/legal/documents/privacy.html:9
 msgid "Personal Data Controller"
@@ -153,25 +156,30 @@ msgid ""
 "activities or send you newsletters (<a href=\"%(url)s\">Article 6 (1) a. "
 "GDPR</a>)"
 msgstr ""
+"ar jūsu nepārprotamu piekrišanu vai norādījumiem, lai veiktu mūsu "
+"uzņēmējdarbību vai nosūtītu jums informatīvos izdevumus (<a href=\"%(url)s\""
+">VDAR(GDPR) 6. panta 1. punkts a.</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:52
 msgid "Access to the Personal Data"
-msgstr ""
+msgstr "Piekļuve personas datiem"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Controller has made all reasonable technical means to protect the "
 "Personal Data. Only authorized persons can access the Personal Data."
 msgstr ""
+"Pārvaldnieks ir veicis visus saprātīgos tehniskos pasākumus personas datu "
+"aizsardzībai. Personas datiem var piekļūt tikai pilnvarotas personas."
 
 #: wllegal/templates/legal/documents/privacy.html:56
 msgid ""
 "Third parties which can gain access to the Personal Data when necessary are:"
-msgstr ""
+msgstr "Trešās personas, kuras vajadzības gadījumā var piekļūt personas datiem:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "Persons which are contracted for technical assurance of the service."
-msgstr ""
+msgstr "Personas, ar kurām noslēgts līgums par pakalpojuma tehnisko drošību."
 
 #: wllegal/templates/legal/documents/privacy.html:60
 msgid "Payment processors."
