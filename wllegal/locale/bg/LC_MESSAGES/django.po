@@ -8,7 +8,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
 "PO-Revision-Date: 2022-10-26 14:26+0000\n"
-"Last-Translator: 109247019824 <stoyan@gmx.com>\n"
+"Last-Translator: Kaloian Kozlev <kbkozlev@gmail.com>\n"
 "Language-Team: Bulgarian <https://hosted.weblate.org/projects/weblate/legal/"
 "bg/>\n"
 "Language: bg\n"
@@ -24,7 +24,7 @@ msgstr "Подизпълнители на основание чл. 28 от ОР�
 
 #: wllegal/templates/legal/documents/contracts.html:10
 msgid "Status as of October 2020."
-msgstr ""
+msgstr "Състояние към октомври 2020 г."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
