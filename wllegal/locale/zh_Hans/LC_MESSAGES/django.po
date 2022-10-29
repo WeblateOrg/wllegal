@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2022-08-15 07:22+0000\n"
+"PO-Revision-Date: 2022-10-29 21:48+0000\n"
 "Last-Translator: yangyangdaji <1504305527@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "weblate/legal/zh_Hans/>\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.14-dev\n"
+"X-Generator: Weblate 4.14.2-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -651,8 +651,8 @@ msgid ""
 "commits. The User understands that this grant is non revocable due to nature "
 "of the VCS."
 msgstr ""
-"用户同意在 VCS 提交中使用他自己的姓名和电子邮箱地址作为作者身份。用户需理解，"
-"由于 VCS 的性质，此授权不可撤销。"
+"用户同意在版本控制系统（VCS）提交中使用他自己的姓名和电子邮箱地址作为作者身份"
+"。用户需理解，由于版本控制系统（VCS）的性质，此授权不可撤销。"
 
 #: wllegal/templates/legal/documents/tos.html:133
 #, python-format
