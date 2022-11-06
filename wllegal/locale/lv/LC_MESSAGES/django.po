@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2022-10-27 06:43+0000\n"
+"PO-Revision-Date: 2022-11-07 19:02+0000\n"
 "Last-Translator: Coool (github.com/Coool) <coool@mail.lv>\n"
 "Language-Team: Latvian <https://hosted.weblate.org/projects/weblate/legal/lv/"
 ">\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n % 10 == 0 || n % 100 >= 11 && n % 100 <= "
 "19) ? 0 : ((n % 10 == 1 && n % 100 != 11) ? 1 : 2);\n"
-"X-Generator: Weblate 4.14.2-dev\n"
+"X-Generator: Weblate 4.14.2\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -72,9 +72,9 @@ msgid "Name and e-mail address"
 msgstr "Vārds un e-pasta adrese"
 
 #: wllegal/templates/legal/documents/privacy.html:26
-#, fuzzy
 msgid "These are used to identify you in the VCS commits"
-msgstr "Tie tiek izmantoti, lai identificētu jūs VCS saistībās (commits)"
+msgstr ""
+"Tie tiek izmantoti, lai identificētu jūs VCS iesniegtajās izmaiņās (commits)"
 
 #: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events"
@@ -237,12 +237,16 @@ msgid ""
 "Gain access to all your Personal Data that Weblate uses or processes, and "
 "even get a copy of all of it (<a href=\"%(url)s\">Article 15 GDPR</a>)"
 msgstr ""
+"Iegūt piekļuvi visiem saviem personas datiem, kurus Weblate izmanto vai "
+"apstrādā, kā arī iegūt to pilno kopiju (<a href=\"%(url)s\">VDAR(GDPR) 15. "
+"pants</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:80
 msgid ""
 "Correct the Personal Data that Weblate processes if you think that there are "
 "mistakes"
 msgstr ""
+"Labot personas datus, kurus Weblate apstrādā, ja domājat, ka tie satur kļūdas"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "Order us to delete your Personal Data"
@@ -261,12 +265,16 @@ msgid ""
 "Receive your Personal Data in a commonly used and machine-readable format or "
 "to transmit this Personal Data to a different provider."
 msgstr ""
+"Iegūt savus personas datus parastā un mašīnlasāmā formātā vai pārsūtīt šos "
+"personas datus citam pakalpojuma sniedzējam."
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid ""
 "The removal, correction, and retrieval of your Personal Data can be done "
 "from the account management, and is fully automated."
 msgstr ""
+"Jūsu personas datu dzēšanu, labošanu vai ieguvi var veikt no kontu "
+"pārvaldības, un tā ir pilnībā automatizēta."
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
@@ -280,12 +288,16 @@ msgid ""
 "Additional guarantees might apply to commercial customers, those are "
 "expressed in corresponding contracts."
 msgstr ""
+"Papildu garantijas var būt spēkā maksas (komerciāliem) klientiem, tās ir "
+"aprakstītas attiecīgajos līgumos."
 
 #: wllegal/templates/legal/documents/summary.html:6
 msgid ""
 "We process private data (such as your e-mail address), those will be "
 "discarded from our database as soon as you remove your account."
 msgstr ""
+"Mēs apstrādājam privātos datus (piemēram, jūsu e-pasta adresi), tie tiks "
+"izdzēsti no mūsu datu bāzes, tiklīdz izdzēsīsit savu kontu."
 
 #: wllegal/templates/legal/documents/summary.html:7
 msgid ""
@@ -316,12 +328,16 @@ msgid ""
 "The Terms of Service document is authoritative in English, translations are "
 "provided for your convenience."
 msgstr ""
+"Pakalpojuma oficiālie lietošanas noteikumi ir dokumentēti angļu valodā, jūsu "
+"ērtībai tiek sniegti tulkojumi."
 
 #: wllegal/templates/legal/documents/tos.html:17
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these Terms of Service."
 msgstr ""
+"Šie pakalpojuma noteikumi regulē lietotāja un pakalpojuma sniedzēja tiesības "
+"un pienākumus, kas rodas pakalpojuma izmantošanas rezultātā."
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid "Definitions"
@@ -341,6 +357,8 @@ msgid ""
 "Civil Code concluded by and between the User and the Provider upon the "
 "Consent"
 msgstr ""
+"licences līgums (tādā nozīmē, kādā to interpretē ar Civilkodeksa 2358. pantu)"
+", kas noslēgts starp lietotāju un pakalpojuma sniedzēju ar viņu piekrišanu"
 
 #: wllegal/templates/legal/documents/tos.html:29
 msgid "Civil Code"
@@ -349,7 +367,7 @@ msgstr "Civilkodekss"
 #: wllegal/templates/legal/documents/tos.html:30
 #, python-format
 msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
-msgstr ""
+msgstr "likums Nr. %(law_89_2012)s Coll., Čehijas Civilkodekss ar grozījumiem"
 
 #: wllegal/templates/legal/documents/tos.html:32
 msgid "Consent"
