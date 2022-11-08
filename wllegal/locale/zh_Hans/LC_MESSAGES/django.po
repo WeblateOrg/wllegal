@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2022-11-08 06:09+0000\n"
+"PO-Revision-Date: 2022-11-09 12:47+0000\n"
 "Last-Translator: yangyangdaji <1504305527@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "weblate/legal/zh_Hans/>\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.14.2\n"
+"X-Generator: Weblate 4.15-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -276,7 +276,7 @@ msgstr "我们会处理私有数据（如您的电子邮箱地址），在您删
 msgid ""
 "Your translations are made under license which is specified by each "
 "translation."
-msgstr "你的译文是在每个译文指定的许可证下进行的。"
+msgstr "你的翻译是在每个翻译指定的许可证下进行的。"
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
@@ -298,7 +298,7 @@ msgstr "查看英文版"
 msgid ""
 "The Terms of Service document is authoritative in English, translations are "
 "provided for your convenience."
-msgstr "英文版的服务条款文档具有权威性，为方便您的使用，我们提供了译文。"
+msgstr "英文版的服务条款文档具有权威性，为方便您的使用，我们提供了翻译。"
 
 #: wllegal/templates/legal/documents/tos.html:17
 msgid ""
@@ -618,7 +618,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:118
 msgid "Translations"
-msgstr "译文"
+msgstr "翻译"
 
 #: wllegal/templates/legal/documents/tos.html:120
 msgid ""
@@ -631,7 +631,7 @@ msgstr "该服务将翻译组织成单独的项目，所有者负责管理这些
 msgid ""
 "Not specifying translation license means that the translations are available "
 "under same license as the given Project itself."
-msgstr "不指定译文许可证意味着译文在与项目本身相同的许可下可用。"
+msgstr "不指定翻译许可证意味着翻译在与项目本身相同的许可下可用。"
 
 #: wllegal/templates/legal/documents/tos.html:124
 msgid ""
