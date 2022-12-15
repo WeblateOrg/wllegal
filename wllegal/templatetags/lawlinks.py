@@ -82,7 +82,7 @@ def law_url(context, coll, year=None, scope=None):
     key = (year, coll)
     if context["LANGUAGE_CODE"] != "cs" and key in LINKS:
         url = LINKS[key]
-    return url
+    return url  # noqa: R504
 
 
 @register.simple_tag(takes_context=True)
