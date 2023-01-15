@@ -18,8 +18,7 @@
 #
 
 from django import template
-from django.utils.html import escape
-from django.utils.safestring import mark_safe
+from django.utils.html import format_html
 
 register = template.Library()
 
@@ -88,4 +87,4 @@ def law_url(context, coll, year=None, scope=None):
 @register.simple_tag(takes_context=True)
 def law_link(context, coll, year=None, scope=None):
     url = law_url(context, coll, year, scope)
-    return mark_safe(f'<a href="{escape(url)}">{coll}/{year}</a>')
+    return format_html('<a href="{}">{}/{}</a>', url, coll, year)
