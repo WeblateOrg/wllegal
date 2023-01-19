@@ -1,4 +1,4 @@
 pytest
 pytest-cov
 translate-toolkit
-twine
+twine==4.0.2
