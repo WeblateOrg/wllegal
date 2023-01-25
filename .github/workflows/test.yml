@@ -31,11 +31,6 @@ jobs:
           POSTGRES_PASSWORD: postgres
     steps:
     - uses: actions/checkout@v3
-    - name: Cache pip
-      uses: actions/cache@v3
-      with:
-        path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ matrix.python-version }}-${{ hashFiles('**/requirements*.txt') }}
     - name: Install apt dependencies
       run: |
         sudo apt update
@@ -44,6 +39,8 @@ jobs:
       uses: actions/setup-python@v4
       with:
         python-version: ${{ matrix.python-version }}
+        cache: pip
+        cache-dependency-path: requirements*.txt
     - name: Install pip dependencies
       run: |
         pip install --upgrade pip wheel Cython setuptools
