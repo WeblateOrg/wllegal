@@ -2,4 +2,3 @@
 -r requirements.txt
 coverage==7.1.0
 translate-toolkit
-twine==4.0.2
