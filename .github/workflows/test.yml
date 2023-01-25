@@ -4,7 +4,7 @@ on: [push, pull_request]
 
 jobs:
   test:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     strategy:
       matrix:
         python-version:
@@ -12,6 +12,7 @@ jobs:
         - '3.8'
         - '3.9'
         - '3.10'
+        - '3.11'
     name: Python ${{ matrix.python-version }}
 
     services:
@@ -48,7 +49,7 @@ jobs:
         pip install --upgrade pip wheel Cython setuptools
         pip install --no-binary :all: cffi
         pip install https://github.com/nijel/thepay/archive/weblate.zip
-        pip install -r requirements-dev.txt
+        pip install -r requirements-test.txt
     - name: Test with Django
       env:
         CI_DATABASE: postgresql
