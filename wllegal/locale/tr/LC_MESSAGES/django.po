@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2022-10-17 15:22+0000\n"
+"PO-Revision-Date: 2023-01-30 07:24+0000\n"
 "Last-Translator: Kaya Zeren <kayazeren@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/weblate/legal/tr/"
 ">\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 4.16-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -373,7 +373,7 @@ msgid ""
 "means the User’s consent with these Terms of Service and other legal "
 "documents expressed by checking the checkbox during the registration"
 msgstr ""
-"Hesap açarken kutuyu işaretlemek bu kullanım koşulları ve diğer yasal "
+"Hesap açarken kutuya tıklamak bu kullanım koşulları ve diğer yasal "
 "belgelerin kullanıcı tarafından onaylandığı anlamına gelir"
 
 #: wllegal/templates/legal/documents/tos.html:35
@@ -405,6 +405,7 @@ msgstr ""
 "anlamına gelir"
 
 #: wllegal/templates/legal/documents/tos.html:42
+#, fuzzy
 msgid "License"
 msgstr "Lisans"
 
@@ -449,6 +450,7 @@ msgid "means the User who can manage Project"
 msgstr "Projeyi yönetebilen Kullanıcı anlamına gelir"
 
 #: wllegal/templates/legal/documents/tos.html:54
+#, fuzzy
 msgid "Project"
 msgstr "Proje"
 
