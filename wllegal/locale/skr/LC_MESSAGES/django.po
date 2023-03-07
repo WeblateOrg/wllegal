@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2023-02-14 10:36+0000\n"
+"PO-Revision-Date: 2023-03-08 03:45+0000\n"
 "Last-Translator: پرویز قادر <mpqadir@gmail.com>\n"
 "Language-Team: Saraiki <https://hosted.weblate.org/projects/weblate/legal/"
 "skr/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.16-dev\n"
+"X-Generator: Weblate 4.16.2-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -61,7 +61,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid "Name and e-mail address"
-msgstr ""
+msgstr "ناں تے ای میل پتہ"
 
 #: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits"
@@ -95,7 +95,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:36
 msgid "Billing information"
-msgstr ""
+msgstr "ٻلنگ معلومات"
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -165,7 +165,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid "The Personal Data retention"
-msgstr ""
+msgstr "ذاتی ڈیٹا دی بقا"
 
 #: wllegal/templates/legal/documents/privacy.html:67
 msgid ""
@@ -181,7 +181,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "Your rights"
-msgstr ""
+msgstr "تہاݙے حقوق"
 
 #: wllegal/templates/legal/documents/privacy.html:73
 msgid ""
@@ -267,7 +267,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
-msgstr ""
+msgstr "انگریزی ورشن ݙیکھو"
 
 #: wllegal/templates/legal/documents/tos.html:11
 msgid ""
@@ -283,15 +283,15 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid "Definitions"
-msgstr ""
+msgstr "تعریفاں"
 
 #: wllegal/templates/legal/documents/tos.html:22
 msgid "In these Terms of Service:"
-msgstr ""
+msgstr "انہاں خدمت شرطاں وچ:"
 
 #: wllegal/templates/legal/documents/tos.html:26
 msgid "Agreement"
-msgstr ""
+msgstr "معاہدہ"
 
 #: wllegal/templates/legal/documents/tos.html:27
 msgid ""
@@ -302,7 +302,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:29
 msgid "Civil Code"
-msgstr ""
+msgstr "سول کوڈ"
 
 #: wllegal/templates/legal/documents/tos.html:30
 #, python-format
@@ -333,7 +333,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:39
 msgid "GDPR"
-msgstr ""
+msgstr "جی ڈی پی آر"
 
 #: wllegal/templates/legal/documents/tos.html:40
 #, python-format
@@ -344,7 +344,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:42
 msgid "License"
-msgstr ""
+msgstr "لائسنس"
 
 #: wllegal/templates/legal/documents/tos.html:43
 msgid ""
@@ -354,7 +354,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:45
 msgid "Provider"
-msgstr ""
+msgstr "پرووائیڈر"
 
 #: wllegal/templates/legal/documents/tos.html:46
 #, python-format
@@ -375,7 +375,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Owner"
-msgstr ""
+msgstr "مالک"
 
 #: wllegal/templates/legal/documents/tos.html:52
 msgid "means the User who can manage Project"
@@ -383,7 +383,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:54
 msgid "Project"
-msgstr ""
+msgstr "منصوبہ"
 
 #: wllegal/templates/legal/documents/tos.html:55
 msgid "means translation project operated on the Service"
@@ -391,7 +391,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:57
 msgid "Service"
-msgstr ""
+msgstr "خدمت"
 
 #: wllegal/templates/legal/documents/tos.html:58
 msgid ""
@@ -400,7 +400,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:60
 msgid "Translation Memory"
-msgstr ""
+msgstr "ترجمہ یادداشت"
 
 #: wllegal/templates/legal/documents/tos.html:61
 msgid "means the optional translation memory service provided within Weblate"
@@ -408,7 +408,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:63
 msgid "User"
-msgstr ""
+msgstr "ورتݨ آلا"
 
 #: wllegal/templates/legal/documents/tos.html:64
 msgid ""
@@ -419,7 +419,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:66
 msgctxt "Definition in terms of service"
 msgid "VCS"
-msgstr ""
+msgstr "وی سی ایس"
 
 #: wllegal/templates/legal/documents/tos.html:67
 msgid ""
@@ -439,7 +439,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:76
 msgid "License Agreement"
-msgstr ""
+msgstr "لائسنس معاہدہ"
 
 #: wllegal/templates/legal/documents/tos.html:78
 msgid ""
@@ -629,7 +629,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:145
 msgid "Effect"
-msgstr ""
+msgstr "اثر"
 
 #: wllegal/templates/legal/documents/tos.html:147
 msgid ""
