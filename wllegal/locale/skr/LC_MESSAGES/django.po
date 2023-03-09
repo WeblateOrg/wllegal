@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2023-03-08 03:45+0000\n"
+"PO-Revision-Date: 2023-03-09 22:56+0000\n"
 "Last-Translator: پرویز قادر <mpqadir@gmail.com>\n"
 "Language-Team: Saraiki <https://hosted.weblate.org/projects/weblate/legal/"
 "skr/>\n"
@@ -85,7 +85,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid "IP address and browser name"
-msgstr ""
+msgstr "آئی پی پتہ تے براؤزر ناں"
 
 #: wllegal/templates/legal/documents/privacy.html:34
 msgid ""
@@ -138,7 +138,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:52
 msgid "Access to the Personal Data"
-msgstr ""
+msgstr "ذاتی ڈیٹا تے رسائی"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
@@ -210,7 +210,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "Order us to delete your Personal Data"
-msgstr ""
+msgstr "آپݨا ذاتی ڈیٹا مٹاوݨ کیتے ساکوں حکم ݙیوو"
 
 #: wllegal/templates/legal/documents/privacy.html:82
 msgid "Restrict the Personal Data processing"
@@ -263,7 +263,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:9
 msgid "We use cookies to deliver our services."
-msgstr ""
+msgstr "اساں آپݨیاں خدمتاں حوالے کرݨ کیتے کوکیاں ورتیندے ہیں۔"
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
@@ -311,7 +311,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:32
 msgid "Consent"
-msgstr ""
+msgstr "رضامندی"
 
 #: wllegal/templates/legal/documents/tos.html:33
 msgid ""
@@ -429,7 +429,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:71
 msgid "License Agreement Conclusion"
-msgstr ""
+msgstr "لائسنس معاہدہ نتیجہ"
 
 #: wllegal/templates/legal/documents/tos.html:73
 msgid ""
@@ -481,7 +481,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:91
 msgid "Liability for Damage"
-msgstr ""
+msgstr "نقصان دی ذمے واری"
 
 #: wllegal/templates/legal/documents/tos.html:93
 msgid ""
@@ -564,7 +564,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:118
 msgid "Translations"
-msgstr ""
+msgstr "ترجمے"
 
 #: wllegal/templates/legal/documents/tos.html:120
 msgid ""
@@ -612,7 +612,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid "Governing Law"
-msgstr ""
+msgstr "گورننگ قنون"
 
 #: wllegal/templates/legal/documents/tos.html:140
 msgid ""
