@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2023-03-09 22:56+0000\n"
+"PO-Revision-Date: 2023-03-12 20:08+0000\n"
 "Last-Translator: پرویز قادر <mpqadir@gmail.com>\n"
 "Language-Team: Saraiki <https://hosted.weblate.org/projects/weblate/legal/"
 "skr/>\n"
@@ -25,7 +25,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/contracts.html:10
 msgid "Status as of October 2020."
-msgstr ""
+msgstr "اکتوبر ٢٠٢٠دا سٹیٹس۔"
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -42,7 +42,7 @@ msgstr "ذاتی ڈیٹا کنٹرولر"
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
 msgid "%(provider)s, Reg. No. %(reg_no)s"
-msgstr ""
+msgstr "%(provider)s، رجصٹڑیشن نمبر %(reg_no)s"
 
 #: wllegal/templates/legal/documents/privacy.html:15
 #, python-format
@@ -53,7 +53,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:17
 msgid "Personal Data processed by Weblate"
-msgstr ""
+msgstr "Weblate ولوں عمل تھیا ذاتی ڈیٹا"
 
 #: wllegal/templates/legal/documents/privacy.html:20
 msgid "Weblate only processes Personal Data the User provides by using it:"
@@ -73,7 +73,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
-msgstr ""
+msgstr "ہیش تھئی شکل وچ پاس ورڈ"
 
 #: wllegal/templates/legal/documents/privacy.html:30
 msgid "Used to authenticate the User, if configured"
@@ -157,11 +157,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:60
 msgid "Payment processors."
-msgstr ""
+msgstr "ادائیگی دے پراسیسر۔"
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
-msgstr ""
+msgstr "سارا ذاتی ڈیٹا یورپی یونین وچ سٹور تھیندا ہے۔"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid "The Personal Data retention"
@@ -608,7 +608,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid "The Service uses Cookies to personalise content."
-msgstr ""
+msgstr "مواد کوں ذاتی بݨاوݨ کیتے ایہ خدمت کوکیاں ورتیندی ہے۔"
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid "Governing Law"
