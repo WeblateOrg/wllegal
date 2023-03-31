@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2023-03-29 12:40+0000\n"
+"PO-Revision-Date: 2023-04-01 00:26+0000\n"
 "Last-Translator: پرویز قادر <mpqadir@gmail.com>\n"
 "Language-Team: Saraiki <https://hosted.weblate.org/projects/weblate/legal/"
 "skr/>\n"
@@ -109,7 +109,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:43
 msgid "Your Personal Data will be used for the purposes of the Service:"
-msgstr ""
+msgstr "تہاݙا ذاتی ڈیٹا ایں خدمت دے مقصد کیتے ورتیا ویسی:"
 
 #: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
