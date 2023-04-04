@@ -19,8 +19,8 @@
 
 import os.path
 
-from weblate.settings_test import *
+from weblate.settings_test import *  # noqa: F403
 
-INSTALLED_APPS = ["wllegal"] + list(INSTALLED_APPS)
+INSTALLED_APPS = ["wllegal", *list(INSTALLED_APPS)]  # noqa: F405
 
 LOCALE_PATHS = [os.path.join(os.path.dirname(__file__), "locale")]

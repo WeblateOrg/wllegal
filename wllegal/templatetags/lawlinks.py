@@ -29,7 +29,7 @@ LINKS = {
     (
         2004,
         480,
-    ): "https://www.uoou.cz/en/vismo/zobraz_dok.asp?id_org=200156&id_ktg=1155&archiv=0",  # noqa:E501
+    ): "https://www.uoou.cz/en/vismo/zobraz_dok.asp?id_org=200156&id_ktg=1155&archiv=0",
 }
 
 EU_LINK = "https://eur-lex.europa.eu/legal-content/ALL/?uri=celex:3{}R0{}"
@@ -81,7 +81,7 @@ def law_url(context, coll, year=None, scope=None):
     key = (year, coll)
     if context["LANGUAGE_CODE"] != "cs" and key in LINKS:
         url = LINKS[key]
-    return url  # noqa: R504
+    return url
 
 
 @register.simple_tag(takes_context=True)
