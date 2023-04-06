@@ -1,4 +1,4 @@
 -r requirements-optional.txt
 -r requirements.txt
-coverage==7.2.2
+coverage==7.2.3
 translate-toolkit
