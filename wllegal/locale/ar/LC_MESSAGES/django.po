@@ -7,28 +7,28 @@
 # Omar Aglan <omar.aglan91@yahoo.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2021-01-28 08:54+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Arabic <https://hosted.weblate.org/projects/weblate/legal/ar/"
-">\n"
+"PO-Revision-Date: 2023-04-18 06:44+0000\n"
+"Last-Translator: Meno25 <meno25mail@gmail.com>\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/weblate/legal/ar/>"
+"\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 4.5-dev\n"
+"X-Generator: Weblate 4.17\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr ""
+msgstr "المقاولون من الباطن وفقا للفن. 28 اللائحة العامة لحماية البيانات"
 
 #: wllegal/templates/legal/documents/contracts.html:10
 msgid "Status as of October 2020."
-msgstr ""
+msgstr "الحالة اعتبارا من أكتوبر 2020."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -37,6 +37,8 @@ msgid ""
 "Protection Regulation, also known as GDPR. This document includes necessary "
 "specifications."
 msgstr ""
+"نحن نلتزم باللائحة رقم %(law_679_2016)s ، اللائحة العامة لحماية البيانات ، "
+"والمعروفة أيضا باسم GDPR. يتضمن هذا المستند المواصفات اللازمة."
 
 #: wllegal/templates/legal/documents/privacy.html:9
 msgid "Personal Data Controller"
@@ -67,18 +69,18 @@ msgstr ""
 "عند استعمال المنصة:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
-#, fuzzy
-#| msgid "Name and e-mail"
 msgid "Name and e-mail address"
-msgstr "الإسم و البريد الإلكتروني"
+msgstr "الاسم وعنوان البريد الإلكتروني"
 
 #: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits"
-msgstr ""
+msgstr "يتم استخدامها لتحديد هويتك في التزامات VCS"
 
 #: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events"
 msgstr ""
+"بالإضافة إلى ذلك ، يتم استخدام البريد الإلكتروني للإخطار بالأحداث التي تمت "
+"مشاهدتها"
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
@@ -90,7 +92,7 @@ msgstr "يُستخدم لمصادقة المستخدم إن تم إعداده"
 
 #: wllegal/templates/legal/documents/privacy.html:31
 msgid "Passwords are stored hashed using Argon2."
-msgstr ""
+msgstr "يتم تخزين كلمات المرور مجزأة باستخدام Argon2."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid "IP address and browser name"
@@ -133,6 +135,10 @@ msgid ""
 "contractual or pre-contractual obligations (<a href=\"%(url)s\">Article 6 "
 "(1) b. GDPR</a>)"
 msgstr ""
+"لتقديم خدماتنا على الخدمة ، للاتصال بك في الأمور المتعلقة بخدماتنا (أيضا عن "
+"طريق رسائل البريد الإلكتروني والرسائل) ولضمان الأداء الفني لخدماتنا الوفاء "
+"بالالتزامات التعاقدية أو ما قبل التعاقدية (<a href=\"%(url)s\">المادة 6 (1) "
+"ب. اللائحة العامة لحماية البيانات)</a>"
 
 #: wllegal/templates/legal/documents/privacy.html:48
 #, python-format
@@ -140,6 +146,8 @@ msgid ""
 "to analyze your use of our services and improve our services (<a href="
 "\"%(url)s\">Article 6 (1) b. and f. GDPR</a>)"
 msgstr ""
+"لتحليل استخدامك لخدماتنا وتحسين خدماتنا (<a href=\"%(url)s\">المادة 6 (1) ب. "
+"و و. اللائحة العامة لحماية البيانات)</a>"
 
 #: wllegal/templates/legal/documents/privacy.html:49
 #, python-format
@@ -148,6 +156,8 @@ msgid ""
 "activities or send you newsletters (<a href=\"%(url)s\">Article 6 (1) a. "
 "GDPR</a>)"
 msgstr ""
+"بموافقتك الصريحة أو تعليماتك لتنفيذ أنشطتنا التجارية أو إرسال رسائل إخبارية "
+"إليك (<a href=\"%(url)s\">المادة 6 (1) أ. اللائحة العامة لحماية البيانات)</a>"
 
 #: wllegal/templates/legal/documents/privacy.html:52
 msgid "Access to the Personal Data"
@@ -158,6 +168,8 @@ msgid ""
 "The Controller has made all reasonable technical means to protect the "
 "Personal Data. Only authorized persons can access the Personal Data."
 msgstr ""
+"اتخذ المراقب جميع الوسائل التقنية المعقولة لحماية البيانات الشخصية. يمكن "
+"للأشخاص المصرح لهم فقط الوصول إلى البيانات الشخصية."
 
 #: wllegal/templates/legal/documents/privacy.html:56
 msgid ""
@@ -170,7 +182,7 @@ msgstr "الأشخاص المتعاقَد معهم للحصول على الضم�
 
 #: wllegal/templates/legal/documents/privacy.html:60
 msgid "Payment processors."
-msgstr ""
+msgstr "معالجات الدفع."
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
@@ -191,6 +203,8 @@ msgid ""
 "Access log information might be collected for a longer period for the "
 "purpose of establishing, exercising or defending legal claims."
 msgstr ""
+"قد يتم جمع معلومات سجل الوصول لفترة أطول لغرض إقامة الدعاوى القانونية أو "
+"ممارستها أو الدفاع عنها."
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "Your rights"
@@ -218,6 +232,8 @@ msgid ""
 "Gain access to all your Personal Data that Weblate uses or processes, and "
 "even get a copy of all of it (<a href=\"%(url)s\">Article 15 GDPR</a>)"
 msgstr ""
+"يمكنك الوصول إلى جميع بياناتك الشخصية التي تستخدمها Weblate أو تعالجها ، "
+"وحتى الحصول على نسخة منها جميعا (<a href=\"%(url)s\">Article 15 GDPR</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:80
 msgid ""
@@ -251,6 +267,8 @@ msgid ""
 "The removal, correction, and retrieval of your Personal Data can be done "
 "from the account management, and is fully automated."
 msgstr ""
+"يمكن إزالة بياناتك الشخصية وتصحيحها واسترجاعها من إدارة الحساب ، وهي مؤتمتة "
+"بالكامل."
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
@@ -304,6 +322,8 @@ msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these Terms of Service."
 msgstr ""
+"تخضع حقوق والتزامات المستخدم والمزود الناتجة عن استخدام الخدمة لشروط الخدمة "
+"هذه."
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid "Definitions"
@@ -323,6 +343,8 @@ msgid ""
 "Civil Code concluded by and between the User and the Provider upon the "
 "Consent"
 msgstr ""
+"تعني اتفاقية الترخيص بالمعنى المقصود في المادة 2358 وما يليها من القانون "
+"المدني المبرمة بين المستخدم والمزود بناء على الموافقة"
 
 #: wllegal/templates/legal/documents/tos.html:29
 msgid "Civil Code"
@@ -332,6 +354,7 @@ msgstr "القانون المدني"
 #, python-format
 msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgstr ""
+"يعني القانون رقم %(law_89_2012)s Coll. ، القانون المدني ، بصيغته المعدلة"
 
 #: wllegal/templates/legal/documents/tos.html:32
 msgid "Consent"
@@ -356,10 +379,13 @@ msgid ""
 "computer or other device connected to the Internet, which enable obtaining "
 "unique identification of the User’s web browser"
 msgstr ""
+"يعني أي ملف بيانات يرسله خادم الويب الخاص بالخدمة إلى كمبيوتر المستخدم أو أي "
+"جهاز آخر متصل بالإنترنت ، مما يتيح الحصول على تعريف فريد لمتصفح الويب الخاص "
+"بالمستخدم"
 
 #: wllegal/templates/legal/documents/tos.html:39
 msgid "GDPR"
-msgstr ""
+msgstr "اللائحة العامة لحماية البيانات"
 
 #: wllegal/templates/legal/documents/tos.html:40
 #, python-format
@@ -367,6 +393,8 @@ msgid ""
 "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
 "Regulation"
 msgstr ""
+"تعني لائحة الاتحاد الأوروبي رقم %(law_679_2016)s ، اللائحة العامة لحماية "
+"البيانات"
 
 #: wllegal/templates/legal/documents/tos.html:42
 msgid "License"
@@ -385,7 +413,7 @@ msgstr "المُزَوّد"
 #: wllegal/templates/legal/documents/tos.html:46
 #, python-format
 msgid "means %(provider)s, Reg. No. %(reg_no)s"
-msgstr ""
+msgstr "يعني %(provider)s ، رقم التسجيل %(reg_no)s"
 
 #: wllegal/templates/legal/documents/tos.html:48
 #: wllegal/templates/legal/documents/tos.html:98
@@ -398,6 +426,8 @@ msgid ""
 "means personal data within the meaning of EU Regulation No. %(law_679_2016)s "
 "inserted by the User into the Service and/or Cookies"
 msgstr ""
+"تعني البيانات الشخصية بالمعنى المقصود في لائحة الاتحاد الأوروبي رقم "
+"%(law_679_2016)s التي يدرجها المستخدم في الخدمة و / أو ملفات تعريف الارتباط"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Owner"
@@ -453,6 +483,7 @@ msgid ""
 "means distributed version control system used by the Project such as Git or "
 "Mercurial"
 msgstr ""
+"يعني نظام التحكم في الإصدار الموزع الذي يستخدمه المشروع مثل Git أو Mercurial"
 
 #: wllegal/templates/legal/documents/tos.html:71
 msgid "License Agreement Conclusion"
@@ -473,6 +504,8 @@ msgid ""
 "By concluding Agreement under Article 2.1 of this Agreement, the following "
 "provisions of this Article 3 of the Terms of Service come into force."
 msgstr ""
+"من خلال إبرام اتفاقية بموجب المادة 2.1 من هذه الاتفاقية ، تدخل الأحكام "
+"التالية من هذه المادة 3 من شروط الخدمة حيز التنفيذ."
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid ""
@@ -480,12 +513,16 @@ msgid ""
 "this License Agreement, all this under the terms and conditions stated in "
 "these Terms of Service."
 msgstr ""
+"يقدم الموفر للمستخدم اتفاقية ترخيص ويقبل المستخدم اتفاقية الترخيص هذه ، كل "
+"هذا بموجب الشروط والأحكام المنصوص عليها في شروط الخدمة هذه."
 
 #: wllegal/templates/legal/documents/tos.html:82
 msgid ""
 "The Provider shall have the right to shut down, adjust, modify or make the "
 "Service unavailable on the web address at any time."
 msgstr ""
+"يحق للمزود إيقاف تشغيل الخدمة أو تعديلها أو تعديلها أو جعلها غير متاحة على "
+"عنوان الويب في أي وقت."
 
 #: wllegal/templates/legal/documents/tos.html:84
 msgid ""
@@ -493,18 +530,24 @@ msgid ""
 "technical software and/or hardware means of the Provider and/or such means "
 "in the Provider’s use."
 msgstr ""
+"يوافق المستخدم على استخدام الخدمة فقط بطريقة لا تعرض للخطر البرامج التقنية و "
+"/ أو وسائل الأجهزة الخاصة بالمزود و / أو هذه الوسائل في استخدام المزود."
 
 #: wllegal/templates/legal/documents/tos.html:86
 msgid ""
 "The User agrees to refrain from use of the Service in bad faith and/or "
 "deliberately causing any damage to the Service."
 msgstr ""
+"يوافق المستخدم على الامتناع عن استخدام الخدمة بسوء نية و / أو التسبب عمدا في "
+"أي ضرر للخدمة."
 
 #: wllegal/templates/legal/documents/tos.html:88
 msgid ""
 "The User agrees to refrain from bypassing the Service’s software and/or "
 "technical hardware means, in particular the security systems."
 msgstr ""
+"يوافق المستخدم على الامتناع عن تجاوز برامج الخدمة و / أو وسائل الأجهزة "
+"التقنية ، ولا سيما أنظمة الأمان."
 
 #: wllegal/templates/legal/documents/tos.html:91
 msgid "Liability for Damage"
@@ -515,6 +558,8 @@ msgid ""
 "The User hereby renders it undisputed that the Provider shall not be liable "
 "for any damage caused to the User resulting from the use of the Service."
 msgstr ""
+"يجعل المستخدم بموجب هذا أنه لا جدال في أن المزود لن يكون مسؤولا عن أي ضرر "
+"يلحق بالمستخدم نتيجة لاستخدام الخدمة."
 
 #: wllegal/templates/legal/documents/tos.html:95
 msgid ""
@@ -523,6 +568,9 @@ msgid ""
 "Provider to the User through a breach of any obligation contained in these "
 "Terms of Service and/or resulting from the use of the Service."
 msgstr ""
+"إذا كان المستخدم رائد أعمال ، فإنه يتنازل صراحة عن حقه في التعويض من المزود "
+"عن الضرر الذي يسببه المزود عن غير قصد للمستخدم من خلال خرق أي التزام وارد في "
+"شروط الخدمة هذه و / أو الناتجة عن استخدام الخدمة."
 
 #: wllegal/templates/legal/documents/tos.html:101
 #, python-format
@@ -536,6 +584,12 @@ msgid ""
 "This consent is given as long as User does not remove their account from the "
 "Service."
 msgstr ""
+"بالمعنى المقصود في <a href=\"%(url)s\">المادة 7</a> من اللائحة العامة لحماية "
+"البيانات (GDPR) ، يوافق المستخدم بموجب هذا على جمع وتخزين ومعالجة البيانات "
+"الشخصية التي يقدمها المستخدم إلى المسؤول ، وهو المزود ، من خلال استخدام "
+"الخدمة ؛ يمنح المستخدم الموافقة على معالجة واستخدام البيانات الشخصية "
+"للمستخدم من قبل المزود و / أو موظفي المزود و / أو شركاء الأعمال المعتمدين "
+"للمزود. يتم منح هذه الموافقة طالما أن المستخدم لا يزيل حسابه من الخدمة."
 
 #: wllegal/templates/legal/documents/tos.html:103
 #, python-format
@@ -547,6 +601,11 @@ msgid ""
 "amended, and further for business needs of the Provider’s contractual "
 "partners and for statistical purposes of the Provider."
 msgstr ""
+"الغرض من معالجة البيانات الشخصية على النحو الذي يحدده الموفر هو استخدام "
+"البيانات الشخصية لإرسال اتصالات تجارية إلى موضوع البيانات (المستخدم) من خلال "
+"الوسائل الإلكترونية بموجب القانون رقم %(law_480_2004)s Coll. ، بشأن خدمات "
+"معينة لمجتمع المعلومات ، بصيغتها المعدلة ، وكذلك لاحتياجات العمل للشركاء "
+"التعاقديين للمزود وللأغراض الإحصائية للمزود."
 
 #: wllegal/templates/legal/documents/tos.html:105
 msgid ""
@@ -554,6 +613,9 @@ msgid ""
 "wishing to receive business information from the Provider, the Provider "
 "shall refrain from sending further unsolicited business communications."
 msgstr ""
+"إذا قام المستخدم بإبلاغ المزود بشكل مباشر وفعال بأنه لم يعد يرغب في تلقي "
+"معلومات تجارية من المزود ، فيجب على المزود الامتناع عن إرسال المزيد من "
+"الاتصالات التجارية غير المرغوب فيها."
 
 #: wllegal/templates/legal/documents/tos.html:109
 #, python-format
@@ -563,6 +625,9 @@ msgid ""
 "declares that all the Personal Data is accurate and true and has been "
 "provided voluntarily."
 msgstr ""
+"يعلن المستخدم وعيه بحقوقه الخاصة بموجب <a href=\"%(url_15)s\">Article 15 و </"
+"a><a href=\"%(url_17)s\">المادة 17</a> من اللائحة العامة لحماية البيانات "
+"(GDPR) ويعلن أن جميع البيانات الشخصية دقيقة وصحيحة وقد تم تقديمها طواعية."
 
 #: wllegal/templates/legal/documents/tos.html:111
 msgid ""
@@ -574,6 +639,11 @@ msgid ""
 "the Personal Data, even after the termination of their employment or "
 "business relationship with the Provider."
 msgstr ""
+"يعلن الموفر أنه لن يجمع البيانات الشخصية إلا بالقدر اللازم لتحقيق الغرض "
+"المحدد أعلاه ومعالجة البيانات الشخصية وفقا للغرض الذي تم جمعها من أجله. يجب "
+"على موظفي الموفر والأفراد الآخرين الذين يعالجون البيانات الشخصية على أساس "
+"عقد مع المزود الحفاظ على سرية البيانات الشخصية ، حتى بعد إنهاء عملهم أو "
+"علاقتهم التجارية مع المزود."
 
 #: wllegal/templates/legal/documents/tos.html:113
 msgid ""
@@ -581,6 +651,8 @@ msgid ""
 "means (automatically) via computer programs for which the Provider has "
 "secured the right of use, in particular the Service."
 msgstr ""
+"يعلن المزود أنه سيعالج البيانات الشخصية بالوسائل الإلكترونية (تلقائيا) عبر "
+"برامج الكمبيوتر التي حصل المزود على حق استخدامها ، ولا سيما الخدمة."
 
 #: wllegal/templates/legal/documents/tos.html:115
 msgid ""
@@ -588,6 +660,8 @@ msgid ""
 "a free and informed juridical act which concerns the consent of the subject "
 "of the data (the User) with processing of the Personal Data."
 msgstr ""
+"تشكل موافقة المستخدم بموجب هذه المادة 5 من شروط الخدمة عملا قانونيا مجانيا "
+"ومستنيرا يتعلق بموافقة موضوع البيانات (المستخدم) على معالجة البيانات الشخصية."
 
 #: wllegal/templates/legal/documents/tos.html:118
 msgid "Translations"
@@ -599,18 +673,24 @@ msgid ""
 "is responsible for managing them and for specifying accurately the license "
 "of the Project."
 msgstr ""
+"تنظم الخدمة الترجمة إلى مشاريع فردية ، حيث يكون المالك مسؤولا عن إدارتها "
+"وتحديد ترخيص المشروع بدقة."
 
 #: wllegal/templates/legal/documents/tos.html:122
 msgid ""
 "Not specifying translation license means that the translations are available "
 "under same license as the given Project itself."
 msgstr ""
+"عدم تحديد ترخيص الترجمة يعني أن الترجمات متاحة بموجب نفس الترخيص مثل المشروع "
+"نفسه."
 
 #: wllegal/templates/legal/documents/tos.html:124
 msgid ""
 "Should the Project opt in for the Translation Memory, license to use the "
 "translation is granted to all Translation Memory users."
 msgstr ""
+"في حالة اشتراك المشروع في ذاكرة الترجمة، يتم منح ترخيص استخدام الترجمة لجميع "
+"مستخدمي ذاكرة الترجمة."
 
 #: wllegal/templates/legal/documents/tos.html:126
 msgid ""
@@ -626,6 +706,8 @@ msgid ""
 "commits. The User understands that this grant is non revocable due to nature "
 "of the VCS."
 msgstr ""
+"يوافق المستخدم على استخدام الاسم والبريد الإلكتروني كتأليف في التزامات VCS. "
+"يدرك المستخدم أن هذه المنحة غير قابلة للإلغاء بسبب طبيعة VCS."
 
 #: wllegal/templates/legal/documents/tos.html:133
 #, python-format
@@ -634,10 +716,13 @@ msgid ""
 "electronic communication, as amended, the User is informed that the Service "
 "uses Cookies."
 msgstr ""
+"بالمعنى المقصود في المادة 89 من القانون رقم %(law_480_2004)s Coll. ، بشأن "
+"الاتصالات الإلكترونية ، بصيغتها المعدلة ، يتم إبلاغ المستخدم بأن الخدمة "
+"تستخدم ملفات تعريف الارتباط."
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid "The Service uses Cookies to personalise content."
-msgstr ""
+msgstr "تستخدم الخدمة ملفات تعريف الارتباط لتخصيص المحتوى."
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid "Governing Law"
@@ -656,6 +741,8 @@ msgid ""
 "Service shall be resolved by the court of the Czech republic having "
 "substantive and local jurisdiction."
 msgstr ""
+"يتم حل أي نزاعات تنشأ على أساس الاتفاقية و / أو شروط الخدمة هذه من قبل محكمة "
+"جمهورية التشيك ذات الاختصاص الموضوعي والمحلي."
 
 #: wllegal/templates/legal/documents/tos.html:145
 msgid "Effect"
@@ -665,7 +752,7 @@ msgstr "التأثير"
 msgid ""
 "These Terms of Service shall come into force and effect on 1st September "
 "2017."
-msgstr ""
+msgstr "تدخل شروط الخدمة هذه حيز التنفيذ وتدخل حيز التنفيذ في 1 سبتمبر 2017."
 
 #~ msgid "Reset all changes in the local repository"
 #~ msgstr "إعادة تعيين كل التغييرات في المستودع المحلي"
