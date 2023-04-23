@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2021-09-22 06:40+0000\n"
-"PO-Revision-Date: 2023-04-23 16:51+0000\n"
+"PO-Revision-Date: 2023-04-23 20:04+0000\n"
 "Last-Translator: dreigiau <sterilgrimed23@gmail.com>\n"
 "Language-Team: Welsh <https://hosted.weblate.org/projects/weblate/legal/cy/>"
 "\n"
@@ -27,7 +27,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/contracts.html:10
 msgid "Status as of October 2020."
-msgstr ""
+msgstr "Statws ym mis Hydref 2020."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -39,12 +39,12 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:9
 msgid "Personal Data Controller"
-msgstr ""
+msgstr "Rheolydd Data Personol"
 
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
 msgid "%(provider)s, Reg. No. %(reg_no)s"
-msgstr ""
+msgstr "%(provider)s, Reg. No. %(reg_no)s"
 
 #: wllegal/templates/legal/documents/privacy.html:15
 #, python-format
@@ -52,42 +52,46 @@ msgid ""
 "Weblate has appointed a data protection officer who may be reached via "
 "%(privacy_contact)s."
 msgstr ""
+"Mae Weblate wedi penodi swyddog diogelu data y gellir ei gyrraedd trwy "
+"%(privacy_contact)s."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 msgid "Personal Data processed by Weblate"
-msgstr ""
+msgstr "Data Personol wedi'i brosesu gan Weblate"
 
 #: wllegal/templates/legal/documents/privacy.html:20
 msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr ""
+"Mae Weblate yn prosesu Data Personol y mae'r Defnyddiwr yn ei ddarparu trwy "
+"ei ddefnyddio:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid "Name and e-mail address"
-msgstr ""
+msgstr "Enw a chyfeiriad e-bost"
 
 #: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits"
-msgstr ""
+msgstr "Defnyddir y rhain i'ch adnabod yn yr ymrwymiadau VCS"
 
 #: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events"
-msgstr ""
+msgstr "Yn ogystal, defnyddir e-bost ar gyfer hysbysu am ddigwyddiadau a wylir"
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
-msgstr ""
+msgstr "Cyfrinair ar ffurf hash"
 
 #: wllegal/templates/legal/documents/privacy.html:30
 msgid "Used to authenticate the User, if configured"
-msgstr ""
+msgstr "Fe'i defnyddir i ddilysu'r Defnyddiwr, os ffurfweddir"
 
 #: wllegal/templates/legal/documents/privacy.html:31
 msgid "Passwords are stored hashed using Argon2."
-msgstr ""
+msgstr "Storir cyfrineiriau ar ffurf hash gan ddefnyddio Argon2."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid "IP address and browser name"
-msgstr ""
+msgstr "Cyfeiriad IP ac enw porwr"
 
 #: wllegal/templates/legal/documents/privacy.html:34
 msgid ""
@@ -109,11 +113,12 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
-msgstr ""
+msgstr "Pwrpas a sail gyfreithiol prosesu Data Personol"
 
 #: wllegal/templates/legal/documents/privacy.html:43
 msgid "Your Personal Data will be used for the purposes of the Service:"
 msgstr ""
+"Bydd eich Data Personol yn cael ei ddefnyddio at ddibenion y Gwasanaeth:"
 
 #: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
@@ -142,7 +147,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:52
 msgid "Access to the Personal Data"
-msgstr ""
+msgstr "Mynediad i'r Data Personol"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
