@@ -98,22 +98,8 @@
 <h2>{% blocktrans %}Personal Data{% endblocktrans %}</h2>
 
 {% law_url 7 scope="GDPR" as url %}
-<p class="item">{% blocktrans %}Within the meaning of <a href="{{ url }}">Article 7</a> of the GDPR the User hereby gives consent to the collecting, storage and processing of the Personal Data provided by the User to the administrator, who is the Provider, through the use of the Service; the User gives consent to the processing and use of the User’s Personal Data by the Provider, the Provider’s employees and/or the Provider’s authorised business partners. This consent is given as long as User does not remove their account from the Service.{% endblocktrans %}</p>
-
-<p class="item">{% blocktrans %}The purpose of the processing of Personal Data as determined by the Provider is the use of Personal Data for sending commercial communications to the subject of the data (the User) through electronic means under Act No. {{ law_480_2004 }} Coll., on certain services of the information society, as amended, and further for business needs of the Provider’s contractual partners and for statistical purposes of the Provider.{% endblocktrans %}</p>
-
-<p class="item">{% blocktrans %}If the User directly and effectively informs the Provider of no longer wishing to receive business information from the Provider, the Provider shall refrain from sending further unsolicited business communications.{% endblocktrans %}</p>
-
-{% law_url 15 scope="GDPR" as url_15 %}
-{% law_url 17 scope="GDPR" as url_17 %}
-<p class="item">{% blocktrans %}The User declares awareness of own rights under <a href="{{ url_15 }}">Article 15</a> and <a href="{{ url_17 }}">Article 17</a> of the GDPR and declares that all the Personal Data is accurate and true and has been provided voluntarily.{% endblocktrans %}</p>
-
-<p class="item">{% blocktrans %}The Provider declares that it will collect Personal Data only in the extent necessary for meeting the above-specified purpose and process the Personal Data in accordance with the purpose for which it was collected. The Provider’s employees and other individuals who process the Personal Data on the basis of a contract with the Provider shall maintain confidentiality of the Personal Data, even after the termination of their employment or business relationship with the Provider.{% endblocktrans %}</p>
-
-<p class="item">{% blocktrans %}The Provider declares that it will process the Personal Data by electronic means (automatically) via computer programs for which the Provider has secured the right of use, in particular the Service.{% endblocktrans %}</p>
-
-<p class="item">{% blocktrans %}The User’s consent under this Article 5 of the Terms of Service constitutes a free and informed juridical act which concerns the consent of the subject of the data (the User) with processing of the Personal Data.{% endblocktrans %}</p>
-
+{% url 'legal:privacy' as privacy_policy_url %}
+<p class="item">{% blocktrans %}Within the meaning of <a href="{{ url }}">Article 7</a> of the GDPR the User hereby gives consent to collecting, storage, and processing of the Personal Data according to the <a href="{{ privacy_policy_url }}">Privacy Policy</a>.{% endblocktrans %}</p>
 
 <h2>{% blocktrans %}Translations{% endblocktrans %}</h2>
 
@@ -125,7 +111,7 @@
 
 <p class="item">{% blocktrans %}The User agrees, upon contributing to a Project, to the license the Project has specified.{% endblocktrans %}</p>
 
-<p class="item">{% blocktrans %}The User agrees to use of own name and e-mail as authorship in the VCS commits. The User understands that this grant is non revocable due to nature of the VCS.{% endblocktrans %}</p>
+<p class="item">{% blocktrans %}The User agrees to use of name and e-mail as authorship in the VCS commits. The User understands that this grant is non-revocable due to the nature of the VCS.{% endblocktrans %}</p>
 
 
 <h2>{% blocktrans %}Cookies{% endblocktrans %}</h2>
@@ -144,4 +130,4 @@
 
 <h2>{% blocktrans %}Effect{% endblocktrans %}</h2>
 
-<p class="item">{% blocktrans %}These Terms of Service shall come into force and effect on 1st September 2017.{% endblocktrans %}</p>
+<p class="item">{% blocktrans %}These Terms of Service shall come into force and effect on 15th May 2023.{% endblocktrans %}</p>
