@@ -17,7 +17,7 @@ class LegalTestCase(TestCase):
 
     def test_index(self):
         response = self.client.get(reverse("legal:index"))
-        self.assertContains(response, "The services are provided")
+        self.assertContains(response, "We process private data")
 
     def test_security(self):
         response = self.client.get("/security.txt")
