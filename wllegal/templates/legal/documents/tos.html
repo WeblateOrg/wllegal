@@ -98,8 +98,7 @@
 <h2>{% blocktrans %}Personal Data{% endblocktrans %}</h2>
 
 {% law_url 7 scope="GDPR" as url %}
-{% url 'legal:privacy' as privacy_policy_url %}
-<p class="item">{% blocktrans %}Within the meaning of <a href="{{ url }}">Article 7</a> of the GDPR the User hereby gives consent to collecting, storage, and processing of the Personal Data according to the <a href="{{ privacy_policy_url }}">Privacy Policy</a>.{% endblocktrans %}</p>
+<p class="item">{% blocktrans %}Within the meaning of <a href="{{ url }}">Article 7</a> of the GDPR the User hereby gives consent to collecting, storage, and processing of the Personal Data according to the <a href="{{ privacy_url }}">Privacy Policy</a>.{% endblocktrans %}</p>
 
 <h2>{% blocktrans %}Translations{% endblocktrans %}</h2>
 
