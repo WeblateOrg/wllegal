@@ -6,29 +6,27 @@
 # Jaimie85 <alsemgeest@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-14 17:43+0000\n"
-"PO-Revision-Date: 2021-09-22 15:42+0000\n"
+"PO-Revision-Date: 2023-05-15 13:29+0000\n"
 "Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
-"Language-Team: Dutch <https://hosted.weblate.org/projects/weblate/legal/nl/"
-">\n"
+"Language-Team: Dutch <https://hosted.weblate.org/projects/weblate/legal/nl/>"
+"\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.9-dev\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "Subondernemers conform artikel 28 van de GPDR"
 
 #: wllegal/templates/legal/documents/contracts.html:10
-#, fuzzy
-#| msgid "Status as of October 2020."
 msgid "Status as of March 2023."
-msgstr "Status vanaf oktober 2020."
+msgstr "Status vanaf maart 2023."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -74,17 +72,13 @@ msgid "Name and e-mail address"
 msgstr "Naam en e-mailadres"
 
 #: wllegal/templates/legal/documents/privacy.html:26
-#, fuzzy
-#| msgid "These are used to identify you in the VCS commits"
 msgid "These are used to identify you in the VCS commits."
-msgstr "Deze worden gebruikt om u te identificeren in VCS-commits"
+msgstr "Deze worden gebruikt om u te identificeren in VCS-commits."
 
 #: wllegal/templates/legal/documents/privacy.html:27
-#, fuzzy
-#| msgid "Additionally, e-mail is used for notification of watched events"
 msgid "Additionally, e-mail is used for notification of watched events."
 msgstr ""
-"Uw e-mailadres wordt ook gebruikt voor melding van gevolgde gebeurtenissen"
+"Uw e-mailadres wordt ook gebruikt voor melding van gevolgde gebeurtenissen."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
@@ -103,21 +97,15 @@ msgid "IP address and browser name"
 msgstr "IP-adres en browsernaam"
 
 #: wllegal/templates/legal/documents/privacy.html:34
-#, fuzzy
-#| msgid ""
-#| "These are logged in case of important changes to your account (e.g. "
-#| "password change) to allow diagnosis in case your account is stolen"
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen."
 msgstr ""
-"Deze worden bijgehouden in geval van belangrijke wijzigingen aan uw account "
-"(bijvoorbeeld wachtwoordwijziging), voor een diagnose in geval van een "
-"gestolen account"
+"Deze worden bijgehouden in geval van belangrijke wijzigingen aan uw account ("
+"bijvoorbeeld wachtwoordwijziging), voor een diagnose in geval van een "
+"gestolen account."
 
 #: wllegal/templates/legal/documents/privacy.html:36
-#, fuzzy
-#| msgid "Billing information"
 msgid "Billing info"
 msgstr "Facturatie-informatie"
 
@@ -241,10 +229,6 @@ msgstr ""
 "zijn account in de dienst verwijdert."
 
 #: wllegal/templates/legal/documents/privacy.html:75
-#, fuzzy
-#| msgid ""
-#| "Access log information might be collected for a longer period for the "
-#| "purpose of establishing, exercising or defending legal claims."
 msgid ""
 "Access log info might be collected for a longer period for the purpose of "
 "establishing, exercising or defending legal claims."
@@ -322,28 +306,20 @@ msgstr ""
 "accountbeheer. Dit proces is volledig geautomatiseerd."
 
 #: wllegal/templates/legal/documents/summary.html:4
-#, fuzzy
-#| msgid ""
-#| "We process private data (such as your e-mail address), those will be "
-#| "discarded from our database as soon as you remove your account."
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
 "Wij verwerken persoonlijke gegevens (zoals uw e-mailadres). Deze worden uit "
-"onze database verwijderd zodra u uw account verwijdert."
+"onze databank verwijderd als u uw account verwijdert."
 
 #: wllegal/templates/legal/documents/summary.html:5
-#, fuzzy
-#| msgid ""
-#| "Your translations are made under license which is specified by each "
-#| "translation."
 msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
 msgstr ""
-"Uw vertalingen worden gemaakt onder licentie die door elke vertaling wordt "
-"opgegeven."
+"Uw vertalingen worden gemaakt onder de licentie die door elke vertaling "
+"wordt opgegeven."
 
 #: wllegal/templates/legal/documents/summary.html:7
 msgid ""
@@ -358,6 +334,8 @@ msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
 msgstr ""
+"Een naam kan naar eigen inzicht worden gekozen. Het e-mailadres van commits "
+"kan door Weblate worden verborgen om uw privacy te waarborgen."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid "We use cookies to deliver our services."
@@ -365,7 +343,7 @@ msgstr "We gebruiken cookies om onze diensten aan te bieden."
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid "We don’t use any third-party cookies."
-msgstr ""
+msgstr "We maken geen gebruik van externe cookies."
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
