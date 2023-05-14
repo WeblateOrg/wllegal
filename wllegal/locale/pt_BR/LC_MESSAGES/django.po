@@ -5,9 +5,9 @@
 # Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2021-09-22 06:40+0000\n"
+"POT-Creation-Date: 2023-05-14 17:43+0000\n"
 "PO-Revision-Date: 2021-11-11 23:03+0000\n"
 "Last-Translator: Felipe <felipefplzx@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
@@ -24,7 +24,9 @@ msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "Sub-contratantes de Acordo com o Artigo 28 do RGPD"
 
 #: wllegal/templates/legal/documents/contracts.html:10
-msgid "Status as of October 2020."
+#, fuzzy
+#| msgid "Status as of October 2020."
+msgid "Status as of March 2023."
 msgstr "Status a partir de Outubro de 2020."
 
 #: wllegal/templates/legal/documents/privacy.html:6
@@ -70,11 +72,15 @@ msgid "Name and e-mail address"
 msgstr "Nome e endereço de e-mail"
 
 #: wllegal/templates/legal/documents/privacy.html:26
-msgid "These are used to identify you in the VCS commits"
+#, fuzzy
+#| msgid "These are used to identify you in the VCS commits"
+msgid "These are used to identify you in the VCS commits."
 msgstr "Estes são usados para identificar você nos commits de VCS"
 
 #: wllegal/templates/legal/documents/privacy.html:27
-msgid "Additionally, e-mail is used for notification of watched events"
+#, fuzzy
+#| msgid "Additionally, e-mail is used for notification of watched events"
+msgid "Additionally, e-mail is used for notification of watched events."
 msgstr "Além disto, o e-mail é usado para notificação de eventos observados"
 
 #: wllegal/templates/legal/documents/privacy.html:29
@@ -94,24 +100,28 @@ msgid "IP address and browser name"
 msgstr "Endereço IP e nome do navegador"
 
 #: wllegal/templates/legal/documents/privacy.html:34
+#, fuzzy
+#| msgid ""
+#| "These are logged in case of important changes to your account (e.g. "
+#| "password change) to allow diagnosis in case your account is stolen"
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
-"change) to allow diagnosis in case your account is stolen"
+"change) to allow diagnosis in case your account is stolen."
 msgstr ""
 "Eles são registrados no caso de alterações importantes em sua conta (ex: "
 "alteração de senha) e permitem um diagnóstico caso sua conta seja roubada"
 
 #: wllegal/templates/legal/documents/privacy.html:36
-msgid "Billing information"
+#, fuzzy
+#| msgid "Billing information"
+msgid "Billing info"
 msgstr "Informações de cobrança"
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
-"In case you purchase service from us, we collect additional billing "
-"information necessary for issuing an invoice"
+"Necessary details to issue an invoice is collected when purchasing a service "
+"from us."
 msgstr ""
-"No caso de você contratar nosso serviço, coletamos informações adicionais de "
-"cobrança necessárias para emitir uma fatura"
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
@@ -179,18 +189,41 @@ msgid "Persons which are contracted for technical assurance of the service."
 msgstr "Pessoas que são contratadas para garantia técnica do serviço."
 
 #: wllegal/templates/legal/documents/privacy.html:60
-msgid "Payment processors."
-msgstr "Processadores de pagamento."
+msgid "Payment processors when purchasing a service from us."
+msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
 msgstr "Todos os Dados Pessoais são armazenados na União Europeia."
 
 #: wllegal/templates/legal/documents/privacy.html:65
+#, fuzzy
+#| msgid "Access to the Personal Data"
+msgid "Disclossure of the Personal Data"
+msgstr "Acesso aos Dados Pessoais"
+
+#: wllegal/templates/legal/documents/privacy.html:67
+msgid ""
+"The Personal Data might be disclosed to third parties in limited "
+"circumstances when the Controller has a good faith belief it is required by "
+"law, such as under a subpoena or other judicial or administrative order."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:69
+msgid ""
+"In case the Controller is required by law to disclose the Personal Data, an "
+"attempt will be made to provide the User with prior notice by e-mail (unless "
+"the Controller is prohibited, or it would be futile) that a request for the "
+"Personal Data has been made to allow the User to object to the disclosure. "
+"If the User does not challenge the disclosure request, the Controller may be "
+"legally required to turn over the Personal Data."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:71
 msgid "The Personal Data retention"
 msgstr "A retenção de Dados Pessoais"
 
-#: wllegal/templates/legal/documents/privacy.html:67
+#: wllegal/templates/legal/documents/privacy.html:73
 msgid ""
 "The Personal Data is stored in the Service until the User deletes their "
 "account on the service."
@@ -198,20 +231,24 @@ msgstr ""
 "Os Dados Pessoais são armazenados no serviço até que o Usuário exclua sua "
 "conta no serviço."
 
-#: wllegal/templates/legal/documents/privacy.html:69
+#: wllegal/templates/legal/documents/privacy.html:75
+#, fuzzy
+#| msgid ""
+#| "Access log information might be collected for a longer period for the "
+#| "purpose of establishing, exercising or defending legal claims."
 msgid ""
-"Access log information might be collected for a longer period for the "
-"purpose of establishing, exercising or defending legal claims."
+"Access log info might be collected for a longer period for the purpose of "
+"establishing, exercising or defending legal claims."
 msgstr ""
 "As informações do registro de acesso podem ser coletadas por um período mais "
 "longo para fins de estabelecimento, exercício ou defesa de reivindicações "
 "legais."
 
-#: wllegal/templates/legal/documents/privacy.html:71
+#: wllegal/templates/legal/documents/privacy.html:77
 msgid "Your rights"
 msgstr "Seus direitos"
 
-#: wllegal/templates/legal/documents/privacy.html:73
+#: wllegal/templates/legal/documents/privacy.html:79
 msgid ""
 "The User provides use of Personal Data voluntarily. Without this Personal "
 "Data Weblate is not able to provide our services."
@@ -219,7 +256,7 @@ msgstr ""
 "O Usuário fornece o uso de Dados Pessoais voluntariamente. Sem esses Dados "
 "Pessoais, o Weblate não pode fornecer seus serviços."
 
-#: wllegal/templates/legal/documents/privacy.html:75
+#: wllegal/templates/legal/documents/privacy.html:81
 msgid ""
 "We want you to always be in control of your Personal Data. To this end, you "
 "have certain rights that allow for it. Under certain conditions, you may:"
@@ -228,7 +265,7 @@ msgstr ""
 "este fim, você tem certos direitos que permitem isso. Sob certas condições, "
 "você pode:"
 
-#: wllegal/templates/legal/documents/privacy.html:79
+#: wllegal/templates/legal/documents/privacy.html:85
 #, python-format
 msgid ""
 "Gain access to all your Personal Data that Weblate uses or processes, and "
@@ -238,26 +275,26 @@ msgstr ""
 "até mesmo obter uma cópia de todos eles (<a href=\"%(url)s\">Artigo 15 do "
 "RGPD</a>)"
 
-#: wllegal/templates/legal/documents/privacy.html:80
+#: wllegal/templates/legal/documents/privacy.html:86
 msgid ""
 "Correct the Personal Data that Weblate processes if you think that there are "
 "mistakes"
 msgstr ""
 "Corrigir os Dados Pessoais que Weblate processa se você acha que há erros"
 
-#: wllegal/templates/legal/documents/privacy.html:81
+#: wllegal/templates/legal/documents/privacy.html:87
 msgid "Order us to delete your Personal Data"
 msgstr "Exigir que excluamos seus Dados Pessoais"
 
-#: wllegal/templates/legal/documents/privacy.html:82
+#: wllegal/templates/legal/documents/privacy.html:88
 msgid "Restrict the Personal Data processing"
 msgstr "Restringir o processamento de Dados Pessoais"
 
-#: wllegal/templates/legal/documents/privacy.html:83
+#: wllegal/templates/legal/documents/privacy.html:89
 msgid "Object to processing"
 msgstr "Contestar ao processamento"
 
-#: wllegal/templates/legal/documents/privacy.html:84
+#: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "Receive your Personal Data in a commonly used and machine-readable format or "
 "to transmit this Personal Data to a different provider."
@@ -265,7 +302,7 @@ msgstr ""
 "Receber seus Dados Pessoais em um formato comumente usado e legível por "
 "máquina ou para transmitir esses Dados Pessoais para um provedor diferente."
 
-#: wllegal/templates/legal/documents/privacy.html:87
+#: wllegal/templates/legal/documents/privacy.html:93
 msgid ""
 "The removal, correction, and retrieval of your Personal Data can be done "
 "from the account management, and is fully automated."
@@ -274,36 +311,29 @@ msgstr ""
 "partir do gerenciamento de contas e é totalmente automatizado."
 
 #: wllegal/templates/legal/documents/summary.html:4
+#, fuzzy
+#| msgid ""
+#| "We process private data (such as your e-mail address), those will be "
+#| "discarded from our database as soon as you remove your account."
 msgid ""
-"The services are provided “as is”, at your own risk, without any warranty."
-msgstr ""
-"Os serviços são fornecidos “como está”, por seu próprio risco, sem qualquer "
-"garantia."
-
-#: wllegal/templates/legal/documents/summary.html:5
-msgid ""
-"Additional guarantees might apply to commercial customers, those are "
-"expressed in corresponding contracts."
-msgstr ""
-"Garantias adicionais podem ser aplicáveis a clientes comerciais, as quais "
-"são expressas nos contratos correspondentes."
-
-#: wllegal/templates/legal/documents/summary.html:6
-msgid ""
-"We process private data (such as your e-mail address), those will be "
-"discarded from our database as soon as you remove your account."
+"We process personal data (such as your e-mail address); those will be "
+"discarded from our database if you remove your account."
 msgstr ""
 "Processamos os dados privados (como seu endereço de e-mail), os quais serão "
 "descartados de nossa base de dados tão logo você remova sua conta."
 
-#: wllegal/templates/legal/documents/summary.html:7
+#: wllegal/templates/legal/documents/summary.html:5
+#, fuzzy
+#| msgid ""
+#| "Your translations are made under license which is specified by each "
+#| "translation."
 msgid ""
-"Your translations are made under license which is specified by each "
+"Your translations are made under the license which is specified by each "
 "translation."
 msgstr ""
 "Suas traduções são feitas sob a licença especificada por cada tradução."
 
-#: wllegal/templates/legal/documents/summary.html:8
+#: wllegal/templates/legal/documents/summary.html:7
 msgid ""
 "Your name and e-mail address is used in VCS commits, it will stay there "
 "indefinitely."
@@ -311,9 +341,19 @@ msgstr ""
 "Seu nome e endereço de e-mail é usado nos commits de VCS, e ficará por lá "
 "para sempre."
 
-#: wllegal/templates/legal/documents/summary.html:9
+#: wllegal/templates/legal/documents/summary.html:8
+msgid ""
+"Chosen name is up to you and the e-mail address used for commits can be "
+"masked by Weblate system to protect your privacy."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:11
 msgid "We use cookies to deliver our services."
 msgstr "Usamos cookies para entregar nossos serviços."
+
+#: wllegal/templates/legal/documents/summary.html:12
+msgid "We don’t use any third-party cookies."
+msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
@@ -379,7 +419,7 @@ msgstr ""
 "documentos legais expressos marcando a caixa de seleção durante o registro"
 
 #: wllegal/templates/legal/documents/tos.html:35
-#: wllegal/templates/legal/documents/tos.html:131
+#: wllegal/templates/legal/documents/tos.html:116
 msgid "Cookies"
 msgstr "Cookies"
 
@@ -599,107 +639,15 @@ msgstr ""
 #, python-format
 msgid ""
 "Within the meaning of <a href=\"%(url)s\">Article 7</a> of the GDPR the User "
-"hereby gives consent to the collecting, storage and processing of the "
-"Personal Data provided by the User to the administrator, who is the "
-"Provider, through the use of the Service; the User gives consent to the "
-"processing and use of the User’s Personal Data by the Provider, the "
-"Provider’s employees and/or the Provider’s authorised business partners. "
-"This consent is given as long as User does not remove their account from the "
-"Service."
+"hereby gives consent to collecting, storage, and processing of the Personal "
+"Data according to the <a href=\"%(privacy_url)s\">Privacy Policy</a>."
 msgstr ""
-"Nos termos do <a href=\"%(url)s\">Artigo 7º</a> do RGPD, o Usuário por meio "
-"deste concede o consentimento com a coleta, armazenamento e processamento "
-"dos Dados Pessoais fornecidos pelo Usuário ao administrador, que é o "
-"Provedor, através do uso do Serviço; o Usuário dá o consentimento ao "
-"processamento e uso de Dados Pessoais do Usuário pelo Provedor, os "
-"funcionários do Provedor e/ou parceiros comerciais autorizados do Provedor. "
-"Esse consentimento é concedido desde que o Usuário não remova sua conta do "
-"Serviço."
 
 #: wllegal/templates/legal/documents/tos.html:103
-#, python-format
-msgid ""
-"The purpose of the processing of Personal Data as determined by the Provider "
-"is the use of Personal Data for sending commercial communications to the "
-"subject of the data (the User) through electronic means under Act No. "
-"%(law_480_2004)s Coll., on certain services of the information society, as "
-"amended, and further for business needs of the Provider’s contractual "
-"partners and for statistical purposes of the Provider."
-msgstr ""
-"O propósito do processamento de Dados Pessoais, conforme determinado pelo "
-"Fornecedor, é o uso de Dados Pessoais para enviar comunicações comerciais "
-"para o assunto dos dados (o Usuário) através de meios eletrônicos sob a Lei "
-"Nº %(law_480_2004)s em determinados serviços da sociedade da informação, "
-"conforme emendas, e adicionalmente para as necessidades de negócios dos "
-"parceiros contratuais do Provedor e para fins estatísticos do Provedor."
-
-#: wllegal/templates/legal/documents/tos.html:105
-msgid ""
-"If the User directly and effectively informs the Provider of no longer "
-"wishing to receive business information from the Provider, the Provider "
-"shall refrain from sending further unsolicited business communications."
-msgstr ""
-"Se o Usuário informar direta e eficientemente ao Provedor que não deseja "
-"mais receber informações comerciais do Provedor, o Provedor deverá abster-se "
-"de enviar mais comunicações comerciais não solicitadas."
-
-#: wllegal/templates/legal/documents/tos.html:109
-#, python-format
-msgid ""
-"The User declares awareness of own rights under <a href=\"%(url_15)s"
-"\">Article 15</a> and <a href=\"%(url_17)s\">Article 17</a> of the GDPR and "
-"declares that all the Personal Data is accurate and true and has been "
-"provided voluntarily."
-msgstr ""
-"O Usuário declara estar ciente de seus direitos sob o <a href=\"%(url_15)s"
-"\">Artigos 15</a> e o <a href=\"%(url_17)s\">Artigo 17</a> do RGPD e declara "
-"que todos os Dados Pessoais são precisos e verdadeiros e foram fornecidos "
-"voluntariamente."
-
-#: wllegal/templates/legal/documents/tos.html:111
-msgid ""
-"The Provider declares that it will collect Personal Data only in the extent "
-"necessary for meeting the above-specified purpose and process the Personal "
-"Data in accordance with the purpose for which it was collected. The "
-"Provider’s employees and other individuals who process the Personal Data on "
-"the basis of a contract with the Provider shall maintain confidentiality of "
-"the Personal Data, even after the termination of their employment or "
-"business relationship with the Provider."
-msgstr ""
-"O Provedor declara que ele coletará Dados Pessoais somente na extensão "
-"necessária para atender ao propósito especificado acima e processar os Dados "
-"Pessoais de acordo com a finalidade para a qual eles foram coletados. Os "
-"funcionários do Provedor e outras pessoas que processam os Dados Pessoais "
-"com base em um contrato com o Provedor devem manter a confidencialidade dos "
-"Dados Pessoais, mesmo após o término de seu vínculo empregatício ou "
-"comercial com o Provedor."
-
-#: wllegal/templates/legal/documents/tos.html:113
-msgid ""
-"The Provider declares that it will process the Personal Data by electronic "
-"means (automatically) via computer programs for which the Provider has "
-"secured the right of use, in particular the Service."
-msgstr ""
-"O Provedor declara que ele processará os Dados Pessoais por meios "
-"eletrônicos (automaticamente) através de programas de computador para os "
-"quais o Provedor tenha assegurado o direito de uso, em particular o Serviço."
-
-#: wllegal/templates/legal/documents/tos.html:115
-msgid ""
-"The User’s consent under this Article 5 of the Terms of Service constitutes "
-"a free and informed juridical act which concerns the consent of the subject "
-"of the data (the User) with processing of the Personal Data."
-msgstr ""
-"O consentimento do Usuário sob este Artigo 5º dos Termos de Serviço "
-"constitui um ato jurídico livre e informado que diz respeito ao "
-"consentimento do sujeito dos dados (o Usuário) com o processamento dos Dados "
-"Pessoais."
-
-#: wllegal/templates/legal/documents/tos.html:118
 msgid "Translations"
 msgstr "Traduções"
 
-#: wllegal/templates/legal/documents/tos.html:120
+#: wllegal/templates/legal/documents/tos.html:105
 msgid ""
 "The Service organizes translation into individual Projects, where the Owner "
 "is responsible for managing them and for specifying accurately the license "
@@ -709,7 +657,7 @@ msgstr ""
 "responsável por gerenciá-los e por especificar com precisão a licença do "
 "Projeto."
 
-#: wllegal/templates/legal/documents/tos.html:122
+#: wllegal/templates/legal/documents/tos.html:107
 msgid ""
 "Not specifying translation license means that the translations are available "
 "under same license as the given Project itself."
@@ -717,7 +665,7 @@ msgstr ""
 "Não especificar a licença de tradução significa que as traduções estão "
 "disponíveis sob a mesma licença como fornecido pelo próprio Projeto."
 
-#: wllegal/templates/legal/documents/tos.html:124
+#: wllegal/templates/legal/documents/tos.html:109
 msgid ""
 "Should the Project opt in for the Translation Memory, license to use the "
 "translation is granted to all Translation Memory users."
@@ -725,7 +673,7 @@ msgstr ""
 "Caso o Projeto opte pela Memória de Tradução, a licença para usar a tradução "
 "é concedida a todos os usuários da Memória de Tradução."
 
-#: wllegal/templates/legal/documents/tos.html:126
+#: wllegal/templates/legal/documents/tos.html:111
 msgid ""
 "The User agrees, upon contributing to a Project, to the license the Project "
 "has specified."
@@ -733,17 +681,22 @@ msgstr ""
 "O Usuário concorda, ao contribuir para um Projeto, com a licença que o "
 "Projeto especificou."
 
-#: wllegal/templates/legal/documents/tos.html:128
+#: wllegal/templates/legal/documents/tos.html:113
+#, fuzzy
+#| msgid ""
+#| "The User agrees to use of own name and e-mail as authorship in the VCS "
+#| "commits. The User understands that this grant is non revocable due to "
+#| "nature of the VCS."
 msgid ""
-"The User agrees to use of own name and e-mail as authorship in the VCS "
-"commits. The User understands that this grant is non revocable due to nature "
-"of the VCS."
+"The User agrees to use of name and e-mail as authorship in the VCS commits. "
+"The User understands that this grant is non-revocable due to the nature of "
+"the VCS."
 msgstr ""
 "O Usuário concorda com o uso de seu próprio nome e e-mail como autoria nos "
 "commits de VCS. O Usuário entende que esta concessão não é revogável devido "
 "à natureza do VCS."
 
-#: wllegal/templates/legal/documents/tos.html:133
+#: wllegal/templates/legal/documents/tos.html:118
 #, python-format
 msgid ""
 "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
@@ -754,15 +707,15 @@ msgstr ""
 "eletrônica, conforme emenda, o Usuário é informado de que o Serviço usa "
 "Cookies."
 
-#: wllegal/templates/legal/documents/tos.html:135
+#: wllegal/templates/legal/documents/tos.html:120
 msgid "The Service uses Cookies to personalise content."
 msgstr "O Serviço usa Cookies para personalizar o conteúdo."
 
-#: wllegal/templates/legal/documents/tos.html:138
+#: wllegal/templates/legal/documents/tos.html:123
 msgid "Governing Law"
 msgstr "Lei Aplicável"
 
-#: wllegal/templates/legal/documents/tos.html:140
+#: wllegal/templates/legal/documents/tos.html:125
 msgid ""
 "These Terms of Service shall be governed by the laws of the Czech Republic "
 "with exclusion of conflict rules."
@@ -770,7 +723,7 @@ msgstr ""
 "Estes Termos de Serviço serão regidos pelas leis da República Tcheca, com "
 "exclusão das regras conflitantes."
 
-#: wllegal/templates/legal/documents/tos.html:142
+#: wllegal/templates/legal/documents/tos.html:127
 msgid ""
 "Any disputes arising on the basis of the Agreement and/or these Terms of "
 "Service shall be resolved by the court of the Czech republic having "
@@ -780,16 +733,139 @@ msgstr ""
 "Serviço serão resolvidos pelo foro da República Tcheca, com jurisdição local "
 "e substantiva."
 
-#: wllegal/templates/legal/documents/tos.html:145
+#: wllegal/templates/legal/documents/tos.html:130
 msgid "Effect"
 msgstr "Efeito"
 
-#: wllegal/templates/legal/documents/tos.html:147
+#: wllegal/templates/legal/documents/tos.html:132
+#, fuzzy
+#| msgid ""
+#| "These Terms of Service shall come into force and effect on 1st September "
+#| "2017."
 msgid ""
-"These Terms of Service shall come into force and effect on 1st September "
-"2017."
+"These Terms of Service shall come into force and effect on 15th May 2023."
 msgstr ""
 "Estes Termos de Serviço entrarão em vigor a partir de 1º de setembro de 2017."
+
+#~ msgid ""
+#~ "In case you purchase service from us, we collect additional billing "
+#~ "information necessary for issuing an invoice"
+#~ msgstr ""
+#~ "No caso de você contratar nosso serviço, coletamos informações adicionais "
+#~ "de cobrança necessárias para emitir uma fatura"
+
+#~ msgid "Payment processors."
+#~ msgstr "Processadores de pagamento."
+
+#~ msgid ""
+#~ "The services are provided “as is”, at your own risk, without any warranty."
+#~ msgstr ""
+#~ "Os serviços são fornecidos “como está”, por seu próprio risco, sem "
+#~ "qualquer garantia."
+
+#~ msgid ""
+#~ "Additional guarantees might apply to commercial customers, those are "
+#~ "expressed in corresponding contracts."
+#~ msgstr ""
+#~ "Garantias adicionais podem ser aplicáveis a clientes comerciais, as quais "
+#~ "são expressas nos contratos correspondentes."
+
+#, python-format
+#~ msgid ""
+#~ "Within the meaning of <a href=\"%(url)s\">Article 7</a> of the GDPR the "
+#~ "User hereby gives consent to the collecting, storage and processing of "
+#~ "the Personal Data provided by the User to the administrator, who is the "
+#~ "Provider, through the use of the Service; the User gives consent to the "
+#~ "processing and use of the User’s Personal Data by the Provider, the "
+#~ "Provider’s employees and/or the Provider’s authorised business partners. "
+#~ "This consent is given as long as User does not remove their account from "
+#~ "the Service."
+#~ msgstr ""
+#~ "Nos termos do <a href=\"%(url)s\">Artigo 7º</a> do RGPD, o Usuário por "
+#~ "meio deste concede o consentimento com a coleta, armazenamento e "
+#~ "processamento dos Dados Pessoais fornecidos pelo Usuário ao "
+#~ "administrador, que é o Provedor, através do uso do Serviço; o Usuário dá "
+#~ "o consentimento ao processamento e uso de Dados Pessoais do Usuário pelo "
+#~ "Provedor, os funcionários do Provedor e/ou parceiros comerciais "
+#~ "autorizados do Provedor. Esse consentimento é concedido desde que o "
+#~ "Usuário não remova sua conta do Serviço."
+
+#, python-format
+#~ msgid ""
+#~ "The purpose of the processing of Personal Data as determined by the "
+#~ "Provider is the use of Personal Data for sending commercial "
+#~ "communications to the subject of the data (the User) through electronic "
+#~ "means under Act No. %(law_480_2004)s Coll., on certain services of the "
+#~ "information society, as amended, and further for business needs of the "
+#~ "Provider’s contractual partners and for statistical purposes of the "
+#~ "Provider."
+#~ msgstr ""
+#~ "O propósito do processamento de Dados Pessoais, conforme determinado pelo "
+#~ "Fornecedor, é o uso de Dados Pessoais para enviar comunicações comerciais "
+#~ "para o assunto dos dados (o Usuário) através de meios eletrônicos sob a "
+#~ "Lei Nº %(law_480_2004)s em determinados serviços da sociedade da "
+#~ "informação, conforme emendas, e adicionalmente para as necessidades de "
+#~ "negócios dos parceiros contratuais do Provedor e para fins estatísticos "
+#~ "do Provedor."
+
+#~ msgid ""
+#~ "If the User directly and effectively informs the Provider of no longer "
+#~ "wishing to receive business information from the Provider, the Provider "
+#~ "shall refrain from sending further unsolicited business communications."
+#~ msgstr ""
+#~ "Se o Usuário informar direta e eficientemente ao Provedor que não deseja "
+#~ "mais receber informações comerciais do Provedor, o Provedor deverá abster-"
+#~ "se de enviar mais comunicações comerciais não solicitadas."
+
+#, python-format
+#~ msgid ""
+#~ "The User declares awareness of own rights under <a href=\"%(url_15)s"
+#~ "\">Article 15</a> and <a href=\"%(url_17)s\">Article 17</a> of the GDPR "
+#~ "and declares that all the Personal Data is accurate and true and has been "
+#~ "provided voluntarily."
+#~ msgstr ""
+#~ "O Usuário declara estar ciente de seus direitos sob o <a href=\"%(url_15)s"
+#~ "\">Artigos 15</a> e o <a href=\"%(url_17)s\">Artigo 17</a> do RGPD e "
+#~ "declara que todos os Dados Pessoais são precisos e verdadeiros e foram "
+#~ "fornecidos voluntariamente."
+
+#~ msgid ""
+#~ "The Provider declares that it will collect Personal Data only in the "
+#~ "extent necessary for meeting the above-specified purpose and process the "
+#~ "Personal Data in accordance with the purpose for which it was collected. "
+#~ "The Provider’s employees and other individuals who process the Personal "
+#~ "Data on the basis of a contract with the Provider shall maintain "
+#~ "confidentiality of the Personal Data, even after the termination of their "
+#~ "employment or business relationship with the Provider."
+#~ msgstr ""
+#~ "O Provedor declara que ele coletará Dados Pessoais somente na extensão "
+#~ "necessária para atender ao propósito especificado acima e processar os "
+#~ "Dados Pessoais de acordo com a finalidade para a qual eles foram "
+#~ "coletados. Os funcionários do Provedor e outras pessoas que processam os "
+#~ "Dados Pessoais com base em um contrato com o Provedor devem manter a "
+#~ "confidencialidade dos Dados Pessoais, mesmo após o término de seu vínculo "
+#~ "empregatício ou comercial com o Provedor."
+
+#~ msgid ""
+#~ "The Provider declares that it will process the Personal Data by "
+#~ "electronic means (automatically) via computer programs for which the "
+#~ "Provider has secured the right of use, in particular the Service."
+#~ msgstr ""
+#~ "O Provedor declara que ele processará os Dados Pessoais por meios "
+#~ "eletrônicos (automaticamente) através de programas de computador para os "
+#~ "quais o Provedor tenha assegurado o direito de uso, em particular o "
+#~ "Serviço."
+
+#~ msgid ""
+#~ "The User’s consent under this Article 5 of the Terms of Service "
+#~ "constitutes a free and informed juridical act which concerns the consent "
+#~ "of the subject of the data (the User) with processing of the Personal "
+#~ "Data."
+#~ msgstr ""
+#~ "O consentimento do Usuário sob este Artigo 5º dos Termos de Serviço "
+#~ "constitui um ato jurídico livre e informado que diz respeito ao "
+#~ "consentimento do sujeito dos dados (o Usuário) com o processamento dos "
+#~ "Dados Pessoais."
 
 #~ msgid "Generate Unknown Horizons scenario data"
 #~ msgstr "Gerar dados de cenário de Unknown Horizons"

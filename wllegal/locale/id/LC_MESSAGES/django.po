@@ -8,9 +8,9 @@
 # frottle <catatan.kungkong@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2021-09-22 06:40+0000\n"
+"POT-Creation-Date: 2023-05-14 17:43+0000\n"
 "PO-Revision-Date: 2022-04-08 07:31+0000\n"
 "Last-Translator: Taufik Adi Wicaksono <taufikadi.wicaksono@tutamail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/weblate/legal/"
@@ -27,7 +27,9 @@ msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "Subkontraktor Sesuai dengan Art. 28 GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:10
-msgid "Status as of October 2020."
+#, fuzzy
+#| msgid "Status as of October 2020."
+msgid "Status as of March 2023."
 msgstr "Status per Oktober 2020."
 
 #: wllegal/templates/legal/documents/privacy.html:6
@@ -73,11 +75,15 @@ msgid "Name and e-mail address"
 msgstr "Nama dan alamat surel"
 
 #: wllegal/templates/legal/documents/privacy.html:26
-msgid "These are used to identify you in the VCS commits"
+#, fuzzy
+#| msgid "These are used to identify you in the VCS commits"
+msgid "These are used to identify you in the VCS commits."
 msgstr "Ini digunakan untuk mengidentifikasi Anda dalam commit VCS"
 
 #: wllegal/templates/legal/documents/privacy.html:27
-msgid "Additionally, e-mail is used for notification of watched events"
+#, fuzzy
+#| msgid "Additionally, e-mail is used for notification of watched events"
+msgid "Additionally, e-mail is used for notification of watched events."
 msgstr ""
 "Selain itu, surel digunakan untuk memberi notifikasi pada proyek yang diikuti"
 
@@ -98,24 +104,28 @@ msgid "IP address and browser name"
 msgstr "Alamat IP dan nama peramban web"
 
 #: wllegal/templates/legal/documents/privacy.html:34
+#, fuzzy
+#| msgid ""
+#| "These are logged in case of important changes to your account (e.g. "
+#| "password change) to allow diagnosis in case your account is stolen"
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
-"change) to allow diagnosis in case your account is stolen"
+"change) to allow diagnosis in case your account is stolen."
 msgstr ""
 "Ini dicatat jika ada perubahan penting pada akun Anda (seperti Perubahan "
 "kata sandi) untuk memungkinkan pemeriksaan seandainya akun Anda dicuri"
 
 #: wllegal/templates/legal/documents/privacy.html:36
-msgid "Billing information"
+#, fuzzy
+#| msgid "Billing information"
+msgid "Billing info"
 msgstr "Informasi penagihan"
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
-"In case you purchase service from us, we collect additional billing "
-"information necessary for issuing an invoice"
+"Necessary details to issue an invoice is collected when purchasing a service "
+"from us."
 msgstr ""
-"Jika Anda membeli layanan ini, Informasi penagihan yang diperlukan akan "
-"dikumpulkan untuk menerbitkan faktur"
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
@@ -183,18 +193,41 @@ msgid "Persons which are contracted for technical assurance of the service."
 msgstr "Orang-orang yang dikontrak untuk memberikan jaminan teknis layanan."
 
 #: wllegal/templates/legal/documents/privacy.html:60
-msgid "Payment processors."
-msgstr "Pemroses pembayaran."
+msgid "Payment processors when purchasing a service from us."
+msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
 msgstr "Semua Data Pribadi disimpan di Uni Eropa."
 
 #: wllegal/templates/legal/documents/privacy.html:65
+#, fuzzy
+#| msgid "Access to the Personal Data"
+msgid "Disclossure of the Personal Data"
+msgstr "Akses ke Data Pribadi"
+
+#: wllegal/templates/legal/documents/privacy.html:67
+msgid ""
+"The Personal Data might be disclosed to third parties in limited "
+"circumstances when the Controller has a good faith belief it is required by "
+"law, such as under a subpoena or other judicial or administrative order."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:69
+msgid ""
+"In case the Controller is required by law to disclose the Personal Data, an "
+"attempt will be made to provide the User with prior notice by e-mail (unless "
+"the Controller is prohibited, or it would be futile) that a request for the "
+"Personal Data has been made to allow the User to object to the disclosure. "
+"If the User does not challenge the disclosure request, the Controller may be "
+"legally required to turn over the Personal Data."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:71
 msgid "The Personal Data retention"
 msgstr "Penyimpanan Data Pribadi"
 
-#: wllegal/templates/legal/documents/privacy.html:67
+#: wllegal/templates/legal/documents/privacy.html:73
 msgid ""
 "The Personal Data is stored in the Service until the User deletes their "
 "account on the service."
@@ -202,19 +235,23 @@ msgstr ""
 "Data Pribadi disimpan dalam Layanan sampai Pengguna menghapus akun mereka di "
 "layanan."
 
-#: wllegal/templates/legal/documents/privacy.html:69
+#: wllegal/templates/legal/documents/privacy.html:75
+#, fuzzy
+#| msgid ""
+#| "Access log information might be collected for a longer period for the "
+#| "purpose of establishing, exercising or defending legal claims."
 msgid ""
-"Access log information might be collected for a longer period for the "
-"purpose of establishing, exercising or defending legal claims."
+"Access log info might be collected for a longer period for the purpose of "
+"establishing, exercising or defending legal claims."
 msgstr ""
 "Informasi mengenai log akses dapat dikumpulkan untuk jangka waktu yang lebih "
 "lama untuk tujuan membangun, menjalankan, atau mempertahankan klaim hukum."
 
-#: wllegal/templates/legal/documents/privacy.html:71
+#: wllegal/templates/legal/documents/privacy.html:77
 msgid "Your rights"
 msgstr "Hak Anda"
 
-#: wllegal/templates/legal/documents/privacy.html:73
+#: wllegal/templates/legal/documents/privacy.html:79
 msgid ""
 "The User provides use of Personal Data voluntarily. Without this Personal "
 "Data Weblate is not able to provide our services."
@@ -222,7 +259,7 @@ msgstr ""
 "Pengguna menyediakan penggunaan Data Pribadi secara sukarela. Tanpa Data "
 "Pribadi ini, kami tidak dapat menyediakan layanan kami."
 
-#: wllegal/templates/legal/documents/privacy.html:75
+#: wllegal/templates/legal/documents/privacy.html:81
 msgid ""
 "We want you to always be in control of your Personal Data. To this end, you "
 "have certain rights that allow for it. Under certain conditions, you may:"
@@ -231,7 +268,7 @@ msgstr ""
 "tujuan ini, Anda memiliki hak tertentu yang memungkinkan hal itu. Dalam "
 "kondisi tertentu, Anda dapat:"
 
-#: wllegal/templates/legal/documents/privacy.html:79
+#: wllegal/templates/legal/documents/privacy.html:85
 #, python-format
 msgid ""
 "Gain access to all your Personal Data that Weblate uses or processes, and "
@@ -241,7 +278,7 @@ msgstr ""
 "Weblate, dan bahkan dapatkan semua salinannya (<a href=\"%(url)s\">Pasal 15 "
 "GDPR</a>)"
 
-#: wllegal/templates/legal/documents/privacy.html:80
+#: wllegal/templates/legal/documents/privacy.html:86
 msgid ""
 "Correct the Personal Data that Weblate processes if you think that there are "
 "mistakes"
@@ -249,19 +286,19 @@ msgstr ""
 "Memperbaiki Data Pribadi yang diolah oleh Weblate jika menurut Anda terdapat "
 "kesalahan"
 
-#: wllegal/templates/legal/documents/privacy.html:81
+#: wllegal/templates/legal/documents/privacy.html:87
 msgid "Order us to delete your Personal Data"
 msgstr "Meminta kami untuk menghapus Data Pribadi Anda"
 
-#: wllegal/templates/legal/documents/privacy.html:82
+#: wllegal/templates/legal/documents/privacy.html:88
 msgid "Restrict the Personal Data processing"
 msgstr "Membatasi pengolahan Data Pribadi"
 
-#: wllegal/templates/legal/documents/privacy.html:83
+#: wllegal/templates/legal/documents/privacy.html:89
 msgid "Object to processing"
 msgstr "Mengajukan keberatan atas pemrosesan Data Pribadi"
 
-#: wllegal/templates/legal/documents/privacy.html:84
+#: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "Receive your Personal Data in a commonly used and machine-readable format or "
 "to transmit this Personal Data to a different provider."
@@ -269,7 +306,7 @@ msgstr ""
 "Menerima Data Pribadi Anda dalam format yang umum digunakan dan format yang "
 "dapat dibaca oleh mesin atau untuk dikirimkan kepada penyedia lainnya."
 
-#: wllegal/templates/legal/documents/privacy.html:87
+#: wllegal/templates/legal/documents/privacy.html:93
 msgid ""
 "The removal, correction, and retrieval of your Personal Data can be done "
 "from the account management, and is fully automated."
@@ -278,45 +315,48 @@ msgstr ""
 "manajemen akun, dan sepenuhnya berjalan otomatis."
 
 #: wllegal/templates/legal/documents/summary.html:4
+#, fuzzy
+#| msgid ""
+#| "We process private data (such as your e-mail address), those will be "
+#| "discarded from our database as soon as you remove your account."
 msgid ""
-"The services are provided “as is”, at your own risk, without any warranty."
-msgstr ""
-"Layanan diberikan \"sebagaimana adanya\", dengan risiko yang ditanggung oleh "
-"Anda sendiri, tanpa jaminan apapun."
-
-#: wllegal/templates/legal/documents/summary.html:5
-msgid ""
-"Additional guarantees might apply to commercial customers, those are "
-"expressed in corresponding contracts."
-msgstr ""
-"Jaminan tambahan mungkin berlaku untuk pelanggan komersial, yang dinyatakan "
-"dalam kontrak masing-masing."
-
-#: wllegal/templates/legal/documents/summary.html:6
-msgid ""
-"We process private data (such as your e-mail address), those will be "
-"discarded from our database as soon as you remove your account."
+"We process personal data (such as your e-mail address); those will be "
+"discarded from our database if you remove your account."
 msgstr ""
 "Kami mengolah data pribadi (seperti alamat surel Anda), dan akan dibuang "
 "dari basis data kami segera setelah Anda menghapus akun Anda."
 
-#: wllegal/templates/legal/documents/summary.html:7
+#: wllegal/templates/legal/documents/summary.html:5
+#, fuzzy
+#| msgid ""
+#| "Your translations are made under license which is specified by each "
+#| "translation."
 msgid ""
-"Your translations are made under license which is specified by each "
+"Your translations are made under the license which is specified by each "
 "translation."
 msgstr ""
 "Terjemahan Anda dibuat berdasarkan lisensi yang ditentukan oleh setiap "
 "terjemahan."
 
-#: wllegal/templates/legal/documents/summary.html:8
+#: wllegal/templates/legal/documents/summary.html:7
 msgid ""
 "Your name and e-mail address is used in VCS commits, it will stay there "
 "indefinitely."
 msgstr "Nama dan surel Anda digunakan di VCS, mereka akan tetap ada selamanya."
 
-#: wllegal/templates/legal/documents/summary.html:9
+#: wllegal/templates/legal/documents/summary.html:8
+msgid ""
+"Chosen name is up to you and the e-mail address used for commits can be "
+"masked by Weblate system to protect your privacy."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:11
 msgid "We use cookies to deliver our services."
 msgstr "Kami menggunakan kuki untuk memberikan layanan kami."
+
+#: wllegal/templates/legal/documents/summary.html:12
+msgid "We don’t use any third-party cookies."
+msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
@@ -383,7 +423,7 @@ msgstr ""
 "pendaftaran"
 
 #: wllegal/templates/legal/documents/tos.html:35
-#: wllegal/templates/legal/documents/tos.html:131
+#: wllegal/templates/legal/documents/tos.html:116
 msgid "Cookies"
 msgstr "Kuki"
 
@@ -604,105 +644,15 @@ msgstr ""
 #, python-format
 msgid ""
 "Within the meaning of <a href=\"%(url)s\">Article 7</a> of the GDPR the User "
-"hereby gives consent to the collecting, storage and processing of the "
-"Personal Data provided by the User to the administrator, who is the "
-"Provider, through the use of the Service; the User gives consent to the "
-"processing and use of the User’s Personal Data by the Provider, the "
-"Provider’s employees and/or the Provider’s authorised business partners. "
-"This consent is given as long as User does not remove their account from the "
-"Service."
+"hereby gives consent to collecting, storage, and processing of the Personal "
+"Data according to the <a href=\"%(privacy_url)s\">Privacy Policy</a>."
 msgstr ""
-"Dalam arti <a href=\"%(url)s\">Pasal 7</a> dari GDPR, Pengguna dengan ini "
-"memberi persetujuan pada pengumpulan, penyimpanan, dan pengolahan Data "
-"Pribadi yang diberikan oleh Pengguna kepada administrator, yang mana adalah "
-"Penyedia, melalui penggunaan Layanan; Pengguna memberi persetujuan untuk "
-"pengolahan dan penggunaan Data Pribadi Pengguna oleh Penyedia, karyawan "
-"Penyedia, dan/atau mitra bisnis resmi Penyedia. Persetujuan ini diberikan "
-"selama pengguna tidak menghapus akun mereka dari Layanan."
 
 #: wllegal/templates/legal/documents/tos.html:103
-#, python-format
-msgid ""
-"The purpose of the processing of Personal Data as determined by the Provider "
-"is the use of Personal Data for sending commercial communications to the "
-"subject of the data (the User) through electronic means under Act No. "
-"%(law_480_2004)s Coll., on certain services of the information society, as "
-"amended, and further for business needs of the Provider’s contractual "
-"partners and for statistical purposes of the Provider."
-msgstr ""
-"Tujuan pengolahan Data Pribadi sebagaimana ditentukan oleh Penyedia adalah "
-"penggunaan Data Pribadi untuk mengirim komunikasi komersil kepada subjek "
-"data (Pengguna) melalui sarana elektronik berdasarkan UU No. %(law_480_2004)"
-"s Coll., mengenai layanan tertentu dari masyarakat informasi, sebagaimana "
-"diamandemenkan, dan selanjutnya untuk kebutuhan bisnis dari mitra "
-"kontraktual Penyedia dan untuk tujuan statistik dari Penyedia."
-
-#: wllegal/templates/legal/documents/tos.html:105
-msgid ""
-"If the User directly and effectively informs the Provider of no longer "
-"wishing to receive business information from the Provider, the Provider "
-"shall refrain from sending further unsolicited business communications."
-msgstr ""
-"Jika Pengguna secara langsung dan efektif menginformasikan kepada Penyedia "
-"untuk tidak ingin lagi menerima informasi bisnis dari Penyedia, maka "
-"Penyedia harus menahan diri untuk tidak mengirimkan komunikasi bisnis yang "
-"tidak diminta lebih lanjut."
-
-#: wllegal/templates/legal/documents/tos.html:109
-#, python-format
-msgid ""
-"The User declares awareness of own rights under <a href=\"%(url_15)s"
-"\">Article 15</a> and <a href=\"%(url_17)s\">Article 17</a> of the GDPR and "
-"declares that all the Personal Data is accurate and true and has been "
-"provided voluntarily."
-msgstr ""
-"Pengguna menyatakan kesadaran akan hak pribadinya berdasarkan <a href=\""
-"%(url_15)s\">Pasal 15</a> dan <a href=\"%(url_17)s\">Pasal 17</a> dari GDPR "
-"dan menyatakan bahwa semua Data Pribadi akurat dan benar, serta telah "
-"diberikan secara sukarela."
-
-#: wllegal/templates/legal/documents/tos.html:111
-msgid ""
-"The Provider declares that it will collect Personal Data only in the extent "
-"necessary for meeting the above-specified purpose and process the Personal "
-"Data in accordance with the purpose for which it was collected. The "
-"Provider’s employees and other individuals who process the Personal Data on "
-"the basis of a contract with the Provider shall maintain confidentiality of "
-"the Personal Data, even after the termination of their employment or "
-"business relationship with the Provider."
-msgstr ""
-"Penyedia menyatakan bahwa ia akan mengumpulkan Data Pribadi hanya sejauh "
-"yang diperlukan untuk memenuhi tujuan yang telah ditentukan di atas dan "
-"mengolah Data Pribadi sesuai dengan tujuan pengumpulannya. Karyawan Penyedia "
-"dan individu lain yang mengolah Data Pribadi berdasarkan kontrak dengan "
-"Penyedia harus menjaga kerahasiaan Data Pribadi, bahkan setelah pemutusan "
-"hubungan kerja atau bisnis mereka dengan Penyedia."
-
-#: wllegal/templates/legal/documents/tos.html:113
-msgid ""
-"The Provider declares that it will process the Personal Data by electronic "
-"means (automatically) via computer programs for which the Provider has "
-"secured the right of use, in particular the Service."
-msgstr ""
-"Penyedia menyatakan bahwa ia akan mengolah Data Pribadi secara elektronik "
-"(otomatis) melalui program komputer yang mana Penyedia telah memiliki hak "
-"dalam penggunaannya, khususnya Layanan."
-
-#: wllegal/templates/legal/documents/tos.html:115
-msgid ""
-"The User’s consent under this Article 5 of the Terms of Service constitutes "
-"a free and informed juridical act which concerns the consent of the subject "
-"of the data (the User) with processing of the Personal Data."
-msgstr ""
-"Persetujuan Pengguna berdasarkan Pasal 5 dari Persyaratan Layanan merupakan "
-"tindakan yuridis yang bebas dan dimaklumi yang terkait dengan kesadaran "
-"subjek data (Pengguna) dengan pengolahan Data Pribadi."
-
-#: wllegal/templates/legal/documents/tos.html:118
 msgid "Translations"
 msgstr "Terjemahan"
 
-#: wllegal/templates/legal/documents/tos.html:120
+#: wllegal/templates/legal/documents/tos.html:105
 msgid ""
 "The Service organizes translation into individual Projects, where the Owner "
 "is responsible for managing them and for specifying accurately the license "
@@ -712,7 +662,7 @@ msgstr ""
 "bertanggung jawab untuk mengelolanya dan untuk menentukan lisensi Proyek "
 "secara akurat."
 
-#: wllegal/templates/legal/documents/tos.html:122
+#: wllegal/templates/legal/documents/tos.html:107
 msgid ""
 "Not specifying translation license means that the translations are available "
 "under same license as the given Project itself."
@@ -720,7 +670,7 @@ msgstr ""
 "Tidak menentukan lisensi terjemahan berarti bahwa terjemahan tersebut "
 "tersedia berdasarkan lisensi yang sama dengan Proyek itu sendiri."
 
-#: wllegal/templates/legal/documents/tos.html:124
+#: wllegal/templates/legal/documents/tos.html:109
 msgid ""
 "Should the Project opt in for the Translation Memory, license to use the "
 "translation is granted to all Translation Memory users."
@@ -728,7 +678,7 @@ msgstr ""
 "Jika Proyek memilih Memori Terjemahan, lisensi untuk menggunakan terjemahan "
 "diberikan kepada semua pengguna Memori Terjemahan."
 
-#: wllegal/templates/legal/documents/tos.html:126
+#: wllegal/templates/legal/documents/tos.html:111
 msgid ""
 "The User agrees, upon contributing to a Project, to the license the Project "
 "has specified."
@@ -736,17 +686,22 @@ msgstr ""
 "Pengguna menyetujui, ketika memberikan kontribusi pada sebuah Proyek, "
 "lisensi yang telah ditentukan oleh Proyek."
 
-#: wllegal/templates/legal/documents/tos.html:128
+#: wllegal/templates/legal/documents/tos.html:113
+#, fuzzy
+#| msgid ""
+#| "The User agrees to use of own name and e-mail as authorship in the VCS "
+#| "commits. The User understands that this grant is non revocable due to "
+#| "nature of the VCS."
 msgid ""
-"The User agrees to use of own name and e-mail as authorship in the VCS "
-"commits. The User understands that this grant is non revocable due to nature "
-"of the VCS."
+"The User agrees to use of name and e-mail as authorship in the VCS commits. "
+"The User understands that this grant is non-revocable due to the nature of "
+"the VCS."
 msgstr ""
 "Pengguna setuju untuk menggunakan nama dan surel mereka sendiri sebagai "
 "kepengarangan pada commit VCS. Pengguna memahami bahwa hibah ini tidak dapat "
 "dibatalkan karena sifat VCS."
 
-#: wllegal/templates/legal/documents/tos.html:133
+#: wllegal/templates/legal/documents/tos.html:118
 #, python-format
 msgid ""
 "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
@@ -757,15 +712,15 @@ msgstr ""
 "elektronik, sebagaimana diamendemenkan, Pengguna diberi informasi bahwa "
 "Layanan menggunakan kuki."
 
-#: wllegal/templates/legal/documents/tos.html:135
+#: wllegal/templates/legal/documents/tos.html:120
 msgid "The Service uses Cookies to personalise content."
 msgstr "Layanan menggunakan Kuki untuk mempersonalisasi konten."
 
-#: wllegal/templates/legal/documents/tos.html:138
+#: wllegal/templates/legal/documents/tos.html:123
 msgid "Governing Law"
 msgstr "Hukum yang Mengatur"
 
-#: wllegal/templates/legal/documents/tos.html:140
+#: wllegal/templates/legal/documents/tos.html:125
 msgid ""
 "These Terms of Service shall be governed by the laws of the Czech Republic "
 "with exclusion of conflict rules."
@@ -773,7 +728,7 @@ msgstr ""
 "Persyaratan Layanan ini akan diatur oleh hukum Republik Ceko dengan "
 "mengesampingkan aturan konflik."
 
-#: wllegal/templates/legal/documents/tos.html:142
+#: wllegal/templates/legal/documents/tos.html:127
 msgid ""
 "Any disputes arising on the basis of the Agreement and/or these Terms of "
 "Service shall be resolved by the court of the Czech republic having "
@@ -783,15 +738,135 @@ msgstr ""
 "Layanan ini harus diselesaikan secara hukum oleh pengadilan Republik Ceko "
 "yang memiliki yuridiksi substansif dan lokal."
 
-#: wllegal/templates/legal/documents/tos.html:145
+#: wllegal/templates/legal/documents/tos.html:130
 msgid "Effect"
 msgstr "Masa Berlaku"
 
-#: wllegal/templates/legal/documents/tos.html:147
+#: wllegal/templates/legal/documents/tos.html:132
+#, fuzzy
+#| msgid ""
+#| "These Terms of Service shall come into force and effect on 1st September "
+#| "2017."
 msgid ""
-"These Terms of Service shall come into force and effect on 1st September "
-"2017."
+"These Terms of Service shall come into force and effect on 15th May 2023."
 msgstr "Persyaratan Layanan ini mulai berlaku pada tanggal 1 September 2017."
+
+#~ msgid ""
+#~ "In case you purchase service from us, we collect additional billing "
+#~ "information necessary for issuing an invoice"
+#~ msgstr ""
+#~ "Jika Anda membeli layanan ini, Informasi penagihan yang diperlukan akan "
+#~ "dikumpulkan untuk menerbitkan faktur"
+
+#~ msgid "Payment processors."
+#~ msgstr "Pemroses pembayaran."
+
+#~ msgid ""
+#~ "The services are provided “as is”, at your own risk, without any warranty."
+#~ msgstr ""
+#~ "Layanan diberikan \"sebagaimana adanya\", dengan risiko yang ditanggung "
+#~ "oleh Anda sendiri, tanpa jaminan apapun."
+
+#~ msgid ""
+#~ "Additional guarantees might apply to commercial customers, those are "
+#~ "expressed in corresponding contracts."
+#~ msgstr ""
+#~ "Jaminan tambahan mungkin berlaku untuk pelanggan komersial, yang "
+#~ "dinyatakan dalam kontrak masing-masing."
+
+#, python-format
+#~ msgid ""
+#~ "Within the meaning of <a href=\"%(url)s\">Article 7</a> of the GDPR the "
+#~ "User hereby gives consent to the collecting, storage and processing of "
+#~ "the Personal Data provided by the User to the administrator, who is the "
+#~ "Provider, through the use of the Service; the User gives consent to the "
+#~ "processing and use of the User’s Personal Data by the Provider, the "
+#~ "Provider’s employees and/or the Provider’s authorised business partners. "
+#~ "This consent is given as long as User does not remove their account from "
+#~ "the Service."
+#~ msgstr ""
+#~ "Dalam arti <a href=\"%(url)s\">Pasal 7</a> dari GDPR, Pengguna dengan ini "
+#~ "memberi persetujuan pada pengumpulan, penyimpanan, dan pengolahan Data "
+#~ "Pribadi yang diberikan oleh Pengguna kepada administrator, yang mana "
+#~ "adalah Penyedia, melalui penggunaan Layanan; Pengguna memberi persetujuan "
+#~ "untuk pengolahan dan penggunaan Data Pribadi Pengguna oleh Penyedia, "
+#~ "karyawan Penyedia, dan/atau mitra bisnis resmi Penyedia. Persetujuan ini "
+#~ "diberikan selama pengguna tidak menghapus akun mereka dari Layanan."
+
+#, python-format
+#~ msgid ""
+#~ "The purpose of the processing of Personal Data as determined by the "
+#~ "Provider is the use of Personal Data for sending commercial "
+#~ "communications to the subject of the data (the User) through electronic "
+#~ "means under Act No. %(law_480_2004)s Coll., on certain services of the "
+#~ "information society, as amended, and further for business needs of the "
+#~ "Provider’s contractual partners and for statistical purposes of the "
+#~ "Provider."
+#~ msgstr ""
+#~ "Tujuan pengolahan Data Pribadi sebagaimana ditentukan oleh Penyedia "
+#~ "adalah penggunaan Data Pribadi untuk mengirim komunikasi komersil kepada "
+#~ "subjek data (Pengguna) melalui sarana elektronik berdasarkan UU No. "
+#~ "%(law_480_2004)s Coll., mengenai layanan tertentu dari masyarakat "
+#~ "informasi, sebagaimana diamandemenkan, dan selanjutnya untuk kebutuhan "
+#~ "bisnis dari mitra kontraktual Penyedia dan untuk tujuan statistik dari "
+#~ "Penyedia."
+
+#~ msgid ""
+#~ "If the User directly and effectively informs the Provider of no longer "
+#~ "wishing to receive business information from the Provider, the Provider "
+#~ "shall refrain from sending further unsolicited business communications."
+#~ msgstr ""
+#~ "Jika Pengguna secara langsung dan efektif menginformasikan kepada "
+#~ "Penyedia untuk tidak ingin lagi menerima informasi bisnis dari Penyedia, "
+#~ "maka Penyedia harus menahan diri untuk tidak mengirimkan komunikasi "
+#~ "bisnis yang tidak diminta lebih lanjut."
+
+#, python-format
+#~ msgid ""
+#~ "The User declares awareness of own rights under <a href=\"%(url_15)s"
+#~ "\">Article 15</a> and <a href=\"%(url_17)s\">Article 17</a> of the GDPR "
+#~ "and declares that all the Personal Data is accurate and true and has been "
+#~ "provided voluntarily."
+#~ msgstr ""
+#~ "Pengguna menyatakan kesadaran akan hak pribadinya berdasarkan <a href="
+#~ "\"%(url_15)s\">Pasal 15</a> dan <a href=\"%(url_17)s\">Pasal 17</a> dari "
+#~ "GDPR dan menyatakan bahwa semua Data Pribadi akurat dan benar, serta "
+#~ "telah diberikan secara sukarela."
+
+#~ msgid ""
+#~ "The Provider declares that it will collect Personal Data only in the "
+#~ "extent necessary for meeting the above-specified purpose and process the "
+#~ "Personal Data in accordance with the purpose for which it was collected. "
+#~ "The Provider’s employees and other individuals who process the Personal "
+#~ "Data on the basis of a contract with the Provider shall maintain "
+#~ "confidentiality of the Personal Data, even after the termination of their "
+#~ "employment or business relationship with the Provider."
+#~ msgstr ""
+#~ "Penyedia menyatakan bahwa ia akan mengumpulkan Data Pribadi hanya sejauh "
+#~ "yang diperlukan untuk memenuhi tujuan yang telah ditentukan di atas dan "
+#~ "mengolah Data Pribadi sesuai dengan tujuan pengumpulannya. Karyawan "
+#~ "Penyedia dan individu lain yang mengolah Data Pribadi berdasarkan kontrak "
+#~ "dengan Penyedia harus menjaga kerahasiaan Data Pribadi, bahkan setelah "
+#~ "pemutusan hubungan kerja atau bisnis mereka dengan Penyedia."
+
+#~ msgid ""
+#~ "The Provider declares that it will process the Personal Data by "
+#~ "electronic means (automatically) via computer programs for which the "
+#~ "Provider has secured the right of use, in particular the Service."
+#~ msgstr ""
+#~ "Penyedia menyatakan bahwa ia akan mengolah Data Pribadi secara elektronik "
+#~ "(otomatis) melalui program komputer yang mana Penyedia telah memiliki hak "
+#~ "dalam penggunaannya, khususnya Layanan."
+
+#~ msgid ""
+#~ "The User’s consent under this Article 5 of the Terms of Service "
+#~ "constitutes a free and informed juridical act which concerns the consent "
+#~ "of the subject of the data (the User) with processing of the Personal "
+#~ "Data."
+#~ msgstr ""
+#~ "Persetujuan Pengguna berdasarkan Pasal 5 dari Persyaratan Layanan "
+#~ "merupakan tindakan yuridis yang bebas dan dimaklumi yang terkait dengan "
+#~ "kesadaran subjek data (Pengguna) dengan pengolahan Data Pribadi."
 
 #~ msgid "Generate Unknown Horizons scenario data"
 #~ msgstr "Hasilkan data skenario Unknown Horizons"

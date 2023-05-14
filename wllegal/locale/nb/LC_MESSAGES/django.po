@@ -9,9 +9,9 @@
 # Michal Čihař <michal@cihar.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2021-09-22 06:40+0000\n"
+"POT-Creation-Date: 2023-05-14 17:43+0000\n"
 "PO-Revision-Date: 2022-03-19 07:31+0000\n"
 "Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/weblate/"
@@ -28,7 +28,9 @@ msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "Underleverandører i samsvar med artikkel nr. 28 av GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:10
-msgid "Status as of October 2020."
+#, fuzzy
+#| msgid "Status as of October 2020."
+msgid "Status as of March 2023."
 msgstr "Status per Oktober 2020."
 
 #: wllegal/templates/legal/documents/privacy.html:6
@@ -75,11 +77,15 @@ msgid "Name and e-mail address"
 msgstr "Navn og e-post-adresse"
 
 #: wllegal/templates/legal/documents/privacy.html:26
-msgid "These are used to identify you in the VCS commits"
+#, fuzzy
+#| msgid "These are used to identify you in the VCS commits"
+msgid "These are used to identify you in the VCS commits."
 msgstr "Disse brukes for å identifisere deg i VKS-innsendelser"
 
 #: wllegal/templates/legal/documents/privacy.html:27
-msgid "Additionally, e-mail is used for notification of watched events"
+#, fuzzy
+#| msgid "Additionally, e-mail is used for notification of watched events"
+msgid "Additionally, e-mail is used for notification of watched events."
 msgstr ""
 "Videre benyttes e-post for merknader om hendelser det holdes oppsyn med"
 
@@ -100,24 +106,28 @@ msgid "IP address and browser name"
 msgstr "IP-adresse og nettlesernavn"
 
 #: wllegal/templates/legal/documents/privacy.html:34
+#, fuzzy
+#| msgid ""
+#| "These are logged in case of important changes to your account (e.g. "
+#| "password change) to allow diagnosis in case your account is stolen"
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
-"change) to allow diagnosis in case your account is stolen"
+"change) to allow diagnosis in case your account is stolen."
 msgstr ""
 "Disse loggføres i fall viktige endringer på kontoen din inntreffer (f.eks. "
 "passordbytte) for å tillate diagnose i tilfelle kontoen din blir stjålet"
 
 #: wllegal/templates/legal/documents/privacy.html:36
-msgid "Billing information"
+#, fuzzy
+#| msgid "Billing information"
+msgid "Billing info"
 msgstr "Faktureringsinfo"
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
-"In case you purchase service from us, we collect additional billing "
-"information necessary for issuing an invoice"
+"Necessary details to issue an invoice is collected when purchasing a service "
+"from us."
 msgstr ""
-"Hvis du kjøper en tjeneste av oss, samler vi ytterligere "
-"faktureringsinformasjon som trengs for utstedelse av faktura"
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
@@ -187,18 +197,41 @@ msgid "Persons which are contracted for technical assurance of the service."
 msgstr "Personer som har blitt innleid for teknisk betjening av tjenesten."
 
 #: wllegal/templates/legal/documents/privacy.html:60
-msgid "Payment processors."
-msgstr "Betalingsformidlere."
+msgid "Payment processors when purchasing a service from us."
+msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
 msgstr "All personlig data er lagret i den europeiske unionen."
 
 #: wllegal/templates/legal/documents/privacy.html:65
+#, fuzzy
+#| msgid "Access to the Personal Data"
+msgid "Disclossure of the Personal Data"
+msgstr "Tilgang til personlige data"
+
+#: wllegal/templates/legal/documents/privacy.html:67
+msgid ""
+"The Personal Data might be disclosed to third parties in limited "
+"circumstances when the Controller has a good faith belief it is required by "
+"law, such as under a subpoena or other judicial or administrative order."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:69
+msgid ""
+"In case the Controller is required by law to disclose the Personal Data, an "
+"attempt will be made to provide the User with prior notice by e-mail (unless "
+"the Controller is prohibited, or it would be futile) that a request for the "
+"Personal Data has been made to allow the User to object to the disclosure. "
+"If the User does not challenge the disclosure request, the Controller may be "
+"legally required to turn over the Personal Data."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:71
 msgid "The Personal Data retention"
 msgstr "Oppbevaring av personlig data"
 
-#: wllegal/templates/legal/documents/privacy.html:67
+#: wllegal/templates/legal/documents/privacy.html:73
 msgid ""
 "The Personal Data is stored in the Service until the User deletes their "
 "account on the service."
@@ -206,19 +239,23 @@ msgstr ""
 "Den personlige dataen lagres i tjenesten til brukeren sletter sin konto på "
 "tjenesten."
 
-#: wllegal/templates/legal/documents/privacy.html:69
+#: wllegal/templates/legal/documents/privacy.html:75
+#, fuzzy
+#| msgid ""
+#| "Access log information might be collected for a longer period for the "
+#| "purpose of establishing, exercising or defending legal claims."
 msgid ""
-"Access log information might be collected for a longer period for the "
-"purpose of establishing, exercising or defending legal claims."
+"Access log info might be collected for a longer period for the purpose of "
+"establishing, exercising or defending legal claims."
 msgstr ""
 "Tilgangslogg-info kan beholdes i lengre perioder for å etablere, utøve eller "
 "forsvare juridisk framsatte krav."
 
-#: wllegal/templates/legal/documents/privacy.html:71
+#: wllegal/templates/legal/documents/privacy.html:77
 msgid "Your rights"
 msgstr "Dine rettigheter"
 
-#: wllegal/templates/legal/documents/privacy.html:73
+#: wllegal/templates/legal/documents/privacy.html:79
 msgid ""
 "The User provides use of Personal Data voluntarily. Without this Personal "
 "Data Weblate is not able to provide our services."
@@ -226,7 +263,7 @@ msgstr ""
 "Brukeren oppgir personlig data frivillig. Uten denne personlige dataen kan "
 "ikke tjenesten tilbys."
 
-#: wllegal/templates/legal/documents/privacy.html:75
+#: wllegal/templates/legal/documents/privacy.html:81
 msgid ""
 "We want you to always be in control of your Personal Data. To this end, you "
 "have certain rights that allow for it. Under certain conditions, you may:"
@@ -235,7 +272,7 @@ msgstr ""
 "hensikt, har du gitte rettigheter som tillater det. Under gitte "
 "omstendigheter, kan du:"
 
-#: wllegal/templates/legal/documents/privacy.html:79
+#: wllegal/templates/legal/documents/privacy.html:85
 #, python-format
 msgid ""
 "Gain access to all your Personal Data that Weblate uses or processes, and "
@@ -244,26 +281,26 @@ msgstr ""
 "Få tilgang til all din personlige data som vi behandler, og hent en kopi av "
 "all den i sin helhet (<a href=\"%(url)s\">Artikkel 15 GDPR</a>)"
 
-#: wllegal/templates/legal/documents/privacy.html:80
+#: wllegal/templates/legal/documents/privacy.html:86
 msgid ""
 "Correct the Personal Data that Weblate processes if you think that there are "
 "mistakes"
 msgstr ""
 "Korriger personopplysninger som vi behandler hvis du tror de inneholder feil"
 
-#: wllegal/templates/legal/documents/privacy.html:81
+#: wllegal/templates/legal/documents/privacy.html:87
 msgid "Order us to delete your Personal Data"
 msgstr "Beordre oss om å slette din personlige data"
 
-#: wllegal/templates/legal/documents/privacy.html:82
+#: wllegal/templates/legal/documents/privacy.html:88
 msgid "Restrict the Personal Data processing"
 msgstr "Begrense behandling av personlig data"
 
-#: wllegal/templates/legal/documents/privacy.html:83
+#: wllegal/templates/legal/documents/privacy.html:89
 msgid "Object to processing"
 msgstr "Objekt til behandling"
 
-#: wllegal/templates/legal/documents/privacy.html:84
+#: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "Receive your Personal Data in a commonly used and machine-readable format or "
 "to transmit this Personal Data to a different provider."
@@ -271,7 +308,7 @@ msgstr ""
 "Motta din personlige data i et vanlig brukt og maskinlesbart format, eller å "
 "overføre denne personlige dataen til en annen tilbyder."
 
-#: wllegal/templates/legal/documents/privacy.html:87
+#: wllegal/templates/legal/documents/privacy.html:93
 msgid ""
 "The removal, correction, and retrieval of your Personal Data can be done "
 "from the account management, and is fully automated."
@@ -280,34 +317,29 @@ msgstr ""
 "kontobehandlingen, og er helautomatisert."
 
 #: wllegal/templates/legal/documents/summary.html:4
+#, fuzzy
+#| msgid ""
+#| "We process private data (such as your e-mail address), those will be "
+#| "discarded from our database as soon as you remove your account."
 msgid ""
-"The services are provided “as is”, at your own risk, without any warranty."
-msgstr "Tjenestene tilbys \"som de er\", på egen risiko, uten noen garanti."
-
-#: wllegal/templates/legal/documents/summary.html:5
-msgid ""
-"Additional guarantees might apply to commercial customers, those are "
-"expressed in corresponding contracts."
-msgstr ""
-"Ytterligere garantier kan påløpe for noen kommersielle aktører, men disse er "
-"fremforhandlet i respektive kontrakter."
-
-#: wllegal/templates/legal/documents/summary.html:6
-msgid ""
-"We process private data (such as your e-mail address), those will be "
-"discarded from our database as soon as you remove your account."
+"We process personal data (such as your e-mail address); those will be "
+"discarded from our database if you remove your account."
 msgstr ""
 "Vi behandler privat data (som din e-postadresse), slikt vil bli fjernet fra "
 "vår database så snart du fjerner kontoen din."
 
-#: wllegal/templates/legal/documents/summary.html:7
+#: wllegal/templates/legal/documents/summary.html:5
+#, fuzzy
+#| msgid ""
+#| "Your translations are made under license which is specified by each "
+#| "translation."
 msgid ""
-"Your translations are made under license which is specified by each "
+"Your translations are made under the license which is specified by each "
 "translation."
 msgstr ""
 "Dine oversettelser gjøres i henhold til lisensen angitt av hver oversettelse."
 
-#: wllegal/templates/legal/documents/summary.html:8
+#: wllegal/templates/legal/documents/summary.html:7
 msgid ""
 "Your name and e-mail address is used in VCS commits, it will stay there "
 "indefinitely."
@@ -315,9 +347,19 @@ msgstr ""
 "Ditt navn og e-postadresse brukes i versjonskontrollsinsendelser, og vil "
 "forbli der for all tid."
 
-#: wllegal/templates/legal/documents/summary.html:9
+#: wllegal/templates/legal/documents/summary.html:8
+msgid ""
+"Chosen name is up to you and the e-mail address used for commits can be "
+"masked by Weblate system to protect your privacy."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:11
 msgid "We use cookies to deliver our services."
 msgstr "Vi bruker noen informasjonskapsler for å levere våre tjenester."
+
+#: wllegal/templates/legal/documents/summary.html:12
+msgid "We don’t use any third-party cookies."
+msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
@@ -381,7 +423,7 @@ msgstr ""
 "dokumenter uttrykt ved å huke av i avkryssningsboksen under registrering"
 
 #: wllegal/templates/legal/documents/tos.html:35
-#: wllegal/templates/legal/documents/tos.html:131
+#: wllegal/templates/legal/documents/tos.html:116
 msgid "Cookies"
 msgstr "Informasjonskapsler"
 
@@ -595,104 +637,15 @@ msgstr ""
 #, python-format
 msgid ""
 "Within the meaning of <a href=\"%(url)s\">Article 7</a> of the GDPR the User "
-"hereby gives consent to the collecting, storage and processing of the "
-"Personal Data provided by the User to the administrator, who is the "
-"Provider, through the use of the Service; the User gives consent to the "
-"processing and use of the User’s Personal Data by the Provider, the "
-"Provider’s employees and/or the Provider’s authorised business partners. "
-"This consent is given as long as User does not remove their account from the "
-"Service."
+"hereby gives consent to collecting, storage, and processing of the Personal "
+"Data according to the <a href=\"%(privacy_url)s\">Privacy Policy</a>."
 msgstr ""
-"I meningen av <a href=\"%(url)s\">Article 7</a> av GDPR, gir brukeren herved "
-"sitt samtykke til innsamling, lagring og behandling av den personlige dataen "
-"oversendt av brukeren til administratoren, som er tilbyderen, gjennom bruken "
-"av tjenesten. Brukeren gir sitt samtykke med behandling og bruk av sin "
-"personlige data av tilbyderen, dens ansatte og/eller dens autoriserte "
-"forretningspartnere. Dette samtykket gis så lenge brukeren ikke fjerner sin "
-"konto fra tjenesten."
 
 #: wllegal/templates/legal/documents/tos.html:103
-#, python-format
-msgid ""
-"The purpose of the processing of Personal Data as determined by the Provider "
-"is the use of Personal Data for sending commercial communications to the "
-"subject of the data (the User) through electronic means under Act No. "
-"%(law_480_2004)s Coll., on certain services of the information society, as "
-"amended, and further for business needs of the Provider’s contractual "
-"partners and for statistical purposes of the Provider."
-msgstr ""
-"Formålet med behandling av personlig data som bestemt av tilbyderen er "
-"bruken av personlig data for forsendelse av kommersielle kommunikasjoner til "
-"dataens opphav (brukeren) med elektroniske midler, under lov nr. "
-"%(law_480_2004)s samlet, om gitte tjenester av informasjonssamfunnet, som "
-"endret, og ytterligere til forretningsbehov for tilbyderens kontraktsbaserte "
-"partnere og i statistikkøyemed for tilbyderen."
-
-#: wllegal/templates/legal/documents/tos.html:105
-msgid ""
-"If the User directly and effectively informs the Provider of no longer "
-"wishing to receive business information from the Provider, the Provider "
-"shall refrain from sending further unsolicited business communications."
-msgstr ""
-"Hvis brukeren direkte eller effektivt informerer brukeren om at vedkommende "
-"ikke lenger ønsker å motta forretningsinformasjon fra tilbyderen, skal "
-"tilbyderen unngå å sende ytterligere uoppfordret forretningskommunikasjon."
-
-#: wllegal/templates/legal/documents/tos.html:109
-#, python-format
-msgid ""
-"The User declares awareness of own rights under <a href=\"%(url_15)s"
-"\">Article 15</a> and <a href=\"%(url_17)s\">Article 17</a> of the GDPR and "
-"declares that all the Personal Data is accurate and true and has been "
-"provided voluntarily."
-msgstr ""
-"Brukeren gjør det klart at vedkommende kjenner sine rettigheter under <a "
-"href=\"%(url_15)s\">artikkel 15</a> og <a href=\"%(url_17)s\">artikkel 17</"
-"a> av lov om personlig databeskyttelse, og gjør det klart at all persondata "
-"er nøyaktig, og at den stemmer, samt at den har blitt oppgitt frivillig."
-
-#: wllegal/templates/legal/documents/tos.html:111
-msgid ""
-"The Provider declares that it will collect Personal Data only in the extent "
-"necessary for meeting the above-specified purpose and process the Personal "
-"Data in accordance with the purpose for which it was collected. The "
-"Provider’s employees and other individuals who process the Personal Data on "
-"the basis of a contract with the Provider shall maintain confidentiality of "
-"the Personal Data, even after the termination of their employment or "
-"business relationship with the Provider."
-msgstr ""
-"Tilbyderen gjør det klart at den vil samle inn personlig data kun i "
-"nødvendig omfang for å møte ovennevnt formål, og behandle personlig data i "
-"samsvar med formålet de ble samlet inn i. Tilbyderens ansatte og andre "
-"individer som behandler den personlige dataen på grunnlag av kontrakten med "
-"tilbyderen skal opprettholde dens konfidensialitet, selv etter at "
-"forretningsforholdet med tilbyderen er opphevet."
-
-#: wllegal/templates/legal/documents/tos.html:113
-msgid ""
-"The Provider declares that it will process the Personal Data by electronic "
-"means (automatically) via computer programs for which the Provider has "
-"secured the right of use, in particular the Service."
-msgstr ""
-"Tilbyderen gjør det klart at den vil behandle den personlige dataen med "
-"elektroniske midler (automatisk) via dataprogram, som tilbyderen har sikret "
-"seg retten til å bruke, i særdeleshet tjenesten."
-
-#: wllegal/templates/legal/documents/tos.html:115
-msgid ""
-"The User’s consent under this Article 5 of the Terms of Service constitutes "
-"a free and informed juridical act which concerns the consent of the subject "
-"of the data (the User) with processing of the Personal Data."
-msgstr ""
-"Brukerens samtykke under denne artikkel 5 av tjenestevilkårene utgjør en fri "
-"og informert juridisk handling som angår samtykket for dataens opphav "
-"(brukeren) med behandling av persondata."
-
-#: wllegal/templates/legal/documents/tos.html:118
 msgid "Translations"
 msgstr "Oversettelser"
 
-#: wllegal/templates/legal/documents/tos.html:120
+#: wllegal/templates/legal/documents/tos.html:105
 msgid ""
 "The Service organizes translation into individual Projects, where the Owner "
 "is responsible for managing them and for specifying accurately the license "
@@ -702,7 +655,7 @@ msgstr ""
 "ansvarlig for håndtering av dem, og for å presist spesifisere lisensen for "
 "prosjektet."
 
-#: wllegal/templates/legal/documents/tos.html:122
+#: wllegal/templates/legal/documents/tos.html:107
 msgid ""
 "Not specifying translation license means that the translations are available "
 "under same license as the given Project itself."
@@ -710,7 +663,7 @@ msgstr ""
 "Å ikke angi oversettelseslisens betyr at oversettelsen blir tilgjengelig "
 "under samme lisens som det gitte prosjektet."
 
-#: wllegal/templates/legal/documents/tos.html:124
+#: wllegal/templates/legal/documents/tos.html:109
 msgid ""
 "Should the Project opt in for the Translation Memory, license to use the "
 "translation is granted to all Translation Memory users."
@@ -718,7 +671,7 @@ msgstr ""
 "Hvis prosjektet etter eget valg skulle benytte seg av oversettelsesminnet, "
 "vil lisensen til oversettelsen innvilges alle oversettelsesminnebrukere."
 
-#: wllegal/templates/legal/documents/tos.html:126
+#: wllegal/templates/legal/documents/tos.html:111
 msgid ""
 "The User agrees, upon contributing to a Project, to the license the Project "
 "has specified."
@@ -726,17 +679,22 @@ msgstr ""
 "Brukeren samtykker til lisensen et prosjekt har angitt ved å bidra til "
 "prosjektet."
 
-#: wllegal/templates/legal/documents/tos.html:128
+#: wllegal/templates/legal/documents/tos.html:113
+#, fuzzy
+#| msgid ""
+#| "The User agrees to use of own name and e-mail as authorship in the VCS "
+#| "commits. The User understands that this grant is non revocable due to "
+#| "nature of the VCS."
 msgid ""
-"The User agrees to use of own name and e-mail as authorship in the VCS "
-"commits. The User understands that this grant is non revocable due to nature "
-"of the VCS."
+"The User agrees to use of name and e-mail as authorship in the VCS commits. "
+"The User understands that this grant is non-revocable due to the nature of "
+"the VCS."
 msgstr ""
 "Brukeren samtykker til bruk av eget navn og e-post som forfatterskap i VKS-"
 "innsendelser. Brukeren forstår at denne innvilgelsen ikke er tilbakekallbar "
 "som følge av VKS-systemers natur."
 
-#: wllegal/templates/legal/documents/tos.html:133
+#: wllegal/templates/legal/documents/tos.html:118
 #, python-format
 msgid ""
 "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
@@ -747,15 +705,15 @@ msgstr ""
 "kommunikasjon, som endret, informeres brukeren om at tjenesten bruker "
 "informasjonskapsler."
 
-#: wllegal/templates/legal/documents/tos.html:135
+#: wllegal/templates/legal/documents/tos.html:120
 msgid "The Service uses Cookies to personalise content."
 msgstr "Tjenesten bruker informasjonskapsler til å personalisere innhold."
 
-#: wllegal/templates/legal/documents/tos.html:138
+#: wllegal/templates/legal/documents/tos.html:123
 msgid "Governing Law"
 msgstr "Styrende lov"
 
-#: wllegal/templates/legal/documents/tos.html:140
+#: wllegal/templates/legal/documents/tos.html:125
 msgid ""
 "These Terms of Service shall be governed by the laws of the Czech Republic "
 "with exclusion of conflict rules."
@@ -763,7 +721,7 @@ msgstr ""
 "Disse tjenestevilkårene skal håndheves av lovene i Tsjekkia, med unntak av "
 "konfliktsregler."
 
-#: wllegal/templates/legal/documents/tos.html:142
+#: wllegal/templates/legal/documents/tos.html:127
 msgid ""
 "Any disputes arising on the basis of the Agreement and/or these Terms of "
 "Service shall be resolved by the court of the Czech republic having "
@@ -773,16 +731,134 @@ msgstr ""
 "disse tjenestevilkårene skal løses i Tsjekkisk rett, som har materiell og "
 "lokal jurisdiksjon."
 
-#: wllegal/templates/legal/documents/tos.html:145
+#: wllegal/templates/legal/documents/tos.html:130
 msgid "Effect"
 msgstr "Ikrafttredelse"
 
-#: wllegal/templates/legal/documents/tos.html:147
+#: wllegal/templates/legal/documents/tos.html:132
+#, fuzzy
+#| msgid ""
+#| "These Terms of Service shall come into force and effect on 1st September "
+#| "2017."
 msgid ""
-"These Terms of Service shall come into force and effect on 1st September "
-"2017."
+"These Terms of Service shall come into force and effect on 15th May 2023."
 msgstr ""
 "Disse tjenestevilkårene trer i kraft og håndheves fra første september 2017."
+
+#~ msgid ""
+#~ "In case you purchase service from us, we collect additional billing "
+#~ "information necessary for issuing an invoice"
+#~ msgstr ""
+#~ "Hvis du kjøper en tjeneste av oss, samler vi ytterligere "
+#~ "faktureringsinformasjon som trengs for utstedelse av faktura"
+
+#~ msgid "Payment processors."
+#~ msgstr "Betalingsformidlere."
+
+#~ msgid ""
+#~ "The services are provided “as is”, at your own risk, without any warranty."
+#~ msgstr "Tjenestene tilbys \"som de er\", på egen risiko, uten noen garanti."
+
+#~ msgid ""
+#~ "Additional guarantees might apply to commercial customers, those are "
+#~ "expressed in corresponding contracts."
+#~ msgstr ""
+#~ "Ytterligere garantier kan påløpe for noen kommersielle aktører, men disse "
+#~ "er fremforhandlet i respektive kontrakter."
+
+#, python-format
+#~ msgid ""
+#~ "Within the meaning of <a href=\"%(url)s\">Article 7</a> of the GDPR the "
+#~ "User hereby gives consent to the collecting, storage and processing of "
+#~ "the Personal Data provided by the User to the administrator, who is the "
+#~ "Provider, through the use of the Service; the User gives consent to the "
+#~ "processing and use of the User’s Personal Data by the Provider, the "
+#~ "Provider’s employees and/or the Provider’s authorised business partners. "
+#~ "This consent is given as long as User does not remove their account from "
+#~ "the Service."
+#~ msgstr ""
+#~ "I meningen av <a href=\"%(url)s\">Article 7</a> av GDPR, gir brukeren "
+#~ "herved sitt samtykke til innsamling, lagring og behandling av den "
+#~ "personlige dataen oversendt av brukeren til administratoren, som er "
+#~ "tilbyderen, gjennom bruken av tjenesten. Brukeren gir sitt samtykke med "
+#~ "behandling og bruk av sin personlige data av tilbyderen, dens ansatte og/"
+#~ "eller dens autoriserte forretningspartnere. Dette samtykket gis så lenge "
+#~ "brukeren ikke fjerner sin konto fra tjenesten."
+
+#, python-format
+#~ msgid ""
+#~ "The purpose of the processing of Personal Data as determined by the "
+#~ "Provider is the use of Personal Data for sending commercial "
+#~ "communications to the subject of the data (the User) through electronic "
+#~ "means under Act No. %(law_480_2004)s Coll., on certain services of the "
+#~ "information society, as amended, and further for business needs of the "
+#~ "Provider’s contractual partners and for statistical purposes of the "
+#~ "Provider."
+#~ msgstr ""
+#~ "Formålet med behandling av personlig data som bestemt av tilbyderen er "
+#~ "bruken av personlig data for forsendelse av kommersielle kommunikasjoner "
+#~ "til dataens opphav (brukeren) med elektroniske midler, under lov nr. "
+#~ "%(law_480_2004)s samlet, om gitte tjenester av informasjonssamfunnet, som "
+#~ "endret, og ytterligere til forretningsbehov for tilbyderens "
+#~ "kontraktsbaserte partnere og i statistikkøyemed for tilbyderen."
+
+#~ msgid ""
+#~ "If the User directly and effectively informs the Provider of no longer "
+#~ "wishing to receive business information from the Provider, the Provider "
+#~ "shall refrain from sending further unsolicited business communications."
+#~ msgstr ""
+#~ "Hvis brukeren direkte eller effektivt informerer brukeren om at "
+#~ "vedkommende ikke lenger ønsker å motta forretningsinformasjon fra "
+#~ "tilbyderen, skal tilbyderen unngå å sende ytterligere uoppfordret "
+#~ "forretningskommunikasjon."
+
+#, python-format
+#~ msgid ""
+#~ "The User declares awareness of own rights under <a href=\"%(url_15)s"
+#~ "\">Article 15</a> and <a href=\"%(url_17)s\">Article 17</a> of the GDPR "
+#~ "and declares that all the Personal Data is accurate and true and has been "
+#~ "provided voluntarily."
+#~ msgstr ""
+#~ "Brukeren gjør det klart at vedkommende kjenner sine rettigheter under <a "
+#~ "href=\"%(url_15)s\">artikkel 15</a> og <a href=\"%(url_17)s\">artikkel "
+#~ "17</a> av lov om personlig databeskyttelse, og gjør det klart at all "
+#~ "persondata er nøyaktig, og at den stemmer, samt at den har blitt oppgitt "
+#~ "frivillig."
+
+#~ msgid ""
+#~ "The Provider declares that it will collect Personal Data only in the "
+#~ "extent necessary for meeting the above-specified purpose and process the "
+#~ "Personal Data in accordance with the purpose for which it was collected. "
+#~ "The Provider’s employees and other individuals who process the Personal "
+#~ "Data on the basis of a contract with the Provider shall maintain "
+#~ "confidentiality of the Personal Data, even after the termination of their "
+#~ "employment or business relationship with the Provider."
+#~ msgstr ""
+#~ "Tilbyderen gjør det klart at den vil samle inn personlig data kun i "
+#~ "nødvendig omfang for å møte ovennevnt formål, og behandle personlig data "
+#~ "i samsvar med formålet de ble samlet inn i. Tilbyderens ansatte og andre "
+#~ "individer som behandler den personlige dataen på grunnlag av kontrakten "
+#~ "med tilbyderen skal opprettholde dens konfidensialitet, selv etter at "
+#~ "forretningsforholdet med tilbyderen er opphevet."
+
+#~ msgid ""
+#~ "The Provider declares that it will process the Personal Data by "
+#~ "electronic means (automatically) via computer programs for which the "
+#~ "Provider has secured the right of use, in particular the Service."
+#~ msgstr ""
+#~ "Tilbyderen gjør det klart at den vil behandle den personlige dataen med "
+#~ "elektroniske midler (automatisk) via dataprogram, som tilbyderen har "
+#~ "sikret seg retten til å bruke, i særdeleshet tjenesten."
+
+#~ msgid ""
+#~ "The User’s consent under this Article 5 of the Terms of Service "
+#~ "constitutes a free and informed juridical act which concerns the consent "
+#~ "of the subject of the data (the User) with processing of the Personal "
+#~ "Data."
+#~ msgstr ""
+#~ "Brukerens samtykke under denne artikkel 5 av tjenestevilkårene utgjør en "
+#~ "fri og informert juridisk handling som angår samtykket for dataens opphav "
+#~ "(brukeren) med behandling av persondata."
 
 #~ msgid "Generate Unknown Horizons scenario data"
 #~ msgstr "Genererer ukjent Horizons-handlingsdata"

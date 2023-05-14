@@ -6,9 +6,9 @@
 # anonymous <noreply@weblate.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2021-09-22 06:40+0000\n"
+"POT-Creation-Date: 2023-05-14 17:43+0000\n"
 "PO-Revision-Date: 2021-09-22 15:42+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/weblate/legal/"
@@ -26,7 +26,9 @@ msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "Podkooperanti sukladno čl. 28 GDPR-a"
 
 #: wllegal/templates/legal/documents/contracts.html:10
-msgid "Status as of October 2020."
+#, fuzzy
+#| msgid "Status as of October 2020."
+msgid "Status as of March 2023."
 msgstr "Stanje od listopada 2020."
 
 #: wllegal/templates/legal/documents/privacy.html:6
@@ -72,13 +74,17 @@ msgid "Name and e-mail address"
 msgstr "Ime i e-adresa"
 
 #: wllegal/templates/legal/documents/privacy.html:26
-msgid "These are used to identify you in the VCS commits"
+#, fuzzy
+#| msgid "These are used to identify you in the VCS commits"
+msgid "These are used to identify you in the VCS commits."
 msgstr ""
 "Koriste se kako bi te se identificiralo u promjenama u sustavu za kontrolu "
 "verzija"
 
 #: wllegal/templates/legal/documents/privacy.html:27
-msgid "Additionally, e-mail is used for notification of watched events"
+#, fuzzy
+#| msgid "Additionally, e-mail is used for notification of watched events"
+msgid "Additionally, e-mail is used for notification of watched events."
 msgstr "E-adresa se koristi i za obavijesti događaja koje pratiš"
 
 #: wllegal/templates/legal/documents/privacy.html:29
@@ -98,24 +104,28 @@ msgid "IP address and browser name"
 msgstr "IP adresa i ime preglednika"
 
 #: wllegal/templates/legal/documents/privacy.html:34
+#, fuzzy
+#| msgid ""
+#| "These are logged in case of important changes to your account (e.g. "
+#| "password change) to allow diagnosis in case your account is stolen"
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
-"change) to allow diagnosis in case your account is stolen"
+"change) to allow diagnosis in case your account is stolen."
 msgstr ""
 "Bilježe se u slučaju značajnih promjena na tvom računu (npr. promjena "
 "lozinke) i služe za provođenje dijagnoze u slučaju da se tvoj račun ukrade"
 
 #: wllegal/templates/legal/documents/privacy.html:36
-msgid "Billing information"
+#, fuzzy
+#| msgid "Billing information"
+msgid "Billing info"
 msgstr "Podaci naplate"
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
-"In case you purchase service from us, we collect additional billing "
-"information necessary for issuing an invoice"
+"Necessary details to issue an invoice is collected when purchasing a service "
+"from us."
 msgstr ""
-"U slučaju da od nas kupiš uslugu, prikupljamo dodatne podatke naplate, koji "
-"su potrebni za izdavanje računa"
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
@@ -182,18 +192,41 @@ msgid "Persons which are contracted for technical assurance of the service."
 msgstr "Osobe s kojima je zaključen ugovor za tehničko osiguravanje usluge."
 
 #: wllegal/templates/legal/documents/privacy.html:60
-msgid "Payment processors."
-msgstr "Obrađivači plaćanja."
+msgid "Payment processors when purchasing a service from us."
+msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
 msgstr "Svi osobni podaci spremaju se u Europskoj uniji."
 
 #: wllegal/templates/legal/documents/privacy.html:65
+#, fuzzy
+#| msgid "Access to the Personal Data"
+msgid "Disclossure of the Personal Data"
+msgstr "Pristup osobnim podacima"
+
+#: wllegal/templates/legal/documents/privacy.html:67
+msgid ""
+"The Personal Data might be disclosed to third parties in limited "
+"circumstances when the Controller has a good faith belief it is required by "
+"law, such as under a subpoena or other judicial or administrative order."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:69
+msgid ""
+"In case the Controller is required by law to disclose the Personal Data, an "
+"attempt will be made to provide the User with prior notice by e-mail (unless "
+"the Controller is prohibited, or it would be futile) that a request for the "
+"Personal Data has been made to allow the User to object to the disclosure. "
+"If the User does not challenge the disclosure request, the Controller may be "
+"legally required to turn over the Personal Data."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:71
 msgid "The Personal Data retention"
 msgstr "Zadržavanje osobnih podataka"
 
-#: wllegal/templates/legal/documents/privacy.html:67
+#: wllegal/templates/legal/documents/privacy.html:73
 msgid ""
 "The Personal Data is stored in the Service until the User deletes their "
 "account on the service."
@@ -201,19 +234,23 @@ msgstr ""
 "Osobni podaci se spremaju u usluzi sve dok korisnik ne izbriše svoj račun na "
 "usluzi."
 
-#: wllegal/templates/legal/documents/privacy.html:69
+#: wllegal/templates/legal/documents/privacy.html:75
+#, fuzzy
+#| msgid ""
+#| "Access log information might be collected for a longer period for the "
+#| "purpose of establishing, exercising or defending legal claims."
 msgid ""
-"Access log information might be collected for a longer period for the "
-"purpose of establishing, exercising or defending legal claims."
+"Access log info might be collected for a longer period for the purpose of "
+"establishing, exercising or defending legal claims."
 msgstr ""
 "Podaci o pristupanjima mogu se prikupljati na duže vremensko razdoblje u "
 "svrhu utvrđivanja, ostvarivanja ili zaštite pravnih zahtjeva."
 
-#: wllegal/templates/legal/documents/privacy.html:71
+#: wllegal/templates/legal/documents/privacy.html:77
 msgid "Your rights"
 msgstr "Tvoja prava"
 
-#: wllegal/templates/legal/documents/privacy.html:73
+#: wllegal/templates/legal/documents/privacy.html:79
 msgid ""
 "The User provides use of Personal Data voluntarily. Without this Personal "
 "Data Weblate is not able to provide our services."
@@ -221,7 +258,7 @@ msgstr ""
 "Korisnik pruža osobne podatke dobrovoljno. Bez ovih osobnih podataka Weblate "
 "ne može pružiti naše usluge."
 
-#: wllegal/templates/legal/documents/privacy.html:75
+#: wllegal/templates/legal/documents/privacy.html:81
 msgid ""
 "We want you to always be in control of your Personal Data. To this end, you "
 "have certain rights that allow for it. Under certain conditions, you may:"
@@ -229,7 +266,7 @@ msgstr ""
 "Želimo da uvijek imaš kontrolu nad svojim osobnim podacima. U tu svrhu imaš "
 "određena prava koja to dopuštaju. Pod određenim uvjetima, možeš:"
 
-#: wllegal/templates/legal/documents/privacy.html:79
+#: wllegal/templates/legal/documents/privacy.html:85
 #, python-format
 msgid ""
 "Gain access to all your Personal Data that Weblate uses or processes, and "
@@ -239,26 +276,26 @@ msgstr ""
 "obrađuje, pa čak i dobiti kopiju svih podataka <a href=\"%(url)s\">Članak 15 "
 "Opće uredbe o zaštiti podataka </a>)"
 
-#: wllegal/templates/legal/documents/privacy.html:80
+#: wllegal/templates/legal/documents/privacy.html:86
 msgid ""
 "Correct the Personal Data that Weblate processes if you think that there are "
 "mistakes"
 msgstr ""
 "Ispraviti osobne podatke koje Weblate obrađuje, ako smatraš da ima grešaka"
 
-#: wllegal/templates/legal/documents/privacy.html:81
+#: wllegal/templates/legal/documents/privacy.html:87
 msgid "Order us to delete your Personal Data"
 msgstr "Naručiti brisanje tvojih osobnih podataka"
 
-#: wllegal/templates/legal/documents/privacy.html:82
+#: wllegal/templates/legal/documents/privacy.html:88
 msgid "Restrict the Personal Data processing"
 msgstr "Ograničiti obradu osobnih podataka"
 
-#: wllegal/templates/legal/documents/privacy.html:83
+#: wllegal/templates/legal/documents/privacy.html:89
 msgid "Object to processing"
 msgstr "Prigovoriti obradi podataka"
 
-#: wllegal/templates/legal/documents/privacy.html:84
+#: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "Receive your Personal Data in a commonly used and machine-readable format or "
 "to transmit this Personal Data to a different provider."
@@ -266,7 +303,7 @@ msgstr ""
 "Primati svoje osobne podatke u uobičajenom i strojno čitljivom obliku ili "
 "proslijediti te osobne podatke drugom pružatelju usluga."
 
-#: wllegal/templates/legal/documents/privacy.html:87
+#: wllegal/templates/legal/documents/privacy.html:93
 msgid ""
 "The removal, correction, and retrieval of your Personal Data can be done "
 "from the account management, and is fully automated."
@@ -275,34 +312,29 @@ msgstr ""
 "izvršiti na stranici za upravljanje računom i potpuno je automatizirano."
 
 #: wllegal/templates/legal/documents/summary.html:4
+#, fuzzy
+#| msgid ""
+#| "We process private data (such as your e-mail address), those will be "
+#| "discarded from our database as soon as you remove your account."
 msgid ""
-"The services are provided “as is”, at your own risk, without any warranty."
-msgstr "Usluge se pružaju „kakve jesu”, na vlastitu odgovornost i bez jamstva."
-
-#: wllegal/templates/legal/documents/summary.html:5
-msgid ""
-"Additional guarantees might apply to commercial customers, those are "
-"expressed in corresponding contracts."
-msgstr ""
-"Dodatna jamstva mogu se primijeniti na komercijalne kupce, a dogovaraju se u "
-"odgovarajućim ugovorima."
-
-#: wllegal/templates/legal/documents/summary.html:6
-msgid ""
-"We process private data (such as your e-mail address), those will be "
-"discarded from our database as soon as you remove your account."
+"We process personal data (such as your e-mail address); those will be "
+"discarded from our database if you remove your account."
 msgstr ""
 "Obrađujemo privatne podatke (kao što je tvoja e-adresa). Podaci se uklanjaju "
 "iz naše baze podataka čim ukloniš račun."
 
-#: wllegal/templates/legal/documents/summary.html:7
+#: wllegal/templates/legal/documents/summary.html:5
+#, fuzzy
+#| msgid ""
+#| "Your translations are made under license which is specified by each "
+#| "translation."
 msgid ""
-"Your translations are made under license which is specified by each "
+"Your translations are made under the license which is specified by each "
 "translation."
 msgstr ""
 "Tvoji se prijevodi izrađuju pod licencom koja je određena za svaki prijevod."
 
-#: wllegal/templates/legal/documents/summary.html:8
+#: wllegal/templates/legal/documents/summary.html:7
 msgid ""
 "Your name and e-mail address is used in VCS commits, it will stay there "
 "indefinitely."
@@ -310,9 +342,19 @@ msgstr ""
 "Tvoje ime i e-adresa koriste se za izmjene u sustavu za kontrolu verzija. "
 "Tamo će ostati zauvijek."
 
-#: wllegal/templates/legal/documents/summary.html:9
+#: wllegal/templates/legal/documents/summary.html:8
+msgid ""
+"Chosen name is up to you and the e-mail address used for commits can be "
+"masked by Weblate system to protect your privacy."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:11
 msgid "We use cookies to deliver our services."
 msgstr "Koristimo kolačiće za dostavljanje naših usluga."
+
+#: wllegal/templates/legal/documents/summary.html:12
+msgid "We don’t use any third-party cookies."
+msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
@@ -379,7 +421,7 @@ msgstr ""
 "označavanjem potvrdnog okvira prilikom registracije"
 
 #: wllegal/templates/legal/documents/tos.html:35
-#: wllegal/templates/legal/documents/tos.html:131
+#: wllegal/templates/legal/documents/tos.html:116
 msgid "Cookies"
 msgstr "Kolačići"
 
@@ -596,104 +638,15 @@ msgstr ""
 #, python-format
 msgid ""
 "Within the meaning of <a href=\"%(url)s\">Article 7</a> of the GDPR the User "
-"hereby gives consent to the collecting, storage and processing of the "
-"Personal Data provided by the User to the administrator, who is the "
-"Provider, through the use of the Service; the User gives consent to the "
-"processing and use of the User’s Personal Data by the Provider, the "
-"Provider’s employees and/or the Provider’s authorised business partners. "
-"This consent is given as long as User does not remove their account from the "
-"Service."
+"hereby gives consent to collecting, storage, and processing of the Personal "
+"Data according to the <a href=\"%(privacy_url)s\">Privacy Policy</a>."
 msgstr ""
-"U smislu <a href=\"%(url)s\">Članka 7</a> Opće uredbe o zaštiti podataka, "
-"korisnik ovime daje suglasnost za prikupljanje, spremanje i obradu osobnih "
-"podataka koje je korisnik pružio administratoru, koji je pružatelj usluge, "
-"putem upotrebe usluge; Korisnik daje suglasnost za obradu i korištenje "
-"osobnih podataka korisnika od strane pružatelja usluge, zaposlenika "
-"pružatelja usluge i/ili ovlaštenih poslovnih partnera pružatelja usluge. Ova "
-"suglasnost daje se sve dok korisnik ne ukloni svoj račun iz usluge."
 
 #: wllegal/templates/legal/documents/tos.html:103
-#, python-format
-msgid ""
-"The purpose of the processing of Personal Data as determined by the Provider "
-"is the use of Personal Data for sending commercial communications to the "
-"subject of the data (the User) through electronic means under Act No. "
-"%(law_480_2004)s Coll., on certain services of the information society, as "
-"amended, and further for business needs of the Provider’s contractual "
-"partners and for statistical purposes of the Provider."
-msgstr ""
-"Svrha obrade osobnih podataka kako je odredio pružatelj usluge je upotreba "
-"osobnih podataka za slanje komercijalne komunikacije subjektu podataka "
-"(korisniku) elektroničkim putem prema zakonu br. %(law_480_2004)s zbirka, na "
-"određene usluge informacijskog društva, s promjenama i dopunama, nadalje za "
-"poslovne potrebe ugovornih partnera pružatelja usluge i u statističke svrhe "
-"pružatelja usluga."
-
-#: wllegal/templates/legal/documents/tos.html:105
-msgid ""
-"If the User directly and effectively informs the Provider of no longer "
-"wishing to receive business information from the Provider, the Provider "
-"shall refrain from sending further unsolicited business communications."
-msgstr ""
-"Ako korisnik izravno i učinkovito obavijesti pružatelja usluge da više ne "
-"želi primati poslovne informacije od pružatelja usluge, pružatelj neće slati "
-"daljnje neželjene poslovne komunikacije."
-
-#: wllegal/templates/legal/documents/tos.html:109
-#, python-format
-msgid ""
-"The User declares awareness of own rights under <a href=\"%(url_15)s"
-"\">Article 15</a> and <a href=\"%(url_17)s\">Article 17</a> of the GDPR and "
-"declares that all the Personal Data is accurate and true and has been "
-"provided voluntarily."
-msgstr ""
-"Korisnik izjavljuje da je svjestan vlastitih prava na osnovi <a href="
-"\"%(url_15)s\">Članka 15</a> i <a href=\"%(url_17)s\">Članka 17</a> Opće "
-"uredbe o zaštiti podataka i izjavljuje da su svi osobni podaci točni i "
-"istiniti i da su dani dobrovoljno."
-
-#: wllegal/templates/legal/documents/tos.html:111
-msgid ""
-"The Provider declares that it will collect Personal Data only in the extent "
-"necessary for meeting the above-specified purpose and process the Personal "
-"Data in accordance with the purpose for which it was collected. The "
-"Provider’s employees and other individuals who process the Personal Data on "
-"the basis of a contract with the Provider shall maintain confidentiality of "
-"the Personal Data, even after the termination of their employment or "
-"business relationship with the Provider."
-msgstr ""
-"Pružatelj usluge izjavljuje da će prikupljati osobne podatke samo u mjeri "
-"potrebnoj za ispunjavanje gore navedene svrhe i obrađivati osobne podatke u "
-"skladu sa svrhom za koju su prikupljeni. Zaposlenici pružatelja usluge i "
-"drugi pojedinci koji obrađuju osobne podatke na temelju ugovora s "
-"pružateljem usluge, čuvat će povjerljivost osobnih podataka, čak i nakon "
-"prestanka njihovog zaposlenja ili poslovnog odnosa s pružateljem usluge."
-
-#: wllegal/templates/legal/documents/tos.html:113
-msgid ""
-"The Provider declares that it will process the Personal Data by electronic "
-"means (automatically) via computer programs for which the Provider has "
-"secured the right of use, in particular the Service."
-msgstr ""
-"Pružatelj usluge izjavljuje da će osobne podatke obrađivati elektroničkim "
-"putem (automatski) putem računalnih programa za koje je pružatelj usluga "
-"osigurao pravo korištenja, izričito za potrebe usluge."
-
-#: wllegal/templates/legal/documents/tos.html:115
-msgid ""
-"The User’s consent under this Article 5 of the Terms of Service constitutes "
-"a free and informed juridical act which concerns the consent of the subject "
-"of the data (the User) with processing of the Personal Data."
-msgstr ""
-"Korisnikov pristanak prema članku 5. ovih uvjeta pružanja usluge predstavlja "
-"besplatan i informiran pravni akt koji se odnosi na pristanak subjekta "
-"podataka (korisnika) za obradu osobnih podataka."
-
-#: wllegal/templates/legal/documents/tos.html:118
 msgid "Translations"
 msgstr "Prijevodi"
 
-#: wllegal/templates/legal/documents/tos.html:120
+#: wllegal/templates/legal/documents/tos.html:105
 msgid ""
 "The Service organizes translation into individual Projects, where the Owner "
 "is responsible for managing them and for specifying accurately the license "
@@ -702,7 +655,7 @@ msgstr ""
 "Usluga organizira prijevod u pojedinačne projekte, gdje je vlasnik odgovoran "
 "za njihovo upravljanje i za točno određivanje licence projekta."
 
-#: wllegal/templates/legal/documents/tos.html:122
+#: wllegal/templates/legal/documents/tos.html:107
 msgid ""
 "Not specifying translation license means that the translations are available "
 "under same license as the given Project itself."
@@ -710,7 +663,7 @@ msgstr ""
 "Ne određivanje licence za prijevod znači, da su prijevodi dostupni pod istom "
 "licencom kao i sam projekt."
 
-#: wllegal/templates/legal/documents/tos.html:124
+#: wllegal/templates/legal/documents/tos.html:109
 msgid ""
 "Should the Project opt in for the Translation Memory, license to use the "
 "translation is granted to all Translation Memory users."
@@ -718,7 +671,7 @@ msgstr ""
 "Ako se projekt opredijeli za upotrebu prevodilačke memorije, licenca za "
 "korištenje prijevoda dodjeljuje se svim korisnicima prevodilačke memorije."
 
-#: wllegal/templates/legal/documents/tos.html:126
+#: wllegal/templates/legal/documents/tos.html:111
 msgid ""
 "The User agrees, upon contributing to a Project, to the license the Project "
 "has specified."
@@ -726,17 +679,22 @@ msgstr ""
 "Nakon doprinošenja projektu, korisnik se slaže s licencom koju je projekt "
 "odredio."
 
-#: wllegal/templates/legal/documents/tos.html:128
+#: wllegal/templates/legal/documents/tos.html:113
+#, fuzzy
+#| msgid ""
+#| "The User agrees to use of own name and e-mail as authorship in the VCS "
+#| "commits. The User understands that this grant is non revocable due to "
+#| "nature of the VCS."
 msgid ""
-"The User agrees to use of own name and e-mail as authorship in the VCS "
-"commits. The User understands that this grant is non revocable due to nature "
-"of the VCS."
+"The User agrees to use of name and e-mail as authorship in the VCS commits. "
+"The User understands that this grant is non-revocable due to the nature of "
+"the VCS."
 msgstr ""
 "Korisnik pristaje koristiti vlastito ime i e-adresu kao autorstvo promjena u "
 "sustavu za kontrolu verzija. Korisnik shvaća da se ova dozvola ne može "
 "opozvati zbog same prirode sustava za kontrolu verzija."
 
-#: wllegal/templates/legal/documents/tos.html:133
+#: wllegal/templates/legal/documents/tos.html:118
 #, python-format
 msgid ""
 "Within the meaning of Article 89 Act No. %(law_480_2004)s Coll., on "
@@ -747,15 +705,15 @@ msgstr ""
 "komunikaciji, s promjenama i dopunama, korisnik je obaviješten da usluga "
 "koristi kolačiće."
 
-#: wllegal/templates/legal/documents/tos.html:135
+#: wllegal/templates/legal/documents/tos.html:120
 msgid "The Service uses Cookies to personalise content."
 msgstr "Usluga koristi kolačiće za personaliziranje sadržaja."
 
-#: wllegal/templates/legal/documents/tos.html:138
+#: wllegal/templates/legal/documents/tos.html:123
 msgid "Governing Law"
 msgstr "Mjerodavno pravo"
 
-#: wllegal/templates/legal/documents/tos.html:140
+#: wllegal/templates/legal/documents/tos.html:125
 msgid ""
 "These Terms of Service shall be governed by the laws of the Czech Republic "
 "with exclusion of conflict rules."
@@ -763,7 +721,7 @@ msgstr ""
 "Ovi uvjeti pružanja usluga uređeni su zakonima Republike Češke, osim spornih "
 "pravila."
 
-#: wllegal/templates/legal/documents/tos.html:142
+#: wllegal/templates/legal/documents/tos.html:127
 msgid ""
 "Any disputes arising on the basis of the Agreement and/or these Terms of "
 "Service shall be resolved by the court of the Czech republic having "
@@ -772,15 +730,133 @@ msgstr ""
 "Sve sporove koji proizlaze na temelju sporazuma i/ili ovih uvjeta pružanja "
 "usluge rješava sud Republike Češke koji ima materijalnu i lokalnu nadležnost."
 
-#: wllegal/templates/legal/documents/tos.html:145
+#: wllegal/templates/legal/documents/tos.html:130
 msgid "Effect"
 msgstr "Stupanje na snagu"
 
-#: wllegal/templates/legal/documents/tos.html:147
+#: wllegal/templates/legal/documents/tos.html:132
+#, fuzzy
+#| msgid ""
+#| "These Terms of Service shall come into force and effect on 1st September "
+#| "2017."
 msgid ""
-"These Terms of Service shall come into force and effect on 1st September "
-"2017."
+"These Terms of Service shall come into force and effect on 15th May 2023."
 msgstr "Ovi uvjeti pružanja usluge stupaju na snagu 1. rujna 2017."
+
+#~ msgid ""
+#~ "In case you purchase service from us, we collect additional billing "
+#~ "information necessary for issuing an invoice"
+#~ msgstr ""
+#~ "U slučaju da od nas kupiš uslugu, prikupljamo dodatne podatke naplate, "
+#~ "koji su potrebni za izdavanje računa"
+
+#~ msgid "Payment processors."
+#~ msgstr "Obrađivači plaćanja."
+
+#~ msgid ""
+#~ "The services are provided “as is”, at your own risk, without any warranty."
+#~ msgstr ""
+#~ "Usluge se pružaju „kakve jesu”, na vlastitu odgovornost i bez jamstva."
+
+#~ msgid ""
+#~ "Additional guarantees might apply to commercial customers, those are "
+#~ "expressed in corresponding contracts."
+#~ msgstr ""
+#~ "Dodatna jamstva mogu se primijeniti na komercijalne kupce, a dogovaraju "
+#~ "se u odgovarajućim ugovorima."
+
+#, python-format
+#~ msgid ""
+#~ "Within the meaning of <a href=\"%(url)s\">Article 7</a> of the GDPR the "
+#~ "User hereby gives consent to the collecting, storage and processing of "
+#~ "the Personal Data provided by the User to the administrator, who is the "
+#~ "Provider, through the use of the Service; the User gives consent to the "
+#~ "processing and use of the User’s Personal Data by the Provider, the "
+#~ "Provider’s employees and/or the Provider’s authorised business partners. "
+#~ "This consent is given as long as User does not remove their account from "
+#~ "the Service."
+#~ msgstr ""
+#~ "U smislu <a href=\"%(url)s\">Članka 7</a> Opće uredbe o zaštiti podataka, "
+#~ "korisnik ovime daje suglasnost za prikupljanje, spremanje i obradu "
+#~ "osobnih podataka koje je korisnik pružio administratoru, koji je "
+#~ "pružatelj usluge, putem upotrebe usluge; Korisnik daje suglasnost za "
+#~ "obradu i korištenje osobnih podataka korisnika od strane pružatelja "
+#~ "usluge, zaposlenika pružatelja usluge i/ili ovlaštenih poslovnih partnera "
+#~ "pružatelja usluge. Ova suglasnost daje se sve dok korisnik ne ukloni svoj "
+#~ "račun iz usluge."
+
+#, python-format
+#~ msgid ""
+#~ "The purpose of the processing of Personal Data as determined by the "
+#~ "Provider is the use of Personal Data for sending commercial "
+#~ "communications to the subject of the data (the User) through electronic "
+#~ "means under Act No. %(law_480_2004)s Coll., on certain services of the "
+#~ "information society, as amended, and further for business needs of the "
+#~ "Provider’s contractual partners and for statistical purposes of the "
+#~ "Provider."
+#~ msgstr ""
+#~ "Svrha obrade osobnih podataka kako je odredio pružatelj usluge je "
+#~ "upotreba osobnih podataka za slanje komercijalne komunikacije subjektu "
+#~ "podataka (korisniku) elektroničkim putem prema zakonu br. "
+#~ "%(law_480_2004)s zbirka, na određene usluge informacijskog društva, s "
+#~ "promjenama i dopunama, nadalje za poslovne potrebe ugovornih partnera "
+#~ "pružatelja usluge i u statističke svrhe pružatelja usluga."
+
+#~ msgid ""
+#~ "If the User directly and effectively informs the Provider of no longer "
+#~ "wishing to receive business information from the Provider, the Provider "
+#~ "shall refrain from sending further unsolicited business communications."
+#~ msgstr ""
+#~ "Ako korisnik izravno i učinkovito obavijesti pružatelja usluge da više ne "
+#~ "želi primati poslovne informacije od pružatelja usluge, pružatelj neće "
+#~ "slati daljnje neželjene poslovne komunikacije."
+
+#, python-format
+#~ msgid ""
+#~ "The User declares awareness of own rights under <a href=\"%(url_15)s"
+#~ "\">Article 15</a> and <a href=\"%(url_17)s\">Article 17</a> of the GDPR "
+#~ "and declares that all the Personal Data is accurate and true and has been "
+#~ "provided voluntarily."
+#~ msgstr ""
+#~ "Korisnik izjavljuje da je svjestan vlastitih prava na osnovi <a href="
+#~ "\"%(url_15)s\">Članka 15</a> i <a href=\"%(url_17)s\">Članka 17</a> Opće "
+#~ "uredbe o zaštiti podataka i izjavljuje da su svi osobni podaci točni i "
+#~ "istiniti i da su dani dobrovoljno."
+
+#~ msgid ""
+#~ "The Provider declares that it will collect Personal Data only in the "
+#~ "extent necessary for meeting the above-specified purpose and process the "
+#~ "Personal Data in accordance with the purpose for which it was collected. "
+#~ "The Provider’s employees and other individuals who process the Personal "
+#~ "Data on the basis of a contract with the Provider shall maintain "
+#~ "confidentiality of the Personal Data, even after the termination of their "
+#~ "employment or business relationship with the Provider."
+#~ msgstr ""
+#~ "Pružatelj usluge izjavljuje da će prikupljati osobne podatke samo u mjeri "
+#~ "potrebnoj za ispunjavanje gore navedene svrhe i obrađivati osobne podatke "
+#~ "u skladu sa svrhom za koju su prikupljeni. Zaposlenici pružatelja usluge "
+#~ "i drugi pojedinci koji obrađuju osobne podatke na temelju ugovora s "
+#~ "pružateljem usluge, čuvat će povjerljivost osobnih podataka, čak i nakon "
+#~ "prestanka njihovog zaposlenja ili poslovnog odnosa s pružateljem usluge."
+
+#~ msgid ""
+#~ "The Provider declares that it will process the Personal Data by "
+#~ "electronic means (automatically) via computer programs for which the "
+#~ "Provider has secured the right of use, in particular the Service."
+#~ msgstr ""
+#~ "Pružatelj usluge izjavljuje da će osobne podatke obrađivati elektroničkim "
+#~ "putem (automatski) putem računalnih programa za koje je pružatelj usluga "
+#~ "osigurao pravo korištenja, izričito za potrebe usluge."
+
+#~ msgid ""
+#~ "The User’s consent under this Article 5 of the Terms of Service "
+#~ "constitutes a free and informed juridical act which concerns the consent "
+#~ "of the subject of the data (the User) with processing of the Personal "
+#~ "Data."
+#~ msgstr ""
+#~ "Korisnikov pristanak prema članku 5. ovih uvjeta pružanja usluge "
+#~ "predstavlja besplatan i informiran pravni akt koji se odnosi na pristanak "
+#~ "subjekta podataka (korisnika) za obradu osobnih podataka."
 
 #~ msgid "Generate Unknown Horizons scenario data"
 #~ msgstr "Stvori podatke Unknown Horizons scenarija"
