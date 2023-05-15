@@ -13,11 +13,11 @@
 # Changpeng Sun <zzjbcn@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-14 17:43+0000\n"
-"PO-Revision-Date: 2022-11-09 12:47+0000\n"
-"Last-Translator: yangyangdaji <1504305527@qq.com>\n"
+"PO-Revision-Date: 2023-05-15 13:29+0000\n"
+"Last-Translator: Eric <hamburger2048@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "weblate/legal/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -25,17 +25,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "分包商依照欧盟《通用数据保护条例》第28条之规定"
 
 #: wllegal/templates/legal/documents/contracts.html:10
-#, fuzzy
-#| msgid "Status as of October 2020."
 msgid "Status as of March 2023."
-msgstr "自 2020 年 10 月起的状态。"
+msgstr "截至 2023 年 3 月的状态。"
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -77,16 +75,12 @@ msgid "Name and e-mail address"
 msgstr "姓名和电子邮箱地址"
 
 #: wllegal/templates/legal/documents/privacy.html:26
-#, fuzzy
-#| msgid "These are used to identify you in the VCS commits"
 msgid "These are used to identify you in the VCS commits."
-msgstr "这些信息将用于在版本控制系统提交（VCS commits）中识别你"
+msgstr "这些信息用于在版本控制系统提交（VCS commits）中识别你的身份。"
 
 #: wllegal/templates/legal/documents/privacy.html:27
-#, fuzzy
-#| msgid "Additionally, e-mail is used for notification of watched events"
 msgid "Additionally, e-mail is used for notification of watched events."
-msgstr "另外，电子邮箱地址用于接收你关注的事件的消息通知"
+msgstr "另外，电子邮箱地址用于接收你关注的事件的消息通知。"
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
@@ -105,20 +99,13 @@ msgid "IP address and browser name"
 msgstr "IP 地址和浏览器名称"
 
 #: wllegal/templates/legal/documents/privacy.html:34
-#, fuzzy
-#| msgid ""
-#| "These are logged in case of important changes to your account (e.g. "
-#| "password change) to allow diagnosis in case your account is stolen"
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen."
-msgstr ""
-"这些记录已存储以备在你的账户有重要的变更时（例如更改密码）判断你的账号是否已"
-"被盗取"
+msgstr "这些记录已存储以备在你的账户有重要的变更时（例如更改密码）判断你的账号是否被"
+"盗取。"
 
 #: wllegal/templates/legal/documents/privacy.html:36
-#, fuzzy
-#| msgid "Billing information"
 msgid "Billing info"
 msgstr "账单信息"
 
@@ -126,7 +113,7 @@ msgstr "账单信息"
 msgid ""
 "Necessary details to issue an invoice is collected when purchasing a service "
 "from us."
-msgstr ""
+msgstr "从我们这里购买服务时会收集开具发票所必需的详细信息。"
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
@@ -191,24 +178,23 @@ msgstr "签订技术保证服务合同的人员。"
 
 #: wllegal/templates/legal/documents/privacy.html:60
 msgid "Payment processors when purchasing a service from us."
-msgstr ""
+msgstr "处理从我们这里购买服务事宜的支付处理商。"
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
 msgstr "所有个人数据都存储在欧盟。"
 
 #: wllegal/templates/legal/documents/privacy.html:65
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Disclossure of the Personal Data"
-msgstr "访问个人数据"
+msgstr "个人数据披露"
 
 #: wllegal/templates/legal/documents/privacy.html:67
 msgid ""
 "The Personal Data might be disclosed to third parties in limited "
 "circumstances when the Controller has a good faith belief it is required by "
 "law, such as under a subpoena or other judicial or administrative order."
-msgstr ""
+msgstr "在有限情况下，个人数据可能会被披露给多个第三方，当数据收集方相信这么做是法律"
+"所要求的，比如收到法庭传票或其他司法或行政命令。"
 
 #: wllegal/templates/legal/documents/privacy.html:69
 msgid ""
@@ -219,6 +205,9 @@ msgid ""
 "If the User does not challenge the disclosure request, the Controller may be "
 "legally required to turn over the Personal Data."
 msgstr ""
+"如果法律要求数据收集方披露个人数据，将尝试通过电子邮件提前通知用户 （除非收集"
+"方被禁止这么做，或者这是徒劳的）有关方面提出了索取个人资料的要求，以便用户反"
+"对披露。如果用户未对披露要求提出异议，则收集方可能会被法律要求交出个人数据。"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "The Personal Data retention"
@@ -231,10 +220,6 @@ msgid ""
 msgstr "个人数据存储在服务中，直到用户删除其在服务中的账户。"
 
 #: wllegal/templates/legal/documents/privacy.html:75
-#, fuzzy
-#| msgid ""
-#| "Access log information might be collected for a longer period for the "
-#| "purpose of establishing, exercising or defending legal claims."
 msgid ""
 "Access log info might be collected for a longer period for the purpose of "
 "establishing, exercising or defending legal claims."
@@ -299,26 +284,17 @@ msgid ""
 msgstr "删除、更正和检索您的个人数据可以从账户管理完成，且完全自动化。"
 
 #: wllegal/templates/legal/documents/summary.html:4
-#, fuzzy
-#| msgid ""
-#| "We process private data (such as your e-mail address), those will be "
-#| "discarded from our database as soon as you remove your account."
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
-msgstr ""
-"我们会处理私有数据（如您的电子邮箱地址），在您删除账号时，将会从我们的数据库"
-"中删除相关内容。"
+msgstr "我们处理个人数据（如您的电子邮箱地址），如您删除账号，相关内容会从我们的数据"
+"库中被扔掉。"
 
 #: wllegal/templates/legal/documents/summary.html:5
-#, fuzzy
-#| msgid ""
-#| "Your translations are made under license which is specified by each "
-#| "translation."
 msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
-msgstr "你的翻译是在每个翻译指定的许可证下进行的。"
+msgstr "您的译文在每个翻译项目指定的许可证下进行。"
 
 #: wllegal/templates/legal/documents/summary.html:7
 msgid ""
@@ -332,7 +308,8 @@ msgstr ""
 msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
-msgstr ""
+msgstr "所选名称由您决定，还可以借助 Weblate "
+"系统隐藏用于提交的电子邮箱地址以保护您的隐私。"
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid "We use cookies to deliver our services."
@@ -340,7 +317,7 @@ msgstr "我们使用 cookie 以提供服务。"
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid "We don’t use any third-party cookies."
-msgstr ""
+msgstr "我们不使用任何第三方 cookies。"
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
@@ -595,6 +572,8 @@ msgid ""
 "hereby gives consent to collecting, storage, and processing of the Personal "
 "Data according to the <a href=\"%(privacy_url)s\">Privacy Policy</a>."
 msgstr ""
+"在 GDPR <a href=\"%(url)s\">Article 7</a> 的意义范围内，用户特此同意根据 <a "
+"href=\"%(privacy_url)s\">隐私政策</a> 收集、存储并处理个人数据。"
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid "Translations"
@@ -627,18 +606,12 @@ msgid ""
 msgstr "用户在向项目贡献时同意项目指定的许可证。"
 
 #: wllegal/templates/legal/documents/tos.html:113
-#, fuzzy
-#| msgid ""
-#| "The User agrees to use of own name and e-mail as authorship in the VCS "
-#| "commits. The User understands that this grant is non revocable due to "
-#| "nature of the VCS."
 msgid ""
 "The User agrees to use of name and e-mail as authorship in the VCS commits. "
 "The User understands that this grant is non-revocable due to the nature of "
 "the VCS."
-msgstr ""
-"用户同意在版本控制系统（VCS）提交中使用他自己的姓名和电子邮箱地址作为作者身"
-"份。用户需理解，由于版本控制系统（VCS）的性质，此授权不可撤销。"
+msgstr "用户同意在版本控制系统（VCS）提交中使用姓名和电子邮箱地址作为作者身份。用户理"
+"解，由于版本控制系统（VCS）的性质，此授权不可撤销。"
 
 #: wllegal/templates/legal/documents/tos.html:118
 #, python-format
@@ -678,13 +651,9 @@ msgid "Effect"
 msgstr "影响"
 
 #: wllegal/templates/legal/documents/tos.html:132
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 1st September "
-#| "2017."
 msgid ""
 "These Terms of Service shall come into force and effect on 15th May 2023."
-msgstr "本服务条款将于2017年9月1日生效。"
+msgstr "本服务条款于 2023 年 3 月 15 日起生效。"
 
 #~ msgid ""
 #~ "In case you purchase service from us, we collect additional billing "
