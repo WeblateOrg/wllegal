@@ -8,11 +8,11 @@
 # frottle <catatan.kungkong@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-14 17:43+0000\n"
-"PO-Revision-Date: 2022-04-08 07:31+0000\n"
-"Last-Translator: Taufik Adi Wicaksono <taufikadi.wicaksono@tutamail.com>\n"
+"PO-Revision-Date: 2023-05-15 13:29+0000\n"
+"Last-Translator: Linerly <linerly@protonmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/weblate/legal/"
 "id/>\n"
 "Language: id\n"
@@ -20,17 +20,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.12-dev\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "Subkontraktor Sesuai dengan Art. 28 GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:10
-#, fuzzy
-#| msgid "Status as of October 2020."
 msgid "Status as of March 2023."
-msgstr "Status per Oktober 2020."
+msgstr "Status per Maret 2023."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -75,17 +73,14 @@ msgid "Name and e-mail address"
 msgstr "Nama dan alamat surel"
 
 #: wllegal/templates/legal/documents/privacy.html:26
-#, fuzzy
-#| msgid "These are used to identify you in the VCS commits"
 msgid "These are used to identify you in the VCS commits."
-msgstr "Ini digunakan untuk mengidentifikasi Anda dalam commit VCS"
+msgstr "Ini digunakan untuk mengidentifikasi Anda dalam commit VCS."
 
 #: wllegal/templates/legal/documents/privacy.html:27
-#, fuzzy
-#| msgid "Additionally, e-mail is used for notification of watched events"
 msgid "Additionally, e-mail is used for notification of watched events."
 msgstr ""
-"Selain itu, surel digunakan untuk memberi notifikasi pada proyek yang diikuti"
+"Selain itu, surel digunakan untuk memberi notifikasi pada proyek yang "
+"diikuti."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
@@ -104,28 +99,24 @@ msgid "IP address and browser name"
 msgstr "Alamat IP dan nama peramban web"
 
 #: wllegal/templates/legal/documents/privacy.html:34
-#, fuzzy
-#| msgid ""
-#| "These are logged in case of important changes to your account (e.g. "
-#| "password change) to allow diagnosis in case your account is stolen"
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen."
 msgstr ""
 "Ini dicatat jika ada perubahan penting pada akun Anda (seperti Perubahan "
-"kata sandi) untuk memungkinkan pemeriksaan seandainya akun Anda dicuri"
+"kata sandi) untuk memungkinkan pemeriksaan seandainya akun Anda dicuri."
 
 #: wllegal/templates/legal/documents/privacy.html:36
-#, fuzzy
-#| msgid "Billing information"
 msgid "Billing info"
-msgstr "Informasi penagihan"
+msgstr "Info penagihan"
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
 "Necessary details to issue an invoice is collected when purchasing a service "
 "from us."
 msgstr ""
+"Rincian yang diperlukan untuk menerbitkan faktur dikumpulkan saat membeli "
+"layanan dari kami."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
@@ -194,17 +185,15 @@ msgstr "Orang-orang yang dikontrak untuk memberikan jaminan teknis layanan."
 
 #: wllegal/templates/legal/documents/privacy.html:60
 msgid "Payment processors when purchasing a service from us."
-msgstr ""
+msgstr "Pemroses pembayaran saat membeli layanan dari kami."
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
 msgstr "Semua Data Pribadi disimpan di Uni Eropa."
 
 #: wllegal/templates/legal/documents/privacy.html:65
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Disclossure of the Personal Data"
-msgstr "Akses ke Data Pribadi"
+msgstr "Pengungkapan Data Pribadi"
 
 #: wllegal/templates/legal/documents/privacy.html:67
 msgid ""
@@ -212,6 +201,10 @@ msgid ""
 "circumstances when the Controller has a good faith belief it is required by "
 "law, such as under a subpoena or other judicial or administrative order."
 msgstr ""
+"Data Pribadi dapat diungkapkan kepada pihak ketiga dalam keadaan terbatas "
+"ketika Pengendali memiliki itikad baik bahwa hal tersebut diwajibkan oleh "
+"hukum, seperti di bawah panggilan pengadilan atau perintah peradilan atau "
+"administratif lainnya."
 
 #: wllegal/templates/legal/documents/privacy.html:69
 msgid ""
@@ -222,6 +215,13 @@ msgid ""
 "If the User does not challenge the disclosure request, the Controller may be "
 "legally required to turn over the Personal Data."
 msgstr ""
+"Jika Pengendali diwajibkan oleh hukum untuk mengungkapkan Data Pribadi, "
+"upaya akan dilakukan untuk memberikan pemberitahuan sebelumnya kepada "
+"Pengguna melalui email (kecuali jika Pengendali dilarang, atau akan sia-sia) "
+"bahwa permintaan Data Pribadi telah dibuat untuk memungkinkan Pengguna "
+"mengajukan keberatan atas pengungkapan tersebut. Jika Pengguna tidak "
+"mengajukan keberatan atas permintaan pengungkapan tersebut, Pengendali dapat "
+"diwajibkan secara hukum untuk menyerahkan Data Pribadi."
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "The Personal Data retention"
@@ -236,16 +236,12 @@ msgstr ""
 "layanan."
 
 #: wllegal/templates/legal/documents/privacy.html:75
-#, fuzzy
-#| msgid ""
-#| "Access log information might be collected for a longer period for the "
-#| "purpose of establishing, exercising or defending legal claims."
 msgid ""
 "Access log info might be collected for a longer period for the purpose of "
 "establishing, exercising or defending legal claims."
 msgstr ""
-"Informasi mengenai log akses dapat dikumpulkan untuk jangka waktu yang lebih "
-"lama untuk tujuan membangun, menjalankan, atau mempertahankan klaim hukum."
+"Info mengenai log akses dapat dikumpulkan untuk jangka waktu yang lebih lama "
+"untuk tujuan membangun, menjalankan, atau mempertahankan klaim hukum."
 
 #: wllegal/templates/legal/documents/privacy.html:77
 msgid "Your rights"
@@ -315,22 +311,14 @@ msgstr ""
 "manajemen akun, dan sepenuhnya berjalan otomatis."
 
 #: wllegal/templates/legal/documents/summary.html:4
-#, fuzzy
-#| msgid ""
-#| "We process private data (such as your e-mail address), those will be "
-#| "discarded from our database as soon as you remove your account."
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"Kami mengolah data pribadi (seperti alamat surel Anda), dan akan dibuang "
-"dari basis data kami segera setelah Anda menghapus akun Anda."
+"Kami mengolah data pribadi (seperti alamat surel Anda); mereka akan dibuang "
+"dari basis data kami jika Anda menghapus akun Anda."
 
 #: wllegal/templates/legal/documents/summary.html:5
-#, fuzzy
-#| msgid ""
-#| "Your translations are made under license which is specified by each "
-#| "translation."
 msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
@@ -349,6 +337,8 @@ msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
 msgstr ""
+"Nama yang dipilih terserah Anda dan alamat surel yang digunakan untuk komit "
+"dapat disembunyikan oleh sistem Weblate untuk melindungi privasi Anda."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid "We use cookies to deliver our services."
@@ -356,7 +346,7 @@ msgstr "Kami menggunakan kuki untuk memberikan layanan kami."
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid "We don’t use any third-party cookies."
-msgstr ""
+msgstr "Kami tidak menggunakan cookie pihak ketiga mana pun."
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
@@ -647,6 +637,9 @@ msgid ""
 "hereby gives consent to collecting, storage, and processing of the Personal "
 "Data according to the <a href=\"%(privacy_url)s\">Privacy Policy</a>."
 msgstr ""
+"Dalam arti <a href=\"%(url)s\">Pasal 7</a> GDPR, Pengguna dengan ini "
+"memberikan persetujuan untuk mengumpulkan, menyimpan, dan memproses Data "
+"Pribadi sesuai dengan <a href=\"%(privacy_url)s\">Kebijakan Privasi</a>."
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid "Translations"
@@ -687,19 +680,14 @@ msgstr ""
 "lisensi yang telah ditentukan oleh Proyek."
 
 #: wllegal/templates/legal/documents/tos.html:113
-#, fuzzy
-#| msgid ""
-#| "The User agrees to use of own name and e-mail as authorship in the VCS "
-#| "commits. The User understands that this grant is non revocable due to "
-#| "nature of the VCS."
 msgid ""
 "The User agrees to use of name and e-mail as authorship in the VCS commits. "
 "The User understands that this grant is non-revocable due to the nature of "
 "the VCS."
 msgstr ""
-"Pengguna setuju untuk menggunakan nama dan surel mereka sendiri sebagai "
-"kepengarangan pada commit VCS. Pengguna memahami bahwa hibah ini tidak dapat "
-"dibatalkan karena sifat VCS."
+"Pengguna setuju untuk menggunakan nama dan surel sebagai kepengarangan pada "
+"commit VCS. Pengguna memahami bahwa hibah ini tidak dapat dibatalkan karena "
+"sifat VCS."
 
 #: wllegal/templates/legal/documents/tos.html:118
 #, python-format
@@ -743,13 +731,9 @@ msgid "Effect"
 msgstr "Masa Berlaku"
 
 #: wllegal/templates/legal/documents/tos.html:132
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 1st September "
-#| "2017."
 msgid ""
 "These Terms of Service shall come into force and effect on 15th May 2023."
-msgstr "Persyaratan Layanan ini mulai berlaku pada tanggal 1 September 2017."
+msgstr "Persyaratan Layanan ini mulai berlaku pada tanggal 15 Mei 2023."
 
 #~ msgid ""
 #~ "In case you purchase service from us, we collect additional billing "
