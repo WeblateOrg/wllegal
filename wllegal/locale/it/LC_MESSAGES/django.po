@@ -10,11 +10,11 @@
 # Valentina Grassi <vale.grassi11@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-14 17:43+0000\n"
-"PO-Revision-Date: 2022-12-11 11:48+0000\n"
-"Last-Translator: Pierfrancesco Passerini <p.passerini@gmail.com>\n"
+"PO-Revision-Date: 2023-05-15 13:29+0000\n"
+"Last-Translator: bovirus <roberto.boriotti@canon.it>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/weblate/legal/it/"
 ">\n"
 "Language: it\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 4.18-dev\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
@@ -30,10 +30,8 @@ msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "Subappaltatori in conformità con l'Art. 28 GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:10
-#, fuzzy
-#| msgid "Status as of October 2020."
 msgid "Status as of March 2023."
-msgstr "Aggiornato ad Ottobre 2020."
+msgstr "Aggiornato a Marzo 2023."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -79,16 +77,12 @@ msgid "Name and e-mail address"
 msgstr "Nome utente e email"
 
 #: wllegal/templates/legal/documents/privacy.html:26
-#, fuzzy
-#| msgid "These are used to identify you in the VCS commits"
 msgid "These are used to identify you in the VCS commits."
-msgstr "Questi sono usati per identificarti nelle modifiche VCS"
+msgstr "Questi sono usati per identificarti nelle modifiche VCS."
 
 #: wllegal/templates/legal/documents/privacy.html:27
-#, fuzzy
-#| msgid "Additionally, e-mail is used for notification of watched events"
 msgid "Additionally, e-mail is used for notification of watched events."
-msgstr "Inoltre, l'e-mail è usata per le notifiche degli eventi monitorati"
+msgstr "Inoltre, l'email è usata per le notifiche degli eventi monitorati."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
@@ -107,29 +101,25 @@ msgid "IP address and browser name"
 msgstr "Indirizzo IP e nome browser"
 
 #: wllegal/templates/legal/documents/privacy.html:34
-#, fuzzy
-#| msgid ""
-#| "These are logged in case of important changes to your account (e.g. "
-#| "password change) to allow diagnosis in case your account is stolen"
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen."
 msgstr ""
-"Questi sono registrati in casi di importanti modifiche al tuo account (ad "
+"Questi sono registrati in casi di importanti modifiche all' account (ad "
 "esempio modifica della password) per consentire la diagnosi nel caso in cui "
-"il tuo account venga rubato"
+"l'account venga rubato."
 
 #: wllegal/templates/legal/documents/privacy.html:36
-#, fuzzy
-#| msgid "Billing information"
 msgid "Billing info"
-msgstr "Dati di fatturazione"
+msgstr "Dati fatturazione"
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
 "Necessary details to issue an invoice is collected when purchasing a service "
 "from us."
 msgstr ""
+"I dettagli necessari per emettere una fattura vengono da noi raccolti al "
+"momento dell'acquisto di un servizio."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
@@ -200,17 +190,15 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:60
 msgid "Payment processors when purchasing a service from us."
-msgstr ""
+msgstr "Tipologia pagamento al momento dell'acquisto di un servizio."
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
 msgstr "Tutti i dati personali sono memorizzati nell'Unione Europea."
 
 #: wllegal/templates/legal/documents/privacy.html:65
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Disclossure of the Personal Data"
-msgstr "Accesso ai dati personali"
+msgstr "Divulgazione dati personali"
 
 #: wllegal/templates/legal/documents/privacy.html:67
 msgid ""
@@ -218,6 +206,10 @@ msgid ""
 "circumstances when the Controller has a good faith belief it is required by "
 "law, such as under a subpoena or other judicial or administrative order."
 msgstr ""
+"I dati personali potrebbero essere divulgati a terzi in circostanze limitate "
+"quando il Titolare ritiene in buona fede che ciò sia richiesto dalla legge, "
+"ad esempio in virtù di un mandato di comparizione o di un altro ordine "
+"giudiziario o amministrativo."
 
 #: wllegal/templates/legal/documents/privacy.html:69
 msgid ""
@@ -228,6 +220,13 @@ msgid ""
 "If the User does not challenge the disclosure request, the Controller may be "
 "legally required to turn over the Personal Data."
 msgstr ""
+"Nel caso in cui il Titolare sia tenuto per legge a divulgare i dati "
+"personali, si cercherà di fornire all'utente un preavviso via email (a meno "
+"che il Titolare non lo vieti, o sarebbe inutile) che è stato autorizzata una "
+"richiesta di divulgazione dei dati personali per consentire all'Utente di "
+"opporsi alla divulgazione. Se l'Utente non contesta la richiesta di "
+"divulgazione, il Titolare potrebbe essere obbligato per legge a consegnare i "
+"Dati Personali."
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "The Personal Data retention"
@@ -242,10 +241,6 @@ msgstr ""
 "elimina il proprio account nel servizio."
 
 #: wllegal/templates/legal/documents/privacy.html:75
-#, fuzzy
-#| msgid ""
-#| "Access log information might be collected for a longer period for the "
-#| "purpose of establishing, exercising or defending legal claims."
 msgid ""
 "Access log info might be collected for a longer period for the purpose of "
 "establishing, exercising or defending legal claims."
@@ -321,27 +316,19 @@ msgstr ""
 "effettuata dalla gestione dell'account ed è completamente automatizzata."
 
 #: wllegal/templates/legal/documents/summary.html:4
-#, fuzzy
-#| msgid ""
-#| "We process private data (such as your e-mail address), those will be "
-#| "discarded from our database as soon as you remove your account."
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"Elaboriamo dati privati (come l'indirizzo email), che verranno eliminati dal "
-"nostro database non appena rimuoverai il tuo account."
+"Noi elaboriamo i dati personali (come l'indirizzo email), che verranno "
+"eliminati dal nostro database non appena rimuoverai il tuo account."
 
 #: wllegal/templates/legal/documents/summary.html:5
-#, fuzzy
-#| msgid ""
-#| "Your translations are made under license which is specified by each "
-#| "translation."
 msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
 msgstr ""
-"Le tue traduzioni sono create sotto licenza che è specifica per ogni "
+"Le tue traduzioni sono create sotto la licenza che è specifica per ogni "
 "traduzione."
 
 #: wllegal/templates/legal/documents/summary.html:7
@@ -357,6 +344,8 @@ msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
 msgstr ""
+"Il nome scelto dipende da te e per proteggere la tua privacy l'indirizzo "
+"email usato per i commit può essere mascherato dal sistema Weblate."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid "We use cookies to deliver our services."
@@ -364,7 +353,7 @@ msgstr "Noi usiamo i cookie per espletare i nostri servizi."
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid "We don’t use any third-party cookies."
-msgstr ""
+msgstr "Non usiamo cookie di terze parti."
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
@@ -653,6 +642,10 @@ msgid ""
 "hereby gives consent to collecting, storage, and processing of the Personal "
 "Data according to the <a href=\"%(privacy_url)s\">Privacy Policy</a>."
 msgstr ""
+"Ai sensi dell'<a href=\"%(url)s\">Articolo 7</a> del GDPR, l'Utente "
+"acconsente alla raccolta, alla conservazione e al trattamento dei dati "
+"personali secondo l'<a href=\"%(privacy_url)s\">Informativa sulla "
+"privacy</a>."
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid "Translations"
@@ -694,19 +687,14 @@ msgstr ""
 "specificata dal progetto."
 
 #: wllegal/templates/legal/documents/tos.html:113
-#, fuzzy
-#| msgid ""
-#| "The User agrees to use of own name and e-mail as authorship in the VCS "
-#| "commits. The User understands that this grant is non revocable due to "
-#| "nature of the VCS."
 msgid ""
 "The User agrees to use of name and e-mail as authorship in the VCS commits. "
 "The User understands that this grant is non-revocable due to the nature of "
 "the VCS."
 msgstr ""
-"L'utente accetta di usare il suo nome e l'email come paternità nei commit "
-"VCS. L'utente comprende che questa accettazione non è revocabile a causa "
-"della natura del VCS."
+"L'utente accetta di usare il nome e l'email come paternità nei commit VCS. "
+"L'utente comprende che questa accettazione non è revocabile a causa della "
+"natura del VCS."
 
 #: wllegal/templates/legal/documents/tos.html:118
 #, python-format
@@ -750,13 +738,9 @@ msgid "Effect"
 msgstr "Effetto"
 
 #: wllegal/templates/legal/documents/tos.html:132
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 1st September "
-#| "2017."
 msgid ""
 "These Terms of Service shall come into force and effect on 15th May 2023."
-msgstr "I presenti Termini di servizio entrano in vigore dal 1 settembre 2017."
+msgstr "I presenti Termini di servizio entrano in vigore dal 15 Maggio 2023."
 
 #~ msgid ""
 #~ "In case you purchase service from us, we collect additional billing "
