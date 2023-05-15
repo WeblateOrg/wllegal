@@ -5,29 +5,27 @@
 # Pavel Borecki <pavel.borecki@gmail.com>, 2018, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-14 17:43+0000\n"
-"PO-Revision-Date: 2023-03-09 22:56+0000\n"
-"Last-Translator: Petr Branberger <petr@webrun.cz>\n"
-"Language-Team: Czech <https://hosted.weblate.org/projects/weblate/legal/cs/"
-">\n"
+"PO-Revision-Date: 2023-05-15 13:29+0000\n"
+"Last-Translator: Michal Čihař <michal@weblate.org>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/weblate/legal/cs/>"
+"\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.16.2-dev\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "Subdodavatelé v souladu s článkem 28 GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:10
-#, fuzzy
-#| msgid "Status as of October 2020."
 msgid "Status as of March 2023."
-msgstr "Stav k říjnu 2020."
+msgstr "Stav k březnu 2023."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -72,16 +70,12 @@ msgid "Name and e-mail address"
 msgstr "Jméno a e-mailová adresa"
 
 #: wllegal/templates/legal/documents/privacy.html:26
-#, fuzzy
-#| msgid "These are used to identify you in the VCS commits"
 msgid "These are used to identify you in the VCS commits."
-msgstr "Tyto slouží pro identifikaci zápisů v systému správy verzí"
+msgstr "Tyto slouží pro identifikaci zápisů v systému správy verzí."
 
 #: wllegal/templates/legal/documents/privacy.html:27
-#, fuzzy
-#| msgid "Additionally, e-mail is used for notification of watched events"
 msgid "Additionally, e-mail is used for notification of watched events."
-msgstr "E-mail dále slouží pro upozorňování na uživatelem sledované události"
+msgstr "E-mail dále slouží pro upozorňování na uživatelem sledované události."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
@@ -100,20 +94,14 @@ msgid "IP address and browser name"
 msgstr "IP adresa a název webového prohlížeče"
 
 #: wllegal/templates/legal/documents/privacy.html:34
-#, fuzzy
-#| msgid ""
-#| "These are logged in case of important changes to your account (e.g. "
-#| "password change) to allow diagnosis in case your account is stolen"
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen."
 msgstr ""
 "Tyto jsou zaznamenány v případě zásadních změn ve vašem účtu (např. při "
-"změně hesla) z důvodu diagnostiky v případě krádeže vašeho účtu"
+"změně hesla) z důvodu diagnostiky v případě krádeže vašeho účtu."
 
 #: wllegal/templates/legal/documents/privacy.html:36
-#, fuzzy
-#| msgid "Billing information"
 msgid "Billing info"
 msgstr "Fakturační údaje"
 
@@ -122,6 +110,8 @@ msgid ""
 "Necessary details to issue an invoice is collected when purchasing a service "
 "from us."
 msgstr ""
+"Údaje nezbytné k vystavení faktury jsou shromažďovány při nákupu služby od "
+"nás."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
@@ -192,17 +182,15 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:60
 msgid "Payment processors when purchasing a service from us."
-msgstr ""
+msgstr "Zpracovatelé plateb při nákupu služby od nás."
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
 msgstr "Všechna Osobní Údaje jsou uloženy v Evropské Unii."
 
 #: wllegal/templates/legal/documents/privacy.html:65
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Disclossure of the Personal Data"
-msgstr "Přístup k Osobním Údajům"
+msgstr "Zpřístupnění Osobních Údajů"
 
 #: wllegal/templates/legal/documents/privacy.html:67
 msgid ""
@@ -210,6 +198,9 @@ msgid ""
 "circumstances when the Controller has a good faith belief it is required by "
 "law, such as under a subpoena or other judicial or administrative order."
 msgstr ""
+"Osobní Údaje mohou být zpřístupněny třetím stranám za omezených okolností, "
+"pokud se Správce v dobré víře domnívá, že to vyžaduje zákon, například na "
+"základě soudního předvolání nebo jiného soudního či správního příkazu."
 
 #: wllegal/templates/legal/documents/privacy.html:69
 msgid ""
@@ -220,6 +211,12 @@ msgid ""
 "If the User does not challenge the disclosure request, the Controller may be "
 "legally required to turn over the Personal Data."
 msgstr ""
+"V případě, že je Správce ze zákona povinen Osobní Údaje zpřístupnit, pokusí "
+"se Uživatele předem informovat e-mailem (pokud to není Správci zakázáno nebo "
+"by to bylo zbytečné) o tom, že byla podána žádost o Osobní Údaje, aby mohl "
+"Uživatel vznést námitku proti zpřístupnění. Pokud Uživatel žádost o "
+"zpřístupnění neodmítne, může být Správce ze zákona povinen Osobní údaje "
+"předat."
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "The Personal Data retention"
@@ -232,10 +229,6 @@ msgid ""
 msgstr "Osobní Údaje jsou uloženy ve Službě dokud uživatel nesmaže svůj účet."
 
 #: wllegal/templates/legal/documents/privacy.html:75
-#, fuzzy
-#| msgid ""
-#| "Access log information might be collected for a longer period for the "
-#| "purpose of establishing, exercising or defending legal claims."
 msgid ""
 "Access log info might be collected for a longer period for the purpose of "
 "establishing, exercising or defending legal claims."
@@ -310,22 +303,14 @@ msgstr ""
 "účtu a je plně automatizované."
 
 #: wllegal/templates/legal/documents/summary.html:4
-#, fuzzy
-#| msgid ""
-#| "We process private data (such as your e-mail address), those will be "
-#| "discarded from our database as soon as you remove your account."
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"Zpracováváme soukromé údaje (např. e-mailovou adresu), tyto údaje odstraníme "
-"z naší databáze, jakmile odstraníte svůj účet."
+"Zpracováváme osobní údaje (např. e-mailovou adresu); tyto údaje odstraníme z "
+"naší databáze, jakmile odstraníte svůj účet."
 
 #: wllegal/templates/legal/documents/summary.html:5
-#, fuzzy
-#| msgid ""
-#| "Your translations are made under license which is specified by each "
-#| "translation."
 msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
@@ -346,6 +331,8 @@ msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
 msgstr ""
+"Zvolené jméno je na vás a e-mailovou adresu použitou pro odevzdání může "
+"systém Weblate maskovat, aby chránil vaše soukromí."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid "We use cookies to deliver our services."
@@ -353,7 +340,7 @@ msgstr "Používáme cookie k poskytování našich služeb."
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid "We don’t use any third-party cookies."
-msgstr ""
+msgstr "Nepoužíváme žádné soubory cookie třetích stran."
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
@@ -641,6 +628,9 @@ msgid ""
 "hereby gives consent to collecting, storage, and processing of the Personal "
 "Data according to the <a href=\"%(privacy_url)s\">Privacy Policy</a>."
 msgstr ""
+"Ve smyslu <a href=\"%(url)s\">článku 7</a> GDPR Uživatel tímto uděluje "
+"souhlas se shromažďováním, uchováváním a zpracováním osobních údajů podle <a "
+"href=\"%(privacy_url)s\">Zásad ochrany osobních údajů</a>."
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid "Translations"
@@ -679,18 +669,13 @@ msgstr ""
 "Přispěním do Projektu Uživatel souhlasí s licencí, kterou Projekt určil."
 
 #: wllegal/templates/legal/documents/tos.html:113
-#, fuzzy
-#| msgid ""
-#| "The User agrees to use of own name and e-mail as authorship in the VCS "
-#| "commits. The User understands that this grant is non revocable due to "
-#| "nature of the VCS."
 msgid ""
 "The User agrees to use of name and e-mail as authorship in the VCS commits. "
 "The User understands that this grant is non-revocable due to the nature of "
 "the VCS."
 msgstr ""
-"Uživatel souhlasí s použitím svého jména a e-mailu jako autora v zápisech "
-"VCS. Uživatel chápe, že tento souhlas je kvůli povaze VCS neodvolatelný."
+"Uživatel souhlasí s použitím jména a e-mailu jako autora v zápisech VCS. "
+"Uživatel chápe, že tento souhlas je kvůli povaze VCS neodvolatelný."
 
 #: wllegal/templates/legal/documents/tos.html:118
 #, python-format
@@ -734,15 +719,11 @@ msgid "Effect"
 msgstr "Účinek"
 
 #: wllegal/templates/legal/documents/tos.html:132
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 1st September "
-#| "2017."
 msgid ""
 "These Terms of Service shall come into force and effect on 15th May 2023."
 msgstr ""
-"Tyto Všeobecné Smluvní Podmínky nabývají platnosti a účinnosti dne 1.září "
-"2017."
+"Tyto Všeobecné Smluvní Podmínky nabývají platnosti a účinnosti dne 15. "
+"května 2023."
 
 #~ msgid ""
 #~ "In case you purchase service from us, we collect additional billing "
