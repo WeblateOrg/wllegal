@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2023-05-14 17:43+0000\n"
+"POT-Creation-Date: 2023-05-17 14:12+0000\n"
 "PO-Revision-Date: 2022-02-22 09:57+0000\n"
 "Last-Translator: Bálint László <balint.laszlo.2011@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/weblate/legal/"
@@ -196,7 +196,7 @@ msgstr "Minden személyes adat az Európai Unióban van tárolva."
 #: wllegal/templates/legal/documents/privacy.html:65
 #, fuzzy
 #| msgid "Access to the Personal Data"
-msgid "Disclossure of the Personal Data"
+msgid "Disclosure of the Personal Data"
 msgstr "Hozzáférés a személyes adatokhoz"
 
 #: wllegal/templates/legal/documents/privacy.html:67

@@ -6,13 +6,13 @@
 # Jaimie85 <alsemgeest@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2023-05-14 17:43+0000\n"
+"POT-Creation-Date: 2023-05-17 14:12+0000\n"
 "PO-Revision-Date: 2023-05-15 13:29+0000\n"
 "Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
-"Language-Team: Dutch <https://hosted.weblate.org/projects/weblate/legal/nl/>"
-"\n"
+"Language-Team: Dutch <https://hosted.weblate.org/projects/weblate/legal/nl/"
+">\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -101,8 +101,8 @@ msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen."
 msgstr ""
-"Deze worden bijgehouden in geval van belangrijke wijzigingen aan uw account ("
-"bijvoorbeeld wachtwoordwijziging), voor een diagnose in geval van een "
+"Deze worden bijgehouden in geval van belangrijke wijzigingen aan uw account "
+"(bijvoorbeeld wachtwoordwijziging), voor een diagnose in geval van een "
 "gestolen account."
 
 #: wllegal/templates/legal/documents/privacy.html:36
@@ -196,7 +196,7 @@ msgstr "Alle persoonlijke gegevens worden opgeslagen in de Europese Unie."
 #: wllegal/templates/legal/documents/privacy.html:65
 #, fuzzy
 #| msgid "Access to the Personal Data"
-msgid "Disclossure of the Personal Data"
+msgid "Disclosure of the Personal Data"
 msgstr "Toegang tot de persoonlijke gegevens"
 
 #: wllegal/templates/legal/documents/privacy.html:67

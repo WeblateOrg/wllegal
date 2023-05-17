@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2023-05-14 17:43+0000\n"
+"POT-Creation-Date: 2023-05-17 14:12+0000\n"
 "PO-Revision-Date: 2018-07-23 11:06+0000\n"
 "Last-Translator: Michal Čihař <michal@cihar.com>\n"
 "Language-Team: Uyghur <https://hosted.weblate.org/projects/weblate/master/ug/"
@@ -164,7 +164,7 @@ msgid "All Personal Data is stored in the European Union."
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:65
-msgid "Disclossure of the Personal Data"
+msgid "Disclosure of the Personal Data"
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:67

@@ -13,9 +13,9 @@
 # Changpeng Sun <zzjbcn@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2023-05-14 17:43+0000\n"
+"POT-Creation-Date: 2023-05-17 14:12+0000\n"
 "PO-Revision-Date: 2023-05-15 13:29+0000\n"
 "Last-Translator: Eric <hamburger2048@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
@@ -102,7 +102,8 @@ msgstr "IP 地址和浏览器名称"
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen."
-msgstr "这些记录已存储以备在你的账户有重要的变更时（例如更改密码）判断你的账号是否被"
+msgstr ""
+"这些记录已存储以备在你的账户有重要的变更时（例如更改密码）判断你的账号是否被"
 "盗取。"
 
 #: wllegal/templates/legal/documents/privacy.html:36
@@ -185,7 +186,9 @@ msgid "All Personal Data is stored in the European Union."
 msgstr "所有个人数据都存储在欧盟。"
 
 #: wllegal/templates/legal/documents/privacy.html:65
-msgid "Disclossure of the Personal Data"
+#, fuzzy
+#| msgid "Disclossure of the Personal Data"
+msgid "Disclosure of the Personal Data"
 msgstr "个人数据披露"
 
 #: wllegal/templates/legal/documents/privacy.html:67
@@ -193,7 +196,8 @@ msgid ""
 "The Personal Data might be disclosed to third parties in limited "
 "circumstances when the Controller has a good faith belief it is required by "
 "law, such as under a subpoena or other judicial or administrative order."
-msgstr "在有限情况下，个人数据可能会被披露给多个第三方，当数据收集方相信这么做是法律"
+msgstr ""
+"在有限情况下，个人数据可能会被披露给多个第三方，当数据收集方相信这么做是法律"
 "所要求的，比如收到法庭传票或其他司法或行政命令。"
 
 #: wllegal/templates/legal/documents/privacy.html:69
@@ -287,7 +291,8 @@ msgstr "删除、更正和检索您的个人数据可以从账户管理完成，
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
-msgstr "我们处理个人数据（如您的电子邮箱地址），如您删除账号，相关内容会从我们的数据"
+msgstr ""
+"我们处理个人数据（如您的电子邮箱地址），如您删除账号，相关内容会从我们的数据"
 "库中被扔掉。"
 
 #: wllegal/templates/legal/documents/summary.html:5
@@ -308,8 +313,9 @@ msgstr ""
 msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
-msgstr "所选名称由您决定，还可以借助 Weblate "
-"系统隐藏用于提交的电子邮箱地址以保护您的隐私。"
+msgstr ""
+"所选名称由您决定，还可以借助 Weblate 系统隐藏用于提交的电子邮箱地址以保护您的"
+"隐私。"
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid "We use cookies to deliver our services."
@@ -610,7 +616,8 @@ msgid ""
 "The User agrees to use of name and e-mail as authorship in the VCS commits. "
 "The User understands that this grant is non-revocable due to the nature of "
 "the VCS."
-msgstr "用户同意在版本控制系统（VCS）提交中使用姓名和电子邮箱地址作为作者身份。用户理"
+msgstr ""
+"用户同意在版本控制系统（VCS）提交中使用姓名和电子邮箱地址作为作者身份。用户理"
 "解，由于版本控制系统（VCS）的性质，此授权不可撤销。"
 
 #: wllegal/templates/legal/documents/tos.html:118

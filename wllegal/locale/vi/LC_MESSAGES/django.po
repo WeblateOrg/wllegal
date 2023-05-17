@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2023-05-14 17:43+0000\n"
+"POT-Creation-Date: 2023-05-17 14:12+0000\n"
 "PO-Revision-Date: 2022-01-23 23:35+0000\n"
 "Last-Translator: Ngô Quốc Đạt <datlechin@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/weblate/legal/"
@@ -175,7 +175,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:65
 #, fuzzy
 #| msgid "Failed to generate key: %s"
-msgid "Disclossure of the Personal Data"
+msgid "Disclosure of the Personal Data"
 msgstr "Xảy ra lỗi khi tạo khóa: %s"
 
 #: wllegal/templates/legal/documents/privacy.html:67

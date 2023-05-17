@@ -8,13 +8,13 @@
 # Localisation Lab <ao@localizationlab.org>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2023-05-14 17:43+0000\n"
+"POT-Creation-Date: 2023-05-17 14:12+0000\n"
 "PO-Revision-Date: 2023-05-17 13:48+0000\n"
 "Last-Translator: Ldm Public <ldmpub@gmail.com>\n"
-"Language-Team: French <https://hosted.weblate.org/projects/weblate/legal/fr/>"
-"\n"
+"Language-Team: French <https://hosted.weblate.org/projects/weblate/legal/fr/"
+">\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -106,8 +106,8 @@ msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen."
 msgstr ""
-"Ils sont journalisés en cas de modifications importantes de votre compte ("
-"par exemple, un changement de mot de passe) afin de permettre un diagnostic "
+"Ils sont journalisés en cas de modifications importantes de votre compte "
+"(par exemple, un changement de mot de passe) afin de permettre un diagnostic "
 "en cas de vol de votre compte."
 
 #: wllegal/templates/legal/documents/privacy.html:36
@@ -202,7 +202,9 @@ msgstr ""
 "Toutes les données personnelles sont conservées dans l’Union Européenne."
 
 #: wllegal/templates/legal/documents/privacy.html:65
-msgid "Disclossure of the Personal Data"
+#, fuzzy
+#| msgid "Disclossure of the Personal Data"
+msgid "Disclosure of the Personal Data"
 msgstr "Divulgation de données personnelles"
 
 #: wllegal/templates/legal/documents/privacy.html:67
@@ -212,9 +214,9 @@ msgid ""
 "law, such as under a subpoena or other judicial or administrative order."
 msgstr ""
 "Les données personnelles peuvent être divulguées à des tiers dans des "
-"circonstances limitées lorsque le contrôleur croit de bonne foi que la loi l’"
-"exige, par exemple dans le cadre d’une citation à comparaître ou d’une autre "
-"ordonnance judiciaire ou administrative."
+"circonstances limitées lorsque le contrôleur croit de bonne foi que la loi "
+"l’exige, par exemple dans le cadre d’une citation à comparaître ou d’une "
+"autre ordonnance judiciaire ou administrative."
 
 #: wllegal/templates/legal/documents/privacy.html:69
 msgid ""
