@@ -10,10 +10,10 @@
 # Valentina Grassi <vale.grassi11@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-05-15 13:29+0000\n"
+"PO-Revision-Date: 2023-05-20 18:47+0000\n"
 "Last-Translator: bovirus <roberto.boriotti@canon.it>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/weblate/legal/it/"
 ">\n"
@@ -197,8 +197,6 @@ msgid "All Personal Data is stored in the European Union."
 msgstr "Tutti i dati personali sono memorizzati nell'Unione Europea."
 
 #: wllegal/templates/legal/documents/privacy.html:65
-#, fuzzy
-#| msgid "Disclossure of the Personal Data"
 msgid "Disclosure of the Personal Data"
 msgstr "Divulgazione dati personali"
 
