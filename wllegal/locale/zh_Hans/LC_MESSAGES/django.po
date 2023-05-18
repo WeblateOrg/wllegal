@@ -13,10 +13,10 @@
 # Changpeng Sun <zzjbcn@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-05-15 13:29+0000\n"
+"PO-Revision-Date: 2023-05-20 18:48+0000\n"
 "Last-Translator: Eric <hamburger2048@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "weblate/legal/zh_Hans/>\n"
@@ -186,8 +186,6 @@ msgid "All Personal Data is stored in the European Union."
 msgstr "所有个人数据都存储在欧盟。"
 
 #: wllegal/templates/legal/documents/privacy.html:65
-#, fuzzy
-#| msgid "Disclossure of the Personal Data"
 msgid "Disclosure of the Personal Data"
 msgstr "个人数据披露"
 
@@ -313,9 +311,8 @@ msgstr ""
 msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
-msgstr ""
-"所选名称由您决定，还可以借助 Weblate 系统隐藏用于提交的电子邮箱地址以保护您的"
-"隐私。"
+msgstr "所选名称由您决定，还可以借助 Weblate "
+"系统隐藏用于提交翻译的电子邮箱地址以保护您的隐私。"
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid "We use cookies to deliver our services."
