@@ -8,11 +8,11 @@
 # Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-05-16 13:13+0000\n"
-"Last-Translator: gallegonovato <fran-carro@hotmail.es>\n"
+"PO-Revision-Date: 2023-05-22 13:52+0000\n"
+"Last-Translator: Juan Benites <benitesjn@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/weblate/legal/es/"
 ">\n"
 "Language: es\n"
@@ -196,8 +196,6 @@ msgid "All Personal Data is stored in the European Union."
 msgstr "Todos los datos personales se almacenan en la Unión Europea."
 
 #: wllegal/templates/legal/documents/privacy.html:65
-#, fuzzy
-#| msgid "Disclossure of the Personal Data"
 msgid "Disclosure of the Personal Data"
 msgstr "Divulgación de los datos personales"
 
