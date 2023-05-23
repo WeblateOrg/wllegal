@@ -6,10 +6,10 @@
 # Tuomas Hietala <tuomas.hietala@iki.fi>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2022-06-01 21:18+0000\n"
+"PO-Revision-Date: 2023-05-24 06:55+0000\n"
 "Last-Translator: Jiri Nakola <github@nakola.fi>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/weblate/legal/fi/"
 ">\n"
@@ -18,17 +18,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13-dev\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr "Alihankkijat Art. 28 GDPR :n mukaisesti"
+msgstr "Alihankkijat artiklan mukaisesti. 28 GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:10
-#, fuzzy
-#| msgid "Status as of October 2020."
 msgid "Status as of March 2023."
-msgstr "Tilanne lokakuussa 2020."
+msgstr "Tilanne maaliskuussa 2023."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -73,16 +71,12 @@ msgid "Name and e-mail address"
 msgstr "Nimi ja sähköpostiosoite"
 
 #: wllegal/templates/legal/documents/privacy.html:26
-#, fuzzy
-#| msgid "These are used to identify you in the VCS commits"
 msgid "These are used to identify you in the VCS commits."
-msgstr "Näitä käytetään tunnistamaan sinut VCS-sitoumuksissa"
+msgstr "Näitä käytetään tunnistamaan sinut VCS-sitoumuksissa."
 
 #: wllegal/templates/legal/documents/privacy.html:27
-#, fuzzy
-#| msgid "Additionally, e-mail is used for notification of watched events"
 msgid "Additionally, e-mail is used for notification of watched events."
-msgstr "Lisäksi sähköpostilla tiedotetaan katsotuista tapahtumista"
+msgstr "Lisäksi sähköpostilla tiedotetaan katsotuista tapahtumista."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
@@ -101,20 +95,14 @@ msgid "IP address and browser name"
 msgstr "IP-osoite ja selaimen nimi"
 
 #: wllegal/templates/legal/documents/privacy.html:34
-#, fuzzy
-#| msgid ""
-#| "These are logged in case of important changes to your account (e.g. "
-#| "password change) to allow diagnosis in case your account is stolen"
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen."
 msgstr ""
-"Ne kirjataan, jos tiliisi tehdään tärkeitä muutoksia (esim. salasanan "
-"vaihto), jotta voidaan tehdä diagnoosi, jos tilisi varastetaan"
+"Ne kirjataan, jos tiliisi tehdään tärkeitä muutoksia (esim. salasanan vaihto)"
+", jotta voidaan tehdä diagnoosi, jos tilisi varastetaan."
 
 #: wllegal/templates/legal/documents/privacy.html:36
-#, fuzzy
-#| msgid "Billing information"
 msgid "Billing info"
 msgstr "Laskutustiedot"
 
@@ -123,6 +111,7 @@ msgid ""
 "Necessary details to issue an invoice is collected when purchasing a service "
 "from us."
 msgstr ""
+"Tarvittavat tiedot laskun laatimiseen kerätään ostettaessa meiltä palvelua."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
@@ -191,17 +180,15 @@ msgstr "Henkilöt, joilla on sopimus palvelun teknisestä varmistuksesta."
 
 #: wllegal/templates/legal/documents/privacy.html:60
 msgid "Payment processors when purchasing a service from us."
-msgstr ""
+msgstr "Maksunkäsittelijät ostaessasi palvelua meiltä."
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
 msgstr "Kaikki henkilökohtaiset tiedot säilötään Euroopan unionin alueella."
 
 #: wllegal/templates/legal/documents/privacy.html:65
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Disclosure of the Personal Data"
-msgstr "Pääsy henkilötietoihin"
+msgstr "Henkilötietojen luovuttaminen"
 
 #: wllegal/templates/legal/documents/privacy.html:67
 msgid ""
