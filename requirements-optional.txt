@@ -1,3 +1,4 @@
 -r requirements.txt
 psycopg2-binary
 Weblate
+requests>=2.31.0 # not directly required, pinned by Snyk to avoid a vulnerability
