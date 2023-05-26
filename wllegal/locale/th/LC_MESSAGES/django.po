@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-05-22 13:52+0000\n"
-"Last-Translator: AefghThreenine <aefgh39622@gmail.com>\n"
+"PO-Revision-Date: 2023-05-27 08:16+0000\n"
+"Last-Translator: สุริยา ชอบชอยยิกๆๆ <kkbaatlove@gmail.com>\n"
 "Language-Team: Thai <https://hosted.weblate.org/projects/weblate/legal/th/>\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgstr "ผู้ทำสัญญาช่วงตามที่บัญญ
 
 #: wllegal/templates/legal/documents/contracts.html:10
 msgid "Status as of March 2023."
-msgstr ""
+msgstr "kkbaatlove1"
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
