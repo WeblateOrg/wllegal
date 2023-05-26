@@ -7,11 +7,11 @@
 # byStarTW <pan93412@gmail.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2022-06-10 17:19+0000\n"
-"Last-Translator: pan93412 <pan93412@gmail.com>\n"
+"PO-Revision-Date: 2023-05-26 05:38+0000\n"
+"Last-Translator: yangyangdaji <1504305527@qq.com>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "weblate/legal/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -19,17 +19,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.13-dev\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "轉包商遵守《通用資料保護法》第28條之細則"
 
 #: wllegal/templates/legal/documents/contracts.html:10
-#, fuzzy
-#| msgid "Status as of October 2020."
 msgid "Status as of March 2023."
-msgstr "2020年10月時狀態。"
+msgstr "截至 2023 年 3 月的狀態。"
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -71,16 +69,12 @@ msgid "Name and e-mail address"
 msgstr "名稱和電子郵件地址"
 
 #: wllegal/templates/legal/documents/privacy.html:26
-#, fuzzy
-#| msgid "These are used to identify you in the VCS commits"
 msgid "These are used to identify you in the VCS commits."
-msgstr "這些是用來辨識您在 VCS 的提交"
+msgstr "這些是用來辨識您在 VCS 的提交。"
 
 #: wllegal/templates/legal/documents/privacy.html:27
-#, fuzzy
-#| msgid "Additionally, e-mail is used for notification of watched events"
 msgid "Additionally, e-mail is used for notification of watched events."
-msgstr "另外，電子郵件用於通知關注的事件"
+msgstr "另外，電子郵件用於通知關注的事件。"
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
@@ -99,20 +93,13 @@ msgid "IP address and browser name"
 msgstr "IP 位址與瀏覽器名稱"
 
 #: wllegal/templates/legal/documents/privacy.html:34
-#, fuzzy
-#| msgid ""
-#| "These are logged in case of important changes to your account (e.g. "
-#| "password change) to allow diagnosis in case your account is stolen"
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen."
-msgstr ""
-"之所以記錄這些資訊，是為了知道您的帳號是否有重大變動（例如：更動密碼），依此"
-"分析您的帳號是否被盜取"
+msgstr "之所以記錄這些資訊，是為了知道您的帳號是否有重大變動（例如：更動密碼），依此"
+"分析您的帳號是否被盜取。"
 
 #: wllegal/templates/legal/documents/privacy.html:36
-#, fuzzy
-#| msgid "Billing information"
 msgid "Billing info"
 msgstr "結帳資訊"
 
@@ -225,16 +212,11 @@ msgid ""
 msgstr "「個人資料」儲存於本「服務」中，直至「使用者」刪除本服務中其帳號為止。"
 
 #: wllegal/templates/legal/documents/privacy.html:75
-#, fuzzy
-#| msgid ""
-#| "Access log information might be collected for a longer period for the "
-#| "purpose of establishing, exercising or defending legal claims."
 msgid ""
 "Access log info might be collected for a longer period for the purpose of "
 "establishing, exercising or defending legal claims."
-msgstr ""
-"存取動作的紀錄資訊可能收藏更長時間，以因應法律索取時之證實、運用、防衛等用"
-"途。"
+msgstr "存取動作的紀錄資訊可能收藏更長時間，以因應法律索取時之證實、運用、防衛等用途"
+"。"
 
 #: wllegal/templates/legal/documents/privacy.html:77
 msgid "Your rights"
@@ -686,13 +668,9 @@ msgid "Effect"
 msgstr "生效"
 
 #: wllegal/templates/legal/documents/tos.html:132
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 1st September "
-#| "2017."
 msgid ""
 "These Terms of Service shall come into force and effect on 15th May 2023."
-msgstr "這些「服務條款」應在2017年9月1日實施並生效。"
+msgstr "這些「服務條款」應在2023 年 3 月 15 日實施並生效。"
 
 #~ msgid ""
 #~ "In case you purchase service from us, we collect additional billing "
