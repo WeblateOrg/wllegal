@@ -7,11 +7,11 @@
 # Manuela Silva <mmsrs@sky.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2021-10-21 09:56+0000\n"
-"Last-Translator: SC <lalocas@protonmail.com>\n"
+"PO-Revision-Date: 2023-05-29 10:51+0000\n"
+"Last-Translator: ssantos <ssantos@web.de>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/weblate/legal/"
 "pt/>\n"
 "Language: pt\n"
@@ -19,17 +19,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.9-dev\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "Subcontratados de acordo com o art. 28 RGPD"
 
 #: wllegal/templates/legal/documents/contracts.html:10
-#, fuzzy
-#| msgid "Status as of October 2020."
 msgid "Status as of March 2023."
-msgstr "Estado em outubro de 2020."
+msgstr "Estado de março de 2023."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -75,18 +73,12 @@ msgid "Name and e-mail address"
 msgstr "Nome e endereço de ''e-mail''"
 
 #: wllegal/templates/legal/documents/privacy.html:26
-#, fuzzy
-#| msgid "These are used to identify you in the VCS commits"
 msgid "These are used to identify you in the VCS commits."
-msgstr "Estes são utilizados para identificá-lo nas submissões de VCS"
+msgstr "Estes são utilizados para identificá-lo nas submissões de VCS."
 
 #: wllegal/templates/legal/documents/privacy.html:27
-#, fuzzy
-#| msgid "Additionally, e-mail is used for notification of watched events"
 msgid "Additionally, e-mail is used for notification of watched events."
-msgstr ""
-"Adicionalmente, o ''e-mail'' é utilizado para a notificação de eventos "
-"vigiados"
+msgstr "Além disso, o email é usado para a notificação de eventos observados."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
