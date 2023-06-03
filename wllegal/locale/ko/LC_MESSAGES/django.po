@@ -7,13 +7,13 @@
 # Lee Yunseok <ironyunseok@protonmail.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-05-14 17:32+0000\n"
-"Last-Translator: 이정희 <daemul72@gmail.com>\n"
-"Language-Team: Korean <https://hosted.weblate.org/projects/weblate/legal/ko/"
-">\n"
+"PO-Revision-Date: 2023-06-04 10:49+0000\n"
+"Last-Translator: Hoseok Seo <ddinghoya@gmail.com>\n"
+"Language-Team: Korean <https://hosted.weblate.org/projects/weblate/legal/ko/>"
+"\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -26,10 +26,8 @@ msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "GDPR Art. 28에 따른 협력업체"
 
 #: wllegal/templates/legal/documents/contracts.html:10
-#, fuzzy
-#| msgid "Status as of October 2020."
 msgid "Status as of March 2023."
-msgstr "2020년 10월 현재 상태."
+msgstr "2023년 3월 현재 상태입니다."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -73,16 +71,12 @@ msgid "Name and e-mail address"
 msgstr "이름과 전자우편 주소"
 
 #: wllegal/templates/legal/documents/privacy.html:26
-#, fuzzy
-#| msgid "These are used to identify you in the VCS commits"
 msgid "These are used to identify you in the VCS commits."
-msgstr "이들은 VCS 커밋에서 사용자를 식별하는데 사용됩니다"
+msgstr "이는 VCS 커밋에서 사용자를 식별하는 데 사용됩니다."
 
 #: wllegal/templates/legal/documents/privacy.html:27
-#, fuzzy
-#| msgid "Additionally, e-mail is used for notification of watched events"
 msgid "Additionally, e-mail is used for notification of watched events."
-msgstr "또한 전자우편은 시청한 사건의 알림에 사용됩니다"
+msgstr "또한 이메일은 시청한 이벤트의 알림에 사용됩니다."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
@@ -101,20 +95,13 @@ msgid "IP address and browser name"
 msgstr "IP 주소와 브라우저 이름"
 
 #: wllegal/templates/legal/documents/privacy.html:34
-#, fuzzy
-#| msgid ""
-#| "These are logged in case of important changes to your account (e.g. "
-#| "password change) to allow diagnosis in case your account is stolen"
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen."
-msgstr ""
-"계정에 중요한 변경 사항이 있을 경우 (예 : 암호 변경) 로그인하여 계정을 도난당"
-"했는 지를 진단할 수 있습니다"
+msgstr "계정에 중요한 변경 사항 (예: 비밀번호 변경)이 있는 경우 계정이 도난당했을 때 "
+"진단을 위해 기록됩니다."
 
 #: wllegal/templates/legal/documents/privacy.html:36
-#, fuzzy
-#| msgid "Billing information"
 msgid "Billing info"
 msgstr "결제 정보"
 
@@ -122,7 +109,7 @@ msgstr "결제 정보"
 msgid ""
 "Necessary details to issue an invoice is collected when purchasing a service "
 "from us."
-msgstr ""
+msgstr "당사에서 서비스를 구매할 때 인보이스 발행에 필요한 세부 정보를 수집합니다."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
@@ -188,17 +175,15 @@ msgstr "서비스의 기술 보증 계약을 맺은 사람."
 
 #: wllegal/templates/legal/documents/privacy.html:60
 msgid "Payment processors when purchasing a service from us."
-msgstr ""
+msgstr "당사에서 서비스를 구매할 때 결제 처리자입니다."
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
 msgstr "모든 개인 정보는 유럽 연합에 저장됩니다."
 
 #: wllegal/templates/legal/documents/privacy.html:65
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Disclosure of the Personal Data"
-msgstr "개인 자료에 접근하기"
+msgstr "개인 데이터 공개"
 
 #: wllegal/templates/legal/documents/privacy.html:67
 msgid ""
@@ -206,6 +191,8 @@ msgid ""
 "circumstances when the Controller has a good faith belief it is required by "
 "law, such as under a subpoena or other judicial or administrative order."
 msgstr ""
+"개인 데이터는 소환장이나 기타 사법 또는 행정 명령 등 법에 의해 요구된다고 "
+"선의로 판단하는 경우 제한된 상황에서 제3자에게 개인정보를 공개할 수 있습니다."
 
 #: wllegal/templates/legal/documents/privacy.html:69
 msgid ""
@@ -216,6 +203,11 @@ msgid ""
 "If the User does not challenge the disclosure request, the Controller may be "
 "legally required to turn over the Personal Data."
 msgstr ""
+"개인 데이터 법에 따라 개인정보를 공개해야 하는 경우, 개인 데이터는 사용자가 "
+"공개에 이의를 제기할 수 있도록 개인정보에 대한 요청이 이루어졌다는 사실을 "
+"사용자에게 이메일로 사전 통지 (개인정보처리자가 금지하거나 무의미한 경우를 "
+"제외하고)하려고 노력할 것입니다. 사용자가 공개 요청에 이의를 제기하지 않는 "
+"경우, 개인 데이터는 법적으로 개인 데이터를 넘겨야 할 수 있습니다."
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "The Personal Data retention"
@@ -229,16 +221,11 @@ msgstr ""
 "개인 자료는 사용자가 서비스에서 계정을 삭제하기 전까지 서비스에 저장됩니다."
 
 #: wllegal/templates/legal/documents/privacy.html:75
-#, fuzzy
-#| msgid ""
-#| "Access log information might be collected for a longer period for the "
-#| "purpose of establishing, exercising or defending legal claims."
 msgid ""
 "Access log info might be collected for a longer period for the purpose of "
 "establishing, exercising or defending legal claims."
-msgstr ""
-"액세스 로그 정보는 법적 요구의 수립, 활동 및 방어의 목적을 위해 장기간 수집됩"
-"니다."
+msgstr "접속 로그 정보는 법적 요구의 수립, 활동 및 방어의 목적을 위해 장기간 "
+"수집됩니다."
 
 #: wllegal/templates/legal/documents/privacy.html:77
 msgid "Your rights"
@@ -305,26 +292,18 @@ msgstr ""
 "히 자동화되어 있습니다."
 
 #: wllegal/templates/legal/documents/summary.html:4
-#, fuzzy
-#| msgid ""
-#| "We process private data (such as your e-mail address), those will be "
-#| "discarded from our database as soon as you remove your account."
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"귀하의 전자우편 주소와 같은 비공개 자료를 관리하며 귀하의 계정을 삭제하는 즉"
-"시 자료베이스에서 삭제됩니다."
+"당사는 개인 데이터(예: 귀하의 이메일 주소)를 처리하며, 귀하가 계정을 "
+"삭제하면 해당 데이터는 당사 데이터베이스에서 삭제됩니다."
 
 #: wllegal/templates/legal/documents/summary.html:5
-#, fuzzy
-#| msgid ""
-#| "Your translations are made under license which is specified by each "
-#| "translation."
 msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
-msgstr "귀하의 번역은 각 번역본에 명시된 라이선스 하에 작성됩니다."
+msgstr "번역은 각 번역에 명시된 라이센스에 따라 이루어집니다."
 
 #: wllegal/templates/legal/documents/summary.html:7
 msgid ""
@@ -338,6 +317,8 @@ msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
 msgstr ""
+"커밋에 사용되는 이메일 주소는 개인 정보 보호를 위해 웨블레이트 시스템에서 "
+"마스킹할 수 있으며, 선택한 이름은 귀하에게 달려 있습니다."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid "We use cookies to deliver our services."
@@ -345,7 +326,7 @@ msgstr "우리는 우리의 서비스를 제공하기 위해 쿠키를 사용합
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid "We don’t use any third-party cookies."
-msgstr ""
+msgstr "당사는 타사 쿠키를 사용하지 않습니다."
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
@@ -621,6 +602,9 @@ msgid ""
 "hereby gives consent to collecting, storage, and processing of the Personal "
 "Data according to the <a href=\"%(privacy_url)s\">Privacy Policy</a>."
 msgstr ""
+"<a href=\"%(url)s\">제7조</a>의 의미 내에서 사용자는 <a href=\"%(privacy_url)"
+"s\">개인정보 처리방침</a>에 따라 개인정보를 수집, 저장 및 처리하는 데 "
+"동의합니다."
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid "Translations"
@@ -658,19 +642,13 @@ msgid ""
 msgstr "사용자는 프로젝트에 기여할 때 지정된 라이선스에 동의합니다."
 
 #: wllegal/templates/legal/documents/tos.html:113
-#, fuzzy
-#| msgid ""
-#| "The User agrees to use of own name and e-mail as authorship in the VCS "
-#| "commits. The User understands that this grant is non revocable due to "
-#| "nature of the VCS."
 msgid ""
 "The User agrees to use of name and e-mail as authorship in the VCS commits. "
 "The User understands that this grant is non-revocable due to the nature of "
 "the VCS."
 msgstr ""
-"사용자는 이름과 전자우편을 버전 관리 시스템(VCS) 커밋에 저작자로 사용하는 것"
-"에 동의합니다. 사용자는 이 허가가 VCS의 특성으로 인해 취소할 수 없음을 이해합"
-"니다."
+"사용자는 VCS 커밋에서 이름과 이메일을 권한으로 사용하는 데 동의합니다. "
+"사용자는 VCS의 특성상 이 권한 부여가 취소할 수 없음을 이해합니다."
 
 #: wllegal/templates/legal/documents/tos.html:118
 #, python-format
@@ -711,13 +689,9 @@ msgid "Effect"
 msgstr "효과"
 
 #: wllegal/templates/legal/documents/tos.html:132
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 1st September "
-#| "2017."
 msgid ""
 "These Terms of Service shall come into force and effect on 15th May 2023."
-msgstr "본 서비스 약관은 2017 년 9월 1일 부터 시행되며 효력을 발휘합니다."
+msgstr "본 서비스 약관은 2023년 5월 15일부터 발효됩니다."
 
 #~ msgid ""
 #~ "In case you purchase service from us, we collect additional billing "
