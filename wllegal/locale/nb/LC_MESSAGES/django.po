@@ -9,10 +9,10 @@
 # Michal Čihař <michal@cihar.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2022-03-19 07:31+0000\n"
+"PO-Revision-Date: 2023-06-19 22:51+0000\n"
 "Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/weblate/"
 "legal/nb_NO/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12-dev\n"
+"X-Generator: Weblate 4.18.1\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -124,10 +124,13 @@ msgid "Billing info"
 msgstr "Faktureringsinfo"
 
 #: wllegal/templates/legal/documents/privacy.html:37
+#, fuzzy
 msgid ""
 "Necessary details to issue an invoice is collected when purchasing a service "
 "from us."
 msgstr ""
+"Nødvendige detaljer for utstedelse av faktura samles ved kjøp av tjeneste "
+"fra oss."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
@@ -358,8 +361,9 @@ msgid "We use cookies to deliver our services."
 msgstr "Vi bruker noen informasjonskapsler for å levere våre tjenester."
 
 #: wllegal/templates/legal/documents/summary.html:12
+#, fuzzy
 msgid "We don’t use any third-party cookies."
-msgstr ""
+msgstr "Vi bruker ingen tredjepartskaker."
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
@@ -640,6 +644,9 @@ msgid ""
 "hereby gives consent to collecting, storage, and processing of the Personal "
 "Data according to the <a href=\"%(privacy_url)s\">Privacy Policy</a>."
 msgstr ""
+"I meningen av <a href=\"%(url)s\">Artikkel 7</a> av GDPR gir brukeren herved "
+"samtykke til innsamling, lagring, og behandling av personlig data i henhold "
+"til <a href=\"%(privacy_url)s\">personvernspraksisen</a>."
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid "Translations"
