@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-06-02 06:31+0000\n"
+"PO-Revision-Date: 2023-06-26 04:39+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/weblate/legal/"
 "hr/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 4.18.1\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -41,7 +41,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:9
 msgid "Personal Data Controller"
-msgstr "Nadzornik za osobne podatke"
+msgstr "Kontrolor osobnih podataka"
 
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
@@ -169,8 +169,8 @@ msgid ""
 "The Controller has made all reasonable technical means to protect the "
 "Personal Data. Only authorized persons can access the Personal Data."
 msgstr ""
-"Poduzete su sve odgovarajuće tehničke i organizacijske mjere za zaštitu "
-"osobnih podataka. Samo ovlaštene osobe imaju pristup osobnim podacima."
+"Kontrolor je poduzeo sve odgovarajuće tehničke mjere za zaštitu osobnih "
+"podataka. Samo ovlaštene osobe imaju pristup osobnim podacima."
 
 #: wllegal/templates/legal/documents/privacy.html:56
 msgid ""
@@ -199,6 +199,9 @@ msgid ""
 "circumstances when the Controller has a good faith belief it is required by "
 "law, such as under a subpoena or other judicial or administrative order."
 msgstr ""
+"Osobni podaci se mogu otkriti trećim stranama u ograničenim okolnostima kada "
+"kontrolor u dobroj vjeri vjeruje da to zahtijeva zakon, kao što je sudski "
+"poziv ili jedan drugi sudski ili administrativni nalog."
 
 #: wllegal/templates/legal/documents/privacy.html:69
 msgid ""
@@ -209,6 +212,12 @@ msgid ""
 "If the User does not challenge the disclosure request, the Controller may be "
 "legally required to turn over the Personal Data."
 msgstr ""
+"U slučaju da kontrolor na osnovi zakona mora otkriti osobne podatke, pokušat "
+"će se prethodno obavijestiti korisnika putem e-maila (osim ako je to "
+"kontroloru zabranjeno ili ako bi bilo uzaludno) da je zahtjev za osobnim "
+"podacima napravljeno kako bi se korisniku omogućilo ulaganje prigovora na "
+"otkrivanje. Ako korisnik ne ospori zahtjev za otkrivanje, kontrolor može "
+"biti zakonski obvezan predati osobne podatke."
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "The Personal Data retention"
