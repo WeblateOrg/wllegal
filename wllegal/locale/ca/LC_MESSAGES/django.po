@@ -6,10 +6,10 @@
 # Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2022-02-13 15:58+0000\n"
+"PO-Revision-Date: 2023-06-28 07:33+0000\n"
 "Last-Translator: Eduard Ereza Martínez <eduard@ereza.cat>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/weblate/legal/ca/"
 ">\n"
@@ -18,17 +18,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.11-dev\n"
+"X-Generator: Weblate 4.18.1\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr "Subcontractistes d'acord amb l'Art. 28 del RGPD"
+msgstr "Subcontractistes d’acord amb l’Art. 28 del RGPD"
 
 #: wllegal/templates/legal/documents/contracts.html:10
-#, fuzzy
-#| msgid "Status as of October 2020."
 msgid "Status as of March 2023."
-msgstr "Estat a l'octubre del 2020."
+msgstr "Estat al març del 2023."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -66,7 +64,7 @@ msgstr "Dades personals processades per Weblate"
 #: wllegal/templates/legal/documents/privacy.html:20
 msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr ""
-"Weblate només processa les dades personals que l'usuari proporciona en fer-"
+"Weblate només processa les dades personals que l’usuari proporciona en fer-"
 "ne ús:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
@@ -74,20 +72,16 @@ msgid "Name and e-mail address"
 msgstr "Nom i adreça electrònica"
 
 #: wllegal/templates/legal/documents/privacy.html:26
-#, fuzzy
-#| msgid "These are used to identify you in the VCS commits"
 msgid "These are used to identify you in the VCS commits."
 msgstr ""
-"S'utilitzen per a identificar-vos a les comissions del sistema de control de "
-"versions"
+"S’utilitzen per a identificar-vos a les comissions del sistema de control de "
+"versions."
 
 #: wllegal/templates/legal/documents/privacy.html:27
-#, fuzzy
-#| msgid "Additionally, e-mail is used for notification of watched events"
 msgid "Additionally, e-mail is used for notification of watched events."
 msgstr ""
-"A més a més, s'utilitza el correu electrònic per a la notificació "
-"d'esdeveniments en seguiment"
+"A més a més, s’utilitza el correu electrònic per a la notificació d’"
+"esdeveniments en seguiment."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
@@ -95,32 +89,26 @@ msgstr "Contrasenya en forma de resum"
 
 #: wllegal/templates/legal/documents/privacy.html:30
 msgid "Used to authenticate the User, if configured"
-msgstr "S'utilitza per a autenticar l'usuari, si està configurat"
+msgstr "S’utilitza per a autenticar l’usuari, si està configurat"
 
 #: wllegal/templates/legal/documents/privacy.html:31
 msgid "Passwords are stored hashed using Argon2."
-msgstr "Les contrasenyes s'emmagatzemen resumides amb Argon2."
+msgstr "Les contrasenyes s’emmagatzemen resumides amb Argon2."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid "IP address and browser name"
 msgstr "Adreça IP i nom del navegador"
 
 #: wllegal/templates/legal/documents/privacy.html:34
-#, fuzzy
-#| msgid ""
-#| "These are logged in case of important changes to your account (e.g. "
-#| "password change) to allow diagnosis in case your account is stolen"
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen."
 msgstr ""
 "Es registren en cas de canvis importants al vostre compte (p. ex. un canvi "
-"de contrasenya) per a permetre'n el diagnòstic en el cas d'un robatori del "
-"compte"
+"de contrasenya) per a permetre’n el diagnòstic en el cas d’un robatori del "
+"compte."
 
 #: wllegal/templates/legal/documents/privacy.html:36
-#, fuzzy
-#| msgid "Billing information"
 msgid "Billing info"
 msgstr "Informació de facturació"
 
@@ -129,6 +117,8 @@ msgid ""
 "Necessary details to issue an invoice is collected when purchasing a service "
 "from us."
 msgstr ""
+"En adquirir un servei nostre, es recopilen les dades necessàries per a "
+"emetre’n una factura."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
@@ -137,7 +127,7 @@ msgstr "Finalitat i bases legals del processament de dades personals"
 #: wllegal/templates/legal/documents/privacy.html:43
 msgid "Your Personal Data will be used for the purposes of the Service:"
 msgstr ""
-"Les vostres dades personals s'utilitzaran per a les finalitats del servei:"
+"Les vostres dades personals s’utilitzaran per a les finalitats del servei:"
 
 #: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
@@ -201,17 +191,15 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:60
 msgid "Payment processors when purchasing a service from us."
-msgstr ""
+msgstr "Processadors de pagaments en comprar un servei nostre."
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
-msgstr "Totes les dades personals s'emmagatzemen a la Unió Europea."
+msgstr "Totes les dades personals s’emmagatzemen a la Unió Europea."
 
 #: wllegal/templates/legal/documents/privacy.html:65
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Disclosure of the Personal Data"
-msgstr "Accés a les dades personals"
+msgstr "Revelació de dades personals"
 
 #: wllegal/templates/legal/documents/privacy.html:67
 msgid ""
@@ -219,6 +207,9 @@ msgid ""
 "circumstances when the Controller has a good faith belief it is required by "
 "law, such as under a subpoena or other judicial or administrative order."
 msgstr ""
+"És possible que les dades personals es revelin a tercers en circumstàncies "
+"limitades quan el controlador cregui de bona fe que la llei hi obliga, com "
+"ara en una citació o altres ordres judicials o administratives."
 
 #: wllegal/templates/legal/documents/privacy.html:69
 msgid ""
@@ -229,6 +220,12 @@ msgid ""
 "If the User does not challenge the disclosure request, the Controller may be "
 "legally required to turn over the Personal Data."
 msgstr ""
+"En cas que el controlador estigui obligat per llei a revelar les dades "
+"personals, es mirarà de notificar prèviament l’usuari mitjançant correu "
+"electrònic (llevat que el controlador ho tingui prohibit o sigui inútil) que "
+"s’ha fet una petició d’accés a les dades personals perquè l’usuari s’hi "
+"pugui oposar. Si l’usuari no s’oposa a la sol·licitud de revelació, el "
+"controlador pot estar obligat legalment a lliurar les dades personals."
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "The Personal Data retention"
@@ -239,20 +236,16 @@ msgid ""
 "The Personal Data is stored in the Service until the User deletes their "
 "account on the service."
 msgstr ""
-"Les dades personals s'emmagatzemen al servei fins que l'usuari suprimeix el "
+"Les dades personals s’emmagatzemen al servei fins que l’usuari suprimeix el "
 "seu compte del servei."
 
 #: wllegal/templates/legal/documents/privacy.html:75
-#, fuzzy
-#| msgid ""
-#| "Access log information might be collected for a longer period for the "
-#| "purpose of establishing, exercising or defending legal claims."
 msgid ""
 "Access log info might be collected for a longer period for the purpose of "
 "establishing, exercising or defending legal claims."
 msgstr ""
-"És possible que es recopili informació del registre d'accés durant un "
-"període més llarg amb la finalitat d'establir, exercir o defensar-se de "
+"És possible que es recopili informació del registre d’accés durant un "
+"període més llarg amb la finalitat d’establir, exercir o defensar-se de "
 "demandes judicials."
 
 #: wllegal/templates/legal/documents/privacy.html:77
@@ -264,7 +257,7 @@ msgid ""
 "The User provides use of Personal Data voluntarily. Without this Personal "
 "Data Weblate is not able to provide our services."
 msgstr ""
-"L'usuari proporciona les dades personals voluntàriament. Sense aquestes "
+"L’usuari proporciona les dades personals voluntàriament. Sense aquestes "
 "dades, Weblate no podria oferir els seus serveis."
 
 #: wllegal/templates/legal/documents/privacy.html:81
@@ -309,7 +302,7 @@ msgid ""
 "Receive your Personal Data in a commonly used and machine-readable format or "
 "to transmit this Personal Data to a different provider."
 msgstr ""
-"Rebre les vostres dades personals en un format d'ús habitual i llegible per "
+"Rebre les vostres dades personals en un format d’ús habitual i llegible per "
 "qualsevol ordinador o transmetre aquestes dades personals a un proveïdor "
 "diferent."
 
@@ -322,23 +315,14 @@ msgstr ""
 "es pot fer a la gestió del compte i està totalment automatitzada."
 
 #: wllegal/templates/legal/documents/summary.html:4
-#, fuzzy
-#| msgid ""
-#| "We process private data (such as your e-mail address), those will be "
-#| "discarded from our database as soon as you remove your account."
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"Processem dades privades (com ara la vostra adreça de correu electrònic), "
-"que es descartaran de la nostra base de dades en el moment en què suprimiu "
-"el vostre compte."
+"Processem dades personals (com ara la vostra adreça de correu electrònic), "
+"que es descartaran de la nostra base de dades si suprimiu el vostre compte."
 
 #: wllegal/templates/legal/documents/summary.html:5
-#, fuzzy
-#| msgid ""
-#| "Your translations are made under license which is specified by each "
-#| "translation."
 msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
@@ -350,7 +334,7 @@ msgid ""
 "Your name and e-mail address is used in VCS commits, it will stay there "
 "indefinitely."
 msgstr ""
-"El vostre nom i la vostra adreça de correu electrònic s'utilitzen en "
+"El vostre nom i la vostra adreça de correu electrònic s’utilitzen en "
 "comissions a sistemes de control de versions, i hi romandran indefinidament."
 
 #: wllegal/templates/legal/documents/summary.html:8
@@ -358,6 +342,9 @@ msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
 msgstr ""
+"El nom elegit depèn de vós, i l’adreça electrònica que s’utilitza a les "
+"comissions es pot emmascarar mitjançant el sistema del Weblate per a "
+"protegir la vostra privadesa."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid "We use cookies to deliver our services."
@@ -365,7 +352,7 @@ msgstr "Utilitzem galetes per a oferir els nostres serveis."
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid "We don’t use any third-party cookies."
-msgstr ""
+msgstr "No fem servir galetes de tercers."
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
@@ -384,8 +371,8 @@ msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these Terms of Service."
 msgstr ""
-"Aquestes condicions del servei governen els drets i obligacions de l'usuari "
-"i del proveïdor resultants de l'ús del servei."
+"Aquestes condicions del servei governen els drets i obligacions de l’usuari "
+"i del proveïdor resultants de l’ús del servei."
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid "Definitions"
@@ -405,8 +392,8 @@ msgid ""
 "Civil Code concluded by and between the User and the Provider upon the "
 "Consent"
 msgstr ""
-"significa l'acord de llicència, amb el significat de l'Article 2358 i "
-"posteriors del Codi Civil, signat per i entre l'usuari i el proveïdor sota "
+"significa l’acord de llicència, amb el significat de l’Article 2358 i "
+"posteriors del Codi Civil, signat per i entre l’usuari i el proveïdor sota "
 "consentiment"
 
 #: wllegal/templates/legal/documents/tos.html:29
@@ -429,7 +416,7 @@ msgid ""
 "means the User’s consent with these Terms of Service and other legal "
 "documents expressed by checking the checkbox during the registration"
 msgstr ""
-"significa el consentiment de l'usuari amb aquestes condicions del servei i "
+"significa el consentiment de l’usuari amb aquestes condicions del servei i "
 "altres documents legals expressat mitjançant el marcatge de la casella de "
 "selecció durant el registre"
 
@@ -444,9 +431,9 @@ msgid ""
 "computer or other device connected to the Internet, which enable obtaining "
 "unique identification of the User’s web browser"
 msgstr ""
-"significa qualsevol fitxer de dades enviat pel servidor web del servei a "
-"l'ordinador de l'usuari o a un altre dispositiu connectat a Internet, que "
-"permeti obtenir la identificació única del navegador web de l'usuari"
+"significa qualsevol fitxer de dades enviat pel servidor web del servei a l’"
+"ordinador de l’usuari o a un altre dispositiu connectat a Internet, que "
+"permeti obtenir la identificació única del navegador web de l’usuari"
 
 #: wllegal/templates/legal/documents/tos.html:39
 msgid "GDPR"
@@ -470,8 +457,8 @@ msgid ""
 "means non-exclusive license granted by the Provider to the User for use of "
 "the Service"
 msgstr ""
-"significa la llicència no exclusiva concedida pel proveïdor a l'usuari per a "
-"l'ús del servei"
+"significa la llicència no exclusiva concedida pel proveïdor a l’usuari per a "
+"l’ús del servei"
 
 #: wllegal/templates/legal/documents/tos.html:45
 msgid "Provider"
@@ -494,7 +481,7 @@ msgid ""
 "inserted by the User into the Service and/or Cookies"
 msgstr ""
 "significa les dades personals segons el significat del Reglament de la UE "
-"núm. %(law_679_2016)s, inserides per l'usuari al servei i/o les galetes"
+"núm. %(law_679_2016)s, inserides per l’usuari al servei i/o les galetes"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Owner"
@@ -502,7 +489,7 @@ msgstr "Propietari"
 
 #: wllegal/templates/legal/documents/tos.html:52
 msgid "means the User who can manage Project"
-msgstr "significa l'usuari que pot gestionar el projecte"
+msgstr "significa l’usuari que pot gestionar el projecte"
 
 #: wllegal/templates/legal/documents/tos.html:54
 msgid "Project"
@@ -558,14 +545,14 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:71
 msgid "License Agreement Conclusion"
-msgstr "Signatura de l'acord de llicència"
+msgstr "Signatura de l’acord de llicència"
 
 #: wllegal/templates/legal/documents/tos.html:73
 msgid ""
 "The License Agreement is concluded upon the User’s Acceptance of the "
 "Provider’s Offer."
 msgstr ""
-"L'acord de llicència se signa amb l'acceptació per part de l'usuari de la "
+"L’acord de llicència se signa amb l’acceptació per part de l’usuari de la "
 "proposta del proveïdor."
 
 #: wllegal/templates/legal/documents/tos.html:76
@@ -577,8 +564,8 @@ msgid ""
 "By concluding Agreement under Article 2.1 of this Agreement, the following "
 "provisions of this Article 3 of the Terms of Service come into force."
 msgstr ""
-"En signar l'acord de l'article 2.1 d'aquest acord, les següents disposicions "
-"d'aquest article 3 de les condicions del servei esdevenen vigents."
+"En signar l’acord de l’article 2.1 d’aquest acord, les següents disposicions "
+"d’aquest article 3 de les condicions del servei esdevenen vigents."
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid ""
@@ -586,7 +573,7 @@ msgid ""
 "this License Agreement, all this under the terms and conditions stated in "
 "these Terms of Service."
 msgstr ""
-"El proveïdor presenta a l'usuari un acord de llicència i l'usuari accepta "
+"El proveïdor presenta a l’usuari un acord de llicència i l’usuari accepta "
 "aquest acord de llicència, tot això sobre les condicions i termes definits "
 "en aquestes condicions del servei."
 
@@ -596,7 +583,7 @@ msgid ""
 "Service unavailable on the web address at any time."
 msgstr ""
 "El proveïdor tindrà dret a tancar, ajustar, modificar o fer que el servei no "
-"sigui disponible a l'adreça web en qualsevol moment."
+"sigui disponible a l’adreça web en qualsevol moment."
 
 #: wllegal/templates/legal/documents/tos.html:84
 msgid ""
@@ -604,7 +591,7 @@ msgid ""
 "technical software and/or hardware means of the Provider and/or such means "
 "in the Provider’s use."
 msgstr ""
-"L'usuari es compromet a fer servir el servei només de manera que no posi en "
+"L’usuari es compromet a fer servir el servei només de manera que no posi en "
 "perill els mitjans de programari i/o maquinari tècnic del proveïdor i/o "
 "qualsevol mitjà que utilitzi el proveïdor."
 
@@ -613,7 +600,7 @@ msgid ""
 "The User agrees to refrain from use of the Service in bad faith and/or "
 "deliberately causing any damage to the Service."
 msgstr ""
-"L'usuari es compromet a abstenir-se de fer servir el servei amb mala fe i/o "
+"L’usuari es compromet a abstenir-se de fer servir el servei amb mala fe i/o "
 "causar qualsevol dany deliberadament al servei."
 
 #: wllegal/templates/legal/documents/tos.html:88
@@ -621,7 +608,7 @@ msgid ""
 "The User agrees to refrain from bypassing the Service’s software and/or "
 "technical hardware means, in particular the security systems."
 msgstr ""
-"L'usuari es compromet a abstenir-se d'eludir els mitjans tècnics del "
+"L’usuari es compromet a abstenir-se d’eludir els mitjans tècnics del "
 "maquinari i/o programari del servei, en particular, els sistemes de "
 "seguretat."
 
@@ -634,8 +621,8 @@ msgid ""
 "The User hereby renders it undisputed that the Provider shall not be liable "
 "for any damage caused to the User resulting from the use of the Service."
 msgstr ""
-"L'usuari declara de manera indiscutible que el proveïdor no serà responsable "
-"de cap dany causat a l'usuari com a resultat de l'ús del servei."
+"L’usuari declara de manera indiscutible que el proveïdor no serà responsable "
+"de cap dany causat a l’usuari com a resultat de l’ús del servei."
 
 #: wllegal/templates/legal/documents/tos.html:95
 msgid ""
@@ -644,10 +631,10 @@ msgid ""
 "Provider to the User through a breach of any obligation contained in these "
 "Terms of Service and/or resulting from the use of the Service."
 msgstr ""
-"Si l'usuari és un empresari, renuncia de manera expressa al seu dret a la "
+"Si l’usuari és un empresari, renuncia de manera expressa al seu dret a la "
 "compensació per part del proveïdor pels danys causats de manera no "
-"intencionada pel proveïdor a l'usuari mitjançant el trencament de qualsevol "
-"obligació inclosa en aquestes condicions del servei i/o resultant de l'ús "
+"intencionada pel proveïdor a l’usuari mitjançant el trencament de qualsevol "
+"obligació inclosa en aquestes condicions del servei i/o resultant de l’ús "
 "del servei."
 
 #: wllegal/templates/legal/documents/tos.html:101
@@ -657,6 +644,10 @@ msgid ""
 "hereby gives consent to collecting, storage, and processing of the Personal "
 "Data according to the <a href=\"%(privacy_url)s\">Privacy Policy</a>."
 msgstr ""
+"En el sentit de l’<a href=\"%(url)s\">Article 7</a> del RGPD, l’usuari dóna "
+"el consentiment per a la recopilació, emmagatzematge i processament de les "
+"dades personals d’acord amb la <a href=\"%(privacy_url)s\">política de "
+"privadesa</a>."
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid "Translations"
@@ -677,7 +668,7 @@ msgid ""
 "Not specifying translation license means that the translations are available "
 "under same license as the given Project itself."
 msgstr ""
-"Si no s'especifica una llicència per a les traduccions, significa que les "
+"Si no s’especifica una llicència per a les traduccions, significa que les "
 "traduccions són disponibles sota la mateixa llicència que el projecte al "
 "qual pertanyen."
 
@@ -687,30 +678,26 @@ msgid ""
 "translation is granted to all Translation Memory users."
 msgstr ""
 "Si el projecte decideix activar la memòria de traducció, es concedeix una "
-"llicència d'ús de la traducció a tots els usuaris de la memòria de traducció."
+"llicència d’ús de la traducció a tots els usuaris de la memòria de traducció."
 
 #: wllegal/templates/legal/documents/tos.html:111
 msgid ""
 "The User agrees, upon contributing to a Project, to the license the Project "
 "has specified."
 msgstr ""
-"L'usuari accepta, en contribuir a un projecte, la llicència que el projecte "
+"L’usuari accepta, en contribuir a un projecte, la llicència que el projecte "
 "ha especificat."
 
 #: wllegal/templates/legal/documents/tos.html:113
-#, fuzzy
-#| msgid ""
-#| "The User agrees to use of own name and e-mail as authorship in the VCS "
-#| "commits. The User understands that this grant is non revocable due to "
-#| "nature of the VCS."
 msgid ""
 "The User agrees to use of name and e-mail as authorship in the VCS commits. "
 "The User understands that this grant is non-revocable due to the nature of "
 "the VCS."
 msgstr ""
-"L'usuari accepta que s'utilitzi el seu nom i correu electrònic com a autoria "
-"a les comissions als VCS. L'usuari entén que aquesta concessió no és "
-"revocable a causa de la naturalesa dels VCS."
+"L’usuari accepta que s’utilitzin el nom i el correu electrònic com a autoria "
+"a les comissions als sistema de control de versions. L’usuari entén que "
+"aquesta concessió no és revocable a causa de la naturalesa dels sistemes de "
+"control de versions."
 
 #: wllegal/templates/legal/documents/tos.html:118
 #, python-format
@@ -719,9 +706,9 @@ msgid ""
 "electronic communication, as amended, the User is informed that the Service "
 "uses Cookies."
 msgstr ""
-"Amb el significat de l'Article 89 de la col·lecció de lleis número "
-"%(law_480_2004)s, de comunicacions electròniques, en la seva forma esmenada, "
-"l'usuari és informat que el servei utilitza galetes."
+"En el sentit de l’Article 89 de la col·lecció de lleis número %(law_480_2004)"
+"s, de comunicacions electròniques, en la seva forma esmenada, l’usuari és "
+"informat que el servei utilitza galetes."
 
 #: wllegal/templates/legal/documents/tos.html:120
 msgid "The Service uses Cookies to personalise content."
@@ -745,7 +732,7 @@ msgid ""
 "Service shall be resolved by the court of the Czech republic having "
 "substantive and local jurisdiction."
 msgstr ""
-"Qualsevol disputa en base a l'acord i/o aquestes condicions del servei serà "
+"Qualsevol disputa en base a l’acord i/o aquestes condicions del servei serà "
 "resolta pel tribunal de la República Txeca que tingui jurisdicció "
 "substantiva i local."
 
@@ -754,15 +741,11 @@ msgid "Effect"
 msgstr "Vigència"
 
 #: wllegal/templates/legal/documents/tos.html:132
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 1st September "
-#| "2017."
 msgid ""
 "These Terms of Service shall come into force and effect on 15th May 2023."
 msgstr ""
-"Les condicions del servei seran vigents a partir del primer de setembre del "
-"2017."
+"Aquestes condicions del servei seran vigents a partir del 15 de maig del "
+"2023."
 
 #~ msgid ""
 #~ "In case you purchase service from us, we collect additional billing "
