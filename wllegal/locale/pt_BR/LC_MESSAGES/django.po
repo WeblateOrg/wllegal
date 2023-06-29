@@ -5,11 +5,11 @@
 # Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2021-11-11 23:03+0000\n"
-"Last-Translator: Felipe <felipefplzx@gmail.com>\n"
+"PO-Revision-Date: 2023-06-30 17:49+0000\n"
+"Last-Translator: Jessica Patricio <jessicacacau@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "weblate/legal/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -17,17 +17,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.9.1-dev\n"
+"X-Generator: Weblate 5.0-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "Sub-contratantes de Acordo com o Artigo 28 do RGPD"
 
 #: wllegal/templates/legal/documents/contracts.html:10
-#, fuzzy
-#| msgid "Status as of October 2020."
 msgid "Status as of March 2023."
-msgstr "Status a partir de Outubro de 2020."
+msgstr "Status a partir de março de 2023."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -72,16 +70,12 @@ msgid "Name and e-mail address"
 msgstr "Nome e endereço de e-mail"
 
 #: wllegal/templates/legal/documents/privacy.html:26
-#, fuzzy
-#| msgid "These are used to identify you in the VCS commits"
 msgid "These are used to identify you in the VCS commits."
-msgstr "Estes são usados para identificar você nos commits de VCS"
+msgstr "Estes são usados para identificá-lo nos commits de VCS."
 
 #: wllegal/templates/legal/documents/privacy.html:27
-#, fuzzy
-#| msgid "Additionally, e-mail is used for notification of watched events"
 msgid "Additionally, e-mail is used for notification of watched events."
-msgstr "Além disto, o e-mail é usado para notificação de eventos observados"
+msgstr "Além disto, o e-mail é usado para notificação de eventos observados."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
