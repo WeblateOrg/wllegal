@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-06-02 06:31+0000\n"
-"Last-Translator: pan93412 <pan93412@gmail.com>\n"
+"PO-Revision-Date: 2023-07-17 11:04+0000\n"
+"Last-Translator: Peter Dave Hello <hsu@peterdavehello.org>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "weblate/legal/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.0-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -41,7 +41,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:9
 msgid "Personal Data Controller"
-msgstr "「個人資料」控制器"
+msgstr "「個人資料」控制者"
 
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
@@ -53,8 +53,7 @@ msgstr "%(provider)s，註冊編號 %(reg_no)s"
 msgid ""
 "Weblate has appointed a data protection officer who may be reached via "
 "%(privacy_contact)s."
-msgstr ""
-"Weblate 已派任一名資料保護專員，您可以利用 %(privacy_contact)s 與其聯絡。"
+msgstr "Weblate 已指派一名資料保護專員，您可以利用 %(privacy_contact)s 與其聯絡。"
 
 #: wllegal/templates/legal/documents/privacy.html:17
 msgid "Personal Data processed by Weblate"
@@ -187,7 +186,8 @@ msgid ""
 "The Personal Data might be disclosed to third parties in limited "
 "circumstances when the Controller has a good faith belief it is required by "
 "law, such as under a subpoena or other judicial or administrative order."
-msgstr ""
+msgstr "當資料控制者認為受到法律的規定，例如在接獲傳票或其他的司法或行政命令的情況下"
+"，個人資料可能會在特定的情況下被提供給第三方。"
 
 #: wllegal/templates/legal/documents/privacy.html:69
 msgid ""
@@ -198,6 +198,10 @@ msgid ""
 "If the User does not challenge the disclosure request, the Controller may be "
 "legally required to turn over the Personal Data."
 msgstr ""
+"若資料控制者需要因法律規定而揭露個人資料，會試圖提前透過電子郵件通知使用者（"
+"除非資料控制者被禁止，或是這種通知無效），目的是讓使用者有機會反對這次的資料"
+"揭露。如果使用者並未提出反對，資料控制者可能會因法律的要求，而不得不將個人資"
+"料交出。"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "The Personal Data retention"
@@ -277,16 +281,11 @@ msgid ""
 msgstr "刪除、更正和取回您的個人資料，可以在帳號管理中完成，且完全自動化。"
 
 #: wllegal/templates/legal/documents/summary.html:4
-#, fuzzy
-#| msgid ""
-#| "We process private data (such as your e-mail address), those will be "
-#| "discarded from our database as soon as you remove your account."
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
-msgstr ""
-"我們會經手隱私資料（例如您的電子郵件位址），一旦您移除帳號之後相關資料就會從"
-"我們的資料庫中除去。"
+msgstr "我們會經手個人資料（例如您的電子郵件位址），您移除帳號之後相關資料就會從我們"
+"的資料庫中除去。"
 
 #: wllegal/templates/legal/documents/summary.html:5
 #, fuzzy
@@ -308,7 +307,8 @@ msgstr "您的名稱與電子郵件位址會在 VCS 提交動作中使用，它�
 msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
-msgstr ""
+msgstr "你可以自行選擇名稱，且用來提交的電子郵件地址可透過 Weblate "
+"系統進行隱藏，以確保你的隱私安全。"
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid "We use cookies to deliver our services."
@@ -316,7 +316,7 @@ msgstr "我們使用 Cookie 遞送我們的服務。"
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid "We don’t use any third-party cookies."
-msgstr ""
+msgstr "我們不使用任何第三方的 cookie。"
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
@@ -579,6 +579,9 @@ msgid ""
 "hereby gives consent to collecting, storage, and processing of the Personal "
 "Data according to the <a href=\"%(privacy_url)s\">Privacy Policy</a>."
 msgstr ""
+"在 GDPR（一般資料保護規範）的「<a href=\"%(url)s\""
+">第七條</a>」的涵義下，使用者在此同意依據「<a href=\"%(privacy_url)s\""
+">隱私政策</a>」來收集、儲存與處理個人資料。"
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid "Translations"
@@ -614,18 +617,12 @@ msgid ""
 msgstr "「使用者」同意，對於貢獻專案時，其所指定的授權。"
 
 #: wllegal/templates/legal/documents/tos.html:113
-#, fuzzy
-#| msgid ""
-#| "The User agrees to use of own name and e-mail as authorship in the VCS "
-#| "commits. The User understands that this grant is non revocable due to "
-#| "nature of the VCS."
 msgid ""
 "The User agrees to use of name and e-mail as authorship in the VCS commits. "
 "The User understands that this grant is non-revocable due to the nature of "
 "the VCS."
-msgstr ""
-"「使用者」同意在 VCS 提交中使用其姓名和電子郵件作為作者。「使用者」明瞭，由"
-"於 VCS 的特性，此授權無法撤銷。"
+msgstr "「使用者」同意在版本控制系統提交中使用其姓名和電子郵件作為作者。「使用者」明"
+"瞭，由於版本控制系統的特性，此授權無法撤銷。"
 
 #: wllegal/templates/legal/documents/tos.html:118
 #, python-format
