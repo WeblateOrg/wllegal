@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-07-03 08:59+0000\n"
+"PO-Revision-Date: 2023-07-26 07:03+0000\n"
 "Last-Translator: ssantos <ssantos@web.de>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/weblate/legal/"
 "pt/>\n"
@@ -189,17 +189,15 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:60
 msgid "Payment processors when purchasing a service from us."
-msgstr ""
+msgstr "Processadores de pagamentos quando adquire um serviço da nossa parte."
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
 msgstr "Todos os \"Dados Pessoais\" são guardados na União Europeia."
 
 #: wllegal/templates/legal/documents/privacy.html:65
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Disclosure of the Personal Data"
-msgstr "Acesso aos Dados Pessoais"
+msgstr "Divulgação dos dados pessoais"
 
 #: wllegal/templates/legal/documents/privacy.html:67
 msgid ""
@@ -324,16 +322,11 @@ msgstr ""
 "que serão removidos da nossa base de dados assim que remover a sua conta."
 
 #: wllegal/templates/legal/documents/summary.html:5
-#, fuzzy
-#| msgid ""
-#| "Your translations are made under license which is specified by each "
-#| "translation."
 msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
 msgstr ""
-"As suas traduções são efetuadas sob a licença que é especificada em cada "
-"tradução."
+"As suas traduções são feitas sob a licença especificada por cada tradução."
 
 #: wllegal/templates/legal/documents/summary.html:7
 msgid ""
@@ -348,6 +341,9 @@ msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
 msgstr ""
+"O nome escolhido é da sua responsabilidade e o endereço de e-mail utilizado "
+"para as confirmações pode ser ocultado pelo sistema Weblate para proteger a "
+"sua privacidade."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid "We use cookies to deliver our services."
@@ -648,6 +644,9 @@ msgid ""
 "hereby gives consent to collecting, storage, and processing of the Personal "
 "Data according to the <a href=\"%(privacy_url)s\">Privacy Policy</a>."
 msgstr ""
+"No sentido do <a href=\"%(url)s\">Artigo 7 do GDPR</a>, o Utilizador "
+"consente com a coleta, armazenamento e processamento dos Dados pessoais "
+"conforme a <a href=\"%(privacy_url)s\">Política de Privacidade</a>."
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid "Translations"
@@ -688,19 +687,14 @@ msgstr ""
 "projeto especificou."
 
 #: wllegal/templates/legal/documents/tos.html:113
-#, fuzzy
-#| msgid ""
-#| "The User agrees to use of own name and e-mail as authorship in the VCS "
-#| "commits. The User understands that this grant is non revocable due to "
-#| "nature of the VCS."
 msgid ""
 "The User agrees to use of name and e-mail as authorship in the VCS commits. "
 "The User understands that this grant is non-revocable due to the nature of "
 "the VCS."
 msgstr ""
-"O \"Utilizador\" concorda em utilizar o seu próprio nome e ''e-mail'' como "
-"autoria nas submissões VCS. O \"Utilizador\" compreende que esta concessão "
-"não é revogável devido à natureza do VCS."
+"O Utilizador concorda com a utilização do nome e do e-mail como autoria nos "
+"commits do SCV. O Utilizador compreende que esta concessão não é revogável "
+"devido à natureza do SCV."
 
 #: wllegal/templates/legal/documents/tos.html:118
 #, python-format
@@ -744,14 +738,10 @@ msgid "Effect"
 msgstr "Efeito"
 
 #: wllegal/templates/legal/documents/tos.html:132
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 1st September "
-#| "2017."
 msgid ""
 "These Terms of Service shall come into force and effect on 15th May 2023."
 msgstr ""
-"Estes termos de serviço entrarão em vigor a partir de 1 de Setembro de 2017."
+"Estes Termos do Serviço entrarão em vigor a partir de 15 de maio de 2023."
 
 #~ msgid ""
 #~ "In case you purchase service from us, we collect additional billing "
