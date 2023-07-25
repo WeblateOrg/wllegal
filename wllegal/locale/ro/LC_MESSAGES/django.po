@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-07-05 21:49+0000\n"
-"Last-Translator: Simona Iacob <s@zp1.net>\n"
+"PO-Revision-Date: 2023-07-26 07:03+0000\n"
+"Last-Translator: Licaon Kter <licaon.kter@protonmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/weblate/legal/"
 "ro/>\n"
 "Language: ro\n"
@@ -116,6 +116,8 @@ msgid ""
 "Necessary details to issue an invoice is collected when purchasing a service "
 "from us."
 msgstr ""
+"Detaliile necesare pentru a emite o factură sunt colectate atunci când "
+"achiziționați un serviciu de la noi."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
@@ -655,6 +657,10 @@ msgid ""
 "hereby gives consent to collecting, storage, and processing of the Personal "
 "Data according to the <a href=\"%(privacy_url)s\">Privacy Policy</a>."
 msgstr ""
+"În sensul <a href=\"%(url)s\">Articolul 7</a> din GDPR, utilizatorul își dă "
+"consimțământul pentru colectarea, stocarea și prelucrarea datelor cu "
+"caracter personal în conformitate cu <a href=\"%(privacy_url)s\">Politica de "
+"confidențialitate</a>."
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid "Translations"
@@ -696,19 +702,14 @@ msgstr ""
 "licența specificată de proiect."
 
 #: wllegal/templates/legal/documents/tos.html:113
-#, fuzzy
-#| msgid ""
-#| "The User agrees to use of own name and e-mail as authorship in the VCS "
-#| "commits. The User understands that this grant is non revocable due to "
-#| "nature of the VCS."
 msgid ""
 "The User agrees to use of name and e-mail as authorship in the VCS commits. "
 "The User understands that this grant is non-revocable due to the nature of "
 "the VCS."
 msgstr ""
-"Utilizatorul este de acord cu utilizarea propriului nume și a adresei de e-"
-"mail ca fiind autorul angajamentelor VCS. Utilizatorul înțelege că acest "
-"acord nu este revocabil din cauza naturii VCS."
+"Utilizatorul este de acord cu utilizarea numelui și a adresei de e-mail ca "
+"autor în mesajele VCS. Utilizatorul înțelege că acest acord este irevocabil "
+"datorită naturii VCS."
 
 #: wllegal/templates/legal/documents/tos.html:118
 #, python-format
@@ -752,15 +753,11 @@ msgid "Effect"
 msgstr "Efectul"
 
 #: wllegal/templates/legal/documents/tos.html:132
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 1st September "
-#| "2017."
 msgid ""
 "These Terms of Service shall come into force and effect on 15th May 2023."
 msgstr ""
-"Acești Termeni și condiții de utilizare intră în vigoare la 1 septembrie "
-"2017."
+"Acești Termeni și condiții de utilizare intră în vigoare la data de 15 mai "
+"2023."
 
 #~ msgid ""
 #~ "In case you purchase service from us, we collect additional billing "
