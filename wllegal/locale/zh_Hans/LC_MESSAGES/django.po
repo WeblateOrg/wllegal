@@ -16,8 +16,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-05-20 18:48+0000\n"
-"Last-Translator: Eric <hamburger2048@users.noreply.hosted.weblate.org>\n"
+"PO-Revision-Date: 2023-07-10 02:28+0000\n"
+"Last-Translator: yangyangdaji <1504305527@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "weblate/legal/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.0-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -482,7 +482,7 @@ msgstr "指使用服务的任何法律实体或提供者以外的个人"
 #: wllegal/templates/legal/documents/tos.html:66
 msgctxt "Definition in terms of service"
 msgid "VCS"
-msgstr "版本控制系统（VCS）"
+msgstr "版本控制系统"
 
 #: wllegal/templates/legal/documents/tos.html:67
 msgid ""
@@ -613,9 +613,8 @@ msgid ""
 "The User agrees to use of name and e-mail as authorship in the VCS commits. "
 "The User understands that this grant is non-revocable due to the nature of "
 "the VCS."
-msgstr ""
-"用户同意在版本控制系统（VCS）提交中使用姓名和电子邮箱地址作为作者身份。用户理"
-"解，由于版本控制系统（VCS）的性质，此授权不可撤销。"
+msgstr "用户同意在版本控制系统提交中使用姓名和电子邮箱地址作为作者身份。用户理解，由"
+"于版本控制系统的性质，此授权不可撤销。"
 
 #: wllegal/templates/legal/documents/tos.html:118
 #, python-format

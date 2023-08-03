@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-05-25 14:51+0000\n"
+"PO-Revision-Date: 2023-07-26 07:03+0000\n"
 "Last-Translator: Licaon Kter <licaon.kter@protonmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/weblate/legal/"
 "ro/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.0-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -116,6 +116,8 @@ msgid ""
 "Necessary details to issue an invoice is collected when purchasing a service "
 "from us."
 msgstr ""
+"Detaliile necesare pentru a emite o factură sunt colectate atunci când "
+"achiziționați un serviciu de la noi."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
@@ -189,17 +191,15 @@ msgstr "Persoanele contractate pentru asigurarea tehnică a serviciului."
 
 #: wllegal/templates/legal/documents/privacy.html:60
 msgid "Payment processors when purchasing a service from us."
-msgstr ""
+msgstr "Procesatorii de plăți atunci când achiziționați un serviciu de la noi."
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
 msgstr "Toate datele cu caracter personal sunt stocate în Uniunea Europeană."
 
 #: wllegal/templates/legal/documents/privacy.html:65
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Disclosure of the Personal Data"
-msgstr "Accesul la datele cu caracter personal"
+msgstr "Dezvăluirea datelor cu caracter personal"
 
 #: wllegal/templates/legal/documents/privacy.html:67
 msgid ""
@@ -207,6 +207,10 @@ msgid ""
 "circumstances when the Controller has a good faith belief it is required by "
 "law, such as under a subpoena or other judicial or administrative order."
 msgstr ""
+"Datele cu caracter personal ar putea fi dezvăluite unor terțe părți în "
+"circumstanțe limitate, atunci când Operatorul crede cu bună credință că "
+"acest lucru este cerut de lege, cum ar fi în temeiul unei citații sau al "
+"unui alt ordin judecătoresc sau administrativ."
 
 #: wllegal/templates/legal/documents/privacy.html:69
 msgid ""
@@ -217,6 +221,13 @@ msgid ""
 "If the User does not challenge the disclosure request, the Controller may be "
 "legally required to turn over the Personal Data."
 msgstr ""
+"În cazul în care Operatorul este obligat prin lege să divulge datele cu "
+"caracter personal, se va încerca să se furnizeze utilizatorului o notificare "
+"prealabilă prin e-mail (cu excepția cazului în care Operatorului îi este "
+"interzis sau ar fi inutil) că a fost făcută o cerere pentru datele cu "
+"caracter personal pentru a permite utilizatorului să se opună divulgării. În "
+"cazul în care utilizatorul nu contestă cererea de divulgare, Operatorul "
+"poate fi obligat prin lege să predea datele cu caracter personal."
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "The Personal Data retention"
@@ -231,17 +242,13 @@ msgstr ""
 "își șterge contul din serviciu."
 
 #: wllegal/templates/legal/documents/privacy.html:75
-#, fuzzy
-#| msgid ""
-#| "Access log information might be collected for a longer period for the "
-#| "purpose of establishing, exercising or defending legal claims."
 msgid ""
 "Access log info might be collected for a longer period for the purpose of "
 "establishing, exercising or defending legal claims."
 msgstr ""
-"Informațiile din jurnalul de acces pot fi colectate pentru o perioadă mai "
-"lungă de timp în scopul stabilirii, exercitării sau apărării unor pretenții "
-"legale."
+"Informațiile din jurnalul de acces ar putea fi colectate pentru o perioadă "
+"mai lungă de timp în scopul stabilirii, exercitării sau apărării unor "
+"pretenții legale."
 
 #: wllegal/templates/legal/documents/privacy.html:77
 msgid "Your rights"
@@ -314,28 +321,21 @@ msgstr ""
 "din gestionarea contului și este complet automatizată."
 
 #: wllegal/templates/legal/documents/summary.html:4
-#, fuzzy
-#| msgid ""
-#| "We process private data (such as your e-mail address), those will be "
-#| "discarded from our database as soon as you remove your account."
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"Prelucrăm date private (cum ar fi adresa dvs. de e-mail), acestea vor fi "
-"eliminate din baza noastră de date imediat ce vă ștergeți contul."
+"Prelucrăm date cu caracter personal (cum ar fi adresa dumneavoastră de "
+"e-mail); acestea vor fi eliminate din baza noastră de date dacă vă ștergeți "
+"contul."
 
 #: wllegal/templates/legal/documents/summary.html:5
-#, fuzzy
-#| msgid ""
-#| "Your translations are made under license which is specified by each "
-#| "translation."
 msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
 msgstr ""
-"Traducerile dvs. sunt realizate sub licență, care la rândul ei este "
-"specificată pentru fiecare traducere."
+"Traducerile dumneavoastră sunt realizate sub licența specificată pentru "
+"fiecare traducere."
 
 #: wllegal/templates/legal/documents/summary.html:7
 msgid ""
@@ -350,6 +350,9 @@ msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
 msgstr ""
+"Numele ales depinde de dumneavoastră, iar adresa de e-mail utilizată pentru "
+"confirmări poate fi mascată de sistemul Weblate pentru a vă proteja "
+"confidențialitatea."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid "We use cookies to deliver our services."
@@ -357,7 +360,7 @@ msgstr "Utilizăm cookie-uri pentru a ne furniza serviciile."
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid "We don’t use any third-party cookies."
-msgstr ""
+msgstr "Nu folosim niciun cookie de la terți."
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
@@ -654,6 +657,10 @@ msgid ""
 "hereby gives consent to collecting, storage, and processing of the Personal "
 "Data according to the <a href=\"%(privacy_url)s\">Privacy Policy</a>."
 msgstr ""
+"În sensul <a href=\"%(url)s\">Articolul 7</a> din GDPR, utilizatorul își dă "
+"consimțământul pentru colectarea, stocarea și prelucrarea datelor cu "
+"caracter personal în conformitate cu <a href=\"%(privacy_url)s\">Politica de "
+"confidențialitate</a>."
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid "Translations"
@@ -695,19 +702,14 @@ msgstr ""
 "licența specificată de proiect."
 
 #: wllegal/templates/legal/documents/tos.html:113
-#, fuzzy
-#| msgid ""
-#| "The User agrees to use of own name and e-mail as authorship in the VCS "
-#| "commits. The User understands that this grant is non revocable due to "
-#| "nature of the VCS."
 msgid ""
 "The User agrees to use of name and e-mail as authorship in the VCS commits. "
 "The User understands that this grant is non-revocable due to the nature of "
 "the VCS."
 msgstr ""
-"Utilizatorul este de acord cu utilizarea propriului nume și a adresei de e-"
-"mail ca fiind autorul angajamentelor VCS. Utilizatorul înțelege că acest "
-"acord nu este revocabil din cauza naturii VCS."
+"Utilizatorul este de acord cu utilizarea numelui și a adresei de e-mail ca "
+"autor în mesajele VCS. Utilizatorul înțelege că acest acord este irevocabil "
+"datorită naturii VCS."
 
 #: wllegal/templates/legal/documents/tos.html:118
 #, python-format
@@ -751,15 +753,11 @@ msgid "Effect"
 msgstr "Efectul"
 
 #: wllegal/templates/legal/documents/tos.html:132
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 1st September "
-#| "2017."
 msgid ""
 "These Terms of Service shall come into force and effect on 15th May 2023."
 msgstr ""
-"Acești Termeni și condiții de utilizare intră în vigoare la 1 septembrie "
-"2017."
+"Acești Termeni și condiții de utilizare intră în vigoare la data de 15 mai "
+"2023."
 
 #~ msgid ""
 #~ "In case you purchase service from us, we collect additional billing "
