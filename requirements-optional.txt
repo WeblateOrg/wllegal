@@ -1,4 +1,4 @@
 -r requirements.txt
+borgbackup>=1.2.5 # not directly required, pinned by Snyk to avoid a vulnerability
 psycopg2-binary
 Weblate
-borgbackup>=1.2.5 # not directly required, pinned by Snyk to avoid a vulnerability
