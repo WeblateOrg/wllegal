@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-08-18 08:58+0000\n"
+"PO-Revision-Date: 2023-09-07 09:07+0000\n"
 "Last-Translator: VfBFan <drop0815@posteo.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/weblate/legal/de/>"
 "\n"
@@ -24,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.0-dev\n"
+"X-Generator: Weblate 5.0.1-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -65,7 +65,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:17
 msgid "Personal Data processed by Weblate"
-msgstr "Persönliche Daten, die Weblate verarbeitet"
+msgstr "Personenbezogene Daten, die Weblate verarbeitet"
 
 #: wllegal/templates/legal/documents/privacy.html:20
 msgid "Weblate only processes Personal Data the User provides by using it:"
@@ -171,7 +171,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:52
 msgid "Access to the Personal Data"
-msgstr "Zugriff auf die persönlichen Daten"
+msgstr "Zugriff auf die personenbezogenen Daten"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
@@ -324,8 +324,8 @@ msgid ""
 "The removal, correction, and retrieval of your Personal Data can be done "
 "from the account management, and is fully automated."
 msgstr ""
-"Das Entfernen, Korrigieren und Abrufen Ihrer persönlichen Daten kann über "
-"die Kontoverwaltung erfolgen und ist vollständig automatisiert."
+"Das Entfernen, Korrigieren und Abrufen Ihrer personenbezogenen Daten kann "
+"über die Kontoverwaltung erfolgen und ist vollständig automatisiert."
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
@@ -487,7 +487,7 @@ msgstr "bedeutet %(provider)s, Reg. Nr. %(reg_no)s"
 #: wllegal/templates/legal/documents/tos.html:48
 #: wllegal/templates/legal/documents/tos.html:98
 msgid "Personal Data"
-msgstr "Persönliche Daten"
+msgstr "Personenbezogene Daten"
 
 #: wllegal/templates/legal/documents/tos.html:49
 #, python-format
