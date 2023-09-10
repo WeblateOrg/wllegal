@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-09-10 21:37+0000\n"
+"PO-Revision-Date: 2023-09-11 04:26+0000\n"
 "Last-Translator: Vin <k3kelm4vw@mozmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/weblate/legal/ru/"
 ">\n"
@@ -121,7 +121,8 @@ msgid ""
 "Necessary details to issue an invoice is collected when purchasing a service "
 "from us."
 msgstr ""
-"При покупке нашей услуги собираются данные, нужные для выставления счёта."
+"При покупке нашей услуги собираются данные, необходимые для выставления "
+"счёта."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
@@ -199,7 +200,7 @@ msgstr "Все личностные данные хранятся в Европ�
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid "Disclosure of the Personal Data"
-msgstr "Раскрытие персональных данных"
+msgstr "Раскрытие Персональных данных"
 
 #: wllegal/templates/legal/documents/privacy.html:67
 msgid ""
