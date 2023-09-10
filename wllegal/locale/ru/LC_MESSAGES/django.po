@@ -16,7 +16,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
 "PO-Revision-Date: 2023-09-10 21:37+0000\n"
-"Last-Translator: 3147961367 61634683678 <jkdpqb@gmail.com>\n"
+"Last-Translator: Vin <k3kelm4vw@mozmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/weblate/legal/ru/"
 ">\n"
 "Language: ru\n"
@@ -641,7 +641,7 @@ msgstr ""
 "обслуживания и/или возникший в результате использования сервиса."
 
 #: wllegal/templates/legal/documents/tos.html:101
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Within the meaning of <a href=\"%(url)s\">Article 7</a> of the GDPR the User "
 "hereby gives consent to collecting, storage, and processing of the Personal "
@@ -649,7 +649,7 @@ msgid ""
 msgstr ""
 "По смыслу <a href=\"%(url)s\">Статьи 7</a> GDPR Пользователь настоящим дает "
 "согласие на сбор, хранение и обработку Персональных данных в соответствии с "
-"<a href=\"% (privacy_url)s\">Политика конфиденциальности</a>."
+"<a href=\"%(privacy_url)s\">Политикой конфиденциальности</a>."
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid "Translations"
