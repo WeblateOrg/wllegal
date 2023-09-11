@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-07-17 11:04+0000\n"
-"Last-Translator: Peter Dave Hello <hsu@peterdavehello.org>\n"
+"PO-Revision-Date: 2023-09-11 13:37+0000\n"
+"Last-Translator: Chang-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "weblate/legal/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.0-dev\n"
+"X-Generator: Weblate 5.0.1-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -69,7 +69,7 @@ msgstr "名稱和電子郵件地址"
 
 #: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits."
-msgstr "這些是用來辨識您在 VCS 的提交。"
+msgstr "這些是用來辨識您在 VCS 的送交。"
 
 #: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events."
@@ -301,13 +301,13 @@ msgstr "您的翻譯所採用的授權方式由各個翻譯專案指定。"
 msgid ""
 "Your name and e-mail address is used in VCS commits, it will stay there "
 "indefinitely."
-msgstr "您的名稱與電子郵件位址會在 VCS 提交動作中使用，它會無限期留在該處。"
+msgstr "您的名稱與電子郵件位址會在 VCS 送交動作中使用，它會無限期留在該處。"
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
-msgstr "你可以自行選擇名稱，且用來提交的電子郵件地址可透過 Weblate "
+msgstr "你可以自行選擇名稱，且用來送交的電子郵件地址可透過 Weblate "
 "系統進行隱藏，以確保你的隱私安全。"
 
 #: wllegal/templates/legal/documents/summary.html:11
@@ -621,7 +621,7 @@ msgid ""
 "The User agrees to use of name and e-mail as authorship in the VCS commits. "
 "The User understands that this grant is non-revocable due to the nature of "
 "the VCS."
-msgstr "「使用者」同意在版本控制系統提交中使用其姓名和電子郵件作為作者。「使用者」明"
+msgstr "「使用者」同意在版本控制系統送交中使用其姓名和電子郵件作為作者。「使用者」明"
 "瞭，由於版本控制系統的特性，此授權無法撤銷。"
 
 #: wllegal/templates/legal/documents/tos.html:118
