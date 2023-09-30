@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-07-17 11:04+0000\n"
-"Last-Translator: Ldm Public <ldmpub@gmail.com>\n"
+"PO-Revision-Date: 2023-09-30 11:32+0000\n"
+"Last-Translator: Julien Humbert <julroy67@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/weblate/legal/fr/>"
 "\n"
 "Language: fr\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.0-dev\n"
+"X-Generator: Weblate 5.1-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -48,7 +48,7 @@ msgstr "Contrôle des Données Personnelles"
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
 msgid "%(provider)s, Reg. No. %(reg_no)s"
-msgstr "%(provider)s, nᵒ d’enregistrement %(reg_no)s"
+msgstr "%(provider)s, nᵒ d’enregistrement&nbsp;%(reg_no)s"
 
 #: wllegal/templates/legal/documents/privacy.html:15
 #, python-format
@@ -67,7 +67,7 @@ msgstr "Données personnelles traitées par Weblate"
 msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr ""
 "Weblate ne traite que les données personnelles fournies par l’utilisateur "
-"lorsqu’il utilise nos services :"
+"lorsqu’il utilise nos services&nbsp;:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid "Name and e-mail address"
@@ -129,7 +129,7 @@ msgstr "Objectif et bases légales du traitement des Données Personnelles"
 #: wllegal/templates/legal/documents/privacy.html:43
 msgid "Your Personal Data will be used for the purposes of the Service:"
 msgstr ""
-"Vos Données Personnelles seront utilisées pour les besoins du Service :"
+"Vos Données Personnelles seront utilisées pour les besoins du Service&nbsp;:"
 
 #: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
@@ -164,7 +164,8 @@ msgid ""
 msgstr ""
 "avec votre consentement explicite ou votre autorisation pour mener à bien "
 "nos activités commerciales ou vous envoyer des lettres d’information (<a "
-"href=\"%(url)s\">Article 6, paragraphe 1, point a), du RGPD</a>)."
+"href=\"%(url)s\">Article&nbsp;6, paragraphe&nbsp;1, point&nbsp;a), du "
+"RGPD</a>)."
 
 #: wllegal/templates/legal/documents/privacy.html:52
 msgid "Access to the Personal Data"
@@ -184,7 +185,7 @@ msgid ""
 "Third parties which can gain access to the Personal Data when necessary are:"
 msgstr ""
 "Les tiers qui peuvent avoir accès aux données personnelles si nécessaire "
-"sont :"
+"sont&nbsp;:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "Persons which are contracted for technical assurance of the service."
@@ -273,7 +274,7 @@ msgid ""
 msgstr ""
 "Nous voulons que vous ayez toujours le contrôle de vos données personnelles. "
 "À cette fin, vous avez certains droits qui le permettent. Sous certaines "
-"conditions, vous pouvez :"
+"conditions, vous pouvez&nbsp;:"
 
 #: wllegal/templates/legal/documents/privacy.html:85
 #, python-format
@@ -282,8 +283,8 @@ msgid ""
 "even get a copy of all of it (<a href=\"%(url)s\">Article 15 GDPR</a>)"
 msgstr ""
 "Accéder à l’ensemble de vos Données Personnelles Weblate que nous utilisons "
-"ou traitons, et même obtenir une copie de l’ensemble de celles-ci (<a href="
-"\"%(url)s\">Article 15 RGPD</a>)"
+"ou traitons, et même obtenir une copie de l’ensemble de celles-ci (<a href=\""
+"%(url)s\">Article&nbsp;15 RGPD</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:86
 msgid ""
@@ -391,7 +392,7 @@ msgstr "Définitions"
 
 #: wllegal/templates/legal/documents/tos.html:22
 msgid "In these Terms of Service:"
-msgstr "Dans les présentes conditions d’utilisation :"
+msgstr "Dans les présentes conditions d’utilisation&nbsp;:"
 
 #: wllegal/templates/legal/documents/tos.html:26
 msgid "Agreement"
@@ -403,7 +404,7 @@ msgid ""
 "Civil Code concluded by and between the User and the Provider upon the "
 "Consent"
 msgstr ""
-"Contrat de licence au sens des articles 2358 et suivants du Code civil "
+"Contrat de licence au sens des articles&nbsp;2358 et suivants du Code civil "
 "conclu par et entre le Prestataire et l’Utilisateur avec l’accord de ce "
 "dernier"
 
@@ -490,9 +491,9 @@ msgid ""
 "means personal data within the meaning of EU Regulation No. %(law_679_2016)s "
 "inserted by the User into the Service and/or Cookies"
 msgstr ""
-"désigne les données personnelles au sens de la régulation EU n"
-"° %(law_679_2016)s, fournies par l’Utilisateur dans le Service et/ou les "
-"témoins de connexion"
+"désigne les données personnelles au sens de la régulation EU "
+"n°&nbsp;%(law_679_2016)s, fournies par l’Utilisateur dans le Service et/ou "
+"les témoins de connexion"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Owner"
@@ -576,9 +577,9 @@ msgid ""
 "By concluding Agreement under Article 2.1 of this Agreement, the following "
 "provisions of this Article 3 of the Terms of Service come into force."
 msgstr ""
-"En concluant un accord en vertu de l’article 2.1 du présent accord, les "
-"dispositions suivantes du présent article 3 des conditions d’utilisation "
-"entrent en vigueur."
+"En concluant un accord en vertu de l’article&nbsp;2.1 du présent accord, les "
+"dispositions suivantes du présent article&nbsp;3 des conditions d’"
+"utilisation entrent en vigueur."
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid ""
@@ -718,9 +719,9 @@ msgid ""
 "electronic communication, as amended, the User is informed that the Service "
 "uses Cookies."
 msgstr ""
-"Au sens de l’article 89 de la loi n° %(law_480_2004)s du Recueil relative "
-"aux communications électroniques, telle que modifiée, l’Utilisateur est "
-"informé que le Service utilise des témoins de connexion."
+"Au sens de l’article&nbsp;89 de la loi n° %(law_480_2004)s du Recueil "
+"relative aux communications électroniques, telle que modifiée, l’Utilisateur "
+"est informé que le Service utilise des témoins de connexion."
 
 #: wllegal/templates/legal/documents/tos.html:120
 msgid "The Service uses Cookies to personalise content."
