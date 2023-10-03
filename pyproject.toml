@@ -9,7 +9,6 @@ target-version = ['py37']
 profile = "black"
 
 [tool.ruff]
-format = "github"
 ignore = [
   "D10",  # TODO: we are missing many docstrings
   "D203",  # CONFIG: incompatible with D211
@@ -18,6 +17,7 @@ ignore = [
   "RUF001",  # WONTFIX: String contains ambiguous unicode character, we are using Unicode
   "RUF012"  # TODO: Mutable class attributes should be annotated with `typing.ClassVar`
 ]
+output-format = "github"
 select = [
   "E",
   "F",
