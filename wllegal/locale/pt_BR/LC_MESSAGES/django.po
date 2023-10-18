@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-06-30 17:49+0000\n"
-"Last-Translator: Jessica Patricio <jessicacacau@gmail.com>\n"
+"PO-Revision-Date: 2023-10-18 19:52+0000\n"
+"Last-Translator: Luiz Fernando Ranghetti <elchevive@opensuse.org>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "weblate/legal/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.0-dev\n"
+"X-Generator: Weblate 5.1\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -94,20 +94,14 @@ msgid "IP address and browser name"
 msgstr "Endereço IP e nome do navegador"
 
 #: wllegal/templates/legal/documents/privacy.html:34
-#, fuzzy
-#| msgid ""
-#| "These are logged in case of important changes to your account (e.g. "
-#| "password change) to allow diagnosis in case your account is stolen"
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen."
 msgstr ""
 "Eles são registrados no caso de alterações importantes em sua conta (ex: "
-"alteração de senha) e permitem um diagnóstico caso sua conta seja roubada"
+"alteração de senha) e permitem um diagnóstico caso sua conta seja roubada."
 
 #: wllegal/templates/legal/documents/privacy.html:36
-#, fuzzy
-#| msgid "Billing information"
 msgid "Billing info"
 msgstr "Informações de cobrança"
 
@@ -226,10 +220,6 @@ msgstr ""
 "conta no serviço."
 
 #: wllegal/templates/legal/documents/privacy.html:75
-#, fuzzy
-#| msgid ""
-#| "Access log information might be collected for a longer period for the "
-#| "purpose of establishing, exercising or defending legal claims."
 msgid ""
 "Access log info might be collected for a longer period for the purpose of "
 "establishing, exercising or defending legal claims."
@@ -305,27 +295,18 @@ msgstr ""
 "partir do gerenciamento de contas e é totalmente automatizado."
 
 #: wllegal/templates/legal/documents/summary.html:4
-#, fuzzy
-#| msgid ""
-#| "We process private data (such as your e-mail address), those will be "
-#| "discarded from our database as soon as you remove your account."
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"Processamos os dados privados (como seu endereço de e-mail), os quais serão "
-"descartados de nossa base de dados tão logo você remova sua conta."
+"Processamos os dados pessoais (como seu endereço de e-mail); os quais serão "
+"descartados de nossa base de dados se você remover sua conta."
 
 #: wllegal/templates/legal/documents/summary.html:5
-#, fuzzy
-#| msgid ""
-#| "Your translations are made under license which is specified by each "
-#| "translation."
 msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
-msgstr ""
-"Suas traduções são feitas sob a licença especificada por cada tradução."
+msgstr "Suas traduções são feitas sob a licença especificada por cada tradução."
 
 #: wllegal/templates/legal/documents/summary.html:7
 msgid ""
@@ -676,19 +657,14 @@ msgstr ""
 "Projeto especificou."
 
 #: wllegal/templates/legal/documents/tos.html:113
-#, fuzzy
-#| msgid ""
-#| "The User agrees to use of own name and e-mail as authorship in the VCS "
-#| "commits. The User understands that this grant is non revocable due to "
-#| "nature of the VCS."
 msgid ""
 "The User agrees to use of name and e-mail as authorship in the VCS commits. "
 "The User understands that this grant is non-revocable due to the nature of "
 "the VCS."
 msgstr ""
-"O Usuário concorda com o uso de seu próprio nome e e-mail como autoria nos "
-"commits de VCS. O Usuário entende que esta concessão não é revogável devido "
-"à natureza do VCS."
+"O Usuário concorda com o uso de seu nome e e-mail como autoria nos commits "
+"de VCS. O Usuário entende que esta concessão não é revogável devido à "
+"natureza do VCS."
 
 #: wllegal/templates/legal/documents/tos.html:118
 #, python-format
@@ -732,14 +708,10 @@ msgid "Effect"
 msgstr "Efeito"
 
 #: wllegal/templates/legal/documents/tos.html:132
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 1st September "
-#| "2017."
 msgid ""
 "These Terms of Service shall come into force and effect on 15th May 2023."
 msgstr ""
-"Estes Termos de Serviço entrarão em vigor a partir de 1º de setembro de 2017."
+"Estes Termos de Serviço entrarão em vigor a partir de 15 de maio de 2023."
 
 #~ msgid ""
 #~ "In case you purchase service from us, we collect additional billing "
