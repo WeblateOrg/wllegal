@@ -6,10 +6,10 @@
 # Besnik Bleta <besnik@programeshqip.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2022-12-14 21:49+0000\n"
+"PO-Revision-Date: 2023-11-01 19:32+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/weblate/legal/"
 "sq/>\n"
@@ -18,17 +18,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 5.2-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "Nënkontraktues, në Pajtim me Nenin 28 të GDPR-së"
 
 #: wllegal/templates/legal/documents/contracts.html:10
-#, fuzzy
-#| msgid "Status as of October 2020."
 msgid "Status as of March 2023."
-msgstr "Gjendje deri më Tetor 2020."
+msgstr "Gjendje deri më mars 2023."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -74,16 +72,12 @@ msgid "Name and e-mail address"
 msgstr "Emër dhe adresë email"
 
 #: wllegal/templates/legal/documents/privacy.html:26
-#, fuzzy
-#| msgid "These are used to identify you in the VCS commits"
 msgid "These are used to identify you in the VCS commits."
-msgstr "Këto përdoren për identifikimin tuaj te depozitimet VCS"
+msgstr "Këto përdoren për identifikimin tuaj te depozitimet VCS."
 
 #: wllegal/templates/legal/documents/privacy.html:27
-#, fuzzy
-#| msgid "Additionally, e-mail is used for notification of watched events"
 msgid "Additionally, e-mail is used for notification of watched events."
-msgstr "Veç kësaj, email-i përdoret për njoftim rreth aktesh që mbikëqyrni"
+msgstr "Veç kësaj, email-i përdoret për njoftim rreth aktesh që mbikëqyrni."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
@@ -102,29 +96,25 @@ msgid "IP address and browser name"
 msgstr "Adresë IP dhe emër shfletuesi"
 
 #: wllegal/templates/legal/documents/privacy.html:34
-#, fuzzy
-#| msgid ""
-#| "These are logged in case of important changes to your account (e.g. "
-#| "password change) to allow diagnosis in case your account is stolen"
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen."
 msgstr ""
 "Këto regjistrohen për t’u përdorur në rast ndryshimesh të rëndësishme te "
 "llogaria juaj (p.sh., ndryshim fjalëkalimi) për të lejuar diagnostikim në "
-"rast se vidhet llogaria juaj"
+"rast se vidhet llogaria juaj."
 
 #: wllegal/templates/legal/documents/privacy.html:36
-#, fuzzy
-#| msgid "Billing information"
 msgid "Billing info"
-msgstr "Të dhëna faturimi"
+msgstr "Hollësi faturimi"
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
 "Necessary details to issue an invoice is collected when purchasing a service "
 "from us."
 msgstr ""
+"Grumbullohen hollësi të nevojshme për lëshim fature, kur blini prej nesh një "
+"shërbim."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
@@ -195,17 +185,15 @@ msgstr "Persona që janë kontraktuar për garantimin teknik të shërbimit."
 
 #: wllegal/templates/legal/documents/privacy.html:60
 msgid "Payment processors when purchasing a service from us."
-msgstr ""
+msgstr "Përpunues pagesash, kur blini prej nesh një shërbim."
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
 msgstr "Krejt të Dhënat Personale depozitohen në Bashkimin Europian."
 
 #: wllegal/templates/legal/documents/privacy.html:65
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Disclosure of the Personal Data"
-msgstr "Përdorim të Dhëna Personale"
+msgstr "Dhënie të Dhënash Personale"
 
 #: wllegal/templates/legal/documents/privacy.html:67
 msgid ""
@@ -213,6 +201,10 @@ msgid ""
 "circumstances when the Controller has a good faith belief it is required by "
 "law, such as under a subpoena or other judicial or administrative order."
 msgstr ""
+"Të Dhënat Personale mund t’u jepen palëve të treta në rrethana të kufizuara, "
+"kur Kontrollori beson pa të keq se kjo kërkohet nga ligji, bie fjala, në "
+"rastin e një thirrjes për të dëshmuar në një gjyq, apo tjetër urdhër juridik "
+"apo administrativ."
 
 #: wllegal/templates/legal/documents/privacy.html:69
 msgid ""
@@ -223,6 +215,13 @@ msgid ""
 "If the User does not challenge the disclosure request, the Controller may be "
 "legally required to turn over the Personal Data."
 msgstr ""
+"Në rastet kur Kontrollori është i detyruar nga ligji të japë të Dhënat "
+"Personale, do të bëhet një përpjekje për t’i dërguar Përdoruesit një njoftim "
+"paraprak me email (veç në mos iu lejoftë kjo Kontrollorit, ose kur do të "
+"ishte e padobishme) se është bërë një kërkesë për të Dhëna Personale, për t’"
+"i lejuar përdoruesit të kundërshtojë dhënien. Nëse Përdoruesi nuk del kundër "
+"kërkesës për dhënie, Kontrollori mund të jetë i detyruar nga ligji të japë "
+"të Dhëna Personale."
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "The Personal Data retention"
@@ -237,16 +236,12 @@ msgstr ""
 "llogarinë e vet te shërbimi."
 
 #: wllegal/templates/legal/documents/privacy.html:75
-#, fuzzy
-#| msgid ""
-#| "Access log information might be collected for a longer period for the "
-#| "purpose of establishing, exercising or defending legal claims."
 msgid ""
 "Access log info might be collected for a longer period for the purpose of "
 "establishing, exercising or defending legal claims."
 msgstr ""
 "Të dhëna regjistrimi hyrjesh mund të grumbullohen për një periudhë më të "
-"gjatë, me qëllim lejimin, ushtrimin apo mbrojtjen e pretendimeve ligjore."
+"gjatë, me qëllim lejimin, ushtrimin apo mbrojtjen nga pretendimeve ligjore."
 
 #: wllegal/templates/legal/documents/privacy.html:77
 msgid "Your rights"
@@ -316,28 +311,19 @@ msgstr ""
 "nga administrimi i llogarisë dhe janë plotësisht të automatizuara."
 
 #: wllegal/templates/legal/documents/summary.html:4
-#, fuzzy
-#| msgid ""
-#| "We process private data (such as your e-mail address), those will be "
-#| "discarded from our database as soon as you remove your account."
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"Përpunojmë të dhëna tuajat private (të tilla si adresat tuaja email), këto "
-"do të hiqen prej bazës tonë të të dhënave sapo të hiqni llogarinë tuaj."
+"Përpunojmë të dhëna private (të tilla si adresat tuaja email); këto do të "
+"hiqen prej bazës tonë të të dhënave sapo të hiqni llogarinë tuaj."
 
 #: wllegal/templates/legal/documents/summary.html:5
-#, fuzzy
-#| msgid ""
-#| "Your translations are made under license which is specified by each "
-#| "translation."
 msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
 msgstr ""
-"Përkthimet tuaja bëhen sipas licencash që tregohen nga secili projekt "
-"përkthimi."
+"Përkthimet tuaja bëhen sipas licencës që përcaktohet nga secili përkthim."
 
 #: wllegal/templates/legal/documents/summary.html:7
 msgid ""
@@ -352,6 +338,9 @@ msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
 msgstr ""
+"Emri i zgjedhur është në dorën tuaj dhe adresa email e përdorur për "
+"depozitime mund të maskohet nga sistemi Weblate, për të mbrojtur privatësinë "
+"tuaj."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid "We use cookies to deliver our services."
@@ -359,7 +348,7 @@ msgstr "Që të ofrojmë shërbimet tona, përdorim &lt;em&gt;cookies&lt;/em&gt;
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid "We don’t use any third-party cookies."
-msgstr ""
+msgstr "Nuk përdorim ndonjë cookie palësh të treta."
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
@@ -653,6 +642,10 @@ msgid ""
 "hereby gives consent to collecting, storage, and processing of the Personal "
 "Data according to the <a href=\"%(privacy_url)s\">Privacy Policy</a>."
 msgstr ""
+"Brenda domethënies së <a href=\"%(url)s\">nenit 7</a> të GDPR-së, Përdoruesi "
+"jep këtu pranimin për mbledhje, depozitim dhe përpunim të të Dhënave "
+"Personale në përputhje me <a href=\"%(privacy_url)s\">Rregullat e "
+"Privatësisë</a>."
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid "Translations"
@@ -693,19 +686,14 @@ msgstr ""
 "përcaktuar Projekti."
 
 #: wllegal/templates/legal/documents/tos.html:113
-#, fuzzy
-#| msgid ""
-#| "The User agrees to use of own name and e-mail as authorship in the VCS "
-#| "commits. The User understands that this grant is non revocable due to "
-#| "nature of the VCS."
 msgid ""
 "The User agrees to use of name and e-mail as authorship in the VCS commits. "
 "The User understands that this grant is non-revocable due to the nature of "
 "the VCS."
 msgstr ""
-"Përdoruesi pajtohet të përdoren emri dhe email-i i tij si autorësi te "
-"depozitime VCS. Përdoruesi e kupton se ky akordim është i pashfuqizueshëm, "
-"për shkak të natyrës së VCS-s."
+"Përdoruesi pajtohet të përdoren emri dhe email-i si autorësi te depozitime "
+"VCS. Përdoruesi e kupton se ky akordim është i pashfuqizueshëm, për shkak të "
+"natyrës së VCS-s."
 
 #: wllegal/templates/legal/documents/tos.html:118
 #, python-format
@@ -750,14 +738,9 @@ msgid "Effect"
 msgstr "Efekt"
 
 #: wllegal/templates/legal/documents/tos.html:132
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 1st September "
-#| "2017."
 msgid ""
 "These Terms of Service shall come into force and effect on 15th May 2023."
-msgstr ""
-"Këto Kushte Shërbimi do të hyjnë në fuqi dhe kenë efekt më 1 shtator, 2017."
+msgstr "Këto Kushte Shërbimi do të hyjnë në fuqi dhe kenë efekt më 15 maj 2023."
 
 #~ msgid ""
 #~ "In case you purchase service from us, we collect additional billing "
