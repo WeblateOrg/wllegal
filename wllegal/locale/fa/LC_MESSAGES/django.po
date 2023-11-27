@@ -4,11 +4,11 @@
 # Michal Čihař <michal@cihar.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2022-07-08 17:16+0000\n"
-"Last-Translator: CodeWriter21 <codewriter21@gmail.com>\n"
+"PO-Revision-Date: 2023-11-27 21:22+0000\n"
+"Last-Translator: Danial Behzadi <dani.behzi@ubuntu.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/weblate/legal/fa/"
 ">\n"
 "Language: fa\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13.1-dev\n"
+"X-Generator: Weblate 5.3-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -24,7 +24,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/contracts.html:10
 msgid "Status as of March 2023."
-msgstr ""
+msgstr "وضعیت از مارس ۲۰۲۳."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -36,7 +36,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:9
 msgid "Personal Data Controller"
-msgstr ""
+msgstr "واپایشگر داده‌های شخصی"
 
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
@@ -60,7 +60,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid "Name and e-mail address"
-msgstr "نام و آدرس پست الکترونیکی"
+msgstr "نام و نشانی رایانامه"
 
 #: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits."
@@ -72,7 +72,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
-msgstr "رمز عبور به صورت هش شده"
+msgstr "گذرواژه به شکل در هم ریخته"
 
 #: wllegal/templates/legal/documents/privacy.html:30
 msgid "Used to authenticate the User, if configured"
@@ -93,10 +93,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:36
-#, fuzzy
-#| msgid "Billing information"
 msgid "Billing info"
-msgstr "اطلاعات پرداخت"
+msgstr "اطّلاعات پرداخت"
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
