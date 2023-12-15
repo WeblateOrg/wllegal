@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-10-18 19:52+0000\n"
-"Last-Translator: Luiz Fernando Ranghetti <elchevive@opensuse.org>\n"
+"PO-Revision-Date: 2023-12-15 20:37+0000\n"
+"Last-Translator: Claudio Filho F Filho <filhocf@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "weblate/legal/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.1\n"
+"X-Generator: Weblate 5.3\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -110,6 +110,8 @@ msgid ""
 "Necessary details to issue an invoice is collected when purchasing a service "
 "from us."
 msgstr ""
+"Os dados necessários para emitir uma fatura são coletados no momento da "
+"compra de um serviço nosso."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
@@ -178,17 +180,15 @@ msgstr "Pessoas que são contratadas para garantia técnica do serviço."
 
 #: wllegal/templates/legal/documents/privacy.html:60
 msgid "Payment processors when purchasing a service from us."
-msgstr ""
+msgstr "Processadores de pagamento ao adquirir um serviço nosso."
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
 msgstr "Todos os Dados Pessoais são armazenados na União Europeia."
 
 #: wllegal/templates/legal/documents/privacy.html:65
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Disclosure of the Personal Data"
-msgstr "Acesso aos Dados Pessoais"
+msgstr "Divulgação dos Dados Pessoais"
 
 #: wllegal/templates/legal/documents/privacy.html:67
 msgid ""
@@ -196,6 +196,9 @@ msgid ""
 "circumstances when the Controller has a good faith belief it is required by "
 "law, such as under a subpoena or other judicial or administrative order."
 msgstr ""
+"Os Dados Pessoais poderão ser divulgados a terceiros em circunstâncias "
+"limitadas quando o Controlador acreditar, de boa fé, que isso é exigido por "
+"lei, como sob uma intimação ou outra ordem judicial ou administrativa."
 
 #: wllegal/templates/legal/documents/privacy.html:69
 msgid ""
@@ -206,6 +209,12 @@ msgid ""
 "If the User does not challenge the disclosure request, the Controller may be "
 "legally required to turn over the Personal Data."
 msgstr ""
+"Caso o Controlador seja obrigado por lei a divulgar os Dados Pessoais, será "
+"feita uma tentativa de fornecer ao Usuário um aviso prévio por e-mail (a "
+"menos que o Controlador seja proibido ou seja inútil) de que uma solicitação "
+"de Dados Pessoais foi feita para permitir que o usuário se oponha à "
+"divulgação. Se o Usuário não contestar a solicitação de divulgação, o "
+"Controlador poderá ser legalmente obrigado a entregar os Dados Pessoais."
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "The Personal Data retention"
@@ -321,6 +330,9 @@ msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
 msgstr ""
+"O nome escolhido fica a seu critério e o endereço de e-mail usado para "
+"commits pode ser mascarado pelo sistema Weblate para proteger sua "
+"privacidade."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid "We use cookies to deliver our services."
@@ -328,7 +340,7 @@ msgstr "Usamos cookies para entregar nossos serviços."
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid "We don’t use any third-party cookies."
-msgstr ""
+msgstr "Não usamos cookies de terceiros."
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
@@ -617,6 +629,10 @@ msgid ""
 "hereby gives consent to collecting, storage, and processing of the Personal "
 "Data according to the <a href=\"%(privacy_url)s\">Privacy Policy</a>."
 msgstr ""
+"Na acepção do <a href=\"%(url)s\">Artigo 7</a> da GDPR, o Usuário dá "
+"consentimento para a coleta, armazenamento e processamento dos Dados "
+"Pessoais de acordo com a <a href=\"%(privacy_url)s\">Política de "
+"Privacidade</a>."
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid "Translations"
