@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-12-22 08:10+0000\n"
+"PO-Revision-Date: 2023-12-23 11:55+0000\n"
 "Last-Translator: Blueberry <igory.ygr200@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/weblate/legal/ru/"
 ">\n"
@@ -93,7 +93,7 @@ msgstr "Пароль в хэшированном виде"
 
 #: wllegal/templates/legal/documents/privacy.html:30
 msgid "Used to authenticate the User, if configured"
-msgstr "Если настроено, используется для аутентификации Пользователя"
+msgstr "Если настроено, используется для авторизации пользователя"
 
 #: wllegal/templates/legal/documents/privacy.html:31
 msgid "Passwords are stored hashed using Argon2."
