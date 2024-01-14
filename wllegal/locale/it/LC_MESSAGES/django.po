@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-11-09 17:57+0000\n"
+"PO-Revision-Date: 2024-01-14 09:31+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/weblate/legal/it/"
 ">\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2-dev\n"
+"X-Generator: Weblate 5.4-dev\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
@@ -127,7 +127,7 @@ msgstr "Scopo e base giuridica del trattamento dei dati personali"
 
 #: wllegal/templates/legal/documents/privacy.html:43
 msgid "Your Personal Data will be used for the purposes of the Service:"
-msgstr "I tuoi dati personali saranno utilizzati per gli scopi del servizio:"
+msgstr "I tuoi dati personali saranno usati per gli scopi del servizio:"
 
 #: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
@@ -150,8 +150,8 @@ msgid ""
 "to analyze your use of our services and improve our services (<a href="
 "\"%(url)s\">Article 6 (1) b. and f. GDPR</a>)"
 msgstr ""
-"per analizzare il tuo utilizzo dei nostri servizi e migliorarli (<a href="
-"\"%(url)s\">Articolo 6 (1) b. e f. GDPR</a>)"
+"per analizzare il tuo uso dei nostri servizi e migliorarli (<a href=\"%(url)"
+"s\">Articolo 6 (1) b. e f. GDPR</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:49
 #, python-format
@@ -372,8 +372,8 @@ msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these Terms of Service."
 msgstr ""
-"I diritti e gli obblighi dell'Utente e del Fornitore derivanti dall'utilizzo "
-"del Servizio sono regolati dai presenti Termini del servizio."
+"I diritti e gli obblighi dell'Utente e del Fornitore derivanti dall'uso del "
+"Servizio sono regolati dai presenti Termini del servizio."
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid "Definitions"
@@ -457,8 +457,8 @@ msgid ""
 "means non-exclusive license granted by the Provider to the User for use of "
 "the Service"
 msgstr ""
-"indica una licenza non esclusiva concessa dal fornitore all'utente per "
-"l'utilizzo del servizio"
+"indica una licenza non esclusiva concessa dal fornitore all'utente per l'uso "
+"del servizio"
 
 #: wllegal/templates/legal/documents/tos.html:45
 msgid "Provider"
@@ -591,7 +591,7 @@ msgid ""
 "technical software and/or hardware means of the Provider and/or such means "
 "in the Provider’s use."
 msgstr ""
-"L'Utente accetta di utilizzare il Servizio solo in modo da non mettere a "
+"L'Utente accetta di usare il Servizio solo in modo da non mettere a "
 "repentaglio il software e/o l'hardware del Fornitore e/o tali mezzi nell'uso "
 "del Fornitore."
 
@@ -675,7 +675,7 @@ msgid ""
 "translation is granted to all Translation Memory users."
 msgstr ""
 "Nel caso in cui il progetto opti per la memoria di traduzione, la licenza di "
-"utilizzo della traduzione viene concessa a tutti gli utenti della memoria di "
+"uso della traduzione viene concessa a tutti gli utenti della memoria di "
 "traduzione."
 
 #: wllegal/templates/legal/documents/tos.html:111
