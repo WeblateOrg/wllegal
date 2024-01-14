@@ -13,8 +13,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2024-01-14 09:31+0000\n"
-"Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
+"PO-Revision-Date: 2024-01-15 10:06+0000\n"
+"Last-Translator: bovirus <roberto.boriotti@canon.it>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/weblate/legal/it/"
 ">\n"
 "Language: it\n"
@@ -127,7 +127,7 @@ msgstr "Scopo e base giuridica del trattamento dei dati personali"
 
 #: wllegal/templates/legal/documents/privacy.html:43
 msgid "Your Personal Data will be used for the purposes of the Service:"
-msgstr "I tuoi dati personali saranno usati per gli scopi del servizio:"
+msgstr "I dati personali saranno usati per gli scopi del servizio:"
 
 #: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
@@ -150,8 +150,8 @@ msgid ""
 "to analyze your use of our services and improve our services (<a href="
 "\"%(url)s\">Article 6 (1) b. and f. GDPR</a>)"
 msgstr ""
-"per analizzare il tuo uso dei nostri servizi e migliorarli (<a href=\"%(url)"
-"s\">Articolo 6 (1) b. e f. GDPR</a>)"
+"per analizzare l'uso dei nostri servizi e migliorarli (<a href=\"%(url)s\""
+">Articolo 6 (1) b. e f. GDPR</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:49
 #, python-format
@@ -160,7 +160,7 @@ msgid ""
 "activities or send you newsletters (<a href=\"%(url)s\">Article 6 (1) a. "
 "GDPR</a>)"
 msgstr ""
-"con il tuo esplicito consenso od istruzioni per svolgere le nostre attività "
+"con il tuo consenso esplicito od istruzioni per svolgere le nostre attività "
 "commerciali od inviando newsletter (<a href=\"%(url)s\">Articolo 6 (1) a. "
 "del GDPR</a>)"
 
