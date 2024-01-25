@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2024-01-17 20:31+0000\n"
+"PO-Revision-Date: 2024-01-25 13:31+0000\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/weblate/legal/ta/>"
 "\n"
@@ -358,7 +358,7 @@ msgid ""
 "The Terms of Service document is authoritative in English, translations are "
 "provided for your convenience."
 msgstr ""
-"சேவை ஆவணத்தின் விதிமுறைகள் ஆங்கிலத்தில் அதிகாரப்பூர்வமானது, உங்கள் வசதிக்காக "
+"பணி ஆவணத்தின் விதிமுறைகள் ஆங்கிலத்தில் அதிகாரப்பூர்வமானது, உங்கள் வசதிக்காக "
 "மொழிபெயர்ப்புகள் வழங்கப்படுகின்றன."
 
 #: wllegal/templates/legal/documents/tos.html:17
@@ -491,7 +491,7 @@ msgstr "சேவையில் இயக்கப்படும் மொழ�
 
 #: wllegal/templates/legal/documents/tos.html:57
 msgid "Service"
-msgstr "சேவை"
+msgstr "பணி"
 
 #: wllegal/templates/legal/documents/tos.html:58
 msgid ""
