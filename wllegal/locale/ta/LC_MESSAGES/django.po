@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2024-01-25 13:31+0000\n"
+"PO-Revision-Date: 2024-01-26 03:14+0000\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/weblate/legal/ta/>"
 "\n"
@@ -53,18 +53,18 @@ msgid ""
 "Weblate has appointed a data protection officer who may be reached via "
 "%(privacy_contact)s."
 msgstr ""
-"%(privacy_contact)s வழியாக அணுகக்கூடிய தரவு பாதுகாப்பு அதிகாரியை Weblate "
-"நியமித்துள்ளது."
+"%(privacy_contact)s வழியாக அணுகக்கூடிய தரவு பாதுகாப்பு அதிகாரியை வலைபெயர்ப்பு"
+" நியமித்துள்ளது."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 msgid "Personal Data processed by Weblate"
-msgstr "வெப்லேட் மூலம் செயலாக்கப்பட்ட தனிப்பட்ட தரவு"
+msgstr "வலைபெயர்ப்பு மூலம் செயலாக்கப்பட்ட தனிப்பட்ட தரவு"
 
 #: wllegal/templates/legal/documents/privacy.html:20
 msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr ""
-"வெப்லேட் பயனர் அதைப் பயன்படுத்துவதன் மூலம் வழங்கும் தனிப்பட்ட தரவை மட்டுமே "
-"செயலாக்குகிறது:"
+"வலைபெயர்ப்பு பயனர் அதைப் பயன்படுத்துவதன் மூலம் வழங்கும் தனிப்பட்ட தரவை "
+"மட்டுமே செயலாக்குகிறது:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid "Name and e-mail address"
@@ -72,7 +72,7 @@ msgstr "பெயர் மற்றும் மின்னஞ்சல் ம
 
 #: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits."
-msgstr "வி.சி.எச் கமிட்டுகளில் உங்களை அடையாளம் காண இவை பயன்படுத்தப்படுகின்றன."
+msgstr "பகஅ உறுதிமொழிகளில் உங்களை அடையாளம் காண இவை பயன்படுத்தப்படுகின்றன."
 
 #: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events."
@@ -81,7 +81,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
-msgstr "ஹாஷ் வடிவத்தில் கடவுச்சொல்"
+msgstr "கொத்து வடிவத்தில் கடவுச்சொல்"
 
 #: wllegal/templates/legal/documents/privacy.html:30
 msgid "Used to authenticate the User, if configured"
@@ -89,7 +89,8 @@ msgstr "கட்டமைக்கப்பட்டிருந்தால்
 
 #: wllegal/templates/legal/documents/privacy.html:31
 msgid "Passwords are stored hashed using Argon2."
-msgstr "கடவுச்சொற்கள் ஆர்கான் 2 ஐப் பயன்படுத்தி ஹாஷ் முறையில் சேமிக்கப்படுகின்றன."
+msgstr ""
+"கடவுச்சொற்கள் ஆர்கான்2 ஐப் பயன்படுத்தி கொத்து முறையில் சேமிக்கப்படுகின்றன."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid "IP address and browser name"
@@ -105,7 +106,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:36
 msgid "Billing info"
-msgstr "பில்லிங் தகவல்"
+msgstr "பட்டியலிடல் செய்தி"
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -216,7 +217,7 @@ msgstr ""
 "பயனருக்கு மின்னஞ்சல் மூலம் முன் அறிவிப்பை வழங்குவதற்கான முயற்சி "
 "மேற்கொள்ளப்படும் (கட்டுப்படுத்தி தடைசெய்யப்படாவிட்டால், அல்லது அது பயனற்றதாக "
 "இருக்கும்) தனிப்பட்ட தரவுகளுக்கான கோரிக்கை பயனரை வெளிப்படுத்துவதை ஆட்சேபிக்க "
-"அனுமதிக்க செய்யப்பட்டுள்ளது. வெளிப்படுத்தல் கோரிக்கையை பயனர் சவால் "
+"அனுமதிக்க செய்யப்பட்டுள்ளது. வெளிப்படுத்தல் கோரிக்கையை பயனர் அறைகூவல் "
 "செய்யாவிட்டால், தனிப்பட்ட தரவை மாற்ற கட்டுப்படுத்தி சட்டப்பூர்வமாக "
 "தேவைப்படலாம்."
 
@@ -238,7 +239,7 @@ msgid ""
 "establishing, exercising or defending legal claims."
 msgstr ""
 "சட்ட உரிமைகோரல்களை நிறுவுதல், உடற்பயிற்சி செய்தல் அல்லது பாதுகாக்கும் "
-"நோக்கத்திற்காக அணுகல் பதிவு தகவல் நீண்ட காலத்திற்கு சேகரிக்கப்படலாம்."
+"நோக்கத்திற்காக அணுகல் பதிவு செய்தி நீண்ட காலத்திற்கு சேகரிக்கப்படலாம்."
 
 #: wllegal/templates/legal/documents/privacy.html:77
 msgid "Your rights"
@@ -250,7 +251,7 @@ msgid ""
 "Data Weblate is not able to provide our services."
 msgstr ""
 "பயனர் தனிப்பட்ட தரவை தானாக முன்வந்து பயன்படுத்துகிறார். இந்த தனிப்பட்ட தரவு "
-"இல்லாமல் வெப்லேட் எங்கள் சேவைகளை வழங்க முடியாது."
+"இல்லாமல் வலைபெயர்ப்பு எங்கள் சேவைகளை வழங்க முடியாது."
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid ""
@@ -267,7 +268,7 @@ msgid ""
 "Gain access to all your Personal Data that Weblate uses or processes, and "
 "even get a copy of all of it (<a href=\"%(url)s\">Article 15 GDPR</a>)"
 msgstr ""
-"வெப்லேட் பயன்படுத்தும் அல்லது செயலாக்கும் உங்கள் தனிப்பட்ட தரவுகளுக்கும் "
+"வலைபெயர்ப்பு பயன்படுத்தும் அல்லது செயலாக்கும் உங்கள் தனிப்பட்ட தரவுகளுக்கும் "
 "அணுகலைப் பெறுங்கள், மேலும் எல்லாவற்றின் நகலையும் கூட பெறுங்கள் (<a href=\""
 "%(url)s\"> கட்டுரை 15 சிடிபிஆர் </a>)"
 
@@ -329,7 +330,7 @@ msgid ""
 "Your name and e-mail address is used in VCS commits, it will stay there "
 "indefinitely."
 msgstr ""
-"உங்கள் பெயர் மற்றும் மின்னஞ்சல் முகவரி வி.சி.எச் கமிட்டுகளில் "
+"உங்கள் பெயர் மற்றும் மின்னஞ்சல் முகவரி பகஅ உறுதிமொழிகளில் "
 "பயன்படுத்தப்படுகிறது, அது காலவரையின்றி இருக்கும்."
 
 #: wllegal/templates/legal/documents/summary.html:8
@@ -338,8 +339,8 @@ msgid ""
 "masked by Weblate system to protect your privacy."
 msgstr ""
 "தேர்ந்தெடுக்கப்பட்ட பெயர் உங்களுடையது, மேலும் உங்கள் தனியுரிமையைப் பாதுகாக்க "
-"வெப்லேட் சிச்டம் மூலம் கமிட்சுக்குப் பயன்படுத்தப்படும் மின்னஞ்சல் முகவரியை "
-"மறைக்க முடியும்."
+"வலைபெயர்ப்பு முறைமை மூலம் உறுதிமொழிக்குப் பயன்படுத்தப்படும் மின்னஞ்சல் "
+"முகவரியை மறைக்க முடியும்."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid "We use cookies to deliver our services."
@@ -367,7 +368,7 @@ msgid ""
 "use of the Service are governed by these Terms of Service."
 msgstr ""
 "சேவையின் பயன்பாட்டின் விளைவாக பயனரின் உரிமைகள் மற்றும் கடமைகள் மற்றும் "
-"வழங்குநர் இந்த சேவை விதிமுறைகளால் நிர்வகிக்கப்படுகிறார்கள்."
+"வழங்குநர் இந்த பணி விதிமுறைகளால் நிர்வகிக்கப்படுகிறார்கள்."
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid "Definitions"
@@ -375,7 +376,7 @@ msgstr "வரையறைகள்"
 
 #: wllegal/templates/legal/documents/tos.html:22
 msgid "In these Terms of Service:"
-msgstr "இந்த சேவை விதிமுறைகளில்:"
+msgstr "இந்த பணி விதிமுறைகளில்:"
 
 #: wllegal/templates/legal/documents/tos.html:26
 msgid "Agreement"
@@ -387,17 +388,18 @@ msgid ""
 "Civil Code concluded by and between the User and the Provider upon the "
 "Consent"
 msgstr ""
-"பிரிவு 2358 மற்றும் SEQ இன் பொருளுக்குள் உரிம ஒப்பந்தம் என்று பொருள். "
-"சம்மதத்தின் பேரில் பயனருக்கும் வழங்குநருக்கும் இடையில் முடித்த சிவில் கோட்"
+"பிரிவு 2358 மற்றும் வரிசையின் பொருளுக்குள் உரிம ஒப்பந்தம் என்று பொருள். "
+"சம்மதத்தின் பேரில் பயனருக்கும் வழங்குநருக்கும் இடையில் முடித்த குடிமை "
+"குறியீடு"
 
 #: wllegal/templates/legal/documents/tos.html:29
 msgid "Civil Code"
-msgstr "சிவில் குறியீடு"
+msgstr "குடிமை குறியீடு"
 
 #: wllegal/templates/legal/documents/tos.html:30
 #, python-format
 msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
-msgstr "சட்டம் எண் %(law_89_2012)s கோல்., சிவில் கோட், திருத்தப்பட்டபடி"
+msgstr "சட்டம் எண் %(law_89_2012)s கோல்., குடிமை குறியீடு, திருத்தப்பட்டபடி"
 
 #: wllegal/templates/legal/documents/tos.html:32
 msgid "Consent"
@@ -408,7 +410,7 @@ msgid ""
 "means the User’s consent with these Terms of Service and other legal "
 "documents expressed by checking the checkbox during the registration"
 msgstr ""
-"இந்த சேவை விதிமுறைகள் மற்றும் பதிவின் போது தேர்வுப்பெட்டியை சரிபார்ப்பதன் "
+"இந்த பணி விதிமுறைகள் மற்றும் பதிவின் போது தேர்வுப்பெட்டியை சரிபார்ப்பதன் "
 "மூலம் வெளிப்படுத்தப்பட்ட பிற சட்ட ஆவணங்களுடன் பயனரின் ஒப்புதல்"
 
 #: wllegal/templates/legal/documents/tos.html:35
@@ -462,7 +464,7 @@ msgstr "அதாவது %(provider)s, ரெக். எண் %(reg_no)s"
 #: wllegal/templates/legal/documents/tos.html:48
 #: wllegal/templates/legal/documents/tos.html:98
 msgid "Personal Data"
-msgstr "தனிப்பட்ட தகவல்"
+msgstr "தனிப்பட்ட செய்தி"
 
 #: wllegal/templates/legal/documents/tos.html:49
 #, python-format
@@ -471,7 +473,7 @@ msgid ""
 "inserted by the User into the Service and/or Cookies"
 msgstr ""
 "ஐரோப்பிய ஒன்றிய ஒழுங்குமுறை எண் %(law_679_2016)s இன் பொருளுக்குள் தனிப்பட்ட "
-"தரவு என்பது பயனரால் சேவை மற்றும்/அல்லது குக்கீகளில் செருகப்படுகிறது"
+"தரவு என்பது பயனரால் பணி மற்றும்/அல்லது குக்கீகளில் செருகப்படுகிறது"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Owner"
@@ -497,7 +499,7 @@ msgstr "பணி"
 msgid ""
 "means the website and services based on Weblate operated by the Provider"
 msgstr ""
-"வழங்குநரால் இயக்கப்படும் வெப்லேட் அடிப்படையில் வலைத்தளம் மற்றும் சேவைகள்"
+"வழங்குநரால் இயக்கப்படும் வலைபெயர்ப்பு அடிப்படையில் வலைத்தளம் மற்றும் சேவைகள்"
 
 #: wllegal/templates/legal/documents/tos.html:60
 msgid "Translation Memory"
@@ -506,7 +508,7 @@ msgstr "மொழிபெயர்ப்பு நினைவகம்"
 #: wllegal/templates/legal/documents/tos.html:61
 msgid "means the optional translation memory service provided within Weblate"
 msgstr ""
-"வெப்லேட்டுக்குள் வழங்கப்பட்ட விருப்ப மொழிபெயர்ப்பு நினைவக சேவை என்று பொருள்"
+"வலைபெயர்ப்புக்குள் வழங்கப்பட்ட விருப்ப மொழிபெயர்ப்பு நினைவக பணி என்று பொருள்"
 
 #: wllegal/templates/legal/documents/tos.html:63
 msgid "User"
@@ -523,7 +525,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:66
 msgctxt "Definition in terms of service"
 msgid "VCS"
-msgstr "வி.சி.எஸ்"
+msgstr "பகஅ"
 
 #: wllegal/templates/legal/documents/tos.html:67
 msgid ""
@@ -554,7 +556,7 @@ msgid ""
 "By concluding Agreement under Article 2.1 of this Agreement, the following "
 "provisions of this Article 3 of the Terms of Service come into force."
 msgstr ""
-"இந்த ஒப்பந்தத்தின் பிரிவு 2.1 இன் கீழ் ஒப்பந்தத்தை முடிப்பதன் மூலம், சேவை "
+"இந்த ஒப்பந்தத்தின் பிரிவு 2.1 இன் கீழ் ஒப்பந்தத்தை முடிப்பதன் மூலம், பணி "
 "விதிமுறைகளின் இந்த கட்டுரை 3 இன் பின்வரும் விதிகள் நடைமுறைக்கு வருகின்றன."
 
 #: wllegal/templates/legal/documents/tos.html:80
@@ -564,7 +566,7 @@ msgid ""
 "these Terms of Service."
 msgstr ""
 "வழங்குநர் பயனருக்கு உரிம ஒப்பந்தத்தை அளிக்கிறார், பயனர் இந்த உரிம ஒப்பந்தத்தை"
-" ஏற்றுக்கொள்கிறார், இவை அனைத்தும் இந்த சேவை விதிமுறைகளில் கூறப்பட்ட "
+" ஏற்றுக்கொள்கிறார், இவை அனைத்தும் இந்த பணி விதிமுறைகளில் கூறப்பட்ட "
 "விதிமுறைகள் மற்றும் நிபந்தனைகளின் கீழ்."
 
 #: wllegal/templates/legal/documents/tos.html:82
@@ -622,7 +624,7 @@ msgid ""
 "Provider to the User through a breach of any obligation contained in these "
 "Terms of Service and/or resulting from the use of the Service."
 msgstr ""
-"பயனர் ஒரு தொழில்முனைவோராக இருந்தால், இந்த சேவை விதிமுறைகள் மற்றும்/அல்லது "
+"பயனர் ஒரு தொழில்முனைவோராக இருந்தால், இந்த பணி விதிமுறைகள் மற்றும்/அல்லது "
 "சேவையின் பயன்பாட்டின் விளைவாக ஏற்படும் எந்தவொரு கடமையையும் மீறுவதன் மூலம் "
 "வழங்குநரால் வழங்குநரால் வழங்குநரால் ஏற்படும் சேதத்திற்கு வழங்குநரிடமிருந்து "
 "இழப்பீடு வழங்குவதற்கான உரிமையை அது வெளிப்படையாகத் தள்ளிவைக்கிறது ."
@@ -649,7 +651,7 @@ msgid ""
 "is responsible for managing them and for specifying accurately the license "
 "of the Project."
 msgstr ""
-"இந்த சேவை தனிப்பட்ட திட்டங்களுக்கு மொழிபெயர்ப்பை ஏற்பாடு செய்கிறது, அங்கு "
+"இந்த பணி தனிப்பட்ட திட்டங்களுக்கு மொழிபெயர்ப்பை ஏற்பாடு செய்கிறது, அங்கு "
 "அவற்றை நிர்வகிப்பதற்கும், திட்டத்தின் உரிமத்தை துல்லியமாகக் "
 "குறிப்பிடுவதற்கும் உரிமையாளர் பொறுப்பு."
 
@@ -683,9 +685,9 @@ msgid ""
 "The User understands that this grant is non-revocable due to the nature of "
 "the VCS."
 msgstr ""
-"வி.சி.க் உறுதிமொழிகளில் பெயர் மற்றும் மின்னஞ்சலை படைப்புரிமையாகப் பயன்படுத்த "
-"பயனர் ஒப்புக்கொள்கிறார். வி.சி.க்களின் தன்மை காரணமாக இந்த மானியம் மறுசீரமைக்"
-"க முடியாதது என்பதை பயனர் புரிந்துகொள்கிறார்."
+"பகஅ உறுதிமொழிகளில் பெயர் மற்றும் மின்னஞ்சலை படைப்புரிமையாகப் பயன்படுத்த பயனர்"
+" ஒப்புக்கொள்கிறார். பகஅகளின் தன்மை காரணமாக இந்த மானியம் மறுசீரமைக்க முடியாதது"
+" என்பதை பயனர் புரிந்துகொள்கிறார்."
 
 #: wllegal/templates/legal/documents/tos.html:118
 #, python-format
@@ -694,13 +696,13 @@ msgid ""
 "electronic communication, as amended, the User is informed that the Service "
 "uses Cookies."
 msgstr ""
-"கட்டுரை 89 சட்டம் எண் %(law_480_2004)s Coll., மின்னணு தகவல்தொடர்பு குறித்து, "
-"திருத்தப்பட்டபடி, சேவை குக்கீகளைப் பயன்படுத்துகிறது என்று பயனருக்கு "
+"கட்டுரை 89 சட்டம் எண் %(law_480_2004)s கல்., மின்னணு தகவல்தொடர்பு குறித்து, "
+"திருத்தப்பட்டபடி, பணி குக்கீகளைப் பயன்படுத்துகிறது என்று பயனருக்கு "
 "அறிவிக்கப்படுகிறது."
 
 #: wllegal/templates/legal/documents/tos.html:120
 msgid "The Service uses Cookies to personalise content."
-msgstr "உள்ளடக்கத்தைத் தனிப்பயனாக்க சேவை குக்கீகளைப் பயன்படுத்துகிறது."
+msgstr "உள்ளடக்கத்தைத் தனிப்பயனாக்க பணி குக்கீகளைப் பயன்படுத்துகிறது."
 
 #: wllegal/templates/legal/documents/tos.html:123
 msgid "Governing Law"
@@ -711,7 +713,7 @@ msgid ""
 "These Terms of Service shall be governed by the laws of the Czech Republic "
 "with exclusion of conflict rules."
 msgstr ""
-"இந்த சேவை விதிமுறைகள் மோதல் விதிகளை விலக்குவதன் மூலம் செக் குடியரசின் "
+"இந்த பணி விதிமுறைகள் மோதல் விதிகளை விலக்குவதன் மூலம் செக் குடியரசின் "
 "சட்டங்களால் நிர்வகிக்கப்படும்."
 
 #: wllegal/templates/legal/documents/tos.html:127
@@ -720,8 +722,8 @@ msgid ""
 "Service shall be resolved by the court of the Czech republic having "
 "substantive and local jurisdiction."
 msgstr ""
-"ஒப்பந்தம் மற்றும்/அல்லது இந்த சேவை விதிமுறைகளின் அடிப்படையில் எழும் எந்தவொரு "
-"மோதல்களும் செக் குடியரசின் நீதிமன்றத்தால் கணிசமான மற்றும் உள்ளூர் அதிகார "
+"ஒப்பந்தம் மற்றும்/அல்லது இந்த பணி விதிமுறைகளின் அடிப்படையில் எழும் எந்தவொரு "
+"மோதல்களும் செக் குடியரசின் நீதிமன்றத்தால் கணிசமான மற்றும் உள்ளக அதிகார "
 "வரம்பைக் கொண்டுள்ளன."
 
 #: wllegal/templates/legal/documents/tos.html:130
@@ -732,5 +734,5 @@ msgstr "விளைவு"
 msgid ""
 "These Terms of Service shall come into force and effect on 15th May 2023."
 msgstr ""
-"இந்த சேவை விதிமுறைகள் நடைமுறைக்கு வரும் மற்றும் 15 மே 2023 அன்று நடைமுறைக்கு "
+"இந்த பணி விதிமுறைகள் நடைமுறைக்கு வரும் மற்றும் 15 மே 2023 அன்று நடைமுறைக்கு "
 "வரும்."
