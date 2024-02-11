@@ -1,2 +1,2 @@
 translate-toolkit
-twine==4.0.2
+twine==5.0.0
