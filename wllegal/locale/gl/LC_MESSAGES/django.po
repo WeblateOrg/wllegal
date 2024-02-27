@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-06-30 17:49+0000\n"
-"Last-Translator: Xosé Calvo <xosecalvo@gmail.com>\n"
+"PO-Revision-Date: 2024-02-27 13:05+0000\n"
+"Last-Translator: \"Miguel A. Bouzada\" <mbouzada@gmail.com>\n"
 "Language-Team: Galician <https://hosted.weblate.org/projects/weblate/legal/"
 "gl/>\n"
 "Language: gl\n"
@@ -18,15 +18,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.0-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr "Subcontratistas de acordo co art. 28 GDPR"
+msgstr "Subcontratistas de acordo co art. 28 do RXPD"
 
 #: wllegal/templates/legal/documents/contracts.html:10
 msgid "Status as of March 2023."
-msgstr "Estado a outubro de 2023."
+msgstr "Estado a marzo de 2023."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -35,18 +35,18 @@ msgid ""
 "Protection Regulation, also known as GDPR. This document includes necessary "
 "specifications."
 msgstr ""
-"Cumprimos ca lei número %(law_679_2016)s, a normativa xeral da protección de "
-"datos, tamén coñecida coma a RGPD. Este documento inclúe as especificacións "
-"precisadas."
+"Cumprimos coa lei %(law_679_2016)s, o Regulamento Xeral de Protección de "
+"Datos, tamén coñecida coma a RXPD. Este documento inclúe as especificacións "
+"precisas."
 
 #: wllegal/templates/legal/documents/privacy.html:9
 msgid "Personal Data Controller"
-msgstr "Control dos datos persoais"
+msgstr "Controlador de datos persoais"
 
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
 msgid "%(provider)s, Reg. No. %(reg_no)s"
-msgstr "%(provider)s, número do rexistro %(reg_no)s"
+msgstr "%(provider)s, núm. do rexistro %(reg_no)s"
 
 #: wllegal/templates/legal/documents/privacy.html:15
 #, python-format
@@ -64,30 +64,24 @@ msgstr "Datos persoais procesados polo Weblate"
 #: wllegal/templates/legal/documents/privacy.html:20
 msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr ""
-"O Weblate procesa de xeito único os datos persoais que o usuario fornece ó "
-"empregalo:"
+"Weblate só procesa os datos persoais que o usuario fornece ao empregalo:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid "Name and e-mail address"
-msgstr "Nome e enderezo do correo electrónico"
+msgstr "Nome e enderezo de correo-e"
 
 #: wllegal/templates/legal/documents/privacy.html:26
-#, fuzzy
-#| msgid "These are used to identify you in the VCS commits"
 msgid "These are used to identify you in the VCS commits."
-msgstr "Estes empréganse para identificarlle nas confirmacións VCS"
+msgstr "Empréganse para identificalo (a Vde.) nas entregas do SCV."
 
 #: wllegal/templates/legal/documents/privacy.html:27
-#, fuzzy
-#| msgid "Additionally, e-mail is used for notification of watched events"
 msgid "Additionally, e-mail is used for notification of watched events."
 msgstr ""
-"Ademais, o correo electrónico emprégase para a notificación dos "
-"acontecementos observados"
+"Ademais, emprégase o correo-e para a notificar os eventos monitorizados."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
-msgstr "Contrasinal en forma de 'hash'"
+msgstr "Contrasinal en forma de resumo criptográfico"
 
 #: wllegal/templates/legal/documents/privacy.html:30
 msgid "Used to authenticate the User, if configured"
@@ -95,30 +89,25 @@ msgstr "Emprégase para autenticar ó usuario se está configurado"
 
 #: wllegal/templates/legal/documents/privacy.html:31
 msgid "Passwords are stored hashed using Argon2."
-msgstr "Os contrasinais almacénanse con hash usando Argon2."
+msgstr ""
+"Os contrasinais almacénanse como resumo criptográfico empregando Argon2."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid "IP address and browser name"
 msgstr "Enderezo IP e nome do navigador"
 
 #: wllegal/templates/legal/documents/privacy.html:34
-#, fuzzy
-#| msgid ""
-#| "These are logged in case of important changes to your account (e.g. "
-#| "password change) to allow diagnosis in case your account is stolen"
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen."
 msgstr ""
-"Estes rexístranse no caso de mudanzas importantes na súa conta (por exemplo, "
-"mudado do contrasinal) para permiti-lo diagnóstico no caso de que a súa "
-"conta sexa roubada"
+"Rexístranse no caso de cambios importantes na súa conta (p. ex., cambio do "
+"contrasinal) para permitir o diagnóstico no caso de que a súa conta sexa "
+"roubada"
 
 #: wllegal/templates/legal/documents/privacy.html:36
-#, fuzzy
-#| msgid "Billing information"
 msgid "Billing info"
-msgstr "Informacións de pagamentos"
+msgstr "Información de facturación"
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -199,10 +188,8 @@ msgid "All Personal Data is stored in the European Union."
 msgstr "Tódolos datos persoais son almacenados na Unión Europea."
 
 #: wllegal/templates/legal/documents/privacy.html:65
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Disclosure of the Personal Data"
-msgstr "Acceso ós datos persoais"
+msgstr "Divulgación dos datos persoais"
 
 #: wllegal/templates/legal/documents/privacy.html:67
 msgid ""
@@ -234,17 +221,13 @@ msgstr ""
 "conta no servizo."
 
 #: wllegal/templates/legal/documents/privacy.html:75
-#, fuzzy
-#| msgid ""
-#| "Access log information might be collected for a longer period for the "
-#| "purpose of establishing, exercising or defending legal claims."
 msgid ""
 "Access log info might be collected for a longer period for the purpose of "
 "establishing, exercising or defending legal claims."
 msgstr ""
-"A información dos accesos á cuenta serán almacenados por máis tempo co "
-"obxectivo do estabelecemento, exercitamento ou defensa das demandas "
-"xudiciais."
+"A información do rexistro de acceso pode ser recollida durante un período "
+"máis longo co propósito de estabelecer, exercer ou defender reclamacións "
+"legais."
 
 #: wllegal/templates/legal/documents/privacy.html:77
 msgid "Your rights"
