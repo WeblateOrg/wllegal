@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2024-02-27 13:05+0000\n"
+"PO-Revision-Date: 2024-02-29 22:40+0000\n"
 "Last-Translator: \"Miguel A. Bouzada\" <mbouzada@gmail.com>\n"
 "Language-Team: Galician <https://hosted.weblate.org/projects/weblate/legal/"
 "gl/>\n"
@@ -297,26 +297,19 @@ msgstr ""
 "facer desde a xestión da conta e estopase enteira automatizada."
 
 #: wllegal/templates/legal/documents/summary.html:4
-#, fuzzy
-#| msgid ""
-#| "We process private data (such as your e-mail address), those will be "
-#| "discarded from our database as soon as you remove your account."
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"Procesamos datos privados (coma o enderezo do correo electrónico), estes "
-"desbotaranse da nosa base de datos ó elimina-la súa cuenta."
+"Procesamos datos privados (coma o enderezo de correo-e), desbotaranse da "
+"nosa base de datos se elimina a súa conta."
 
 #: wllegal/templates/legal/documents/summary.html:5
-#, fuzzy
-#| msgid ""
-#| "Your translations are made under license which is specified by each "
-#| "translation."
 msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
-msgstr "As súas traducións fanse baixo licenza especifica de cada tradución."
+msgstr ""
+"As súas traducións fanse baixo a licenza que se especifica de cada tradución."
 
 #: wllegal/templates/legal/documents/summary.html:7
 msgid ""
@@ -669,19 +662,14 @@ msgstr ""
 "especificou."
 
 #: wllegal/templates/legal/documents/tos.html:113
-#, fuzzy
-#| msgid ""
-#| "The User agrees to use of own name and e-mail as authorship in the VCS "
-#| "commits. The User understands that this grant is non revocable due to "
-#| "nature of the VCS."
 msgid ""
 "The User agrees to use of name and e-mail as authorship in the VCS commits. "
 "The User understands that this grant is non-revocable due to the nature of "
 "the VCS."
 msgstr ""
-"O Usuario acepta o emprego do seu nome e email coma autoría nas "
-"consolidacións no Sistema de Control das Versións (SCV). O usuario entende "
-"que esta aceptación non é revogábel pola natureza do SCV."
+"O Usuario acepta o emprego do seu nome e correo-e coma autoría nas remisións "
+"ao SCV. O usuario entende que esta aceptación non é revogábel por mor da "
+"natureza do SCV."
 
 #: wllegal/templates/legal/documents/tos.html:118
 #, python-format
@@ -725,13 +713,9 @@ msgid "Effect"
 msgstr "Efecto"
 
 #: wllegal/templates/legal/documents/tos.html:132
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 1st September "
-#| "2017."
 msgid ""
 "These Terms of Service shall come into force and effect on 15th May 2023."
-msgstr "Estes Termos do Servizo entrarán en vixenza o 1 de setembro do 2017."
+msgstr "Estas Condicións de servizo entrarán en vixencia o 15 de maio de 2023."
 
 #~ msgid ""
 #~ "In case you purchase service from us, we collect additional billing "
