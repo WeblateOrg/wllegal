@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-05-31 21:51+0000\n"
-"Last-Translator: Michael Millet <mikevlet@protonmail.com>\n"
+"PO-Revision-Date: 2024-03-02 12:58+0000\n"
+"Last-Translator: scootergrisen <scootergrisen@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/weblate/legal/da/>"
 "\n"
 "Language: da\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -75,16 +75,12 @@ msgid "Name and e-mail address"
 msgstr "Navn og e-mailadresse"
 
 #: wllegal/templates/legal/documents/privacy.html:26
-#, fuzzy
-#| msgid "These are used to identify you in the VCS commits"
 msgid "These are used to identify you in the VCS commits."
-msgstr "De bruges til at identificere dig i VCS-indsendelserne"
+msgstr "De bruges til at identificere dig i VCS-indsendelserne."
 
 #: wllegal/templates/legal/documents/privacy.html:27
-#, fuzzy
-#| msgid "Additionally, e-mail is used for notification of watched events"
 msgid "Additionally, e-mail is used for notification of watched events."
-msgstr "E-mail bruges desuden til underretning af overvågede hændelser"
+msgstr "E-mail bruges desuden til underretning af overvågede hændelser."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
@@ -103,16 +99,12 @@ msgid "IP address and browser name"
 msgstr "IP-adresse og browsernavn"
 
 #: wllegal/templates/legal/documents/privacy.html:34
-#, fuzzy
-#| msgid ""
-#| "These are logged in case of important changes to your account (e.g. "
-#| "password change) to allow diagnosis in case your account is stolen"
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen."
 msgstr ""
 "De logges i tilfælde af vigtige ændringer på din konto (f.eks. ændring af "
-"adgangskode) så der kan diagnosticeres hvis din konto bliver stjålet"
+"adgangskode) så der kan diagnosticeres hvis din konto bliver stjålet."
 
 #: wllegal/templates/legal/documents/privacy.html:36
 #, fuzzy
