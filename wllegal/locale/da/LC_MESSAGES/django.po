@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2024-03-02 12:58+0000\n"
-"Last-Translator: scootergrisen <scootergrisen@gmail.com>\n"
+"PO-Revision-Date: 2024-03-12 18:01+0000\n"
+"Last-Translator: cat <158170307+cultcats@users.noreply.github.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/weblate/legal/da/>"
 "\n"
 "Language: da\n"
@@ -27,10 +27,8 @@ msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "Underleverandører i henhold til artikel 28 GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:10
-#, fuzzy
-#| msgid "Status as of October 2020."
 msgid "Status as of March 2023."
-msgstr "Status per oktober 2020."
+msgstr "Status per marts 2023."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -107,10 +105,8 @@ msgstr ""
 "adgangskode) så der kan diagnosticeres hvis din konto bliver stjålet."
 
 #: wllegal/templates/legal/documents/privacy.html:36
-#, fuzzy
-#| msgid "Billing information"
 msgid "Billing info"
-msgstr "Faktureringsinformation"
+msgstr "Faktureringsinfo"
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -230,10 +226,6 @@ msgstr ""
 "tjenesten."
 
 #: wllegal/templates/legal/documents/privacy.html:75
-#, fuzzy
-#| msgid ""
-#| "Access log information might be collected for a longer period for the "
-#| "purpose of establishing, exercising or defending legal claims."
 msgid ""
 "Access log info might be collected for a longer period for the purpose of "
 "establishing, exercising or defending legal claims."
@@ -307,16 +299,12 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:4
-#, fuzzy
-#| msgid ""
-#| "We process private data (such as your e-mail address), those will be "
-#| "discarded from our database as soon as you remove your account."
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"Vi behandler private data (såsom din e-mailadresse). Disse vil blive slettet "
-"fra databasen, så snart kontoen fjernes."
+"Vi behandler personlige data (såsom din e-mailadresse); disse vil blive "
+"slettet fra databasen, hvis du fjerner din konto."
 
 #: wllegal/templates/legal/documents/summary.html:5
 #, fuzzy
