@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2024-03-12 18:01+0000\n"
+"PO-Revision-Date: 2024-03-13 20:01+0000\n"
 "Last-Translator: cat <158170307+cultcats@users.noreply.github.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/weblate/legal/da/>"
 "\n"
@@ -297,6 +297,8 @@ msgid ""
 "The removal, correction, and retrieval of your Personal Data can be done "
 "from the account management, and is fully automated."
 msgstr ""
+"Fjernelse, rettelse og hentning af dine personlige data kan ske fra konto-"
+"administrationen og er fuldt automatiseret."
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
@@ -508,6 +510,8 @@ msgid ""
 "means any legal entity or an individual other than the Provider, who is "
 "using the Service"
 msgstr ""
+"betyder enhver juridisk enhed eller individ, bortset fra Leverandøren, som "
+"bruger Tjenesten"
 
 #: wllegal/templates/legal/documents/tos.html:66
 msgctxt "Definition in terms of service"
@@ -519,26 +523,30 @@ msgid ""
 "means distributed version control system used by the Project such as Git or "
 "Mercurial"
 msgstr ""
+"betyder den distribuerede version af kontrolsystemet, der bruges af "
+"projektet, såsom Git eller Mercurial"
 
 #: wllegal/templates/legal/documents/tos.html:71
 msgid "License Agreement Conclusion"
-msgstr ""
+msgstr "Licensaftale Konklusion"
 
 #: wllegal/templates/legal/documents/tos.html:73
 msgid ""
 "The License Agreement is concluded upon the User’s Acceptance of the "
 "Provider’s Offer."
-msgstr ""
+msgstr "Licensaftalen indgås ved Brugerens Accept af Leverandørens Tilbud."
 
 #: wllegal/templates/legal/documents/tos.html:76
 msgid "License Agreement"
-msgstr ""
+msgstr "Licensaftale"
 
 #: wllegal/templates/legal/documents/tos.html:78
 msgid ""
 "By concluding Agreement under Article 2.1 of this Agreement, the following "
 "provisions of this Article 3 of the Terms of Service come into force."
 msgstr ""
+"Ved indgåelse af Aftale i henhold til Artikel 2.1 i denne Aftale, træder "
+"følgende bestemmelser i denne Artikel 3 i Servicevilkårene i kraft."
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid ""
@@ -546,12 +554,17 @@ msgid ""
 "this License Agreement, all this under the terms and conditions stated in "
 "these Terms of Service."
 msgstr ""
+"Leverandøren giver Brugeren en Licensaftale, og Brugeren accepterer denne "
+"Licensaftale, alt dette under de vilkår og betingelser, der er angivet i "
+"disse Servicevilkår."
 
 #: wllegal/templates/legal/documents/tos.html:82
 msgid ""
 "The Provider shall have the right to shut down, adjust, modify or make the "
 "Service unavailable on the web address at any time."
 msgstr ""
+"Leverandøren har ret til at lukke ned, tilpasse, ændre eller gøre Tjenesten "
+"utilgængelig på webadressen til enhver tid."
 
 #: wllegal/templates/legal/documents/tos.html:84
 msgid ""
@@ -559,28 +572,37 @@ msgid ""
 "technical software and/or hardware means of the Provider and/or such means "
 "in the Provider’s use."
 msgstr ""
+"Bruger accepterer at bruge Tjenesten kun på en måde, der ikke udgør en "
+"trussel mod Leverandørens software og/eller hardware og/eller sådant "
+"hardware i Leverandørens brug."
 
 #: wllegal/templates/legal/documents/tos.html:86
 msgid ""
 "The User agrees to refrain from use of the Service in bad faith and/or "
 "deliberately causing any damage to the Service."
 msgstr ""
+"Brugeren accepterer at afstå fra at bruge Tjenesten i ond tro og/eller "
+"bevidst at forårsage skade på Tjenesten."
 
 #: wllegal/templates/legal/documents/tos.html:88
 msgid ""
 "The User agrees to refrain from bypassing the Service’s software and/or "
 "technical hardware means, in particular the security systems."
 msgstr ""
+"Brugeren accepterer at afstå fra at omgå Tjenestens software og/eller "
+"tekniske hardware, specielt sikkerhedssystemerne."
 
 #: wllegal/templates/legal/documents/tos.html:91
 msgid "Liability for Damage"
-msgstr ""
+msgstr "Ansvar for Skader"
 
 #: wllegal/templates/legal/documents/tos.html:93
 msgid ""
 "The User hereby renders it undisputed that the Provider shall not be liable "
 "for any damage caused to the User resulting from the use of the Service."
 msgstr ""
+"Brugeren gør det hermed klart, at Leverandøren ikke er ansvarlig for nogen "
+"skade forårsaget af Brugeren som følge af brugen af Tjenesten."
 
 #: wllegal/templates/legal/documents/tos.html:95
 msgid ""
@@ -589,6 +611,11 @@ msgid ""
 "Provider to the User through a breach of any obligation contained in these "
 "Terms of Service and/or resulting from the use of the Service."
 msgstr ""
+"Hvis Brugeren er en entreprenør, giver Brugeren hermed udtrykkeligt afkald "
+"på sin ret til erstatning fra Leverandøren for skader, som Leverandøren "
+"utilsigtet har forvoldt Brugeren som følge af en overtrædelse af en "
+"forpligtelse indeholdt i disse Servicevilkår og/eller som følge af brugen af "
+"Tjenesten."
 
 #: wllegal/templates/legal/documents/tos.html:101
 #, python-format
@@ -608,24 +635,33 @@ msgid ""
 "is responsible for managing them and for specifying accurately the license "
 "of the Project."
 msgstr ""
+"Tjenesten organiserer oversættelse af individuelle Projekter, hvor Ejeren er "
+"ansvarlig for deres administration og for nøjagtig specifikation af "
+"Projektets licens."
 
 #: wllegal/templates/legal/documents/tos.html:107
 msgid ""
 "Not specifying translation license means that the translations are available "
 "under same license as the given Project itself."
 msgstr ""
+"Ingen angivelse af oversættelseslicens betyder, at oversættelserne er "
+"tilgængelige under samme licens som det givne Projekt selv."
 
 #: wllegal/templates/legal/documents/tos.html:109
 msgid ""
 "Should the Project opt in for the Translation Memory, license to use the "
 "translation is granted to all Translation Memory users."
 msgstr ""
+"Skulle Projektet tilvælge Oversættelseshukommelsen, gives licens til brug af "
+"oversættelsen til alle Oversættelseshukommelsens brugere."
 
 #: wllegal/templates/legal/documents/tos.html:111
 msgid ""
 "The User agrees, upon contributing to a Project, to the license the Project "
 "has specified."
 msgstr ""
+"Brugeren accepterer, ved bidrag til et Projekt, den licens, Projektet har "
+"angivet."
 
 #: wllegal/templates/legal/documents/tos.html:113
 msgid ""
@@ -641,20 +677,25 @@ msgid ""
 "electronic communication, as amended, the User is informed that the Service "
 "uses Cookies."
 msgstr ""
+"I henhold til Artikel 89 Act No. %(law_480_2004)s Coll. om elektronisk "
+"kommunikation, som ændret, er Brugeren informeret om, at Tjenesten bruger "
+"Cookies."
 
 #: wllegal/templates/legal/documents/tos.html:120
 msgid "The Service uses Cookies to personalise content."
-msgstr ""
+msgstr "Tjenesten bruger Cookies til at personalisere indholdet."
 
 #: wllegal/templates/legal/documents/tos.html:123
 msgid "Governing Law"
-msgstr ""
+msgstr "Gældende Lov"
 
 #: wllegal/templates/legal/documents/tos.html:125
 msgid ""
 "These Terms of Service shall be governed by the laws of the Czech Republic "
 "with exclusion of conflict rules."
 msgstr ""
+"Disse Servicevilkår er underlagt lovgivningen i Den Tjekkiske Republik med "
+"undtagelse af lovkonflikter."
 
 #: wllegal/templates/legal/documents/tos.html:127
 msgid ""
@@ -662,10 +703,13 @@ msgid ""
 "Service shall be resolved by the court of the Czech republic having "
 "substantive and local jurisdiction."
 msgstr ""
+"Alle tvister, der opstår på grundlag af Aftalen og/eller disse "
+"Servicevilkår, skal løses af retten i Den Tjekkiske Republik som har "
+"materiel og lokal jurisdiktion."
 
 #: wllegal/templates/legal/documents/tos.html:130
 msgid "Effect"
-msgstr ""
+msgstr "Ikrafftræden"
 
 #: wllegal/templates/legal/documents/tos.html:132
 msgid ""
