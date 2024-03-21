@@ -1,13 +1,13 @@
 {
-  "580c807df3faaff0": "Manutenção do Servidor do Weblate",
-  "855aad6254dbc154": "Este site está atualmente em manutenção.",
-  "f0a04eec920f8be1": "Manutenção em progresso",
+  "580c807df3faaff0": "Manutenção do Servidor Weblate",
+  "855aad6254dbc154": "Este site está atualmente offline para manutenção.",
+  "f0a04eec920f8be1": "Manutenção em andamento",
   "255e70ad23ee477b": "Termos e privacidade",
   "dd688904278968c2": "Licenciado sob a GNU GPLv3+",
   "f1755fb51ebbc26a": "Status do Serviço",
   "f3e2fd9f17199fd9": "Você fez muitos pedidos muito rapidamente. Por favor, tente novamente mais tarde.",
-  "cefd423328bbabae": "Limite da taxa",
-  "404c9a7eb09bf5cf": "Limite da Taxa do Weblate",
+  "cefd423328bbabae": "Limite de taxa",
+  "404c9a7eb09bf5cf": "Limite de Taxa no Weblate",
   "700639553f6a669b": "Termos e Privacidade",
   "20deef135140c70": "Licenciado sob a GNU GPLv3+"
 }
