@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2024-01-11 04:09+0000\n"
-"Last-Translator: Džiugas J <dziugas1959@hotmail.com>\n"
+"PO-Revision-Date: 2024-04-18 04:31+0000\n"
+"Last-Translator: Vaclovas Intas <vaclovas1999@gmail.com>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/weblate/legal/"
 "lt/>\n"
 "Language: lt\n"
@@ -18,15 +18,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n==1 ? 0 : n%10>=2 && (n%100<10 || "
 "n%100>=20) ? 1 : n%10==0 || (n%100>10 && n%100<20) ? 2 : 3;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr ""
+msgstr "Subrangovai pagal CK 6.1 str. 28 BDAR"
 
 #: wllegal/templates/legal/documents/contracts.html:10
 msgid "Status as of March 2023."
-msgstr ""
+msgstr "Statusas 2023 m. kovo mėn."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -35,17 +35,18 @@ msgid ""
 "Protection Regulation, also known as GDPR. This document includes necessary "
 "specifications."
 msgstr ""
+"Mes laikomės Reglamento nr. %(law_679_2016)s, Bendrojo duomenų apsaugos "
+"reglamento, dar vadinamo BDAR. Šiame dokumente pateikiamos būtinos "
+"specifikacijos."
 
 #: wllegal/templates/legal/documents/privacy.html:9
-#, fuzzy
-#| msgid "Versions"
 msgid "Personal Data Controller"
-msgstr "Versijos"
+msgstr "Asmens duomenų valdytojas"
 
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
 msgid "%(provider)s, Reg. No. %(reg_no)s"
-msgstr ""
+msgstr "%(provider)s, Reg. nr. %(reg_no)s"
 
 #: wllegal/templates/legal/documents/privacy.html:15
 #, python-format
@@ -53,72 +54,73 @@ msgid ""
 "Weblate has appointed a data protection officer who may be reached via "
 "%(privacy_contact)s."
 msgstr ""
+"„Weblate“ paskyrė duomenų apsaugos pareigūną, su kuriuo galima susisiekti "
+"per %(privacy_contact)s."
 
 #: wllegal/templates/legal/documents/privacy.html:17
-#, fuzzy
-#| msgid "Translation status"
 msgid "Personal Data processed by Weblate"
-msgstr "Vertimų būsena"
+msgstr "„Weblate“ apdorojami asmens duomenys"
 
 #: wllegal/templates/legal/documents/privacy.html:20
 msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr ""
+"„Weblate“ apdoroja tik tuos asmens duomenis, kuriuos naudotojas pateikia "
+"naudodamasis ja:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
-#, fuzzy
-#| msgid "Username or email"
 msgid "Name and e-mail address"
-msgstr "Naudotojo vardas arba el. p. adresas"
+msgstr "Vardas ir el. pašto adresas"
 
 #: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits."
-msgstr ""
+msgstr "Jie naudojami jūsų tapatybei VCS įsipareigojimuose identifikuoti."
 
 #: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events."
-msgstr ""
+msgstr "Be to, el. paštas naudojamas parnešti apie stebimus įvykius."
 
 #: wllegal/templates/legal/documents/privacy.html:29
-#, fuzzy
-#| msgid "Password has been changed."
 msgid "Password in hashed form"
-msgstr "Slaptažodis pakeistas."
+msgstr "Slaptažodis maišos formoje"
 
 #: wllegal/templates/legal/documents/privacy.html:30
 msgid "Used to authenticate the User, if configured"
-msgstr ""
+msgstr "Naudojamas nustatyti tapatybę naudotojui, jei sukonfigūruota"
 
 #: wllegal/templates/legal/documents/privacy.html:31
 msgid "Passwords are stored hashed using Argon2."
-msgstr ""
+msgstr "Slaptažodžiai saugomi užmaišuoti naudojant „Argon2“."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid "IP address and browser name"
-msgstr ""
+msgstr "IP adresas ir naršyklės pavadinimas"
 
 #: wllegal/templates/legal/documents/privacy.html:34
 msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen."
 msgstr ""
+"Jie įrašomi svarbių jūsų paskyros pakeitimų (pvz., slaptažodžio pakeitimo) "
+"atveju, kad būtų galima diagnozuoti, jei jūsų paskyra būtų pavogta."
 
 #: wllegal/templates/legal/documents/privacy.html:36
 msgid "Billing info"
-msgstr ""
+msgstr "Atsiskaitymo informacija"
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
 "Necessary details to issue an invoice is collected when purchasing a service "
 "from us."
 msgstr ""
+"Būtini duomenys sąskaitai faktūrai išrašyti renkami perkant iš mūsų paslaugą."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
-msgstr ""
+msgstr "Asmens duomenų apdorojimo tikslas ir teisinis pagrindas"
 
 #: wllegal/templates/legal/documents/privacy.html:43
 msgid "Your Personal Data will be used for the purposes of the Service:"
-msgstr ""
+msgstr "Jūsų asmens duomenys bus naudojami paslaugos teikimo tikslais:"
 
 #: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
@@ -129,6 +131,11 @@ msgid ""
 "contractual or pre-contractual obligations (<a href=\"%(url)s\">Article 6 "
 "(1) b. GDPR</a>)"
 msgstr ""
+"teikiant mūsų paslaugas paslaugoje, siekiant susisiekti su jumis mūsų "
+"paslaugų klausimais (taip pat el. laiškais ir žinutėmis) ir siekiant "
+"užtikrinti mūsų paslaugų techninį funkcionalumą, sutartinių ar ikisutartinių "
+"įsipareigojimų laikymąsi (<a href=\"%(url)s\">BDAR 6 straipsnio 1 dalies b "
+"punktas</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:48
 #, python-format
