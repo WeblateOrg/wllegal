@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2024-02-09 17:15+0000\n"
-"Last-Translator: ssantos <ssantos@web.de>\n"
+"PO-Revision-Date: 2024-04-22 01:07+0000\n"
+"Last-Translator: Francielle Souza <fransoonerorlater@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/weblate/legal/"
 "pt/>\n"
 "Language: pt\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -239,16 +239,12 @@ msgstr ""
 "elimine a sua conta no serviço."
 
 #: wllegal/templates/legal/documents/privacy.html:75
-#, fuzzy
-#| msgid ""
-#| "Access log information might be collected for a longer period for the "
-#| "purpose of establishing, exercising or defending legal claims."
 msgid ""
 "Access log info might be collected for a longer period for the purpose of "
 "establishing, exercising or defending legal claims."
 msgstr ""
-"A informação do registo dos acessos pode ser obtida mais tempo para o "
-"propósito de estabelecer, exercer ou defender reclamações legais."
+"As informações de registro de acesso podem ser coletadas por um período mais "
+"longo com a finalidade de estabelecer, exercer ou defender ações judiciais."
 
 #: wllegal/templates/legal/documents/privacy.html:77
 msgid "Your rights"
@@ -320,16 +316,13 @@ msgstr ""
 "partir da gestão da conta e é totalmente automatizada."
 
 #: wllegal/templates/legal/documents/summary.html:4
-#, fuzzy
-#| msgid ""
-#| "We process private data (such as your e-mail address), those will be "
-#| "discarded from our database as soon as you remove your account."
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
 "Nós processamos os dados privados (tal como o seu endereço de ''e-mail''), "
-"que serão removidos da nossa base de dados assim que remover a sua conta."
+"que serão removidos da nossa base de dados assim que você remover a sua "
+"conta."
 
 #: wllegal/templates/legal/documents/summary.html:5
 msgid ""
