@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-11-03 17:40+0000\n"
+"PO-Revision-Date: 2024-05-26 23:23+0000\n"
 "Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/weblate/"
 "legal/nb_NO/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2-dev\n"
+"X-Generator: Weblate 5.6-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -44,7 +44,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:9
 msgid "Personal Data Controller"
-msgstr "Personlig datakontrollør"
+msgstr "Kontrolløren av personlig data"
 
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
@@ -198,8 +198,9 @@ msgid "Persons which are contracted for technical assurance of the service."
 msgstr "Personer som har blitt innleid for teknisk betjening av tjenesten."
 
 #: wllegal/templates/legal/documents/privacy.html:60
+#, fuzzy
 msgid "Payment processors when purchasing a service from us."
-msgstr ""
+msgstr "Betalingsformidlere ved kjøp av tjenester fra oss."
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
@@ -217,6 +218,9 @@ msgid ""
 "circumstances when the Controller has a good faith belief it is required by "
 "law, such as under a subpoena or other judicial or administrative order."
 msgstr ""
+"Personlig data kan oppgis til tredjeparter i begrensede fall der "
+"kontrolløren i god tro mener det er påkrevd av lov, som ved "
+"ransakelsesordre, eller annen rettslig/administrativ beslutning."
 
 #: wllegal/templates/legal/documents/privacy.html:69
 msgid ""
@@ -227,6 +231,12 @@ msgid ""
 "If the User does not challenge the disclosure request, the Controller may be "
 "legally required to turn over the Personal Data."
 msgstr ""
+"I fall det kreves av kontrolløren å oppgi data gitt av lov vil det bli gjort "
+"et forsøk på å la dette komme brukeren til kjenne via e-post (med mindre "
+"kontrolløren forhindres fra dette, eller det er fånyttes) at det har kommet "
+"en forespørsel om personlig data, slik at brukeren kan motsi seg "
+"overlevering. Hvis brukeren ikke motsetter seg overlevering kan det hende "
+"kontrolløren er lovmessig bundet til å gi fra seg den personlige dataen."
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "The Personal Data retention"
