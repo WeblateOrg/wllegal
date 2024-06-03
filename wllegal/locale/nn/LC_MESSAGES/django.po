@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2024-06-03 13:48+0000\n"
+"PO-Revision-Date: 2024-06-04 01:18+0000\n"
 "Last-Translator: Vinjar Drage <vinjardrage@gmail.com>\n"
 "Language-Team: Norwegian Nynorsk <https://hosted.weblate.org/projects/"
 "weblate/legal/nn/>\n"
@@ -403,7 +403,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:54
 msgid "Project"
-msgstr ""
+msgstr "Prosjekt"
 
 #: wllegal/templates/legal/documents/tos.html:55
 msgid "means translation project operated on the Service"
@@ -411,7 +411,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:57
 msgid "Service"
-msgstr ""
+msgstr "Teneste"
 
 #: wllegal/templates/legal/documents/tos.html:58
 msgid ""
