@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2024-06-24 06:22+0000\n"
+"PO-Revision-Date: 2024-06-25 07:25+0000\n"
 "Last-Translator: Julija Juli <slonovaca226@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/weblate/legal/sr/"
 ">\n"
@@ -85,11 +85,11 @@ msgstr "Лозинка у хешираном облику"
 
 #: wllegal/templates/legal/documents/privacy.html:30
 msgid "Used to authenticate the User, if configured"
-msgstr ""
+msgstr "Koristi se kao potvrda identiteta korisnika, ako je konfigurisano"
 
 #: wllegal/templates/legal/documents/privacy.html:31
 msgid "Passwords are stored hashed using Argon2."
-msgstr ""
+msgstr "Lozinke su sačuvane mešano koristeći argon2."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid "IP address and browser name"
