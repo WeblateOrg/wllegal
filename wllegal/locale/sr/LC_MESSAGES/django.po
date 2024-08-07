@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-08-20 07:49+0000\n"
-"Last-Translator: nexi <nexiphotographer@gmail.com>\n"
+"PO-Revision-Date: 2024-06-25 07:25+0000\n"
+"Last-Translator: Julija Juli <slonovaca226@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/weblate/legal/sr/"
 ">\n"
 "Language: sr\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.0-dev\n"
+"X-Generator: Weblate 5.6-rc\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -85,11 +85,11 @@ msgstr "Лозинка у хешираном облику"
 
 #: wllegal/templates/legal/documents/privacy.html:30
 msgid "Used to authenticate the User, if configured"
-msgstr ""
+msgstr "Koristi se kao potvrda identiteta korisnika, ako je konfigurisano"
 
 #: wllegal/templates/legal/documents/privacy.html:31
 msgid "Passwords are stored hashed using Argon2."
-msgstr ""
+msgstr "Lozinke su sačuvane mešano koristeći argon2."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid "IP address and browser name"
@@ -100,12 +100,12 @@ msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen."
 msgstr ""
+"Prijavljeni su za slučaj važnih promena na tvom nalogu da bi dozvolili "
+"dijagnozu u slučaju da je vaš nalog ukraden."
 
 #: wllegal/templates/legal/documents/privacy.html:36
-#, fuzzy
-#| msgid "Billing information"
 msgid "Billing info"
-msgstr "Подаци за наплату"
+msgstr "Podaci naplate"
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
