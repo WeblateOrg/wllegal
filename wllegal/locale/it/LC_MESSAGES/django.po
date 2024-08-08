@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2024-06-22 13:23+0000\n"
+"PO-Revision-Date: 2024-08-09 00:50+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/weblate/legal/it/"
 ">\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6-rc\n"
+"X-Generator: Weblate 5.7-dev\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
@@ -74,7 +74,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid "Name and e-mail address"
-msgstr "Nome utente e email"
+msgstr "Nome utente e e-mail"
 
 #: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits."
@@ -82,7 +82,7 @@ msgstr "Questi sono usati per identificarti nelle modifiche VCS."
 
 #: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events."
-msgstr "Inoltre, l'email è usata per le notifiche degli eventi monitorati."
+msgstr "Inoltre, l'e-mail è usata per le notifiche degli eventi monitorati."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
@@ -139,10 +139,10 @@ msgid ""
 "(1) b. GDPR</a>)"
 msgstr ""
 "per fornire i nostri termini del servizio, per contattarti in merito ai "
-"nostri servizi (anche tramite email e messaggistica) e per garantire la "
+"nostri servizi (anche tramite e-mail e messaggistica) e per garantire la "
 "funzionalità tecnica dei nostri servizi in adempimento degli obblighi "
-"contrattuali o precontrattuali (<a href=\"%(url)s\">Articolo 6 (1) b. GDPR</"
-"a>)"
+"contrattuali o precontrattuali (<a href=\"%(url)s\">Articolo 6 (1) b. "
+"GDPR</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:48
 #, python-format
@@ -221,7 +221,7 @@ msgid ""
 "legally required to turn over the Personal Data."
 msgstr ""
 "Nel caso in cui il Titolare sia tenuto per legge a divulgare i dati "
-"personali, si cercherà di fornire all'utente un preavviso via email (a meno "
+"personali, si cercherà di fornire all'utente un preavviso via e-mail (a meno "
 "che il Titolare non lo vieti, o sarebbe inutile) che è stato autorizzata una "
 "richiesta di divulgazione dei dati personali per consentire all'Utente di "
 "opporsi alla divulgazione. Se l'Utente non contesta la richiesta di "
@@ -320,7 +320,7 @@ msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"Noi elaboriamo i dati personali (come l'indirizzo email), che verranno "
+"Noi elaboriamo i dati personali (come l'indirizzo e-mail), che verranno "
 "eliminati dal nostro database non appena rimuoverai il tuo account."
 
 #: wllegal/templates/legal/documents/summary.html:5
@@ -336,7 +336,7 @@ msgid ""
 "Your name and e-mail address is used in VCS commits, it will stay there "
 "indefinitely."
 msgstr ""
-"Il tuo nome e la tua email sono usati nei commit VCS, e vi rimarranno "
+"Il tuo nome e la tua e-mail sono usati nei commit VCS, e vi rimarranno "
 "indefinitamente."
 
 #: wllegal/templates/legal/documents/summary.html:8
@@ -344,8 +344,8 @@ msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
 msgstr ""
-"Il nome scelto dipende da te e per proteggere la tua privacy l'indirizzo "
-"email usato per i commit può essere mascherato dal sistema Weblate."
+"Il nome scelto dipende da te e per proteggere la tua privacy l'indirizzo e-"
+"mail usato per i commit può essere mascherato dal sistema Weblate."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid "We use cookies to deliver our services."
@@ -692,7 +692,7 @@ msgid ""
 "The User understands that this grant is non-revocable due to the nature of "
 "the VCS."
 msgstr ""
-"L'utente accetta di usare il nome e l'email come paternità nei commit VCS. "
+"L'utente accetta di usare il nome e l'e-mail come paternità nei commit VCS. "
 "L'utente comprende che questa accettazione non è revocabile a causa della "
 "natura del VCS."
 
