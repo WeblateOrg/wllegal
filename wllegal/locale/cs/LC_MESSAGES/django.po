@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-11-29 02:49+0000\n"
-"Last-Translator: inson1 <vaclav.svarc01@seznam.cz>\n"
+"PO-Revision-Date: 2024-08-19 20:09+0000\n"
+"Last-Translator: Fjuro <fjuro@alius.cz>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/weblate/legal/cs/>"
 "\n"
 "Language: cs\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.3-dev\n"
+"X-Generator: Weblate 5.7\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:9
 msgid "Personal Data Controller"
-msgstr "Správce Osobních Údajů"
+msgstr "Správce Osobních údajů"
 
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
@@ -52,18 +52,18 @@ msgid ""
 "Weblate has appointed a data protection officer who may be reached via "
 "%(privacy_contact)s."
 msgstr ""
-"Správce jmenoval pověřence pro ochranu osobních údajů a můžete ho "
+"Weblate jmenoval pověřence pro ochranu osobních údajů, kterého můžete "
 "kontaktovat na %(privacy_contact)s."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 msgid "Personal Data processed by Weblate"
-msgstr "Které Osobní Údaje zpracováváme"
+msgstr "Osobní údaje zpracovávané službou Weblate"
 
 #: wllegal/templates/legal/documents/privacy.html:20
 msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr ""
-"Zpracováváme pouze Osobní Údaje, které nám uživatel poskytuje používáním "
-"naší služby:"
+"Weblate zpracovává pouze Osobní údaje poskytnuté Uživatelem při používání "
+"služby:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid "Name and e-mail address"
@@ -71,7 +71,7 @@ msgstr "Jméno a e-mailová adresa"
 
 #: wllegal/templates/legal/documents/privacy.html:26
 msgid "These are used to identify you in the VCS commits."
-msgstr "Tyto slouží pro identifikaci zápisů v systému správy verzí."
+msgstr "Slouží pro identifikaci zápisů v systému správy verzí."
 
 #: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events."
@@ -79,7 +79,7 @@ msgstr "E-mail dále slouží pro upozorňování na uživatelem sledované udá
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
-msgstr "Otisk (hash) hesla"
+msgstr "Heslo v šifrované podobě"
 
 #: wllegal/templates/legal/documents/privacy.html:30
 msgid "Used to authenticate the User, if configured"
@@ -87,7 +87,7 @@ msgstr "Pokud je nastaveno, slouží k ověřování totožnosti Uživatele"
 
 #: wllegal/templates/legal/documents/privacy.html:31
 msgid "Passwords are stored hashed using Argon2."
-msgstr "Hesla jsou uložena ve formě otisku pomocí Argon2."
+msgstr "Uložená hesla jsou hashována pomocí funkce Argon2."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid "IP address and browser name"
@@ -98,8 +98,8 @@ msgid ""
 "These are logged in case of important changes to your account (e.g. password "
 "change) to allow diagnosis in case your account is stolen."
 msgstr ""
-"Tyto jsou zaznamenány v případě zásadních změn ve vašem účtu (např. při "
-"změně hesla) z důvodu diagnostiky v případě krádeže vašeho účtu."
+"Tyto údaje jsou zaznamenány v případě zásadních změn ve vašem účtu (např. "
+"při změně hesla) z důvodu diagnostiky v případě krádeže vašeho účtu."
 
 #: wllegal/templates/legal/documents/privacy.html:36
 msgid "Billing info"
@@ -115,11 +115,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid "Purpose and legal basis of processing Personal Data"
-msgstr "Důvod a zákonný rámec zpracování Osobních Údajů"
+msgstr "Účel a právní základ pro zpracování Osobních údajů"
 
 #: wllegal/templates/legal/documents/privacy.html:43
 msgid "Your Personal Data will be used for the purposes of the Service:"
-msgstr "Vaše Osobní Údaje budou použity pro účely Služby:"
+msgstr "Vaše Osobní údaje budou použity pro účely Služby:"
 
 #: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
@@ -130,10 +130,10 @@ msgid ""
 "contractual or pre-contractual obligations (<a href=\"%(url)s\">Article 6 "
 "(1) b. GDPR</a>)"
 msgstr ""
-"pro poskytování služeb v rámci Služby, pro kontaktování vás v souvislosti se "
-"službami (také prostřednictvím e-mailu a zpráv) a pro zajištění provozu "
-"našich služeb na základě smluvních nebo předsmluvních závazků (podle <a href="
-"\"%(url)s\">čl. 6 odst. 1 písm. b) GDPR</a>)"
+"pro poskytování služeb v rámci Služby, pro kontaktování vás v souvislosti s "
+"našimi službami (také prostřednictvím e-mailu a zpráv) a pro zajištění "
+"provozu našich služeb na základě smluvních nebo předsmluvních závazků (podle "
+"<a href=\"%(url)s\">čl. 6 odst. 1 písm. b) GDPR</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:48
 #, python-format
@@ -157,7 +157,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:52
 msgid "Access to the Personal Data"
-msgstr "Přístup k Osobním Údajům"
+msgstr "Přístup k Osobním údajům"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
@@ -165,14 +165,14 @@ msgid ""
 "Personal Data. Only authorized persons can access the Personal Data."
 msgstr ""
 "Správce prohlašuje, že přijal veškerá vhodná technická a organizační "
-"opatření k zabezpečení vašich Osobních Údajů. K Osobním Údajům mají přístup "
+"opatření k zabezpečení vašich Osobních údajů. K Osobním údajům mají přístup "
 "pouze pověřené osoby."
 
 #: wllegal/templates/legal/documents/privacy.html:56
 msgid ""
 "Third parties which can gain access to the Personal Data when necessary are:"
 msgstr ""
-"Třetími stranami, které mohou mít přístup k vašim Osobním Údajům v nezbytném "
+"Třetími stranami, které mohou mít přístup k vašim Osobním údajům v nezbytném "
 "rozsahu, jsou:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
@@ -186,11 +186,11 @@ msgstr "Zpracovatelé plateb při nákupu služby od nás."
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
-msgstr "Všechna Osobní Údaje jsou uloženy v Evropské Unii."
+msgstr "Všechny Osobní údaje jsou uloženy v Evropské unii."
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid "Disclosure of the Personal Data"
-msgstr "Zpřístupnění Osobních Údajů"
+msgstr "Zpřístupnění Osobních údajů"
 
 #: wllegal/templates/legal/documents/privacy.html:67
 msgid ""
@@ -198,7 +198,7 @@ msgid ""
 "circumstances when the Controller has a good faith belief it is required by "
 "law, such as under a subpoena or other judicial or administrative order."
 msgstr ""
-"Osobní Údaje mohou být zpřístupněny třetím stranám za omezených okolností, "
+"Osobní údaje mohou být zpřístupněny třetím stranám za omezených okolností, "
 "pokud se Správce v dobré víře domnívá, že to vyžaduje zákon, například na "
 "základě soudního předvolání nebo jiného soudního či správního příkazu."
 
@@ -211,30 +211,30 @@ msgid ""
 "If the User does not challenge the disclosure request, the Controller may be "
 "legally required to turn over the Personal Data."
 msgstr ""
-"V případě, že je Správce ze zákona povinen Osobní Údaje zpřístupnit, pokusí "
+"V případě, že je Správce ze zákona povinen Osobní údaje zpřístupnit, pokusí "
 "se Uživatele předem informovat e-mailem (pokud to není Správci zakázáno nebo "
-"by to bylo zbytečné) o tom, že byla podána žádost o Osobní Údaje, aby mohl "
+"by to bylo zbytečné) o tom, že byla podána žádost o Osobní údaje, aby mohl "
 "Uživatel vznést námitku proti zpřístupnění. Pokud Uživatel žádost o "
 "zpřístupnění neodmítne, může být Správce ze zákona povinen Osobní údaje "
 "předat."
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "The Personal Data retention"
-msgstr "Doba uložení Osobních Údajů"
+msgstr "Uchovávání Osobních údajů"
 
 #: wllegal/templates/legal/documents/privacy.html:73
 msgid ""
 "The Personal Data is stored in the Service until the User deletes their "
 "account on the service."
-msgstr "Osobní Údaje jsou uloženy ve Službě dokud uživatel nesmaže svůj účet."
+msgstr "Osobní údaje jsou uloženy ve Službě, dokud uživatel nesmaže svůj účet."
 
 #: wllegal/templates/legal/documents/privacy.html:75
 msgid ""
 "Access log info might be collected for a longer period for the purpose of "
 "establishing, exercising or defending legal claims."
 msgstr ""
-"Informace o přístupu mohou být uchovávána déle za účelem zjištění, výkonu "
-"nebo obrany právních nároků."
+"Informace z protokolu o přístupu mohou být shromažďovány po delší dobu za "
+"účelem zjištění, uplatnění nebo obhajoby právních nároků."
 
 #: wllegal/templates/legal/documents/privacy.html:77
 msgid "Your rights"
@@ -245,16 +245,16 @@ msgid ""
 "The User provides use of Personal Data voluntarily. Without this Personal "
 "Data Weblate is not able to provide our services."
 msgstr ""
-"Uživatel poskytuje Osobní Údaje dobrovolně. Bez nich nejsme schopni "
-"poskytovat naše služby."
+"Uživatel poskytuje Osobní údaje dobrovolně. Bez těchto Osobních údajů není "
+"Weblate schopen poskytovat své služby."
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid ""
 "We want you to always be in control of your Personal Data. To this end, you "
 "have certain rights that allow for it. Under certain conditions, you may:"
 msgstr ""
-"Chceme, abyste vždy měli kontrolu nad svými Osobními Údaji. Za určitých "
-"podmínek máte právo u naší společnosti:"
+"Chceme, abyste měli své Osobní údaje vždy pod kontrolou. Za tímto účelem "
+"máte určitá práva, která to umožňují. Za určitých podmínek můžete:"
 
 #: wllegal/templates/legal/documents/privacy.html:85
 #, python-format
@@ -262,44 +262,43 @@ msgid ""
 "Gain access to all your Personal Data that Weblate uses or processes, and "
 "even get a copy of all of it (<a href=\"%(url)s\">Article 15 GDPR</a>)"
 msgstr ""
-"Požadovat přístup k Osobním Údajům, které o vás zpracováváme a máte právo "
-"získat přístup k těmto osobním údajům a k dalším informacím uvedeným v <a "
-"href=\"%(url)s\">čl. 15 GDPR</a>"
+"Získat přístup ke všem svým Osobním údajům, které Weblate používá nebo "
+"zpracovává, a získat jejich kopii (<a href=\"„%(url)s“\">článek 15 GDPR</a>)"
 
 #: wllegal/templates/legal/documents/privacy.html:86
 msgid ""
 "Correct the Personal Data that Weblate processes if you think that there are "
 "mistakes"
 msgstr ""
-"Požadovat opravu Osobních Údajů, které o vás zpracováváme, pokud jsou "
-"nepřesné"
+"Opravit Osobní údaje, které Weblate zpracovává, pokud se domníváte, že v "
+"nich jsou chyby"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Order us to delete your Personal Data"
-msgstr "Požadovat výmaz Osobních Údajů"
+msgstr "Nařídit nám smazání vašich Osobních údajů"
 
 #: wllegal/templates/legal/documents/privacy.html:88
 msgid "Restrict the Personal Data processing"
-msgstr "Požadovat omezení zpracování Osobních Údajů"
+msgstr "Omezit zpracování Osobních údajů"
 
 #: wllegal/templates/legal/documents/privacy.html:89
 msgid "Object to processing"
-msgstr "Vznést námitku či stížnost proti zpracování"
+msgstr "Vznést námitku proti zpracování"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "Receive your Personal Data in a commonly used and machine-readable format or "
 "to transmit this Personal Data to a different provider."
 msgstr ""
-"Získat Osobní Údaje, které se vás týkají ve strukturovaném, běžně používaném "
-"a strojově čitelném formátu, a máte právo předat tyto údaje jinému správci."
+"Získat vaše Osobní údaje v běžně používaném a strojově čitelném formátu nebo "
+"předat tyto Osobní údaje jinému poskytovateli."
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid ""
 "The removal, correction, and retrieval of your Personal Data can be done "
 "from the account management, and is fully automated."
 msgstr ""
-"Odstranění, opravu a získání vašich Osobních Údajů lze provést ze správy "
+"Odstranění, opravu a získání vašich Osobních údajů lze provést ze správy "
 "účtu a je plně automatizované."
 
 #: wllegal/templates/legal/documents/summary.html:4
@@ -308,7 +307,7 @@ msgid ""
 "discarded from our database if you remove your account."
 msgstr ""
 "Zpracováváme osobní údaje (např. e-mailovou adresu); tyto údaje odstraníme z "
-"naší databáze, jakmile odstraníte svůj účet."
+"naší databáze, jakmile smažete svůj účet."
 
 #: wllegal/templates/legal/documents/summary.html:5
 msgid ""
@@ -331,12 +330,12 @@ msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
 msgstr ""
-"Zvolené jméno je na vás a e-mailovou adresu použitou pro odevzdání může "
-"systém Weblate maskovat, aby chránil vaše soukromí."
+"Zvolené jméno je na vás a e-mailovou adresu použitou pro příspěvky může "
+"služba Weblate maskovat, aby chránila vaše soukromí."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid "We use cookies to deliver our services."
-msgstr "Používáme cookie k poskytování našich služeb."
+msgstr "Používáme soubory cookie k poskytování našich služeb."
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid "We don’t use any third-party cookies."
@@ -351,16 +350,16 @@ msgid ""
 "The Terms of Service document is authoritative in English, translations are "
 "provided for your convenience."
 msgstr ""
-"Smluvní podmínky jsou závazné v angličtině, pro vaše pohodlí jsou k "
-"dispozici překlady."
+"Smluvní podmínky jsou závazné v anglické verzi, překlady jsou k dispozici "
+"pro vaše pohodlí."
 
 #: wllegal/templates/legal/documents/tos.html:17
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these Terms of Service."
 msgstr ""
-"Práva a povinnosti Uživatele a Provozovatele pramenící z užívání Služby se "
-"řídí těmito Všeobecnými Smluvními Podmínkami."
+"Práva a povinnosti Uživatele a Poskytovatele pramenící z užívání Služby se "
+"řídí těmito Všeobecnými smluvními podmínkami."
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid "Definitions"
@@ -368,7 +367,7 @@ msgstr "Definice"
 
 #: wllegal/templates/legal/documents/tos.html:22
 msgid "In these Terms of Service:"
-msgstr "V těchto Všeobecných Smluvních Podmínkách:"
+msgstr "V těchto Všeobecných smluvních podmínkách:"
 
 #: wllegal/templates/legal/documents/tos.html:26
 msgid "Agreement"
@@ -380,7 +379,7 @@ msgid ""
 "Civil Code concluded by and between the User and the Provider upon the "
 "Consent"
 msgstr ""
-"se rozumí Licenční Smlouva ve smyslu článku 2358 a následujících Občanského "
+"se rozumí Licenční smlouva ve smyslu článku 2358 a následujících Občanského "
 "zákoníku uzavřeného mezi Uživatelem a Provozovatelem na základě Souhlasu"
 
 #: wllegal/templates/legal/documents/tos.html:29
@@ -391,8 +390,8 @@ msgstr "Občanský zákoník"
 #, python-format
 msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgstr ""
-"se rozumí zákon %(law_89_2012)s Sb., občanský zákoníku, ve znění pozdějších "
-"předpisů"
+"se rozumí zákon %(law_89_2012)s Sb., občanského zákoníku, ve znění "
+"pozdějších předpisů"
 
 #: wllegal/templates/legal/documents/tos.html:32
 msgid "Consent"
@@ -403,13 +402,13 @@ msgid ""
 "means the User’s consent with these Terms of Service and other legal "
 "documents expressed by checking the checkbox during the registration"
 msgstr ""
-"se rozumí souhlas Uživatele s těmito Všeobecnými Smluvními Podmínkami a "
+"se rozumí souhlas Uživatele s těmito Všeobecnými smluvními podmínkami a "
 "dalšími právními dokumenty vyjádřený zaškrtnutím políčka při registraci"
 
 #: wllegal/templates/legal/documents/tos.html:35
 #: wllegal/templates/legal/documents/tos.html:116
 msgid "Cookies"
-msgstr "Cookie"
+msgstr "Soubory cookie"
 
 #: wllegal/templates/legal/documents/tos.html:36
 msgid ""
@@ -467,7 +466,7 @@ msgid ""
 "inserted by the User into the Service and/or Cookies"
 msgstr ""
 "se rozumí osobní údaje ve významu nařízení EU %(law_679_2016)s, vloženého "
-"uživatelem do Služby a/nebo souborů Cookie"
+"uživatelem do Služby a/nebo Souborů cookie"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Owner"
@@ -526,8 +525,8 @@ msgid ""
 "means distributed version control system used by the Project such as Git or "
 "Mercurial"
 msgstr ""
-"se rozumí distribuovaný systém správy revizí používaný Projektem jako třeba "
-"Git nebo Mercurial"
+"se rozumí distribuovaný systém správy revizí používaný Projektem, jako "
+"například Git nebo Mercurial"
 
 #: wllegal/templates/legal/documents/tos.html:71
 msgid "License Agreement Conclusion"
@@ -538,12 +537,12 @@ msgid ""
 "The License Agreement is concluded upon the User’s Acceptance of the "
 "Provider’s Offer."
 msgstr ""
-"Licenční Smlouva je uzavřená v okamžiku přijetí Nabídky Provozovatele "
+"Licenční smlouva je uzavřená v okamžiku přijetí Nabídky Provozovatele "
 "Uživatelem."
 
 #: wllegal/templates/legal/documents/tos.html:76
 msgid "License Agreement"
-msgstr "Licenční Smlouva"
+msgstr "Licenční smlouva"
 
 #: wllegal/templates/legal/documents/tos.html:78
 msgid ""
@@ -619,7 +618,7 @@ msgstr ""
 "Je-li Uživatel podnikatelem, tímto se výslovně vzdává práva na náhradu škody "
 "od Provozovatele za škodu neúmyslně způsobenou Provozovatelem Uživateli "
 "prostřednictvím porušení jakýchkoliv závazků obsažených v těchto Všeobecných "
-"Smluvních Podmínkách a/nebo vyplývajících z užívání Služby."
+"smluvních podmínkách a/nebo vyplývajících z užívání Služby."
 
 #: wllegal/templates/legal/documents/tos.html:101
 #, python-format
@@ -658,8 +657,8 @@ msgid ""
 "Should the Project opt in for the Translation Memory, license to use the "
 "translation is granted to all Translation Memory users."
 msgstr ""
-"V případě, že se Projekt rozhodne používat Překladovou Paměť, bude udělena "
-"licence na překlad všem uživatelům Překladové Paměti."
+"V případě, že se Projekt rozhodne používat Překladovou paměť, bude udělena "
+"licence na překlad všem uživatelům Překladové paměti."
 
 #: wllegal/templates/legal/documents/tos.html:111
 msgid ""
@@ -686,11 +685,11 @@ msgid ""
 msgstr ""
 "Ve smyslu článku 89 zákona %(law_480_2004)s Sb., o elektronické komunikaci, "
 "ve znění pozdějších předpisů, je uživatel informován, že služba používá "
-"Cookies."
+"Soubory cookie."
 
 #: wllegal/templates/legal/documents/tos.html:120
 msgid "The Service uses Cookies to personalise content."
-msgstr "Služba používá Cookies k přizpůsobení obsahu."
+msgstr "Služba používá Soubory cookie k přizpůsobení obsahu."
 
 #: wllegal/templates/legal/documents/tos.html:123
 msgid "Governing Law"
@@ -710,8 +709,8 @@ msgid ""
 "Service shall be resolved by the court of the Czech republic having "
 "substantive and local jurisdiction."
 msgstr ""
-"Veškeré spory vzniklé na základě Smlouvy a/nebo těchto Všeobecných Smluvních "
-"Podmínek budou vyřešeny soudem České republiky s věcnou a místní "
+"Veškeré spory vzniklé na základě Smlouvy a/nebo těchto Všeobecných smluvních "
+"podmínek budou vyřešeny soudem České republiky s věcnou a místní "
 "příslušností."
 
 #: wllegal/templates/legal/documents/tos.html:130
@@ -722,7 +721,7 @@ msgstr "Účinek"
 msgid ""
 "These Terms of Service shall come into force and effect on 15th May 2023."
 msgstr ""
-"Tyto Všeobecné Smluvní Podmínky nabývají platnosti a účinnosti dne 15. "
+"Tyto Všeobecné smluvní podmínky nabývají platnosti a účinnosti dne 15. "
 "května 2023."
 
 #~ msgid ""
