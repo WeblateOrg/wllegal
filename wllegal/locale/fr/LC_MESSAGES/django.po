@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2023-11-19 13:52+0000\n"
+"PO-Revision-Date: 2024-09-18 09:30+0000\n"
 "Last-Translator: Julien Humbert <julroy67@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/weblate/legal/fr/>"
 "\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.2\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -37,7 +37,7 @@ msgid ""
 "Protection Regulation, also known as GDPR. This document includes necessary "
 "specifications."
 msgstr ""
-"Nous respectons le règlement nᵒ %(law_679_2016)s, le règlement général sur "
+"Nous respectons le règlement nᵒ %(law_679_2016)s, le règlement général sur "
 "la protection des données, aussi appelé RGPD. Ce document contient les "
 "mentions requises."
 
@@ -413,7 +413,7 @@ msgstr "Code civil"
 #: wllegal/templates/legal/documents/tos.html:30
 #, python-format
 msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
-msgstr "désigne la loi n° %(law_89_2012)s du Code civil, telle que modifiée"
+msgstr "désigne la loi n° %(law_89_2012)s du Code civil, telle que modifiée"
 
 #: wllegal/templates/legal/documents/tos.html:32
 msgid "Consent"
@@ -454,7 +454,7 @@ msgid ""
 "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
 "Regulation"
 msgstr ""
-"désigne le règlement EU nᵒ %(law_679_2016)s, le Règlement Général sur la "
+"désigne le règlement EU nᵒ %(law_679_2016)s, le Règlement Général sur la "
 "Protection des Données"
 
 #: wllegal/templates/legal/documents/tos.html:42
