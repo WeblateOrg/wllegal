@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2024-09-26 14:39+0000\n"
+"PO-Revision-Date: 2024-09-27 14:15+0000\n"
 "Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/weblate/legal/fi/"
 ">\n"
@@ -196,6 +196,10 @@ msgid ""
 "circumstances when the Controller has a good faith belief it is required by "
 "law, such as under a subpoena or other judicial or administrative order."
 msgstr ""
+"Henkilötietoja voidaan luovuttaa kolmansille osapuolille rajoitetuissa "
+"olosuhteissa, kun Rekisterinpitäjä vilpittömässä mielessä uskoo, että laki "
+"sitä edellyttää, esimerkiksi haasteen tai muun oikeudellisen tai "
+"hallinnollisen määräyksen perusteella."
 
 #: wllegal/templates/legal/documents/privacy.html:69
 msgid ""
@@ -206,6 +210,12 @@ msgid ""
 "If the User does not challenge the disclosure request, the Controller may be "
 "legally required to turn over the Personal Data."
 msgstr ""
+"Mikäli Rekisterinpitäjä on lain mukaan velvollinen luovuttamaan "
+"henkilötietoja, käyttäjälle yritetään ilmoittaa etukäteen sähköpostitse ("
+"ellei rekisterinpitäjä ole kiellettyä tai se olisi turhaa) henkilötietojen "
+"pyynnöstä. on tehty, jotta käyttäjä voi vastustaa paljastamista. Jos "
+"käyttäjä ei kiistä luovutuspyyntöä, rekisterinpitäjä voi olla lain mukaan "
+"velvollinen luovuttamaan henkilötiedot."
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "The Personal Data retention"
@@ -220,16 +230,12 @@ msgstr ""
 "palvelusta."
 
 #: wllegal/templates/legal/documents/privacy.html:75
-#, fuzzy
-#| msgid ""
-#| "Access log information might be collected for a longer period for the "
-#| "purpose of establishing, exercising or defending legal claims."
 msgid ""
 "Access log info might be collected for a longer period for the purpose of "
 "establishing, exercising or defending legal claims."
 msgstr ""
-"Pääsylokitietoja voidaan kerätä pidemmän aikaa oikeudellisten vaatimusten "
-"nostamiseksi, esittämiseksi tai puolustamiseksi."
+"Käyttöoikeuslokitietoja saatetaan kerätä pidemmän aikaa oikeudellisten "
+"vaatimusten nostamiseksi, esittämiseksi tai puolustamiseksi."
 
 #: wllegal/templates/legal/documents/privacy.html:77
 msgid "Your rights"
@@ -334,7 +340,7 @@ msgstr "Käytämme evästeitä palvelun tuottamisessa."
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid "We don’t use any third-party cookies."
-msgstr ""
+msgstr "Emme käytä kolmannen osapuolen evästeitä."
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
@@ -623,6 +629,9 @@ msgid ""
 "hereby gives consent to collecting, storage, and processing of the Personal "
 "Data according to the <a href=\"%(privacy_url)s\">Privacy Policy</a>."
 msgstr ""
+"GDPR:n <a href=\"%(url)s\">Pykälän 7</a> mukaisesti käyttäjä antaa "
+"suostumuksensa henkilötietojen keräämiseen, tallentamiseen ja käsittelyyn <a "
+"href=\"%(privacy_url)s\">Tietosuojakäytäntö</a>."
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid "Translations"
@@ -662,18 +671,13 @@ msgstr ""
 "Osallistuessaan Projektiin Käyttäjä hyväksyy Projektin määrittämän lisenssin."
 
 #: wllegal/templates/legal/documents/tos.html:113
-#, fuzzy
-#| msgid ""
-#| "The User agrees to use of own name and e-mail as authorship in the VCS "
-#| "commits. The User understands that this grant is non revocable due to "
-#| "nature of the VCS."
 msgid ""
 "The User agrees to use of name and e-mail as authorship in the VCS commits. "
 "The User understands that this grant is non-revocable due to the nature of "
 "the VCS."
 msgstr ""
-"Käyttäjä sitoutuu käyttämään omaa nimeään ja sähköpostiosoitettaan tekijänä "
-"VCS-sitoumuksissa. Käyttäjä ymmärtää, että tätä lupaa ei voi peruuttaa VCS:n "
+"Käyttäjä suostuu käyttämään nimeä ja sähköpostiosoitetta tekijänä VCS-"
+"sitoumuksissa. Käyttäjä ymmärtää, että tätä lupaa ei voi peruuttaa VCS:n "
 "luonteen vuoksi."
 
 #: wllegal/templates/legal/documents/tos.html:118
@@ -718,13 +722,9 @@ msgid "Effect"
 msgstr "Voimaan astuminen"
 
 #: wllegal/templates/legal/documents/tos.html:132
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 1st September "
-#| "2017."
 msgid ""
 "These Terms of Service shall come into force and effect on 15th May 2023."
-msgstr "Nämä Palveluehdot astuvat voimaan 1.9.2017."
+msgstr "Nämä käyttöehdot astuvat voimaan 15 toukokuuta 2023."
 
 #~ msgid ""
 #~ "In case you purchase service from us, we collect additional billing "
