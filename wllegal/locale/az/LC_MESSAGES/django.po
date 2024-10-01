@@ -5,11 +5,11 @@
 # anonymous <noreply@weblate.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2022-11-07 19:02+0000\n"
-"Last-Translator: Ariz Mirzəzadə <by.ariz@bk.ru>\n"
+"PO-Revision-Date: 2024-10-01 17:34+0000\n"
+"Last-Translator: äkräm ☆ <eray6421@proton.me>\n"
 "Language-Team: Azerbaijani <https://hosted.weblate.org/projects/weblate/"
 "legal/az/>\n"
 "Language: az\n"
@@ -17,17 +17,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "28-ci maddəyə uyğun alt icraçılar"
 
 #: wllegal/templates/legal/documents/contracts.html:10
-#, fuzzy
-#| msgid "Status as of October 2020."
 msgid "Status as of March 2023."
-msgstr "Oktyabr 2020 tarixinə vəziyyət."
+msgstr "Mart 2023-cü il etibarilə status."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #, python-format
@@ -36,9 +34,8 @@ msgid ""
 "Protection Regulation, also known as GDPR. This document includes necessary "
 "specifications."
 msgstr ""
-"Biz %(law_679_2016)s saylı Qaydaya, həmçinin GDPR kimi tanınan Ümumi "
-"Məlumatların Qorunması Qaydasına əməl edirik. Bu sənədə lazımi "
-"spesifikasiyalar daxildir."
+"Biz GDPR kimi də tanınan %(law_679_2016)s saylı Ümumi Məlumatların Qorunması "
+"Qaydasına əməl edirik. Bu sənədə lazımi spesifikasiyalar daxildir."
 
 #: wllegal/templates/legal/documents/privacy.html:9
 msgid "Personal Data Controller"
