@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2024-10-04 18:15+0000\n"
+"PO-Revision-Date: 2024-10-06 23:37+0000\n"
 "Last-Translator: Vaclovas Intas <vaclovas1999@gmail.com>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/weblate/legal/"
 "lt/>\n"
@@ -257,8 +257,8 @@ msgid ""
 "We want you to always be in control of your Personal Data. To this end, you "
 "have certain rights that allow for it. Under certain conditions, you may:"
 msgstr ""
-"Norime, kad visada valdytumėte savo asmens duomenis. Todėl turite tam tikras "
-"teises, kurios leidžia tai padaryti. Tam tikromis sąlygomis galite:"
+"Norime, kad visada valdytumėte savo asmeninius duomenis. Todėl turite tam "
+"tikras teises, kurios leidžia tai padaryti. Tam tikromis sąlygomis galite:"
 
 #: wllegal/templates/legal/documents/privacy.html:85
 #, python-format
@@ -266,7 +266,7 @@ msgid ""
 "Gain access to all your Personal Data that Weblate uses or processes, and "
 "even get a copy of all of it (<a href=\"%(url)s\">Article 15 GDPR</a>)"
 msgstr ""
-"gauti prieigą prie visų savo asmens duomenų, kuriuos „Weblate“ naudoja ar "
+"gauti prieigą prie visų savo asmeninių duomenų, kuriuos „Weblate“ naudoja ar "
 "apdoroja, ir net gauti jų kopiją (<a href=\"%(url)s\">BDAR 15 "
 "straipsnis</a>);"
 
@@ -275,94 +275,109 @@ msgid ""
 "Correct the Personal Data that Weblate processes if you think that there are "
 "mistakes"
 msgstr ""
-"ištaisyti „Weblate“ apdorojamus asmens duomenis, jei manote, kad juose yra "
-"klaidų;"
+"ištaisyti „Weblate“ apdorojamus asmeninius duomenis, jei manote, kad juose "
+"yra klaidų;"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Order us to delete your Personal Data"
-msgstr "nurodyti mums ištrinti jūsų asmens duomenis"
+msgstr "nurodyti mums ištrinti jūsų asmeninius duomenis;"
 
 #: wllegal/templates/legal/documents/privacy.html:88
 msgid "Restrict the Personal Data processing"
-msgstr ""
+msgstr "apriboti asmeninių duomenų apdorojimą;"
 
 #: wllegal/templates/legal/documents/privacy.html:89
 msgid "Object to processing"
-msgstr ""
+msgstr "prieštarauti apdorojimui;"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "Receive your Personal Data in a commonly used and machine-readable format or "
 "to transmit this Personal Data to a different provider."
 msgstr ""
+"gauti savo asmeninius duomenis įprastai naudojamu ir kompiuterio skaitomu "
+"formatu arba perduoti šiuos asmeninius duomenis kitam teikėjui."
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid ""
 "The removal, correction, and retrieval of your Personal Data can be done "
 "from the account management, and is fully automated."
 msgstr ""
+"Pašalinti, ištaisyti ir gauti savo asmeninius duomenis galima iš paskyros "
+"tvarkymo ir tai yra visiškai automatizuota."
 
 #: wllegal/templates/legal/documents/summary.html:4
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
+"Apdorojame asmeninius duomenis (pavyzdžiui, jūsų el. pašto adresą). Jie bus "
+"pašalinti iš mūsų duomenų bazės, jei pašalinsite savo paskyrą."
 
 #: wllegal/templates/legal/documents/summary.html:5
 msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
 msgstr ""
+"Jūsų vertimai atliekami pagal licenciją, kuri nurodyta prie kiekvieno "
+"vertimo."
 
 #: wllegal/templates/legal/documents/summary.html:7
 msgid ""
 "Your name and e-mail address is used in VCS commits, it will stay there "
 "indefinitely."
 msgstr ""
+"Jūsų vardas ir el. pašto adresas naudojami VCS įsipareigojimuose, jie ten "
+"išliks visam laikui."
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
 msgstr ""
+"Pasirinktas vardas priklauso nuo jūsų, o el. pašto adresą, naudojamą "
+"įsipareigojimams, gali paslėpti „Weblate“ sistemos, kad būtų apsaugotas jūsų "
+"privatumas."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid "We use cookies to deliver our services."
-msgstr ""
+msgstr "Naudojame slapukus savo paslaugoms teikti."
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid "We don’t use any third-party cookies."
-msgstr ""
+msgstr "Nenaudojame jokių trečiųjų šalių slapukų."
 
 #: wllegal/templates/legal/documents/tos.html:10
 msgid "View English version"
-msgstr ""
+msgstr "Peržiūrėti anglų k. versiją"
 
 #: wllegal/templates/legal/documents/tos.html:11
 msgid ""
 "The Terms of Service document is authoritative in English, translations are "
 "provided for your convenience."
 msgstr ""
+"Paslaugų sąlygų dokumentas yra autoritetingas anglų kalba. Vertimai "
+"pateikiami jūsų patogumui."
 
 #: wllegal/templates/legal/documents/tos.html:17
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these Terms of Service."
 msgstr ""
+"Naudotojo ir teikėjo teises ir pareigas, atsirandančias naudojantis "
+"paslauga, reglamentuoja šios paslaugų sąlygos."
 
 #: wllegal/templates/legal/documents/tos.html:20
-#, fuzzy
-#| msgid "Description"
 msgid "Definitions"
-msgstr "Aprašas"
+msgstr "Apibrėžimai"
 
 #: wllegal/templates/legal/documents/tos.html:22
 msgid "In these Terms of Service:"
-msgstr ""
+msgstr "Šiose paslaugų sąlygose:"
 
 #: wllegal/templates/legal/documents/tos.html:26
 msgid "Agreement"
-msgstr ""
+msgstr "Sutartis"
 
 #: wllegal/templates/legal/documents/tos.html:27
 msgid ""
