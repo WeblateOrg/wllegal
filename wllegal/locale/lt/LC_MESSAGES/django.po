@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2024-10-06 23:37+0000\n"
+"PO-Revision-Date: 2024-10-07 19:06+0000\n"
 "Last-Translator: Vaclovas Intas <vaclovas1999@gmail.com>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/weblate/legal/"
 "lt/>\n"
@@ -59,12 +59,12 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:17
 msgid "Personal Data processed by Weblate"
-msgstr "„Weblate“ apdorojami asmeniniai duomenys"
+msgstr "„Weblate“ apdorojami Asmeniniai duomenys"
 
 #: wllegal/templates/legal/documents/privacy.html:20
 msgid "Weblate only processes Personal Data the User provides by using it:"
 msgstr ""
-"„Weblate“ apdoroja tik tuos asmeninius duomenis, kuriuos naudotojas pateikia "
+"„Weblate“ apdoroja tik tuos Asmeninius duomenis, kuriuos Naudotojas pateikia "
 "naudodamasis ja:"
 
 #: wllegal/templates/legal/documents/privacy.html:25
@@ -77,7 +77,7 @@ msgstr "Jie naudojami jūsų tapatybei identifikuoti VCS įsipareigojimuose."
 
 #: wllegal/templates/legal/documents/privacy.html:27
 msgid "Additionally, e-mail is used for notification of watched events."
-msgstr "Papildomai apie stebimus įvykius pranešama el. laišku."
+msgstr "Papildomai apie stebimus įvykius pranešama el. paštu."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid "Password in hashed form"
@@ -85,7 +85,7 @@ msgstr "Slaptažodis maišos forma"
 
 #: wllegal/templates/legal/documents/privacy.html:30
 msgid "Used to authenticate the User, if configured"
-msgstr "Naudojamas nustatyti tapatybę naudotojui, jei sukonfigūruota"
+msgstr "Naudojamas nustatyti tapatybę Naudotojui, jei sukonfigūruota"
 
 #: wllegal/templates/legal/documents/privacy.html:31
 msgid "Passwords are stored hashed using Argon2."
@@ -120,7 +120,7 @@ msgstr "Asmeninių duomenų apdorojimo tikslas ir teisinis pagrindas"
 
 #: wllegal/templates/legal/documents/privacy.html:43
 msgid "Your Personal Data will be used for the purposes of the Service:"
-msgstr "Jūsų asmeniniai duomenys bus naudojami paslaugos tikslais:"
+msgstr "Jūsų Asmeniniai duomenys bus naudojami Paslaugos tikslais:"
 
 #: wllegal/templates/legal/documents/privacy.html:47
 #, python-format
@@ -131,7 +131,7 @@ msgid ""
 "contractual or pre-contractual obligations (<a href=\"%(url)s\">Article 6 "
 "(1) b. GDPR</a>)"
 msgstr ""
-"Teikiant mūsų paslaugas paslaugoje, siekiant susisiekti su jumis mūsų "
+"Teikiant mūsų paslaugas Paslaugoje, siekiant susisiekti su jumis mūsų "
 "paslaugų klausimais (taip pat el. laiškais ir žinutėmis) ir siekiant "
 "užtikrinti mūsų paslaugų techninį funkcionalumą, sutartinių ar ikisutartinių "
 "įsipareigojimų laikymąsi (<a href=\"%(url)s\">BDAR 6 straipsnio 1 dalies b "
@@ -159,21 +159,21 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:52
 msgid "Access to the Personal Data"
-msgstr "Prieiga prie asmeninių duomenų"
+msgstr "Prieiga prie Asmeninių duomenų"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Controller has made all reasonable technical means to protect the "
 "Personal Data. Only authorized persons can access the Personal Data."
 msgstr ""
-"Valdytojas ėmėsi visų pagrįstų techninių priemonių asmeniniams duomenims "
-"apsaugoti. Prie asmeninių duomenų gali pasiekti tik leidžiamieji asmenys."
+"Valdytojas ėmėsi visų pagrįstų techninių priemonių Asmeniniams duomenims "
+"apsaugoti. Prie Asmeninių duomenų gali pasiekti tik leidžiamieji asmenys."
 
 #: wllegal/templates/legal/documents/privacy.html:56
 msgid ""
 "Third parties which can gain access to the Personal Data when necessary are:"
 msgstr ""
-"Trečiosios šalys, kurios prireikus gali gauti prieigą prie asmeninių "
+"Trečiosios šalys, kurios prireikus gali gauti prieigą prie Asmeninių "
 "duomenų, yra:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
@@ -187,7 +187,7 @@ msgstr "Mokėjimų doroklės, kai iš mūsų perkama paslauga."
 
 #: wllegal/templates/legal/documents/privacy.html:63
 msgid "All Personal Data is stored in the European Union."
-msgstr "Visi asmeniniai duomenys saugomi Europos Sąjungoje."
+msgstr "Visi Asmeniniai duomenys saugomi Europos Sąjungoje."
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid "Disclosure of the Personal Data"
@@ -200,7 +200,7 @@ msgid ""
 "law, such as under a subpoena or other judicial or administrative order."
 msgstr ""
 "Asmeniniai duomenys gali būti atskleisti trečiosioms šalims ribotomis "
-"aplinkybėmis, kai valdytojas sąžiningai tiki, kad to reikalaujama pagal "
+"aplinkybėmis, kai Valdytojas sąžiningai tiki, kad to reikalaujama pagal "
 "įstatymą, pavyzdžiui, pagal teismo šaukimą arba kitą teisminį ar "
 "administracinį nurodymą."
 
@@ -213,12 +213,12 @@ msgid ""
 "If the User does not challenge the disclosure request, the Controller may be "
 "legally required to turn over the Personal Data."
 msgstr ""
-"Jei valdytojas pagal įstatymą privalo atskleisti asmeninius duomenis, bus "
-"stengiamasi iš anksto el. laišku pranešti naudotojui (nebent valdytojui tai "
+"Jei Valdytojas pagal įstatymą privalo atskleisti Asmeninius duomenis, bus "
+"stengiamasi iš anksto el. laišku pranešti Naudotojui (nebent Valdytojui tai "
 "būtų uždrausta arba būtų nenaudinga), kad buvo pateiktas prašymas dėl "
-"asmeninių duomenų atskleidimo, kad naudotojas galėtų nesutikti su "
-"atskleidimu. Jei naudotojas neginčija prašymo atskleisti duomenis, "
-"valdytojas gali būti teisiškai įpareigotas perduoti asmeninius duomenis."
+"Asmeninių duomenų atskleidimo, kad Naudotojas galėtų nesutikti su "
+"atskleidimu. Jei Naudotojas neginčija prašymo atskleisti duomenis, "
+"Valdytojas gali būti teisiškai įpareigotas perduoti Asmeninius duomenis."
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "The Personal Data retention"
@@ -229,7 +229,7 @@ msgid ""
 "The Personal Data is stored in the Service until the User deletes their "
 "account on the service."
 msgstr ""
-"Asmeniniai duomenys saugomi paslaugoje tol, kol naudotojas ištrina savo "
+"Asmeniniai duomenys saugomi Paslaugoje tol, kol Naudotojas ištrina savo "
 "paskyrą paslaugoje."
 
 #: wllegal/templates/legal/documents/privacy.html:75
@@ -249,15 +249,15 @@ msgid ""
 "The User provides use of Personal Data voluntarily. Without this Personal "
 "Data Weblate is not able to provide our services."
 msgstr ""
-"Naudotojas savanoriškai pateikia naudoti asmeninius duomenis. Be šių "
-"asmeninių duomenų „Weblate“ negali teikti savo paslaugų."
+"Naudotojas savanoriškai pateikia naudoti Asmeninius duomenis. Be šių "
+"Asmeninių duomenų „Weblate“ negali teikti savo paslaugų."
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid ""
 "We want you to always be in control of your Personal Data. To this end, you "
 "have certain rights that allow for it. Under certain conditions, you may:"
 msgstr ""
-"Norime, kad visada valdytumėte savo asmeninius duomenis. Todėl turite tam "
+"Norime, kad visada valdytumėte savo Asmeninius duomenis. Todėl turite tam "
 "tikras teises, kurios leidžia tai padaryti. Tam tikromis sąlygomis galite:"
 
 #: wllegal/templates/legal/documents/privacy.html:85
@@ -266,7 +266,7 @@ msgid ""
 "Gain access to all your Personal Data that Weblate uses or processes, and "
 "even get a copy of all of it (<a href=\"%(url)s\">Article 15 GDPR</a>)"
 msgstr ""
-"gauti prieigą prie visų savo asmeninių duomenų, kuriuos „Weblate“ naudoja ar "
+"gauti prieigą prie visų savo Asmeninių duomenų, kuriuos „Weblate“ naudoja ar "
 "apdoroja, ir net gauti jų kopiją (<a href=\"%(url)s\">BDAR 15 "
 "straipsnis</a>);"
 
@@ -275,16 +275,16 @@ msgid ""
 "Correct the Personal Data that Weblate processes if you think that there are "
 "mistakes"
 msgstr ""
-"ištaisyti „Weblate“ apdorojamus asmeninius duomenis, jei manote, kad juose "
+"ištaisyti „Weblate“ apdorojamus Asmeninius duomenis, jei manote, kad juose "
 "yra klaidų;"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Order us to delete your Personal Data"
-msgstr "nurodyti mums ištrinti jūsų asmeninius duomenis;"
+msgstr "nurodyti mums ištrinti jūsų Asmeninius duomenis;"
 
 #: wllegal/templates/legal/documents/privacy.html:88
 msgid "Restrict the Personal Data processing"
-msgstr "apriboti asmeninių duomenų apdorojimą;"
+msgstr "apriboti Asmeninių duomenų apdorojimą;"
 
 #: wllegal/templates/legal/documents/privacy.html:89
 msgid "Object to processing"
@@ -295,15 +295,15 @@ msgid ""
 "Receive your Personal Data in a commonly used and machine-readable format or "
 "to transmit this Personal Data to a different provider."
 msgstr ""
-"gauti savo asmeninius duomenis įprastai naudojamu ir kompiuterio skaitomu "
-"formatu arba perduoti šiuos asmeninius duomenis kitam teikėjui."
+"gauti savo Asmeninius duomenis įprastai naudojamu ir kompiuterio skaitomu "
+"formatu arba perduoti šiuos Asmeninius duomenis kitam teikėjui."
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid ""
 "The removal, correction, and retrieval of your Personal Data can be done "
 "from the account management, and is fully automated."
 msgstr ""
-"Pašalinti, ištaisyti ir gauti savo asmeninius duomenis galima iš paskyros "
+"Pašalinti, ištaisyti ir gauti savo Asmeninius duomenis galima iš paskyros "
 "tvarkymo ir tai yra visiškai automatizuota."
 
 #: wllegal/templates/legal/documents/summary.html:4
@@ -311,7 +311,7 @@ msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"Apdorojame asmeninius duomenis (pavyzdžiui, jūsų el. pašto adresą). Jie bus "
+"Apdorojame Asmeninius duomenis (pavyzdžiui, jūsų el. pašto adresą). Jie bus "
 "pašalinti iš mūsų duomenų bazės, jei pašalinsite savo paskyrą."
 
 #: wllegal/templates/legal/documents/summary.html:5
@@ -364,8 +364,8 @@ msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these Terms of Service."
 msgstr ""
-"Naudotojo ir teikėjo teises ir pareigas, atsirandančias naudojantis "
-"paslauga, reglamentuoja šios paslaugų sąlygos."
+"Naudotojo ir Teikėjo teises ir pareigas, atsirandančias naudojantis "
+"Paslauga, reglamentuoja šios Paslaugų sąlygos."
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid "Definitions"
@@ -373,7 +373,7 @@ msgstr "Apibrėžimai"
 
 #: wllegal/templates/legal/documents/tos.html:22
 msgid "In these Terms of Service:"
-msgstr "Šiose paslaugų sąlygose:"
+msgstr "Šiose Paslaugų sąlygose:"
 
 #: wllegal/templates/legal/documents/tos.html:26
 msgid "Agreement"
@@ -385,25 +385,30 @@ msgid ""
 "Civil Code concluded by and between the User and the Provider upon the "
 "Consent"
 msgstr ""
+"reiškia Licencijos sutartį, kaip apibrėžta Civilinio kodekso 2358 ir "
+"tolesniuose straipsniuose, sudarytą tarp Naudotojo ir Teikėjo gavus sutikimą"
 
 #: wllegal/templates/legal/documents/tos.html:29
 msgid "Civil Code"
-msgstr ""
+msgstr "Civilinis kodeksas"
 
 #: wllegal/templates/legal/documents/tos.html:30
 #, python-format
 msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgstr ""
+"reiškia Civilinio kodekso Įstatymą nr. %(law_89_2012)s Kolek., su pakeitimais"
 
 #: wllegal/templates/legal/documents/tos.html:32
 msgid "Consent"
-msgstr ""
+msgstr "Sutikimas"
 
 #: wllegal/templates/legal/documents/tos.html:33
 msgid ""
 "means the User’s consent with these Terms of Service and other legal "
 "documents expressed by checking the checkbox during the registration"
 msgstr ""
+"reiškia Naudotojo sutikimą su šiomis Paslaugų sąlygomis ir kitais teisiniais "
+"dokumentais, išreikštą pažymint žymimąjį langelį registracijos metu"
 
 #: wllegal/templates/legal/documents/tos.html:35
 #: wllegal/templates/legal/documents/tos.html:116
@@ -416,10 +421,13 @@ msgid ""
 "computer or other device connected to the Internet, which enable obtaining "
 "unique identification of the User’s web browser"
 msgstr ""
+"reiškia bet kokią duomenų failą, kurį Paslaugos interneto serveris siunčia į "
+"Naudotojo kompiuterį ar kitą prie interneto prijungtą įrenginį ir kuris "
+"leidžia gauti unikalų Naudotojo interneto naršyklės identifikavimą"
 
 #: wllegal/templates/legal/documents/tos.html:39
 msgid "GDPR"
-msgstr ""
+msgstr "BDAR"
 
 #: wllegal/templates/legal/documents/tos.html:40
 #, python-format
@@ -427,6 +435,8 @@ msgid ""
 "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
 "Regulation"
 msgstr ""
+"reiškia ES reglamentą nr. %(law_679_2016)s, Bendrasis duomenų apsaugos "
+"reglamentas"
 
 #: wllegal/templates/legal/documents/tos.html:42
 msgid "License"
@@ -437,22 +447,22 @@ msgid ""
 "means non-exclusive license granted by the Provider to the User for use of "
 "the Service"
 msgstr ""
+"reiškia neišskirtinę licenciją, kurią Teikėjas suteikia Naudotojui naudotis "
+"Paslauga"
 
 #: wllegal/templates/legal/documents/tos.html:45
 msgid "Provider"
-msgstr ""
+msgstr "Teikėjas"
 
 #: wllegal/templates/legal/documents/tos.html:46
 #, python-format
 msgid "means %(provider)s, Reg. No. %(reg_no)s"
-msgstr ""
+msgstr "reiškia %(provider)s, Reg. nr. %(reg_no)s"
 
 #: wllegal/templates/legal/documents/tos.html:48
 #: wllegal/templates/legal/documents/tos.html:98
-#, fuzzy
-#| msgid "Personal info"
 msgid "Personal Data"
-msgstr "Asmeninė informacija"
+msgstr "Asmeniniai duomenys"
 
 #: wllegal/templates/legal/documents/tos.html:49
 #, python-format
@@ -460,14 +470,16 @@ msgid ""
 "means personal data within the meaning of EU Regulation No. %(law_679_2016)s "
 "inserted by the User into the Service and/or Cookies"
 msgstr ""
+"reiškia asmeninius duomenis, kaip apibrėžta ES Reglamente nr. %(law_679_2016)"
+"s, kuriuos Naudotojas įterpia į Paslaugą ir (arba) slapukus"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Owner"
-msgstr ""
+msgstr "Savininkas"
 
 #: wllegal/templates/legal/documents/tos.html:52
 msgid "means the User who can manage Project"
-msgstr ""
+msgstr "reiškia Naudotoją, kuris gali tvarkyti Projektą"
 
 #: wllegal/templates/legal/documents/tos.html:54
 msgid "Project"
@@ -475,7 +487,7 @@ msgstr "Projektas"
 
 #: wllegal/templates/legal/documents/tos.html:55
 msgid "means translation project operated on the Service"
-msgstr ""
+msgstr "reiškia Paslaugoje vykdomą vertimo projektą"
 
 #: wllegal/templates/legal/documents/tos.html:57
 msgid "Service"
@@ -485,20 +497,19 @@ msgstr "Paslauga"
 msgid ""
 "means the website and services based on Weblate operated by the Provider"
 msgstr ""
+"reiškia interneto svetainę ir „Weblate“ paslaugas, kurias valdo Teikėjas"
 
 #: wllegal/templates/legal/documents/tos.html:60
-#, fuzzy
-#| msgid "Translation status"
 msgid "Translation Memory"
-msgstr "Vertimų būsena"
+msgstr "Vertimo atmintis"
 
 #: wllegal/templates/legal/documents/tos.html:61
 msgid "means the optional translation memory service provided within Weblate"
-msgstr ""
+msgstr "reiškia pasirinktinę vertimo atminties paslaugą, teikiamą per „Weblate“"
 
 #: wllegal/templates/legal/documents/tos.html:63
 msgid "User"
-msgstr "Naudotojas/Vartotojas"
+msgstr "Naudotojas"
 
 #: wllegal/templates/legal/documents/tos.html:64
 msgid ""
