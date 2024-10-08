@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2023-05-17 14:12+0000\n"
-"PO-Revision-Date: 2024-10-07 19:06+0000\n"
+"PO-Revision-Date: 2024-10-09 15:15+0000\n"
 "Last-Translator: Vaclovas Intas <vaclovas1999@gmail.com>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/weblate/legal/"
 "lt/>\n"
@@ -516,37 +516,43 @@ msgid ""
 "means any legal entity or an individual other than the Provider, who is "
 "using the Service"
 msgstr ""
+"reiškia bet kurį juridinį ar fizinį asmenį, išskyrus Teikėją, kuris "
+"naudojasi Paslauga"
 
 #: wllegal/templates/legal/documents/tos.html:66
 msgctxt "Definition in terms of service"
 msgid "VCS"
-msgstr ""
+msgstr "VCS"
 
 #: wllegal/templates/legal/documents/tos.html:67
 msgid ""
 "means distributed version control system used by the Project such as Git or "
 "Mercurial"
 msgstr ""
+"reiškia platinamą versijų valdymo sistemą, naudojamą pagal Projektą, "
+"pavyzdžiui, „Git“ arba „Mercurial“"
 
 #: wllegal/templates/legal/documents/tos.html:71
 msgid "License Agreement Conclusion"
-msgstr ""
+msgstr "Licencijos sutarties sudarymas"
 
 #: wllegal/templates/legal/documents/tos.html:73
 msgid ""
 "The License Agreement is concluded upon the User’s Acceptance of the "
 "Provider’s Offer."
-msgstr ""
+msgstr "Licencijos sutartis sudaroma Naudotojui priėmus Teikėjo pasiūlymą."
 
 #: wllegal/templates/legal/documents/tos.html:76
 msgid "License Agreement"
-msgstr ""
+msgstr "Licencijos sutartis"
 
 #: wllegal/templates/legal/documents/tos.html:78
 msgid ""
 "By concluding Agreement under Article 2.1 of this Agreement, the following "
 "provisions of this Article 3 of the Terms of Service come into force."
 msgstr ""
+"Sudarius Sutartį pagal šios Sutarties 2.1 straipsnį, įsigalioja šios "
+"Paslaugų sąlygų 3 straipsnio nuostatos."
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid ""
@@ -554,12 +560,17 @@ msgid ""
 "this License Agreement, all this under the terms and conditions stated in "
 "these Terms of Service."
 msgstr ""
+"Teikėjas pateikia Naudotojui Licencijos sutartį, o Naudotojas sutinka su šia "
+"Licencijos sutartimi, ir visa tai daroma šiose Paslaugų sąlygose "
+"nustatytomis sąlygomis."
 
 #: wllegal/templates/legal/documents/tos.html:82
 msgid ""
 "The Provider shall have the right to shut down, adjust, modify or make the "
 "Service unavailable on the web address at any time."
 msgstr ""
+"Teikėjas turi teisę bet kuriuo metu išjungti, koreguoti, keisti arba "
+"padaryti Paslaugą neprieinamą interneto adresu."
 
 #: wllegal/templates/legal/documents/tos.html:84
 msgid ""
@@ -567,28 +578,37 @@ msgid ""
 "technical software and/or hardware means of the Provider and/or such means "
 "in the Provider’s use."
 msgstr ""
+"Naudotojas sutinka naudotis Paslauga tik taip, kad nekeltų pavojaus Teikėjo "
+"techninėms programinėms ir (arba) techninėms priemonėms ir (arba) tokioms "
+"Teikėjo naudojamoms priemonėms."
 
 #: wllegal/templates/legal/documents/tos.html:86
 msgid ""
 "The User agrees to refrain from use of the Service in bad faith and/or "
 "deliberately causing any damage to the Service."
 msgstr ""
+"Naudotojas sutinka nesinaudoti Paslauga nesąžiningai ir (arba) sąmoningai "
+"nedaryti žalos Paslaugai."
 
 #: wllegal/templates/legal/documents/tos.html:88
 msgid ""
 "The User agrees to refrain from bypassing the Service’s software and/or "
 "technical hardware means, in particular the security systems."
 msgstr ""
+"Naudotojas sutinka neapeiti Paslaugos programinės ir (arba) techninės "
+"įrangos priemonių, ypač apsaugos sistemų."
 
 #: wllegal/templates/legal/documents/tos.html:91
 msgid "Liability for Damage"
-msgstr ""
+msgstr "Atsakomybė už žalą"
 
 #: wllegal/templates/legal/documents/tos.html:93
 msgid ""
 "The User hereby renders it undisputed that the Provider shall not be liable "
 "for any damage caused to the User resulting from the use of the Service."
 msgstr ""
+"Naudotojas neginčijamai pareiškia, kad Teikėjas neatsako už bet kokią žalą, "
+"padarytą Naudotojui naudojantis Paslauga."
 
 #: wllegal/templates/legal/documents/tos.html:95
 msgid ""
