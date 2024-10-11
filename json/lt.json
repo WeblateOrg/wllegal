@@ -1,11 +1,11 @@
 {
-  "f0a04eec920f8be1": "Atliekama techninė priežiūra",
-  "f3e2fd9f17199fd9": "Per greitai pateikei daug prašymų. Prašome pabandyti dar kartą vėliau.",
-  "580c807df3faaff0": "Weblate serverio techninė priežiūra",
+  "f0a04eec920f8be1": "Vykdoma techninė priežiūra",
+  "f3e2fd9f17199fd9": "Per greitai pateikėte per daug užklausų. Bandykite dar kartą vėliau.",
+  "580c807df3faaff0": "„Weblate“ serverio techninė priežiūra",
   "855aad6254dbc154": "Ši svetainė šiuo metu neveikia dėl techninės priežiūros.",
   "700639553f6a669b": "Sąlygos ir privatumas",
   "20deef135140c70": "Licencijuota GNU GPLv3+",
-  "f1755fb51ebbc26a": "Paslaugos būsena",
-  "cefd423328bbabae": "Greičio limitas",
-  "404c9a7eb09bf5cf": "Weblate greičio limitas"
+  "f1755fb51ebbc26a": "Paslaugos statusas",
+  "cefd423328bbabae": "Spartos riba",
+  "404c9a7eb09bf5cf": "„Weblate“ spartos riba"
 }
