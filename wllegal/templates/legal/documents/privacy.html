@@ -1,6 +1,15 @@
 {% load i18n %}
 {% load lawlinks %}
 
+{% if not hide_english and LANGUAGE_CODE != 'en' %}
+<div class="alert alert-info" role="alert">
+<a href="https://weblate.org/en/privacy/" class="pull-right flip float-right btn btn-primary">{% trans "View English version" %}</a>
+{% trans "The Privacy Policy document is authoritative in English, translations are provided for your convenience." %}
+<div class="clearfix"></div>
+</div>
+{% endif %}
+
+
 {% law_link 679 2016 "EU" as law_679_2016 %}
 <p>
 {% blocktrans %}We comply with the Regulation No. {{ law_679_2016 }}, the General Data Protection Regulation, also known as GDPR. This document includes necessary specifications.{% endblocktrans %}
