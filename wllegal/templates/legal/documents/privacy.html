@@ -3,9 +3,8 @@
 
 {% if not hide_english and LANGUAGE_CODE != 'en' %}
 <div class="alert alert-info" role="alert">
-<a href="https://weblate.org/en/privacy/" class="pull-right flip float-right btn btn-primary">{% trans "View English version" %}</a>
-{% trans "The Privacy Policy document is authoritative in English, translations are provided for your convenience." %}
-<div class="clearfix"></div>
+{% trans "The Privacy Policy document is legally-binding in English, translations are provided for your convenience." %}
+<a href="https://weblate.org/en/privacy/">{% trans "View English version" %}</a>
 </div>
 {% endif %}
 
