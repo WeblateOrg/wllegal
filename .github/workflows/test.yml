@@ -38,6 +38,8 @@ jobs:
         sudo apt install libcairo-dev gir1.2-pango-1.0 libgirepository1.0-dev libacl1-dev gettext liblz4-dev libzstd-dev libxxhash-dev gir1.2-rsvg-2.0
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v5
+      with:
+        python-version: ${{ matrix.python-version }}
     - uses: astral-sh/setup-uv@v3
       with:
         enable-cache: true
