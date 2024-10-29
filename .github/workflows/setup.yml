@@ -16,21 +16,11 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: '3.12'
-        cache: pip
-        cache-dependency-path: requirements*.txt
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip wheel setuptools
-        pip install -r requirements-setup.txt
-    - name: build sdist
-      run: python ./setup.py sdist
-    - name: build wheel
-      run: python ./setup.py bdist_wheel
+    - uses: astral-sh/setup-uv@v3
+    - name: build
+      run: uv build
     - name: twine
-      run: twine check dist/*
+      run: uvx twine check dist/*
     - name: Publish package
       if: github.event_name == 'push' && startsWith(github.event.ref, 'refs/tags')
-      uses: pypa/gh-action-pypi-publish@v1.10.3
-      with:
-        user: __token__
-        password: ${{ secrets.pypi_password }}
+      run: uv publish --trusted-publishing always
