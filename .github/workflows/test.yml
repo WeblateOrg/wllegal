@@ -38,16 +38,14 @@ jobs:
         sudo apt install libcairo-dev gir1.2-pango-1.0 libgirepository1.0-dev libacl1-dev gettext liblz4-dev libzstd-dev libxxhash-dev gir1.2-rsvg-2.0
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v5
+    - uses: astral-sh/setup-uv@v3
       with:
-        python-version: ${{ matrix.python-version }}
-        cache: pip
-        cache-dependency-path: requirements*.txt
+        enable-cache: true
+        cache-dependency-glob: ''
+        cache-suffix: ${{ matrix.python-version }}
     - name: Install pip dependencies
       run: |
-        pip install --upgrade pip wheel Cython setuptools
-        pip install --no-binary :all: cffi
-        pip install https://github.com/nijel/thepay/archive/weblate.zip
-        pip install -r requirements-test.txt
+        uv pip install --system https://github.com/nijel/thepay/archive/weblate.zip -r requirements-test.txt
     - name: Test with Django
       env:
         CI_DATABASE: postgresql
