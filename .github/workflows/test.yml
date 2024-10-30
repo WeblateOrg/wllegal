@@ -47,7 +47,7 @@ jobs:
         cache-suffix: ${{ matrix.python-version }}
     - name: Install pip dependencies
       run: |
-        uv pip install --system https://github.com/nijel/thepay/archive/weblate.zip -r requirements-test.txt
+        uv pip install --system https://github.com/nijel/thepay/archive/weblate.zip .[test]
     - name: Test with Django
       env:
         CI_DATABASE: postgresql
