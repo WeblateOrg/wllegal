@@ -1,8 +1,6 @@
 include LICENSE
-include README.md
+include *.md
 include manage.py
-include requirements-optional.txt
-include requirements.txt
 recursive-include wllegal *.py
 recursive-include wllegal/templates *.html *.txt
 recursive-include wllegal/locale *.pot
