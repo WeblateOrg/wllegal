@@ -58,6 +58,11 @@ repos:
   rev: v0.42.0
   hooks:
   - id: markdownlint
+- repo: https://github.com/djlint/djLint
+  rev: v1.35.3
+  hooks:
+  - id: djlint-reformat-django
+  - id: djlint-django
 - repo: https://github.com/fsfe/reuse-tool
   rev: v4.0.3
   hooks:

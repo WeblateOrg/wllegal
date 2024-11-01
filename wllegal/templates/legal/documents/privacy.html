@@ -1,143 +1,293 @@
 {% load i18n %}
 
 {% if not hide_english and LANGUAGE_CODE != 'en' %}
-<div class="alert alert-info" role="alert">
-{% trans "The Privacy Policy document is legally-binding in English, translations are provided for your convenience." %}
-<a href="https://weblate.org/en/privacy/">{% trans "View English version" %}</a>
-</div>
+  <div class="alert alert-info" role="alert">
+    {% trans "The Privacy Policy document is legally-binding in English, translations are provided for your convenience." %}
+    <a href="https://weblate.org/en/privacy/">{% trans "View English version" %}</a>
+  </div>
 {% endif %}
 
 
-<p>{% blocktranslate %}This Privacy Policy, hereinafter referred to as "<strong>Policy</strong>", supplement the General Terms and Conditions of Weblate, hereinafter referred to as "<strong>Terms</strong>".{% endblocktranslate %}</p>
+<p>
+  {% blocktranslate %}This Privacy Policy, hereinafter referred to as "<strong>Policy</strong>", supplement the General Terms and Conditions of Weblate, hereinafter referred to as "<strong>Terms</strong>".{% endblocktranslate %}
+</p>
 
 
-<h2>{% blocktranslate %}Introductory Provisions{% endblocktranslate %}</h2>
+<h2>
+  {% blocktranslate %}Introductory Provisions{% endblocktranslate %}
+</h2>
 
-<p class="item">{% blocktranslate %}This Policy has been issued by Weblate s.r.o., ID No.: 21668027, with registered office at Nábřežní 694, Cvikov II, 471 54 Cvikov, registered in the Commercial Register kept by the Regional Court in Ústí nad Labem, file No. C 52324, i.e. the "<strong>Provider</strong>".{% endblocktranslate %}</p>
+<p class="item">
+  {% blocktranslate %}This Policy has been issued by Weblate s.r.o., ID No.: 21668027, with registered office at Nábřežní 694, Cvikov II, 471 54 Cvikov, registered in the Commercial Register kept by the Regional Court in Ústí nad Labem, file No. C 52324, i.e. the "<strong>Provider</strong>".{% endblocktranslate %}
+</p>
 
-<p class="item">{% blocktranslate %}This Policy describes how the Provider handles the personal data of Users as data subjects - private individuals when accessing and subsequently using the Services, Products, Support Services, as well as when using the Website and other possible services and related activities.{% endblocktranslate %}</p>
+<p class="item">
+  {% blocktranslate %}This Policy describes how the Provider handles the personal data of Users as data subjects - private individuals when accessing and subsequently using the Services, Products, Support Services, as well as when using the Website and other possible services and related activities.{% endblocktranslate %}
+</p>
 
-<p class="item">{% blocktranslate %}This Policy also uses certain terms or definitions which have been defined in Article 1 of the Terms and which have the same meaning as set out in the Terms.{% endblocktranslate %}</p>
+<p class="item">
+  {% blocktranslate %}This Policy also uses certain terms or definitions which have been defined in Article 1 of the Terms and which have the same meaning as set out in the Terms.{% endblocktranslate %}
+</p>
 
-<p class="item">{% blocktranslate %}In processing personal data, the Provider complies with Regulation (EU) 2016/679 of the European Parliament and of the Council, the General Data Protection Regulation, also known as the GDPR (we will hereinafter use the abbreviation "<strong>GDPR</strong>"), Act No. 110/2019 Coll., on the processing of personal data, as well as Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (abbreviated as the "<strong>ePrivacy Directive</strong>").{% endblocktranslate %}</p>
+<p class="item">
+  {% blocktranslate %}In processing personal data, the Provider complies with Regulation (EU) 2016/679 of the European Parliament and of the Council, the General Data Protection Regulation, also known as the GDPR (we will hereinafter use the abbreviation "<strong>GDPR</strong>"), Act No. 110/2019 Coll., on the processing of personal data, as well as Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (abbreviated as the "<strong>ePrivacy Directive</strong>").{% endblocktranslate %}
+</p>
 
-<p class="item">{% blocktranslate %}The actual processing of Users' personal data is always carried out only for the purposes and under the conditions defined in more detail in this Policy and begins at the moment when the User visits the Website, when the User registers for the Provider's newsletter and/or when the Provider and the User conclude the Contract, whichever is the earliest.{% endblocktranslate %}</p>
+<p class="item">
+  {% blocktranslate %}The actual processing of Users' personal data is always carried out only for the purposes and under the conditions defined in more detail in this Policy and begins at the moment when the User visits the Website, when the User registers for the Provider's newsletter and/or when the Provider and the User conclude the Contract, whichever is the earliest.{% endblocktranslate %}
+</p>
 
-<p class="item">{% blocktranslate %}The processing is then carried out either directly by the Provider and/or by third parties within the meaning of Article 3 of this Policy who have been authorised by the Provider to process personal data in accordance with this Policy.{% endblocktranslate %}</p>
+<p class="item">
+  {% blocktranslate %}The processing is then carried out either directly by the Provider and/or by third parties within the meaning of Article 3 of this Policy who have been authorised by the Provider to process personal data in accordance with this Policy.{% endblocktranslate %}
+</p>
 
-<p class="item">{% blocktranslate %}Unless expressly stated otherwise in this Policy, the Provider acts as a <strong>data controller</strong> and Users who are natural persons act as data subjects as these roles are defined in the GDPR.{% endblocktranslate %}</p>
-
-
-<h2>{% blocktranslate %}Scope, Purposes, and Duration of Processing{% endblocktranslate %}</h2>
-
-<p class="item">{% blocktranslate %}The Provider processes the User's personal data for the following purposes:{% endblocktranslate %}</p>
-
-<ol>
-  <li>{% blocktranslate %}fulfilling the Contract under Article 6(1)(b) of the GDPR,{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}negotiating the Contract under Article 6(1)(b) of the GDPR,{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}fulfilling the Provider's legal obligations under Article 6(1)(c) of the GDPR,{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, and in selected cases also{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}consent granted by the User under Article 6(1)(a) of the GDPR.{% endblocktranslate %}</li>
-</ol>
-
-<p class="item">{% blocktranslate %}The scope of the User's personal data processed by the Provider includes the following:{% endblocktranslate %}</p>
-
-<ol>
-  <li>{% blocktranslate %}first and last name,{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}User's address (delivery and billing),{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}Company ID and Tax ID,{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}nickname(s) (including any voluntarily linked platforms such as Liberapay, GitHub, Xu, and others),{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}User's avatar,{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}email address(es),{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}identifiers for Bitbucket, Facebook, Google, LinkedIn, GitHub, GitLab, openSUSE, and Ubuntu in the event that accounts with these providers are linked to the User account,{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}specifications of the Service and Product used by the User,{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}information about the number of team members of the User and their roles,{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}all other user settings of the User account (including the so-called Profile), i.e., settings for languages, notifications, if they can identify the User directly or indirectly,{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}bank account number and possibly other payment details of the User,{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}cryptocurrency wallet address or addresses,{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}other personal data contained in messages sent by the User to the Provider (especially the subject and other content of the message),{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}other personal data contained in communications with the Provider's support,{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}system data, logs, and session logs including the User's IP address,{% endblocktranslate %}</li>
-</ol>
-
-<p>{% blocktranslate %}where the individual categories of personal data listed above will continue to be collectively referred to as "<strong>Personal Data</strong>".{% endblocktranslate %}</p>
-
-<p class="item">{% blocktranslate %}In certain cases, the Provider <strong>may also be a processor of personal data</strong>, namely when personal data of third parties is provided to it by the User for their own purposes (e.g., in the case of adding individual team members, donating a project to the Provider on behalf of another person, etc.). The processing of selected Personal Data of third parties made accessible by the User occurs in this case at the User's direction, under the conditions and based on a separate data processing agreement (so-called processing agreement) concluded between the Provider and the User.{% endblocktranslate %}</p>
-
-<p class="item">{% blocktranslate %}The Provider processes Personal Data until all obligations arising from the Contract are fulfilled. At the moment of account closure by the Provider and/or account cancellation by the User, all Personal Data and other data entered into the Service will be deleted, except for selected Personal Data mentioned below; the Provider therefore <strong>strongly recommends backing up</strong> all data entered into the Service before cancelling the User account and is not responsible for their loss after the User account is closed, even if it is rightfully closed by the Provider. Personal Data indicated on invoices is retained by the Provider for at least the statutory retention periods arising from the law, i.e., for a period of 10 years. In cases where it is necessary for the defence of the Provider's claims and/or for defence against claims from third parties (including any proceedings initiated by public authorities), the Provider may also retain some other Personal Data, but always for a maximum period equal to the limitation period for individual claims and/or until the final conclusion of selected proceedings. The specific duration cannot be precisely defined and varies according to the type of claim, their limitation periods, and the pace of selected courts or public authorities. Data that the Provider processes only as a processor of the User's data is processed for the period specified by the User's instructions unless the Provider has another legal basis for processing personal data as a controller under Article 2.1 of this Policy.{% endblocktranslate %}</p>
-
-<p class="item">{% blocktranslate with address="privacy@weblate.org" %}The Provider may also process selected Personal Data of the User, particularly email, first name, last name, and any other personal data (if provided for these purposes) based on the <strong>voluntary and informed</strong> consent of the User. Processing occurs for a period of <strong>2 years</strong> and/or until the consent is revoked. The use of the Service or Product (including Support Services) is <strong>never</strong> conditioned on the provision of consent. Consent is, however, typically required for sending newsletters to data subjects who are not yet Users, or for providing selected bonuses or bonus materials not linked to other services of the Provider and/or for the disclosure of the User's Personal Data in connection with a donation made to the Provider. Revocation can be made at any time directly in the User account interface and, in the case of consent granted otherwise, by sending a request to <a href="mailto:{{ address }}">{{ address }}</a>.{% endblocktranslate %}</p>
-
-<p class="item">{% blocktranslate %}Once the reason for processing Personal Data has passed, the Provider will destroy the Personal Data. This does not exclude the further processing of selected Personal Data based on a different legal reason if this legal reason in favour of the Provider continues to exist.{% endblocktranslate %}</p>
+<p class="item">
+  {% blocktranslate %}Unless expressly stated otherwise in this Policy, the Provider acts as a <strong>data controller</strong> and Users who are natural persons act as data subjects as these roles are defined in the GDPR.{% endblocktranslate %}
+</p>
 
 
-<h2>{% blocktranslate %}Recipients and Processors of Personal Data{% endblocktranslate %}</h2>
+<h2>
+  {% blocktranslate %}Scope, Purposes, and Duration of Processing{% endblocktranslate %}
+</h2>
 
-<p class="item">{% blocktranslate %}In addition to the Provider, selected third parties also receive and process personal data based on this Policy, whose involvement is necessary for the proper processing of Personal Data for the purposes defined in Article 2.1 of this Policy, specifically:{% endblocktranslate %}</p>
+<p class="item">
+  {% blocktranslate %}The Provider processes the User's personal data for the following purposes:{% endblocktranslate %}
+</p>
 
 <ol>
-  <li>{% blocktranslate %}hosting provider (including web hosting and mail hosting services), currently this is <strong>Hetzner Online GmbH</strong>;{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}operators of the payment gateway <strong>ThePay.cz, s.r.o.</strong> and possibly operators of other services used in connection with the payment of any payments related to billing;{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}accounting, legal, and tax advisors of the Provider and possibly other persons bound by confidentiality under the law;{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}C-level and other managerial employees employed by or otherwise collaborating with the Provider;{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}selected contractors of the Provider who are involved in providing services to Users and who are also bound by confidentiality;{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}any other persons whose involvement is necessary for the proper provision of the Service, Products, Support Services, and/or to ensure any other activities related to the above;{% endblocktranslate %}</li>
+  <li>
+    {% blocktranslate %}fulfilling the Contract under Article 6(1)(b) of the GDPR,{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}negotiating the Contract under Article 6(1)(b) of the GDPR,{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}fulfilling the Provider's legal obligations under Article 6(1)(c) of the GDPR,{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, and in selected cases also{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}consent granted by the User under Article 6(1)(a) of the GDPR.{% endblocktranslate %}
+  </li>
 </ol>
 
-<p>{% blocktranslate %}the persons mentioned in this Article 3.1 are collectively referred to in this Policy as "<strong>Processors</strong>".{% endblocktranslate %}</p>
-
-<p class="item">{% blocktranslate %}The User agrees that the Provider may transfer personal data to the Processors if this is necessary to fulfil the above purposes of data processing. The Processors that the Provider engages for processing personal data must meet high standards of protection and will always handle the data within the limits of the GDPR and this Policy.{% endblocktranslate %}</p>
-
-<p class="item">{% blocktranslate %}The processing of Personal Data by selected Processors may be governed by their own service provision conditions.{% endblocktranslate %}</p>
-
-<p class="item">{% blocktranslate %}Personal Data may also be transferred if the Provider is obliged to do so by law, as a result of a decision by a public authority, or in other cases where the transfer must occur in compliance with the obligations of the Provider arising from generally binding regulations.{% endblocktranslate %}</p>
-
-
-<h2>{% blocktranslate %}Common Provisions on Processing{% endblocktranslate %}</h2>
-
-<p class="item">{% blocktranslate %}The Provider will always make every effort to prevent unauthorized processing of personal data by other persons; however, it is not liable to the User or other data subjects for any damages caused by unauthorized processing of personal data by any third party, even if those third parties are Processors.{% endblocktranslate %}</p>
-
-<p class="item">{% blocktranslate %}Emails sent to Users in connection with the provision of the Service, Product, and/or Support Services are not considered unsolicited commercial communications under Act No. 40/1995 Coll. on Advertising and Act No. 480/2004 Coll. on Certain Information Society Services, if they directly relate to these Services, Products, and/or Support Services.{% endblocktranslate %}</p>
-
-<p class="item">{% blocktranslate %}The User may, however, explicitly and <strong>voluntarily consent</strong>, within the meaning of Section 7(2) of Act No. 480/2004 Coll. on Certain Information Society Services and amending certain acts, to receive broader commercial communications (e.g., in the case of indirect marketing) from the Provider at the User's electronic address. This consent can, of course, be revoked at any time by clicking on the link found in the footer of such commercial communication.{% endblocktranslate %}</p>
-
-<p class="item">{% blocktranslate %}In the event that the Provider and/or Processors learn of a security risk related to Personal Data that affects the User, they will notify the User of this fact without undue delay.{% endblocktranslate %}</p>
-
-<p class="item">{% blocktranslate %}The Provider will provide the User with assistance and legal help in seeking compensation from responsible Processors in the event of a data breach or other incident leading to loss. However, the Provider is not responsible for the improper actions of the Processors.{% endblocktranslate %}</p>
-
-<p class="item">{% blocktranslate %}The User hereby confirms that the provided Personal Data is true, accurate, and relates solely to the User, or that they have provided data the use of which does not violate the rights of third parties. The User is obliged to always inform the Provider of any changes to their Personal Data so that only current and complete data is processed. The same obligations apply to the User in the case where they provide the Provider with Personal Data of data subjects other than this User.{% endblocktranslate %}</p>
-
-<p class="item">{% blocktranslate %}Personal Data will be processed electronically, including the use of automated processing methods. However, the User or other data subjects will never be subject to individual automated decision-making (including profiling) within the meaning of Article 22 of the GDPR.{% endblocktranslate %}</p>
-
-<p class="item">{% blocktranslate %}Anonymized personal data (which are no longer considered personal data under the GDPR) may be processed even after all legal grounds for processing the User's Personal Data have ceased.{% endblocktranslate %}</p>
-
-
-<h2>{% blocktranslate %}User Rights in Relation to Personal Data{% endblocktranslate %}</h2>
-
-<p class="item">{% blocktranslate with address="privacy@weblate.org" %}The User can exercise their rights arising from the GDPR at any time by sending an email to <a href="mailto:{{ address }}">{{ address }}</a>, as well as through their User Account, since the implementation of most of the rights listed below (especially access to all processed Personal Data, their correction, restriction, or deletion) can be automated through this user account.{% endblocktranslate %}</p>
-
-<p class="item">{% blocktranslate %}The Provider will make every effort to address requests regarding the User's personal data as soon as possible, but no later than within <strong>30 days</strong>, unless due to the complexity of the matter it is necessary for the Provider to extend this period. The User's rights include:{% endblocktranslate %}</p>
+<p class="item">
+  {% blocktranslate %}The scope of the User's personal data processed by the Provider includes the following:{% endblocktranslate %}
+</p>
 
 <ol>
-  <li>{% blocktranslate %}an explanation of whether and what personal data is being processed and, if applicable, requesting the Provider to disclose it;{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}correction of personal data if there is concern that some of it is inaccurate or missing;{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}restriction of processing if there is concern that the Provider is processing more data than necessary;{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}deletion of personal data based on the consent of the Provider, provided that there is no other legal reason for further processing of personal data;{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}issuance of a copy of the personal data processed by automated means based on the consent of the Provider or in connection with fulfilling the Provider's contractual obligations, in a machine-readable format;{% endblocktranslate %}</li>
-  <li>{% blocktranslate %}temporary freezing of data processing operations for the purposes of the legitimate interest of the Provider;{% endblocktranslate %}</li>
-  <li>{% blocktranslate with url="https://uoou.gov.cz/" %}filing a complaint directly with the Office for Personal Data Protection (<a href="{{ url }}">{{ url }}</a>) or another relevant national data protection authority if the User believes that the Provider is processing personal data in violation of this Policy or legal regulations.{% endblocktranslate %}</li>
+  <li>
+    {% blocktranslate %}first and last name,{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}User's address (delivery and billing),{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}Company ID and Tax ID,{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}nickname(s) (including any voluntarily linked platforms such as Liberapay, GitHub, Xu, and others),{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}User's avatar,{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}email address(es),{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}identifiers for Bitbucket, Facebook, Google, LinkedIn, GitHub, GitLab, openSUSE, and Ubuntu in the event that accounts with these providers are linked to the User account,{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}specifications of the Service and Product used by the User,{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}information about the number of team members of the User and their roles,{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}all other user settings of the User account (including the so-called Profile), i.e., settings for languages, notifications, if they can identify the User directly or indirectly,{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}bank account number and possibly other payment details of the User,{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}cryptocurrency wallet address or addresses,{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}other personal data contained in messages sent by the User to the Provider (especially the subject and other content of the message),{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}other personal data contained in communications with the Provider's support,{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}system data, logs, and session logs including the User's IP address,{% endblocktranslate %}
+  </li>
 </ol>
 
-<h2>{% blocktranslate %}Final Provisions{% endblocktranslate %}</h2>
+<p>
+  {% blocktranslate %}where the individual categories of personal data listed above will continue to be collectively referred to as "<strong>Personal Data</strong>".{% endblocktranslate %}
+</p>
 
-<p class="item">{% blocktranslate %}The Provider is entitled to unilaterally change the Policy. The new wording of the Policy becomes effective upon publication on the Website. The User, who has a contractual relationship with the Provider governed by this Policy at the time of the change, will receive a notification of the change in the Policy displayed within the Service, or upon the next first login to their User Account{% endblocktranslate %}</p>
+<p class="item">
+  {% blocktranslate %}In certain cases, the Provider <strong>may also be a processor of personal data</strong>, namely when personal data of third parties is provided to it by the User for their own purposes (e.g., in the case of adding individual team members, donating a project to the Provider on behalf of another person, etc.). The processing of selected Personal Data of third parties made accessible by the User occurs in this case at the User's direction, under the conditions and based on a separate data processing agreement (so-called processing agreement) concluded between the Provider and the User.{% endblocktranslate %}
+</p>
 
-<p class="item">{% blocktranslate %}All legal relationships between the Provider and the User arising from this Policy are governed by the valid laws of the Czech Republic. Any disputes arising between the Provider and the User from or in connection with this Policy will be resolved before the competent civil court in the Czech Republic.{% endblocktranslate %}</p>
+<p class="item">
+  {% blocktranslate %}The Provider processes Personal Data until all obligations arising from the Contract are fulfilled. At the moment of account closure by the Provider and/or account cancellation by the User, all Personal Data and other data entered into the Service will be deleted, except for selected Personal Data mentioned below; the Provider therefore <strong>strongly recommends backing up</strong> all data entered into the Service before cancelling the User account and is not responsible for their loss after the User account is closed, even if it is rightfully closed by the Provider. Personal Data indicated on invoices is retained by the Provider for at least the statutory retention periods arising from the law, i.e., for a period of 10 years. In cases where it is necessary for the defence of the Provider's claims and/or for defence against claims from third parties (including any proceedings initiated by public authorities), the Provider may also retain some other Personal Data, but always for a maximum period equal to the limitation period for individual claims and/or until the final conclusion of selected proceedings. The specific duration cannot be precisely defined and varies according to the type of claim, their limitation periods, and the pace of selected courts or public authorities. Data that the Provider processes only as a processor of the User's data is processed for the period specified by the User's instructions unless the Provider has another legal basis for processing personal data as a controller under Article 2.1 of this Policy.{% endblocktranslate %}
+</p>
 
-<p class="item">{% blocktranslate %}If the relationship established by the Contract contains an international (foreign) element, the choice of law according to the previous sentence does not deprive the User – Consumer of the protection provided by provisions of the legal order that cannot be contractually deviated from and which would otherwise apply in the absence of a choice of law in accordance with the provisions of Article 6(1) of the Regulation of the European Parliament and Council (EC) No. 593/2008 of June 17, 2008, on the law applicable to contractual obligations (Rome I).{% endblocktranslate %}</p>
+<p class="item">
+  {% blocktranslate with address="privacy@weblate.org" %}The Provider may also process selected Personal Data of the User, particularly email, first name, last name, and any other personal data (if provided for these purposes) based on the <strong>voluntary and informed</strong> consent of the User. Processing occurs for a period of <strong>2 years</strong> and/or until the consent is revoked. The use of the Service or Product (including Support Services) is <strong>never</strong> conditioned on the provision of consent. Consent is, however, typically required for sending newsletters to data subjects who are not yet Users, or for providing selected bonuses or bonus materials not linked to other services of the Provider and/or for the disclosure of the User's Personal Data in connection with a donation made to the Provider. Revocation can be made at any time directly in the User account interface and, in the case of consent granted otherwise, by sending a request to <a href="mailto:{{ address }}">{{ address }}</a>.{% endblocktranslate %}
+</p>
 
-<p class="item">{% blocktranslate %}If any provision of the Policy is invalid or ineffective, or becomes so, the provision with meaning most closely approximates the invalid provision will replace the invalid provisions. The invalidity or ineffectiveness of one provision does not affect the validity of the other provisions of this Policy.{% endblocktranslate %}</p>
+<p class="item">
+  {% blocktranslate %}Once the reason for processing Personal Data has passed, the Provider will destroy the Personal Data. This does not exclude the further processing of selected Personal Data based on a different legal reason if this legal reason in favour of the Provider continues to exist.{% endblocktranslate %}
+</p>
 
-<p class="item">{% blocktranslate %}This Policy become effective upon their publication on the Website.{% endblocktranslate %}</p>
 
-<p>{% blocktranslate %}In Prague on November 1, 2024.{% endblocktranslate %}</p>
+<h2>
+  {% blocktranslate %}Recipients and Processors of Personal Data{% endblocktranslate %}
+</h2>
+
+<p class="item">
+  {% blocktranslate %}In addition to the Provider, selected third parties also receive and process personal data based on this Policy, whose involvement is necessary for the proper processing of Personal Data for the purposes defined in Article 2.1 of this Policy, specifically:{% endblocktranslate %}
+</p>
+
+<ol>
+  <li>
+    {% blocktranslate %}hosting provider (including web hosting and mail hosting services), currently this is <strong>Hetzner Online GmbH</strong>;{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}operators of the payment gateway <strong>ThePay.cz, s.r.o.</strong> and possibly operators of other services used in connection with the payment of any payments related to billing;{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}accounting, legal, and tax advisors of the Provider and possibly other persons bound by confidentiality under the law;{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}C-level and other managerial employees employed by or otherwise collaborating with the Provider;{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}selected contractors of the Provider who are involved in providing services to Users and who are also bound by confidentiality;{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}any other persons whose involvement is necessary for the proper provision of the Service, Products, Support Services, and/or to ensure any other activities related to the above;{% endblocktranslate %}
+  </li>
+</ol>
+
+<p>
+  {% blocktranslate %}the persons mentioned in this Article 3.1 are collectively referred to in this Policy as "<strong>Processors</strong>".{% endblocktranslate %}
+</p>
+
+<p class="item">
+  {% blocktranslate %}The User agrees that the Provider may transfer personal data to the Processors if this is necessary to fulfil the above purposes of data processing. The Processors that the Provider engages for processing personal data must meet high standards of protection and will always handle the data within the limits of the GDPR and this Policy.{% endblocktranslate %}
+</p>
+
+<p class="item">
+  {% blocktranslate %}The processing of Personal Data by selected Processors may be governed by their own service provision conditions.{% endblocktranslate %}
+</p>
+
+<p class="item">
+  {% blocktranslate %}Personal Data may also be transferred if the Provider is obliged to do so by law, as a result of a decision by a public authority, or in other cases where the transfer must occur in compliance with the obligations of the Provider arising from generally binding regulations.{% endblocktranslate %}
+</p>
+
+
+<h2>
+  {% blocktranslate %}Common Provisions on Processing{% endblocktranslate %}
+</h2>
+
+<p class="item">
+  {% blocktranslate %}The Provider will always make every effort to prevent unauthorized processing of personal data by other persons; however, it is not liable to the User or other data subjects for any damages caused by unauthorized processing of personal data by any third party, even if those third parties are Processors.{% endblocktranslate %}
+</p>
+
+<p class="item">
+  {% blocktranslate %}Emails sent to Users in connection with the provision of the Service, Product, and/or Support Services are not considered unsolicited commercial communications under Act No. 40/1995 Coll. on Advertising and Act No. 480/2004 Coll. on Certain Information Society Services, if they directly relate to these Services, Products, and/or Support Services.{% endblocktranslate %}
+</p>
+
+<p class="item">
+  {% blocktranslate %}The User may, however, explicitly and <strong>voluntarily consent</strong>, within the meaning of Section 7(2) of Act No. 480/2004 Coll. on Certain Information Society Services and amending certain acts, to receive broader commercial communications (e.g., in the case of indirect marketing) from the Provider at the User's electronic address. This consent can, of course, be revoked at any time by clicking on the link found in the footer of such commercial communication.{% endblocktranslate %}
+</p>
+
+<p class="item">
+  {% blocktranslate %}In the event that the Provider and/or Processors learn of a security risk related to Personal Data that affects the User, they will notify the User of this fact without undue delay.{% endblocktranslate %}
+</p>
+
+<p class="item">
+  {% blocktranslate %}The Provider will provide the User with assistance and legal help in seeking compensation from responsible Processors in the event of a data breach or other incident leading to loss. However, the Provider is not responsible for the improper actions of the Processors.{% endblocktranslate %}
+</p>
+
+<p class="item">
+  {% blocktranslate %}The User hereby confirms that the provided Personal Data is true, accurate, and relates solely to the User, or that they have provided data the use of which does not violate the rights of third parties. The User is obliged to always inform the Provider of any changes to their Personal Data so that only current and complete data is processed. The same obligations apply to the User in the case where they provide the Provider with Personal Data of data subjects other than this User.{% endblocktranslate %}
+</p>
+
+<p class="item">
+  {% blocktranslate %}Personal Data will be processed electronically, including the use of automated processing methods. However, the User or other data subjects will never be subject to individual automated decision-making (including profiling) within the meaning of Article 22 of the GDPR.{% endblocktranslate %}
+</p>
+
+<p class="item">
+  {% blocktranslate %}Anonymized personal data (which are no longer considered personal data under the GDPR) may be processed even after all legal grounds for processing the User's Personal Data have ceased.{% endblocktranslate %}
+</p>
+
+
+<h2>
+  {% blocktranslate %}User Rights in Relation to Personal Data{% endblocktranslate %}
+</h2>
+
+<p class="item">
+  {% blocktranslate with address="privacy@weblate.org" %}The User can exercise their rights arising from the GDPR at any time by sending an email to <a href="mailto:{{ address }}">{{ address }}</a>, as well as through their User Account, since the implementation of most of the rights listed below (especially access to all processed Personal Data, their correction, restriction, or deletion) can be automated through this user account.{% endblocktranslate %}
+</p>
+
+<p class="item">
+  {% blocktranslate %}The Provider will make every effort to address requests regarding the User's personal data as soon as possible, but no later than within <strong>30 days</strong>, unless due to the complexity of the matter it is necessary for the Provider to extend this period. The User's rights include:{% endblocktranslate %}
+</p>
+
+<ol>
+  <li>
+    {% blocktranslate %}an explanation of whether and what personal data is being processed and, if applicable, requesting the Provider to disclose it;{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}correction of personal data if there is concern that some of it is inaccurate or missing;{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}restriction of processing if there is concern that the Provider is processing more data than necessary;{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}deletion of personal data based on the consent of the Provider, provided that there is no other legal reason for further processing of personal data;{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}issuance of a copy of the personal data processed by automated means based on the consent of the Provider or in connection with fulfilling the Provider's contractual obligations, in a machine-readable format;{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate %}temporary freezing of data processing operations for the purposes of the legitimate interest of the Provider;{% endblocktranslate %}
+  </li>
+  <li>
+    {% blocktranslate with url="https://uoou.gov.cz/" %}filing a complaint directly with the Office for Personal Data Protection (<a href="{{ url }}">{{ url }}</a>) or another relevant national data protection authority if the User believes that the Provider is processing personal data in violation of this Policy or legal regulations.{% endblocktranslate %}
+  </li>
+</ol>
+
+<h2>
+  {% blocktranslate %}Final Provisions{% endblocktranslate %}
+</h2>
+
+<p class="item">
+  {% blocktranslate %}The Provider is entitled to unilaterally change the Policy. The new wording of the Policy becomes effective upon publication on the Website. The User, who has a contractual relationship with the Provider governed by this Policy at the time of the change, will receive a notification of the change in the Policy displayed within the Service, or upon the next first login to their User Account{% endblocktranslate %}
+</p>
+
+<p class="item">
+  {% blocktranslate %}All legal relationships between the Provider and the User arising from this Policy are governed by the valid laws of the Czech Republic. Any disputes arising between the Provider and the User from or in connection with this Policy will be resolved before the competent civil court in the Czech Republic.{% endblocktranslate %}
+</p>
+
+<p class="item">
+  {% blocktranslate %}If the relationship established by the Contract contains an international (foreign) element, the choice of law according to the previous sentence does not deprive the User – Consumer of the protection provided by provisions of the legal order that cannot be contractually deviated from and which would otherwise apply in the absence of a choice of law in accordance with the provisions of Article 6(1) of the Regulation of the European Parliament and Council (EC) No. 593/2008 of June 17, 2008, on the law applicable to contractual obligations (Rome I).{% endblocktranslate %}
+</p>
+
+<p class="item">
+  {% blocktranslate %}If any provision of the Policy is invalid or ineffective, or becomes so, the provision with meaning most closely approximates the invalid provision will replace the invalid provisions. The invalidity or ineffectiveness of one provision does not affect the validity of the other provisions of this Policy.{% endblocktranslate %}
+</p>
+
+<p class="item">
+  {% blocktranslate %}This Policy become effective upon their publication on the Website.{% endblocktranslate %}
+</p>
+
+<p>
+  {% blocktranslate %}In Prague on November 1, 2024.{% endblocktranslate %}
+</p>

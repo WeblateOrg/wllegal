@@ -122,6 +122,20 @@ omit = [
   ".venv*/*"
 ]
 
+[tool.djlint]
+blank_line_after_tag = "load,extends,endblock"
+# H014 - Found extra blank lines.
+ignore = "H014"
+indent = 2
+max_attribute_length = 80
+max_blank_lines = 2
+preserve_blank_lines = true
+profile = "django"
+
+[tool.djlint.per-file-ignores]
+"wllegal/templates/weblate_503.html" = "H031"
+"wllegal/templates/weblate_50x.html" = "H031"
+
 [tool.isort]
 profile = "black"
 
