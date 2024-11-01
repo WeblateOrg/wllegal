@@ -4,4 +4,4 @@
 
 from datetime import date
 
-LEGAL_TOS_DATE = date(2023, 5, 15)
+LEGAL_TOS_DATE = date(2024, 11, 1)
