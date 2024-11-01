@@ -9,11 +9,11 @@ from django.urls import reverse
 class LegalTestCase(TestCase):
     def test_terms(self):
         response = self.client.get(reverse("legal:terms"))
-        self.assertContains(response, "04705904")
+        self.assertContains(response, "21668027")
 
     def test_privacy(self):
         response = self.client.get(reverse("legal:privacy"))
-        self.assertContains(response, "04705904")
+        self.assertContains(response, "21668027")
 
     def test_index(self):
         response = self.client.get(reverse("legal:index"))
