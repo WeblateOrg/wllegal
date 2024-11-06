@@ -6,9 +6,6 @@ requires = [
 ]
 
 [project]
-authors = [
-  {name = "Michal Čihař", email = "michal@cihar.com"}
-]
 classifiers = [
   "Development Status :: 5 - Production/Stable",
   "Environment :: Web Environment",
@@ -44,6 +41,10 @@ name = "wllegal"
 requires-python = ">=3.11"
 version = "2024.6"
 
+[[project.authors]]
+email = "michal@cihar.com"
+name = "Michal Čihař"
+
 [project.license]
 text = "GPL-3.0-or-later"
 
@@ -74,9 +75,6 @@ Homepage = "https://weblate.org/"
 "Issue Tracker" = "https://github.com/WeblateOrg/wllegal/issues"
 "Source Code" = "https://github.com/WeblateOrg/wllegal"
 Twitter = "https://twitter.com/WeblateOrg"
-
-[tool.black]
-target-version = ['py39']
 
 [tool.check-manifest]
 ignore = [
@@ -182,7 +180,6 @@ select = [
   "SLF",
   "N"
 ]
-target-version = "py39"
 
 [tool.ruff.mccabe]
 max-complexity = 16
