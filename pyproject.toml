@@ -71,6 +71,7 @@ file = "README.rst"
 [project.urls]
 Documentation = "https://docs.weblate.org/"
 Download = "https://github.com/WeblateOrg/wllegal"
+Funding = "https://weblate.org/donate/"
 Homepage = "https://weblate.org/"
 "Issue Tracker" = "https://github.com/WeblateOrg/wllegal/issues"
 "Source Code" = "https://github.com/WeblateOrg/wllegal"
@@ -137,7 +138,7 @@ profile = "django"
 [tool.isort]
 profile = "black"
 
-[tool.ruff]
+[tool.ruff.lint]
 ignore = [
   "D10",  # TODO: we are missing many docstrings
   "D203",  # CONFIG: incompatible with D211
@@ -181,7 +182,7 @@ select = [
   "N"
 ]
 
-[tool.ruff.mccabe]
+[tool.ruff.lint.mccabe]
 max-complexity = 16
 
 [tool.setuptools]
