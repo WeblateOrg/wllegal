@@ -64,7 +64,7 @@ repos:
   - id: djlint-reformat-django
   - id: djlint-django
 - repo: https://github.com/fsfe/reuse-tool
-  rev: v4.0.3
+  rev: v5.0.2
   hooks:
   - id: reuse
 ci:
