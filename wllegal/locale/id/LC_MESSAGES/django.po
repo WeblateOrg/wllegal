@@ -8,11 +8,11 @@
 # frottle <catatan.kungkong@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 13:36+0000\n"
-"PO-Revision-Date: 2023-05-25 14:51+0000\n"
-"Last-Translator: Taufik Adi Wicaksono <taufikadi.wicaksono@tutamail.com>\n"
+"PO-Revision-Date: 2024-11-19 14:16+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/weblate/legal/"
 "id/>\n"
 "Language: id\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -33,16 +33,12 @@ msgid "Status as of May 2024."
 msgstr "Status per Maret 2023."
 
 #: wllegal/templates/legal/documents/privacy.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
-"Dokumen Persyaratan Layanan resmi tersedia dalam bahasa Inggris, terjemahan "
-"disediakan demi kenyamanan Anda."
+"Dokumen Kebijakan Privasi mengikat secara hukum dalam bahasa Inggris, "
+"terjemahan disediakan demi kenyamanan Anda."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:6
@@ -622,16 +618,12 @@ msgid "We don’t use any third-party cookies."
 msgstr "Kami tidak menggunakan kuki pihak ketiga mana pun."
 
 #: wllegal/templates/legal/documents/tos.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
-"Dokumen Persyaratan Layanan resmi tersedia dalam bahasa Inggris, terjemahan "
-"disediakan demi kenyamanan Anda."
+"Dokumen Syarat dan Ketentuan Umum mengikat secara hukum dalam bahasa "
+"Inggris, terjemahan disediakan demi kenyamanan Anda."
 
 #: wllegal/templates/legal/documents/tos.html:11
 #, fuzzy
@@ -748,7 +740,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
-msgstr ""
+msgstr "Hosted Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:82
 msgid ""
