@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 13:36+0000\n"
-"PO-Revision-Date: 2024-11-19 14:20+0000\n"
+"PO-Revision-Date: 2024-11-19 16:27+0000\n"
 "Last-Translator: gallegonovato <fran-carro@hotmail.es>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/weblate/legal/es/"
 ">\n"
@@ -27,10 +27,8 @@ msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "Subcontratistas de acuerdo al art. 28 del RGPD"
 
 #: wllegal/templates/legal/documents/contracts.html:11
-#, fuzzy
-#| msgid "Status as of March 2023."
 msgid "Status as of May 2024."
-msgstr "Estado en marzo de 2023."
+msgstr "Situación en mayo de 2024."
 
 #: wllegal/templates/legal/documents/privacy.html:5
 msgid ""
@@ -179,10 +177,8 @@ msgid "User's avatar,"
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail address"
 msgid "email address(es),"
-msgstr "Nombre y dirección de correo"
+msgstr "Dirección(es) de correo(s) electrónico(s)"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -301,10 +297,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:149
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Recipients and Processors of Personal Data"
-msgstr "Acceso a los datos personales"
+msgstr "Destinatarios y Encargados del Tratamiento de Datos Personales"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -456,10 +450,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:232
-#, fuzzy
-#| msgid "Order us to delete your Personal Data"
 msgid "User Rights in Relation to Personal Data"
-msgstr "Pedirnos que eliminemos sus datos personales"
+msgstr "Derechos del usuario en relación con los datos personales"
 
 #: wllegal/templates/legal/documents/privacy.html:236
 #, python-format
@@ -779,16 +771,12 @@ msgid "Personal Data"
 msgstr "Información personal"
 
 #: wllegal/templates/legal/documents/tos.html:96
-#, fuzzy
-#| msgid ""
-#| "means personal data within the meaning of EU Regulation No. "
-#| "%(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"se refiere a los datos personales en el sentido del Reglamento de la UE n.º "
-"%(law_679_2016)s insertados por el Usuario en el Servicio y/o «Cookies»"
+"significa datos personales tal como se definen en el Reglamento (UE) 679/"
+"2016, ingresados por el usuario en el Servicio y/o Cookies ;"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
@@ -839,14 +827,11 @@ msgid "Service"
 msgstr "Servicio"
 
 #: wllegal/templates/legal/documents/tos.html:131
-#, fuzzy
-#| msgid ""
-#| "means the website and services based on Weblate operated by the Provider"
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
 msgstr ""
-"significa que la página web y los servicios basados en Weblate son "
-"gestionados por el proveedor"
+"significa las páginas web y servicios basados en Weblate proporcionados por "
+"el Proveedor;"
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid "Self-hosting"
@@ -859,10 +844,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:142
-#, fuzzy
-#| msgid "Service"
 msgid "Support Services"
-msgstr "Servicio"
+msgstr "Soporte"
 
 #: wllegal/templates/legal/documents/tos.html:145
 msgid ""
