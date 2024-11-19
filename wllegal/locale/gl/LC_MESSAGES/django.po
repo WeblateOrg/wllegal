@@ -6,11 +6,11 @@
 # Iváns <ivanrsm1997@gmail.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 13:36+0000\n"
-"PO-Revision-Date: 2024-11-18 08:00+0000\n"
-"Last-Translator: \"Miguel A. Bouzada\" <mbouzada@gmail.com>\n"
+"PO-Revision-Date: 2024-11-19 13:40+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Galician <https://hosted.weblate.org/projects/weblate/legal/"
 "gl/>\n"
 "Language: gl\n"
@@ -31,15 +31,11 @@ msgid "Status as of May 2024."
 msgstr "Estado en marzo de 2023."
 
 #: wllegal/templates/legal/documents/privacy.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
-"O documento vinculante das Condicións do Servizo está en inglés, as "
+"O documento de Directiva de privacidade é xuridicamente vinculante, as "
 "traducións fornécense para a súa comodidade."
 
 #: wllegal/templates/legal/documents/privacy.html:6
@@ -623,15 +619,11 @@ msgid "We don’t use any third-party cookies."
 msgstr "Non empregamos cookies de terceiros."
 
 #: wllegal/templates/legal/documents/tos.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
-"O documento vinculante das Condicións do Servizo está en inglés, as "
+"O documento de Condicións Xerais é xuridicamente vinculante en inglés, as "
 "traducións fornécense para a súa comodidade."
 
 #: wllegal/templates/legal/documents/tos.html:11
@@ -751,7 +743,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
-msgstr ""
+msgstr "Aloxado en Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:82
 msgid ""
