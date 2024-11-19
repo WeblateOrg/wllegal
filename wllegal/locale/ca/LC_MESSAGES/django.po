@@ -6,11 +6,11 @@
 # Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 13:36+0000\n"
-"PO-Revision-Date: 2023-06-28 07:33+0000\n"
-"Last-Translator: Eduard Ereza Martínez <eduard@ereza.cat>\n"
+"PO-Revision-Date: 2024-11-19 13:40+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/weblate/legal/ca/"
 ">\n"
 "Language: ca\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.1\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -750,7 +750,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
-msgstr ""
+msgstr "Hosted Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:82
 msgid ""
