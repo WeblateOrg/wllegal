@@ -8,11 +8,11 @@
 # Ali Demirtas <alidemirtas94@gmail.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 13:36+0000\n"
-"PO-Revision-Date: 2024-08-25 17:09+0000\n"
-"Last-Translator: Kaya Zeren <kayazeren@gmail.com>\n"
+"PO-Revision-Date: 2024-11-19 13:40+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/weblate/legal/tr/"
 ">\n"
 "Language: tr\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7.1-dev\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -33,16 +33,12 @@ msgid "Status as of May 2024."
 msgstr "2020 Ekim ayındaki durum."
 
 #: wllegal/templates/legal/documents/privacy.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
-"Hizmet Kullanım Koşulları belgesinin İngilizce biçimi geçerlidir. Çeviriler "
-"size kolaylık sağlaması için sunulmuştur."
+"Yasal olarak, gizlilik ilkesi belgesinin İngilizce biçimi geçerlidir. "
+"Çeviriler size kolaylık sağlaması için sunulmuştur."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:6
@@ -624,16 +620,12 @@ msgid "We don’t use any third-party cookies."
 msgstr "Herhangi bir üçüncü taraf Tanımlama Bilgileri kullanmıyoruz."
 
 #: wllegal/templates/legal/documents/tos.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
-"Hizmet Kullanım Koşulları belgesinin İngilizce biçimi geçerlidir. Çeviriler "
-"size kolaylık sağlaması için sunulmuştur."
+"Yasal olarak, genel hüküm ve koşullar belgesinin İngilizce biçimi "
+"geçerlidir. Çeviriler size kolaylık sağlaması için sunulmuştur."
 
 #: wllegal/templates/legal/documents/tos.html:11
 #, fuzzy
@@ -752,7 +744,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
-msgstr ""
+msgstr "Hosted Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:82
 msgid ""
