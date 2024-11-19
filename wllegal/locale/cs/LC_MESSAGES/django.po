@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 13:36+0000\n"
-"PO-Revision-Date: 2024-11-19 14:16+0000\n"
+"PO-Revision-Date: 2024-11-19 14:20+0000\n"
 "Last-Translator: Michal Čihař <michal@weblate.org>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/weblate/legal/cs/>"
 "\n"
@@ -1154,7 +1154,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:207
 msgid "Service Provision"
-msgstr "Poskytování služby"
+msgstr "Poskytování Služby"
 
 #: wllegal/templates/legal/documents/tos.html:211
 msgid ""
@@ -1163,6 +1163,9 @@ msgid ""
 "accordance with the Agreement and the technical specifications outlined in "
 "the Product specification."
 msgstr ""
+"Poskytovatel provozuje Službu na internetové adrese uvedené ve specifikaci "
+"Produktu a jejích subdoménách nebo na Serverech Uživatele v souladu se "
+"Smlouvou a technickými specifikacemi uvedenými ve specifikaci Produktu."
 
 #: wllegal/templates/legal/documents/tos.html:215
 msgid ""
@@ -1173,12 +1176,19 @@ msgid ""
 "specification defined in this manner takes precedence over the form of "
 "Service offered according to the Price list."
 msgstr ""
+"Pokud je Smlouva uzavřena podle čl. 2.3 a), rozsah Služeb je definován ve "
+"specifikaci Produktu, která je přílohou Smlouvy. Specifikace Produktu může "
+"rozsah jednotlivých (dílčích) Služeb z hlediska jejich obsahu a způsobu "
+"aktivace vymezit podrobněji. Specifikace Produktu vymezená takovýmto "
+"Způsobem má přednost před podobou Služby nabízenou podle Ceníku."
 
 #: wllegal/templates/legal/documents/tos.html:219
 msgid ""
 "The Service is provided in three forms of cooperation: Hosted Weblate, "
 "Dedicated Weblate, and Self-hosting."
 msgstr ""
+"Služba je poskytována ve třech formách spolupráce: Hosted Weblate, Vyhrazený "
+"Weblate a Vlastní hostování."
 
 #: wllegal/templates/legal/documents/tos.html:223
 msgid ""
@@ -1191,12 +1201,17 @@ msgid ""
 "third parties may process Personal Data within their activities in "
 "accordance with the Agreement and GPLv3."
 msgstr ""
+"V souladu s GPLv3 mohou být některé aspekty Služby poskytovány buď s pomocí "
+"třetích stran odlišných od Poskytovatele, nebo přímo těmito stranami. "
+"Uživatel bere na vědomí, že tyto třetí strany budou poskytovat své služby v "
+"souladu s touto Smlouvou a s licencí GPLv3. Uživatel bere na vědomí, že "
+"třetí strany zapojené do poskytování Služby se mohou v průběhu poskytování "
+"Služby měnit. Tyto třetí strany mohou v rámci své činnosti zpracovávat "
+"Osobní údaje v souladu se Smlouvou a GPLv3."
 
 #: wllegal/templates/legal/documents/tos.html:227
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
-msgstr "Služba"
+msgstr "Doba poskytování Služby"
 
 #: wllegal/templates/legal/documents/tos.html:231
 msgid ""
@@ -1205,6 +1220,9 @@ msgid ""
 "subscription can be paid monthly or annually in accordance with Article 5 of "
 "the GTC."
 msgstr ""
+"Není-li ve Smlouvě výslovně ujednáno jinak, Smlouva je uzavřena na dobu, "
+"která odpovídá modelu předplatného. Předplatné lze hradit měsíčně nebo ročně "
+"v souladu s čl. 5 VOP."
 
 #: wllegal/templates/legal/documents/tos.html:239
 msgid ""
@@ -1216,6 +1234,13 @@ msgid ""
 "List. The price for Services consists of the following separate items or "
 "their combination, which are paid regularly monthly/annually:"
 msgstr ""
+"Cena za Službu je stanovena podle nabídky nebo Ceníku. Uživatel přitom bere "
+"na vědomí a souhlasí s tím, že Ceník může být ze strany Poskytovatele "
+"jednostranně změněn stejným způsobem jako tyto VOP. Cena se odvíjí od "
+"zvolené konfigurace Služby a existuje mnoho variant, jak může být Služba "
+"poskytována. Tyto varianty jsou uvedeny v Ceníku. Cena za Služby se skládá z "
+"následujících samostatných položek nebo jejich kombinace, které jsou placeny "
+"pravidelně měsíčně/ročně:"
 
 #: wllegal/templates/legal/documents/tos.html:243
 msgid ""
@@ -1224,6 +1249,10 @@ msgid ""
 "but paid monthly or annually, with this price varying for different forms of "
 "collaboration according to the Price List;"
 msgstr ""
+"pravidelná Cena za přístup ke Službám, která je rovněž vždy stanovena na "
+"příslušné časové období a s ohledem na konkrétní podmínky Služby, avšak "
+"placená měsíčně nebo ročně, přičemž tato Cena se podle Ceníku liší pro "
+"jednotlivé formy spolupráce;"
 
 #: wllegal/templates/legal/documents/tos.html:246
 msgid ""
@@ -1231,24 +1260,26 @@ msgid ""
 "User from the options offered in the Price List or in agreement with the "
 "Provider;"
 msgstr ""
+"pravidelná Cena za množství Hostovaných řetězců; toto množství si určí "
+"Uživatel z nabízených variant v Ceníku nebo po domluvě s Poskytovatelem;"
 
 #: wllegal/templates/legal/documents/tos.html:249
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "Překladová paměť"
+msgstr "pravidelná Cena za Překladovou paměť;"
 
 #: wllegal/templates/legal/documents/tos.html:254
 msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
-msgstr ""
+msgstr "(body a), b) a c) společně dále jen \"<strong>Předplatné</strong>\")."
 
 #: wllegal/templates/legal/documents/tos.html:258
 msgid ""
 "To avoid doubt, the Subscription may guarantee either only access to a "
 "specific Product or License and/or a specific package of guaranteed Services."
 msgstr ""
+"Pro vyloučení pochybností, Předplatné může zaručovat buď pouze přístup k "
+"určitému Produktu nebo Licenci a/nebo určitému balíčku garantovaných Služeb."
 
 #: wllegal/templates/legal/documents/tos.html:262
 msgid ""
@@ -1257,9 +1288,13 @@ msgid ""
 "invoice is issued and delivered to the User within 5 working days after the "
 "end of each relevant period."
 msgstr ""
+"Uživatel je povinen uhradit Cenu na základě doručených daňových dokladů "
+"(faktur) vystavených Poskytovatelem. Cena je hrazena zálohově a faktura je "
+"vystavena a doručena Uživateli do 5 pracovních dnů po skončení každého "
+"příslušného období."
 
 #: wllegal/templates/legal/documents/tos.html:266
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "Payment of the Price may be made by Credit Card, bank transfer, or "
 "cryptocurrency transaction. All Prices listed in the Price List include VAT. "
@@ -1267,6 +1302,11 @@ msgid ""
 "an additional VAT of 21%%. Reverse charge applies to invoices issued to "
 "businesses within the EU."
 msgstr ""
+"Uhrazení Ceny může být provedeno Kreditní kartou, bankovním převodem nebo "
+"kryptoměnovou transakcí. Všechny Ceny uvedené v Ceníku zahrnují DPH. Koncoví "
+"uživatelé z EU a české obchodní společnosti budou vyzváni k zaplacení "
+"dodatečného DPH ve výši 21 %. Přenesení daňové povinnosti se vztahuje na "
+"faktury vystavené podnikům v EU."
 
 #: wllegal/templates/legal/documents/tos.html:270
 msgid ""
@@ -1275,6 +1315,10 @@ msgid ""
 "automatic renewal of the Service usage. The Provider recommends verifying "
 "with the prepaid card issuer or bank whether recurring billing is possible."
 msgstr ""
+"Pokud se chce Uživatel vyhnout účtování poplatků za Službu v režimu "
+"Předplatného, musí Předplatné zrušit tři dny před automatickým obnovením "
+"používání Služby. Poskytovatel doporučuje ověřit si u společnosti vydávající "
+"předplacené karty nebo u banky, zda je opakované účtování možné."
 
 #: wllegal/templates/legal/documents/tos.html:274
 msgid ""
