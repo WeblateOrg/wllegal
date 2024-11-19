@@ -4,9 +4,9 @@
 # Nikola Perović <nikolaperovicccc@gmail.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2024-11-19 13:36+0000\n"
+"POT-Creation-Date: 2024-11-19 16:28+0000\n"
 "PO-Revision-Date: 2024-11-19 14:16+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Serbian (Latin script) <https://hosted.weblate.org/projects/"
@@ -539,7 +539,7 @@ msgid ""
 "who has a contractual relationship with the Provider governed by this Policy "
 "at the time of the change, will receive a notification of the change in the "
 "Policy displayed within the Service, or upon the next first login to their "
-"User Account"
+"User Account."
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:276
@@ -790,10 +790,10 @@ msgstr "Provajder"
 
 #: wllegal/templates/legal/documents/tos.html:124
 msgid ""
-"refers to the company Weblate s.r.o., ID No. 21668027, with registered "
-"office at Nábřežní 694, Cvikov II, 471 54 Cvikov, registered in the "
-"Commercial Register maintained by the Regional Court in Ústí nad Labem, file "
-"no. C 52324, with which the Agreement was concluded;"
+"refers to the company <strong>Weblate s.r.o.</strong>, ID No. 21668027, with "
+"registered office at Nábřežní 694, Cvikov II, 471 54 Cvikov, registered in "
+"the Commercial Register maintained by the Regional Court in Ústí nad Labem, "
+"file no. C 52324, with which the Agreement was concluded;"
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:128
@@ -1008,7 +1008,7 @@ msgstr ""
 #, python-format
 msgid ""
 "Payment of the Price may be made by Credit Card, bank transfer, or "
-"cryptocurrency transaction. All Prices listed in the Price List include VAT. "
+"cryptocurrency transaction. All Prices listed in the Price List exclude VAT. "
 "End users from the EU and Czech business companies will be required to pay "
 "an additional VAT of 21%%. Reverse charge applies to invoices issued to "
 "businesses within the EU."
