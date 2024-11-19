@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 13:36+0000\n"
-"PO-Revision-Date: 2024-11-19 14:16+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-11-19 16:27+0000\n"
+"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/weblate/legal/he/>"
 "\n"
 "Language: he\n"
@@ -31,15 +31,11 @@ msgid "Status as of May 2024."
 msgstr "המצב נכון למרץ 2023."
 
 #: wllegal/templates/legal/documents/privacy.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
-"התוקף המשפטי של מסמך תנאי השירות חל על הגרסה האנגלית בלבד, התרגומים מסופקים "
+"התוקף המשפטי של מדיניות הפרטיות חל על הגרסה האנגלית בלבד, התרגומים מסופקים "
 "לנוחותך."
 
 #: wllegal/templates/legal/documents/privacy.html:6
@@ -983,10 +979,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:227
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
-msgstr "שירות"
+msgstr "משך השירות"
 
 #: wllegal/templates/legal/documents/tos.html:231
 msgid ""
@@ -1101,10 +1095,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:286
-#, fuzzy
-#| msgid "License"
 msgid "License Terms"
-msgstr "רישיון"
+msgstr "תנאי הרישיון"
 
 #: wllegal/templates/legal/documents/tos.html:290
 #, python-format
