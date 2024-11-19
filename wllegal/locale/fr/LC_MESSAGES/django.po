@@ -8,19 +8,19 @@
 # Localisation Lab <ao@localizationlab.org>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 13:36+0000\n"
-"PO-Revision-Date: 2024-09-18 09:30+0000\n"
-"Last-Translator: Julien Humbert <julroy67@gmail.com>\n"
-"Language-Team: French <https://hosted.weblate.org/projects/weblate/legal/fr/"
-">\n"
+"PO-Revision-Date: 2024-11-19 14:16+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/weblate/legal/fr/>"
+"\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.8-dev\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -33,16 +33,13 @@ msgid "Status as of May 2024."
 msgstr "Statut en date de mars 2023."
 
 #: wllegal/templates/legal/documents/privacy.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
-"Le document des Conditions générales anglais est applicable. Les traductions "
-"de ce document ne sont fournies que par commodité."
+"Le document concernant la politique de confidentialité en anglais est "
+"légalement reconnu. Ses traductions ne sont présentes que pour votre "
+"commodité."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:6
@@ -626,16 +623,13 @@ msgid "We don’t use any third-party cookies."
 msgstr "Nous n’utilisons pas de témoins de connexion tiers."
 
 #: wllegal/templates/legal/documents/tos.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
-"Le document des Conditions générales anglais est applicable. Les traductions "
-"de ce document ne sont fournies que par commodité."
+"Le document des termes généraux et des conditions d'utilisation en anglais "
+"est légalement applicable. Ses traductions ne sont présentes que pour votre "
+"commodité."
 
 #: wllegal/templates/legal/documents/tos.html:11
 #, fuzzy
@@ -753,7 +747,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
-msgstr ""
+msgstr "Weblate hébergé"
 
 #: wllegal/templates/legal/documents/tos.html:82
 msgid ""
