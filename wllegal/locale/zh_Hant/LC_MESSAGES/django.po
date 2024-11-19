@@ -7,19 +7,19 @@
 # byStarTW <pan93412@gmail.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 13:36+0000\n"
-"PO-Revision-Date: 2023-09-25 07:59+0000\n"
-"Last-Translator: notlin4 <iamnotlin4@gmail.com>\n"
-"Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
-"weblate/legal/zh_Hant/>\n"
+"PO-Revision-Date: 2024-11-19 14:16+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
+"projects/weblate/legal/zh_Hant/>\n"
 "Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.1-dev\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -32,15 +32,10 @@ msgid "Status as of May 2024."
 msgstr "截至 2023 年 3 月的狀態。"
 
 #: wllegal/templates/legal/documents/privacy.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
-msgstr ""
-"「服務條款」文件在法律上以英文版具有效力，翻譯是為了您的方便而提供給您查閱。"
+msgstr "「隱私權政策」文件的英文版有法律約束力，翻譯是為了您的方便而提供給您查閱。"
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:6
@@ -618,15 +613,11 @@ msgid "We don’t use any third-party cookies."
 msgstr "我們不使用任何第三方的 cookie。"
 
 #: wllegal/templates/legal/documents/tos.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
-msgstr ""
-"「服務條款」文件在法律上以英文版具有效力，翻譯是為了您的方便而提供給您查閱。"
+msgstr "「一般條款與條件」文件的英文版有法律約束力，翻譯是為了您的方便而提供給您查閱"
+"。"
 
 #: wllegal/templates/legal/documents/tos.html:11
 #, fuzzy
@@ -742,7 +733,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
-msgstr ""
+msgstr "託管的 Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:82
 msgid ""
