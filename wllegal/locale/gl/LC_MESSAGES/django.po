@@ -6,11 +6,11 @@
 # Iváns <ivanrsm1997@gmail.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-11-19 13:40+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-11-20 11:11+0000\n"
+"Last-Translator: \"Miguel A. Bouzada\" <mbouzada@gmail.com>\n"
 "Language-Team: Galician <https://hosted.weblate.org/projects/weblate/legal/"
 "gl/>\n"
 "Language: gl\n"
@@ -25,10 +25,8 @@ msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "Subcontratistas en conformidade co art. 28 do RXPD"
 
 #: wllegal/templates/legal/documents/contracts.html:11
-#, fuzzy
-#| msgid "Status as of March 2023."
 msgid "Status as of May 2024."
-msgstr "Estado en marzo de 2023."
+msgstr "Estado en maio de 2024."
 
 #: wllegal/templates/legal/documents/privacy.html:5
 msgid ""
@@ -177,10 +175,8 @@ msgid "User's avatar,"
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail address"
 msgid "email address(es),"
-msgstr "Nome e enderezo de correo-e"
+msgstr "enderezo(s) de correo-e"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -299,10 +295,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:149
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Recipients and Processors of Personal Data"
-msgstr "Acceso aos datos persoais"
+msgstr "Destinatarios e responsábeis do tratamento de datos persoais"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -454,10 +448,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:232
-#, fuzzy
-#| msgid "Order us to delete your Personal Data"
 msgid "User Rights in Relation to Personal Data"
-msgstr "Indíquenos que eliminemos os seus datos persoais"
+msgstr "Dereitos do usuario en relación cos datos persoais"
 
 #: wllegal/templates/legal/documents/privacy.html:236
 #, python-format
@@ -627,16 +619,12 @@ msgstr ""
 "traducións fornécense para a súa comodidade."
 
 #: wllegal/templates/legal/documents/tos.html:11
-#, fuzzy
-#| msgid ""
-#| "The rights and obligations of the User and the Provider resulting from "
-#| "the use of the Service are governed by these Terms of Service."
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
 msgstr ""
 "Os dereitos e obrigas do «Usuario» e do«Fornecedor» como resultado do uso do "
-"«Servizo» determínanse por estas Condicións do Servizo."
+"«Servizo» determínanse por estas Condicións xerais."
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid ""
@@ -659,12 +647,10 @@ msgid "Civil Code"
 msgstr "Código civil"
 
 #: wllegal/templates/legal/documents/tos.html:33
-#, fuzzy
-#| msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
 msgstr ""
-"refírese á Lei núm. %(law_89_2012)s Coll., do Código Civil, segundo a súa "
-"modificación"
+"refírese á Lei núm. 89_2012 Coll., do Código Civil, segundo a súa "
+"modificación;"
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
@@ -702,16 +688,12 @@ msgid "GDPR"
 msgstr "RXPD"
 
 #: wllegal/templates/legal/documents/tos.html:61
-#, fuzzy
-#| msgid ""
-#| "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
-#| "Regulation"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
 msgstr ""
-"refírese ao Regulamento da UE núm. %(law_679_2016)s, o Regulamento Xeral de "
-"Protección de Datos"
+"refírese ao Regulamento da UE núm. 679_2016, do Regulamento Xeral de "
+"Protección de Datos Persoais;"
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
@@ -728,18 +710,12 @@ msgid "Hosted String"
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:75
-#, fuzzy
-#| msgid ""
-#| "Pricing is based on the number of source strings and target languages. "
-#| "The source string is a text unit defined in a translation format, it can "
-#| "be a word, sentence or paragraph."
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
 msgstr ""
-"O prezo baséase no número de cadeas orixinais e das linguas de destino. A "
-"cadea de orixe é unha unidade de texto definida nun formato de tradución, "
-"pode ser palabra, frase ou un parágrafo."
+"refírese a unha unidade de texto definida no formato de tradución, pode ser "
+"palabra, unha frase ou un parágrafo."
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
@@ -757,32 +733,24 @@ msgid "License"
 msgstr "Licenza"
 
 #: wllegal/templates/legal/documents/tos.html:89
-#, fuzzy
-#| msgid ""
-#| "means non-exclusive license granted by the Provider to the User for use "
-#| "of the Service"
 msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
 msgstr ""
 "refírese á licenza non exclusiva outorgada polo «Fornecedor» ao «Usuario» "
-"para o uso do «Servizo»"
+"para o uso do «Servizo»;"
 
 #: wllegal/templates/legal/documents/tos.html:93
 msgid "Personal Data"
 msgstr "Datos persoais"
 
 #: wllegal/templates/legal/documents/tos.html:96
-#, fuzzy
-#| msgid ""
-#| "means personal data within the meaning of EU Regulation No. "
-#| "%(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"refírese aos datos persoais no senso do Regulamento da UE No. "
-"%(law_679_2016)s inseridos polo «Usuario» no «Servizo» e/ou nas cookies"
+"refírese aos datos persoais segundo se definen no Regulamento núm. 679_2016 "
+"da UE inseridos polo «Usuario» no «Servizo» e/ou nas cookies;"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
