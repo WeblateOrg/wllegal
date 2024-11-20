@@ -12,13 +12,13 @@
 # iLocIT! <matthiasc@ilocit.de>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-11-19 13:40+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/weblate/legal/de/"
-">\n"
+"PO-Revision-Date: 2024-11-20 11:11+0000\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/weblate/legal/de/>"
+"\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -31,10 +31,8 @@ msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "Unterauftragsverarbeiter nach Art. 28 DSGVO"
 
 #: wllegal/templates/legal/documents/contracts.html:11
-#, fuzzy
-#| msgid "Status as of March 2023."
 msgid "Status as of May 2024."
-msgstr "Stand: März 2023."
+msgstr "Stand: Mai 2024."
 
 #: wllegal/templates/legal/documents/privacy.html:5
 msgid ""
@@ -57,11 +55,15 @@ msgid ""
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
+"Diese Datenschutzerklärung, im Folgenden als \"<strong>Policy</strong>\" "
+"bezeichnet, ergänzt die <a href=\"%(terms_url)s\">Allgemeinen "
+"Geschäftsbedingungen</a> von Weblate, im Folgenden als \""
+"<strong>Terms</strong>\" bezeichnet."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
 msgid "Introductory Provisions"
-msgstr ""
+msgstr "Einleitende Bestimmungen"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
@@ -70,6 +72,10 @@ msgid ""
 "the Commercial Register kept by the Regional Court in Ústí nad Labem, file "
 "No. C 52324, i.e. the \"<strong>Provider</strong>\"."
 msgstr ""
+"Diese Richtlinie wurde von Weblate s.r.o., ID-Nr.: 21668027, mit Sitz in "
+"Nábřežní 694, Cvikov II, 471 54 Cvikov, eingetragen im Handelsregister des "
+"Bezirksgerichts in Ústí nad Labem, Aktenzeichen C 52324, d.h. dem \""
+"<strong>Anbieter</strong>\", erstellt."
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid ""
@@ -78,6 +84,11 @@ msgid ""
 "the Services, Products, Support Services, as well as when using the Website "
 "and other possible services and related activities."
 msgstr ""
+"Diese Richtlinie beschreibt, wie der Provider mit den personenbezogenen "
+"Daten der Benutzer als betroffene Personen - Privatpersonen - umgeht, wenn "
+"sie auf die Dienste, Produkte, Unterstützungsdienste zugreifen und diese "
+"anschließend nutzen, sowie bei der Nutzung der Website und anderer möglicher "
+"Dienste und zugehöriger Aktivitäten."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid ""
@@ -85,6 +96,9 @@ msgid ""
 "in Article 1 of the Terms and which have the same meaning as set out in the "
 "Terms."
 msgstr ""
+"In dieser Richtlinie werden auch bestimmte Begriffe oder Definitionen "
+"verwendet, die in Artikel 1 der Bedingungen definiert wurden und dieselbe "
+"Bedeutung haben, wie sie in den Bedingungen dargelegt ist."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
@@ -97,6 +111,15 @@ msgid ""
 "personal data and the protection of privacy in the electronic communications "
 "sector (abbreviated as the \"<strong>ePrivacy Directive</strong>\")."
 msgstr ""
+"Bei der Verarbeitung personenbezogener Daten hält sich der Anbieter an die "
+"Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates, die "
+"General Data Protection Regulation, auch bekannt als GDPR (wir verwenden im "
+"Folgenden die Abkürzung \"<strong>GDPR</strong>\"), das Gesetz Nr. 110/2019 "
+"Slg, über die Verarbeitung personenbezogener Daten, sowie die Richtlinie "
+"2002/58/EG des Europäischen Parlaments und des Rates vom 12. Juli 2002 über "
+"die Verarbeitung personenbezogener Daten und den Schutz der Privatsphäre in "
+"der elektronischen Kommunikation (abgekürzt als \"<strong>ePrivacy-"
+"Richtlinie</strong>\")."
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -106,6 +129,12 @@ msgid ""
 "registers for the Provider's newsletter and/or when the Provider and the "
 "User conclude the Contract, whichever is the earliest."
 msgstr ""
+"Die tatsächliche Verarbeitung der personenbezogenen Daten der Benutzer "
+"erfolgt immer nur zu den in dieser Richtlinie näher definierten Zwecken und "
+"Bedingungen und beginnt in dem Moment, in dem der Benutzer die Website "
+"besucht, in dem er sich für den Newsletter des Anbieters registriert und/"
+"oder in dem der Anbieter und der Benutzer den Vertrag abschließen, je "
+"nachdem, welcher Zeitpunkt der früheste ist."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid ""
@@ -114,6 +143,10 @@ msgid ""
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
 msgstr ""
+"Die Verarbeitung erfolgt dann entweder direkt durch den Anbieter und/oder "
+"durch Drittanbieter im Sinne von Artikel 3 dieser Richtlinie, die vom "
+"Anbieter ermächtigt wurden, personenbezogene Daten im Einklang mit dieser "
+"Richtlinie zu verarbeiten."
 
 #: wllegal/templates/legal/documents/privacy.html:45
 msgid ""
@@ -121,73 +154,91 @@ msgid ""
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
+"Sofern in dieser Richtlinie nicht ausdrücklich anders angegeben, handelt der "
+"Anbieter als <strong>Datenverantwortlicher</strong> und Benutzer, die "
+"natürliche Personen sind, handeln als betroffene Personen, wie diese Rollen "
+"in der GDPR definiert sind."
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "Umfang, Zwecke und Dauer der Verarbeitung"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
 msgstr ""
+"Der Anbieter verarbeitet die personenbezogenen Daten des Benutzers für die "
+"folgenden Zwecke:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
 msgstr ""
+"die Erfüllung des Vertrags gemäß Artikel 6 Absatz 1 Buchstabe b der "
+"Datenschutz-Grundverordnung,"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
 msgstr ""
+"den Vertrag gemäß Artikel 6 Absatz 1 Buchstabe b der Datenschutz-"
+"Grundverordnung auszuhandeln,"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
 msgstr ""
+"die Erfüllung der rechtlichen Verpflichtungen des Anbieters gemäß Artikel 6 "
+"Absatz 1 Buchstabe c der Datenschutz-Grundverordnung,"
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, "
 "and in selected cases also"
 msgstr ""
+"die berechtigten Interessen des Anbieters gemäß Artikel 6 Absatz 1 Buchstabe "
+"f der Datenschutz-Grundverordnung und in ausgewählten Fällen auch"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
 msgstr ""
+"die Zustimmung des Benutzers gemäß Artikel 6 Absatz 1 Buchstabe a) der "
+"Datenschutz-Grundverordnung."
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
 msgstr ""
+"Der Umfang der personenbezogenen Daten des Benutzers, die vom Anbieter "
+"verarbeitet werden, umfasst Folgendes:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr ""
+msgstr "Vor- und Nachname,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr ""
+msgstr "Adresse des Benutzers (Lieferung und Abrechnung),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr ""
+msgstr "Unternehmens-ID und Steuer-ID,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, Xu, and others),"
 msgstr ""
+"Nickname(n) (einschließlich aller freiwillig verlinkten Plattformen wie "
+"Liberapay, GitHub, Xu und andere),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr ""
+msgstr "Das Profilbild des Benutzers,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail address"
 msgid "email address(es),"
-msgstr "Benutzername und E-Mail-Adresse"
+msgstr "E-Mail-Adresse(n),"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -195,15 +246,20 @@ msgid ""
 "openSUSE, and Ubuntu in the event that accounts with these providers are "
 "linked to the User account,"
 msgstr ""
+"Kennungen für Bitbucket, Facebook, Google, LinkedIn, GitHub, GitLab, "
+"openSUSE und Ubuntu für den Fall, dass Konten bei diesen Anbietern mit dem "
+"Benutzerkonto verknüpft sind,"
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
-msgstr ""
+msgstr "Spezifikationen des vom Benutzer genutzten Dienstes und Produkts,"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
 msgstr ""
+"Informationen über die Anzahl der Teammitglieder des Benutzers und deren "
+"Rollen,"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
@@ -211,35 +267,50 @@ msgid ""
 "Profile), i.e., settings for languages, notifications, if they can identify "
 "the User directly or indirectly,"
 msgstr ""
+"alle anderen Benutzereinstellungen des Benutzerkontos (einschließlich des so "
+"genannten Profils), d.h. Einstellungen für Sprachen, Benachrichtigungen, "
+"wenn sie den Benutzer direkt oder indirekt identifizieren können,"
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
 msgstr ""
+"die Nummer des Benutzerkontos und möglicherweise andere Zahlungsdaten des "
+"Benutzers,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "Kryptowährungs-Geldbörsen-Adresse oder -Adressen,"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
 "other personal data contained in messages sent by the User to the Provider "
 "(especially the subject and other content of the message),"
 msgstr ""
+"sonstige personenbezogene Daten, die in Nachrichten enthalten sind, die der "
+"Benutzer an den Anbieter sendet (insbesondere den Betreff und den sonstigen "
+"Inhalt der Nachricht),"
 
 #: wllegal/templates/legal/documents/privacy.html:120
 msgid ""
 "other personal data contained in communications with the Provider's support,"
 msgstr ""
+"sonstige personenbezogene Daten, die in der Kommunikation mit der "
+"Unterstützung des Providers enthalten sind,"
 
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
 msgstr ""
+"Systemdaten, Protokolle und Sitzungsprotokolle einschließlich der IP-Adresse "
+"des Benutzers,"
 
 #: wllegal/templates/legal/documents/privacy.html:128
 msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
+"wobei die einzelnen oben aufgeführten Kategorien personenbezogener Daten "
+"weiterhin zusammenfassend als \"<strong>Personenbezogene Daten</strong>\" "
+"bezeichnet werden."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -252,6 +323,16 @@ msgid ""
 "under the conditions and based on a separate data processing agreement (so-"
 "called processing agreement) concluded between the Provider and the User."
 msgstr ""
+"In bestimmten Fällen kann der Anbieter <strong>auch Verarbeiter "
+"personenbezogener Daten</strong> sein, nämlich dann, wenn ihm "
+"personenbezogene Daten Dritter vom Benutzer für eigene Zwecke zur Verfügung "
+"gestellt werden (z.B. bei der Aufnahme einzelner Teammitglieder, bei der "
+"Schenkung eines Projektes an den Anbieter im Namen einer anderen Person etc.)"
+" Die Verarbeitung ausgewählter, vom Benutzer zugänglich gemachter "
+"Personenbezogener Daten von Drittanbietern erfolgt in diesem Fall auf "
+"Weisung des Benutzers, zu den Bedingungen und auf der Grundlage eines "
+"gesonderten Datenverarbeitungsvertrages (sog. Verarbeitungsvertrag), der "
+"zwischen dem Anbieter und dem Benutzer abgeschlossen wird."
 
 #: wllegal/templates/legal/documents/privacy.html:136
 msgid ""
@@ -277,6 +358,32 @@ msgid ""
 "the User's instructions unless the Provider has another legal basis for "
 "processing personal data as a controller under Article 2.1 of this Policy."
 msgstr ""
+"Der Anbieter verarbeitet Personenbezogene Daten, bis alle Verpflichtungen "
+"aus dem Vertrag erfüllt sind. Zum Zeitpunkt der Schließung des "
+"Benutzerkontos durch den Anbieter und/oder der Kündigung des Benutzerkontos "
+"durch den Benutzer werden alle Personenbezogenen Daten und andere Daten, die "
+"in den Dienst eingegeben wurden, gelöscht, mit Ausnahme ausgewählter, unten "
+"genannter Personenbezogener Daten; der Anbieter empfiehlt daher "
+"<strong>stark</strong>, alle in den Dienst eingegebenen Daten vor der "
+"Kündigung des Benutzerkontos zu sichern, und ist nicht für deren Verlust "
+"nach der Schließung des Benutzerkontos verantwortlich, selbst wenn es vom "
+"Anbieter rechtmäßig geschlossen wurde. Personenbezogene Daten, die auf "
+"Rechnungen angegeben sind, werden vom Anbieter mindestens für die sich aus "
+"dem Gesetz ergebenden gesetzlichen Aufbewahrungsfristen aufbewahrt, d.h. für "
+"einen Zeitraum von 10 Jahren. In den Fällen, in denen es für die "
+"Verteidigung von Ansprüchen des Anbieters und/oder für die Verteidigung "
+"gegen Ansprüche von Drittanbietern (einschließlich etwaiger behördlicher "
+"Verfahren) erforderlich ist, kann der Anbieter auch einige andere "
+"Personenbezogene Daten aufbewahren, jedoch immer für einen Zeitraum, der "
+"höchstens der Verjährungsfrist für einzelne Ansprüche und/oder bis zum "
+"endgültigen Abschluss ausgewählter Verfahren entspricht. Die spezifische "
+"Dauer kann nicht genau festgelegt werden und variiert je nach Art der "
+"Forderung, deren Verjährungsfristen und dem Tempo der ausgewählten Gerichte "
+"oder Behörden. Daten, die der Anbieter nur als Verarbeiter der Daten des "
+"Benutzers verarbeitet, werden für den in den Anweisungen des Benutzers "
+"angegebenen Zeitraum verarbeitet, es sei denn, der Anbieter hat eine andere "
+"Rechtsgrundlage für die Verarbeitung personenbezogener Daten als "
+"Verantwortlicher gemäß Artikel 2.1 dieser Richtlinie."
 
 #: wllegal/templates/legal/documents/privacy.html:140
 #, python-format
@@ -296,6 +403,23 @@ msgid ""
 "consent granted otherwise, by sending a request to <a href=\"mailto:"
 "%(address)s\">%(address)s</a>."
 msgstr ""
+"Der Anbieter darf auch ausgewählte Personenbezogene Daten des Benutzers, "
+"insbesondere E-Mail-Adresse, Vorname, Nachname und sonstige personenbezogene "
+"Daten (soweit für diese Zwecke zur Verfügung gestellt) auf der Grundlage der "
+"<strong>freiwilligen und informierten</strong> Einwilligung des Benutzers "
+"verarbeiten. Die Verarbeitung erfolgt für einen Zeitraum von <strong>2 "
+"Jahren</strong> bzw. bis die Einwilligung widerrufen wird. Die Nutzung des "
+"Dienstes oder Produktes (einschließlich der Unterstützung) ist "
+"<strong>niemals</strong> von der Erteilung einer Einwilligung abhängig. Eine "
+"Einwilligung ist jedoch typischerweise erforderlich für den Versand von "
+"Newslettern an Betroffene, die noch keine Benutzer sind, oder für die "
+"Bereitstellung ausgewählter Boni oder Bonusmaterialien, die nicht mit "
+"anderen Diensten des Anbieters verknüpft sind, und/oder für die Weitergabe "
+"personenbezogener Daten des Benutzers im Zusammenhang mit einer Spende an "
+"den Anbieter. Der Widerruf kann jederzeit direkt in der Benutzeroberfläche "
+"des Benutzerkontos und im Falle einer anderweitig erteilten Einwilligung "
+"durch eine Anfrage an <a href=\"mailto:%(address)s\">%(address)s</a> "
+"erfolgen."
 
 #: wllegal/templates/legal/documents/privacy.html:144
 msgid ""
@@ -304,12 +428,15 @@ msgid ""
 "selected Personal Data based on a different legal reason if this legal "
 "reason in favour of the Provider continues to exist."
 msgstr ""
+"Sobald der Grund für die Verarbeitung personenbezogener Daten entfallen ist, "
+"vernichtet der Anbieter die personenbezogenen Daten. Dies schließt die "
+"Weiterverarbeitung ausgewählter Personenbezogener Daten auf der Grundlage "
+"eines anderen Rechtsgrundes nicht aus, wenn dieser Rechtsgrund zugunsten des "
+"Anbieters fortbesteht."
 
 #: wllegal/templates/legal/documents/privacy.html:149
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Recipients and Processors of Personal Data"
-msgstr "Zugriff auf die personenbezogenen Daten"
+msgstr "Empfänger und Verarbeiter von Personenbezogenen Daten"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -318,12 +445,19 @@ msgid ""
 "proper processing of Personal Data for the purposes defined in Article 2.1 "
 "of this Policy, specifically:"
 msgstr ""
+"Neben dem Anbieter erhalten und verarbeiten auch ausgewählte Drittanbieter "
+"personenbezogene Daten auf der Grundlage dieser Richtlinie, deren "
+"Einbeziehung für die ordnungsgemäße Verarbeitung personenbezogener Daten für "
+"die in Artikel 2.1 dieser Richtlinie festgelegten Zwecke erforderlich ist, "
+"insbesondere:"
 
 #: wllegal/templates/legal/documents/privacy.html:158
 msgid ""
 "hosting provider (including web hosting and mail hosting services), "
 "currently this is <strong>Hetzner Online GmbH</strong>;"
 msgstr ""
+"Hosting-Anbieter (einschließlich Webhosting- und Mailhosting-Dienste), "
+"aktuell ist dies die <strong>Hetzner Online GmbH</strong>;"
 
 #: wllegal/templates/legal/documents/privacy.html:161
 msgid ""
@@ -331,24 +465,34 @@ msgid ""
 "possibly operators of other services used in connection with the payment of "
 "any payments related to billing;"
 msgstr ""
+"Betreiber des Zahlungsgateways <strong>ThePay.cz, s.r.o.</strong> und ggf. "
+"Betreiber anderer Dienste, die im Zusammenhang mit der Bezahlung von "
+"Zahlungen genutzt werden, die der Abrechnung zugehören;"
 
 #: wllegal/templates/legal/documents/privacy.html:164
 msgid ""
 "accounting, legal, and tax advisors of the Provider and possibly other "
 "persons bound by confidentiality under the law;"
 msgstr ""
+"Buchhaltungs-, Rechts- und Steuerberater des Providers und möglicherweise "
+"andere Personen, die nach dem Gesetz zur Vertraulichkeit verpflichtet sind;"
 
 #: wllegal/templates/legal/documents/privacy.html:167
 msgid ""
 "C-level and other managerial employees employed by or otherwise "
 "collaborating with the Provider;"
 msgstr ""
+"Mitarbeiter der Führungsebene und andere leitende Angestellte, die beim "
+"Provider angestellt sind oder anderweitig mit ihm zusammenarbeiten;"
 
 #: wllegal/templates/legal/documents/privacy.html:170
 msgid ""
 "selected contractors of the Provider who are involved in providing services "
 "to Users and who are also bound by confidentiality;"
 msgstr ""
+"ausgewählte Vertragspartner des Anbieters, die an der Erbringung von "
+"Diensten für Benutzer beteiligt sind und ebenfalls zur Vertraulichkeit "
+"verpflichtet sind;"
 
 #: wllegal/templates/legal/documents/privacy.html:173
 msgid ""
@@ -356,12 +500,17 @@ msgid ""
 "the Service, Products, Support Services, and/or to ensure any other "
 "activities related to the above;"
 msgstr ""
+"alle anderen Personen, deren Mitwirkung für die ordnungsgemäße Erbringung "
+"des Dienstes, der Produkte, der Unterstützungsdienste und/oder zur "
+"Sicherstellung sonstiger damit zugehöriger Aktivitäten erforderlich ist;"
 
 #: wllegal/templates/legal/documents/privacy.html:178
 msgid ""
 "the persons mentioned in this Article 3.1 are collectively referred to in "
 "this Policy as \"<strong>Processors</strong>\"."
 msgstr ""
+"die in diesem Artikel 3.1 genannten Personen werden in dieser Richtlinie "
+"gemeinsam als \"<strong>Verarbeiter</strong>\" bezeichnet."
 
 #: wllegal/templates/legal/documents/privacy.html:182
 msgid ""
@@ -371,12 +520,21 @@ msgid ""
 "data must meet high standards of protection and will always handle the data "
 "within the limits of the GDPR and this Policy."
 msgstr ""
+"Der Benutzer erklärt sich damit einverstanden, dass der Anbieter "
+"personenbezogene Daten an die Auftragsverarbeiter übermittelt, wenn dies zur "
+"Erfüllung der oben genannten Zwecke der Datenverarbeitung erforderlich ist. "
+"Die Verarbeiter, die der Provider an der Verarbeitung personenbezogener "
+"Daten beteiligt, müssen hohe Schutzstandards erfüllen und werden die Daten "
+"stets innerhalb der Grenzen der DSGVO und dieser Richtlinie behandeln."
 
 #: wllegal/templates/legal/documents/privacy.html:186
 msgid ""
 "The processing of Personal Data by selected Processors may be governed by "
 "their own service provision conditions."
 msgstr ""
+"Die Verarbeitung personenbezogener Daten durch ausgewählte "
+"Auftragsverarbeiter kann durch deren eigene Bedingungen für die Erbringung "
+"von Diensten geregelt werden."
 
 #: wllegal/templates/legal/documents/privacy.html:190
 msgid ""
@@ -385,10 +543,15 @@ msgid ""
 "where the transfer must occur in compliance with the obligations of the "
 "Provider arising from generally binding regulations."
 msgstr ""
+"Personenbezogene Daten können auch übermittelt werden, wenn der Anbieter "
+"dazu gesetzlich verpflichtet ist, aufgrund einer behördlichen Entscheidung, "
+"oder in anderen Fällen, in denen die Übermittlung in Übereinstimmung mit den "
+"Verpflichtungen des Anbieters aus allgemein verbindlichen Vorschriften "
+"erfolgen muss."
 
 #: wllegal/templates/legal/documents/privacy.html:195
 msgid "Common Provisions on Processing"
-msgstr ""
+msgstr "Gemeinsame Bestimmungen zur Verarbeitung"
 
 #: wllegal/templates/legal/documents/privacy.html:199
 msgid ""
@@ -398,6 +561,12 @@ msgid ""
 "processing of personal data by any third party, even if those third parties "
 "are Processors."
 msgstr ""
+"Der Anbieter wird sich stets bemühen, die unbefugte Verarbeitung "
+"personenbezogener Daten durch andere Personen zu verhindern; er haftet "
+"jedoch gegenüber dem Benutzer oder anderen Betroffenen nicht für Schäden, "
+"die durch die unbefugte Verarbeitung personenbezogener Daten durch "
+"Drittanbieter entstehen, auch wenn diese Drittanbieter Auftragsverarbeiter "
+"sind."
 
 #: wllegal/templates/legal/documents/privacy.html:203
 msgid ""
@@ -407,6 +576,12 @@ msgid ""
 "480/2004 Coll. on Certain Information Society Services, if they directly "
 "relate to these Services, Products, and/or Support Services."
 msgstr ""
+"E-Mails, die im Zusammenhang mit der Bereitstellung des Dienstes, des "
+"Produkts und/oder der Unterstützung an Benutzer gesendet werden, gelten "
+"nicht als unaufgeforderte kommerzielle Mitteilungen im Sinne des Gesetzes "
+"Nr. 40/1995 Slg. über Werbung und des Gesetzes Nr. 480/2004 Slg. über "
+"bestimmte Dienste der Informationsgesellschaft, wenn sie diesen Diensten, "
+"Produkten und/oder der Unterstützung direkt zugehörig sind."
 
 #: wllegal/templates/legal/documents/privacy.html:207
 msgid ""
@@ -418,6 +593,14 @@ msgid ""
 "revoked at any time by clicking on the link found in the footer of such "
 "commercial communication."
 msgstr ""
+"Der Benutzer kann jedoch ausdrücklich und <strong>freiwillig</strong> im "
+"Sinne des § 7 Abs. 2 des Gesetzes Nr. 480/2004 Slg. über bestimmte Dienste "
+"der Informationsgesellschaft und zur Änderung bestimmter Gesetze zustimmen, "
+"weitergehende kommerzielle Mitteilungen (z.B. im Falle von indirektem "
+"Marketing) des Anbieters an die elektronische Adresse des Benutzers zu "
+"erhalten. Diese Zustimmung kann selbstverständlich jederzeit widerrufen "
+"werden, indem man auf den Link klickt, der sich in der Fußzeile einer "
+"solchen kommerziellen Mitteilung befindet."
 
 #: wllegal/templates/legal/documents/privacy.html:211
 msgid ""
@@ -425,6 +608,9 @@ msgid ""
 "related to Personal Data that affects the User, they will notify the User of "
 "this fact without undue delay."
 msgstr ""
+"Für den Fall, dass der Provider und/oder die Auftragsverarbeiter von einem "
+"Sicherheitsrisiko in Bezug auf Personenbezogene Daten erfahren, das den "
+"Benutzer betrifft, werden sie den Benutzer unverzüglich darüber informieren."
 
 #: wllegal/templates/legal/documents/privacy.html:215
 msgid ""
@@ -433,6 +619,11 @@ msgid ""
 "other incident leading to loss. However, the Provider is not responsible for "
 "the improper actions of the Processors."
 msgstr ""
+"Der Anbieter unterstützt den Benutzer bei der Geltendmachung von "
+"Schadenersatzansprüchen gegenüber den verantwortlichen Verarbeitern im Falle "
+"einer Datenverletzung oder eines anderen Ereignisses, das zu einem Verlust "
+"führt, und leistet ihm Rechtsbeistand. Der Anbieter ist jedoch nicht für die "
+"unzulässigen Handlungen der Auftragsverarbeiter verantwortlich."
 
 #: wllegal/templates/legal/documents/privacy.html:219
 msgid ""
@@ -444,6 +635,14 @@ msgid ""
 "the User in the case where they provide the Provider with Personal Data of "
 "data subjects other than this User."
 msgstr ""
+"Der Benutzer bestätigt hiermit, dass die angegebenen Personenbezogenen Daten "
+"wahrheitsgetreu und richtig sind und sich ausschließlich auf den Benutzer "
+"beziehen bzw. dass er Daten angegeben hat, deren Verwendung nicht die Rechte "
+"Dritter verletzt. Der Benutzer ist verpflichtet, den Anbieter stets über "
+"Änderungen seiner Personenbezogenen Daten zu informieren, damit nur aktuelle "
+"und vollständige Daten verarbeitet werden. Die gleichen Pflichten treffen "
+"den Benutzer, wenn er dem Anbieter personenbezogene Daten von anderen "
+"Betroffenen als diesem Benutzer zur Verfügung stellt."
 
 #: wllegal/templates/legal/documents/privacy.html:223
 msgid ""
@@ -452,6 +651,11 @@ msgid ""
 "never be subject to individual automated decision-making (including "
 "profiling) within the meaning of Article 22 of the GDPR."
 msgstr ""
+"Personenbezogene Daten werden elektronisch verarbeitet, auch unter Einsatz "
+"automatisierter Verarbeitungsmethoden. Der Benutzer oder andere betroffene "
+"Personen werden jedoch niemals einer individuellen automatisierten "
+"Entscheidungsfindung (einschließlich Profiling) im Sinne von Artikel 22 der "
+"DSGVO unterworfen sein."
 
 #: wllegal/templates/legal/documents/privacy.html:227
 msgid ""
@@ -459,12 +663,14 @@ msgid ""
 "the GDPR) may be processed even after all legal grounds for processing the "
 "User's Personal Data have ceased."
 msgstr ""
+"Anonymisierte personenbezogene Daten (die nach der DSGVO nicht mehr als "
+"personenbezogene Daten gelten) können auch dann noch verarbeitet werden, "
+"wenn alle rechtlichen Gründe für die Verarbeitung der personenbezogenen "
+"Daten des Benutzers weggefallen sind."
 
 #: wllegal/templates/legal/documents/privacy.html:232
-#, fuzzy
-#| msgid "Order us to delete your Personal Data"
 msgid "User Rights in Relation to Personal Data"
-msgstr "Von uns verlangen, Ihre personenbezogenen Daten zu löschen"
+msgstr "Benutzerrechte in Bezug auf personenbezogene Daten"
 
 #: wllegal/templates/legal/documents/privacy.html:236
 #, python-format
@@ -476,6 +682,12 @@ msgid ""
 "correction, restriction, or deletion) can be automated through this user "
 "account."
 msgstr ""
+"Der Benutzer kann seine Rechte, die sich aus der DSGVO ergeben, jederzeit "
+"ausüben, indem er eine E-Mail-Adresse an <a href=\"mailto:%(address)s\""
+">%(address)s</a> sendet, sowie über sein Benutzerkonto, da die Umsetzung der "
+"meisten der unten aufgeführten Rechte (insbesondere der Zugang zu allen "
+"verarbeiteten Personenbezogenen Daten, deren Korrektur, Einschränkung oder "
+"Löschung) über dieses Benutzerkonto automatisiert werden kann."
 
 #: wllegal/templates/legal/documents/privacy.html:240
 msgid ""
@@ -484,30 +696,44 @@ msgid ""
 "strong>, unless due to the complexity of the matter it is necessary for the "
 "Provider to extend this period. The User's rights include:"
 msgstr ""
+"Der Anbieter wird sich bemühen, Anfragen bezüglich der personenbezogenen "
+"Daten des Benutzers so schnell wie möglich zu bearbeiten, spätestens jedoch "
+"innerhalb von <strong>30 Tagen</strong>, es sei denn, die Komplexität der "
+"Angelegenheit macht es erforderlich, dass der Anbieter diese Frist "
+"verlängert. Zu den Rechten des Benutzers gehören:"
 
 #: wllegal/templates/legal/documents/privacy.html:245
 msgid ""
 "an explanation of whether and what personal data is being processed and, if "
 "applicable, requesting the Provider to disclose it;"
 msgstr ""
+"eine Erläuterung, ob und welche personenbezogenen Daten verarbeitet werden, "
+"und gegebenenfalls die Aufforderung an den Anbieter, diese offenzulegen;"
 
 #: wllegal/templates/legal/documents/privacy.html:248
 msgid ""
 "correction of personal data if there is concern that some of it is "
 "inaccurate or missing;"
 msgstr ""
+"die Berichtigung personenbezogener Daten, wenn der Verdacht besteht, dass "
+"einige dieser Daten unrichtig sind oder fehlen;"
 
 #: wllegal/templates/legal/documents/privacy.html:251
 msgid ""
 "restriction of processing if there is concern that the Provider is "
 "processing more data than necessary;"
 msgstr ""
+"Einschränkung der Verarbeitung, wenn die Befürchtung besteht, dass der "
+"Anbieter mehr Daten als erforderlich verarbeitet;"
 
 #: wllegal/templates/legal/documents/privacy.html:254
 msgid ""
 "deletion of personal data based on the consent of the Provider, provided "
 "that there is no other legal reason for further processing of personal data;"
 msgstr ""
+"Löschung personenbezogener Daten auf der Grundlage der Zustimmung des "
+"Anbieters, sofern kein anderer rechtlicher Grund für die weitere "
+"Verarbeitung personenbezogener Daten vorliegt;"
 
 #: wllegal/templates/legal/documents/privacy.html:257
 msgid ""
@@ -515,12 +741,18 @@ msgid ""
 "on the consent of the Provider or in connection with fulfilling the "
 "Provider's contractual obligations, in a machine-readable format;"
 msgstr ""
+"Ausstellung einer Kopie der personenbezogenen Daten, die mit Zustimmung des "
+"Anbieters oder im Zusammenhang mit der Erfüllung der vertraglichen "
+"Verpflichtungen des Anbieters automatisiert verarbeitet werden, in einem "
+"maschinenlesbaren Format;"
 
 #: wllegal/templates/legal/documents/privacy.html:260
 msgid ""
 "temporary freezing of data processing operations for the purposes of the "
 "legitimate interest of the Provider;"
 msgstr ""
+"vorübergehendes Einfrieren der Datenverarbeitungsvorgänge zur Wahrung des "
+"berechtigten Interesses des Providers;"
 
 #: wllegal/templates/legal/documents/privacy.html:263
 #, python-format
@@ -530,11 +762,16 @@ msgid ""
 "authority if the User believes that the Provider is processing personal data "
 "in violation of this Policy or legal regulations."
 msgstr ""
+"eine Beschwerde direkt beim Amt für den Schutz personenbezogener Daten (<a "
+"href=\"%(url)s\">%(url)s</a>) oder einer anderen zuständigen nationalen "
+"Datenschutzbehörde einzureichen, wenn der Benutzer der Ansicht ist, dass der "
+"Anbieter personenbezogene Daten unter Verstoß gegen diese Richtlinie oder "
+"gegen gesetzliche Vorschriften verarbeitet."
 
 #: wllegal/templates/legal/documents/privacy.html:268
 #: wllegal/templates/legal/documents/tos.html:619
 msgid "Final Provisions"
-msgstr ""
+msgstr "Schlussbestimmungen"
 
 #: wllegal/templates/legal/documents/privacy.html:272
 msgid ""
@@ -545,6 +782,13 @@ msgid ""
 "Policy displayed within the Service, or upon the next first login to their "
 "User Account."
 msgstr ""
+"Der Provider ist berechtigt, die Richtlinie einseitig zu ändern. Der neue "
+"Wortlaut der Richtlinie tritt mit der Veröffentlichung auf der Website in "
+"Kraft. Der Benutzer, der zum Zeitpunkt der Änderung in einem "
+"Vertragsverhältnis mit dem Anbieter steht, das durch diese Richtlinie "
+"geregelt wird, erhält eine Benachrichtigung über die Änderung der "
+"Richtlinie, die im Dienst angezeigt wird, oder bei der nächsten Anmeldung in "
+"seinem Benutzerkonto."
 
 #: wllegal/templates/legal/documents/privacy.html:276
 msgid ""
@@ -554,6 +798,11 @@ msgid ""
 "Policy will be resolved before the competent civil court in the Czech "
 "Republic."
 msgstr ""
+"Alle Rechtsbeziehungen zwischen dem Anbieter und dem Benutzer, die sich aus "
+"dieser Policy ergeben, unterliegen dem geltenden Recht der Tschechischen "
+"Republik. Alle Streitigkeiten, die sich zwischen dem Anbieter und dem "
+"Benutzer aus oder im Zusammenhang mit dieser Richtlinie ergeben, werden vor "
+"dem zuständigen Zivilgericht in der Tschechischen Republik entschieden."
 
 #: wllegal/templates/legal/documents/privacy.html:280
 msgid ""
@@ -566,6 +815,14 @@ msgid ""
 "Council (EC) No. 593/2008 of June 17, 2008, on the law applicable to "
 "contractual obligations (Rome I)."
 msgstr ""
+"Enthält das durch den Vertrag begründete Rechtsverhältnis einen "
+"internationalen (ausländischen) Bezug, so entzieht die Rechtswahl nach dem "
+"vorstehenden Satz dem Benutzer - Verbraucher nicht den Schutz, der ihm durch "
+"diejenigen Bestimmungen der Rechtsordnung gewährt wird, von denen "
+"vertraglich nicht abgewichen werden kann und die nach den Bestimmungen des "
+"Art. 6 Abs. 1 der Verordnung des Europäischen Parlaments und des Rates (EG) "
+"Nr. 593/2008 vom 17. Juni 2008 über das auf vertragliche Schuldverhältnisse "
+"anzuwendende Recht (Rom I) ohne Rechtswahl gelten würden."
 
 #: wllegal/templates/legal/documents/privacy.html:284
 msgid ""
@@ -575,14 +832,20 @@ msgid ""
 "provision does not affect the validity of the other provisions of this "
 "Policy."
 msgstr ""
+"Sollte eine Bestimmung der Police ungültig oder unwirksam sein oder werden, "
+"so tritt an die Stelle der ungültigen Bestimmungen diejenige, deren "
+"Bedeutung der ungültigen Bestimmung am nächsten kommt. Die Ungültigkeit oder "
+"Unwirksamkeit einer Bestimmung berührt die Gültigkeit der übrigen "
+"Bestimmungen dieser Police nicht."
 
 #: wllegal/templates/legal/documents/privacy.html:288
 msgid "This Policy become effective upon their publication on the Website."
 msgstr ""
+"Diese Richtlinie tritt mit ihrer Veröffentlichung auf der Website in Kraft."
 
 #: wllegal/templates/legal/documents/privacy.html:292
 msgid "In Prague on November 1, 2024."
-msgstr ""
+msgstr "In Prag am 1. November 2024."
 
 #: wllegal/templates/legal/documents/summary.html:5
 msgid ""
@@ -635,17 +898,13 @@ msgstr ""
 "bereitgestellt."
 
 #: wllegal/templates/legal/documents/tos.html:11
-#, fuzzy
-#| msgid ""
-#| "The rights and obligations of the User and the Provider resulting from "
-#| "the use of the Service are governed by these Terms of Service."
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
 msgstr ""
-"Die Rechte und Pflichten von Nutzer und Anbieter, die sich aus der "
-"Verwendung des Dienstes ergeben, werden durch diese Nutzungsbedingungen "
-"geregelt."
+"Die Rechte und Pflichten des Benutzers und des Anbieters, die sich aus der "
+"Nutzung des Dienstes ergeben, sind in diesen Allgemeinen "
+"Geschäftsbedingungen geregelt."
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid ""
@@ -656,32 +915,39 @@ msgid ""
 "Services and Products. These general terms and conditions govern the "
 "contractual relationship between the service provider and the User."
 msgstr ""
+"Diese allgemeinen Geschäftsbedingungen sind Bestandteil des zwischen dem "
+"Benutzer und dem Anbieter abgeschlossenen Dienstvertrages (nachfolgend "
+"\"Vertrag\" genannt) und legen die verbindlichen Regeln und Bedingungen für "
+"die Erbringung von Dienstleistungen und Produkten sowie die Nutzung von "
+"Dienstleistungen und Produkten fest. Diese allgemeinen Begriffe und "
+"Bedingungen regeln das Vertragsverhältnis zwischen dem Dienst und dem "
+"Benutzer."
 
 #: wllegal/templates/legal/documents/tos.html:24
 msgid ""
 "The definitions below have the following meanings for the purposes of these "
 "general terms and conditions:"
 msgstr ""
+"Die nachstehenden Begriffe haben für die Zwecke dieser allgemeinen "
+"Geschäftsbedingungen folgende Bedeutung:"
 
 #: wllegal/templates/legal/documents/tos.html:30
 msgid "Civil Code"
 msgstr "Bürgerliches Gesetzbuch"
 
 #: wllegal/templates/legal/documents/tos.html:33
-#, fuzzy
-#| msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
 msgstr ""
-"bedeutet Gesetz Nr. %(law_89_2012)s Slg., das Bürgerlichen Gesetzbuchs, in "
-"der jeweils gültigen Fassung"
+"bezeichnet das Gesetz Nr. 89/2012 Slg. über das Zivilgesetzbuch in seiner "
+"geänderten Fassung;"
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
-msgstr ""
+msgstr "Vertragsparteien"
 
 #: wllegal/templates/legal/documents/tos.html:40
 msgid "jointly refers to the User and the Provider;"
-msgstr ""
+msgstr "bezieht sich gemeinsam auf den Benutzer und den Anbieter;"
 
 #: wllegal/templates/legal/documents/tos.html:44
 msgid "Cookies"
@@ -695,60 +961,61 @@ msgid ""
 "Coll., on Certain Information Society Services and Amending Certain Acts, as "
 "amended;"
 msgstr ""
+"bezeichnet alle Daten, die vom Webserver des Dienstes an den Computer oder "
+"ein anderes mit dem Internet verbundenes Gerät des Benutzers gesendet werden "
+"und die die eindeutige Identifizierung des Webbrowsers des Benutzers gemäß § "
+"89 des Gesetzes Nr. 480/2004 Slg. über bestimmte Dienste der "
+"Informationsgesellschaft und zur Änderung bestimmter Gesetze in seiner "
+"geänderten Fassung ermöglichen;"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Dedicated Weblate"
-msgstr ""
+msgstr "Dedizierte Weblate-Installation"
 
 #: wllegal/templates/legal/documents/tos.html:54
 msgid ""
 "means a form of collaboration where the User is the sole user of the Service "
 "in a cloud hosted and provided by the Provider;"
 msgstr ""
+"bezeichnet eine Form der Zusammenarbeit, bei der der Benutzer der einzige "
+"Benutzer des Dienstes in einer vom Anbieter gehosteten und bereitgestellten "
+"Cloud ist;"
 
 #: wllegal/templates/legal/documents/tos.html:58
 msgid "GDPR"
 msgstr "DSGVO"
 
 #: wllegal/templates/legal/documents/tos.html:61
-#, fuzzy
-#| msgid ""
-#| "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
-#| "Regulation"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
 msgstr ""
-"bedeutet EU-Verordnung Nr. %(law_679_2016)s, die Datenschutz-Grundverordnung"
+"bezeichnet die EU-Verordnung Nr. 679/2016, Allgemeine Verordnung über den "
+"Schutz personenbezogener Daten;"
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
-msgstr ""
+msgstr "GTC"
 
 #: wllegal/templates/legal/documents/tos.html:68
 msgid ""
 "means these general terms and conditions, which form an integral part of the "
 "Agreement;"
 msgstr ""
+"bezeichnet diese allgemeinen Begriffe und Bedingungen, die einen integralen "
+"Bestandteil des Vertrags bilden;"
 
 #: wllegal/templates/legal/documents/tos.html:72
 msgid "Hosted String"
-msgstr ""
+msgstr "Gehostete Zeichenkette"
 
 #: wllegal/templates/legal/documents/tos.html:75
-#, fuzzy
-#| msgid ""
-#| "Pricing is based on the number of source strings and target languages. "
-#| "The source string is a text unit defined in a translation format, it can "
-#| "be a word, sentence or paragraph."
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
 msgstr ""
-"Die Preisgestaltung basiert auf der Anzahl der Ursprungszeichenketten und "
-"Zielsprachen. Die Ursprungszeichenkette ist eine Texteinheit, wie sie sich "
-"aus der Datei im verwendeten Übersetzungsformat ergibt. Es kann ein Wort, "
-"ein Satz oder ein Absatz sein."
+"bedeutet eine im Übersetzungsformat definierte Texteinheit. Dies kann ein "
+"Wort, ein Satz oder ein Absatz sein;"
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
@@ -760,64 +1027,64 @@ msgid ""
 "provides Services to Users on a non-dedicated (i.e., shared by multiple "
 "Users) cloud operated by the Provider;"
 msgstr ""
+"bezeichnet eine Form der Zusammenarbeit, die rein Cloud-basiert ist und bei "
+"der der Anbieter den Benutzern Dienste in einer vom Anbieter betriebenen, "
+"nicht dedizierten (d. h. von mehreren Benutzern gemeinsam genutzten) Cloud "
+"bereitstellt;"
 
 #: wllegal/templates/legal/documents/tos.html:86
 msgid "License"
 msgstr "Lizenz"
 
 #: wllegal/templates/legal/documents/tos.html:89
-#, fuzzy
-#| msgid ""
-#| "means non-exclusive license granted by the Provider to the User for use "
-#| "of the Service"
 msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
 msgstr ""
-"bedeutet eine nicht-exklusive Lizenz, die der Anbieter dem Nutzer für die "
-"Nutzung des Dienstes gewährt"
+"bezeichnet die nicht-exklusive Lizenz, die der Provider dem Benutzer für die "
+"Nutzung des Dienstes gewährt;"
 
 #: wllegal/templates/legal/documents/tos.html:93
 msgid "Personal Data"
 msgstr "Personenbezogene Daten"
 
 #: wllegal/templates/legal/documents/tos.html:96
-#, fuzzy
-#| msgid ""
-#| "means personal data within the meaning of EU Regulation No. "
-#| "%(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"bedeutet personenbezogene Daten im Sinne der EU-Verordnung Nr. "
-"%(law_679_2016)s, die vom Nutzer in den Dienst und/oder Cookies eingefügt "
-"werden"
+"sind personenbezogene Daten im Sinne der EU-Verordnung 679/2016, die vom "
+"Benutzer in den Dienst und/oder in Cookies eingegeben werden;"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
 msgid "Price"
-msgstr ""
+msgstr "Preis"
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid ""
 "the value expressed in money for the provided License in accordance with the "
 "Price List;"
 msgstr ""
+"den in Geld ausgedrückten Wert für die bereitgestellte Lizenz gemäß der "
+"Preisliste;"
 
 #: wllegal/templates/legal/documents/tos.html:107
 msgid "Price List"
-msgstr ""
+msgstr "Die Preisliste"
 
 #: wllegal/templates/legal/documents/tos.html:110
 msgid ""
 "means the document or web page that specifies the Price of the Service and/"
 "or Product unless otherwise stated in the Agreement;"
 msgstr ""
+"bezeichnet das Dokument oder die Webseite, in dem/der der Preis für den "
+"Dienst und/oder das Produkt angegeben ist, sofern in der Vereinbarung nichts "
+"anderes angegeben ist;"
 
 #: wllegal/templates/legal/documents/tos.html:114
 msgid "Product"
-msgstr ""
+msgstr "Produkt"
 
 #: wllegal/templates/legal/documents/tos.html:117
 msgid ""
@@ -825,6 +1092,10 @@ msgid ""
 "Provider based on its brand usage policy. The User purchases the Product AS "
 "IS. Support and other services are provided separately;"
 msgstr ""
+"bezeichnet jeden Dienst oder einen Teil davon, der unter einer bestimmten "
+"Marke des Anbieters auf der Grundlage seiner Markenverwendungspolitik "
+"bereitgestellt wird. Der Benutzer erwirbt das Produkt AS IS. Unterstützung "
+"und andere Dienste werden separat angeboten;"
 
 #: wllegal/templates/legal/documents/tos.html:121
 msgid "Provider"
@@ -837,36 +1108,38 @@ msgid ""
 "the Commercial Register maintained by the Regional Court in Ústí nad Labem, "
 "file no. C 52324, with which the Agreement was concluded;"
 msgstr ""
+"bezieht sich auf die Firma <strong>Weblate s.r.o.</strong>, ID-Nr. 21668027, "
+"mit Sitz in Nábřežní 694, Cvikov II, 471 54 Cvikov, eingetragen im "
+"Handelsregister des Kreisgerichts in Ústí nad Labem, Aktenzeichen. C 52324, "
+"mit dem der Vertrag geschlossen wurde;"
 
 #: wllegal/templates/legal/documents/tos.html:128
 msgid "Service"
 msgstr "Dienst"
 
 #: wllegal/templates/legal/documents/tos.html:131
-#, fuzzy
-#| msgid ""
-#| "means the website and services based on Weblate operated by the Provider"
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
 msgstr ""
-"bezeichnet die Website und Dienste auf der Grundlage von Weblate, die vom "
-"Anbieter betrieben werden"
+"bezeichnet die auf Weblate basierenden Websites und Dienste, die vom "
+"Anbieter bereitgestellt werden;"
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid "Self-hosting"
-msgstr ""
+msgstr "Self-Hosting"
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid ""
 "means a form of collaboration where the User is the sole user of the "
 "Service, and this Service is operated directly on the User Server;"
 msgstr ""
+"ist eine Form der Zusammenarbeit, bei der der Benutzer der einzige Benutzer "
+"des Dienstes ist und dieser Dienst direkt auf dem Benutzerserver betrieben "
+"wird;"
 
 #: wllegal/templates/legal/documents/tos.html:142
-#, fuzzy
-#| msgid "Service"
 msgid "Support Services"
-msgstr "Dienst"
+msgstr "Unterstützung der Dienste"
 
 #: wllegal/templates/legal/documents/tos.html:145
 msgid ""
@@ -874,79 +1147,82 @@ msgid ""
 "Support Services are governed separately by a separate support service "
 "agreement;"
 msgstr ""
+"bezeichnet die Unterstützung, die der Anbieter dem Benutzer im Rahmen des "
+"Dienstes anbietet. Die Unterstützung der Dienste wird in einem separaten "
+"Vertrag über die Unterstützung der Dienste geregelt;"
 
 #: wllegal/templates/legal/documents/tos.html:149
 msgid "Translation Memory"
 msgstr "Übersetzungsspeicher"
 
 #: wllegal/templates/legal/documents/tos.html:152
-#, fuzzy
-#| msgid ""
-#| "means the optional translation memory service provided within Weblate"
 msgid "means an optional translation memory service provided on Weblate;"
 msgstr ""
-"bedeutet der optionale Übersetzungsspeicherdienst, der in Weblate angeboten "
-"wird"
+"bezeichnet einen optionalen Übersetzungsspeicher-Dienst, der auf Weblate "
+"angeboten wird;"
 
 #: wllegal/templates/legal/documents/tos.html:156
 msgid "User"
 msgstr "Benutzer"
 
 #: wllegal/templates/legal/documents/tos.html:159
-#, fuzzy
-#| msgid ""
-#| "means any legal entity or an individual other than the Provider, who is "
-#| "using the Service"
 msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
 msgstr ""
-"bezeichnet jede juristische Person oder eine andere Person als den Provider, "
-"die den Service nutzt"
+"bezeichnet jede juristische oder natürliche Person mit Ausnahme des "
+"Providers, die den Dienst in Anspruch nimmt;"
 
 #: wllegal/templates/legal/documents/tos.html:163
 msgid "User Account"
-msgstr ""
+msgstr "Benutzerkonto"
 
 #: wllegal/templates/legal/documents/tos.html:166
 msgid ""
 "means a user account with a unique access code and password in the Hosted "
 "Weblate web interface. Each User Account can be used by only one User;"
 msgstr ""
+"ist ein Benutzerkonto mit einem eindeutigen Zugangscode und Passwort in der "
+"Hosted Weblate-Weboberfläche. Jedes Benutzerkonto kann nur von einem "
+"Benutzer verwendet werden;"
 
 #: wllegal/templates/legal/documents/tos.html:170
 msgid "User Server"
-msgstr ""
+msgstr "Benutzer Server"
 
 #: wllegal/templates/legal/documents/tos.html:173
 msgid ""
 "refers to the server and other hardware equipment not owned, managed, or "
 "controlled by the Provider;"
 msgstr ""
+"bezieht sich auf den Server und andere Hardwareausrüstung, die nicht dem "
+"Provider gehört, von ihm verwaltet oder kontrolliert wird;"
 
 #: wllegal/templates/legal/documents/tos.html:179
 msgid "Methods of Acceptance"
-msgstr ""
+msgstr "Methoden des Annehmens"
 
 #: wllegal/templates/legal/documents/tos.html:183
 msgid "The License is granted to the User based on the concluded Agreement."
 msgstr ""
+"Die Lizenz wird dem Benutzer auf der Grundlage des abgeschlossenen Vertrags "
+"erteilt."
 
 #: wllegal/templates/legal/documents/tos.html:187
 msgid "These GTC are an integral part of the Agreement."
-msgstr ""
+msgstr "Diese AGB sind integraler Bestandteil des Vertrages."
 
 #: wllegal/templates/legal/documents/tos.html:191
-#, fuzzy
-#| msgid "License Agreement Conclusion"
 msgid "The Agreement is concluded:"
-msgstr "Abschluss des Lizenzvertrages"
+msgstr "Das Abkommen ist abgeschlossen:"
 
 #: wllegal/templates/legal/documents/tos.html:196
 msgid ""
 "on the day of signing by both parties (especially for all Services offered "
 "with custom settings);"
 msgstr ""
+"am Tag der Unterzeichnung durch beide Parteien (insbesondere bei allen "
+"Diensten, die mit individuellen Einstellungen angeboten werden);"
 
 #: wllegal/templates/legal/documents/tos.html:199
 msgid ""
@@ -957,10 +1233,16 @@ msgid ""
 "Provider's bank account) for the amount stated in the first billing period "
 "by the User."
 msgstr ""
+"online durch Annehmen (Bestätigung) über die Weboberfläche gemäß der "
+"Preisliste, wobei der Vertrag wirksam wird, sobald der Preis für die Lizenz "
+"ordnungsgemäß bezahlt wurde (im Falle einer Banküberweisung, sobald der "
+"Betrag, der dem Preis für die Lizenz entspricht, dem Girokonto des Anbieters "
+"gutgeschrieben wurde), und zwar für den im ersten Abrechnungszeitraum "
+"angegebenen Betrag durch den Benutzer."
 
 #: wllegal/templates/legal/documents/tos.html:207
 msgid "Service Provision"
-msgstr ""
+msgstr "Dienst Bereitstellung"
 
 #: wllegal/templates/legal/documents/tos.html:211
 msgid ""
@@ -969,6 +1251,10 @@ msgid ""
 "accordance with the Agreement and the technical specifications outlined in "
 "the Product specification."
 msgstr ""
+"Der Anbieter betreibt den Dienst unter der in der Produktbeschreibung "
+"angegebenen Internetadresse und deren Subdomains oder auf den Servern des "
+"Benutzers nach Maßgabe des Vertrages und der in der Produktbeschreibung "
+"dargestellten technischen Spezifikationen."
 
 #: wllegal/templates/legal/documents/tos.html:215
 msgid ""
@@ -979,12 +1265,20 @@ msgid ""
 "specification defined in this manner takes precedence over the form of "
 "Service offered according to the Price list."
 msgstr ""
+"Wird der Vertrag gemäß Artikel 2.3(a) geschlossen, wird der Umfang der "
+"Dienste in der Produktspezifikation festgelegt, die dem Vertrag beigefügt "
+"ist. Die Produktspezifikation kann den Umfang der einzelnen (Teil-)Dienste "
+"hinsichtlich ihres Inhalts und ihrer Aktivierungsmethoden weiter "
+"spezifizieren. Die so definierte Produktspezifikation hat Vorrang vor der "
+"Form des angebotenen Dienstes gemäß der Preisliste."
 
 #: wllegal/templates/legal/documents/tos.html:219
 msgid ""
 "The Service is provided in three forms of cooperation: Hosted Weblate, "
 "Dedicated Weblate, and Self-hosting."
 msgstr ""
+"Der Dienst wird in drei Formen der Zusammenarbeit angeboten: Hosted Weblate, "
+"Dedicated Weblate und Self-Hosting."
 
 #: wllegal/templates/legal/documents/tos.html:223
 msgid ""
@@ -997,12 +1291,19 @@ msgid ""
 "third parties may process Personal Data within their activities in "
 "accordance with the Agreement and GPLv3."
 msgstr ""
+"In Übereinstimmung mit der GPLv3 können bestimmte Aspekte des Dienstes "
+"entweder mit Hilfe von Drittanbietern, die nicht der Provider sind, oder "
+"direkt durch diese Parteien bereitgestellt werden. Der Benutzer erkennt an, "
+"dass diese Drittanbieter ihre Dienste in Übereinstimmung mit dem "
+"vorliegenden Vertrag und der GPLv3-Lizenz erbringen werden. Der Benutzer "
+"erkennt an, dass Drittanbieter, die an der Bereitstellung des Dienstes "
+"beteiligt sind, sich im Laufe der Bereitstellung des Dienstes ändern können. "
+"Diese Drittanbieter können im Rahmen ihrer Tätigkeit Personenbezogene Daten "
+"in Übereinstimmung mit dem Vertrag und der GPLv3 verarbeiten."
 
 #: wllegal/templates/legal/documents/tos.html:227
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
-msgstr "Dienst"
+msgstr "Dienst Dauer"
 
 #: wllegal/templates/legal/documents/tos.html:231
 msgid ""
@@ -1011,6 +1312,10 @@ msgid ""
 "subscription can be paid monthly or annually in accordance with Article 5 of "
 "the GTC."
 msgstr ""
+"Sofern im Vertrag nicht ausdrücklich anders vereinbart, wird der Vertrag für "
+"einen Zeitraum geschlossen, der einem Abonnement-Modell entspricht. Das "
+"Abonnement kann monatlich oder jährlich in Übereinstimmung mit Artikel 5 der "
+"AGB bezahlt werden."
 
 #: wllegal/templates/legal/documents/tos.html:239
 msgid ""
@@ -1022,6 +1327,14 @@ msgid ""
 "List. The price for Services consists of the following separate items or "
 "their combination, which are paid regularly monthly/annually:"
 msgstr ""
+"Der Preis für den Dienst bestimmt sich nach dem Angebot oder der Preisliste. "
+"Der Benutzer nimmt zur Kenntnis und erklärt sich damit einverstanden, dass "
+"die Preisliste einseitig durch den Anbieter in gleicher Weise wie diese AGB "
+"geändert werden kann. Der Preis hängt von der gewählten Konfiguration des "
+"Dienstes ab, und es gibt viele Varianten, in denen der Dienst erbracht "
+"werden kann. Diese Varianten sind in der Preisliste aufgeführt. Der Preis "
+"für die Dienste setzt sich aus den folgenden Einzelposten oder deren "
+"Kombination zusammen, die regelmäßig monatlich/jährlich zu zahlen sind:"
 
 #: wllegal/templates/legal/documents/tos.html:243
 msgid ""
@@ -1030,6 +1343,11 @@ msgid ""
 "but paid monthly or annually, with this price varying for different forms of "
 "collaboration according to the Price List;"
 msgstr ""
+"regulärer Preis für den Zugang zu den Diensten, der ebenfalls immer für den "
+"jeweiligen Zeitraum und auf der Grundlage der spezifischen Bedingungen des "
+"Dienstes festgelegt wird, jedoch monatlich oder jährlich zu zahlen ist, "
+"wobei dieser Preis für verschiedene Formen der Zusammenarbeit gemäß der "
+"Preisliste variiert;"
 
 #: wllegal/templates/legal/documents/tos.html:246
 msgid ""
@@ -1037,24 +1355,30 @@ msgid ""
 "User from the options offered in the Price List or in agreement with the "
 "Provider;"
 msgstr ""
+"regulärer Preis für die Anzahl der gehosteten Zeichenketten; diesen Betrag "
+"wählt der Benutzer aus den in der Preisliste angebotenen Optionen oder in "
+"Absprache mit dem Provider;"
 
 #: wllegal/templates/legal/documents/tos.html:249
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "Übersetzungsspeicher"
+msgstr "regulärer Preis für Übersetzungsspeicher;"
 
 #: wllegal/templates/legal/documents/tos.html:254
 msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
 msgstr ""
+"(die Punkte a), b) und c) werden zusammen als \"<strong>Abonnement</strong>\""
+" bezeichnet)."
 
 #: wllegal/templates/legal/documents/tos.html:258
 msgid ""
 "To avoid doubt, the Subscription may guarantee either only access to a "
 "specific Product or License and/or a specific package of guaranteed Services."
 msgstr ""
+"Um Zweifel zu vermeiden, kann das Abonnement entweder nur den Zugang zu "
+"einem bestimmten Produkt oder einer Lizenz und/oder ein bestimmtes Paket "
+"garantierter Dienste garantieren."
 
 #: wllegal/templates/legal/documents/tos.html:262
 msgid ""
@@ -1063,6 +1387,10 @@ msgid ""
 "invoice is issued and delivered to the User within 5 working days after the "
 "end of each relevant period."
 msgstr ""
+"Der Benutzer ist verpflichtet, den Preis auf der Grundlage der vom Anbieter "
+"ausgestellten Steuerdokumente (Rechnungen) zu zahlen. Der Preis wird im "
+"Voraus bezahlt, und die Rechnung wird innerhalb von 5 Arbeitstagen nach dem "
+"Ende des jeweiligen Zeitraums ausgestellt und dem Benutzer zugestellt."
 
 #: wllegal/templates/legal/documents/tos.html:266
 #, python-format
@@ -1073,6 +1401,12 @@ msgid ""
 "an additional VAT of 21%%. Reverse charge applies to invoices issued to "
 "businesses within the EU."
 msgstr ""
+"Die Zahlung des Preises kann per Kreditkarte, Banküberweisung oder "
+"Kryptowährungstransaktion erfolgen. Alle in der Preisliste aufgeführten "
+"Preise verstehen sich ohne MwSt. Endbenutzer aus der EU und tschechische "
+"Unternehmen müssen eine zusätzliche MwSt. von 21%% entrichten. Die Umkehrung "
+"der Steuerschuldnerschaft gilt für Rechnungen, die an Unternehmen innerhalb "
+"der EU ausgestellt werden."
 
 #: wllegal/templates/legal/documents/tos.html:270
 msgid ""
@@ -1081,6 +1415,11 @@ msgid ""
 "automatic renewal of the Service usage. The Provider recommends verifying "
 "with the prepaid card issuer or bank whether recurring billing is possible."
 msgstr ""
+"Möchte der Benutzer vermeiden, dass ihm der Dienst im Rahmen eines "
+"Abonnements in Rechnung gestellt wird, muss er das Abonnement drei Tage vor "
+"der automatischen Erneuerung der Nutzung des Dienstes kündigen. Der Anbieter "
+"empfiehlt, mit dem Herausgeber der Prepaid-Karte oder der Bank abzuklären, "
+"ob eine wiederkehrende Abrechnung möglich ist."
 
 #: wllegal/templates/legal/documents/tos.html:274
 msgid ""
@@ -1090,6 +1429,11 @@ msgid ""
 "date as per point 5.5 above, their Subscription will stop at the end of the "
 "current billing cycle."
 msgstr ""
+"Der Benutzer kann sein Abonnement online ändern, indem er sich in sein "
+"Benutzerkonto einloggt und dort die Änderung vornimmt oder das Abonnement "
+"kündigt. Kündigt der Benutzer sein Abonnement mindestens drei Tage vor dem "
+"Verlängerungsdatum gemäß Punkt 5.5 oben, endet sein Abonnement am Ende des "
+"aktuellen Abrechnungszyklus."
 
 #: wllegal/templates/legal/documents/tos.html:278
 msgid ""
@@ -1103,6 +1447,17 @@ msgid ""
 "prepaid Services were prepaid for a period exceeding the actual usage "
 "period, the conditions of such a refund will be agreed upon individually."
 msgstr ""
+"Der Anbieter erstattet KEIN Geld für Dienste, Unterstützungsleistungen und/"
+"oder andere Dienste, die im Rahmen des Vertrages und dieser AGB erbracht "
+"wurden, wenn sie vor der Stornierung dieser Dienste durch den Benutzer "
+"erbracht wurden. Eine Stornierung der Bestellung nach der Zahlung ist nach "
+"Vereinbarung möglich, wenn der bestellte Dienst nicht genutzt wurde oder "
+"kein Downloadversuch stattgefunden hat. Wurde ein Downloadversuch "
+"unternommen, findet keine Verhandlung statt und der Benutzer hat keinen "
+"Anspruch auf Rückerstattung, Rabatte oder andere Entschädigungen. Wurden "
+"vorausbezahlte Dienste für einen Zeitraum vorausbezahlt, der über die "
+"tatsächliche Nutzungsdauer hinausgeht, werden die Bedingungen für eine "
+"solche Rückerstattung individuell vereinbart."
 
 #: wllegal/templates/legal/documents/tos.html:282
 msgid ""
@@ -1115,12 +1470,19 @@ msgid ""
 "new Price or conditions come into effect. Under these conditions, the User "
 "has the right to cancel the Subscription."
 msgstr ""
+"Die Preise und Bedingungen des Abonnements können vom Betreiber jederzeit "
+"einseitig geändert werden. Der Preis und die Bedingungen, die zum Zeitpunkt "
+"des ersten Kaufs oder der letzten Verlängerung des Abonnements gültig waren, "
+"bleiben für die Dauer des jeweiligen Abonnements in Kraft, jedoch können "
+"neue Preise und Bedingungen für Verlängerungen oder neue Abonnements gelten. "
+"Der Anbieter wird den Benutzer innerhalb eines angemessenen Zeitraums vor "
+"Inkrafttreten des neuen Preises oder der neuen Bedingungen für das "
+"Abonnement über etwaige Änderungen informieren. Unter diesen Bedingungen hat "
+"der Benutzer das Recht, das Abonnement zu kündigen."
 
 #: wllegal/templates/legal/documents/tos.html:286
-#, fuzzy
-#| msgid "License"
 msgid "License Terms"
-msgstr "Lizenz"
+msgstr "Lizenz Begriffe"
 
 #: wllegal/templates/legal/documents/tos.html:290
 #, python-format
@@ -1132,6 +1494,13 @@ msgid ""
 "License is provided. The License is granted in accordance with the option "
 "selected according to the Price List."
 msgstr ""
+"Die Software des Anbieters und die Weblate-Softwareerweiterungen werden "
+"unter der GNU/GPLv3-Lizenz vertrieben (siehe <a href=\"%(url)s\">%(url)s</a>)"
+". Dem Benutzer wird eine nicht-exklusive Lizenz für alle Elemente des "
+"Dienstes gemäß den Begriffen der AGB in ihrer zum Zeitpunkt der "
+"Bereitstellung der Lizenz zuletzt aktualisierten Fassung gewährt. Die Lizenz "
+"wird in Übereinstimmung mit der gemäß der Preisliste gewählten Option "
+"gewährt."
 
 #: wllegal/templates/legal/documents/tos.html:294
 #, python-format
@@ -1144,6 +1513,14 @@ msgid ""
 "according to the information provided on the Provider's website (see <a "
 "href=\"%(url)s\">%(url)s</a>)."
 msgstr ""
+"Sofern in der Vereinbarung nicht anders angegeben, unterliegen die "
+"Lizenzbegriffe dieser Vereinbarung vollständig der GPLv3-Lizenz. Ausgewählte "
+"Teile der Software können jedoch auch unter anderen Lizenzen lizenziert "
+"sein. Eine vollständige Liste der in der Software und den "
+"Softwareerweiterungen des Anbieters verwendeten Lizenzen ist in deren "
+"Quellcode zu finden, der gemäß den auf der Website des Anbieters "
+"bereitgestellten Informationen der REUSE 3.0-Spezifikation entspricht (siehe "
+"<a href=\"%(url)s\">%(url)s</a>)."
 
 #: wllegal/templates/legal/documents/tos.html:298
 msgid ""
@@ -1155,6 +1532,13 @@ msgid ""
 "creating, and distributing the Service, even if the User does not publicly "
 "release the Service."
 msgstr ""
+"Der Benutzer erkennt an, dass alle Urheberrechte und sonstigen geistigen "
+"Eigentumsrechte an dem Dienst dem Anbieter und/oder Drittanbietern gehören, "
+"deren Werke in den Dienst aufgenommen wurden und/oder gemeinsam mit dem "
+"Dienst genutzt werden. Der Benutzer verliert jedoch nicht das Recht, den "
+"Dienst in dem von den geltenden Lizenzen erlaubten Umfang zu nutzen, "
+"einschließlich der Ausführung, Erstellung und Verbreitung des Dienstes, auch "
+"wenn der Benutzer den Dienst nicht öffentlich freigibt."
 
 #: wllegal/templates/legal/documents/tos.html:302
 msgid ""
@@ -1164,6 +1548,11 @@ msgid ""
 "or later versions of the GPL license), they publish all materials to which "
 "they do not own copyright."
 msgstr ""
+"Zum Zwecke der ausschließlichen Änderung des Dienstes ausschließlich "
+"zugunsten des Benutzers oder der Schaffung von Mitteln zum Betrieb dieser "
+"Dienste darf der Benutzer den Dienst nur dann veröffentlichen, wenn er gemäß "
+"den Begriffen der GPLv3 (und/oder späteren Versionen der GPL-Lizenz) alle "
+"Materialien veröffentlicht, an denen er kein Urheberrecht besitzt."
 
 #: wllegal/templates/legal/documents/tos.html:306
 msgid ""
@@ -1174,6 +1563,13 @@ msgid ""
 "released. The User acknowledges that not all Self-hosting Subscription "
 "packages include updates and/or modifications to the Services."
 msgstr ""
+"Die Lizenz umfasst Aktualisierungen und/oder Änderungen an den Diensten, die "
+"vom Anbieter in der Zukunft vorgenommen werden, vorausgesetzt, dass die "
+"Dienste auf der Grundlage des gewählten Abonnements bereitgestellt werden "
+"und alle relevanten Lizenz- und sonstigen Gebühren für den Zeitraum, in dem "
+"diese Aktualisierungen und/oder Änderungen veröffentlicht werden, "
+"vollständig bezahlt sind. Der Benutzer erkennt an, dass nicht alle Self-"
+"Hosting Abonnements Updates und/oder Änderungen an den Diensten enthalten."
 
 #: wllegal/templates/legal/documents/tos.html:310
 msgid ""
@@ -1187,12 +1583,21 @@ msgid ""
 "intact, and the User provides all recipients of such copies of the source "
 "code with a copy of the license along with the program."
 msgstr ""
+"Der Benutzer ist berechtigt, den Quellcode und die urheberrechtlich "
+"geschützten Elemente innerhalb der Grenzen der GPLv3 (und/oder späterer "
+"Versionen der GPL-Lizenz) zu nutzen, einschließlich, aber nicht beschränkt "
+"auf die Anfertigung von Kopien. Der Benutzer darf solche Kopien nur dann "
+"weitergeben, wenn jede Kopie an gut sichtbarer Stelle einen Hinweis auf den "
+"Anbieter und das Fehlen einer Gewährleistung enthält, wobei sichergestellt "
+"ist, dass alle Hinweise auf diese Lizenz und etwaige zusätzliche Bedingungen "
+"unverändert bleiben, und dass alle Hinweise auf das Fehlen einer "
+"Gewährleistung unangetastet bleiben, und der Benutzer allen Empfängern "
+"solcher Kopien des Quellcodes eine Kopie der Lizenz zusammen mit dem "
+"Programm aushändigt."
 
 #: wllegal/templates/legal/documents/tos.html:314
-#, fuzzy
-#| msgid "Payment error"
 msgid "Payment Terms"
-msgstr "Zahlungsfehler"
+msgstr "Zahlungsbedingungen"
 
 #: wllegal/templates/legal/documents/tos.html:318
 msgid ""
@@ -1200,6 +1605,10 @@ msgid ""
 "issuance of invoices and to receiving them via electronic means. Invoices "
 "will be issued with a due date of 14 calendar days."
 msgstr ""
+"Die Probleme werden auf elektronischem Wege gelöst. Der Benutzer erklärt "
+"sich damit einverstanden, dass die Rechnungen auf elektronischem Wege "
+"ausgestellt werden und er sie auf elektronischem Wege erhält. Rechnungen "
+"werden mit einem Fälligkeitsdatum von 14 Kalendertagen ausgestellt."
 
 #: wllegal/templates/legal/documents/tos.html:322
 msgid ""
@@ -1210,6 +1619,13 @@ msgid ""
 "any reason, the Provider will issue an invoice, and the User is obliged to "
 "pay such an invoice within the same deadlines."
 msgstr ""
+"Der Abrechnungszeitraum ist als wiederkehrender Zeitraum (Kalendermonat/Jahr)"
+" definiert. Die Zahlung wird automatisch über die gewählte Zahlungsmethode "
+"abgebucht, und die Rechnung wird dem Benutzer unverzüglich nach Eingang der "
+"Zahlung beim Anbieter zugeschickt. Wenn die Zahlung aus irgendeinem Grund "
+"nicht automatisch abgebucht werden kann, stellt der Anbieter eine Rechnung "
+"aus, und der Benutzer ist verpflichtet, diese Rechnung innerhalb der "
+"gleichen Fristen zu begleichen."
 
 #: wllegal/templates/legal/documents/tos.html:326
 msgid ""
@@ -1221,6 +1637,14 @@ msgid ""
 "a material breach of the Agreement, entitling the Provider to terminate the "
 "Agreement for the reason stated in Article 11 below."
 msgstr ""
+"Im Falle eines Zahlungsverzugs des Benutzers ist der Anbieter außerdem "
+"berechtigt, die Erbringung des Dienstes bis zur vollständigen Begleichung "
+"der Schuld auszusetzen oder einzuschränken. Während der Aussetzung oder "
+"Einschränkung der Erbringung des Dienstes ist der Benutzer weiterhin "
+"verpflichtet, den Preis gemäß den zugestellten Steuerunterlagen zu zahlen. "
+"Wiederholte Zahlungsverzögerungen des Benutzers gelten als wesentliche "
+"Vertragsverletzung, die den Provider berechtigt, den Vertrag aus dem in "
+"Artikel 11 unten genannten Grund zu kündigen."
 
 #: wllegal/templates/legal/documents/tos.html:330
 msgid ""
@@ -1234,6 +1658,16 @@ msgid ""
 "continuous and automatically renews until it is cancelled, or the User "
 "Account is terminated."
 msgstr ""
+"Mit der Zustimmung zu den AGB zum Zeitpunkt des Kaufs erklärt sich der "
+"Benutzer mit der zukünftigen automatischen Verlängerung des Abonnements "
+"einverstanden. Das Abonnement verlängert sich automatisch am Ende jedes "
+"Abonnementzeitraums auf der Grundlage des zum Zeitpunkt des Kaufs gewählten "
+"Abonnementzeitraums. Zu Beginn eines jeden Abrechnungszeitraums wird das "
+"Abonnement zu dem in der aktualisierten Preisliste und/oder in einer "
+"gesonderten Mitteilung des Anbieters vor Ende des letzten "
+"Abrechnungszeitraums angegebenen Preis berechnet. Das Abonnement ist "
+"unbefristet und verlängert sich automatisch, bis es gekündigt oder das "
+"Benutzerkonto aufgelöst wird."
 
 #: wllegal/templates/legal/documents/tos.html:334
 msgid ""
@@ -1245,6 +1679,12 @@ msgid ""
 "conditions for the payment of the Fee are governed by the relevant "
 "contractual terms of ThePay."
 msgstr ""
+"Der Benutzer nimmt zur Kenntnis, dass im Falle der Bezahlung des Abonnements "
+"über ein Payment Gateway dieses Gateway von <strong>ThePay, a.s.</strong>, "
+"mit Sitz in Masarykovo náměstí 102/65, 586 01 Jihlava, ID: 281 35 261, "
+"eingetragen im Handelsregister des Kreisgerichts in Brünn, Abteilung B, "
+"Einlage 8977 (\"<strong>ThePay</strong>\"). Die Bedingungen für die Zahlung "
+"des Entgelts richten sich nach den entsprechenden Begriffen von ThePay."
 
 #: wllegal/templates/legal/documents/tos.html:338
 msgid ""
@@ -1252,10 +1692,13 @@ msgid ""
 "by the Provider, and the Provider is not responsible for the functionality "
 "of ThePay's payment gateway."
 msgstr ""
+"Die in das Zahlungsgateway eingegebenen Zahlungskartendaten werden nicht vom "
+"Anbieter verarbeitet, und der Anbieter ist nicht für die Funktionalität des "
+"Zahlungsgateways von ThePay verantwortlich."
 
 #: wllegal/templates/legal/documents/tos.html:342
 msgid "Supplier‘s Rights and Obligations"
-msgstr ""
+msgstr "Rechte und Pflichten des Lieferanten"
 
 #: wllegal/templates/legal/documents/tos.html:346
 msgid ""
@@ -1281,6 +1724,32 @@ msgid ""
 "any case, the User may either accept the Change (implicitly through failure "
 "to object) or terminate the Agreement within the above period."
 msgstr ""
+"Der Anbieter ist berechtigt, Änderungen an dem Dienst oder seinem Umfang "
+"vorzunehmen. In einem solchen Fall informiert der Anbieter den Benutzer über "
+"die dem Dienst zugehörige Webschnittstelle. Bei Ereignissen, die sich auf "
+"den gesetzlichen oder regulatorischen Rahmen, die Industriestandards, die "
+"zugehörigen Kosten des Anbieters, die Marktgepflogenheiten, die Bedingungen "
+"auf dem relevanten Markt oder andere Änderungen, die sich auf die Erbringung "
+"des Dienstes auswirken können, auswirken, kann der Anbieter diese Begriffe "
+"jederzeit ändern, aufheben oder ergänzen (bezeichnet als \""
+"<strong>Änderung</strong>\"), indem er den Benutzer von einer solchen "
+"Änderung benachrichtigt, indem er die überarbeitete Version dieser Begriffe "
+"auf der Website veröffentlicht und den Benutzer per E-Mail und über die "
+"zugehörige Schnittstelle zu dem bereitgestellten Dienst benachrichtigt, und "
+"zwar mindestens 14 Tage vor Inkrafttreten der Änderung. Reagiert der "
+"Benutzer nicht innerhalb der oben genannten Frist auf die Änderung, wird "
+"davon ausgegangen, dass der Benutzer mit der Änderung einverstanden ist. "
+"Eine Benachrichtigung ist nicht erforderlich, wenn die Änderung gesetzlich "
+"vorgeschrieben ist, ein Gerichtsbeschluss vorliegt, es sich um einen neuen "
+"Dienst oder zusätzliche Funktionen des bestehenden Dienstes handelt oder um "
+"eine andere Änderung, die die Rechte des Benutzers nicht einschränkt oder "
+"seine Pflichten nicht erhöht. In solchen Fällen wird die Änderung ohne "
+"vorherige Benachrichtigung des Benutzers durchgeführt und tritt sofort in "
+"Kraft. Widerspricht der Benutzer der Änderung der Bedingungen innerhalb der "
+"oben genannten Frist, ist er berechtigt, den Vertrag zu kündigen. In jedem "
+"Fall kann der Benutzer entweder die Änderung annehmen (stillschweigend durch "
+"Unterlassen des Widerspruchs) oder den Vertrag innerhalb der oben genannten "
+"Frist kündigen."
 
 #: wllegal/templates/legal/documents/tos.html:350
 msgid ""
@@ -1288,6 +1757,10 @@ msgid ""
 "to ensure the functionality and availability of the Service. The User "
 "acknowledges and agrees that they use the Service at their own risk."
 msgstr ""
+"Der Anbieter verpflichtet sich, im Rahmen seiner technischen Möglichkeiten "
+"alle Maßnahmen zu ergreifen, um die Funktionalität und Verfügbarkeit des "
+"Dienstes zu gewährleisten. Der Benutzer erkennt an und erklärt sich damit "
+"einverstanden, dass er den Dienst auf eigenes Risiko nutzt."
 
 #: wllegal/templates/legal/documents/tos.html:354
 msgid ""
@@ -1296,6 +1769,11 @@ msgid ""
 "version. The Supplier undertakes to fulfil these requirements and ensure the "
 "proper operation of the Service through its own actions."
 msgstr ""
+"Zu den grundlegenden Systemvoraussetzungen für den ordnungsgemäßen Betrieb "
+"des Dienstes gehören die Einsatzumgebung des Servers und der definierte "
+"technische Stand in der jeweils aktuellen Version. Der Anbieter verpflichtet "
+"sich, diese Voraussetzungen zu erfüllen und den ordnungsgemäßen Betrieb des "
+"Dienstes durch eigenes Handeln sicherzustellen."
 
 #: wllegal/templates/legal/documents/tos.html:358
 msgid ""
@@ -1308,6 +1786,15 @@ msgid ""
 "Supplier bears no responsibility for any damages incurred by the User in "
 "connection with these events."
 msgstr ""
+"Stellt der Benutzer ein Problem fest, das der Geschwindigkeit, der "
+"Funktionalität oder der Verfügbarkeit des Dienstes zugehört, ist er "
+"verpflichtet, dies dem Anbieter unverzüglich zu melden. Der Benutzer erkennt "
+"an, dass Ereignisse, die außerhalb der Kontrolle des Anbieters liegen, wie "
+"z.B. der Ausfall der Internetverbindung des Benutzers, Naturkatastrophen, "
+"DOS- oder DNS-Angriffe auf die technischen Einrichtungen des Anbieters und "
+"andere Faktoren, die Funktionalität oder Verfügbarkeit des Dienstes "
+"beeinträchtigen können. Der Anbieter trägt keine Verantwortung für Schäden, "
+"die dem Benutzer im Zusammenhang mit diesen Ereignissen entstehen."
 
 #: wllegal/templates/legal/documents/tos.html:362
 msgid ""
@@ -1321,12 +1808,25 @@ msgid ""
 "the Service. In the case of planned outages, the Supplier is obligated to "
 "inform the User in advance within a reasonable time."
 msgstr ""
+"Der Benutzer nimmt zur Kenntnis und erklärt sich damit einverstanden, dass "
+"der Anbieter die Bereitstellung des Dienstes aus schwerwiegenden Gründen "
+"vorübergehend unterbrechen kann, insbesondere in Fällen wie der Verhinderung "
+"von Cyberangriffen, wenn dies erforderlich ist, oder im Falle einer "
+"schwerwiegenden Störung des Dienstes, die eine wesentliche Unterbrechung "
+"erfordert. Der Anbieter muss den Benutzer so schnell wie möglich von der "
+"Unterbrechung in Kenntnis setzen. Der Anbieter ist verpflichtet, geeignete "
+"Betriebs- und Sicherheitsmaßnahmen zu ergreifen, um mögliche Störungen oder "
+"die eingeschränkte oder vollständige Nichtverfügbarkeit des Dienstes zu "
+"minimieren. Bei geplanten Ausfällen ist der Anbieter verpflichtet, den "
+"Benutzer innerhalb einer angemessenen Frist im Voraus zu informieren."
 
 #: wllegal/templates/legal/documents/tos.html:366
 msgid ""
 "The Supplier agrees not to provide the content of the User's data to third "
 "parties."
 msgstr ""
+"Der Anbieter verpflichtet sich, den Inhalt der Daten des Benutzers nicht an "
+"Drittanbieter weiterzugeben."
 
 #: wllegal/templates/legal/documents/tos.html:370
 msgid ""
@@ -1334,6 +1834,10 @@ msgid ""
 "of the User's data. The User is solely responsible for the content of the "
 "data stored on their Server or the Supplier's server."
 msgstr ""
+"Die Vertragsparteien sind sich einig, dass der Anbieter kein Eigentum an den "
+"Daten des Benutzers erwirbt. Der Benutzer ist für den Inhalt der auf seinem "
+"Server oder auf dem Server des Anbieters gespeicherten Daten allein "
+"verantwortlich."
 
 #: wllegal/templates/legal/documents/tos.html:374
 msgid ""
@@ -1342,10 +1846,15 @@ msgid ""
 "the Service in accordance with the Agreement. The User undertakes to fully "
 "cooperate with the Supplier in such cases."
 msgstr ""
+"Mit dem Annehmen dieser Begriffe nimmt der Benutzer zur Kenntnis und erklärt "
+"sich damit einverstanden, dass der Anbieter berechtigt ist, mit seinen "
+"eigenen Mitteln zu überwachen, ob der Benutzer den Dienst vertragsgemäß "
+"nutzt. Der Benutzer verpflichtet sich, in solchen Fällen vollständig mit dem "
+"Anbieter zu kooperieren."
 
 #: wllegal/templates/legal/documents/tos.html:379
 msgid "User’s Rights and Obligations"
-msgstr ""
+msgstr "Rechte und Pflichten des Benutzers"
 
 #: wllegal/templates/legal/documents/tos.html:383
 msgid ""
@@ -1354,6 +1863,10 @@ msgid ""
 "modifications to the Service made by them are in compliance with applicable "
 "legal regulations."
 msgstr ""
+"Der Benutzer darf den Dienst nicht unter Verstoß gegen die geltenden "
+"Rechtsvorschriften nutzen. Der Benutzer ist auch in vollem Umfang dafür "
+"verantwortlich, dass alle von ihm vorgenommenen Änderungen des Dienstes mit "
+"den geltenden Rechtsvorschriften übereinstimmen."
 
 #: wllegal/templates/legal/documents/tos.html:387
 msgid ""
@@ -1368,6 +1881,18 @@ msgid ""
 "expand the scope of required personal information but emphasizes the "
 "truthfulness, accuracy, and currency of the information provided by the User."
 msgstr ""
+"Um Zugang zum Dienst zu erhalten, kann der Anbieter bestimmte "
+"Identifikationsangaben und andere Informationen vom Benutzer verlangen, "
+"immer nur in dem Umfang, wie es das Formular verlangt. Die meisten unserer "
+"Benutzer müssen nur einen Spitznamen angeben; wenn jedoch eine Rechnung "
+"ausgestellt werden muss, werden zusätzliche gesetzlich vorgeschriebene "
+"Informationen angefordert. Der Benutzer ist verpflichtet, stets "
+"wahrheitsgemäße, genaue und aktuelle Angaben zu machen, wie es das Gesetz "
+"verlangt. Für Benutzer, die nur einen Nickname angeben, bedeutet dies nicht, "
+"dass sie zusätzliche Informationen bereitstellen müssen. Diese Bestimmung "
+"erweitert nicht den Umfang der erforderlichen persönlichen Informationen, "
+"sondern betont die Wahrhaftigkeit, Genauigkeit und Aktualität der vom "
+"Benutzer bereitgestellten Informationen."
 
 #: wllegal/templates/legal/documents/tos.html:391
 msgid ""
@@ -1377,6 +1902,11 @@ msgid ""
 "in cases where the Supplier performs system outages for the reasons "
 "mentioned in Section 8.5."
 msgstr ""
+"Der Benutzer ist verpflichtet, auf Verlangen des Anbieters die erforderliche "
+"Mitwirkung bei der Behebung von Störungen oder bei der Anpassung des "
+"Dienstes zu leisten, einschließlich der Verpflichtung, Einschränkungen der "
+"Nutzung des Dienstes zu dulden, wenn der Anbieter aus den in Abschnitt 8.5 "
+"genannten Gründen Systemausfälle vornimmt."
 
 #: wllegal/templates/legal/documents/tos.html:395
 msgid ""
@@ -1384,6 +1914,9 @@ msgid ""
 "Service in accordance with this Agreement, and the User is required to "
 "comply with and respect these measures."
 msgstr ""
+"Der Anbieter ist berechtigt, Sicherheitsmaßnahmen zum Schutz des Dienstes in "
+"Übereinstimmung mit dieser Vereinbarung zu ergreifen, und der Benutzer ist "
+"verpflichtet, diese Maßnahmen einzuhalten und zu respektieren."
 
 #: wllegal/templates/legal/documents/tos.html:399
 msgid ""
@@ -1391,6 +1924,9 @@ msgid ""
 "terms specified in Section 6 of this Agreement, ensuring that they do not "
 "jeopardize the Service's functionality."
 msgstr ""
+"Der Benutzer ist verpflichtet, den Dienst in Übereinstimmung mit den in "
+"Abschnitt 6 dieser Vereinbarung genannten Lizenzbegriffen zu nutzen und "
+"sicherzustellen, dass diese die Funktionalität des Dienstes nicht gefährden."
 
 #: wllegal/templates/legal/documents/tos.html:403
 msgid ""
@@ -1398,6 +1934,9 @@ msgid ""
 "right to request Support Services from the Supplier, as specified in the "
 "Price list."
 msgstr ""
+"Je nach der in der Preisliste aufgeführten Variante des Dienstes hat der "
+"Benutzer das Recht, vom Lieferanten Unterstützung zu verlangen, wie in der "
+"Preisliste angegeben."
 
 #: wllegal/templates/legal/documents/tos.html:407
 msgid ""
@@ -1407,6 +1946,12 @@ msgid ""
 "reasonable extent to minimize the risk of third parties misusing access "
 "credentials to the User's account."
 msgstr ""
+"Der Benutzer ist verpflichtet, die Zugangsdaten zum Dienst vertraulich zu "
+"behandeln und darf sich nicht an Handlungen beteiligen, die die Sicherheit "
+"des Dienstes gefährden könnten. Der Benutzer ist außerdem verpflichtet, "
+"seine technischen Einrichtungen in angemessenem Umfang zu sichern, um das "
+"Risiko des Missbrauchs der Zugangsdaten zum Benutzerkonto durch "
+"Drittanbieter zu minimieren."
 
 #: wllegal/templates/legal/documents/tos.html:411
 msgid ""
@@ -1418,10 +1963,18 @@ msgid ""
 "be exposed to third parties due to a leak of access information, they are "
 "required to report this to the Supplier."
 msgstr ""
+"Verstößt der Benutzer gegen eine der in diesem Abschnitt genannten "
+"Verpflichtungen, haftet der Lieferant nicht für die dem Benutzer "
+"entstandenen Schäden, und der Benutzer ist allein für die Schäden "
+"verantwortlich, die dem Lieferanten oder Drittanbietern entstehen. Ein "
+"Verstoß gegen diese Verpflichtungen berechtigt den Anbieter außerdem zur "
+"Kündigung des vorliegenden Vertrags. Stellt der Benutzer fest, dass der "
+"Zugang zu den Diensten durch ein Leck in den Zugangsdaten für Drittanbieter "
+"gefährdet sein könnte, ist er verpflichtet, dies dem Anbieter zu melden."
 
 #: wllegal/templates/legal/documents/tos.html:415
 msgid "Prohibited Conduct"
-msgstr ""
+msgstr "Verbotenes Verhalten"
 
 #: wllegal/templates/legal/documents/tos.html:419
 msgid ""
@@ -1435,48 +1988,73 @@ msgid ""
 "another User’s account or the Provider’s servers. Violation of these "
 "obligations constitutes a material breach of the Agreement."
 msgstr ""
+"Dem Benutzer ist es untersagt, auf dem Portal des Dienstes Inhalte "
+"hochzuladen, zu versenden oder anderweitig zu speichern, die Softwareviren "
+"oder andere Dateien und Programme enthalten, die die Geräte des Anbieters "
+"oder anderer Benutzer zerstören, beschädigen oder in ihrer Funktionalität "
+"einschränken könnten. Der Benutzer ist auch nicht berechtigt, Inhalte auf "
+"das Dienstportal hochzuladen, deren Besitz oder Verbreitung rechtswidrig "
+"ist, die Urheberrechte Dritter verletzen, Teil krimineller Aktivitäten sind, "
+"Spam über den Dienst verbreiten oder versuchen, Zugang zum Benutzerkonto "
+"eines anderen Benutzers oder zu den Servern des Anbieters zu erhalten. Ein "
+"Verstoß gegen diese Verpflichtungen stellt eine wesentliche Verletzung der "
+"Vereinbarung dar."
 
 #: wllegal/templates/legal/documents/tos.html:423
 msgid ""
 "The User particularly agrees to refrain from the following activities while "
 "using the Services, especially through the Services:"
 msgstr ""
+"Der Benutzer verpflichtet sich insbesondere, bei der Nutzung der Dienste, "
+"insbesondere über die Dienste, die folgenden Aktivitäten zu unterlassen:"
 
 #: wllegal/templates/legal/documents/tos.html:427
 msgid ""
 "Disseminating or offering any content that violates applicable laws at the "
 "national, EU, or international level;"
 msgstr ""
+"Verbreiten oder Anbieten von Inhalten, die gegen geltendes Recht auf "
+"nationaler, EU- oder internationaler Ebene verstoßen;"
 
 #: wllegal/templates/legal/documents/tos.html:431
 msgid ""
 "Disseminating or offering any illegally obtained content or content whose "
 "dissemination would be illegal;"
 msgstr ""
+"Verbreitung oder Angebot von illegal erworbenen Inhalten oder von Inhalten, "
+"deren Verbreitung illegal wäre;"
 
 #: wllegal/templates/legal/documents/tos.html:435
 msgid ""
 "Disseminating or offering any pornographic, obscene, or otherwise vulgar "
 "content;"
 msgstr ""
+"Verbreitung oder Angebot von pornografischen, obszönen oder anderweitig "
+"vulgären Inhalten;"
 
 #: wllegal/templates/legal/documents/tos.html:439
 msgid ""
 "Engaging in any services or activities that are contrary to applicable laws "
 "at the national, EU, or international level;"
 msgstr ""
+"Beteiligung an Diensten oder Aktivitäten, die gegen geltendes Recht auf "
+"nationaler, EU- oder internationaler Ebene verstoßen;"
 
 #: wllegal/templates/legal/documents/tos.html:443
 msgid ""
 "Engaging in activities that bypass intellectual property protection elements "
 "(such as cracks, warez, etc.);"
 msgstr ""
+"Beteiligung an Aktivitäten, die den Schutz des geistigen Eigentums umgehen ("
+"z. B. Cracks, Warez usw.);"
 
 #: wllegal/templates/legal/documents/tos.html:447
 msgid ""
 "Sending unsolicited commercial messages and other spam or other illegal "
 "harassment of third parties;"
 msgstr ""
+"Versenden von unaufgeforderten kommerziellen Nachrichten und anderem Spam "
+"oder sonstiger illegaler Belästigung von Drittanbietern;"
 
 #: wllegal/templates/legal/documents/tos.html:451
 msgid ""
@@ -1485,81 +2063,108 @@ msgid ""
 "impolite, or otherwise inappropriate content that unlawfully or illegally "
 "infringes on the personal rights of third parties;"
 msgstr ""
+"Veröffentlichung oder Verbreitung von Inhalten, die die Rechte Dritter "
+"verletzen können, einschließlich Angriffen auf diese Personen, oder von "
+"beleidigenden, unhöflichen oder anderweitig unangemessenen Inhalten, die die "
+"Persönlichkeitsrechte von Drittanbietern rechtswidrig oder unrechtmäßig "
+"verletzen;"
 
 #: wllegal/templates/legal/documents/tos.html:455
 msgid ""
 "Disseminating or offering any content that infringes on third-party "
 "intellectual or industrial property rights;"
 msgstr ""
+"Inhalte zu verbreiten oder anzubieten, die geistige oder gewerbliche "
+"Eigentumsrechte Dritter verletzen;"
 
 #: wllegal/templates/legal/documents/tos.html:459
 msgid ""
 "Operating or disseminating any tools that may be misused to breach network, "
 "device, or service security;"
 msgstr ""
+"Betreiben oder Verbreiten von Tools, die zur Verletzung der Sicherheit von "
+"Netzwerken, Geräten oder Diensten missbraucht werden können;"
 
 #: wllegal/templates/legal/documents/tos.html:463
 msgid "Overburdening the Provider's or third-party servers;"
-msgstr ""
+msgstr "Überlastung der Server des Providers oder von Drittanbietern;"
 
 #: wllegal/templates/legal/documents/tos.html:467
 msgid ""
 "Engaging in any activities that could harm the Provider, its reputation, or "
 "its assets;"
 msgstr ""
+"Sich an Aktivitäten zu beteiligen, die dem Provider, seinem Ruf oder seinem "
+"Vermögen schaden könnten;"
 
 #: wllegal/templates/legal/documents/tos.html:471
 msgid ""
 "Using any means, servers, devices, or elements provided by the Provider in a "
 "manner not expressly agreed upon in these Terms or the Agreement;"
 msgstr ""
+"Die Verwendung von Mitteln, Servern, Geräten oder Elementen, die vom "
+"Provider zur Verfügung gestellt werden, in einer Weise, die nicht "
+"ausdrücklich in diesen Begriffen oder der Vereinbarung vereinbart wurde;"
 
 #: wllegal/templates/legal/documents/tos.html:475
 msgid ""
 "Conducting activities that would disclose any content to third parties that:"
 msgstr ""
+"Durchführung von Aktivitäten, die Inhalte an Drittanbieter weitergeben "
+"würden, die:"
 
 #: wllegal/templates/legal/documents/tos.html:479
 msgid "Contains prohibited applications and scripts;"
-msgstr ""
+msgstr "Enthält verbotene Anwendungen und Skripte;"
 
 #: wllegal/templates/legal/documents/tos.html:483
 msgid "Overloads database systems or causes malfunction of servers;"
-msgstr ""
+msgstr "Überlastung von Datenbanksystemen oder Fehlfunktionen von Servern;"
 
 #: wllegal/templates/legal/documents/tos.html:487
 msgid ""
 "Overburdens the infrastructure, connection lines, or hardware of the "
 "Provider or third parties;"
 msgstr ""
+"die Infrastruktur, die Verbindungsleitungen oder die Hardware des Providers "
+"oder von Drittanbietern überlastet;"
 
 #: wllegal/templates/legal/documents/tos.html:491
 msgid ""
 "Involves music, sound, image, film, or similar files for which the User "
 "lacks distribution rights;"
 msgstr ""
+"Es handelt sich um Musik-, Ton-, Bild-, Film- oder ähnliche Dateien, für die "
+"der Benutzer keine Vertriebsrechte besitzt;"
 
 #: wllegal/templates/legal/documents/tos.html:495
 msgid ""
 "Threatens the privacy or security of other Internet users or the security of "
 "computer systems (e.g., through viruses, password generators, etc.);"
 msgstr ""
+"die Privatsphäre oder die Sicherheit anderer Benutzer im Internet oder die "
+"Sicherheit von Computersystemen bedroht (z.B. durch Viren, generierte/"
+"generierte Passwörter, usw.);"
 
 #: wllegal/templates/legal/documents/tos.html:499
 msgid ""
 "Is part of the provided Service without written permission from the Provider "
 "to share it with third parties;"
 msgstr ""
+"Ist Teil des bereitgestellten Dienstes ohne schriftliche Berechtigung des "
+"Anbieters zur Weitergabe an Drittanbieter;"
 
 #: wllegal/templates/legal/documents/tos.html:503
 msgid ""
 "Gives the impression that the User acts on behalf of the Provider without "
 "authorization;"
 msgstr ""
+"den Eindruck erwecken, dass der Benutzer unberechtigt im Namen des Anbieters "
+"handelt;"
 
 #: wllegal/templates/legal/documents/tos.html:507
 msgid "May harm any third-party rights."
-msgstr ""
+msgstr "Kann die Rechte von Drittanbietern verletzen."
 
 #: wllegal/templates/legal/documents/tos.html:511
 msgid ""
@@ -1569,6 +2174,12 @@ msgid ""
 "public morality, ethical principles, or Internet usage rules, or is aiding "
 "in or committing criminal activities."
 msgstr ""
+"Der Provider kann die Bereitstellung der Dienste ohne vorherige Ankündigung "
+"unterbrechen, einschränken oder aussetzen, wenn er vernünftigerweise davon "
+"ausgeht, dass der Benutzer gegen die Begriffe, die Vereinbarung oder die "
+"Nutzung der Dienste gegen geltende Gesetze, die öffentliche Moral, ethische "
+"Grundsätze oder Internetnutzungsregeln verstößt oder Beihilfe zu kriminellen "
+"Handlungen leistet oder diese begeht."
 
 #: wllegal/templates/legal/documents/tos.html:515
 msgid ""
@@ -1578,6 +2189,12 @@ msgid ""
 "invoicing) or excessive usage, particularly through automated software and "
 "bots that overload the Provider’s servers or other technical facilities."
 msgstr ""
+"Der Anbieter ist ferner berechtigt, die Erbringung der Dienste ohne "
+"vorherige Ankündigung zu unterbrechen, einzuschränken oder einzustellen, "
+"wenn die Dienste zu unzulässigen Eingriffen in die Rechte des Anbieters ("
+"z.B. Impersonation, Abrechnungsbetrug) oder zur übermäßigen Nutzung, "
+"insbesondere durch automatisierte Software und Bots, die die Server oder "
+"andere technische Einrichtungen des Anbieters überlasten, missbraucht werden."
 
 #: wllegal/templates/legal/documents/tos.html:519
 msgid ""
@@ -1586,6 +2203,11 @@ msgid ""
 "responsible for any damages resulting from the interruption and cannot claim "
 "any compensation from the Provider for such damages."
 msgstr ""
+"Der Benutzer erklärt sich ausdrücklich damit einverstanden, dass im Falle "
+"einer begründeten Unterbrechung, Einschränkung oder Aussetzung der Dienste "
+"durch den Anbieter der Benutzer allein für die aus der Unterbrechung "
+"resultierenden Schäden verantwortlich ist und vom Anbieter keine "
+"Entschädigung für solche Schäden verlangen kann."
 
 #: wllegal/templates/legal/documents/tos.html:523
 msgid ""
@@ -1595,6 +2217,13 @@ msgid ""
 "or ensuring the installation and execution of tools and scripts on the "
 "virtual server that verify and check the software resources used."
 msgstr ""
+"Um die verwendete Softwarelösung zu verifizieren oder die Lizenzierung der "
+"zugewiesenen Softwareressourcen und der über die Dienste hochgeladenen "
+"Inhalte zu überprüfen, erklärt sich der Benutzer bereit, dem Anbieter seine "
+"volle Kooperation zu gewähren. Dies beinhaltet die Aktivierung oder "
+"Sicherstellung der Installation und Ausführung von Tools und Skripten auf "
+"dem virtuellen Server, die die verwendeten Software-Ressourcen verifizieren "
+"und prüfen."
 
 #: wllegal/templates/legal/documents/tos.html:527
 msgid ""
@@ -1608,10 +2237,21 @@ msgid ""
 "does not affect the Provider’s right to claim damages in addition to the "
 "penalty."
 msgstr ""
+"Der Benutzer erklärt sich ausdrücklich damit einverstanden, für jeden "
+"Schaden, der dem Anbieter, seinen Kunden, Partnern oder Drittanbietern "
+"entsteht, verantwortlich zu sein. Diese Verantwortung umfasst insbesondere "
+"die Folgen von Handlungen, die gegen die Bestimmungen von Artikel 10 der "
+"vorliegenden Begriffe verstoßen. Der Benutzer erklärt sich auch damit "
+"einverstanden, dass der Anbieter die Einstellungen des Dienstes anpassen "
+"kann, um Missbrauch zu verhindern. Im Falle eines Verstoßes durch den "
+"Benutzer wird der nicht genutzte Zeitraum des Dienstes nicht zurückerstattet "
+"und gilt automatisch als einmalige Vertragsstrafe. Diese Vertragsstrafe "
+"berührt nicht das Recht des Anbieters, zusätzlich zur Vertragsstrafe "
+"Schadensersatz zu verlangen."
 
 #: wllegal/templates/legal/documents/tos.html:532
 msgid "Termination of the Agreement"
-msgstr ""
+msgstr "Beendigung des Abkommens"
 
 #: wllegal/templates/legal/documents/tos.html:536
 msgid ""
@@ -1620,6 +2260,10 @@ msgid ""
 "(either the Provider or the User) with liquidation, termination of the "
 "Agreement, or by mutual agreement of the Parties."
 msgstr ""
+"Die Beendigung des Vertragsverhältnisses kann durch Rücktritt vom Vertrag, "
+"Ablauf des vereinbarten Begriffs, Auflösung einer juristischen Person ("
+"entweder des Anbieters oder des Benutzers) mit Liquidation, Kündigung des "
+"Vertrags oder im gegenseitigen Einvernehmen der Parteien erfolgen."
 
 #: wllegal/templates/legal/documents/tos.html:540
 msgid ""
@@ -1627,12 +2271,18 @@ msgid ""
 "reason. The notice period is three months, starting from the first day of "
 "the calendar month following the delivery of the notice to the User."
 msgstr ""
+"Der Anbieter kann den Vertrag jederzeit und ohne Angabe von Gründen "
+"kündigen. Die Kündigungsfrist beträgt drei Monate, beginnend mit dem ersten "
+"Tag des Kalendermonats, der auf die Zustellung der Kündigung an den Benutzer "
+"folgt."
 
 #: wllegal/templates/legal/documents/tos.html:544
 msgid ""
 "The User may terminate the Agreement under the conditions specified in "
 "Section 8.1 of these Terms."
 msgstr ""
+"Der Benutzer kann den Vertrag unter den in Abschnitt 8.1 der vorliegenden "
+"Begriffe genannten Bedingungen kündigen."
 
 #: wllegal/templates/legal/documents/tos.html:548
 msgid ""
@@ -1642,6 +2292,11 @@ msgid ""
 "Agreement. The withdrawal becomes effective the day after the User receives "
 "the notice of withdrawal."
 msgstr ""
+"Verstößt der Benutzer wesentlich oder wiederholt gegen seine Verpflichtungen "
+"aus diesen Begriffen oder dem Vertrag und behebt er den Verstoß nicht "
+"innerhalb von 14 Tagen nach Zustellung einer Mitteilung über den Verstoß, "
+"kann der Anbieter vom Vertrag zurücktreten. Der Rücktritt wird am Tag nach "
+"Erhalt der Rücktrittserklärung durch den Benutzer wirksam."
 
 #: wllegal/templates/legal/documents/tos.html:552
 msgid ""
@@ -1650,6 +2305,10 @@ msgid ""
 "withdraw from the Agreement and terminate the provision of the Service as "
 "soon as such a breach is discovered."
 msgstr ""
+"Verstößt der Benutzer in besonders schwerwiegender Weise gegen seine "
+"Pflichten aus diesen Begriffen oder aus dem Vertrag, ist der Anbieter "
+"berechtigt, sofort nach Bekanntwerden eines solchen Verstoßes vom Vertrag "
+"zurückzutreten und die Erbringung des Dienstes einzustellen."
 
 #: wllegal/templates/legal/documents/tos.html:556
 msgid ""
@@ -1657,6 +2316,10 @@ msgid ""
 "in a particularly serious manner, the User is entitled to immediately "
 "withdraw from the Agreement as soon as such a breach is discovered."
 msgstr ""
+"Verstößt der Anbieter in besonders schwerwiegender Weise gegen seine "
+"Verpflichtungen aus diesen Begriffen oder aus dem Vertrag, ist der Benutzer "
+"berechtigt, unverzüglich nach Feststellung des Verstoßes vom Vertrag "
+"zurückzutreten."
 
 #: wllegal/templates/legal/documents/tos.html:560
 msgid ""
@@ -1666,10 +2329,16 @@ msgid ""
 "including the provisions of Sections 1912 (2), 1923, 1969, 1977, 1978, 1979, "
 "2001, 2002, 2003, 2106, 2107, 2110, and 2111 of the Czech Civil Code."
 msgstr ""
+"Keine der Vertragsparteien kann das Abkommen kündigen oder anderweitig "
+"beenden, außer in den in diesem Abschnitt ausdrücklich genannten Fällen. Die "
+"Parteien schließen so weit wie möglich das Recht jeder Partei aus, diesen "
+"Vertrag zu kündigen, einschließlich der Bestimmungen der §§ 1912 (2), 1923, "
+"1969, 1977, 1978, 1979, 2001, 2002, 2003, 2106, 2107, 2110 und 2111 des "
+"tschechischen Bürgerlichen Gesetzbuches."
 
 #: wllegal/templates/legal/documents/tos.html:564
 msgid "Limitation of Liability"
-msgstr ""
+msgstr "Beschränkung der Haftung"
 
 #: wllegal/templates/legal/documents/tos.html:568
 msgid ""
@@ -1680,10 +2349,17 @@ msgid ""
 "other intangible losses (even if the Provider has been advised of the "
 "possibility of such damages), resulting from:"
 msgstr ""
+"Der Provider haftet nicht für indirekte Schäden, die sich aus der Erbringung "
+"der Dienste ergeben, wie z. B. entgangene Gewinne, entgangene Einnahmen, "
+"Datenverluste, finanzielle Schäden oder indirekte, besondere oder "
+"Folgeschäden, einschließlich exemplarischer Schäden oder "
+"Strafschadensersatz, wie z. B. Schäden für andere immaterielle Verluste ("
+"selbst wenn der Provider auf die Möglichkeit solcher Schäden hingewiesen "
+"wurde), die sich daraus ergeben:"
 
 #: wllegal/templates/legal/documents/tos.html:573
 msgid "Use or inability to use the Service;"
-msgstr ""
+msgstr "Nutzung oder Unmöglichkeit der Nutzung des Dienstes;"
 
 #: wllegal/templates/legal/documents/tos.html:576
 msgid ""
@@ -1691,6 +2367,10 @@ msgid ""
 "data, information, or services purchased or obtained or messages received, "
 "or transactions entered into through or from the Service;"
 msgstr ""
+"Die Kosten für den Erwerb von Ersatzgütern und -dienstleistungen, die sich "
+"aus gekauften oder erhaltenen Waren, Daten, Informationen oder "
+"Dienstleistungen, empfangenen Nachrichten oder über den Dienst "
+"abgeschlossenen Transaktionen ergeben;"
 
 #: wllegal/templates/legal/documents/tos.html:579
 msgid ""
@@ -1698,12 +2378,13 @@ msgid ""
 "including any outcomes of third-party solutions or services related to the "
 "Service;"
 msgstr ""
+"Aussagen oder Handlungen von Drittanbietern, die an der Bereitstellung des "
+"Dienstes beteiligt sind, einschließlich der Ergebnisse von Lösungen oder "
+"Diensten Dritter, die dem Dienst zugehörig sind;"
 
 #: wllegal/templates/legal/documents/tos.html:582
-#, fuzzy
-#| msgid "means translation project operated on the Service"
 msgid "Any other matters related to the Service."
-msgstr "bedeutet Übersetzungsprojekt, das auf dem Service betrieben wird"
+msgstr "Alle anderen Angelegenheiten, die dem Dienst zugehörig sind."
 
 #: wllegal/templates/legal/documents/tos.html:587
 msgid ""
@@ -1715,6 +2396,14 @@ msgid ""
 "war, or changes in the political situation that prevent or unduly hinder the "
 "exercise of rights and obligations arising from this Agreement."
 msgstr ""
+"Im Falle höherer Gewalt sind die Vertragsparteien berechtigt, ihre "
+"vertraglichen Verpflichtungen vorübergehend auszusetzen, und eine "
+"Nichterfüllung oder Verzögerung bei der Erfüllung der sich aus diesem "
+"Vertrag ergebenden Verpflichtungen wird nicht als Vertragsverletzung "
+"angesehen. Höhere Gewalt umfasst Umstände, unter denen die Haftung nach "
+"tschechischem Recht ausgeschlossen ist, wie Naturkatastrophen, Krieg oder "
+"Änderungen der politischen Lage, die die Ausübung der Rechte und Pflichten "
+"aus diesem Vertrag verhindern oder übermäßig erschweren."
 
 #: wllegal/templates/legal/documents/tos.html:591
 msgid ""
@@ -1725,6 +2414,12 @@ msgid ""
 "back up all of their data stored within the Service at another geographical "
 "location(s)."
 msgstr ""
+"Mit dem Abschluss der Vereinbarung erkennt der Benutzer an, dass der Dienst "
+"trotz aller Bemühungen des Anbieters aufgrund von Umständen, die außerhalb "
+"der Kontrolle des Anbieters liegen (z. B. ein Ausfall der Internetverbindung)"
+", vorübergehend nicht verfügbar sein kann. Der Benutzer erklärt sich daher "
+"damit einverstanden und verpflichtet sich, alle seine im Dienst "
+"gespeicherten Daten an einem anderen geografischen Ort zu sichern."
 
 #: wllegal/templates/legal/documents/tos.html:595
 msgid ""
@@ -1733,12 +2428,15 @@ msgid ""
 "cancel their order or to request a refund of any fees paid, unless otherwise "
 "expressly agreed between the Parties in individual cases."
 msgstr ""
+"Der Benutzer nutzt den Dienst AS IS. Inkompatibilität mit anderer Software, "
+"Hardwarekonfigurationen oder jegliche Defekte oder Fehler berechtigen den "
+"Benutzer NICHT, seine Bestellung zu stornieren oder eine Rückerstattung der "
+"gezahlten Gebühren zu verlangen, es sei denn, die Parteien haben im "
+"Einzelfall ausdrücklich etwas anderes vereinbart."
 
 #: wllegal/templates/legal/documents/tos.html:599
-#, fuzzy
-#| msgid "The Personal Data retention"
 msgid "Personal Data Protection"
-msgstr "Aufbewahrung personenbezogener Daten"
+msgstr "Schutz personenbezogener Daten"
 
 #: wllegal/templates/legal/documents/tos.html:603
 #, python-format
@@ -1750,6 +2448,12 @@ msgid ""
 "communications as defined in the <a href=\"%(privacy_url)s\">Privacy Policy</"
 "a>."
 msgstr ""
+"Der Anbieter erhebt Daten des Benutzers ausschließlich zum Zweck der "
+"Bereitstellung des Dienstes, der Verbesserung seiner Qualität, der Erfüllung "
+"gesetzlicher Verpflichtungen und in ausgewählten Fällen für die berechtigten "
+"Interessen des Anbieters (z.B. Aufrechterhaltung der Serversicherheit und "
+"-integrität) oder für die Zusendung optionaler kommerzieller Mitteilungen, "
+"wie in der <a href=\"%(privacy_url)s\">Datenschutzerklärung</a> definiert."
 
 #: wllegal/templates/legal/documents/tos.html:607
 msgid ""
@@ -1757,6 +2461,9 @@ msgid ""
 "The User declares that they consider this encryption method sufficiently "
 "secure."
 msgstr ""
+"Die gesamte Kommunikation innerhalb des Dienstes wird mit dem SSL-Protokoll "
+"verschlüsselt. Der Benutzer erklärt, dass er diese Verschlüsselungsmethode "
+"für ausreichend sicher hält."
 
 #: wllegal/templates/legal/documents/tos.html:611
 #, python-format
@@ -1767,6 +2474,11 @@ msgid ""
 "defined in this Agreement and the <a href=\"%(privacy_url)s\">Privacy "
 "Policy</a>."
 msgstr ""
+"Der Anbieter Commit verpflichtet sich, keine Informationen, die der Benutzer "
+"bei der Registrierung seines Benutzerkontos angegeben hat, oder andere "
+"personenbezogene Daten, die der Benutzer angegeben hat, an Drittanbieter für "
+"andere Zwecke als die in dieser Vereinbarung und der <a href=\"%(privacy_url)"
+"s\">Datenschutzerklärung</a> festgelegten weiterzugeben."
 
 #: wllegal/templates/legal/documents/tos.html:615
 msgid ""
@@ -1776,18 +2488,29 @@ msgid ""
 "technical cookies, for which explicit consent is not required under current "
 "legislation."
 msgstr ""
+"Auch die Website und die Webanwendung des Providers verwenden Cookies. Die "
+"Dienste verwenden ausschließlich Sitzungs-Cookies des Anbieters und niemals "
+"Cookies von Drittanbietern. In Bezug auf Funktionalität und Art verwendet "
+"der Provider nur funktionale/technische Cookies, für die nach aktueller "
+"Gesetzgebung keine ausdrückliche Zustimmung erforderlich ist."
 
 #: wllegal/templates/legal/documents/tos.html:623
 msgid ""
 "The Parties commit to maintaining the confidentiality of all information "
 "learned during the contractual relationship established by this Agreement."
 msgstr ""
+"Die Vertragsparteien Commit, alle Informationen, von denen sie im Rahmen der "
+"durch dieses Abkommen begründeten Vertragsbeziehung Kenntnis erhalten, "
+"vertraulich zu behandeln."
 
 #: wllegal/templates/legal/documents/tos.html:627
 msgid ""
 "The User’s rights arising from the Agreement and these Terms cannot be "
 "assigned without the prior written consent of the Provider."
 msgstr ""
+"Die Rechte des Benutzers, die sich aus dem Vertrag und diesen Bedingungen "
+"ergeben, können nicht ohne die vorherige schriftliche Zustimmung des "
+"Anbieters zugewiesen werden."
 
 #: wllegal/templates/legal/documents/tos.html:631
 msgid ""
@@ -1795,6 +2518,9 @@ msgid ""
 "business entities and that they are entering into this Agreement within the "
 "scope of their business activities."
 msgstr ""
+"Um Zweifel auszuschließen, bestätigen die Vertragsparteien ausdrücklich, "
+"dass sie Unternehmer sind und dieses Abkommen im Rahmen ihrer geschäftlichen "
+"Tätigkeit schließen."
 
 #: wllegal/templates/legal/documents/tos.html:635
 msgid ""
@@ -1805,6 +2531,14 @@ msgid ""
 "effort to amend the Agreement by replacing the invalid, unenforceable, or "
 "ineffective provision with a new one that reflects the original intent."
 msgstr ""
+"Sollte eine Bestimmung dieser Vereinbarung oder dieser Bedingungen ungültig, "
+"unwirksam oder nicht durchsetzbar sein oder werden, so berührt dies nicht "
+"die Gültigkeit, Durchsetzbarkeit oder Wirksamkeit der übrigen Bestimmungen "
+"der Vereinbarung oder dieser Bedingungen. In einem solchen Fall werden die "
+"Parteien alle Anstrengungen unternehmen, um die Vereinbarung zu ändern, "
+"indem sie die ungültige, nicht durchsetzbare oder unwirksame Bestimmung "
+"durch eine neue Bestimmung ersetzen, die der ursprünglichen Absicht "
+"entspricht."
 
 #: wllegal/templates/legal/documents/tos.html:639
 msgid ""
@@ -1824,6 +2558,23 @@ msgid ""
 "Parties. The Parties irrevocably agree not to contest the enforcement of the "
 "arbitration award in any jurisdiction."
 msgstr ""
+"Die vorliegenden Begriffe unterliegen dem Recht der Tschechischen Republik, "
+"die Mitglied der Europäischen Union ist. Die Parteien schließen jedoch "
+"weitestgehend die Bestimmungen der §§ 1764, 1765, 1793 bis 1795, 2050, 2389a "
+"bis 2389f, 2389t und 2389u des tschechischen Bürgerlichen Gesetzbuches aus. "
+"Alle Streitigkeiten, die im Zusammenhang mit der Erfüllung oder Auslegung "
+"des Vertrages entstehen und von den Parteien nicht gütlich beigelegt werden "
+"können, werden durch ein Schiedsverfahren beim Schiedsgericht der "
+"Wirtschaftskammer der Tschechischen Republik und der Landwirtschaftskammer "
+"der Tschechischen Republik von drei gemäß der Ordnung dieses Schiedsgerichts "
+"ernannten Schiedsrichtern endgültig entschieden. Jede Partei ernennt einen "
+"Schiedsrichter, und die beiden Schiedsrichter einigen sich innerhalb von 30 "
+"Tagen auf den dritten Schiedsrichter. Können sich die beiden Schiedsrichter "
+"nicht innerhalb der genannten Frist auf einen dritten Schiedsrichter "
+"einigen, so ernennt der Vorsitzende des Schiedsgerichts den dritten "
+"Schiedsrichter. Der Schiedsspruch ist endgültig und für die Vertragsparteien "
+"bindend. Die Parteien vereinbaren unwiderruflich, die Vollstreckung des "
+"Schiedsspruchs in keiner Gerichtsbarkeit anzufechten."
 
 #: wllegal/templates/legal/documents/tos.html:643
 msgid ""
@@ -1834,13 +2585,16 @@ msgid ""
 "the English version and any translated version, the English version shall "
 "prevail in all matters."
 msgstr ""
+"Die offizielle Version dieser Begriffe wurde in englischer Sprache verfasst "
+"und gilt als die einzig verbindliche Version. In andere Sprachen übersetzte "
+"Fassungen dieser Begriffe dienen ausschließlich der Bequemlichkeit des "
+"Benutzers und sind rechtlich nicht bindend. Im Falle von Unstimmigkeiten "
+"oder Konflikten zwischen der englischen Version und einer übersetzten "
+"Version ist die englische Version in allen Belangen maßgebend."
 
 #: wllegal/templates/legal/documents/tos.html:647
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 15th May 2023."
 msgid "These Terms enter into force on November 1, 2024."
-msgstr "Diese Nutzungsbedingungen treten am 15. Mai 2023 in Kraft."
+msgstr "Diese Begriffe treten am 1. November 2024 in Kraft."
 
 #, python-format
 #~ msgid ""
