@@ -8,10 +8,10 @@
 # Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-11-19 16:27+0000\n"
+"PO-Revision-Date: 2024-11-21 18:53+0000\n"
 "Last-Translator: gallegonovato <fran-carro@hotmail.es>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/weblate/legal/es/"
 ">\n"
@@ -50,11 +50,15 @@ msgid ""
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
+"Esta Política de Privacidad , en adelante denominada \""
+"<strong>Política</strong>\", complementa los <a href=\" %(terms_url)s \"> "
+"Términos y Condiciones Generales</a> de Weblate , en adelante denominados \""
+"<strong>Términos</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
 msgid "Introductory Provisions"
-msgstr ""
+msgstr "Disposiciones introductorias"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
@@ -63,6 +67,10 @@ msgid ""
 "the Commercial Register kept by the Regional Court in Ústí nad Labem, file "
 "No. C 52324, i.e. the \"<strong>Provider</strong>\"."
 msgstr ""
+"La presente Política ha sido emitida por Weblate s.r.o., NIF: 21668027, con "
+"domicilio social en Nábřežní 694, Cvikov II, 471 54 Cvikov, inscrita en el "
+"Registro Mercantil llevado por el Tribunal Regional de Ústí nad Labem, "
+"expediente C 52324, es decir, el \"<strong>Proveedor</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid ""
@@ -71,6 +79,11 @@ msgid ""
 "the Services, Products, Support Services, as well as when using the Website "
 "and other possible services and related activities."
 msgstr ""
+"La presente Política describe la forma en que el Proveedor trata los datos "
+"personales de los Usuarios en calidad de interesados - particulares al "
+"acceder y posteriormente utilizar los Servicios, Productos, Servicios de "
+"Soporte, así como al utilizar el Sitio Web y otros posibles servicios y "
+"actividades relacionadas."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid ""
@@ -78,6 +91,9 @@ msgid ""
 "in Article 1 of the Terms and which have the same meaning as set out in the "
 "Terms."
 msgstr ""
+"Esta Política también utiliza ciertos términos o definiciones que se han "
+"definido en el Artículo 1 de las Condiciones y que tienen el mismo "
+"significado que se establece en las Condiciones."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
@@ -90,6 +106,15 @@ msgid ""
 "personal data and the protection of privacy in the electronic communications "
 "sector (abbreviated as the \"<strong>ePrivacy Directive</strong>\")."
 msgstr ""
+"En el tratamiento de datos personales, el Proveedor cumple con el Reglamento "
+"(UE) 2016/679 del Parlamento Europeo y del Consejo, el Reglamento General de "
+"Protección de Datos, también conocido como GDPR (en lo sucesivo utilizaremos "
+"la abreviatura \"<strong>GDPR</strong>\"), Ley No. 110/2019 Coll., sobre el "
+"tratamiento de datos personales, así como la Directiva 2002/58/CE del "
+"Parlamento Europeo y del Consejo, de 12 de julio de 2002, relativa al "
+"tratamiento de datos personales y a la protección de la intimidad en el "
+"sector de las comunicaciones electrónicas (abreviado como \""
+"<strong>Directiva ePrivacy</strong>\")."
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -99,6 +124,11 @@ msgid ""
 "registers for the Provider's newsletter and/or when the Provider and the "
 "User conclude the Contract, whichever is the earliest."
 msgstr ""
+"El tratamiento real de los datos personales de los Usuarios se realiza "
+"siempre solo para los fines y en las condiciones definidas con más detalle "
+"en esta Política y comienza en el momento en que el Usuario visita el Sitio, "
+"cuando el Usuario se registra para recibir el boletín del Proveedor y/o "
+"cuando el Proveedor y el Usuario celebran el Contrato, lo que ocurra primero."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid ""
@@ -107,6 +137,9 @@ msgid ""
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
 msgstr ""
+"El tratamiento se realiza directamente por el proveedor y/o por terceros en "
+"el sentido del artículo 3 de esta política que han sido autorizados por el "
+"proveedor para procesar datos personales de acuerdo con esta política."
 
 #: wllegal/templates/legal/documents/privacy.html:45
 msgid ""
@@ -114,67 +147,83 @@ msgid ""
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
+"A menos que se indique expresamente lo contrario en esta Política, el "
+"Proveedor actúa como <strong>responsable del tratamiento de datos</strong> y "
+"los Usuarios que son personas físicas actúan como sujetos de datos, tal y "
+"como se definen estos roles en el RGPD."
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "Alcance, fines y duración del tratamiento"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
 msgstr ""
+"El Proveedor procesa los datos personales del usuario para las siguientes "
+"finalidades:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "Cumplir el contrato de conformidad con el artículo 6(1)(b) del RGPD,"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "negociar el contrato de acuerdo con el artículo 6(1)(b) del RGPD,"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
 msgstr ""
+"cumplir con las obligaciones legales del Proveedor en virtud del artículo 6 "
+"(1) (c) del RGPD,"
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, "
 "and in selected cases also"
 msgstr ""
+"los intereses legítimos del Proveedor según el artículo 6 (1) (f) del RGPD, "
+"y en casos seleccionados también"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
 msgstr ""
+"consentimiento otorgado por el Usuario en virtud del artículo 6(1)(a) del "
+"RGPD."
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
 msgstr ""
+"El alcance de los datos personales del usuario tratados por el proveedor "
+"incluye lo siguiente:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr ""
+msgstr "nombre y apellidos,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr ""
+msgstr "Dirección del usuario (entrega y facturación),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr ""
+msgstr "Identificación de la empresa y número fiscal,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, Xu, and others),"
 msgstr ""
+"apodo(s) (incluyendo cualquier plataforma vinculada voluntariamente como "
+"Liberapay, GitHub, Xu y otros),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr ""
+msgstr "Avatar del usuario,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
 msgid "email address(es),"
@@ -186,15 +235,20 @@ msgid ""
 "openSUSE, and Ubuntu in the event that accounts with these providers are "
 "linked to the User account,"
 msgstr ""
+"identificadores para Bitbucket, Facebook, Google, LinkedIn, GitHub, GitLab, "
+"openSUSE y Ubuntu en caso de que las cuentas con estos proveedores estén "
+"vinculadas a la cuenta del usuario,"
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
-msgstr ""
+msgstr "especificaciones del Servicio y del Producto utilizado por el Usuario,"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
 msgstr ""
+"información sobre el número de miembros del equipo del usuario y sus "
+"funciones,"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
@@ -202,6 +256,9 @@ msgid ""
 "Profile), i.e., settings for languages, notifications, if they can identify "
 "the User directly or indirectly,"
 msgstr ""
+"todos los demás ajustes de usuario de la cuenta de usuario (incluido el "
+"Perfil), es decir, los ajustes para idiomas, notificaciones, si pueden "
+"identificar al usuario directa o indirectamente,"
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
@@ -221,6 +278,8 @@ msgstr ""
 msgid ""
 "other personal data contained in communications with the Provider's support,"
 msgstr ""
+"otros datos personales contenidos en las comunicaciones con el soporte del "
+"proveedor,"
 
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
