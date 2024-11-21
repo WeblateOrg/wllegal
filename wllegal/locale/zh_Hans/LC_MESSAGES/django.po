@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-11-20 11:11+0000\n"
+"PO-Revision-Date: 2024-11-21 18:53+0000\n"
 "Last-Translator: 大王叫我来巡山 <hamburger2048@users.noreply.hosted.weblate."
 "org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
@@ -54,11 +54,13 @@ msgid ""
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
+"本隐私政策，下文中称为 \"<strong>政策</strong>\" 补充 Weblate 的<a href=\""
+"%(terms_url)s\">一般条款和条件</a>，下文中称为 \"<strong>条款</strong>\"。"
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
 msgid "Introductory Provisions"
-msgstr ""
+msgstr "介绍性条款"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
@@ -67,6 +69,10 @@ msgid ""
 "the Commercial Register kept by the Regional Court in Ústí nad Labem, file "
 "No. C 52324, i.e. the \"<strong>Provider</strong>\"."
 msgstr ""
+"本政策发布者 Weblate s.r.o. ID 编号：21668027，注册办公地址 Nábřežní 694, "
+"Cvikov II, 471 54 Cvikov，登记在由 Ústí nad Labem "
+"地区法院保管的商业登记簿中，文件编号 No. C 52324。Weblate s.r.o. 亦即 \""
+"<strong>提供者</strong>\"。"
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid ""
@@ -75,13 +81,16 @@ msgid ""
 "the Services, Products, Support Services, as well as when using the Website "
 "and other possible services and related activities."
 msgstr ""
+"本政策描述发布者如何处理作为数据对象的用户的个人数据 - 个人访问并随后使用“服"
+"务”、“产品”、“支持服务”时，以及在使用“网站”和其他可能的服务及相关活动时。"
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid ""
 "This Policy also uses certain terms or definitions which have been defined "
 "in Article 1 of the Terms and which have the same meaning as set out in the "
 "Terms."
-msgstr ""
+msgstr "本政策也使用特定条款或定义，这些条款或定义已经在“条款”的第一款中定义，且与“条"
+"款”中规定的含义相同。"
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
@@ -94,6 +103,12 @@ msgid ""
 "personal data and the protection of privacy in the electronic communications "
 "sector (abbreviated as the \"<strong>ePrivacy Directive</strong>\")."
 msgstr ""
+"处理个人数据时，提供者遵守欧洲议会和欧洲理事会的 (EU) 2016/679 "
+"法规，即《通用数据保护条例》，也称 GDPR（下文中均使用缩写 \""
+"<strong>GDPR</strong>\"）、捷克共和国关于处理个人数据的 Act No. 110/2019 "
+"法案，以及欧洲议会和理事会2002年7月12日第2002/58/"
+"EC号关于电子通信领域的个人数据处理和隐私保护的指令（下文中缩写为 \""
+"<strong>ePrivacy 指令</strong>\"）。"
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -103,6 +118,9 @@ msgid ""
 "registers for the Provider's newsletter and/or when the Provider and the "
 "User conclude the Contract, whichever is the earliest."
 msgstr ""
+"用户个人数据的实际处理始终出于本政策中详细定义的目的并在详细定义的条件下进行"
+"，且开始于用户访问网站、用户注册提供者的新闻通讯和/或当提供者和用户达成合约时"
+"，以最早发生的情况为准。"
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid ""
@@ -110,23 +128,25 @@ msgid ""
 "third parties within the meaning of Article 3 of this Policy who have been "
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
-msgstr ""
+msgstr "接着，由提供者和/或由本政策第3款所指的经提供者授权的第三方根据本政策处理个人"
+"数据。"
 
 #: wllegal/templates/legal/documents/privacy.html:45
 msgid ""
 "Unless expressly stated otherwise in this Policy, the Provider acts as "
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
-msgstr ""
+msgstr "除非明确陈述，否则本政策中，提供者为<strong>数据控制者</strong>，自然人用户为"
+"数据主体，因这些角色由 GDPR 所定义。"
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "处理范围、目的和持续时间"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
-msgstr ""
+msgstr "提供者出于下列目的处理用户的个人数据："
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
