@@ -5,19 +5,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-11-19 13:40+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Irish <https://hosted.weblate.org/projects/weblate/legal/ga/"
-">\n"
+"PO-Revision-Date: 2024-11-22 21:03+0000\n"
+"Last-Translator: Aindriú Mac Giolla Eoin <aindriu80@gmail.com>\n"
+"Language-Team: Irish <https://hosted.weblate.org/projects/weblate/legal/ga/>"
+"\n"
 "Language: ga\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :"
-"(n>6 && n<11) ? 3 : 4;\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :("
+"n>6 && n<11) ? 3 : 4;\n"
 "X-Generator: Weblate 5.9-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
@@ -25,10 +25,8 @@ msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "Fochonraitheoirí de réir Airt. 28 GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:11
-#, fuzzy
-#| msgid "Status as of March 2023."
 msgid "Status as of May 2024."
-msgstr "Stádas amhail Márta 2023."
+msgstr "Stádas amhail Bealtaine 2024."
 
 #: wllegal/templates/legal/documents/privacy.html:5
 msgid ""
@@ -50,11 +48,15 @@ msgid ""
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
+"Forlíonann an Polasaí Príobháideachta seo, dá ngairtear \""
+"<strong>Polasaí</strong>\" anseo feasta, na <a href=\"%(terms_url)s\""
+">Téarmaí agus Coinníollacha Ginearálta</a> de Weblate, dá ngairtear \"&lt; "
+"anseo feasta láidir&gt;Téarmaí\"."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
 msgid "Introductory Provisions"
-msgstr ""
+msgstr "Forálacha Réamhráiteacha"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
@@ -63,6 +65,10 @@ msgid ""
 "the Commercial Register kept by the Regional Court in Ústí nad Labem, file "
 "No. C 52324, i.e. the \"<strong>Provider</strong>\"."
 msgstr ""
+"Tá an Polasaí seo eisithe ag Weblate s.ro., ID Uimhir: 21668027, le hoifig "
+"chláraithe ag Nábřežní 694, Cvikov II, 471 54 Cvikov, cláraithe sa Chlár "
+"Tráchtála atá á choimeád ag an gCúirt Réigiúnach in Ústí nad Labem, comhad "
+"Uimh. C 52324, i.e. an \"<strong>Soláthraí</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid ""
@@ -71,6 +77,11 @@ msgid ""
 "the Services, Products, Support Services, as well as when using the Website "
 "and other possible services and related activities."
 msgstr ""
+"Déantar cur síos sa Bheartas seo ar an gcaoi a láimhseálann an Soláthraí "
+"sonraí pearsanta Úsáideoirí mar ábhair sonraí - daoine aonair príobháideacha "
+"nuair a bhíonn rochtain acu ar na Seirbhísí, Táirgí, Seirbhísí Tacaíochta, "
+"agus ina dhiaidh sin, chomh maith le cathain a úsáideann sé an Suíomh "
+"Gréasáin agus seirbhísí féideartha eile agus gníomhaíochtaí gaolmhara."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid ""
@@ -78,6 +89,9 @@ msgid ""
 "in Article 1 of the Terms and which have the same meaning as set out in the "
 "Terms."
 msgstr ""
+"Baineann an Beartas seo úsáid freisin as téarmaí nó sainmhínithe áirithe a "
+"shainítear in Airteagal 1 de na Téarmaí agus a bhfuil an bhrí chéanna leo "
+"agus atá leagtha amach sna Téarmaí."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
@@ -90,6 +104,15 @@ msgid ""
 "personal data and the protection of privacy in the electronic communications "
 "sector (abbreviated as the \"<strong>ePrivacy Directive</strong>\")."
 msgstr ""
+"Agus sonraí pearsanta á bpróiseáil aige, comhlíonann an Soláthraí Rialachán "
+"(AE) 2016/679 ó Pharlaimint na hEorpa agus ón gComhairle, an Rialachán "
+"Ginearálta um Chosaint Sonraí, ar a dtugtar an GDPR freisin (úsáidfimid an "
+"giorrúchán \"<strong>GDPR</strong>\"), Acht Uimh. 110/2019 Coll., maidir le "
+"sonraí pearsanta a phróiseáil, chomh maith le Treoir 2002/58/CE ó "
+"Pharlaimint na hEorpa agus ón gComhairle an 12 Iúil 2002 maidir le sonraí "
+"pearsanta a phróiseáil agus príobháideacht a chosaint in earnáil na "
+"cumarsáide leictreonaí (giorraithe mar an \"<strong>Treoir maidir le "
+"rPríobháideacht</strong>\")."
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -99,6 +122,12 @@ msgid ""
 "registers for the Provider's newsletter and/or when the Provider and the "
 "User conclude the Contract, whichever is the earliest."
 msgstr ""
+"Ní dhéantar próiseáil iarbhír sonraí pearsanta na nÚsáideoirí i gcónaí ach "
+"amháin chun na gcríoch agus faoi na coinníollacha a shainmhínítear go mion "
+"sa Bheartas seo agus tosaíonn sé tráth a thugann an tÚsáideoir cuairt ar an "
+"Láithreán Gréasáin, nuair a chláraíonn an tÚsáideoir do nuachtlitir an "
+"tSoláthraí agus/nó nuair a thugann an Soláthraí agus an Úsáideoir an Conradh "
+"i gcrích, cibé acu is luaithe."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid ""
@@ -107,6 +136,9 @@ msgid ""
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
 msgstr ""
+"Ansin déanann an Soláthraí agus/nó tríú páirtithe an phróiseáil go díreach "
+"de réir bhrí Airteagal 3 den Bheartas seo atá údaraithe ag an Soláthraí chun "
+"sonraí pearsanta a phróiseáil de réir an Bheartais seo."
 
 #: wllegal/templates/legal/documents/privacy.html:45
 msgid ""
@@ -114,73 +146,86 @@ msgid ""
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
+"Mura luaitear a mhalairt go sainráite sa Bheartas seo, gníomhaíonn an "
+"Soláthraí mar <strong>rialaitheoir sonraí</strong> agus gníomhaíonn "
+"Úsáideoirí ar daoine nádúrtha iad mar ábhair sonraí mar a shainítear na róil "
+"seo sa GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "Scóip, Cuspóirí, agus Fad na Próiseála"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
 msgstr ""
+"Próiseálann an Soláthraí sonraí pearsanta an Úsáideora chun na gcríoch seo a "
+"leanas:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "an Conradh faoi Airteagal 6(1)(b) den RGCS a chomhlíonadh,"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
 msgstr ""
+"idirbheartaíocht a dhéanamh ar an gConradh faoi Airteagal 6(1)(b) den RGCS,"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
 msgstr ""
+"oibleagáidí dlíthiúla an tSoláthraí faoi Airteagal 6(1)(c) den RGCS a "
+"chomhlíonadh,"
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, "
 "and in selected cases also"
 msgstr ""
+"leasanna dlisteanacha an tSoláthraí faoi Airteagal 6(1)(f) den RGCS, agus i "
+"gcásanna roghnaithe freisin"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
-msgstr ""
+msgstr "toiliú arna dheonú ag an Úsáideoir faoi Airteagal 6(1)(a) den RGCS."
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
 msgstr ""
+"Áirítear iad seo a leanas le raon feidhme shonraí pearsanta an Úsáideora a "
+"phróiseálann an Soláthraí:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr ""
+msgstr "céadainm agus sloinne,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr ""
+msgstr "Seoladh an úsáideora (seachadadh agus billeáil),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr ""
+msgstr "Aitheantas Cuideachta agus ID Cánach,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, Xu, and others),"
 msgstr ""
+"leasainm(í) (lena n-áirítear aon ardáin atá nasctha go deonach amhail "
+"Liberapay, GitHub, Xu, agus eile),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr ""
+msgstr "Avatar an úsáideora,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail address"
 msgid "email address(es),"
-msgstr "Ainm agus seoladh r-phoist"
+msgstr "seoladh ríomhphoist/seoltaí ríomhphoist,"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -188,15 +233,19 @@ msgid ""
 "openSUSE, and Ubuntu in the event that accounts with these providers are "
 "linked to the User account,"
 msgstr ""
+"aitheantóirí do Bitbucket, Facebook, Google, LinkedIn, GitHub, GitLab, "
+"openSUSE, agus Ubuntu sa chás go bhfuil cuntais leis na soláthraithe seo "
+"nasctha leis an gcuntas Úsáideora,"
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
-msgstr ""
+msgstr "sonraíochtaí na Seirbhíse agus an Táirge a úsáideann an tÚsáideoir,"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
 msgstr ""
+"faisnéis faoi líon na mball foirne den Úsáideoir agus a róil, lena n-áirítear"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
@@ -204,35 +253,48 @@ msgid ""
 "Profile), i.e., settings for languages, notifications, if they can identify "
 "the User directly or indirectly,"
 msgstr ""
+"gach suíomh úsáideora eile den chuntas Úsáideora (lena n-áirítear an "
+"Phróifíl mar a thugtar uirthi), i.e., socruithe le haghaidh teangacha, "
+"fógraí, más féidir leo an tÚsáideoir a aithint go díreach nó go hindíreach,"
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
 msgstr ""
+"uimhir chuntais bainc agus, b'fhéidir, sonraí íocaíochta eile an Úsáideora,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "seoladh sparán cryptocurrency nó seoltaí,"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
 "other personal data contained in messages sent by the User to the Provider "
 "(especially the subject and other content of the message),"
 msgstr ""
+"sonraí pearsanta eile atá i dteachtaireachtaí a sheol an tÚsáideoir chuig an "
+"Soláthraí (go háirithe ábhar agus ábhar eile na teachtaireachta),"
 
 #: wllegal/templates/legal/documents/privacy.html:120
 msgid ""
 "other personal data contained in communications with the Provider's support,"
 msgstr ""
+"sonraí pearsanta eile atá i gcumarsáid le tacaíocht an tSoláthraí, lena "
+"n-áirítear"
 
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
 msgstr ""
+"sonraí córais, logaí, agus logaí seisiúin lena n-áirítear seoladh IP an "
+"Úsáideora,"
 
 #: wllegal/templates/legal/documents/privacy.html:128
 msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
+"i gcás ina leanfar de bheith ag tagairt go comhchoiteann do na catagóirí "
+"aonair sonraí pearsanta atá liostaithe thuas mar \"<strong>Sonraí "
+"Pearsanta</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -245,6 +307,15 @@ msgid ""
 "under the conditions and based on a separate data processing agreement (so-"
 "called processing agreement) concluded between the Provider and the User."
 msgstr ""
+"I gcásanna áirithe, féadfaidh an Soláthraí <strong>a bheith ina phróiseálaí "
+"sonraí pearsanta</strong> freisin, eadhon nuair a chuireann an tÚsáideoir "
+"sonraí pearsanta tríú páirtithe ar fáil dó chun a gcríoch féin (m.sh., i "
+"gcás foireann aonair a chur leis. baill, tionscadal a bhronnadh ar an "
+"Soláthraí thar ceann duine eile, etc.). Tarlaíonn próiseáil Sonraí Pearsanta "
+"roghnaithe tríú páirtithe arna gcur ar fáil ag an Úsáideoir sa chás seo faoi "
+"threoir an Úsáideora, faoi na coinníollacha agus bunaithe ar chomhaontú "
+"próiseála sonraí ar leith (comhaontú próiseála mar a thugtar air) a tugadh i "
+"gcrích idir an Soláthraí agus an Úsáideoir."
 
 #: wllegal/templates/legal/documents/privacy.html:136
 msgid ""
@@ -270,6 +341,30 @@ msgid ""
 "the User's instructions unless the Provider has another legal basis for "
 "processing personal data as a controller under Article 2.1 of this Policy."
 msgstr ""
+"Próiseálann an Soláthraí Sonraí Pearsanta go dtí go gcomhlíontar gach "
+"dualgas a eascraíonn as an gConradh. Nuair a dhúnfaidh an Soláthraí cuntais "
+"agus/nó go gcealóidh an tÚsáideoir cuntas, scriosfar na Sonraí Pearsanta "
+"agus na sonraí eile go léir a cuireadh isteach sa tSeirbhís, seachas na "
+"Sonraí Pearsanta roghnaithe a luaitear thíos; mar sin molann an Soláthraí "
+"<strong>go láidir cúltaca</strong> na sonraí go léir a cuireadh isteach sa "
+"tSeirbhís a chur ar ceal sula gcuirtear an Cuntas Úsáideora ar ceal agus níl "
+"sé freagrach as a gcaillteanas tar éis don Chuntas Úsáideora a dhúnadh, fiú "
+"má dhúnann an Soláthraí go ceart é. Coinníonn an Soláthraí Sonraí Pearsanta "
+"a léirítear ar shonraisc ar feadh ar a laghad na tréimhsí coinneála "
+"reachtúla a eascraíonn as an dlí, i.e., ar feadh tréimhse 10 mbliana. I "
+"gcásanna ina bhfuil sé riachtanach chun éilimh an tSoláthraí a chosaint agus/"
+"nó chun cosaint a dhéanamh in aghaidh éileamh ó thríú páirtithe (lena n-"
+"áirítear aon imeachtaí arna dtionscnamh ag údaráis phoiblí), féadfaidh an "
+"Soláthraí roinnt Sonraí Pearsanta eile a choinneáil, ach i gcónaí ar feadh "
+"uastréimhse comhionann. go dtí an tréimhse teorann le haghaidh éileamh "
+"aonair agus/nó go dtí go dtabharfar imeachtaí roghnaithe i gcrích. Ní féidir "
+"an ré shonrach a shainiú go beacht agus athraíonn sé de réir an chineáil "
+"éilimh, a dtréimhsí teorann, agus luas na gcúirteanna nó na n-údarás poiblí "
+"roghnaithe. Sonraí nach bpróiseálann an Soláthraí ach amháin mar phróiseálaí "
+"sonraí an Úsáideora a phróiseáiltear ar feadh na tréimhse a shonraítear i "
+"dtreoracha an Úsáideora mura bhfuil bunús dlí eile ag an Soláthraí chun "
+"sonraí pearsanta a phróiseáil mar rialaitheoir faoi Airteagal 2.1 den "
+"Bheartas seo."
 
 #: wllegal/templates/legal/documents/privacy.html:140
 #, python-format
@@ -289,6 +384,21 @@ msgid ""
 "consent granted otherwise, by sending a request to <a href=\"mailto:"
 "%(address)s\">%(address)s</a>."
 msgstr ""
+"Féadfaidh an Soláthraí Sonraí Pearsanta roghnaithe an Úsáideora a phróiseáil "
+"freisin, go háirithe ríomhphost, céadainm, sloinne, agus aon sonraí "
+"pearsanta eile (má chuirtear ar fáil iad chun na gcríoch sin) bunaithe ar "
+"thoiliú <strong>deonach agus feasach</strong> an Úsáideora . Tarlaíonn an "
+"phróiseáil ar feadh tréimhse <strong>2 bhliain</strong> agus/nó go dtí go "
+"ndéanfar an toiliú a chúlghairm. Ní <strong>ní</strong> choinníolar riamh "
+"úsáid na Seirbhíse nó an Táirge (lena n-áirítear Seirbhísí Tacaíochta) ar "
+"thoiliú a sholáthar. Go hiondúil, áfach, is gá toiliú chun nuachtlitreacha a "
+"sheoladh chuig ábhair sonraí nach Úsáideoirí iad fós, nó chun bónais "
+"roghnaithe nó ábhair bónais a sholáthar nach bhfuil nasctha le seirbhísí "
+"eile de chuid an tSoláthraí agus/nó chun Sonraí Pearsanta an Úsáideora a "
+"nochtadh maidir le síntiús a tugadh don Soláthraí. Is féidir cúlghairm a "
+"dhéanamh am ar bith go díreach i gcomhéadan an chuntais Úsáideora agus, i "
+"gcás toiliú arna dheonú ar shlí eile, trí iarratas a sheoladh chuig <a href="
+"\"mailto:%(address)s\">%(address)s</a>."
 
 #: wllegal/templates/legal/documents/privacy.html:144
 msgid ""
@@ -297,12 +407,14 @@ msgid ""
 "selected Personal Data based on a different legal reason if this legal "
 "reason in favour of the Provider continues to exist."
 msgstr ""
+"Nuair a bheidh an chúis le Sonraí Pearsanta a phróiseáil thart, scriosfaidh "
+"an Soláthraí na Sonraí Pearsanta. Ní eisiann sé seo próiseáil bhreise ar "
+"Shonraí Pearsanta roghnaithe bunaithe ar chúis dhlíthiúil dhifriúil má "
+"leanann an chúis dhlíthiúil seo i bhfabhar an tSoláthraí de bheith ann."
 
 #: wllegal/templates/legal/documents/privacy.html:149
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Recipients and Processors of Personal Data"
-msgstr "Rochtain ar na Sonraí Pearsanta"
+msgstr "Faighteoirí agus Próiseálaithe Sonraí Pearsanta"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -311,12 +423,18 @@ msgid ""
 "proper processing of Personal Data for the purposes defined in Article 2.1 "
 "of this Policy, specifically:"
 msgstr ""
+"Chomh maith leis an Soláthraí, faigheann agus próiseálann tríú páirtithe "
+"roghnaithe sonraí pearsanta bunaithe ar an mBeartas seo, a bhfuil a "
+"rannpháirtíocht riachtanach chun Sonraí Pearsanta a phróiseáil go cuí chun "
+"na gcríoch a shainmhínítear in Airteagal 2.1 den Bheartas seo, go sonrach:"
 
 #: wllegal/templates/legal/documents/privacy.html:158
 msgid ""
 "hosting provider (including web hosting and mail hosting services), "
 "currently this is <strong>Hetzner Online GmbH</strong>;"
 msgstr ""
+"soláthraí óstála (lena n-áirítear seirbhísí óstála gréasáin agus ríomhphoist)"
+", is é seo <strong>Hetzner Online GmbH</strong> faoi láthair;"
 
 #: wllegal/templates/legal/documents/privacy.html:161
 msgid ""
@@ -324,24 +442,33 @@ msgid ""
 "possibly operators of other services used in connection with the payment of "
 "any payments related to billing;"
 msgstr ""
+"oibreoirí na tairsí íocaíochta <strong>ThePay.cz, s.ro.</strong> agus "
+"b'fhéidir oibreoirí seirbhísí eile a úsáidtear i ndáil le híocaíocht aon "
+"íocaíochtaí a bhaineann le billeáil;"
 
 #: wllegal/templates/legal/documents/privacy.html:164
 msgid ""
 "accounting, legal, and tax advisors of the Provider and possibly other "
 "persons bound by confidentiality under the law;"
 msgstr ""
+"comhairleoirí cuntasaíochta, dlíthiúla agus cánach an tSoláthraí agus "
+"b'fhéidir daoine eile atá faoi cheangal rúndachta faoin dlí;"
 
 #: wllegal/templates/legal/documents/privacy.html:167
 msgid ""
 "C-level and other managerial employees employed by or otherwise "
 "collaborating with the Provider;"
 msgstr ""
+"C-leibhéal agus fostaithe bainistíochta eile atá fostaithe ag an Soláthraí "
+"nó ag comhoibriú leis ar shlí eile;"
 
 #: wllegal/templates/legal/documents/privacy.html:170
 msgid ""
 "selected contractors of the Provider who are involved in providing services "
 "to Users and who are also bound by confidentiality;"
 msgstr ""
+"conraitheoirí roghnaithe an tSoláthraí a bhfuil baint acu le seirbhísí a "
+"sholáthar d'Úsáideoirí agus atá faoi cheangal rúndachta freisin;"
 
 #: wllegal/templates/legal/documents/privacy.html:173
 msgid ""
@@ -349,12 +476,17 @@ msgid ""
 "the Service, Products, Support Services, and/or to ensure any other "
 "activities related to the above;"
 msgstr ""
+"aon daoine eile a bhfuil a rannpháirtíocht riachtanach chun an tSeirbhís, na "
+"Táirgí, na Seirbhísí Tacaíochta a sholáthar go cuí, agus/nó chun aon "
+"ghníomhaíochtaí eile a bhaineann leis an méid thuas a chinntiú;"
 
 #: wllegal/templates/legal/documents/privacy.html:178
 msgid ""
 "the persons mentioned in this Article 3.1 are collectively referred to in "
 "this Policy as \"<strong>Processors</strong>\"."
 msgstr ""
+"\"<strong>Próiseálaithe</strong>\" a thugtar ar na daoine a luaitear san "
+"Airteagal 3.1 seo le chéile."
 
 #: wllegal/templates/legal/documents/privacy.html:182
 msgid ""
@@ -364,12 +496,20 @@ msgid ""
 "data must meet high standards of protection and will always handle the data "
 "within the limits of the GDPR and this Policy."
 msgstr ""
+"Aontaíonn an tÚsáideoir go bhféadfaidh an Soláthraí sonraí pearsanta a "
+"aistriú chuig na Próiseálaithe más gá sin chun na cuspóirí thuas a bhaineann "
+"le próiseáil sonraí a chomhlíonadh. Ní mór do na Próiseálaithe a fhostaíonn "
+"an Soláthraí chun sonraí pearsanta a phróiseáil ardchaighdeáin chosanta a "
+"chomhlíonadh agus láimhseálfaidh siad na sonraí i gcónaí laistigh de "
+"theorainneacha an RGCS agus an Bheartais seo."
 
 #: wllegal/templates/legal/documents/privacy.html:186
 msgid ""
 "The processing of Personal Data by selected Processors may be governed by "
 "their own service provision conditions."
 msgstr ""
+"Féadfaidh próiseálaithe roghnaithe próiseáil Sonraí Pearsanta a rialú ag a "
+"gcoinníollacha soláthair seirbhíse féin."
 
 #: wllegal/templates/legal/documents/privacy.html:190
 msgid ""
@@ -378,10 +518,14 @@ msgid ""
 "where the transfer must occur in compliance with the obligations of the "
 "Provider arising from generally binding regulations."
 msgstr ""
+"Féadfar Sonraí Pearsanta a aistriú freisin má tá oibleagáid ar an Soláthraí "
+"é sin a dhéanamh de réir dlí, mar thoradh ar chinneadh ó údarás poiblí, nó i "
+"gcásanna eile ina gcaithfidh an t-aistriú tarlú i gcomhréir le hoibleagáidí "
+"an tSoláthraí a eascraíonn as rialacháin atá ceangailteach go ginearálta."
 
 #: wllegal/templates/legal/documents/privacy.html:195
 msgid "Common Provisions on Processing"
-msgstr ""
+msgstr "Forálacha Coiteanna maidir le Próiseáil"
 
 #: wllegal/templates/legal/documents/privacy.html:199
 msgid ""
@@ -391,6 +535,11 @@ msgid ""
 "processing of personal data by any third party, even if those third parties "
 "are Processors."
 msgstr ""
+"Déanfaidh an Soláthraí gach iarracht i gcónaí cosc a chur ar phróiseáil "
+"neamhúdaraithe sonraí pearsanta ag daoine eile; mar sin féin, níl sé faoi "
+"dhliteanas don Úsáideoir ná d'ábhair sonraí eile as aon damáistí a "
+"tharlaíonn de bharr próiseáil neamhúdaraithe sonraí pearsanta ag aon tríú "
+"páirtí, fiú más Próiseálaithe iad na tríú páirtithe sin."
 
 #: wllegal/templates/legal/documents/privacy.html:203
 msgid ""
@@ -400,6 +549,12 @@ msgid ""
 "480/2004 Coll. on Certain Information Society Services, if they directly "
 "relate to these Services, Products, and/or Support Services."
 msgstr ""
+"Ní mheastar ríomhphoist a sheoltar chuig Úsáideoirí i dtaca le soláthar na "
+"Seirbhíse, an Táirge agus/nó na Seirbhísí Tacaíochta a bheith ina "
+"gcumarsáidí tráchtála gan iarraidh faoi Acht Uimh. 40/1995 Coll. ar "
+"Fhógraíocht agus Acht Uimh. 480/2004 Coll. ar Sheirbhísí Áirithe na Sochaí "
+"Faisnéise, má bhaineann siad go díreach leis na Seirbhísí, Táirgí agus/nó "
+"Seirbhísí Tacaíochta seo."
 
 #: wllegal/templates/legal/documents/privacy.html:207
 msgid ""
@@ -411,6 +566,13 @@ msgid ""
 "revoked at any time by clicking on the link found in the footer of such "
 "commercial communication."
 msgstr ""
+"Féadfaidh an Úsáideoir, áfach, go sainráite agus <strong>toiliú go deonach</"
+"strong>, de réir bhrí Alt 7(2) d'Acht Uimh. 480/2004 Coll. ar Sheirbhísí "
+"Áirithe Sochaí na Faisnéise agus ag leasú achtanna áirithe, cumarsáid "
+"tráchtála níos leithne a fháil (m.sh., i gcás margaíochta indírí) ón "
+"Soláthraí ag seoladh leictreonach an Úsáideora. Is féidir, ar ndóigh, an "
+"toiliú seo a chúlghairm am ar bith ach cliceáil ar an nasc atá le fáil i "
+"mbuntásc na cumarsáide tráchtála sin."
 
 #: wllegal/templates/legal/documents/privacy.html:211
 msgid ""
@@ -418,6 +580,9 @@ msgid ""
 "related to Personal Data that affects the User, they will notify the User of "
 "this fact without undue delay."
 msgstr ""
+"Sa chás go bhfoghlaimíonn an Soláthraí agus/nó na Próiseálaithe faoi riosca "
+"slándála a bhaineann le Sonraí Pearsanta a théann i bhfeidhm ar an "
+"Úsáideoir, cuirfidh siad an méid sin in iúl don Úsáideoir gan moill mhíchuí."
 
 #: wllegal/templates/legal/documents/privacy.html:215
 msgid ""
@@ -426,6 +591,10 @@ msgid ""
 "other incident leading to loss. However, the Provider is not responsible for "
 "the improper actions of the Processors."
 msgstr ""
+"Cuirfidh an Soláthraí cúnamh agus cúnamh dlí ar fáil don Úsáideoir chun "
+"cúiteamh a lorg ó Phróiseálaithe freagracha i gcás sárú sonraí nó teagmhas "
+"eile as a dtagann caillteanas. Mar sin féin, níl an Soláthraí freagrach as "
+"gníomhartha míchuí na bPróiseálaithe."
 
 #: wllegal/templates/legal/documents/privacy.html:219
 msgid ""
@@ -437,6 +606,14 @@ msgid ""
 "the User in the case where they provide the Provider with Personal Data of "
 "data subjects other than this User."
 msgstr ""
+"Deimhníonn an tÚsáideoir leis seo go bhfuil na Sonraí Pearsanta a "
+"soláthraíodh fíor, cruinn, agus go mbaineann siad leis an Úsáideoir amháin, "
+"nó gur sholáthair siad sonraí nach sáraíonn a n-úsáid cearta tríú páirtithe. "
+"Tá sé de dhualgas ar an Úsáideoir an Soláthraí a chur ar an eolas i gcónaí "
+"faoi aon athruithe ar a Sonraí Pearsanta ionas nach bpróiseálfar ach sonraí "
+"reatha agus iomlána. Baineann na hoibleagáidí céanna leis an Úsáideoir sa "
+"chás go soláthraíonn siad Sonraí Pearsanta na n-ábhar sonraí seachas an "
+"tÚsáideoir seo don Soláthraí."
 
 #: wllegal/templates/legal/documents/privacy.html:223
 msgid ""
@@ -445,6 +622,10 @@ msgid ""
 "never be subject to individual automated decision-making (including "
 "profiling) within the meaning of Article 22 of the GDPR."
 msgstr ""
+"Próiseálfar Sonraí Pearsanta go leictreonach, lena n-áirítear modhanna "
+"próiseála uathoibrithe a úsáid. Mar sin féin, ní bheidh an tÚsáideoir ná "
+"ábhair sonraí eile faoi réir cinnteoireacht uathoibrithe aonair (próifíliú "
+"san áireamh) de réir bhrí Airteagal 22 den RGCS."
 
 #: wllegal/templates/legal/documents/privacy.html:227
 msgid ""
@@ -452,12 +633,13 @@ msgid ""
 "the GDPR) may be processed even after all legal grounds for processing the "
 "User's Personal Data have ceased."
 msgstr ""
+"Féadfar sonraí pearsanta anaithnidithe (nach meastar a thuilleadh gur sonraí "
+"pearsanta iad faoin GDPR) a phróiseáil fiú tar éis deireadh a chur leis na "
+"forais dhlíthiúla go léir chun Sonraí Pearsanta an Úsáideora a phróiseáil."
 
 #: wllegal/templates/legal/documents/privacy.html:232
-#, fuzzy
-#| msgid "Order us to delete your Personal Data"
 msgid "User Rights in Relation to Personal Data"
-msgstr "Ordaigh dúinn do Shonraí Pearsanta a scriosadh"
+msgstr "Cearta Úsáideora maidir le Sonraí Pearsanta"
 
 #: wllegal/templates/legal/documents/privacy.html:236
 #, python-format
@@ -469,6 +651,12 @@ msgid ""
 "correction, restriction, or deletion) can be automated through this user "
 "account."
 msgstr ""
+"Is féidir leis an Úsáideoir a gcearta a eascraíonn as an GDPR a fheidhmiú am "
+"ar bith trí ríomhphost a sheoladh chuig <a href=\"mailto:%(address)s\""
+">%(address)s</a>, chomh maith le trína Chuntas Úsáideora, toisc gur féidir "
+"cur i bhfeidhm fhormhór na gceart atá liostaithe thíos (go háirithe rochtain "
+"ar na Sonraí Pearsanta próiseáilte go léir, a gceartú, a srianadh nó a "
+"scriosadh) a uathoibriú tríd an gcuntas úsáideora seo."
 
 #: wllegal/templates/legal/documents/privacy.html:240
 msgid ""
@@ -477,30 +665,44 @@ msgid ""
 "strong>, unless due to the complexity of the matter it is necessary for the "
 "Provider to extend this period. The User's rights include:"
 msgstr ""
+"Déanfaidh an Soláthraí gach iarracht aghaidh a thabhairt ar iarratais maidir "
+"le sonraí pearsanta an Úsáideora a luaithe is féidir, ach tráth nach déanaí "
+"ná laistigh de <strong>30 lá</strong>, ach amháin má tá sé riachtanach don "
+"Soláthraí síneadh ama a chur leis mar gheall ar chastacht an ábhair. an "
+"tréimhse seo. Áirítear ar chearta an Úsáideora:"
 
 #: wllegal/templates/legal/documents/privacy.html:245
 msgid ""
 "an explanation of whether and what personal data is being processed and, if "
 "applicable, requesting the Provider to disclose it;"
 msgstr ""
+"míniú ar cé acu atá nó nach bhfuil sonraí pearsanta á bpróiseáil agus, más "
+"infheidhme, ag iarraidh ar an Soláthraí iad a nochtadh;"
 
 #: wllegal/templates/legal/documents/privacy.html:248
 msgid ""
 "correction of personal data if there is concern that some of it is "
 "inaccurate or missing;"
 msgstr ""
+"sonraí pearsanta a cheartú má tá imní ann go bhfuil cuid de míchruinn nó ar "
+"iarraidh;"
 
 #: wllegal/templates/legal/documents/privacy.html:251
 msgid ""
 "restriction of processing if there is concern that the Provider is "
 "processing more data than necessary;"
 msgstr ""
+"srian a chur le próiseáil má tá imní ann go bhfuil níos mó sonraí á "
+"bpróiseáil ag an Soláthraí ná mar is gá;"
 
 #: wllegal/templates/legal/documents/privacy.html:254
 msgid ""
 "deletion of personal data based on the consent of the Provider, provided "
 "that there is no other legal reason for further processing of personal data;"
 msgstr ""
+"sonraí pearsanta a scriosadh bunaithe ar thoiliú an tSoláthraí, ar "
+"choinníoll nach bhfuil aon chúis dhlíthiúil eile ann chun tuilleadh "
+"próiseála a dhéanamh ar shonraí pearsanta;"
 
 #: wllegal/templates/legal/documents/privacy.html:257
 msgid ""
@@ -508,12 +710,17 @@ msgid ""
 "on the consent of the Provider or in connection with fulfilling the "
 "Provider's contractual obligations, in a machine-readable format;"
 msgstr ""
+"cóip de na sonraí pearsanta a phróiseáiltear trí mhodhanna uathoibrithe a "
+"eisiúint bunaithe ar thoiliú an tSoláthraí nó i dtaca le hoibleagáidí "
+"conarthacha an tSoláthraí a chomhlíonadh, i bhformáid atá inléite ag meaisín;"
 
 #: wllegal/templates/legal/documents/privacy.html:260
 msgid ""
 "temporary freezing of data processing operations for the purposes of the "
 "legitimate interest of the Provider;"
 msgstr ""
+"oibríochtaí próiseála sonraí a chalcadh go sealadach chun críocha leas "
+"dlisteanach an tSoláthraí;"
 
 #: wllegal/templates/legal/documents/privacy.html:263
 #, python-format
@@ -523,11 +730,15 @@ msgid ""
 "authority if the User believes that the Provider is processing personal data "
 "in violation of this Policy or legal regulations."
 msgstr ""
+"gearán a chomhdú go díreach leis an Oifig um Chosaint Sonraí Pearsanta (<a "
+"href=\"%(url)s\">%(url)s</a>) nó údarás náisiúnta cosanta sonraí ábhartha "
+"eile má chreideann an Úsáideoir go bhfuil an Soláthraí ag próiseáil sonraí "
+"pearsanta a sháraíonn an Beartas seo nó rialacháin dlí."
 
 #: wllegal/templates/legal/documents/privacy.html:268
 #: wllegal/templates/legal/documents/tos.html:619
 msgid "Final Provisions"
-msgstr ""
+msgstr "Forálacha Críochnaitheacha"
 
 #: wllegal/templates/legal/documents/privacy.html:272
 msgid ""
@@ -538,6 +749,12 @@ msgid ""
 "Policy displayed within the Service, or upon the next first login to their "
 "User Account."
 msgstr ""
+"Tá an Soláthraí i dteideal an Polasaí a athrú go haontaobhach. Tagann "
+"foclaíocht nua an Pholasaí i bhfeidhm nuair a fhoilseofar é ar an Suíomh "
+"Gréasáin. Gheobhaidh an tÚsáideoir, a bhfuil caidreamh conarthach aige leis "
+"an Soláthraí arna rialú ag an bPolasaí seo tráth an athraithe, fógra faoin "
+"athrú ar an bPolasaí a thaispeántar laistigh den tSeirbhís, nó ar an gcéad "
+"logáil isteach eile ar a gCuntas Úsáideora."
 
 #: wllegal/templates/legal/documents/privacy.html:276
 msgid ""
@@ -547,6 +764,11 @@ msgid ""
 "Policy will be resolved before the competent civil court in the Czech "
 "Republic."
 msgstr ""
+"Tá gach caidreamh dlíthiúil idir an Soláthraí agus an tÚsáideoir a "
+"eascraíonn as an bPolasaí seo á rialú ag dlíthe bailí Phoblacht na Seice. "
+"Déanfar aon díospóidí a eascraíonn idir an Soláthraí agus an tÚsáideoir ón "
+"mBeartas seo nó i dtaca leis a réiteach os comhair na cúirte sibhialta "
+"inniúla i bPoblacht na Seice."
 
 #: wllegal/templates/legal/documents/privacy.html:280
 msgid ""
@@ -559,6 +781,13 @@ msgid ""
 "Council (EC) No. 593/2008 of June 17, 2008, on the law applicable to "
 "contractual obligations (Rome I)."
 msgstr ""
+"Má tá gné idirnáisiúnta (eachtrach) sa chaidreamh a bhunaítear leis an "
+"gConartha, ní bhaintear den úsáideoir – Tomhaltóir an chosaint dá "
+"bhforáiltear le forálacha an dlíchórais nach féidir imeacht go conarthach "
+"uathu agus a mbeadh feidhm aici murach sin in éagmais rogha dlí i gcomhréir "
+"le forálacha Airteagal 6(1) den Rialachán ó Pharlaimint na hEorpa agus ón "
+"gComhairle (CE) 593/2008 an 17 Meitheamh, 2008, maidir leis an dlí is "
+"infheidhme maidir le hoibleagáidí conarthacha (an Róimh I)."
 
 #: wllegal/templates/legal/documents/privacy.html:284
 msgid ""
@@ -568,14 +797,20 @@ msgid ""
 "provision does not affect the validity of the other provisions of this "
 "Policy."
 msgstr ""
+"Má tá aon fhoráil den Pholasaí neamhbhailí nó neamhéifeachtach, nó má "
+"thagann sé chun bheith amhlaidh, tiocfaidh an fhoráil is mó a bhfuil brí léi "
+"in ionad na bhforálacha neamhbhailí. Ní dhéanann neamhbhailíocht ná "
+"neamhéifeachtúlacht forála amháin difear do bhailíocht fhorálacha eile an "
+"Bheartais seo."
 
 #: wllegal/templates/legal/documents/privacy.html:288
 msgid "This Policy become effective upon their publication on the Website."
 msgstr ""
+"Tagann an Beartas seo i bhfeidhm nuair a fhoilsítear é ar an Suíomh Gréasáin."
 
 #: wllegal/templates/legal/documents/privacy.html:292
 msgid "In Prague on November 1, 2024."
-msgstr ""
+msgstr "I bPrág an 1 Samhain, 2024."
 
 #: wllegal/templates/legal/documents/summary.html:5
 msgid ""
@@ -627,16 +862,12 @@ msgstr ""
 "mBéarla, soláthraítear aistriúcháin ar mhaithe leat."
 
 #: wllegal/templates/legal/documents/tos.html:11
-#, fuzzy
-#| msgid ""
-#| "The rights and obligations of the User and the Provider resulting from "
-#| "the use of the Service are governed by these Terms of Service."
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
 msgstr ""
-"Tá cearta agus oibleagáidí an Úsáideora agus an tSoláthraí mar thoradh ar "
-"úsáid na Seirbhíse á rialú ag na Téarmaí Seirbhíse seo."
+"Tá cearta agus oibleagáidí an Úsáideora agus an tSoláthraí a eascraíonn as "
+"úsáid na Seirbhíse á rialú ag na Téarmaí agus Coinníollacha Ginearálta seo."
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid ""
@@ -647,31 +878,37 @@ msgid ""
 "Services and Products. These general terms and conditions govern the "
 "contractual relationship between the service provider and the User."
 msgstr ""
+"Is cuid dhílis iad na téarmaí agus na coinníollacha ginearálta seo den "
+"chomhaontú seirbhíse a tugadh i gcrích idir an Úsáideoir agus an Soláthraí ("
+"dá ngairtear an \"<strong>Comhaontú</strong>\" anseo feasta) agus sainíonn "
+"siad na rialacha agus na coinníollacha ceangailteacha maidir le soláthar "
+"Seirbhísí agus Táirgí agus úsáid Seirbhísí agus Táirgí. Rialaíonn na téarmaí "
+"agus coinníollacha ginearálta seo an caidreamh conarthach idir an soláthraí "
+"seirbhíse agus an Úsáideoir."
 
 #: wllegal/templates/legal/documents/tos.html:24
 msgid ""
 "The definitions below have the following meanings for the purposes of these "
 "general terms and conditions:"
 msgstr ""
+"Tá na bríonna seo a leanas leis na sainmhínithe thíos chun críocha na "
+"dtéarmaí agus na gcoinníollacha ginearálta seo:"
 
 #: wllegal/templates/legal/documents/tos.html:30
 msgid "Civil Code"
 msgstr "Cód Sibhialta"
 
 #: wllegal/templates/legal/documents/tos.html:33
-#, fuzzy
-#| msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
-msgstr ""
-"ciallaíonn sé Acht Uimh. %(law_89_2012)s Coll., an Cód Sibhialta, arna leasú"
+msgstr "89/2012 Coll., Cód Sibhialta, arna leasú;"
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
-msgstr ""
+msgstr "Páirtithe Conarthacha"
 
 #: wllegal/templates/legal/documents/tos.html:40
 msgid "jointly refers to the User and the Provider;"
-msgstr ""
+msgstr "tagraíonn sé go comhpháirteach don Úsáideoir agus don Soláthraí;"
 
 #: wllegal/templates/legal/documents/tos.html:44
 msgid "Cookies"
@@ -685,52 +922,58 @@ msgid ""
 "Coll., on Certain Information Society Services and Amending Certain Acts, as "
 "amended;"
 msgstr ""
+"ciallaíonn sé aon sonraí a sheoltar ó fhreastalaí gréasáin na seirbhíse "
+"chuig ríomhaire an Úsáideora nó gléas eile atá nasctha leis an idirlíon, a "
+"cheadaíonn brabhsálaí gréasáin an Úsáideora a shainaithint go uathúil de "
+"réir Alt 89 den Acht Uimh. 480/2004 Coll., ar Sheirbhísí Áirithe Sochaí "
+"Faisnéise agus Achtanna Áirithe, mar a leasuíodh;"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Dedicated Weblate"
-msgstr ""
+msgstr "Weblate Tiomnaithe"
 
 #: wllegal/templates/legal/documents/tos.html:54
 msgid ""
 "means a form of collaboration where the User is the sole user of the Service "
 "in a cloud hosted and provided by the Provider;"
 msgstr ""
+"ciallaíonn sé cineál comhoibrithe i gcás inarb é an tÚsáideoir an t-aon "
+"úsáideoir de chuid na Seirbhíse i néal arna óstáil agus arna sholáthar ag an "
+"Soláthraí;"
 
 #: wllegal/templates/legal/documents/tos.html:58
 msgid "GDPR"
 msgstr "GDPR"
 
 #: wllegal/templates/legal/documents/tos.html:61
-#, fuzzy
-#| msgid ""
-#| "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
-#| "Regulation"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
-msgstr ""
-"ciallaíonn sé Rialachán AE Uimh. %(law_679_2016)s, an Rialachán Ginearálta "
-"um Chosaint Sonraí"
+msgstr "679/2016, Rialachán Ginearálta maidir le Cosaint Sonraí Pearsanta;"
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
-msgstr ""
+msgstr "GTC"
 
 #: wllegal/templates/legal/documents/tos.html:68
 msgid ""
 "means these general terms and conditions, which form an integral part of the "
 "Agreement;"
 msgstr ""
+"ciallaíonn sé na téarmaí agus coinníollacha ginearálta sin, ar cuid dhílis "
+"den Chomhaontú iad;"
 
 #: wllegal/templates/legal/documents/tos.html:72
 msgid "Hosted String"
-msgstr ""
+msgstr "Teaghrán Óstáilte"
 
 #: wllegal/templates/legal/documents/tos.html:75
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
 msgstr ""
+"ciallaíonn sé aonad téacs a shainítear san fhormáid aistriúcháin. "
+"D'fhéadfadh sé a bheith ina fhocal, abairt, nó mír;"
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
@@ -742,63 +985,63 @@ msgid ""
 "provides Services to Users on a non-dedicated (i.e., shared by multiple "
 "Users) cloud operated by the Provider;"
 msgstr ""
+"ciallaíonn sé cineál comhoibrithe atá néalbhunaithe amháin, i gcás ina "
+"soláthraíonn an Soláthraí Seirbhísí d'Úsáideoirí ar scamall neamh-"
+"thiomnaithe (i.e., arna roinnt ag Úsáideoirí iolracha) arna oibriú ag an "
+"Soláthraí;"
 
 #: wllegal/templates/legal/documents/tos.html:86
 msgid "License"
 msgstr "Ceadúnas"
 
 #: wllegal/templates/legal/documents/tos.html:89
-#, fuzzy
-#| msgid ""
-#| "means non-exclusive license granted by the Provider to the User for use "
-#| "of the Service"
 msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
 msgstr ""
-"ciallaíonn sé ceadúnas neamheisiatach arna dheonú ag an Soláthraí don "
-"Úsáideoir chun an tSeirbhís a úsáid"
+"ciallaíonn sé an ceadúnas neamheisiach arna dheonú ag an Soláthraí don "
+"Úsáideoir chun an tSeirbhís a úsáid;"
 
 #: wllegal/templates/legal/documents/tos.html:93
 msgid "Personal Data"
 msgstr "Sonraí Pearsanta"
 
 #: wllegal/templates/legal/documents/tos.html:96
-#, fuzzy
-#| msgid ""
-#| "means personal data within the meaning of EU Regulation No. "
-#| "%(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"ciallaíonn sé sonraí pearsanta de réir bhrí Rialachán AE Uimh. "
-"%(law_679_2016)s a chuir an tÚsáideoir isteach sa tSeirbhís agus/nó Fianáin"
+"ciallaíonn sé sonraí pearsanta mar a shainmhínítear i Rialachán AE 679/2016, "
+"arna n-iontráil ag an úsáideoir sa tSeirbhís agus/nó i bhFianáin;"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
 msgid "Price"
-msgstr ""
+msgstr "Praghas"
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid ""
 "the value expressed in money for the provided License in accordance with the "
 "Price List;"
 msgstr ""
+"an luach arna shloinneadh in airgead don Cheadúnas a soláthraíodh i "
+"gcomhréir leis an Liosta Praghsanna;"
 
 #: wllegal/templates/legal/documents/tos.html:107
 msgid "Price List"
-msgstr ""
+msgstr "Liosta Praghsanna"
 
 #: wllegal/templates/legal/documents/tos.html:110
 msgid ""
 "means the document or web page that specifies the Price of the Service and/"
 "or Product unless otherwise stated in the Agreement;"
 msgstr ""
+"ciallaíonn sé an doiciméad nó an leathanach gréasáin lena sonraítear Praghas "
+"na Seirbhíse agus/nó an Táirge mura luaitear a mhalairt sa Chomhaontú;"
 
 #: wllegal/templates/legal/documents/tos.html:114
 msgid "Product"
-msgstr ""
+msgstr "Táirge"
 
 #: wllegal/templates/legal/documents/tos.html:117
 msgid ""
@@ -806,6 +1049,10 @@ msgid ""
 "Provider based on its brand usage policy. The User purchases the Product AS "
 "IS. Support and other services are provided separately;"
 msgstr ""
+"ciallaíonn sé aon seirbhís nó cuid di a sholáthraítear faoi bhranda áirithe "
+"de chuid an tSoláthraí bunaithe ar a bheartas úsáide branda. Ceannaíonn an "
+"tÚsáideoir an Táirge MAR IS. Cuirtear tacaíocht agus seirbhísí eile ar fáil "
+"ar leithligh;"
 
 #: wllegal/templates/legal/documents/tos.html:121
 msgid "Provider"
@@ -818,36 +1065,38 @@ msgid ""
 "the Commercial Register maintained by the Regional Court in Ústí nad Labem, "
 "file no. C 52324, with which the Agreement was concluded;"
 msgstr ""
+"tagairt don chuideachta <strong>Weblate sro.</strong>, ID Uimh. 21668027, a "
+"bhfuil oifig chláraithe aici ag Nábřežní 694, Cvikov II, 471 54 Cvikov, atá "
+"cláraithe sa Chlár Tráchtála arna chothabháil ag an gCúirt Réigiúnach in "
+"Ústí nad Labem, comhad uimh. . C 52324, lenar tugadh an Comhaontú i gcrích;"
 
 #: wllegal/templates/legal/documents/tos.html:128
 msgid "Service"
 msgstr "Seirbhís"
 
 #: wllegal/templates/legal/documents/tos.html:131
-#, fuzzy
-#| msgid ""
-#| "means the website and services based on Weblate operated by the Provider"
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
 msgstr ""
-"ciallaíonn sé an suíomh Gréasáin agus na seirbhísí atá bunaithe ar Weblate a "
-"oibríonn an Soláthraí"
+"ciallaíonn sé na suíomhanna gréasáin agus na seirbhísí atá bunaithe ar "
+"Weblate a sholáthraíonn an Soláthraí;"
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid "Self-hosting"
-msgstr ""
+msgstr "Féin-óstáil"
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid ""
 "means a form of collaboration where the User is the sole user of the "
 "Service, and this Service is operated directly on the User Server;"
 msgstr ""
+"ciallaíonn sé cineál comhoibrithe inarb é an tÚsáideoir an t-aon úsáideoir "
+"de chuid na Seirbhíse, agus oibrítear an tSeirbhís seo go díreach ar an "
+"bhfreastalaí úsáideora;"
 
 #: wllegal/templates/legal/documents/tos.html:142
-#, fuzzy
-#| msgid "Service"
 msgid "Support Services"
-msgstr "Seirbhís"
+msgstr "Seirbhísí Tacaíochta"
 
 #: wllegal/templates/legal/documents/tos.html:145
 msgid ""
@@ -855,79 +1104,82 @@ msgid ""
 "Support Services are governed separately by a separate support service "
 "agreement;"
 msgstr ""
+"an tacaíocht a chuireann an Soláthraí ar fáil don Úsáideoir laistigh den "
+"tSeirbhís. Seirbhísí Tacaíochta á rialú ar leithligh ag comhaontú seirbhíse "
+"tacaíochta ar leithligh;"
 
 #: wllegal/templates/legal/documents/tos.html:149
 msgid "Translation Memory"
 msgstr "Cuimhne Aistriúcháin"
 
 #: wllegal/templates/legal/documents/tos.html:152
-#, fuzzy
-#| msgid ""
-#| "means the optional translation memory service provided within Weblate"
 msgid "means an optional translation memory service provided on Weblate;"
 msgstr ""
-"ciallaíonn sé an tseirbhís roghnach cuimhne aistriúcháin a chuirtear ar fáil "
-"laistigh de Weblate"
+"ciallaíonn sé seirbhís roghnach cuimhne aistriúcháin a chuirtear ar fáil ar "
+"Weblate;"
 
 #: wllegal/templates/legal/documents/tos.html:156
 msgid "User"
 msgstr "Úsáideoir"
 
 #: wllegal/templates/legal/documents/tos.html:159
-#, fuzzy
-#| msgid ""
-#| "means any legal entity or an individual other than the Provider, who is "
-#| "using the Service"
 msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
 msgstr ""
-"ciallaíonn sé aon eintiteas dlíthiúil nó duine aonair seachas an Soláthraí, "
-"atá ag baint úsáide as an tSeirbhís"
+"ciallaíonn sé aon eintiteas dlíthiúil nó duine nádúrtha seachas an Soláthraí "
+"a úsáideann an tSeirbhís;"
 
 #: wllegal/templates/legal/documents/tos.html:163
 msgid "User Account"
-msgstr ""
+msgstr "Cuntas Úsáideora"
 
 #: wllegal/templates/legal/documents/tos.html:166
 msgid ""
 "means a user account with a unique access code and password in the Hosted "
 "Weblate web interface. Each User Account can be used by only one User;"
 msgstr ""
+"ciallaíonn cuntas úsáideora le cód rochtana uathúil agus pasfhocal sa "
+"chomhéadan gréasáin Weblate Óstáilte. Ní féidir ach le hÚsáideoir amháin "
+"gach Cuntas Úsáideora a úsáid;"
 
 #: wllegal/templates/legal/documents/tos.html:170
 msgid "User Server"
-msgstr ""
+msgstr "Freastalaí Úsáideora"
 
 #: wllegal/templates/legal/documents/tos.html:173
 msgid ""
 "refers to the server and other hardware equipment not owned, managed, or "
 "controlled by the Provider;"
 msgstr ""
+"tagraíonn sé don fhreastalaí agus do threalamh crua-earraí eile nach bhfuil "
+"faoi úinéireacht, faoi bhainistiú nó faoi rialú an tSoláthraí;"
 
 #: wllegal/templates/legal/documents/tos.html:179
 msgid "Methods of Acceptance"
-msgstr ""
+msgstr "Modhanna Glactha"
 
 #: wllegal/templates/legal/documents/tos.html:183
 msgid "The License is granted to the User based on the concluded Agreement."
 msgstr ""
+"Deonaítear an Ceadúnas don Úsáideoir bunaithe ar an gComhaontú a tugadh i "
+"gcrích."
 
 #: wllegal/templates/legal/documents/tos.html:187
 msgid "These GTC are an integral part of the Agreement."
-msgstr ""
+msgstr "Is cuid lárnach den Chomhaontú iad na GTC seo."
 
 #: wllegal/templates/legal/documents/tos.html:191
-#, fuzzy
-#| msgid "License Agreement Conclusion"
 msgid "The Agreement is concluded:"
-msgstr "Críoch an Chomhaontaithe Cheadúnais"
+msgstr "Tugtar an Comhaontú i gcrích:"
 
 #: wllegal/templates/legal/documents/tos.html:196
 msgid ""
 "on the day of signing by both parties (especially for all Services offered "
 "with custom settings);"
 msgstr ""
+"ar an lá a shíníonn an dá pháirtí (go háirithe i gcás na Seirbhísí go léir a "
+"thairgtear le socruithe saincheaptha);"
 
 #: wllegal/templates/legal/documents/tos.html:199
 msgid ""
@@ -938,10 +1190,16 @@ msgid ""
 "Provider's bank account) for the amount stated in the first billing period "
 "by the User."
 msgstr ""
+"ar líne trí ghlacadh (deimhniú) tríd an gcomhéadan gréasáin de réir an "
+"liosta Praghsanna, agus an Comhaontú ag teacht i bhfeidhm a luaithe a bheidh "
+"an Praghas don Cheadúnas íoctha go cuí (i gcás aistriú bainc, a luaithe a "
+"bheidh an méid a fhreagraíonn don Phraghas don Cheadúnas curtha chun sochair "
+"do chuntas bainc an tSoláthraí) don mhéid a luaigh an tÚsáideoir sa chéad "
+"tréimhse bhilleála."
 
 #: wllegal/templates/legal/documents/tos.html:207
 msgid "Service Provision"
-msgstr ""
+msgstr "Soláthar Seirbhíse"
 
 #: wllegal/templates/legal/documents/tos.html:211
 msgid ""
@@ -950,6 +1208,10 @@ msgid ""
 "accordance with the Agreement and the technical specifications outlined in "
 "the Product specification."
 msgstr ""
+"Oibríonn an Soláthraí an tSeirbhís ag an seoladh idirlín a shonraítear sa "
+"tsonraíocht Táirge agus a fo-ailt nó ar Fhreastalaithe an Úsáideora de réir "
+"an Chomhaontaithe agus na sonraíochtaí teicniúla atá leagtha amach sa "
+"tsonraíocht Táirge."
 
 #: wllegal/templates/legal/documents/tos.html:215
 msgid ""
@@ -960,12 +1222,21 @@ msgid ""
 "specification defined in this manner takes precedence over the form of "
 "Service offered according to the Price list."
 msgstr ""
+"Má thugtar an Comhaontú i gcrích faoi Airteagal 2.3(a), sainmhínítear raon "
+"feidhme na Seirbhísí sa tsonraíocht Táirge, atá i gceangal leis an "
+"gComhaontú. D'fhéadfadh an tsonraíocht Táirge tuilleadh mionsonraí a "
+"thabhairt ar raon feidhme na seirbhísí aonair (fo)maidir lena n-ábhar agus a "
+"modhanna gníomhachtaithe. Bíonn tosaíocht ag an tsonraíocht Táirge a "
+"shainmhínítear ar an mbealach seo ar an bhfoirm Seirbhíse a thairgtear de "
+"réir an liosta Praghsanna."
 
 #: wllegal/templates/legal/documents/tos.html:219
 msgid ""
 "The Service is provided in three forms of cooperation: Hosted Weblate, "
 "Dedicated Weblate, and Self-hosting."
 msgstr ""
+"Cuirtear an tSeirbhís ar fáil i dtrí chineál comhair: Weblate Óstáilte, "
+"Weblate Tiomnaithe, agus Féin-óstáil."
 
 #: wllegal/templates/legal/documents/tos.html:223
 msgid ""
@@ -978,12 +1249,18 @@ msgid ""
 "third parties may process Personal Data within their activities in "
 "accordance with the Agreement and GPLv3."
 msgstr ""
+"De réir GPLv3, féadfar gnéithe áirithe den tSeirbhís a sholáthar le cúnamh ó "
+"thríú páirtithe seachas an Soláthraí nó go díreach ó na páirtithe sin. "
+"Admhaíonn an tÚsáideoir go gcuirfidh na tríú páirtithe seo a gcuid seirbhísí "
+"ar fáil de réir an Chomhaontaithe seo agus an cheadúnais GPLv3. Admhaíonn an "
+"tÚsáideoir go bhféadfadh tríú páirtithe a bhfuil baint acu le soláthar na "
+"Seirbhíse athrú le linn sholáthar na Seirbhíse. Féadfaidh na tríú páirtithe "
+"sin Sonraí Pearsanta a phróiseáil laistigh dá ngníomhaíochtaí de réir an "
+"Chomhaontaithe agus GPLv3."
 
 #: wllegal/templates/legal/documents/tos.html:227
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
-msgstr "Seirbhís"
+msgstr "Fad na Seirbhíse"
 
 #: wllegal/templates/legal/documents/tos.html:231
 msgid ""
@@ -992,6 +1269,10 @@ msgid ""
 "subscription can be paid monthly or annually in accordance with Article 5 of "
 "the GTC."
 msgstr ""
+"Mura gcomhaontaítear a mhalairt go sainráite sa Chomhaontú, tugtar an "
+"Comhaontú i gcrích ar feadh tréimhse a fhreagraíonn do shamhail síntiúis. Is "
+"féidir an síntiús a íoc go míosúil nó go bliantúil de réir Airteagal 5 den "
+"GTC."
 
 #: wllegal/templates/legal/documents/tos.html:239
 msgid ""
@@ -1003,6 +1284,14 @@ msgid ""
 "List. The price for Services consists of the following separate items or "
 "their combination, which are paid regularly monthly/annually:"
 msgstr ""
+"Cinntear praghas na Seirbhíse de réir na tairisceana nó an Liosta "
+"Praghsanna. Admhaíonn agus aontaíonn an tÚsáideoir go bhféadfadh an "
+"Soláthraí an Liosta Praghsanna a athrú go haontaobhach ar an mbealach céanna "
+"leis na GTC seo. Braitheann an praghas ar chumraíocht roghnaithe na "
+"Seirbhíse, agus tá go leor leaganacha ann inar féidir an tSeirbhís a "
+"sholáthar. Tá na leaganacha seo liostaithe sa Liosta Praghsanna. Is éard atá "
+"sa phraghas ar Sheirbhísí ná na míreanna ar leithligh seo a leanas nó a "
+"gcomhcheangal, a íoctar go rialta go míosúil/go bliantúil:"
 
 #: wllegal/templates/legal/documents/tos.html:243
 msgid ""
@@ -1011,6 +1300,10 @@ msgid ""
 "but paid monthly or annually, with this price varying for different forms of "
 "collaboration according to the Price List;"
 msgstr ""
+"praghas rialta ar rochtain ar Sheirbhísí, a shocraítear i gcónaí don "
+"tréimhse ama ábhartha agus bunaithe ar choinníollacha sonracha na Seirbhíse, "
+"ach a íoctar go míosúil nó go bliantúil, agus athraíonn an praghas seo le "
+"haghaidh cineálacha éagsúla comhoibrithe de réir an Liosta Praghsanna;"
 
 #: wllegal/templates/legal/documents/tos.html:246
 msgid ""
@@ -1018,24 +1311,30 @@ msgid ""
 "User from the options offered in the Price List or in agreement with the "
 "Provider;"
 msgstr ""
+"praghas rialta ar líon na Teaghráin Óstáilte; roghnaíonn an tÚsáideoir an "
+"méid seo ó na roghanna a thairgtear sa Liosta Praghsanna nó i gcomhaontú "
+"leis an Soláthraí;"
 
 #: wllegal/templates/legal/documents/tos.html:249
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "Cuimhne Aistriúcháin"
+msgstr "praghas rialta ar Chuimhne an Aistriúcháin;"
 
 #: wllegal/templates/legal/documents/tos.html:254
 msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
 msgstr ""
+"(pointí a), b), agus c) tugtar an \"<strong>Síntiús</strong>\" orthu le "
+"chéile)."
 
 #: wllegal/templates/legal/documents/tos.html:258
 msgid ""
 "To avoid doubt, the Subscription may guarantee either only access to a "
 "specific Product or License and/or a specific package of guaranteed Services."
 msgstr ""
+"Chun amhras a sheachaint, ní fhéadfaidh an Síntiús rochtain a ráthú ach ar "
+"Tháirge nó ar Cheadúnas ar leith agus/nó ar phacáiste sonrach Seirbhísí "
+"ráthaithe."
 
 #: wllegal/templates/legal/documents/tos.html:262
 msgid ""
@@ -1044,6 +1343,10 @@ msgid ""
 "invoice is issued and delivered to the User within 5 working days after the "
 "end of each relevant period."
 msgstr ""
+"Tá dualgas ar an Úsáideoir an Praghas a íoc bunaithe ar na doiciméid chánach "
+"(sonraisc) a fuarthas arna n-eisiúint ag an Soláthraí. Íoctar an Praghas "
+"roimh ré, agus eisítear agus seachadtar an sonrasc don Úsáideoir laistigh de "
+"5 lá oibre tar éis dheireadh gach tréimhse ábhartha."
 
 #: wllegal/templates/legal/documents/tos.html:266
 #, python-format
@@ -1054,6 +1357,11 @@ msgid ""
 "an additional VAT of 21%%. Reverse charge applies to invoices issued to "
 "businesses within the EU."
 msgstr ""
+"Is féidir an Praghas a íoc le Cárta Creidmheasa, le haistriú bainc, nó le "
+"hidirbheart cryptocurrency. Níl CBL san áireamh sna Praghsanna go léir atá "
+"liostaithe ar an Liosta Praghsanna. Beidh ar úsáideoirí deiridh ón AE agus ó "
+"chuideachtaí gnó Seiceacha CBL breise 21%% a íoc. Baineann frithmhuirear le "
+"sonraisc a eisítear chuig gnólachtaí laistigh den AE."
 
 #: wllegal/templates/legal/documents/tos.html:270
 msgid ""
@@ -1062,6 +1370,11 @@ msgid ""
 "automatic renewal of the Service usage. The Provider recommends verifying "
 "with the prepaid card issuer or bank whether recurring billing is possible."
 msgstr ""
+"Más mian leis an Úsáideoir gan táille a ghearradh ar an tSeirbhís sa mhodh "
+"Síntiúis, ní mór dóibh an Síntiús a chealú trí lá roimh athnuachan "
+"uathoibríoch úsáid na Seirbhíse. Molann an Soláthraí a fhíorú leis an "
+"eisitheoir cárta réamhíoctha nó leis an mbanc cibé an féidir billeáil "
+"athfhillteach a dhéanamh."
 
 #: wllegal/templates/legal/documents/tos.html:274
 msgid ""
@@ -1071,6 +1384,11 @@ msgid ""
 "date as per point 5.5 above, their Subscription will stop at the end of the "
 "current billing cycle."
 msgstr ""
+"Is féidir leis an Úsáideoir a mód Síntiúis a athrú ar líne trí logáil "
+"isteach ina gCuntas Úsáideora agus an t-athrú a dhéanamh nó an Síntiús a "
+"chealú ansin. Má chealaíonn an tÚsáideoir a Síntiús trí lá ar a laghad roimh "
+"an dáta athnuachana de réir phointe 5.5 thuas, stopfaidh a Síntiús ag "
+"deireadh an timthrialla billeála reatha."
 
 #: wllegal/templates/legal/documents/tos.html:278
 msgid ""
@@ -1084,6 +1402,16 @@ msgid ""
 "prepaid Services were prepaid for a period exceeding the actual usage "
 "period, the conditions of such a refund will be agreed upon individually."
 msgstr ""
+"Ní aisíocann an Soláthraí AON airgead le haghaidh Seirbhísí, Seirbhísí "
+"Tacaíochta, agus/nó aon seirbhísí eile a chuirtear ar fáil faoin gComhaontú "
+"agus na GTC seo má chuir an tÚsáideoir ar fáil iad sular chuir an tÚsáideoir "
+"na Seirbhísí seo ar ceal. Is féidir ordú a chur ar ceal tar éis íocaíochta "
+"trí chomhaontú mura n-úsáidtear an tSeirbhís ordaithe nó mura ndearnadh aon "
+"iarracht í a íoslódáil. Má rinneadh iarracht íoslódála, ní tharlóidh aon "
+"idirbheartaíocht, agus níl an tÚsáideoir i dteideal aon aisíocaíochtaí, "
+"lascainí nó cúiteamh airgid eile. Má réamhíocadh Seirbhísí réamhíoctha ar "
+"feadh tréimhse níos faide ná an tréimhse úsáide iarbhír, comhaontófar "
+"coinníollacha aisíocaíochta den sórt sin ina n-aonar."
 
 #: wllegal/templates/legal/documents/tos.html:282
 msgid ""
@@ -1096,12 +1424,19 @@ msgid ""
 "new Price or conditions come into effect. Under these conditions, the User "
 "has the right to cancel the Subscription."
 msgstr ""
+"Féadfaidh an tOibreoir praghsanna agus coinníollacha Síntiúis athrú go "
+"haontaobhach ag am ar bith. Fanann an praghas agus na coinníollacha a bhí "
+"bailí tráth an chéad cheannaigh nó na hathnuachana Síntiúis deiridh i "
+"bhfeidhm ar feadh thréimhse an Síntiúis ar leith, ach d'fhéadfadh praghsanna "
+"agus coinníollacha nua a bheith i bhfeidhm maidir le hathnuachan nó Síntiúis "
+"nua. Tabharfaidh an Soláthraí fógra don Úsáideoir faoi aon athruithe "
+"praghais nó coinníoll Síntiúis i dtréimhse réasúnta sula dtiocfaidh an "
+"Praghas nó na coinníollacha nua i bhfeidhm. Faoi na coinníollacha seo, tá sé "
+"de cheart ag an Úsáideoir an Síntiús a chealú."
 
 #: wllegal/templates/legal/documents/tos.html:286
-#, fuzzy
-#| msgid "License"
 msgid "License Terms"
-msgstr "Ceadúnas"
+msgstr "Téarmaí Ceadúnais"
 
 #: wllegal/templates/legal/documents/tos.html:290
 #, python-format
@@ -1113,6 +1448,12 @@ msgid ""
 "License is provided. The License is granted in accordance with the option "
 "selected according to the Price List."
 msgstr ""
+"Déantar eisínteachtaí bogearraí agus bogearraí Weblate an tSoláthraí a "
+"dháileadh faoin gceadúnas GNU/GPLv3 (féach <a href=\"%(url)s\">%(url)s</a>). "
+"Deonaítear ceadúnas neamheisiatach don Úsáideoir d’aon ghné den tSeirbhís "
+"faoi théarmaí an GTC ina leagan is déanaí a nuashonraíodh dó ag an am a "
+"chuirtear an Ceadúnas ar fáil. Deonaítear an Ceadúnas de réir na rogha a "
+"roghnaítear de réir an Liosta Praghsanna."
 
 #: wllegal/templates/legal/documents/tos.html:294
 #, python-format
@@ -1125,6 +1466,13 @@ msgid ""
 "according to the information provided on the Provider's website (see <a "
 "href=\"%(url)s\">%(url)s</a>)."
 msgstr ""
+"Mura luaitear a mhalairt sa Chomhaontú, tá téarmaí ceadúnais an "
+"Chomhaontaithe seo á rialú go hiomlán ag an gceadúnas GPLv3. Féadfar codanna "
+"roghnaithe de na Bogearraí a cheadúnú faoi cheadúnais eile, áfach. Is féidir "
+"liosta iomlán de na ceadúnais a úsáidtear i mBogearraí an tSoláthraí agus "
+"síntí bogearraí a fháil ina gcód foinseach, a fhreagraíonn do shonraíocht "
+"REUSE 3.0 de réir na faisnéise a chuirtear ar fáil ar shuíomh Gréasáin an "
+"tSoláthraí (féach <a href=\"%(url)s\">%(url)s</a>)."
 
 #: wllegal/templates/legal/documents/tos.html:298
 msgid ""
@@ -1136,6 +1484,13 @@ msgid ""
 "creating, and distributing the Service, even if the User does not publicly "
 "release the Service."
 msgstr ""
+"Admhaíonn an tÚsáideoir gur leis an Soláthraí agus/nó le tríú páirtithe a "
+"bhfuil a gcuid saothar ionchorpraithe sa tSeirbhís agus/nó a n-úsáidtear i "
+"gcomhpháirt leis an tSeirbhís gach cóipcheart agus gach ceart maoine "
+"intleachtúla eile don tSeirbhís. Mar sin féin, ní chailleann an tÚsáideoir "
+"an ceart chun an tSeirbhís a úsáid a mhéid a cheadaítear leis na ceadúnais "
+"is infheidhme, lena n-áirítear an tSeirbhís a reáchtáil, a chruthú agus a "
+"dháileadh, fiú mura scaoileann an tÚsáideoir an tSeirbhís go poiblí."
 
 #: wllegal/templates/legal/documents/tos.html:302
 msgid ""
@@ -1145,6 +1500,11 @@ msgid ""
 "or later versions of the GPL license), they publish all materials to which "
 "they do not own copyright."
 msgstr ""
+"Chun críche modhnuithe eisiacha ar an tSeirbhís ar mhaithe leis an Úsáideoir "
+"amháin nó chun modhanna a chruthú chun na Seirbhísí seo a reáchtáil, ní "
+"fhéadfaidh an tÚsáideoir an tSeirbhís a fhoilsiú ach amháin más rud é, de "
+"réir théarmaí GPLv3 (agus / nó leaganacha níos déanaí den cheadúnas GPL), go "
+"bhfoilsíonn siad gach ábhar nach bhfuil cóipcheart acu orthu."
 
 #: wllegal/templates/legal/documents/tos.html:306
 msgid ""
@@ -1155,6 +1515,13 @@ msgid ""
 "released. The User acknowledges that not all Self-hosting Subscription "
 "packages include updates and/or modifications to the Services."
 msgstr ""
+"Áirítear leis an gCeadúnas nuashonruithe agus/nó modhnuithe ar na Seirbhísí "
+"a dhéanfaidh an Soláthraí amach anseo, ar choinníoll go soláthraítear na "
+"Seirbhísí bunaithe ar an Síntiús roghnaithe agus go n-íoctar gach ceadúnas "
+"ábhartha agus táillí eile go hiomlán don tréimhse ina scaoiltear na "
+"nuashonruithe agus / nó na modhnuithe seo. Admhaíonn an tÚsáideoir nach n-"
+"áirítear nuashonruithe agus / nó modhnuithe ar na Seirbhísí i ngach pacáiste "
+"Síntiúis Féin-óstála."
 
 #: wllegal/templates/legal/documents/tos.html:310
 msgid ""
@@ -1168,10 +1535,20 @@ msgid ""
 "intact, and the User provides all recipients of such copies of the source "
 "code with a copy of the license along with the program."
 msgstr ""
+"Tá an tÚsáideoir i dteideal an cód foinseach a úsáid agus eilimintí atá "
+"cosanta ag cóipcheart a láimhseáil laistigh de theorainneacha GPLv3 (agus / "
+"nó leaganacha níos déanaí den cheadúnas GPL), lena n-áirítear, ach gan a "
+"bheith teoranta dóibh, cóipeanna a dhéanamh. Ní fhéadfaidh an tÚsáideoir "
+"cóipeanna den sórt sin a dháileadh ach amháin má áirítear i ngach cóip "
+"tagairt don Soláthraí agus easpa baránta in áit fheiceálach infheicthe, ag "
+"cinntiú go bhfanann gach tagairt don cheadúnas seo agus d'aon choinníollacha "
+"breise gan athrú, agus go bhfanann gach tagairt d'easpa baránta slán, agus "
+"go soláthraíonn an tÚsáideoir cóip den cheadúnas in éineacht leis an gclár "
+"do gach faighteoir cóipeanna den sórt sin den chód foinseach."
 
 #: wllegal/templates/legal/documents/tos.html:314
 msgid "Payment Terms"
-msgstr ""
+msgstr "Téarmaí Íocaíochta"
 
 #: wllegal/templates/legal/documents/tos.html:318
 msgid ""
@@ -1179,6 +1556,9 @@ msgid ""
 "issuance of invoices and to receiving them via electronic means. Invoices "
 "will be issued with a due date of 14 calendar days."
 msgstr ""
+"Eiseofar sonraisc go leictreonach. Aontaíonn an tÚsáideoir le sonraisc a "
+"eisiúint go leictreonach agus iad a fháil trí mheán leictreonach. Eiseofar "
+"sonraisc le dáta dlite 14 lá féilire."
 
 #: wllegal/templates/legal/documents/tos.html:322
 msgid ""
@@ -1189,6 +1569,13 @@ msgid ""
 "any reason, the Provider will issue an invoice, and the User is obliged to "
 "pay such an invoice within the same deadlines."
 msgstr ""
+"Sainmhínítear an tréimhse bhilleála mar thréimhse athfhillteach (mí féilire /"
+" bliain). Gearrtar íocaíocht go huathoibríoch tríd an modh íocaíochta "
+"roghnaithe, agus seoltar an sonrasc chuig an Úsáideoir gan moill mhíchuí tar "
+"éis don Soláthraí an íocaíocht a fháil. Mura féidir an íocaíocht a asbhaint "
+"go huathoibríoch ar chúis ar bith, eiseoidh an Soláthraí sonrasc, agus tá "
+"dualgas ar an Úsáideoir sonrasc den sórt sin a íoc laistigh de na "
+"spriocdhátaí céanna."
 
 #: wllegal/templates/legal/documents/tos.html:326
 msgid ""
@@ -1200,6 +1587,14 @@ msgid ""
 "a material breach of the Agreement, entitling the Provider to terminate the "
 "Agreement for the reason stated in Article 11 below."
 msgstr ""
+"Sa chás go gcuireann an tÚsáideoir moill ar aon íocaíocht, tá an Soláthraí i "
+"dteideal soláthar na Seirbhíse a chur ar fionraí nó a theorannú go dtí go n-"
+"íocfar an fiach go hiomlán. Le linn soláthar na Seirbhíse a chur ar fionraí "
+"nó a theorannú, tá dualgas fós ar an Úsáideoir an Praghas a íoc de réir na "
+"ndoiciméad cánach seachadta. Meastar gur sárú ábhartha ar an gComhaontú iad "
+"moilleanna íocaíochta arís agus arís eile ag an Úsáideoir, rud a thugann "
+"teideal don Soláthraí an Comhaontú a fhoirceannadh ar an gcúis a luaitear in "
+"Airteagal 11 thíos."
 
 #: wllegal/templates/legal/documents/tos.html:330
 msgid ""
@@ -1213,6 +1608,15 @@ msgid ""
 "continuous and automatically renews until it is cancelled, or the User "
 "Account is terminated."
 msgstr ""
+"Trí aontú leis an GTC ag am an cheannaigh, suibscríobhann an tÚsáideoir le "
+"hathnuachan uathoibríoch an Síntiúis amach anseo. Déanfar an Síntiús a "
+"athnuachan go huathoibríoch ag deireadh gach tréimhse Síntiúis bunaithe ar "
+"an tréimhse Síntiúis a roghnaítear tráth an cheannaigh. Ag tús gach tréimhse "
+"billeála, gearrfar an Síntiús ag an ráta de réir an Liosta Praghsanna "
+"nuashonraithe agus / nó de réir fógra ar leith a rinne an Soláthraí roimh "
+"dheireadh na tréimhse billeála deiridh. Tá an Síntiús leanúnach agus déantar "
+"é a athnuachan go huathoibríoch go dtí go gcuirtear ar ceal é, nó go "
+"bhfoirceanntar an Cuntas Úsáideora."
 
 #: wllegal/templates/legal/documents/tos.html:334
 msgid ""
@@ -1224,6 +1628,13 @@ msgid ""
 "conditions for the payment of the Fee are governed by the relevant "
 "contractual terms of ThePay."
 msgstr ""
+"Admhaíonn an tÚsáideoir, i gcás íocaíochta Síntiúis trí gheata íocaíochta, "
+"go soláthraíonn <strong>ThePay, a.s.</strong> an tairseach seo, lena oifig "
+"chláraithe ag Masarykovo náměstí 102/65, 586 01 Jihlava, ID: 281 35 261, atá "
+"cláraithe sa Chlár Tráchtála arna chothabháil ag an gCúirt Réigiúnach i "
+"Brno, Roinn B, Ionsáigh 8977 (\"<strong>ThePay</strong>\"). Tá na "
+"coinníollacha maidir le híocaíocht na Táille á rialú ag téarmaí conarthacha "
+"ábhartha ThePay."
 
 #: wllegal/templates/legal/documents/tos.html:338
 msgid ""
@@ -1231,10 +1642,13 @@ msgid ""
 "by the Provider, and the Provider is not responsible for the functionality "
 "of ThePay's payment gateway."
 msgstr ""
+"Ní phróiseálann an Soláthraí faisnéis cárta íocaíochta a chuirtear isteach "
+"sa tairseach íocaíochta, agus níl an Soláthraí freagrach as feidhmiúlacht "
+"gheata íocaíochta ThePay."
 
 #: wllegal/templates/legal/documents/tos.html:342
 msgid "Supplier‘s Rights and Obligations"
-msgstr ""
+msgstr "Cearta agus Oibleagáidí an tSoláthróra"
 
 #: wllegal/templates/legal/documents/tos.html:346
 msgid ""
@@ -1260,6 +1674,31 @@ msgid ""
 "any case, the User may either accept the Change (implicitly through failure "
 "to object) or terminate the Agreement within the above period."
 msgstr ""
+"Tá an Soláthraí i dteideal aon athruithe a dhéanamh ar an tSeirbhís nó ar a "
+"raon feidhme. I gcás den sórt sin, cuirfidh an Soláthraí an tÚsáideoir ar an "
+"eolas tríd an gcomhéadan gréasáin a bhaineann leis an tSeirbhís a chuirtear "
+"ar fáil. I gcás athruithe ar an gcreat dlíthiúil nó rialála, caighdeáin "
+"tionscail, costais ghaolmhara an tSoláthraí, custaim an mhargaidh, "
+"coinníollacha a dhéanann difear don mhargadh ábhartha, nó aon athruithe eile "
+"a d’fhéadfadh tionchar a bheith acu ar sholáthar na Seirbhíse, féadfaidh an "
+"Soláthraí tráth ar bith a leasú, na Téarmaí seo a chur ar ceal, nó iad a "
+"fhorlíonadh (dá ngairtear \"<strong>Athrú</strong>\") trí Athrú den sórt sin "
+"a chur in iúl don Úsáideoir tríd an leagan athbhreithnithe de na Téarmaí seo "
+"a phostáil ar an Láithreán Gréasáin agus fógra a thabhairt don Úsáideoir trí "
+"ríomhphost agus tríd an gcomhéadan a bhaineann leis chuig an Seirbhís a "
+"sholáthair, 14 lá ar a laghad sula dtiocfaidh an t-athrú i bhfeidhm. Mura "
+"bhfreagraíonn an Úsáideoir d’Athrú den sórt sin laistigh den tréimhse "
+"thuasluaite, glacfar leis go n-aontaíonn an Úsáideoir leis an Athrú. Níl "
+"feidhm ag fógra má tá an t-Athrú ag teastáil de réir an dlí, ordú cúirte, "
+"maidir le seirbhís nua a chur leis, gnéithe breise leis an tSeirbhís atá ann "
+"cheana féin, nó aon Athrú eile nach laghdaíonn cearta an Úsáideora nó nach "
+"méadaíonn a n-oibleagáidí. I gcásanna den sórt sin, cuirfear an t-Athrú i "
+"bhfeidhm gan fógra roimh ré don Úsáideoir agus tiocfaidh éifeacht "
+"láithreach. Má chuireann an Úsáideoir i gcoinne an Athraithe ar na Téarmaí "
+"laistigh den tréimhse thuas, tá siad i dteideal an Comhaontú a "
+"fhoirceannadh. In aon chás, féadfaidh an tÚsáideoir glacadh leis an Athrú ("
+"go hintuigthe trí mhainneachtain agóid a dhéanamh) nó an Comhaontú a "
+"fhoirceannadh laistigh den tréimhse thuas."
 
 #: wllegal/templates/legal/documents/tos.html:350
 msgid ""
@@ -1267,6 +1706,10 @@ msgid ""
 "to ensure the functionality and availability of the Service. The User "
 "acknowledges and agrees that they use the Service at their own risk."
 msgstr ""
+"Geallann an Soláthraí gach beart a dhéanamh laistigh dá chumais theicniúla "
+"chun feidhmiúlacht agus infhaighteacht na Seirbhíse a chinntiú. Aithníonn "
+"agus aontaíonn an tÚsáideoir go n-úsáideann siad an tSeirbhís ar a bpriacal "
+"féin."
 
 #: wllegal/templates/legal/documents/tos.html:354
 msgid ""
@@ -1275,6 +1718,10 @@ msgid ""
 "version. The Supplier undertakes to fulfil these requirements and ensure the "
 "proper operation of the Service through its own actions."
 msgstr ""
+"I measc na mbunriachtanais chórais d'oibriú cuí na Seirbhíse tá timpeallacht "
+"an fhreastalaí agus stádas teicniúil sainithe sa leagan is déanaí. Geallann "
+"an Soláthraí na riachtanais seo a chomhlíonadh agus oibriú cuí na Seirbhíse "
+"a chinntiú trína cuid gníomhartha féin."
 
 #: wllegal/templates/legal/documents/tos.html:358
 msgid ""
@@ -1287,6 +1734,14 @@ msgid ""
 "Supplier bears no responsibility for any damages incurred by the User in "
 "connection with these events."
 msgstr ""
+"Má aithníonn an tÚsáideoir aon saincheist a bhaineann le luas, feidhmiúlacht "
+"nó infhaighteacht na Seirbhíse, tá oibleagáid orthu í a thuairisciú don "
+"Soláthraí láithreach. Aithníonn an tÚsáideoir go bhféadfadh tionchar a "
+"bheith ag imeachtaí nach bhfuil neart ag an Soláthraí orthu, amhail cliseadh "
+"nasc idirlín úsáideora, tubaistí nádúrtha, ionsaithe DOS nó DNS ar threalamh "
+"teicniúil an tSoláthróra, agus fachtóirí eile, ar fheidhmiúlacht nó ar "
+"infhaighteacht na Seirbhíse. Níl aon fhreagracht ar an Soláthraí as aon "
+"damáistí a thabhaíonn an tÚsáideoir i dtaca leis na himeachtaí seo."
 
 #: wllegal/templates/legal/documents/tos.html:362
 msgid ""
@@ -1300,12 +1755,24 @@ msgid ""
 "the Service. In the case of planned outages, the Supplier is obligated to "
 "inform the User in advance within a reasonable time."
 msgstr ""
+"Admhaíonn agus aontaíonn an tÚsáideoir go bhféadfadh an Soláthraí soláthar "
+"na Seirbhíse a chur ar fionraí go sealadach ar chúiseanna tromchúiseacha, go "
+"háirithe i gcásanna amhail cibearionsaithe a chosc, nuair is gá, nó i gcás "
+"mífheidhmiú tromchúiseach Seirbhíse a éilíonn briseadh riachtanach. Ní mór "
+"don Soláthraí an briseadh a chur in iúl don Úsáideoir chomh luath agus is "
+"féidir. Tá oibleagáid ar an Soláthraí bearta cuí oibríochtúla agus slándála "
+"a chur i bhfeidhm chun mífheidhmeanna féideartha nó neamh-infhaighteacht "
+"theoranta nó iomlán na Seirbhíse a íoslaghdú. I gcás bristeacha pleanáilte, "
+"tá dualgas ar an Soláthraí an tÚsáideoir a chur ar an eolas roimh ré "
+"laistigh de thréimhse réasúnta ama."
 
 #: wllegal/templates/legal/documents/tos.html:366
 msgid ""
 "The Supplier agrees not to provide the content of the User's data to third "
 "parties."
 msgstr ""
+"Aontaíonn an Soláthraí gan ábhar shonraí an Úsáideora a sholáthar do thríú "
+"páirtithe."
 
 #: wllegal/templates/legal/documents/tos.html:370
 msgid ""
@@ -1313,6 +1780,9 @@ msgid ""
 "of the User's data. The User is solely responsible for the content of the "
 "data stored on their Server or the Supplier's server."
 msgstr ""
+"Aontaíonn na páirtithe conarthacha nach bhfaigheann an Soláthraí úinéireacht "
+"ar shonraí an Úsáideora. Is é an tÚsáideoir amháin atá freagrach as ábhar na "
+"sonraí a stóráiltear ar a bhfreastalaí nó ar fhreastalaí an tSoláthróra."
 
 #: wllegal/templates/legal/documents/tos.html:374
 msgid ""
@@ -1321,10 +1791,15 @@ msgid ""
 "the Service in accordance with the Agreement. The User undertakes to fully "
 "cooperate with the Supplier in such cases."
 msgstr ""
+"Trí ghlacadh leis na Téarmaí seo, admhaíonn agus aontaíonn an tÚsáideoir go "
+"bhfuil an Soláthraí i dteideal monatóireacht a dhéanamh, ag baint úsáide as "
+"a chuid acmhainní féin, cibé an bhfuil an tSeirbhís á húsáid ag an Úsáideoir "
+"de réir an Chomhaontaithe. Geallann an tÚsáideoir comhoibriú go hiomlán leis "
+"an Soláthraí i gcásanna den sórt sin."
 
 #: wllegal/templates/legal/documents/tos.html:379
 msgid "User’s Rights and Obligations"
-msgstr ""
+msgstr "Cearta agus Oibleagáidí an Úsáideora"
 
 #: wllegal/templates/legal/documents/tos.html:383
 msgid ""
@@ -1333,6 +1808,10 @@ msgid ""
 "modifications to the Service made by them are in compliance with applicable "
 "legal regulations."
 msgstr ""
+"Ní ceadmhach don Úsáideoir an tSeirbhís a úsáid de shárú ar na rialacháin "
+"dlí is infheidhme. Tá an tÚsáideoir freagrach go hiomlán freisin as a "
+"chinntiú go bhfuil aon mhodhnuithe ar an tSeirbhís a dhéanann siad ag cloí "
+"leis na rialacháin dlí is infheidhme."
 
 #: wllegal/templates/legal/documents/tos.html:387
 msgid ""
@@ -1347,6 +1826,17 @@ msgid ""
 "expand the scope of required personal information but emphasizes the "
 "truthfulness, accuracy, and currency of the information provided by the User."
 msgstr ""
+"Chun rochtain a fháil ar an tSeirbhís, d'fhéadfadh sé go dteastódh sonraí "
+"aitheantais áirithe agus faisnéis eile ón Úsáideoir ón Soláthraí, i gcónaí "
+"ach amháin a mhéid a éilíonn an fhoirm. Ní gá don chuid is mó dár n-"
+"úsáideoirí ach leasainm a sholáthar; más gá sonrasc a eisiúint, áfach, "
+"iarrfar faisnéis bhreise a éilítear de réir dlí. Tá dualgas ar an Úsáideoir "
+"faisnéis fhírinneach, chruinn agus cothrom le dáta a sholáthar i gcónaí de "
+"réir mar a éilíonn an dlí. I gcás úsáideoirí nach soláthraíonn ach leasainm, "
+"ní chiallaíonn sé seo go bhfuil orthu aon fhaisnéis bhreise a sholáthar. Ní "
+"leathnaíonn an fhoráil seo raon feidhme na faisnéise pearsanta riachtanacha "
+"ach leagann sé béim ar fhírinneacht, cruinneas agus airgeadra na faisnéise a "
+"sholáthraíonn an tÚsáideoir."
 
 #: wllegal/templates/legal/documents/tos.html:391
 msgid ""
@@ -1356,6 +1846,11 @@ msgid ""
 "in cases where the Supplier performs system outages for the reasons "
 "mentioned in Section 8.5."
 msgstr ""
+"Tá oibleagáid ar an Úsáideoir, ar iarratas ón Soláthraí, an comhoibriú is gá "
+"a chur ar fáil chun mífheidhmeanna a réiteach nó coigeartuithe a dhéanamh ar "
+"an tSeirbhís, lena n-áirítear an oibleagáid srianta ar úsáid na Seirbhíse a "
+"fhulaingt i gcásanna ina ndéanann an Soláthraí briseadh córais ar na "
+"cúiseanna a luaitear in Alt 8.5."
 
 #: wllegal/templates/legal/documents/tos.html:395
 msgid ""
@@ -1363,6 +1858,9 @@ msgid ""
 "Service in accordance with this Agreement, and the User is required to "
 "comply with and respect these measures."
 msgstr ""
+"Tá an Soláthraí i dteideal bearta slándála a chur i bhfeidhm chun an "
+"tSeirbhís a chosaint de réir an Chomhaontaithe seo, agus ceanglaítear ar an "
+"Úsáideoir na bearta seo a chomhlíonadh agus a urramú."
 
 #: wllegal/templates/legal/documents/tos.html:399
 msgid ""
@@ -1370,6 +1868,9 @@ msgid ""
 "terms specified in Section 6 of this Agreement, ensuring that they do not "
 "jeopardize the Service's functionality."
 msgstr ""
+"Tá oibleagáid ar an Úsáideoir an tSeirbhís a úsáid de réir na dtéarmaí "
+"ceadúnaithe a shonraítear in Alt 6 den Chomhaontú seo, ag cinntiú nach "
+"gcuireann siad feidhmiúlacht na Seirbhíse i mbaol."
 
 #: wllegal/templates/legal/documents/tos.html:403
 msgid ""
@@ -1377,6 +1878,9 @@ msgid ""
 "right to request Support Services from the Supplier, as specified in the "
 "Price list."
 msgstr ""
+"De réir an athraithigh Seirbhíse atá liostaithe sa liosta Praghsanna, tá sé "
+"de cheart ag an Úsáideoir Seirbhísí Tacaíochta a iarraidh ón Soláthraí, mar "
+"atá sonraithe sa liosta Praghsanna."
 
 #: wllegal/templates/legal/documents/tos.html:407
 msgid ""
@@ -1386,6 +1890,12 @@ msgid ""
 "reasonable extent to minimize the risk of third parties misusing access "
 "credentials to the User's account."
 msgstr ""
+"Ceanglaítear ar an Úsáideoir dintiúir rochtana ar an tSeirbhís a choinneáil "
+"faoi rún agus ní ceadmhach dó/di dul i mbun aon ghníomhartha a d'fhéadfadh "
+"dochar a dhéanamh do shlándáil na Seirbhíse. Ceanglaítear ar an Úsáideoir "
+"freisin a dtrealamh teicniúil a dhaingniú go réasúnta chun an baol go "
+"ndéanfadh tríú páirtithe dintiúir rochtana a mhí-úsáid ar chuntas an "
+"Úsáideora a íoslaghdú."
 
 #: wllegal/templates/legal/documents/tos.html:411
 msgid ""
@@ -1397,10 +1907,18 @@ msgid ""
 "be exposed to third parties due to a leak of access information, they are "
 "required to report this to the Supplier."
 msgstr ""
+"Má sháraíonn an tÚsáideoir aon cheann de na hoibleagáidí a shonraítear sa "
+"Roinn seo, níl aon fhreagracht ar an Soláthraí as aon damáistí a thabhaíonn "
+"an tÚsáideoir, agus is é an tÚsáideoir amháin atá freagrach as aon damáistí "
+"a thabhaíonn an Soláthraí nó tríú páirtithe. Má sháraítear na hoibleagáidí "
+"sin, tá an Soláthraí i dteideal an Comhaontú seo a fhoirceannadh freisin. Má "
+"thagann an tÚsáideoir ar an eolas go bhféadfadh rochtain Seirbhíse a bheith "
+"neamhchosanta ar thríú páirtithe mar gheall ar sceitheadh faisnéise "
+"rochtana, ceanglaítear orthu é sin a thuairisciú don Soláthraí."
 
 #: wllegal/templates/legal/documents/tos.html:415
 msgid "Prohibited Conduct"
-msgstr ""
+msgstr "Iompar Toirmiscthe"
 
 #: wllegal/templates/legal/documents/tos.html:419
 msgid ""
@@ -1414,48 +1932,73 @@ msgid ""
 "another User’s account or the Provider’s servers. Violation of these "
 "obligations constitutes a material breach of the Agreement."
 msgstr ""
+"Tá cosc ar an Úsáideoir aon ábhar a uaslódáil, a sheoladh nó a stóráil ar "
+"shlí eile ar thairseach na Seirbhíse a bhféadfadh víris bhogearraí nó "
+"comhaid agus ríomhchláir eile a bheith ann a d'fhéadfadh feidhmiúlacht "
+"ghléasanna an tSoláthraí nó feistí Úsáideoirí eile a scriosadh, a dhamáistiú "
+"nó a theorannú. Níl an tÚsáideoir údaraithe freisin ábhar a uaslódáil chuig "
+"tairseach na Seirbhíse atá mídhleathach chun cóipchearta tríú páirtí a "
+"shealbhú nó a dháileadh, a sháraíonn cóipchearta tríú páirtí, atá mar chuid "
+"de ghníomhaíochtaí coiriúla, a scaipeann turscar tríd an tSeirbhís, nó a "
+"dhéanann iarracht rochtain a fháil ar chuntas Úsáideora eile nó ar "
+"fhreastalaithe an tSoláthraí. Is sárú ábhartha ar an gComhaontú é sárú na n-"
+"oibleagáidí sin."
 
 #: wllegal/templates/legal/documents/tos.html:423
 msgid ""
 "The User particularly agrees to refrain from the following activities while "
 "using the Services, especially through the Services:"
 msgstr ""
+"Aontaíonn an tÚsáideoir go háirithe staonadh ó na gníomhaíochtaí seo a "
+"leanas agus na Seirbhísí á n-úsáid aige, go háirithe trí na Seirbhísí:"
 
 #: wllegal/templates/legal/documents/tos.html:427
 msgid ""
 "Disseminating or offering any content that violates applicable laws at the "
 "national, EU, or international level;"
 msgstr ""
+"Aon ábhar a sháraíonn na dlíthe is infheidhme a scaipeadh nó a thairiscint "
+"ar an leibhéal náisiúnta, ae nó idirnáisiúnta;"
 
 #: wllegal/templates/legal/documents/tos.html:431
 msgid ""
 "Disseminating or offering any illegally obtained content or content whose "
 "dissemination would be illegal;"
 msgstr ""
+"Aon ábhar nó ábhar a fhaightear go neamhdhleathach a scaipeadh nó a "
+"thairiscint a mbeadh a scaipeadh neamhdhleathach;"
 
 #: wllegal/templates/legal/documents/tos.html:435
 msgid ""
 "Disseminating or offering any pornographic, obscene, or otherwise vulgar "
 "content;"
 msgstr ""
+"Aon ábhar pornagrafach, gáirsiúil nó vulgar ar shlí eile a scaipeadh nó a "
+"thairiscint;"
 
 #: wllegal/templates/legal/documents/tos.html:439
 msgid ""
 "Engaging in any services or activities that are contrary to applicable laws "
 "at the national, EU, or international level;"
 msgstr ""
+"Páirt a ghlacadh in aon seirbhísí nó gníomhaíochtaí atá contrártha do na "
+"dlíthe is infheidhme ar an leibhéal náisiúnta, AE nó idirnáisiúnta;"
 
 #: wllegal/templates/legal/documents/tos.html:443
 msgid ""
 "Engaging in activities that bypass intellectual property protection elements "
 "(such as cracks, warez, etc.);"
 msgstr ""
+"Páirt a ghlacadh i ngníomhaíochtaí a sheachnaíonn eilimintí cosanta maoine "
+"intleachtúla (amhail scoilteanna, warez, etc.);"
 
 #: wllegal/templates/legal/documents/tos.html:447
 msgid ""
 "Sending unsolicited commercial messages and other spam or other illegal "
 "harassment of third parties;"
 msgstr ""
+"Teachtaireachtaí tráchtála gan iarraidh agus turscar eile nó ciapadh "
+"neamhdhleathach eile tríú páirtithe a sheoladh;"
 
 #: wllegal/templates/legal/documents/tos.html:451
 msgid ""
@@ -1464,81 +2007,106 @@ msgid ""
 "impolite, or otherwise inappropriate content that unlawfully or illegally "
 "infringes on the personal rights of third parties;"
 msgstr ""
+"Aon inneachar a d'fhéadfadh cearta tríú páirtithe a shárú a fhoilsiú nó a "
+"scaipeadh, lena n-áirítear ionsaithe ar dhaoine den sórt sin, nó aon ábhar "
+"maslach, mífhoighneach nó míchuí ar shlí eile a sháraíonn cearta pearsanta "
+"tríú páirtithe go neamhdhleathach nó go neamhdhleathach;"
 
 #: wllegal/templates/legal/documents/tos.html:455
 msgid ""
 "Disseminating or offering any content that infringes on third-party "
 "intellectual or industrial property rights;"
 msgstr ""
+"Aon ábhar a sháraíonn cearta maoine intleachtúla nó tionsclaíocha tríú "
+"páirtí a scaipeadh nó a thairiscint;"
 
 #: wllegal/templates/legal/documents/tos.html:459
 msgid ""
 "Operating or disseminating any tools that may be misused to breach network, "
 "device, or service security;"
 msgstr ""
+"Aon uirlisí a d'fhéadfaí mí-úsáid a bhaint astu chun slándáil líonra, feiste "
+"nó seirbhíse a shárú a oibriú nó a scaipeadh;"
 
 #: wllegal/templates/legal/documents/tos.html:463
 msgid "Overburdening the Provider's or third-party servers;"
-msgstr ""
+msgstr "Ró-ualach freastalaithe an tSoláthraí nó freastalaithe tríú páirtí;"
 
 #: wllegal/templates/legal/documents/tos.html:467
 msgid ""
 "Engaging in any activities that could harm the Provider, its reputation, or "
 "its assets;"
 msgstr ""
+"Páirt a ghlacadh in aon ghníomhaíochtaí a d'fhéadfadh dochar a dhéanamh don "
+"Soláthraí, dá cháil, nó dá shócmhainní;"
 
 #: wllegal/templates/legal/documents/tos.html:471
 msgid ""
 "Using any means, servers, devices, or elements provided by the Provider in a "
 "manner not expressly agreed upon in these Terms or the Agreement;"
 msgstr ""
+"Úsáid a bhaint as aon mhodh, freastalaithe, feistí nó eilimintí a "
+"sholáthraíonn an Soláthraí ar bhealach nach gcomhaontaítear go sainráite sna "
+"Téarmaí seo nó sa Chomhaontú;"
 
 #: wllegal/templates/legal/documents/tos.html:475
 msgid ""
 "Conducting activities that would disclose any content to third parties that:"
-msgstr ""
+msgstr "Gníomhaíochtaí a dhéanamh a nochtfadh aon ábhar do thríú páirtithe:"
 
 #: wllegal/templates/legal/documents/tos.html:479
 msgid "Contains prohibited applications and scripts;"
-msgstr ""
+msgstr "Tá feidhmchláir agus scripteanna toirmiscthe ann;"
 
 #: wllegal/templates/legal/documents/tos.html:483
 msgid "Overloads database systems or causes malfunction of servers;"
 msgstr ""
+"Overloads córais bunachar sonraí nó is cúis le mífheidhmiú freastalaithe;"
 
 #: wllegal/templates/legal/documents/tos.html:487
 msgid ""
 "Overburdens the infrastructure, connection lines, or hardware of the "
 "Provider or third parties;"
 msgstr ""
+"Ró-ualach ar bhonneagar, línte nasctha, nó crua-earraí an tSoláthraí nó tríú "
+"páirtithe;"
 
 #: wllegal/templates/legal/documents/tos.html:491
 msgid ""
 "Involves music, sound, image, film, or similar files for which the User "
 "lacks distribution rights;"
 msgstr ""
+"Baineann ceol, fuaim, íomhá, scannán, nó comhaid den chineál céanna nach "
+"bhfuil cearta dáilte ag an Úsáideoir ina leith;"
 
 #: wllegal/templates/legal/documents/tos.html:495
 msgid ""
 "Threatens the privacy or security of other Internet users or the security of "
 "computer systems (e.g., through viruses, password generators, etc.);"
 msgstr ""
+"Cuireann sé príobháideacht nó slándáil úsáideoirí Idirlín eile nó slándáil "
+"na gcóras ríomhaireachta i mbaol (m.sh., trí víris, gineadóirí pasfhocail, "
+"etc.);"
 
 #: wllegal/templates/legal/documents/tos.html:499
 msgid ""
 "Is part of the provided Service without written permission from the Provider "
 "to share it with third parties;"
 msgstr ""
+"An bhfuil sé mar chuid den tSeirbhís a sholáthraítear gan cead i scríbhinn "
+"ón Soláthraí í a roinnt le tríú páirtithe;"
 
 #: wllegal/templates/legal/documents/tos.html:503
 msgid ""
 "Gives the impression that the User acts on behalf of the Provider without "
 "authorization;"
 msgstr ""
+"Tugann sé le tuiscint go ngníomhaíonn an tÚsáideoir thar ceann an tSoláthraí "
+"gan údarú;"
 
 #: wllegal/templates/legal/documents/tos.html:507
 msgid "May harm any third-party rights."
-msgstr ""
+msgstr "D'fhéadfadh sé dochar a dhéanamh d'aon chearta tríú páirtí."
 
 #: wllegal/templates/legal/documents/tos.html:511
 msgid ""
@@ -1548,6 +2116,12 @@ msgid ""
 "public morality, ethical principles, or Internet usage rules, or is aiding "
 "in or committing criminal activities."
 msgstr ""
+"Féadfaidh an Soláthraí, gan fógra a thabhairt roimh ré, soláthar Seirbhísí a "
+"bhriseadh, a theorannú nó a chur ar fionraí má chreideann sé le réasún go "
+"bhfuil an tÚsáideoir ag sárú na dTéarmaí, an Chomhaontaithe, nó ag baint "
+"úsáide as na Seirbhísí contrártha do dhlíthe is infheidhme, moráltacht "
+"phoiblí, prionsabail eiticiúla, nó rialacha úsáide Idirlín, nó má tá sé ag "
+"cabhrú le gníomhaíochtaí coiriúla nó ag déanamh gníomhaíochtaí coiriúla."
 
 #: wllegal/templates/legal/documents/tos.html:515
 msgid ""
@@ -1557,6 +2131,12 @@ msgid ""
 "invoicing) or excessive usage, particularly through automated software and "
 "bots that overload the Provider’s servers or other technical facilities."
 msgstr ""
+"Féadfaidh an Soláthraí freisin, gan fógra a thabhairt roimh ré, cur isteach, "
+"teorainn a chur le soláthar Seirbhísí nó é a chur ar fionraí má tá mí-úsáid "
+"á baint as na Seirbhísí as cur isteach neamhúdaraithe ar chearta an "
+"tSoláthraí (e.g., pearsanú, sonrascú calaoiseach) nó úsáid iomarcach, go "
+"háirithe trí bhogearraí uathoibrithe agus róbónna a ró-ualaíonn "
+"freastalaithe an tSoláthraí nó saoráidí teicniúla eile."
 
 #: wllegal/templates/legal/documents/tos.html:519
 msgid ""
@@ -1565,6 +2145,10 @@ msgid ""
 "responsible for any damages resulting from the interruption and cannot claim "
 "any compensation from the Provider for such damages."
 msgstr ""
+"Aontaíonn an tÚsáideoir go sainráite gurb é an tÚsáideoir amháin atá "
+"freagrach as aon damáistí a eascraíonn as an mbriseadh agus nach féidir leis "
+"aon chúiteamh a éileamh ón Soláthraí i leith damáistí den sórt sin i gcás "
+"briseadh, teorannú nó fionraí seirbhísí ag an Soláthraí."
 
 #: wllegal/templates/legal/documents/tos.html:523
 msgid ""
@@ -1574,6 +2158,12 @@ msgid ""
 "or ensuring the installation and execution of tools and scripts on the "
 "virtual server that verify and check the software resources used."
 msgstr ""
+"Chun an réiteach bogearraí a úsáidtear nó iniúchadh a dhéanamh ar cheadúnú "
+"acmhainní bogearraí sannta agus ábhar a uaslódáiltear trí na Seirbhísí, "
+"aontaíonn an tÚsáideoir comhoibriú iomlán a chur ar fáil don Soláthraí. "
+"Áirítear leis seo suiteáil agus scripteanna a chumasú nó a chinntiú ar an "
+"bhfreastalaí fíorúil a fhíorú agus a sheiceáil na hacmhainní bogearraí a "
+"úsáidtear."
 
 #: wllegal/templates/legal/documents/tos.html:527
 msgid ""
@@ -1587,10 +2177,19 @@ msgid ""
 "does not affect the Provider’s right to claim damages in addition to the "
 "penalty."
 msgstr ""
+"Aontaíonn an tÚsáideoir go sainráite a bheith freagrach as aon damáiste a "
+"dhéantar don Soláthraí, dá chliaint, dá chomhpháirtithe nó do thríú "
+"páirtithe. Áirítear ar an bhfreagracht sin go háirithe iarmhairtí aon "
+"chaingean dlí a sháraíonn forálacha Airteagal 10 de na Téarmaí seo. "
+"Aontaíonn an tÚsáideoir freisin go bhféadfaidh an Soláthraí na socruithe "
+"Seirbhíse a choigeartú chun mí-úsáid a chosc. I gcás sárú ag an Úsáideoir, "
+"ní aisíocfar an tréimhse seirbhíse nár úsáideadh agus measfar gur pionós "
+"conarthach aonuaire é go huathoibríoch. Ní dhéanann an pionós seo difear do "
+"cheart an tSoláthraí damáistí a éileamh de bhreis ar an bpionós."
 
 #: wllegal/templates/legal/documents/tos.html:532
 msgid "Termination of the Agreement"
-msgstr ""
+msgstr "Foirceannadh an Chomhaontaithe"
 
 #: wllegal/templates/legal/documents/tos.html:536
 msgid ""
@@ -1599,6 +2198,10 @@ msgid ""
 "(either the Provider or the User) with liquidation, termination of the "
 "Agreement, or by mutual agreement of the Parties."
 msgstr ""
+"Féadfar an caidreamh conarthach a fhoirceannadh trí tharraingt siar ón "
+"gComhaontú, dul in éag an téarma comhaontaithe, eintiteas dlíthiúil (an "
+"Soláthraí nó an tÚsáideoir) a dhíscaoileadh le leachtú, foirceannadh an "
+"Chomhaontaithe, nó trí chomhaontú frithpháirteach na bPáirtithe."
 
 #: wllegal/templates/legal/documents/tos.html:540
 msgid ""
@@ -1606,12 +2209,17 @@ msgid ""
 "reason. The notice period is three months, starting from the first day of "
 "the calendar month following the delivery of the notice to the User."
 msgstr ""
+"Féadfaidh an Soláthraí an Comhaontú a fhoirceannadh tráth ar bith gan cúis a "
+"thabhairt. Is é trí mhí an tréimhse fógra, ag tosú ón gcéad lá den mhí "
+"féilire tar éis an fógra a sheachadadh don Úsáideoir."
 
 #: wllegal/templates/legal/documents/tos.html:544
 msgid ""
 "The User may terminate the Agreement under the conditions specified in "
 "Section 8.1 of these Terms."
 msgstr ""
+"Féadfaidh an tÚsáideoir an Comhaontú a fhoirceannadh faoi na coinníollacha a "
+"shonraítear in Alt 8.1 de na Téarmaí seo."
 
 #: wllegal/templates/legal/documents/tos.html:548
 msgid ""
@@ -1621,6 +2229,11 @@ msgid ""
 "Agreement. The withdrawal becomes effective the day after the User receives "
 "the notice of withdrawal."
 msgstr ""
+"Má sháraíonn an tÚsáideoir a n-oibleagáidí faoi na Téarmaí seo nó faoin "
+"gComhaontú go hábhartha nó arís agus arís eile agus má theipeann air an sárú "
+"a leigheas laistigh de 14 lá ó sheachadadh fógra faoin sárú, féadfaidh an "
+"Soláthraí tarraingt siar ón gComhaontú. Éiríonn an tarraingt siar "
+"éifeachtach an lá tar éis don Úsáideoir an fógra aistarraingthe a fháil."
 
 #: wllegal/templates/legal/documents/tos.html:552
 msgid ""
@@ -1629,6 +2242,10 @@ msgid ""
 "withdraw from the Agreement and terminate the provision of the Service as "
 "soon as such a breach is discovered."
 msgstr ""
+"Má sháraíonn an tÚsáideoir a n-oibleagáidí faoi na Téarmaí seo nó faoin "
+"gComhaontú ar bhealach thar a bheith tromchúiseach, tá an Soláthraí i "
+"dteideal tarraingt siar láithreach ón gComhaontú agus soláthar na Seirbhíse "
+"a fhoirceannadh a luaithe a aimsítear sárú den sórt sin."
 
 #: wllegal/templates/legal/documents/tos.html:556
 msgid ""
@@ -1636,6 +2253,10 @@ msgid ""
 "in a particularly serious manner, the User is entitled to immediately "
 "withdraw from the Agreement as soon as such a breach is discovered."
 msgstr ""
+"Má sháraíonn an Soláthraí a chuid oibleagáidí faoi na Téarmaí seo nó faoin "
+"gComhaontú ar bhealach thar a bheith tromchúiseach, tá an tÚsáideoir i "
+"dteideal tarraingt siar láithreach ón gComhaontú a luaithe a aimsítear sárú "
+"den sórt sin."
 
 #: wllegal/templates/legal/documents/tos.html:560
 msgid ""
@@ -1645,10 +2266,16 @@ msgid ""
 "including the provisions of Sections 1912 (2), 1923, 1969, 1977, 1978, 1979, "
 "2001, 2002, 2003, 2106, 2107, 2110, and 2111 of the Czech Civil Code."
 msgstr ""
+"Ní fhéadfaidh ceachtar Páirtí an Comhaontú a fhoirceannadh ná deireadh a "
+"chur leis ar shlí eile ach amháin i gcásanna a luaitear go sainráite san Alt "
+"seo. Eisiann na Páirtithe, a mhéid is féidir, ceart ceachtar Páirtí an "
+"Comhaontú seo a fhoirceannadh, lena n-áirítear forálacha Ailt 1912 (2), "
+"1923, 1969, 1977, 1978, 1979, 2001, 2002, 2003, 2106, 2107, 2110, agus 2111 "
+"de Chód Sibhialta na Seice."
 
 #: wllegal/templates/legal/documents/tos.html:564
 msgid "Limitation of Liability"
-msgstr ""
+msgstr "Teorainn le Dliteanas"
 
 #: wllegal/templates/legal/documents/tos.html:568
 msgid ""
@@ -1659,10 +2286,17 @@ msgid ""
 "other intangible losses (even if the Provider has been advised of the "
 "possibility of such damages), resulting from:"
 msgstr ""
+"Níl an Soláthraí faoi dhliteanas i leith damáistí indíreacha a eascraíonn as "
+"soláthar na Seirbhísí, amhail brabúis chaillte, ioncam caillte, caillteanas "
+"sonraí, damáistí airgeadais, nó aon damáistí indíreacha, speisialta nó "
+"iarmhartacha, lena n-áirítear damáistí eiseamláireacha nó pionósacha, "
+"amhail, ach gan a bheith teoranta do, damáistí do chaillteanais doláimhsithe "
+"eile (fiú má cuireadh in iúl don Soláthraí go bhféadfadh damáistí den sórt "
+"sin a bheith ann), a eascraíonn as:"
 
 #: wllegal/templates/legal/documents/tos.html:573
 msgid "Use or inability to use the Service;"
-msgstr ""
+msgstr "Úsáid nó neamhábaltacht an tSeirbhís a úsáid;"
 
 #: wllegal/templates/legal/documents/tos.html:576
 msgid ""
@@ -1670,6 +2304,10 @@ msgid ""
 "data, information, or services purchased or obtained or messages received, "
 "or transactions entered into through or from the Service;"
 msgstr ""
+"An costas a bhaineann le hearraí agus seirbhísí ionadacha a fháil a "
+"eascraíonn as aon earraí, sonraí, faisnéis, nó seirbhísí a ceannaíodh nó a "
+"fhaightear nó teachtaireachtaí a fuarthas, nó idirbhearta a rinneadh tríd an "
+"tSeirbhís nó ón tSeirbhís;"
 
 #: wllegal/templates/legal/documents/tos.html:579
 msgid ""
@@ -1677,12 +2315,13 @@ msgid ""
 "including any outcomes of third-party solutions or services related to the "
 "Service;"
 msgstr ""
+"Ráitis nó gníomhartha aon tríú páirtí a bhfuil baint acu le soláthar na "
+"Seirbhíse, lena n-áirítear aon torthaí ar réitigh tríú páirtí nó ar "
+"sheirbhísí a bhaineann leis an tSeirbhís;"
 
 #: wllegal/templates/legal/documents/tos.html:582
-#, fuzzy
-#| msgid "means translation project operated on the Service"
 msgid "Any other matters related to the Service."
-msgstr "ciallaíonn sé tionscadal aistriúcháin a oibrítear ar an tSeirbhís"
+msgstr "Aon ábhair eile a bhaineann leis an tSeirbhís."
 
 #: wllegal/templates/legal/documents/tos.html:587
 msgid ""
@@ -1694,6 +2333,14 @@ msgid ""
 "war, or changes in the political situation that prevent or unduly hinder the "
 "exercise of rights and obligations arising from this Agreement."
 msgstr ""
+"I gcásanna force majeure, tá na Páirtithe i dteideal a n-oibleagáidí "
+"conarthacha a fhionraí go sealadach, agus ní mheasfar gur sárú ar an "
+"gComhaontú é aon neamh-chomhlíonadh nó moill ar chomhlíonadh na n-"
+"oibleagáidí a fhorchuirtear leis an gComhaontú seo. Áirítear le force "
+"majeure imthosca faoina ndéantar dliteanas a eisiamh de réir dhlí na Seice, "
+"amhail tubaistí nádúrtha, cogadh, nó athruithe ar an staid pholaitiúil a "
+"choisceann nó a chuireann bac míchuí ar fheidhmiú na gceart agus na n-"
+"oibleagáidí a eascraíonn as an gComhaontú seo."
 
 #: wllegal/templates/legal/documents/tos.html:591
 msgid ""
@@ -1704,6 +2351,12 @@ msgid ""
 "back up all of their data stored within the Service at another geographical "
 "location(s)."
 msgstr ""
+"Trí dhul isteach sa Chomhaontú, admhaíonn an tÚsáideoir, in ainneoin "
+"iarrachtaí is fearr an tSoláthraí, go bhféadfadh sé nach mbeadh an tSeirbhís "
+"ar fáil go sealadach mar gheall ar imthosca nach bhfuil smacht ag an "
+"Soláthraí orthu (m.sh. briseadh nasc idirlín). Mar sin, aontaíonn an "
+"tÚsáideoir agus geallann sé cúltaca a dhéanamh de na sonraí go léir atá "
+"stóráilte laistigh den tSeirbhís ag láthair(í) geografacha eile."
 
 #: wllegal/templates/legal/documents/tos.html:595
 msgid ""
@@ -1712,12 +2365,15 @@ msgid ""
 "cancel their order or to request a refund of any fees paid, unless otherwise "
 "expressly agreed between the Parties in individual cases."
 msgstr ""
+"Úsáideann an Úsáideoir an tSeirbhís MAR IS. NÍ TEIDEALAÍONN Neamh-"
+"chomhoiriúnacht le bogearraí eile, cumraíochtaí crua-earraí, nó aon "
+"lochtanna nó lochtanna don Úsáideoir a n-ordú a chealú nó aisíocaíocht a "
+"iarraidh ar aon táillí a íocadh, mura gcomhaontaítear a mhalairt go "
+"sainráite idir na Páirtithe i gcásanna aonair."
 
 #: wllegal/templates/legal/documents/tos.html:599
-#, fuzzy
-#| msgid "The Personal Data retention"
 msgid "Personal Data Protection"
-msgstr "Coimeád Sonraí Pearsanta"
+msgstr "Cosaint Sonraí Pearsanta"
 
 #: wllegal/templates/legal/documents/tos.html:603
 #, python-format
@@ -1729,6 +2385,12 @@ msgid ""
 "communications as defined in the <a href=\"%(privacy_url)s\">Privacy Policy</"
 "a>."
 msgstr ""
+"Bailíonn an Soláthraí sonraí ón Úsáideoir amháin chun críche an tSeirbhís a "
+"sholáthar, chun a cháilíocht a fheabhsú, chun oibleagáidí dlíthiúla a "
+"chomhlíonadh, agus i gcásanna roghnaithe ar mhaithe le leasanna dlisteanacha "
+"an tSoláthraí (m.sh., slándáil agus sláine an fhreastalaí a chothabháil) nó "
+"chun cumarsáidí tráchtála roghnacha a sheoladh mar a shainítear iad. sa <a "
+"href=\"%(privacy_url)s\">Polasaí Príobháideachta</a>."
 
 #: wllegal/templates/legal/documents/tos.html:607
 msgid ""
@@ -1736,6 +2398,9 @@ msgid ""
 "The User declares that they consider this encryption method sufficiently "
 "secure."
 msgstr ""
+"Tá gach cumarsáid laistigh den tSeirbhís criptithe ag baint úsáide as an "
+"bprótacal SSL. Dearbhaíonn an Úsáideoir go measann siad go bhfuil an modh "
+"criptithe seo slán a dhóthain."
 
 #: wllegal/templates/legal/documents/tos.html:611
 #, python-format
@@ -1746,6 +2411,11 @@ msgid ""
 "defined in this Agreement and the <a href=\"%(privacy_url)s\">Privacy "
 "Policy</a>."
 msgstr ""
+"Geallann an Soláthraí gan aon fhaisnéis a chuir an tÚsáideoir isteach le "
+"linn clárúcháin a chuntais Úsáideora nó aon sonraí pearsanta eile a "
+"sholáthraíonn an tÚsáideoir a sholáthar d'aon tríú páirtí chun críocha "
+"seachas iad siúd atá sainmhínithe sa Chomhaontú seo agus an <a href=\""
+"%(privacy_url)s\">Polasaí Príobháideachta</a>."
 
 #: wllegal/templates/legal/documents/tos.html:615
 msgid ""
@@ -1755,18 +2425,28 @@ msgid ""
 "technical cookies, for which explicit consent is not required under current "
 "legislation."
 msgstr ""
+"Úsáideann suíomh Gréasáin agus feidhmchlár gréasáin an tSoláthraí fianáin "
+"freisin. Úsáideann na Seirbhísí fianáin seisiúin ón Soláthraí go heisiach "
+"agus ní úsáideann siad fianáin tríú páirtí riamh. Maidir le feidhmiúlacht "
+"agus cineál, ní úsáideann an Soláthraí ach fianáin fheidhmiúla/theicniúla, "
+"nach bhfuil toiliú sainráite ag teastáil ina leith faoin reachtaíocht reatha."
 
 #: wllegal/templates/legal/documents/tos.html:623
 msgid ""
 "The Parties commit to maintaining the confidentiality of all information "
 "learned during the contractual relationship established by this Agreement."
 msgstr ""
+"Geallann na Páirtithe go gcoimeádfaidh siad rúndacht na faisnéise go léir a "
+"fhoghlaimítear le linn an chaidrimh chonarthaigh a bhunaítear leis an "
+"gComhaontú seo."
 
 #: wllegal/templates/legal/documents/tos.html:627
 msgid ""
 "The User’s rights arising from the Agreement and these Terms cannot be "
 "assigned without the prior written consent of the Provider."
 msgstr ""
+"Ní féidir cearta an Úsáideora a eascraíonn as an gComhaontú agus na Téarmaí "
+"seo a shannadh gan toiliú i scríbhinn roimh ré ón Soláthraí."
 
 #: wllegal/templates/legal/documents/tos.html:631
 msgid ""
@@ -1774,6 +2454,9 @@ msgid ""
 "business entities and that they are entering into this Agreement within the "
 "scope of their business activities."
 msgstr ""
+"Chun amhras a sheachaint, deimhníonn na Páirtithe go sainráite gur eintitis "
+"ghnó iad agus go bhfuil an Comhaontú seo á dhéanamh acu laistigh de raon "
+"feidhme a ngníomhaíochtaí gnó."
 
 #: wllegal/templates/legal/documents/tos.html:635
 msgid ""
@@ -1784,6 +2467,13 @@ msgid ""
 "effort to amend the Agreement by replacing the invalid, unenforceable, or "
 "ineffective provision with a new one that reflects the original intent."
 msgstr ""
+"Má bhíonn aon fhoráil den Chomhaontú seo nó de na Téarmaí seo neamhbhailí, "
+"neamhéifeachtach nó neamh-infheidhmithe, ní dhéanfaidh sí difear do "
+"bhailíocht, in-fhorfheidhmitheacht ná éifeachtacht na bhforálacha atá fágtha "
+"den Chomhaontú nó de na Téarmaí seo. I gcás den sórt sin, déanfaidh na "
+"Páirtithe gach iarracht an Comhaontú a leasú trí fhoráil nua a léiríonn an "
+"intinn bhunaidh a chur in ionad na forála neamhbhailí, neamh-infheidhmithe "
+"nó neamhéifeachtach."
 
 #: wllegal/templates/legal/documents/tos.html:639
 msgid ""
@@ -1803,6 +2493,21 @@ msgid ""
 "Parties. The Parties irrevocably agree not to contest the enforcement of the "
 "arbitration award in any jurisdiction."
 msgstr ""
+"Tá na Téarmaí seo á rialú ag dlí Phoblacht na Seice, ball den Aontas "
+"Eorpach. Mar sin féin, eisiann na Páirtithe, a mhéid is féidir, forálacha "
+"Ailt 1764, 1765, 1793 go 1795, 2050, 2389a go 2389f, 2389t, agus 2389u de "
+"Chód Sibhialta na Seice. Aon díospóidí a éireoidh i ndáil le comhlíonadh nó "
+"léiriú an Chomhaontaithe nach féidir leis na Páirtithe a réiteach go "
+"cairdiúil, socrófar iad go críochnaitheach trí eadráin i gCúirt Eadrána "
+"Dhlísheomra Eacnamaíoch Phoblacht na Seice agus i Seomra Talmhaíochta "
+"Phoblacht na Seice ag triúr eadránaí a cheapfar de réir Rialacha na Cúirte "
+"Eadrána seo. Ceapann gach Páirtí eadránaí amháin, agus comhaontóidh an "
+"bheirt eadránaí ar an tríú eadránaí laistigh de 30 lá. Mura gcomhaontóidh an "
+"bheirt eadránaí ar an tríú eadránaí laistigh den tréimhse thuas, ceapfaidh "
+"cathaoirleach na Cúirte Eadrána an tríú eadránaí. Tá an dámhachtain eadrána "
+"críochnaitheach agus ceangailteach do na Páirtithe. Comhaontaíonn na "
+"Páirtithe go neamh-inchúlghairthe gan cur i gcoinne fhorfheidhmiú na "
+"dámhachtana eadrána in aon dlínse."
 
 #: wllegal/templates/legal/documents/tos.html:643
 msgid ""
@@ -1813,15 +2518,16 @@ msgid ""
 "the English version and any translated version, the English version shall "
 "prevail in all matters."
 msgstr ""
+"Ullmhaíodh an leagan oifigiúil de na Téarmaí seo i mBéarla agus meastar gurb "
+"é an t-aon leagan ceangailteach é. Cuirtear aon leaganacha de na Téarmaí seo "
+"a aistrítear go teangacha eile ar fáil ar mhaithe le háisiúlacht an "
+"Úsáideora amháin agus níl aon fheidhm dhlíthiúil acu. I gcás aon "
+"neamhréireachtaí nó coimhlintí idir an leagan Béarla agus aon leagan "
+"aistrithe, beidh forlámhas ag an leagan Béarla i ngach ábhar."
 
 #: wllegal/templates/legal/documents/tos.html:647
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 15th May 2023."
 msgid "These Terms enter into force on November 1, 2024."
-msgstr ""
-"Tiocfaidh na Téarmaí Seirbhíse seo i bhfeidhm agus beidh éifeacht acu an 15 "
-"Bealtaine 2023."
+msgstr "Tiocfaidh na Téarmaí seo i bhfeidhm an 1 Samhain, 2024."
 
 #, python-format
 #~ msgid ""
