@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-11-22 07:29+0000\n"
+"PO-Revision-Date: 2024-11-24 04:00+0000\n"
 "Last-Translator: 大王叫我来巡山 <hamburger2048@users.noreply.hosted.weblate."
 "org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
@@ -210,51 +210,54 @@ msgid ""
 "openSUSE, and Ubuntu in the event that accounts with these providers are "
 "linked to the User account,"
 msgstr ""
+"Bitbucket、Facebook、Google、LinkedIn、GitHub、GitLab、openSUSE 和 Ubuntu "
+"身份，倘若这些提供者的账户和用户账户相关联，"
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
-msgstr ""
+msgstr "用户所用服务和产品的规格，"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
-msgstr ""
+msgstr "有关用户的团队成员数字及成员角色的信息，"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
 "all other user settings of the User account (including the so-called "
 "Profile), i.e., settings for languages, notifications, if they can identify "
 "the User directly or indirectly,"
-msgstr ""
+msgstr "用户账户的所有其他用户设置（包括所谓的“个人资料”），即语言设置、通知，即便它"
+"们可以直接或间接地识别用户身份，"
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
-msgstr ""
+msgstr "用户的银行账户编号及可能的其他支付详情，"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "一个或多个加密货币钱包地址，"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
 "other personal data contained in messages sent by the User to the Provider "
 "(especially the subject and other content of the message),"
-msgstr ""
+msgstr "其他包含在用户发送给提供者的消息中的个人数据（尤其是消息的标题和其他内容），"
 
 #: wllegal/templates/legal/documents/privacy.html:120
 msgid ""
 "other personal data contained in communications with the Provider's support,"
-msgstr ""
+msgstr "其他包含在与提供者的支持人员沟通中的个人数据，"
 
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
-msgstr ""
+msgstr "系统数据、日志及会话日志，包括用户 IP 地址，"
 
 #: wllegal/templates/legal/documents/privacy.html:128
 msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
-msgstr ""
+msgstr "以上列举的个人数据的单个类别将继续被统称为 \"<strong>个人数据</strong>\"。"
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -267,6 +270,11 @@ msgid ""
 "under the conditions and based on a separate data processing agreement (so-"
 "called processing agreement) concluded between the Provider and the User."
 msgstr ""
+"某些情形下，提供者<strong>也可以是个人数据的处理者</strong>，即当用户出于自身"
+"目的将第三方个人数据提供给提供者时（比如添加团队成员、代表另一人将一个项目捐"
+"赠给提供者等等）。在这种情形下，处理选定的第三方个人数据（提供者是否能接触这"
+"些数据由用户意愿决定）在用户的指示下发生，根据提供商和用户之间签订的单独数据"
+"处理协议（所谓的“处理协议”）的条款和基础上进行。"
 
 #: wllegal/templates/legal/documents/privacy.html:136
 msgid ""
@@ -292,6 +300,17 @@ msgid ""
 "the User's instructions unless the Provider has another legal basis for "
 "processing personal data as a controller under Article 2.1 of this Policy."
 msgstr ""
+"提供商处理个人数据，直到合同中产生的所有义务都已履行。在提供商关闭账户和/或用"
+"户取消账户时，除以下提到的选定个人数据外，所有输入服务的个人数据和其他数据将"
+"被删除；因此，提供商强烈建议在取消用户账户前备份输入服务的所有数据，并且在用"
+"户账户被关闭后也不对其损失负责，即使账户被提供商依法关闭。提供商至少会在法律"
+"规定的法定保留期限（即10年）内保留发票上显示的个人数据。在提供者有必要为自己"
+"的诉求辩护和/或对第三方的诉求进行抗辩（包括由公共当局发起的任何诉讼）的情况下"
+"，提供者也可以保留一些其他个人数据，但保留的最长期限始终等于个人索赔的时效期"
+"限和/或直到选定的诉讼最终结束。具体期限无法精确界定，并根据索赔类型、时效期限"
+"以及选定法院或公共当局的审理速度而有所不同。提供商仅作为用户数据处理者处理的"
+"数据将在用户指示指定的期限内进行处理，除非提供商根据本政策第2."
+"1条有作为数据控制者处理个人数据的其他法律依据。"
 
 #: wllegal/templates/legal/documents/privacy.html:140
 #, python-format
