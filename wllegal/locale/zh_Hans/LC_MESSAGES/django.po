@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-11-24 04:00+0000\n"
+"PO-Revision-Date: 2024-11-25 07:00+0000\n"
 "Last-Translator: 大王叫我来巡山 <hamburger2048@users.noreply.hosted.weblate."
 "org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
@@ -330,6 +330,14 @@ msgid ""
 "consent granted otherwise, by sending a request to <a href=\"mailto:"
 "%(address)s\">%(address)s</a>."
 msgstr ""
+"基于用户<strong>自愿和了解情况</strong>的同意，提供者也可以处理选定的用户个人"
+"数据，尤其是电子邮箱、名字、姓氏及其他任何个人数据（如果出于这些目的而提供）"
+"。处理期限为<strong>2 年</strong>和/或者直至同意被撤销。提供同意<strong>决不<"
+"/strong>是使用服务或产品（包括支持服务）的条件。但对发送新闻简报到尚不是用户"
+"的数据主体，提供与提供商的其他服务无关的选定 bonus 或 bonus 材料和/或披露与向"
+"提供商捐款有关的用户个人数据，用户同意通常是必需的。可在任何时候直接在用户账"
+"户界面撤销同意，对于其他授予的同意，可以发送请求到<a href=\"mailto:%(address)"
+"s\">%(address)s</a>。"
 
 #: wllegal/templates/legal/documents/privacy.html:144
 msgid ""
@@ -338,6 +346,8 @@ msgid ""
 "selected Personal Data based on a different legal reason if this legal "
 "reason in favour of the Provider continues to exist."
 msgstr ""
+"一旦处理个人数据的原因消失，提供者会摧毁个人数据。但这并不排除基于不同法律原"
+"因进一步处理选定的个人数据，如果这个有利于提供者的法律原因继续存在的话。"
 
 #: wllegal/templates/legal/documents/privacy.html:149
 msgid "Recipients and Processors of Personal Data"
@@ -350,50 +360,56 @@ msgid ""
 "proper processing of Personal Data for the purposes defined in Article 2.1 "
 "of this Policy, specifically:"
 msgstr ""
+"除了提供者，选定的第三方也会基于本政策接收并处理个人数据，对出于本政策 2.1 款"
+"中定义的目的恰当处理个人数据，这些第三方的参与是必要的。这些第三方具体指的是"
+"："
 
 #: wllegal/templates/legal/documents/privacy.html:158
 msgid ""
 "hosting provider (including web hosting and mail hosting services), "
 "currently this is <strong>Hetzner Online GmbH</strong>;"
-msgstr ""
+msgstr "托管提供商（包括 web 托管和电子邮件托管服务），目前为<strong>Hetzner Online "
+"GmbH</strong>；"
 
 #: wllegal/templates/legal/documents/privacy.html:161
 msgid ""
 "operators of the payment gateway <strong>ThePay.cz, s.r.o.</strong> and "
 "possibly operators of other services used in connection with the payment of "
 "any payments related to billing;"
-msgstr ""
+msgstr "支付网关运营方 <strong>ThePay.cz, s.r."
+"o.</strong>及任何账单相关付款的支付有关的所用其他服务的可能运营方；"
 
 #: wllegal/templates/legal/documents/privacy.html:164
 msgid ""
 "accounting, legal, and tax advisors of the Provider and possibly other "
 "persons bound by confidentiality under the law;"
-msgstr ""
+msgstr "提供者的会计、法律及税务顾问及可能的受法律保密性约束的其他个人；"
 
 #: wllegal/templates/legal/documents/privacy.html:167
 msgid ""
 "C-level and other managerial employees employed by or otherwise "
 "collaborating with the Provider;"
-msgstr ""
+msgstr "提供者雇佣的或与之协作的 C 级和其他管理员工；"
 
 #: wllegal/templates/legal/documents/privacy.html:170
 msgid ""
 "selected contractors of the Provider who are involved in providing services "
 "to Users and who are also bound by confidentiality;"
-msgstr ""
+msgstr "提供者的选定承包商，参与向用户提供服务且不受保密性约束；"
 
 #: wllegal/templates/legal/documents/privacy.html:173
 msgid ""
 "any other persons whose involvement is necessary for the proper provision of "
 "the Service, Products, Support Services, and/or to ensure any other "
 "activities related to the above;"
-msgstr ""
+msgstr "为恰当提供“服务”、“产品”、“支持服务”及/或确保与上述有关的任何其他活动而必须参"
+"与其中的任何其他人员；"
 
 #: wllegal/templates/legal/documents/privacy.html:178
 msgid ""
 "the persons mentioned in this Article 3.1 are collectively referred to in "
 "this Policy as \"<strong>Processors</strong>\"."
-msgstr ""
+msgstr "3.1 款中提及的个人在本政策中统称为 \"<strong>处理者</strong>\"。"
 
 #: wllegal/templates/legal/documents/privacy.html:182
 msgid ""
@@ -403,6 +419,9 @@ msgid ""
 "data must meet high standards of protection and will always handle the data "
 "within the limits of the GDPR and this Policy."
 msgstr ""
+"用户同意提供者可以将个人数据传输给处理者，如果这对履行上述数据处理目的而言是"
+"必要的话。提供商为处理个人数据而聘请的处理者必需满足高保护标准并始终在 GDPR "
+"和本政策的限制内处理数据。"
 
 #: wllegal/templates/legal/documents/privacy.html:186
 msgid ""
