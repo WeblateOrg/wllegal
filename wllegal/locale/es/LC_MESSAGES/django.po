@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-11-21 18:53+0000\n"
-"Last-Translator: gallegonovato <fran-carro@hotmail.es>\n"
+"PO-Revision-Date: 2024-11-25 07:00+0000\n"
+"Last-Translator: Jose <ciordia@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/weblate/legal/es/"
 ">\n"
 "Language: es\n"
@@ -263,16 +263,19 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
 msgstr ""
+"número de cuenta bancaria y posiblemente otros detalles de pago del Usuario,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "dirección o direcciones de la cartera de criptomoneda"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
 "other personal data contained in messages sent by the User to the Provider "
 "(especially the subject and other content of the message),"
 msgstr ""
+"otros datos personales contenidos en mensajes enviados por el Usuario al "
+"Proveedor (especialmente el tema y otros contenidos del mensaje),"
 
 #: wllegal/templates/legal/documents/privacy.html:120
 msgid ""
