@@ -12,11 +12,11 @@
 # Golubev Alexander <fatzer2@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-11-19 13:40+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-11-24 04:00+0000\n"
+"Last-Translator: \"Александр (Alexandr1995)\" <stupino19951406@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/weblate/legal/ru/"
 ">\n"
 "Language: ru\n"
@@ -58,11 +58,15 @@ msgid ""
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
+"Настоящая политика конфиденциальности далее \"<strong>политика</strong>\", "
+"дополняет сайт <a href=\"%(terms_url)s\">общие условия и правила сайта</a> "
+"Weblate, Далин \"<strong>правила</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
+#, fuzzy
 msgid "Introductory Provisions"
-msgstr ""
+msgstr "Основные положения"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
