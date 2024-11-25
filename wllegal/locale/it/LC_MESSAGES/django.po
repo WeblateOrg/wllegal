@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-11-22 07:29+0000\n"
+"PO-Revision-Date: 2024-11-26 03:26+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/weblate/legal/it/"
 ">\n"
@@ -53,11 +53,15 @@ msgid ""
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
+"La presente Informativa sulla privacy, di seguito denominata \""
+"<strong>Informativa</strong>\", integra i <a href=\"%(terms_url)s\">Termini "
+"e condizioni generali</a> di Weblate, di seguito denominati \""
+"<strong>Termini</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
 msgid "Introductory Provisions"
-msgstr ""
+msgstr "Disposizioni introduttive"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
@@ -126,6 +130,7 @@ msgstr ""
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
 msgstr ""
+"Il fornitore tratta i dati personali dell'utente per le seguenti finalità:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
