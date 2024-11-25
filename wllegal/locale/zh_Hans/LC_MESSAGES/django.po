@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-11-25 07:00+0000\n"
+"PO-Revision-Date: 2024-11-26 03:26+0000\n"
 "Last-Translator: 大王叫我来巡山 <hamburger2048@users.noreply.hosted.weblate."
 "org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
@@ -427,7 +427,7 @@ msgstr ""
 msgid ""
 "The processing of Personal Data by selected Processors may be governed by "
 "their own service provision conditions."
-msgstr ""
+msgstr "选定处理者的个人信息处理可能受到它们自己的服务提供条款。"
 
 #: wllegal/templates/legal/documents/privacy.html:190
 msgid ""
@@ -436,10 +436,12 @@ msgid ""
 "where the transfer must occur in compliance with the obligations of the "
 "Provider arising from generally binding regulations."
 msgstr ""
+"个人数据也可以被转移，如果提供者因公共当局的决定而有义务这么做，或者在其他情"
+"形下，数据转移必须发生以遵守由具有普遍约束力的规定引起的提供者义务。"
 
 #: wllegal/templates/legal/documents/privacy.html:195
 msgid "Common Provisions on Processing"
-msgstr ""
+msgstr "处理的通常规定"
 
 #: wllegal/templates/legal/documents/privacy.html:199
 msgid ""
@@ -449,6 +451,9 @@ msgid ""
 "processing of personal data by any third party, even if those third parties "
 "are Processors."
 msgstr ""
+"处理者会始终不遗余力防止其他人未经授权的个人数据处理；不过，提供者对任意第三"
+"方（即使第三方是处理者）未经授权处理个人数据给用户或其他数据主体造成的任何损"
+"害不负有法律责任。"
 
 #: wllegal/templates/legal/documents/privacy.html:203
 msgid ""
@@ -458,6 +463,10 @@ msgid ""
 "480/2004 Coll. on Certain Information Society Services, if they directly "
 "relate to these Services, Products, and/or Support Services."
 msgstr ""
+"根据捷克共和国关于广告的 Act No. 40/1995 Coll 和关于特定信息社会服务的 Act "
+"No. 480/2004 Coll，发送给用户的与提供服务、产品和/或支持服务相关的电子邮件不"
+"被认为是未经请求的商业通讯，如果它们与这些服务、产品和/或支持服务直接相关的话"
+"。"
 
 #: wllegal/templates/legal/documents/privacy.html:207
 msgid ""
@@ -469,13 +478,18 @@ msgid ""
 "revoked at any time by clicking on the link found in the footer of such "
 "commercial communication."
 msgstr ""
+"不过，按照有关特定社会信息服务的 Act No. 480/2004 Coll 的 Section 7(2) 和某些"
+"修正案的含义，用户可以明确并<strong>自愿地同意</strong>在用户的电子地址上从提"
+"供者那里接收更大范围的商业通讯信息（如间接营销的信息）。当然，用户可以随时单"
+"击在此类商业通讯的页脚处找到的链接撤销同意。"
 
 #: wllegal/templates/legal/documents/privacy.html:211
 msgid ""
 "In the event that the Provider and/or Processors learn of a security risk "
 "related to Personal Data that affects the User, they will notify the User of "
 "this fact without undue delay."
-msgstr ""
+msgstr "倘若提供者和/或处理者知悉影响用户的与个人数据相关的安全风险，它们在通知用户这"
+"一事实前不会拖得太久。"
 
 #: wllegal/templates/legal/documents/privacy.html:215
 msgid ""
@@ -484,6 +498,8 @@ msgid ""
 "other incident leading to loss. However, the Provider is not responsible for "
 "the improper actions of the Processors."
 msgstr ""
+"如果出现数据泄露或其他导致损失的事件，提供者会给用户提供援助，寻求从负有责任"
+"的处理者那里获得赔偿。不过，提供者对于处理者的不恰当行为不负有责任。"
 
 #: wllegal/templates/legal/documents/privacy.html:219
 msgid ""
@@ -495,6 +511,10 @@ msgid ""
 "the User in the case where they provide the Provider with Personal Data of "
 "data subjects other than this User."
 msgstr ""
+"因而，用户确认所提供的个人信息真实、准确且只和用户本人有关，或者所提供数据的"
+"使用不侵犯第三方的权利。用户有义务始终通知体哦国内这个人数据的任何改动，使得"
+"仅当前和完整数据被处理。在用户向提供者提供用户本人之外其他数据主体的个人数据"
+"的情形下，相同义务同样适用于用户。"
 
 #: wllegal/templates/legal/documents/privacy.html:223
 msgid ""
@@ -503,13 +523,17 @@ msgid ""
 "never be subject to individual automated decision-making (including "
 "profiling) within the meaning of Article 22 of the GDPR."
 msgstr ""
+"个人数据将以电子方式被处理，包括使用自动处理方法。不过，"
+"用户和其他数据主体永远不会受制于 GDPR "
+"第22款含义下的个人自动决策（包括用户画像）。"
 
 #: wllegal/templates/legal/documents/privacy.html:227
 msgid ""
 "Anonymized personal data (which are no longer considered personal data under "
 "the GDPR) may be processed even after all legal grounds for processing the "
 "User's Personal Data have ceased."
-msgstr ""
+msgstr "匿名化的个人数据（在 GDPR 下不再被认为是个人数据）可以被处理，即便在处理用户"
+"个人数据的所有法律原因都已中止。"
 
 #: wllegal/templates/legal/documents/privacy.html:232
 msgid "User Rights in Relation to Personal Data"
