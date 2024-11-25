@@ -7,11 +7,11 @@
 # Manuela Silva <mmsrs@sky.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-04-22 01:07+0000\n"
-"Last-Translator: Francielle Souza <fransoonerorlater@gmail.com>\n"
+"PO-Revision-Date: 2024-11-26 03:26+0000\n"
+"Last-Translator: Horus68 <horus68@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/weblate/legal/"
 "pt/>\n"
 "Language: pt\n"
@@ -19,29 +19,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "Subcontratados de acordo com o art. 28 RGPD"
 
 #: wllegal/templates/legal/documents/contracts.html:11
-#, fuzzy
-#| msgid "Status as of March 2023."
 msgid "Status as of May 2024."
-msgstr "Estado de março de 2023."
+msgstr "Situação em maio de 2024."
 
 #: wllegal/templates/legal/documents/privacy.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
-"O documento dos \"Termos de Serviço\" em inglês é vinculativo, as traduções "
-"são fornecidas para sua conveniência."
+"O documento da Política de privacidade é juridicamente vinculativo na versão "
+"em inglês. As traduções são fornecidas apenas para a sua conveniência."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:6
@@ -182,10 +176,8 @@ msgid "User's avatar,"
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail address"
 msgid "email address(es),"
-msgstr "Nome e endereço de ''e-mail''"
+msgstr "endereços de email,"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -304,10 +296,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:149
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Recipients and Processors of Personal Data"
-msgstr "Acesso aos Dados Pessoais"
+msgstr "Destinatários e subcontratantes de dados pessoais"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -459,10 +449,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:232
-#, fuzzy
-#| msgid "Order us to delete your Personal Data"
 msgid "User Rights in Relation to Personal Data"
-msgstr "Comunicar-nos para eliminar os seus \"Dados Pessoais\""
+msgstr "Direitos do utilizador em relação aos dados pessoais"
 
 #: wllegal/templates/legal/documents/privacy.html:236
 #, python-format
@@ -587,9 +575,8 @@ msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"Nós processamos os dados privados (tal como o seu endereço de ''e-mail''), "
-"que serão removidos da nossa base de dados assim que você remover a sua "
-"conta."
+"Nós processamos dados pessoais (tais como o seu endereço de email), que "
+"serão removidos da nossa base de dados se remover a sua conta."
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
@@ -624,29 +611,22 @@ msgid "We don’t use any third-party cookies."
 msgstr "Não utilizamos cookies de terceiros."
 
 #: wllegal/templates/legal/documents/tos.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
-"O documento dos \"Termos de Serviço\" em inglês é vinculativo, as traduções "
-"são fornecidas para sua conveniência."
+"O documento dos \"Termos gerais de serviço e condições\" é legalmente "
+"vinculativo na versão em inglês. As traduções são fornecidas apenas para sua "
+"conveniência."
 
 #: wllegal/templates/legal/documents/tos.html:11
-#, fuzzy
-#| msgid ""
-#| "The rights and obligations of the User and the Provider resulting from "
-#| "the use of the Service are governed by these Terms of Service."
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
 msgstr ""
-"Os direitos e as obrigações do \"Utilizador\" e do \"Fornecedor\" "
-"resultantes da utilização do \"Serviço\" são geridos por estes \"Termos de "
-"Serviço\"."
+"Os direitos e as obrigações do Utilizador e do Fornecedor resultantes da "
+"utilização do Serviço são geridos por estes Termos gerais de serviço e "
+"condições."
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid ""
@@ -669,10 +649,8 @@ msgid "Civil Code"
 msgstr "Código Civil"
 
 #: wllegal/templates/legal/documents/tos.html:33
-#, fuzzy
-#| msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
-msgstr "significa Lei n.º %(law_89_2012)s, o Código Civil, conforme emenda"
+msgstr "significa Lei n.º 89/2012 do Código Civil, conforme emenda;"
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
@@ -736,22 +714,16 @@ msgid "Hosted String"
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:75
-#, fuzzy
-#| msgid ""
-#| "Pricing is based on the number of source strings and target languages. "
-#| "The source string is a text unit defined in a translation format, it can "
-#| "be a word, sentence or paragraph."
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
 msgstr ""
-"O preço é baseado no número de entradas fonte e os idiomas de destino. A "
-"entrada fonte é uma unidade de texto definida num formato de tradução, esta "
-"pode ser uma palavra, uma frase ou um parágrafo."
+"significa uma unidade de texto definida no formato de tradução. Pode ser uma "
+"palavra, frase ou parágrafo;"
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
-msgstr ""
+msgstr "Weblate alojado"
 
 #: wllegal/templates/legal/documents/tos.html:82
 msgid ""
@@ -765,37 +737,29 @@ msgid "License"
 msgstr "Licença"
 
 #: wllegal/templates/legal/documents/tos.html:89
-#, fuzzy
-#| msgid ""
-#| "means non-exclusive license granted by the Provider to the User for use "
-#| "of the Service"
 msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
 msgstr ""
-"significa licença não exclusiva concedida pelo \"Fornecedor\" ao "
-"\"Utilizador\" para utilizar o \"Serviço\""
+"significa a licença não exclusiva concedida pelo Fornecedor ao Utilizador "
+"para utilização do Serviço;"
 
 #: wllegal/templates/legal/documents/tos.html:93
 msgid "Personal Data"
 msgstr "Dados Pessoais"
 
 #: wllegal/templates/legal/documents/tos.html:96
-#, fuzzy
-#| msgid ""
-#| "means personal data within the meaning of EU Regulation No. "
-#| "%(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"significa dados pessoais dentro do significado do «Regulamento» da UE nº "
-"%(law_679_2016)s, inserida pelo \"Utilizador\" no \"Serviço\" e/ou Cookies"
+"significa os dados pessoais como definidos pelo Regulamento da UE n.º 679/"
+"2016, inserida pelo Utilizador no Serviço e/ou Cookies;"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
 msgid "Price"
-msgstr ""
+msgstr "Preço"
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid ""
@@ -805,7 +769,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:107
 msgid "Price List"
-msgstr ""
+msgstr "Lista de preços"
 
 #: wllegal/templates/legal/documents/tos.html:110
 msgid ""
@@ -815,7 +779,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:114
 msgid "Product"
-msgstr ""
+msgstr "Produto"
 
 #: wllegal/templates/legal/documents/tos.html:117
 msgid ""
@@ -841,14 +805,11 @@ msgid "Service"
 msgstr "Serviço"
 
 #: wllegal/templates/legal/documents/tos.html:131
-#, fuzzy
-#| msgid ""
-#| "means the website and services based on Weblate operated by the Provider"
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
 msgstr ""
-"significa que a página e os serviços baseados no Weblate operados pelo "
-"\"Fornecedor\""
+"significa os sítios Web e os serviços baseados no Weblate fornecidos pelo "
+"Fornecedor;"
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid "Self-hosting"
@@ -861,10 +822,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:142
-#, fuzzy
-#| msgid "Service"
 msgid "Support Services"
-msgstr "Serviço"
+msgstr "Serviço de apoio"
 
 #: wllegal/templates/legal/documents/tos.html:145
 msgid ""
@@ -878,33 +837,25 @@ msgid "Translation Memory"
 msgstr "Memória de Tradução"
 
 #: wllegal/templates/legal/documents/tos.html:152
-#, fuzzy
-#| msgid ""
-#| "means the optional translation memory service provided within Weblate"
 msgid "means an optional translation memory service provided on Weblate;"
 msgstr ""
-"significa que o serviço opcional de memória de tradução fornecido dentro do "
-"Weblate"
+"significa um serviço opcional de memória de tradução fornecido no Weblate;"
 
 #: wllegal/templates/legal/documents/tos.html:156
 msgid "User"
 msgstr "Utilizador"
 
 #: wllegal/templates/legal/documents/tos.html:159
-#, fuzzy
-#| msgid ""
-#| "means any legal entity or an individual other than the Provider, who is "
-#| "using the Service"
 msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
 msgstr ""
-"significa que qualquer entidade legal ou um indivíduo que não o "
-"'Fornecedor', que está a utilizar o 'Serviço'"
+"significa qualquer entidade legal um indivíduo, que não o fornecedor, que "
+"esteja a utilizar o Serviço;"
 
 #: wllegal/templates/legal/documents/tos.html:163
 msgid "User Account"
-msgstr ""
+msgstr "Conta de utilizador"
 
 #: wllegal/templates/legal/documents/tos.html:166
 msgid ""
@@ -935,10 +886,8 @@ msgid "These GTC are an integral part of the Agreement."
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:191
-#, fuzzy
-#| msgid "License Agreement Conclusion"
 msgid "The Agreement is concluded:"
-msgstr "Acordo da Licença"
+msgstr "O acordo é celebrado:"
 
 #: wllegal/templates/legal/documents/tos.html:196
 msgid ""
@@ -997,10 +946,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:227
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
-msgstr "Serviço"
+msgstr "Duração do serviço"
 
 #: wllegal/templates/legal/documents/tos.html:231
 msgid ""
@@ -1037,10 +984,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:249
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "Memória de Tradução"
+msgstr "preço normal para a Memória de tradução;"
 
 #: wllegal/templates/legal/documents/tos.html:254
 msgid ""
@@ -1115,10 +1060,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:286
-#, fuzzy
-#| msgid "License"
 msgid "License Terms"
-msgstr "Licença"
+msgstr "Termos da licença"
 
 #: wllegal/templates/legal/documents/tos.html:290
 #, python-format
@@ -1187,10 +1130,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:314
-#, fuzzy
-#| msgid "Payment error"
 msgid "Payment Terms"
-msgstr "Erro de pagamento"
+msgstr "Termos de pagamento"
 
 #: wllegal/templates/legal/documents/tos.html:318
 msgid ""
@@ -1733,10 +1674,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:599
-#, fuzzy
-#| msgid "The Personal Data retention"
 msgid "Personal Data Protection"
-msgstr "A retenção de \"Dados Pessoais\""
+msgstr "Proteção de dados pessoais"
 
 #: wllegal/templates/legal/documents/tos.html:603
 #, python-format
