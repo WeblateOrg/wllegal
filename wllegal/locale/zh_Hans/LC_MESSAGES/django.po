@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-11-26 03:26+0000\n"
+"PO-Revision-Date: 2024-11-26 07:06+0000\n"
 "Last-Translator: 大王叫我来巡山 <hamburger2048@users.noreply.hosted.weblate."
 "org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
@@ -549,6 +549,10 @@ msgid ""
 "correction, restriction, or deletion) can be automated through this user "
 "account."
 msgstr ""
+"用户可以随时行使来自 GDPR 的权利，方法是发送电子邮件到 <a href=\"mailto"
+":%(address)s\">%(address)s</a>，以及通过用户账户，因为实施下方列举的多数权利"
+"（尤其是访问所有处理过的个人数据、数据修正、限制或删除）都可以通过用户账户自"
+"动进行。"
 
 #: wllegal/templates/legal/documents/privacy.html:240
 msgid ""
@@ -557,30 +561,34 @@ msgid ""
 "strong>, unless due to the complexity of the matter it is necessary for the "
 "Provider to extend this period. The User's rights include:"
 msgstr ""
+"提供者会不遗余力地尽快处理用户的个人数据的请求，最迟不超过<strong>30 "
+"天</strong>，除非由于事情复杂性使得提供者有必要延长这一期限。用户的权利包括："
 
 #: wllegal/templates/legal/documents/privacy.html:245
 msgid ""
 "an explanation of whether and what personal data is being processed and, if "
 "applicable, requesting the Provider to disclose it;"
-msgstr ""
+msgstr "个人数据是否正被处理和正处理哪些个人数据的解释，并在适用前提下，请求提供者披"
+"露它；"
 
 #: wllegal/templates/legal/documents/privacy.html:248
 msgid ""
 "correction of personal data if there is concern that some of it is "
 "inaccurate or missing;"
-msgstr ""
+msgstr "修正个人数据，如果担心其中一些数据不准确或缺失；"
 
 #: wllegal/templates/legal/documents/privacy.html:251
 msgid ""
 "restriction of processing if there is concern that the Provider is "
 "processing more data than necessary;"
-msgstr ""
+msgstr "限制处理，如果担心提供者正处理超出必需的数据；"
 
 #: wllegal/templates/legal/documents/privacy.html:254
 msgid ""
 "deletion of personal data based on the consent of the Provider, provided "
 "that there is no other legal reason for further processing of personal data;"
-msgstr ""
+msgstr "在提供者同意的基础上删除个人数据，假如不存在进一步处理个人数据的其他法律原因"
+"；"
 
 #: wllegal/templates/legal/documents/privacy.html:257
 msgid ""
@@ -588,12 +596,14 @@ msgid ""
 "on the consent of the Provider or in connection with fulfilling the "
 "Provider's contractual obligations, in a machine-readable format;"
 msgstr ""
+"以机器可读的格式，在提供者同意的基础上发布自动手段处理过的个人数据的副本，或"
+"者因与履行提供商的合同义务相关而发布经自动手段处理的个人数据的副本；"
 
 #: wllegal/templates/legal/documents/privacy.html:260
 msgid ""
 "temporary freezing of data processing operations for the purposes of the "
 "legitimate interest of the Provider;"
-msgstr ""
+msgstr "出于提供者合法利益的目的，暂时冻结数据处理操作；"
 
 #: wllegal/templates/legal/documents/privacy.html:263
 #, python-format
@@ -603,11 +613,13 @@ msgid ""
 "authority if the User believes that the Provider is processing personal data "
 "in violation of this Policy or legal regulations."
 msgstr ""
+"直接向个人数据保护办公室 （<a href=\"%(url)s\">%(url)s</a>）或另一相关的国家"
+"数据保护机构提交投诉，如果用户相信提供商正违反本政策或法律法规处理个人数据。"
 
 #: wllegal/templates/legal/documents/privacy.html:268
 #: wllegal/templates/legal/documents/tos.html:619
 msgid "Final Provisions"
-msgstr ""
+msgstr "最终条款"
 
 #: wllegal/templates/legal/documents/privacy.html:272
 msgid ""
@@ -618,6 +630,9 @@ msgid ""
 "Policy displayed within the Service, or upon the next first login to their "
 "User Account."
 msgstr ""
+"提供者有权单方面改动本政策。政策的新措辞将自网站发布之时起生效。对于在发生更"
+"改时和提供者之间存在受本政策规管的合约关系的用户，这些用户会通过展示在服务内"
+"的政策或在接下去首次登录用户账户时收到一则更改通知。"
 
 #: wllegal/templates/legal/documents/privacy.html:276
 msgid ""
