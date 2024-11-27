@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-11-20 11:11+0000\n"
+"PO-Revision-Date: 2024-11-28 03:00+0000\n"
 "Last-Translator: \"Miguel A. Bouzada\" <mbouzada@gmail.com>\n"
 "Language-Team: Galician <https://hosted.weblate.org/projects/weblate/legal/"
 "gl/>\n"
@@ -33,8 +33,8 @@ msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
-"O documento de Directiva de privacidade é xuridicamente vinculante, as "
-"traducións fornécense para a súa comodidade."
+"O documento en inglés da Directiva de privacidade é xuridicamente "
+"vinculante, as traducións fornécense para a súa comodidade."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:6
@@ -615,7 +615,7 @@ msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
-"O documento de Condicións Xerais é xuridicamente vinculante en inglés, as "
+"O documento en inglés das Condicións Xerais é xuridicamente vinculante, as "
 "traducións fornécense para a súa comodidade."
 
 #: wllegal/templates/legal/documents/tos.html:11
@@ -1692,10 +1692,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:599
-#, fuzzy
-#| msgid "The Personal Data retention"
 msgid "Personal Data Protection"
-msgstr "A retención de datos persoais"
+msgstr "Protección de datos persoais"
 
 #: wllegal/templates/legal/documents/tos.html:603
 #, python-format
@@ -1793,12 +1791,9 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:647
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 15th May 2023."
 msgid "These Terms enter into force on November 1, 2024."
 msgstr ""
-"Estas Condicións do Servizo terán efecto a partir do 15 de maio de 2023."
+"Estas Condicións do Servizo terán efecto a partir do 1 de novembro de 2024."
 
 #, python-format
 #~ msgid ""
