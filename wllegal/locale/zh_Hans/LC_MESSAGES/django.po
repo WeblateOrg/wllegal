@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-11-26 07:06+0000\n"
+"PO-Revision-Date: 2024-11-28 03:00+0000\n"
 "Last-Translator: 大王叫我来巡山 <hamburger2048@users.noreply.hosted.weblate."
 "org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
@@ -642,6 +642,9 @@ msgid ""
 "Policy will be resolved before the competent civil court in the Czech "
 "Republic."
 msgstr ""
+"提供者和用户间所有出自本政策的法律关系均受捷克共和国有效法律的管制。任何提供"
+"者和用户间出自本政策或与本政策关联的纠纷将在捷克共和国内有法定资格的民事法庭"
+"中解决。"
 
 #: wllegal/templates/legal/documents/privacy.html:280
 msgid ""
@@ -654,6 +657,10 @@ msgid ""
 "Council (EC) No. 593/2008 of June 17, 2008, on the law applicable to "
 "contractual obligations (Rome I)."
 msgstr ""
+"如果合约建立的关系包含国际（外国）因素，那么根据前一句的法律选择不剥夺用户-消"
+"费者由法律指令的条款所提供的保护。合约不得背离这些这些条款，否则依照欧洲议会"
+"和理事会2008年6月17日第593/2008号条例第6(1)款关于适用于合同义务的法律（罗马一"
+"指令）的规定，在没有法律选择的情况下，这些条款将变得适用。"
 
 #: wllegal/templates/legal/documents/privacy.html:284
 msgid ""
@@ -663,14 +670,17 @@ msgid ""
 "provision does not affect the validity of the other provisions of this "
 "Policy."
 msgstr ""
+"如果本政策的任何条款无效力或者不奏效，或者变得如此，那么在含义上最接近无效条"
+"款的条款会替代无效的条款。一则条款的无效或不奏效不影响本政策其他条款的有效性"
+"。"
 
 #: wllegal/templates/legal/documents/privacy.html:288
 msgid "This Policy become effective upon their publication on the Website."
-msgstr ""
+msgstr "本政策自发布于网站之时起奏效。"
 
 #: wllegal/templates/legal/documents/privacy.html:292
 msgid "In Prague on November 1, 2024."
-msgstr ""
+msgstr "2024年11月1日于布拉格。"
 
 #: wllegal/templates/legal/documents/summary.html:5
 msgid ""
@@ -731,12 +741,15 @@ msgid ""
 "Services and Products. These general terms and conditions govern the "
 "contractual relationship between the service provider and the User."
 msgstr ""
+"这些一般条款和条件是用户和提供者间达成的服务协议不可分割的一部分（"
+"下文中称为\"<strong>协议</strong>\"）并且定义了服务和产品的提供及使用的有约束"
+"力的规则和条件。这些一般条款和条件管理服务提供者和用户间的合约关系。"
 
 #: wllegal/templates/legal/documents/tos.html:24
 msgid ""
 "The definitions below have the following meanings for the purposes of these "
 "general terms and conditions:"
-msgstr ""
+msgstr "以下定义出于这些一般条款和条件的目的有下列含义："
 
 #: wllegal/templates/legal/documents/tos.html:30
 msgid "Civil Code"
@@ -748,11 +761,11 @@ msgstr "指修正后的民法典第 89/2012号法案；"
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
-msgstr ""
+msgstr "合约方"
 
 #: wllegal/templates/legal/documents/tos.html:40
 msgid "jointly refers to the User and the Provider;"
-msgstr ""
+msgstr "共同指用户和提供者；"
 
 #: wllegal/templates/legal/documents/tos.html:44
 msgid "Cookies"
@@ -766,16 +779,19 @@ msgid ""
 "Coll., on Certain Information Society Services and Amending Certain Acts, as "
 "amended;"
 msgstr ""
+"指从服务的 web 服务器发送到用户的计算机或其他连接互联网设备的任何数据，依照 "
+"Act No. 480/2004 Coll 修正案有关特定信息社会服务和修改某些法案的 Section "
+"89，这些数据可以对用户的网络浏览器进行唯一识别；"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Dedicated Weblate"
-msgstr ""
+msgstr "专用的 Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:54
 msgid ""
 "means a form of collaboration where the User is the sole user of the Service "
 "in a cloud hosted and provided by the Provider;"
-msgstr ""
+msgstr "指一种协作形式，其中用户是提供者托管并提供的云中的服务的唯一用户；"
 
 #: wllegal/templates/legal/documents/tos.html:58
 msgid "GDPR"
@@ -789,17 +805,17 @@ msgstr "指欧盟第679/2016号条例，个人数据保护一般条例；"
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
-msgstr ""
+msgstr "GTC"
 
 #: wllegal/templates/legal/documents/tos.html:68
 msgid ""
 "means these general terms and conditions, which form an integral part of the "
 "Agreement;"
-msgstr ""
+msgstr "表示这些通用条款和条件，它们形成本协议不可或缺的一部分；"
 
 #: wllegal/templates/legal/documents/tos.html:72
 msgid "Hosted String"
-msgstr ""
+msgstr "托管的字符串"
 
 #: wllegal/templates/legal/documents/tos.html:75
 msgid ""
@@ -816,11 +832,12 @@ msgid ""
 "means a form of collaboration that is purely cloud-based, where the Provider "
 "provides Services to Users on a non-dedicated (i.e., shared by multiple "
 "Users) cloud operated by the Provider;"
-msgstr ""
+msgstr "表示一种完全基于云的协作形式，其中提供者在非专用的（即由多名用户分享的）的由"
+"提供者运营的云上向用户提供服务；"
 
 #: wllegal/templates/legal/documents/tos.html:86
 msgid "License"
-msgstr "许可协议"
+msgstr "许可证"
 
 #: wllegal/templates/legal/documents/tos.html:89
 msgid ""
@@ -841,38 +858,39 @@ msgstr "指欧盟法规679/2016中定义的个人数据，由用户在服务和/
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
 msgid "Price"
-msgstr ""
+msgstr "价格"
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid ""
 "the value expressed in money for the provided License in accordance with the "
 "Price List;"
-msgstr ""
+msgstr "依据价格清单以金钱表示的所提供许可证的价值；"
 
 #: wllegal/templates/legal/documents/tos.html:107
 msgid "Price List"
-msgstr ""
+msgstr "价格清单"
 
 #: wllegal/templates/legal/documents/tos.html:110
 msgid ""
 "means the document or web page that specifies the Price of the Service and/"
 "or Product unless otherwise stated in the Agreement;"
-msgstr ""
+msgstr "表示明确服务和/或产品价格的文档或网页，除非本协议另有规定；"
 
 #: wllegal/templates/legal/documents/tos.html:114
 msgid "Product"
-msgstr ""
+msgstr "产品"
 
 #: wllegal/templates/legal/documents/tos.html:117
 msgid ""
 "means any service or part thereof provided under a certain brand of the "
 "Provider based on its brand usage policy. The User purchases the Product AS "
 "IS. Support and other services are provided separately;"
-msgstr ""
+msgstr "表示根据提供者的品牌使用政策在提供者特定品牌下提供的任何服务或其中的某一部分"
+"。用户购买的是产品本身。支持和其他服务另外提供；"
 
 #: wllegal/templates/legal/documents/tos.html:121
 msgid "Provider"
-msgstr "提供商"
+msgstr "提供者"
 
 #: wllegal/templates/legal/documents/tos.html:124
 msgid ""
@@ -881,6 +899,9 @@ msgid ""
 "the Commercial Register maintained by the Regional Court in Ústí nad Labem, "
 "file no. C 52324, with which the Agreement was concluded;"
 msgstr ""
+"指与之达成本协议的公司 <strong>Weblate s.r.o.</strong>，ID 编号 21668027，"
+"注册办公室位于 Nábřežní 694, Cvikov II, 471 54 Cvikov，注册在由 Ústí nad "
+"Labem 地区法院维护的商业登记簿中，文件编号 C 52324；"
 
 #: wllegal/templates/legal/documents/tos.html:128
 msgid "Service"
