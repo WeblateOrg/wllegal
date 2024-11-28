@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-11-26 03:26+0000\n"
+"PO-Revision-Date: 2024-11-29 04:00+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/weblate/legal/it/"
 ">\n"
@@ -70,6 +70,10 @@ msgid ""
 "the Commercial Register kept by the Regional Court in Ústí nad Labem, file "
 "No. C 52324, i.e. the \"<strong>Provider</strong>\"."
 msgstr ""
+"La presente Informativa è stata rilasciata da Weblate s.r.o., con Partita "
+"IVA: 21668027, con sede legale a Nábřežní 694, Cvikov II, 471 54 Cvikov, "
+"registrata nel Registro delle Imprese tenuto dal Tribunale Regionale di Ústí "
+"nad Labem, al numero C 52324, ovvero il \"<strong>Fornitore</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid ""
@@ -78,6 +82,10 @@ msgid ""
 "the Services, Products, Support Services, as well as when using the Website "
 "and other possible services and related activities."
 msgstr ""
+"La presente Informativa descrive come il Fornitore tratta i Dati Personali "
+"degli Utenti in qualità di interessati - persone fisiche nell'accesso e "
+"successivo utilizzo dei Servizi, Prodotti, Servizi di Supporto, nonché "
+"nell'utilizzo del Sito Web e di altri eventuali servizi e attività correlate."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid ""
@@ -85,6 +93,9 @@ msgid ""
 "in Article 1 of the Terms and which have the same meaning as set out in the "
 "Terms."
 msgstr ""
+"La presente Informativa utilizza inoltre alcuni termini o definizioni che "
+"sono stati definiti all'Articolo 1 dei Termini e che hanno lo stesso "
+"significato come indicato nei Termini."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
@@ -97,6 +108,14 @@ msgid ""
 "personal data and the protection of privacy in the electronic communications "
 "sector (abbreviated as the \"<strong>ePrivacy Directive</strong>\")."
 msgstr ""
+"Nel trattamento dei Dati Personali, il Fornitore rispetta il Regolamento (UE)"
+" 2016/679 del Parlamento Europeo e del Consiglio, il Regolamento generale "
+"sulla protezione dei dati, noto anche come GDPR (di seguito utilizzeremo "
+"l'abbreviazione \"<strong>GDPR\"), legge n. 110/2019 Coll., sul trattamento "
+"dei Dati Personali, nonché direttiva 2002/58/CE del Parlamento europeo e del "
+"Consiglio del 12 luglio 2002 relativa al trattamento dei Dati Personali e "
+"alla tutela della vita privata nel settore delle comunicazioni elettroniche ("
+"abbreviata come “<strong>Direttiva ePrivacy</strong>”).</strong>."
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -106,6 +125,12 @@ msgid ""
 "registers for the Provider's newsletter and/or when the Provider and the "
 "User conclude the Contract, whichever is the earliest."
 msgstr ""
+"L'effettivo trattamento dei Dati Personali degli Utenti è sempre effettuato "
+"solo per le finalità e alle condizioni definite più dettagliatamente nella "
+"presente Informativa e inizia nel momento in cui l'Utente visita il Sito "
+"Web, quando l'Utente si registra alla newsletter del Fornitore e/o quando il "
+"Fornitore e l'Utente concludono il Contratto, a seconda di quale evento si "
+"verifichi per primo."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid ""
@@ -114,6 +139,10 @@ msgid ""
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
 msgstr ""
+"Il trattamento viene quindi effettuato direttamente dal Fornitore e/o da "
+"soggetti terzi ai sensi dell'articolo 3 della presente Informativa che sono "
+"stati autorizzati dal Fornitore al trattamento dei Dati Personali in "
+"conformità alla presente Informativa."
 
 #: wllegal/templates/legal/documents/privacy.html:45
 msgid ""
@@ -121,54 +150,66 @@ msgid ""
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
+"Se non diversamente specificato nella presente Informativa, il Fornitore "
+"agisce come <strong>responsabile del trattamento dei dati</strong> e gli "
+"Utenti che sono persone fisiche agiscono come interessati poiché questi "
+"ruoli sono definiti nel GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "Ambito, finalità e durata del trattamento"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
 msgstr ""
-"Il fornitore tratta i dati personali dell'utente per le seguenti finalità:"
+"Il Fornitore tratta i Dati Personali dell'Utente per le seguenti finalità:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "adempiere al Contratto ai sensi dell’Articolo 6(1)(b) del GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "negoziazione del contratto ai sensi dell'articolo 6(1)(b) del GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
 msgstr ""
+"adempiere agli obblighi legali del Fornitore ai sensi dell'articolo 6(1)(c) "
+"del GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, "
 "and in selected cases also"
 msgstr ""
+"i legittimi interessi del Fornitore ai sensi dell'articolo 6(1)(f) del GDPR "
+"e, in casi selezionati, anche"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
 msgstr ""
+"consenso prestato dall'Utente ai sensi dell'articolo 6, paragrafo 1, lettera "
+"a), del GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
 msgstr ""
+"L'ambito dei Dati Personali dell'Utente trattati dal Fornitore comprende "
+"quanto segue:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr ""
+msgstr "nome e cognome,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr ""
+msgstr "Indirizzo dell'utente (consegna e fatturazione),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
@@ -179,10 +220,12 @@ msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, Xu, and others),"
 msgstr ""
+"nickname (incluse eventuali piattaforme collegate volontariamente come "
+"Liberapay, GitHub, Xu e altre),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr ""
+msgstr "L'avatar dell'Utente,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
 msgid "email address(es),"
@@ -194,15 +237,19 @@ msgid ""
 "openSUSE, and Ubuntu in the event that accounts with these providers are "
 "linked to the User account,"
 msgstr ""
+"identificatori per Bitbucket, Facebook, Google, LinkedIn, GitHub, GitLab, "
+"openSUSE e Ubuntu nel caso in cui gli account con questi provider siano "
+"collegati all'account Utente,"
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
-msgstr ""
+msgstr "specifiche del Servizio e del Prodotto utilizzato dall'Utente,"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
 msgstr ""
+"informazioni sul numero dei membri del team dell'Utente e sui loro ruoli,"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
@@ -210,35 +257,48 @@ msgid ""
 "Profile), i.e., settings for languages, notifications, if they can identify "
 "the User directly or indirectly,"
 msgstr ""
+"tutte le altre impostazioni dell'utente dell'account Utente (incluso il "
+"cosiddetto profilo), ovvero le impostazioni per le lingue, le notifiche, se "
+"possono identificare l'utente direttamente o indirettamente,"
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
 msgstr ""
+"numero di conto bancario ed eventualmente altri dati di pagamento "
+"dell'Utente,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "indirizzo o indirizzi del portafoglio di criptovaluta,"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
 "other personal data contained in messages sent by the User to the Provider "
 "(especially the subject and other content of the message),"
 msgstr ""
+"altri Dati Personali contenuti nei messaggi inviati dall'Utente al Fornitore "
+"(in particolare l'oggetto e gli altri contenuti del messaggio),"
 
 #: wllegal/templates/legal/documents/privacy.html:120
 msgid ""
 "other personal data contained in communications with the Provider's support,"
 msgstr ""
+"altri Dati Personali contenuti nelle comunicazioni con il supporto del "
+"Fornitore,"
 
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
 msgstr ""
+"dati di sistema, registri e registri di sessione, incluso l'indirizzo IP "
+"dell'Utente,"
 
 #: wllegal/templates/legal/documents/privacy.html:128
 msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
+"dove le singole categorie di Dati Personali sopra elencate continueranno ad "
+"essere collettivamente denominate \"<strong>Dati Personali</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -251,6 +311,15 @@ msgid ""
 "under the conditions and based on a separate data processing agreement (so-"
 "called processing agreement) concluded between the Provider and the User."
 msgstr ""
+"In alcuni casi, il Fornitore <strong>può anche essere un responsabile del "
+"trattamento dei Dati Personali</strong>, vale a dire quando i Dati Personali "
+"di terzi gli vengono forniti dall'Utente per i propri scopi (ad esempio, nel "
+"caso di aggiunta di singoli team membri, donare un progetto al Fornitore per "
+"conto di un'altra persona, ecc.). Il trattamento dei Dati Personali "
+"selezionati di terzi resi accessibili dall'Utente avviene in questo caso "
+"sotto la direzione dell'Utente, alle condizioni e sulla base di un accordo "
+"separato sul trattamento dei dati (il cosiddetto accordo di elaborazione) "
+"concluso tra il Fornitore e l'Utente."
 
 #: wllegal/templates/legal/documents/privacy.html:136
 msgid ""
@@ -276,6 +345,31 @@ msgid ""
 "the User's instructions unless the Provider has another legal basis for "
 "processing personal data as a controller under Article 2.1 of this Policy."
 msgstr ""
+"Il Fornitore tratta i Dati Personali fino all’adempimento di tutti gli "
+"obblighi derivanti dal Contratto. Al momento della chiusura dell'account da "
+"parte del Fornitore e/o della cancellazione dell'account da parte "
+"dell'Utente, tutti i Dati Personali e gli altri dati immessi nel Servizio "
+"verranno cancellati, ad eccezione dei Dati Personali selezionati menzionati "
+"di seguito; il Fornitore pertanto <strong>raccomanda vivamente di eseguire "
+"il backup</strong> di tutti i dati inseriti nel Servizio prima di cancellare "
+"l'account dell'Utente e non è responsabile della loro perdita dopo la "
+"chiusura dell'account dell'Utente, anche se è stato chiuso legittimamente "
+"dal Fornitore. I Dati Personali indicati sulle fatture vengono conservati "
+"dal Fornitore almeno per i periodi di conservazione previsti dalla legge, "
+"ovvero per un periodo di 10 anni. Nei casi in cui ciò sia necessario per la "
+"difesa delle pretese del Fornitore e/o per la difesa contro pretese di terzi "
+"(compresi eventuali procedimenti avviati da autorità pubbliche), il "
+"Fornitore potrà conservare anche alcuni altri Dati Personali, ma sempre per "
+"un periodo massimo pari al termine di prescrizione delle singole pretese e/o "
+"fino alla conclusione definitiva dei procedimenti selezionati. La durata "
+"specifica non può essere definita con precisione e varia a seconda del tipo "
+"di controversia, dei termini di prescrizione e del ritmo dei tribunali o "
+"delle autorità pubbliche selezionati. I dati che il Fornitore elabora solo "
+"in qualità di responsabile del trattamento dei dati dell'Utente vengono "
+"elaborati per il periodo specificato dalle istruzioni dell'Utente, a meno "
+"che il Fornitore non abbia un'altra base legale per il trattamento dei Dati "
+"Personali come responsabile del trattamento ai sensi dell'Articolo 2.1 della "
+"presente Politica."
 
 #: wllegal/templates/legal/documents/privacy.html:140
 #, python-format
@@ -295,6 +389,21 @@ msgid ""
 "consent granted otherwise, by sending a request to <a href=\"mailto:"
 "%(address)s\">%(address)s</a>."
 msgstr ""
+"Il Fornitore potrà inoltre trattare Dati Personali selezionati dell'Utente, "
+"in particolare email, nome, cognome ed eventuali altri Dati Personali (se "
+"forniti per tali finalità) sulla base del consenso <strong>volontario ed "
+"informato</strong> dell'Utente. . Il trattamento dura un periodo di "
+"<strong>2 anni</strong> e/o fino a revoca del consenso. L'utilizzo del "
+"Servizio o del Prodotto (inclusi i Servizi di Assistenza) <strong>mai</"
+"strong> è condizionato alla prestazione del consenso. Il consenso è, "
+"tuttavia, tipicamente richiesto per l'invio di newsletter a soggetti "
+"interessati che non sono ancora Utenti, o per fornire bonus selezionati o "
+"materiali bonus non collegati ad altri servizi del Fornitore e/o per la "
+"divulgazione dei Dati Personali dell'Utente in relazione ad un donazione "
+"fatta al Fornitore. La revoca può essere effettuata in qualsiasi momento "
+"direttamente nell'interfaccia dell'account Utente e, in caso di consenso "
+"diversamente concesso, inviando una richiesta a <a href=\"mailto:%(address)"
+"s\">%(address)s</a>."
 
 #: wllegal/templates/legal/documents/privacy.html:144
 msgid ""
@@ -303,10 +412,14 @@ msgid ""
 "selected Personal Data based on a different legal reason if this legal "
 "reason in favour of the Provider continues to exist."
 msgstr ""
+"Una volta cessato il motivo del trattamento dei Dati Personali, il Fornitore "
+"distruggerà i Dati Personali. Ciò non esclude l'ulteriore trattamento dei "
+"Dati Personali selezionati sulla base di un motivo giuridico diverso se tale "
+"motivo giuridico a favore del Fornitore continua a esistere."
 
 #: wllegal/templates/legal/documents/privacy.html:149
 msgid "Recipients and Processors of Personal Data"
-msgstr "Destinatari e responsabili del trattamento dei dati personali"
+msgstr "Destinatari e Responsabili del trattamento dei Dati Personali"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -315,12 +428,18 @@ msgid ""
 "proper processing of Personal Data for the purposes defined in Article 2.1 "
 "of this Policy, specifically:"
 msgstr ""
+"Oltre al Fornitore, anche soggetti terzi selezionati ricevono e trattano i "
+"Dati Personali sulla base della presente Informativa, il cui coinvolgimento "
+"è necessario per il corretto trattamento dei Dati Personali per le finalità "
+"definite nell'Articolo 2.1 della presente Informativa, in particolare:"
 
 #: wllegal/templates/legal/documents/privacy.html:158
 msgid ""
 "hosting provider (including web hosting and mail hosting services), "
 "currently this is <strong>Hetzner Online GmbH</strong>;"
 msgstr ""
+"fornitore di hosting (inclusi servizi di web hosting e hosting di posta), "
+"attualmente si tratta di <strong>Hetzner Online GmbH</strong>;"
 
 #: wllegal/templates/legal/documents/privacy.html:161
 msgid ""
@@ -328,24 +447,33 @@ msgid ""
 "possibly operators of other services used in connection with the payment of "
 "any payments related to billing;"
 msgstr ""
+"operatori del gateway di pagamento <strong>ThePay.cz, s.r.o.</strong> ed "
+"eventualmente operatori di altri servizi utilizzati in relazione al "
+"pagamento di eventuali pagamenti relativi alla fatturazione;"
 
 #: wllegal/templates/legal/documents/privacy.html:164
 msgid ""
 "accounting, legal, and tax advisors of the Provider and possibly other "
 "persons bound by confidentiality under the law;"
 msgstr ""
+"consulenti contabili, legali e fiscali del Fornitore ed eventualmente altri "
+"soggetti tenuti al segreto per legge;"
 
 #: wllegal/templates/legal/documents/privacy.html:167
 msgid ""
 "C-level and other managerial employees employed by or otherwise "
 "collaborating with the Provider;"
 msgstr ""
+"Dipendenti di livello C e altri dirigenti impiegati o che collaborano in "
+"altro modo con il Fornitore;"
 
 #: wllegal/templates/legal/documents/privacy.html:170
 msgid ""
 "selected contractors of the Provider who are involved in providing services "
 "to Users and who are also bound by confidentiality;"
 msgstr ""
+"appaltatori selezionati del Fornitore che sono coinvolti nella fornitura di "
+"servizi agli Utenti e che sono anche vincolati alla riservatezza;"
 
 #: wllegal/templates/legal/documents/privacy.html:173
 msgid ""
@@ -353,6 +481,9 @@ msgid ""
 "the Service, Products, Support Services, and/or to ensure any other "
 "activities related to the above;"
 msgstr ""
+"qualsiasi altro soggetto il cui coinvolgimento sia necessario per la "
+"corretta fornitura del Servizio, dei Prodotti, dei Servizi di Assistenza e/o "
+"per garantire qualsiasi altra attività correlata a quanto sopra;"
 
 #: wllegal/templates/legal/documents/privacy.html:178
 msgid ""
@@ -404,6 +535,12 @@ msgid ""
 "480/2004 Coll. on Certain Information Society Services, if they directly "
 "relate to these Services, Products, and/or Support Services."
 msgstr ""
+"Le e-mail inviate agli Utenti in relazione alla fornitura del Servizio, "
+"Prodotto e/o Servizi di Supporto non sono considerate comunicazioni "
+"commerciali non richieste ai sensi della legge n. 40/1995 Coll. sulla "
+"pubblicità e legge n. 480/2004 Coll. su determinati servizi della società "
+"dell'informazione, se si riferiscono direttamente a tali servizi, prodotti e/"
+"o servizi di supporto."
 
 #: wllegal/templates/legal/documents/privacy.html:207
 msgid ""
@@ -459,7 +596,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:232
 msgid "User Rights in Relation to Personal Data"
-msgstr "Diritti dell'utente in relazione ai dati personali"
+msgstr "Diritti dell'utente in relazione ai Dati Personali"
 
 #: wllegal/templates/legal/documents/privacy.html:236
 #, python-format
@@ -510,7 +647,7 @@ msgid ""
 "on the consent of the Provider or in connection with fulfilling the "
 "Provider's contractual obligations, in a machine-readable format;"
 msgstr ""
-"emissione di una copia dei dati personali trattati con mezzi automatizzati "
+"emissione di una copia dei Dati Personali trattati con mezzi automatizzati "
 "sulla base del consenso del fornitore o in connessione con l'adempimento "
 "degli obblighi contrattuali del fornitore, in un formato leggibile da "
 "macchina;"
@@ -588,7 +725,7 @@ msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"Noi elaboriamo i dati personali (come l'indirizzo e-mail), che verranno "
+"Noi elaboriamo i Dati Personali (come l'indirizzo e-mail), che verranno "
 "eliminati dal nostro database non appena rimuoverai il tuo account."
 
 #: wllegal/templates/legal/documents/summary.html:8
@@ -711,7 +848,7 @@ msgid ""
 "Protection;"
 msgstr ""
 "indica il Regolamento UE n. 679/2016, Regolamento generale sulla protezione "
-"dei dati personali;"
+"dei Dati Personali;"
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
@@ -765,14 +902,14 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:93
 msgid "Personal Data"
-msgstr "Dati personali"
+msgstr "Dati Personali"
 
 #: wllegal/templates/legal/documents/tos.html:96
 msgid ""
 "means personal data as defined in EU Regulation 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"indica i dati personali come definiti nel Regolamento UE 679/2016, inseriti "
+"indica i Dati Personali come definiti nel Regolamento UE 679/2016, inseriti "
 "dall'utente nel servizio e/o nei cookie;"
 
 #: wllegal/templates/legal/documents/tos.html:100
@@ -857,7 +994,7 @@ msgid ""
 "agreement;"
 msgstr ""
 "indica il supporto gestito dal fornitore all'utente all'interno del "
-"servizio. I servizi di supporto sono disciplinati separatamente da un "
+"servizio. I Servizi di supporto sono disciplinati separatamente da un "
 "contratto di servizio di supporto separato;"
 
 #: wllegal/templates/legal/documents/tos.html:149
@@ -1077,6 +1214,17 @@ msgid ""
 "prepaid Services were prepaid for a period exceeding the actual usage "
 "period, the conditions of such a refund will be agreed upon individually."
 msgstr ""
+"Il Fornitore non rimborsa NESSUN denaro per Servizi, Servizi di supporto e/o "
+"qualsiasi altro servizio fornito ai sensi del Contratto e delle presenti "
+"Condizioni Generali se sono stati forniti prima della cancellazione di tali "
+"Servizi da parte dell'Utente. L'annullamento dell'ordine dopo il pagamento è "
+"possibile previo accordo se il Servizio ordinato non è stato utilizzato o "
+"non è stato effettuato alcun tentativo di scaricarlo. Se è stato effettuato "
+"un tentativo di download, non avrà luogo alcuna negoziazione e l'Utente non "
+"avrà diritto ad alcun rimborso, sconto o altro compenso monetario. Se i "
+"Servizi prepagati sono stati pagati anticipatamente per un periodo superiore "
+"al periodo di utilizzo effettivo, le condizioni di tale rimborso saranno "
+"concordate individualmente."
 
 #: wllegal/templates/legal/documents/tos.html:282
 msgid ""
@@ -1377,6 +1525,9 @@ msgid ""
 "right to request Support Services from the Supplier, as specified in the "
 "Price list."
 msgstr ""
+"A seconda della variante di Servizio riportata nel Listino Prezzi, l'Utente "
+"ha il diritto di richiedere al Fornitore i Servizi di Assistenza, come "
+"specificato nel Listino Prezzi."
 
 #: wllegal/templates/legal/documents/tos.html:407
 msgid ""
@@ -1716,7 +1867,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:599
 msgid "Personal Data Protection"
-msgstr "Protezione dei dati personali"
+msgstr "Protezione dei Dati Personali"
 
 #: wllegal/templates/legal/documents/tos.html:603
 #, python-format
