@@ -6,13 +6,13 @@
 # Stanisław Krukowski <pet209a1@riseup.net>, 2018.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-11-19 14:16+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Polish <https://hosted.weblate.org/projects/weblate/legal/pl/"
-">\n"
+"PO-Revision-Date: 2024-11-30 13:00+0000\n"
+"Last-Translator: WaldiS <sto@tutanota.de>\n"
+"Language-Team: Polish <https://hosted.weblate.org/projects/weblate/legal/pl/>"
+"\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -26,10 +26,8 @@ msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "Podwykonawcy zgodnie z Art. 28 RODO"
 
 #: wllegal/templates/legal/documents/contracts.html:11
-#, fuzzy
-#| msgid "Status as of March 2023."
 msgid "Status as of May 2024."
-msgstr "Stan na marzec 2023."
+msgstr "Stan na maj 2024 r."
 
 #: wllegal/templates/legal/documents/privacy.html:5
 msgid ""
@@ -55,7 +53,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
 msgid "Introductory Provisions"
-msgstr ""
+msgstr "Postanowienia wstępne"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
@@ -64,6 +62,10 @@ msgid ""
 "the Commercial Register kept by the Regional Court in Ústí nad Labem, file "
 "No. C 52324, i.e. the \"<strong>Provider</strong>\"."
 msgstr ""
+"Niniejsza Polityka została wydana przez Weblate s.r.o., nr identyfikacyjny: "
+"21668027, z siedzibą pod adresem Nábřežní 694, Cvikov II, 471 54 Cvikov, "
+"zarejestrowaną w Rejestrze Handlowym prowadzonym przez Sąd Okręgowy w Ústí "
+"nad Labem, sygn. akt C 52324, tj."
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid ""
@@ -72,6 +74,11 @@ msgid ""
 "the Services, Products, Support Services, as well as when using the Website "
 "and other possible services and related activities."
 msgstr ""
+"Niniejsza Polityka opisuje, w jaki sposób Dostawca postępuje z danymi "
+"osobowymi Użytkowników jako podmiotów danych - osób prywatnych podczas "
+"uzyskiwania dostępu i późniejszego korzystania z Usług, Produktów, Usług "
+"wsparcia, a także podczas korzystania z Witryny i innych możliwych usług i "
+"powiązanych działań."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid ""
@@ -79,6 +86,9 @@ msgid ""
 "in Article 1 of the Terms and which have the same meaning as set out in the "
 "Terms."
 msgstr ""
+"Niniejsza Polityka wykorzystuje również pewne terminy lub definicje, które "
+"zostały zdefiniowane w Artykule 1 Warunków i które mają takie samo "
+"znaczenie, jak określone w Warunkach."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
@@ -118,12 +128,12 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "Zakres, cele i czas trwania przetwarzania danych"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
-msgstr ""
+msgstr "Dostawca przetwarza dane osobowe Użytkownika w następujących celach:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
@@ -157,7 +167,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr ""
+msgstr "imię i nazwisko,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
@@ -165,7 +175,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr ""
+msgstr "Identyfikator firmy i numer identyfikacji podatkowej,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
