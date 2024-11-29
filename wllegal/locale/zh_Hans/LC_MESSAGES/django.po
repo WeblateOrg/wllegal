@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-11-28 03:00+0000\n"
+"PO-Revision-Date: 2024-11-29 04:00+0000\n"
 "Last-Translator: 大王叫我来巡山 <hamburger2048@users.noreply.hosted.weblate."
 "org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
@@ -914,13 +914,13 @@ msgstr "指以提供商提供的 Weblate 为基础的站点和服务；"
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid "Self-hosting"
-msgstr ""
+msgstr "自托管"
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid ""
 "means a form of collaboration where the User is the sole user of the "
 "Service, and this Service is operated directly on the User Server;"
-msgstr ""
+msgstr "表示一种协作形式，其中用户是服务的唯一用户，此服务直接运行在用户服务器上；"
 
 #: wllegal/templates/legal/documents/tos.html:142
 msgid "Support Services"
@@ -931,7 +931,7 @@ msgid ""
 "means the support provided by the Provider to the User within the Service. "
 "Support Services are governed separately by a separate support service "
 "agreement;"
-msgstr ""
+msgstr "表示提供者在服务内向用户提供的支持。支持服务由单独的支持服务协议分开管理；"
 
 #: wllegal/templates/legal/documents/tos.html:149
 msgid "Translation Memory"
@@ -953,35 +953,36 @@ msgstr "指提供商之外的任何使用该服务的法律实体或自然人；
 
 #: wllegal/templates/legal/documents/tos.html:163
 msgid "User Account"
-msgstr ""
+msgstr "用户账户"
 
 #: wllegal/templates/legal/documents/tos.html:166
 msgid ""
 "means a user account with a unique access code and password in the Hosted "
 "Weblate web interface. Each User Account can be used by only one User;"
-msgstr ""
+msgstr "表示在 Hosted Weblate "
+"网页界面中有唯一访问代码和密码的用户账户。每个用户账户只能由一名用户使用；"
 
 #: wllegal/templates/legal/documents/tos.html:170
 msgid "User Server"
-msgstr ""
+msgstr "用户服务器"
 
 #: wllegal/templates/legal/documents/tos.html:173
 msgid ""
 "refers to the server and other hardware equipment not owned, managed, or "
 "controlled by the Provider;"
-msgstr ""
+msgstr "指非提供者所有、管理或控制的服务器和其他硬件设备；"
 
 #: wllegal/templates/legal/documents/tos.html:179
 msgid "Methods of Acceptance"
-msgstr ""
+msgstr "接受方法"
 
 #: wllegal/templates/legal/documents/tos.html:183
 msgid "The License is granted to the User based on the concluded Agreement."
-msgstr ""
+msgstr "基于达成的协议将许可证授予用户。"
 
 #: wllegal/templates/legal/documents/tos.html:187
 msgid "These GTC are an integral part of the Agreement."
-msgstr ""
+msgstr "这些 GTC 是本协议不可分割的一部分。"
 
 #: wllegal/templates/legal/documents/tos.html:191
 msgid "The Agreement is concluded:"
@@ -991,7 +992,7 @@ msgstr "协议达成："
 msgid ""
 "on the day of signing by both parties (especially for all Services offered "
 "with custom settings);"
-msgstr ""
+msgstr "在双方均签署的那一天（尤其对于所有以自定义设置提供的服务而言）；"
 
 #: wllegal/templates/legal/documents/tos.html:199
 msgid ""
