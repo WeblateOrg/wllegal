@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-11-29 04:00+0000\n"
+"PO-Revision-Date: 2024-11-30 13:00+0000\n"
 "Last-Translator: 大王叫我来巡山 <hamburger2048@users.noreply.hosted.weblate."
 "org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
@@ -1003,10 +1003,13 @@ msgid ""
 "Provider's bank account) for the amount stated in the first billing period "
 "by the User."
 msgstr ""
+"根据价格清单，通过网络界面在线接受（确认），一旦用户以首个计费周期的金额按时"
+"支付了许可证的价格，那么协议就变得有效（至于银行转账，则为一旦对应许可证价格"
+"的金额被存入提供者的银行账户）。"
 
 #: wllegal/templates/legal/documents/tos.html:207
 msgid "Service Provision"
-msgstr ""
+msgstr "服务提供"
 
 #: wllegal/templates/legal/documents/tos.html:211
 msgid ""
@@ -1014,7 +1017,8 @@ msgid ""
 "Product specification and its subdomains or on the User's Servers in "
 "accordance with the Agreement and the technical specifications outlined in "
 "the Product specification."
-msgstr ""
+msgstr "提供者在产品规格中指定的互联网地址及其子域名上，或者依据协议和产品规格中概述"
+"的技术规范在用户的服务器上运营服务。"
 
 #: wllegal/templates/legal/documents/tos.html:215
 msgid ""
@@ -1025,12 +1029,15 @@ msgid ""
 "specification defined in this manner takes precedence over the form of "
 "Service offered according to the Price list."
 msgstr ""
+"如果协议在 Article 2.3(a) 下达成，那么服务范围在协议附加的产品规格中定义。产"
+"品规格可以进一步详细说明关于单项（子）服务内容和激活方法的范围。用这种方法定"
+"义的产品规格的优先级高于根据价格清单提供的服务形式。"
 
 #: wllegal/templates/legal/documents/tos.html:219
 msgid ""
 "The Service is provided in three forms of cooperation: Hosted Weblate, "
 "Dedicated Weblate, and Self-hosting."
-msgstr ""
+msgstr "服务以三种合作形式提供：Hosted Weblate、专用 Weblate 和自托管。"
 
 #: wllegal/templates/legal/documents/tos.html:223
 msgid ""
@@ -1043,6 +1050,10 @@ msgid ""
 "third parties may process Personal Data within their activities in "
 "accordance with the Agreement and GPLv3."
 msgstr ""
+"根据 GPLv3 协议，服务的某些方面可以用非提供者的第三方协助的形式提供或者直接由"
+"这些第三方提供。用户确认这些第三方将按照本协议和 GPLv3 许可证提供它们的服务。"
+"用户确认参与到提供服务的第三方在服务提供期间可能会发生改变。"
+"这些第三方可以按照本协议和 GPLv3 许可证处理它们活动中的个人数据。"
 
 #: wllegal/templates/legal/documents/tos.html:227
 msgid "Service Duration"
@@ -1054,7 +1065,8 @@ msgid ""
 "concluded for a period corresponding to a subscription model. The "
 "subscription can be paid monthly or annually in accordance with Article 5 of "
 "the GTC."
-msgstr ""
+msgstr "除非在协议中另有明确约定，否则本协议的订立期限与订阅模式相对应。根据 GTC 第 "
+"5 款，订阅可以月付或年付。"
 
 #: wllegal/templates/legal/documents/tos.html:239
 msgid ""
@@ -1066,6 +1078,10 @@ msgid ""
 "List. The price for Services consists of the following separate items or "
 "their combination, which are paid regularly monthly/annually:"
 msgstr ""
+"服务价格根据出价或价格清单确定。用户确认并同意提供者可以像更改 GTC 一样，单方"
+"面更改价格清单。价格取决于所选则服务配置，服务可以用多种变体提供。这些变体列"
+"举在清单中。服务价格由下列单独项目或它们的组合所组成，项目或组合每月/每月定期"
+"付款："
 
 #: wllegal/templates/legal/documents/tos.html:243
 msgid ""
@@ -1073,14 +1089,16 @@ msgid ""
 "relevant time period and based on the specific conditions of the Service, "
 "but paid monthly or annually, with this price varying for different forms of "
 "collaboration according to the Price List;"
-msgstr ""
+msgstr "访问服务的正常价格始终为相关时间段并基于服务的特定条款而设置，但付款周期为每"
+"月或每年。根据价格清单，不同协作形式的价格各异；"
 
 #: wllegal/templates/legal/documents/tos.html:246
 msgid ""
 "regular price for the number of Hosted Strings; this amount is chosen by the "
 "User from the options offered in the Price List or in agreement with the "
 "Provider;"
-msgstr ""
+msgstr "托管字符串数的正常价格；此数量由用户从价格清单的选项中选择或者由用户和提供者"
+"达成一致后进行选择；"
 
 #: wllegal/templates/legal/documents/tos.html:249
 msgid "regular price for Translation Memory;"
@@ -1090,7 +1108,7 @@ msgstr "翻译记忆库的正常价格；"
 msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
-msgstr ""
+msgstr "（a)、b) 和 c) 点统称为\"<strong>订阅</strong>\"）。"
 
 #: wllegal/templates/legal/documents/tos.html:258
 msgid ""
