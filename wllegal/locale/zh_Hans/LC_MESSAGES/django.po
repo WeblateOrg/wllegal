@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-12-03 05:00+0000\n"
+"PO-Revision-Date: 2024-12-03 09:39+0000\n"
 "Last-Translator: 大王叫我来巡山 <hamburger2048@users.noreply.hosted.weblate."
 "org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
@@ -1115,7 +1115,7 @@ msgid ""
 "To avoid doubt, the Subscription may guarantee either only access to a "
 "specific Product or License and/or a specific package of guaranteed Services."
 msgstr "为了避免疑义，订阅可以只保证一个特定产品或许可证及/或所保证服务的一个特定套餐"
-"的使用权利。"
+"的访问权。"
 
 #: wllegal/templates/legal/documents/tos.html:262
 msgid ""
@@ -1367,7 +1367,7 @@ msgstr "输入到支付网关的付款卡片信息不是由提供者处理的，
 
 #: wllegal/templates/legal/documents/tos.html:342
 msgid "Supplier‘s Rights and Obligations"
-msgstr ""
+msgstr "供应商的权利和义务"
 
 #: wllegal/templates/legal/documents/tos.html:346
 msgid ""
@@ -1402,7 +1402,7 @@ msgstr ""
 "律、法庭命令所要求的，关系到添加新服务，添加额外功能到现有服务，或者任何其他"
 "不减少用户权利或增加用户义务的改动，那么将不进行通知。这类情况下，改动将不事"
 "先通知用户就实现并将即刻生效。如果用户在上述期限内反对条款的改动，那么用户有"
-"权终止协议。任何情况下，用户都可以在上诉期限内接受改动（反对失败代表含蓄地同"
+"权终止协议。任何情况下，用户都可以在上诉期限内接受改动（反对失败代表隐含地同"
 "意改动）或终止协议。"
 
 #: wllegal/templates/legal/documents/tos.html:350
@@ -1410,7 +1410,8 @@ msgid ""
 "The Supplier undertakes to take all steps within its technical capabilities "
 "to ensure the functionality and availability of the Service. The User "
 "acknowledges and agrees that they use the Service at their own risk."
-msgstr ""
+msgstr "供应商承诺采取所有在其技术能力范围内的步骤来确保服务的功能和可用性。用户确认"
+"并同意使用服务风险自负。"
 
 #: wllegal/templates/legal/documents/tos.html:354
 msgid ""
@@ -1418,7 +1419,8 @@ msgid ""
 "include the server environment and defined technical status in the latest "
 "version. The Supplier undertakes to fulfil these requirements and ensure the "
 "proper operation of the Service through its own actions."
-msgstr ""
+msgstr "服务正常运行的基本系统要求摆阔服务器环境和最新版本已定义的技术状态。供应商承"
+"诺满足这些要求并通过自身行动确保服务的正常运行。"
 
 #: wllegal/templates/legal/documents/tos.html:358
 msgid ""
@@ -1431,6 +1433,10 @@ msgid ""
 "Supplier bears no responsibility for any damages incurred by the User in "
 "connection with these events."
 msgstr ""
+"如果用户发现与服务的速度、功能或可用性有关的任何问题，用户有义务将它立即报告"
+"给供应商。用户确认超出供应商控制的事件，比如用户互联网连接失败、自然灾害、"
+"对供应商技术设备的拒绝服务攻击或 DNS 攻击，及其他因素，可能影响服务的功能或可"
+"用性。供应商对用户因这些事件而造成的任何损害不承担责任。"
 
 #: wllegal/templates/legal/documents/tos.html:362
 msgid ""
@@ -1444,19 +1450,25 @@ msgid ""
 "the Service. In the case of planned outages, the Supplier is obligated to "
 "inform the User in advance within a reasonable time."
 msgstr ""
+"用户确认并同意供应商可以出于重要原因暂时中止提供服务，尤其是在诸如防范网络攻"
+"击情况下（有必要时），或在发生绝对有必要进行中断的严重服务故障时。供应商必须"
+"尽快通知用户中断事宜。供应商有义务实施恰当的运营和安全措施最小化潜在的功能故"
+"障或有限的或完全的服务不可用。至于安排好的服务中断，供应商有义务在合理时间内"
+"提前通知用户。"
 
 #: wllegal/templates/legal/documents/tos.html:366
 msgid ""
 "The Supplier agrees not to provide the content of the User's data to third "
 "parties."
-msgstr ""
+msgstr "供应商同意不把用户数据的内容提供给第三方。"
 
 #: wllegal/templates/legal/documents/tos.html:370
 msgid ""
 "The contractual parties agree that the Supplier does not acquire ownership "
 "of the User's data. The User is solely responsible for the content of the "
 "data stored on their Server or the Supplier's server."
-msgstr ""
+msgstr "合约方同意供应商不获得用户数据的所有权。储存在用户服务器或供应商服务器上的数"
+"据的内容完全由用户负责。"
 
 #: wllegal/templates/legal/documents/tos.html:374
 msgid ""
@@ -1464,11 +1476,12 @@ msgid ""
 "is entitled to monitor, using its own resources, whether the User is using "
 "the Service in accordance with the Agreement. The User undertakes to fully "
 "cooperate with the Supplier in such cases."
-msgstr ""
+msgstr "接受这些条款表示用户确认并同意供应商有权试用期自己的自愿监控用户是否在依照协"
+"议使用服务。用户承诺在这些情况下完全配合供应商。"
 
 #: wllegal/templates/legal/documents/tos.html:379
 msgid "User’s Rights and Obligations"
-msgstr ""
+msgstr "用户权利和义务"
 
 #: wllegal/templates/legal/documents/tos.html:383
 msgid ""
@@ -1491,6 +1504,11 @@ msgid ""
 "expand the scope of required personal information but emphasizes the "
 "truthfulness, accuracy, and currency of the information provided by the User."
 msgstr ""
+"要获得服务的访问权限，供应商可以要求用户的特定身份详情和其他信息，但始终仅限"
+"于表单要求的程度。我们的多数用户只被要求提供昵称；不过，如果需要开具发票，那"
+"么额外的法律要求的信息将被请求。用户有义务按法律要求始终提供真实、准确和最新"
+"的信息。对于只提供昵称的用户，这不表示这些用户需要提供任何额外信息。这一信息"
+"提供不扩展必需的个人信息的范围但强调用户所提供信息的真实性、准确性和现时性。"
 
 #: wllegal/templates/legal/documents/tos.html:391
 msgid ""
