@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-12-04 09:45+0000\n"
+"PO-Revision-Date: 2024-12-05 10:00+0000\n"
 "Last-Translator: 大王叫我来巡山 <hamburger2048@users.noreply.hosted.weblate."
 "org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
@@ -1476,8 +1476,8 @@ msgid ""
 "is entitled to monitor, using its own resources, whether the User is using "
 "the Service in accordance with the Agreement. The User undertakes to fully "
 "cooperate with the Supplier in such cases."
-msgstr "接受这些条款表示用户确认并同意供应商有权试用期自己的自愿监控用户是否在依照协"
-"议使用服务。用户承诺在这些情况下完全配合供应商。"
+msgstr "接受这些条款表示用户确认并同意供应商有权使用自己的资源监控用户是否在依照协议"
+"使用服务。用户承诺在这些情况下完全配合供应商。"
 
 #: wllegal/templates/legal/documents/tos.html:379
 msgid "User’s Rights and Obligations"
@@ -1564,7 +1564,7 @@ msgid ""
 "be exposed to third parties due to a leak of access information, they are "
 "required to report this to the Supplier."
 msgstr ""
-"如果用户违反此部分中确切说明的义务中的任何一条，那么供应商对由用户造成的任何"
+"如果用户违反此部分中确切说明的义务中的任何一项，那么供应商对由用户造成的任何"
 "损害均不承担责任，用户对由供应商或者第三方引起的损害负全部责任。违反这些义务"
 "同样赋予供应商终止此协议的权利。如果用户发觉服务访问由于访问信息泄露而暴露给"
 "第三方，用户需要将此报告给供应商。"
@@ -1607,31 +1607,31 @@ msgstr "传播或提供任何违反国家、欧盟或国际层面适用法律的
 msgid ""
 "Disseminating or offering any illegally obtained content or content whose "
 "dissemination would be illegal;"
-msgstr ""
+msgstr "传播或提供任何非法获得的内容或者传播内容行为将违法的内容；"
 
 #: wllegal/templates/legal/documents/tos.html:435
 msgid ""
 "Disseminating or offering any pornographic, obscene, or otherwise vulgar "
 "content;"
-msgstr ""
+msgstr "散播或提供任何色情、下流或庸俗的内容；"
 
 #: wllegal/templates/legal/documents/tos.html:439
 msgid ""
 "Engaging in any services or activities that are contrary to applicable laws "
 "at the national, EU, or international level;"
-msgstr ""
+msgstr "参加任何与国家、欧盟或国际层面的适用法律对立的服务或活动；"
 
 #: wllegal/templates/legal/documents/tos.html:443
 msgid ""
 "Engaging in activities that bypass intellectual property protection elements "
 "(such as cracks, warez, etc.);"
-msgstr ""
+msgstr "参加绕过知识产权保护元素的活动（如破解、盗版软件等）；"
 
 #: wllegal/templates/legal/documents/tos.html:447
 msgid ""
 "Sending unsolicited commercial messages and other spam or other illegal "
 "harassment of third parties;"
-msgstr ""
+msgstr "发送未经请求的商业信息和其他垃圾信息或对第三方的其他非法骚扰；"
 
 #: wllegal/templates/legal/documents/tos.html:451
 msgid ""
@@ -1639,40 +1639,42 @@ msgid ""
 "third parties, including attacks on such persons, or any offensive, "
 "impolite, or otherwise inappropriate content that unlawfully or illegally "
 "infringes on the personal rights of third parties;"
-msgstr ""
+msgstr "发布或散播任何可能侵犯第三方权利的内容，包括对这样的人的攻击，或者任何违法或"
+"非法地侵犯第三方个人权利的冒犯性，不礼貌的或不恰当的内容；"
 
 #: wllegal/templates/legal/documents/tos.html:455
 msgid ""
 "Disseminating or offering any content that infringes on third-party "
 "intellectual or industrial property rights;"
-msgstr ""
+msgstr "散播或提供任何侵犯第三方知识或工业产权的内容；"
 
 #: wllegal/templates/legal/documents/tos.html:459
 msgid ""
 "Operating or disseminating any tools that may be misused to breach network, "
 "device, or service security;"
-msgstr ""
+msgstr "运营或散播任何可被滥用来破坏网络、设备或服务安全的工具；"
 
 #: wllegal/templates/legal/documents/tos.html:463
 msgid "Overburdening the Provider's or third-party servers;"
-msgstr ""
+msgstr "使提供者或第三方的服务器承受过大的负担；"
 
 #: wllegal/templates/legal/documents/tos.html:467
 msgid ""
 "Engaging in any activities that could harm the Provider, its reputation, or "
 "its assets;"
-msgstr ""
+msgstr "参加任何可能危害提供者、其名誉或资产的活动；"
 
 #: wllegal/templates/legal/documents/tos.html:471
 msgid ""
 "Using any means, servers, devices, or elements provided by the Provider in a "
 "manner not expressly agreed upon in these Terms or the Agreement;"
-msgstr ""
+msgstr "以未在本协议或这些条款中明确约定的方式使用由提供者提供的任何手段、服务器、设"
+"备或元素；"
 
 #: wllegal/templates/legal/documents/tos.html:475
 msgid ""
 "Conducting activities that would disclose any content to third parties that:"
-msgstr ""
+msgstr "执行可能泄露任何信息给第三方的活动，这些活动："
 
 #: wllegal/templates/legal/documents/tos.html:479
 msgid "Contains prohibited applications and scripts;"
