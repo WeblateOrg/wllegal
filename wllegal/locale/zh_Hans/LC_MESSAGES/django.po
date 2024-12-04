@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-12-03 20:30+0000\n"
+"PO-Revision-Date: 2024-12-04 09:45+0000\n"
 "Last-Translator: 大王叫我来巡山 <hamburger2048@users.noreply.hosted.weblate."
 "org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
@@ -1518,28 +1518,31 @@ msgid ""
 "including the obligation to tolerate restrictions on the use of the Service "
 "in cases where the Supplier performs system outages for the reasons "
 "mentioned in Section 8.5."
-msgstr ""
+msgstr "用户有义务按供应商所请提供解决故障或调整服务的必要信息，包括有义务在供应商因 "
+"8.5 部分中提及的原因执行系统宕机情况下容忍对服务使用的限制。"
 
 #: wllegal/templates/legal/documents/tos.html:395
 msgid ""
 "The Supplier is entitled to implement security measures to protect the "
 "Service in accordance with this Agreement, and the User is required to "
 "comply with and respect these measures."
-msgstr ""
+msgstr "供应商有权根据本协议实施安全措施保护服务，用户须遵守并尊重这些措施。"
 
 #: wllegal/templates/legal/documents/tos.html:399
 msgid ""
 "The User is obligated to use the Service in accordance with the licensing "
 "terms specified in Section 6 of this Agreement, ensuring that they do not "
 "jeopardize the Service's functionality."
-msgstr ""
+msgstr "用户有义务按照本协议第 6 "
+"部分指明的许可条款适用服务，确保用户不危及服务的功能。"
 
 #: wllegal/templates/legal/documents/tos.html:403
 msgid ""
 "According to the Service variant listed in the Price list, the User has the "
 "right to request Support Services from the Supplier, as specified in the "
 "Price list."
-msgstr ""
+msgstr "根据结果清单中列出的服务变体，用户有权要求供应商提供价格清单中明确的支持服务"
+"。"
 
 #: wllegal/templates/legal/documents/tos.html:407
 msgid ""
@@ -1548,7 +1551,8 @@ msgid ""
 "Service. The User is also required to secure their technical equipment to a "
 "reasonable extent to minimize the risk of third parties misusing access "
 "credentials to the User's account."
-msgstr ""
+msgstr "用户必须保持服务访问凭据机密，不得从事任何可能危及服务安全的行为。用户还须在"
+"合理程度内保护其技术设备，最小化第三方滥用用户账户访问凭据的风险。"
 
 #: wllegal/templates/legal/documents/tos.html:411
 msgid ""
@@ -1560,10 +1564,14 @@ msgid ""
 "be exposed to third parties due to a leak of access information, they are "
 "required to report this to the Supplier."
 msgstr ""
+"如果用户违反此部分中确切说明的义务中的任何一条，那么供应商对由用户造成的任何"
+"损害均不承担责任，用户对由供应商或者第三方引起的损害负全部责任。违反这些义务"
+"同样赋予供应商终止此协议的权利。如果用户发觉服务访问由于访问信息泄露而暴露给"
+"第三方，用户需要将此报告给供应商。"
 
 #: wllegal/templates/legal/documents/tos.html:415
 msgid "Prohibited Conduct"
-msgstr ""
+msgstr "禁止的行为"
 
 #: wllegal/templates/legal/documents/tos.html:419
 msgid ""
@@ -1577,18 +1585,23 @@ msgid ""
 "another User’s account or the Provider’s servers. Violation of these "
 "obligations constitutes a material breach of the Agreement."
 msgstr ""
+"用户不得在服务门户站点上传、发送、或存储任何可能包含软件病毒的内容或其他可能"
+"摧毁、破坏、或限制提供者或其他用户设备的文件和程序。用户也没有得到将下列内容"
+"上传到服务门户站点的授权，包括持有或散播均违法的内容，侵犯第三方版权的内容、"
+"是犯罪活动一部分的内容、通过服务传播垃圾邮件的内容，或者是试图获取其他用户的"
+"账户或提供者服务器访问权限的内容。违反这些义务构成对协议的重大违反。"
 
 #: wllegal/templates/legal/documents/tos.html:423
 msgid ""
 "The User particularly agrees to refrain from the following activities while "
 "using the Services, especially through the Services:"
-msgstr ""
+msgstr "用户尤其同意在使用本服务时，特别是通过本服务使用本服务时，不进行以下活动："
 
 #: wllegal/templates/legal/documents/tos.html:427
 msgid ""
 "Disseminating or offering any content that violates applicable laws at the "
 "national, EU, or international level;"
-msgstr ""
+msgstr "传播或提供任何违反国家、欧盟或国际层面适用法律的内容；"
 
 #: wllegal/templates/legal/documents/tos.html:431
 msgid ""
