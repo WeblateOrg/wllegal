@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-12-05 10:00+0000\n"
+"PO-Revision-Date: 2024-12-06 13:19+0000\n"
 "Last-Translator: 大王叫我来巡山 <hamburger2048@users.noreply.hosted.weblate."
 "org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
@@ -1678,45 +1678,46 @@ msgstr "执行可能泄露任何信息给第三方的活动，这些活动："
 
 #: wllegal/templates/legal/documents/tos.html:479
 msgid "Contains prohibited applications and scripts;"
-msgstr ""
+msgstr "包含禁止的程序和脚本；"
 
 #: wllegal/templates/legal/documents/tos.html:483
 msgid "Overloads database systems or causes malfunction of servers;"
-msgstr ""
+msgstr "使数据库系统承受过大负担或导致服务器出现故障；"
 
 #: wllegal/templates/legal/documents/tos.html:487
 msgid ""
 "Overburdens the infrastructure, connection lines, or hardware of the "
 "Provider or third parties;"
-msgstr ""
+msgstr "使提供者或第三方的基础设施、连接线路或硬件承受过大负担；"
 
 #: wllegal/templates/legal/documents/tos.html:491
 msgid ""
 "Involves music, sound, image, film, or similar files for which the User "
 "lacks distribution rights;"
-msgstr ""
+msgstr "涉及音乐、声音、图像、电影或用户缺少分发权利的类似文件；"
 
 #: wllegal/templates/legal/documents/tos.html:495
 msgid ""
 "Threatens the privacy or security of other Internet users or the security of "
 "computer systems (e.g., through viruses, password generators, etc.);"
-msgstr ""
+msgstr "威胁其他互联网用户的隐私或安全或者计算机系统的安全（比如通过病毒、密码生成器"
+"等）；"
 
 #: wllegal/templates/legal/documents/tos.html:499
 msgid ""
 "Is part of the provided Service without written permission from the Provider "
 "to share it with third parties;"
-msgstr ""
+msgstr "未经提供方书面许可擅自将所提供服务的部分内容分享给第三方；"
 
 #: wllegal/templates/legal/documents/tos.html:503
 msgid ""
 "Gives the impression that the User acts on behalf of the Provider without "
 "authorization;"
-msgstr ""
+msgstr "给人以用户未经授权代提供者行事的印象；"
 
 #: wllegal/templates/legal/documents/tos.html:507
 msgid "May harm any third-party rights."
-msgstr ""
+msgstr "可能危害任何第三方权利。"
 
 #: wllegal/templates/legal/documents/tos.html:511
 msgid ""
@@ -1726,6 +1727,9 @@ msgid ""
 "public morality, ethical principles, or Internet usage rules, or is aiding "
 "in or committing criminal activities."
 msgstr ""
+"假如提供者合理地相信用户正违反条款、协议或正以和适用法律、公共道德、道德准则"
+"或互联网使用规则相悖的方式使用服务，抑或正协助或执行犯罪行为，那么提供者可以"
+"不事先通知就中断、限制或暂停服务。"
 
 #: wllegal/templates/legal/documents/tos.html:515
 msgid ""
@@ -1735,6 +1739,9 @@ msgid ""
 "invoicing) or excessive usage, particularly through automated software and "
 "bots that overload the Provider’s servers or other technical facilities."
 msgstr ""
+"提供者也可以不事先通知就中断、限制或暂停提供服务，如果服务正出于对提供者的权"
+"利进行未经授权的干扰（如冒充、虚假发票）或是过分使用的目的（尤其通过使提供者"
+"的服务器或其他技术设施承受过大负担的自动软件和机器人）被滥用。"
 
 #: wllegal/templates/legal/documents/tos.html:519
 msgid ""
@@ -1742,7 +1749,8 @@ msgid ""
 "limitation, or suspension of Services by the Provider, the User is solely "
 "responsible for any damages resulting from the interruption and cannot claim "
 "any compensation from the Provider for such damages."
-msgstr ""
+msgstr "用户明确同意如果提供者出于正当理由中断、限制或暂停服务，那么用户对任何由中断"
+"带来的损害负全部责任，不能就此类损害向提供者索要任何赔偿。"
 
 #: wllegal/templates/legal/documents/tos.html:523
 msgid ""
