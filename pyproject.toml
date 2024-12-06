@@ -57,7 +57,7 @@ lint = [
 ]
 test = [
   "wllegal[weblate]",
-  "coverage==7.6.8",
+  "coverage==7.6.9",
   "translate-toolkit"
 ]
 weblate = [
