@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-12-06 13:19+0000\n"
+"PO-Revision-Date: 2024-12-08 05:00+0000\n"
 "Last-Translator: 大王叫我来巡山 <hamburger2048@users.noreply.hosted.weblate."
 "org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
@@ -1519,7 +1519,7 @@ msgid ""
 "in cases where the Supplier performs system outages for the reasons "
 "mentioned in Section 8.5."
 msgstr "用户有义务按供应商所请提供解决故障或调整服务的必要信息，包括有义务在供应商因 "
-"8.5 部分中提及的原因执行系统宕机情况下容忍对服务使用的限制。"
+"8.5 节中提及的原因执行系统宕机情况下容忍对服务使用的限制。"
 
 #: wllegal/templates/legal/documents/tos.html:395
 msgid ""
@@ -1533,8 +1533,7 @@ msgid ""
 "The User is obligated to use the Service in accordance with the licensing "
 "terms specified in Section 6 of this Agreement, ensuring that they do not "
 "jeopardize the Service's functionality."
-msgstr "用户有义务按照本协议第 6 "
-"部分指明的许可条款适用服务，确保用户不危及服务的功能。"
+msgstr "用户有义务按照本协议第 6 节指明的许可条款适用服务，确保用户不危及服务的功能。"
 
 #: wllegal/templates/legal/documents/tos.html:403
 msgid ""
@@ -1760,6 +1759,9 @@ msgid ""
 "or ensuring the installation and execution of tools and scripts on the "
 "virtual server that verify and check the software resources used."
 msgstr ""
+"为了验证所用软件解决方案或审计分配的软件资源的许可及通过服务上传的内容，用户"
+"同意向提供者提供完全配合。这包括允许或确保在虚拟服务器上安装和执行验证并检查"
+"所用软件资源的工具和脚本。"
 
 #: wllegal/templates/legal/documents/tos.html:527
 msgid ""
@@ -1773,10 +1775,15 @@ msgid ""
 "does not affect the Provider’s right to claim damages in addition to the "
 "penalty."
 msgstr ""
+"用户明确同意对任何给提供者、其客户、合作伙伴、或第三方造成的损害负责。"
+"这一责任尤其包括违反这些条款第 10 款的规定的任何法律行动。用户还同意提供者可"
+"以调整服务设置来防止滥用。如果发生用户导致的信息泄露，未使用的服务期不会被退"
+"款并将被自动视为一次性的合约罚款。此罚款不影响提供者在罚款基础上额外索赔的权"
+"利。"
 
 #: wllegal/templates/legal/documents/tos.html:532
 msgid "Termination of the Agreement"
-msgstr ""
+msgstr "协议终止"
 
 #: wllegal/templates/legal/documents/tos.html:536
 msgid ""
@@ -1784,20 +1791,22 @@ msgid ""
 "Agreement, expiration of the agreed term, dissolution of a legal entity "
 "(either the Provider or the User) with liquidation, termination of the "
 "Agreement, or by mutual agreement of the Parties."
-msgstr ""
+msgstr "可以通过退出协议，约定条款过期，法律实体清算解散（提供者或用户），协议终止或"
+"双方互相同意的方式终止合约关系。"
 
 #: wllegal/templates/legal/documents/tos.html:540
 msgid ""
 "The Provider may terminate the Agreement at any time without providing a "
 "reason. The notice period is three months, starting from the first day of "
 "the calendar month following the delivery of the notice to the User."
-msgstr ""
+msgstr "提供者可以随时不提供理由就终止协议。通知期为三个月。自通知发送至用户后的日历"
+"月份的第一天算起。"
 
 #: wllegal/templates/legal/documents/tos.html:544
 msgid ""
 "The User may terminate the Agreement under the conditions specified in "
 "Section 8.1 of these Terms."
-msgstr ""
+msgstr "用户可以在这些条款 8.1 节中明确的条款下终止协议。"
 
 #: wllegal/templates/legal/documents/tos.html:548
 msgid ""
@@ -1807,6 +1816,9 @@ msgid ""
 "Agreement. The withdrawal becomes effective the day after the User receives "
 "the notice of withdrawal."
 msgstr ""
+"如果用户重大或多次违反其在这些条款或本协议项下的义务，并且在发出违约通知后14"
+"天内未能纠正违约行为，提供商可以退出本协议。退出自用户收到退出通知之日的第二"
+"天起生效。"
 
 #: wllegal/templates/legal/documents/tos.html:552
 msgid ""
@@ -1814,14 +1826,16 @@ msgid ""
 "a particularly serious manner, the Provider is entitled to immediately "
 "withdraw from the Agreement and terminate the provision of the Service as "
 "soon as such a breach is discovered."
-msgstr ""
+msgstr "如果用户以特别严重的方式违反其在这些条款或本协议下的义务，提供商有权在发现该"
+"违约行为后立即退出本协议并终止提供服务。"
 
 #: wllegal/templates/legal/documents/tos.html:556
 msgid ""
 "If the Provider breaches its obligations under these Terms or the Agreement "
 "in a particularly serious manner, the User is entitled to immediately "
 "withdraw from the Agreement as soon as such a breach is discovered."
-msgstr ""
+msgstr "如果提供商以特别严重的方式违反了其在这些条款或本协议项下的义务，用户有权在发"
+"现该违约行为后立即退出本协议。"
 
 #: wllegal/templates/legal/documents/tos.html:560
 msgid ""
@@ -1831,10 +1845,13 @@ msgid ""
 "including the provisions of Sections 1912 (2), 1923, 1969, 1977, 1978, 1979, "
 "2001, 2002, 2003, 2106, 2107, 2110, and 2111 of the Czech Civil Code."
 msgstr ""
+"除本节明确规定的情况外，没有哪一方可以终止或以其他方式终止本协议。各方尽最大"
+"可能排除任何一方终止本协议的权利，包括《捷克民法典》第1912(2)、1923、1969、19"
+"77、1978、1979、2001、2002、2003、2106、2107、2110和2111节的规定。"
 
 #: wllegal/templates/legal/documents/tos.html:564
 msgid "Limitation of Liability"
-msgstr ""
+msgstr "责任限制"
 
 #: wllegal/templates/legal/documents/tos.html:568
 msgid ""
@@ -1845,24 +1862,29 @@ msgid ""
 "other intangible losses (even if the Provider has been advised of the "
 "possibility of such damages), resulting from:"
 msgstr ""
+"提供者不对提供服务引起的非直接损害负责，比如利润损失、数据丢失、财务损失或任"
+"何非直接、特殊、或间接损害，包括惩罚性赔偿，比如但不限于其他由下列情况导致的"
+"无形损失（即使提供者已被告知这种损害的可能性）："
 
 #: wllegal/templates/legal/documents/tos.html:573
 msgid "Use or inability to use the Service;"
-msgstr ""
+msgstr "使用或无法使用服务；"
 
 #: wllegal/templates/legal/documents/tos.html:576
 msgid ""
 "The cost of acquiring substitute goods and services arising from any goods, "
 "data, information, or services purchased or obtained or messages received, "
 "or transactions entered into through or from the Service;"
-msgstr ""
+msgstr "因购买或获得任何商品、数据、信息或接收消息，或者通过或从本服务订立的交易而产"
+"生的获取替代商品和服务的成本；"
 
 #: wllegal/templates/legal/documents/tos.html:579
 msgid ""
 "Statements or actions of any third party involved in providing the Service, "
 "including any outcomes of third-party solutions or services related to the "
 "Service;"
-msgstr ""
+msgstr "参与提供本服务的任何第三方的声明或行动，包括与本服务相关的任何第三方解决方案"
+"或服务的结果；"
 
 #: wllegal/templates/legal/documents/tos.html:582
 msgid "Any other matters related to the Service."
@@ -1878,6 +1900,10 @@ msgid ""
 "war, or changes in the political situation that prevent or unduly hinder the "
 "exercise of rights and obligations arising from this Agreement."
 msgstr ""
+"如遇不可抗力事件，各方有权暂时停止合约义务，不履行或延迟履行由此协议施加的义"
+"务寄哪个不会被认为是对协议的违反。不可抗力事件包括根据捷克法律免除责任的情境"
+"，比如自然灾害、战争、或阻止或过分妨碍履行此协议引发的权利和义务的政治局势变"
+"化。"
 
 #: wllegal/templates/legal/documents/tos.html:591
 msgid ""
@@ -1888,6 +1914,9 @@ msgid ""
 "back up all of their data stored within the Service at another geographical "
 "location(s)."
 msgstr ""
+"签订本协议，用户承认，尽管提供商尽了最大努力，但由于提供商无法控制的情况（例"
+"如，互联网连接中断），服务可能暂时无法使用。因此，用户同意并承诺将其存储在本"
+"服务中的所有数据在其他地理位置进行备份。"
 
 #: wllegal/templates/legal/documents/tos.html:595
 msgid ""
@@ -1896,6 +1925,9 @@ msgid ""
 "cancel their order or to request a refund of any fees paid, unless otherwise "
 "expressly agreed between the Parties in individual cases."
 msgstr ""
+"用户按原样使用服务。与其他软件、硬件配置不兼容，或任何缺陷或故障并不赋予用户"
+"取消其订单或要求退还已支付的任何费用的权利，除非双方在个别情况下另有明确约定"
+"。"
 
 #: wllegal/templates/legal/documents/tos.html:599
 msgid "Personal Data Protection"
@@ -1911,13 +1943,16 @@ msgid ""
 "communications as defined in the <a href=\"%(privacy_url)s\">Privacy Policy</"
 "a>."
 msgstr ""
+"提供商收集用户数据的目的仅为提供服务、提高服务质量、履行法律义务，以及在特定"
+"情况下为提供商的合法利益（例如，维护服务器安全和完整性）或发送<a href=\""
+"%(privacy_url)s\">隐私政策</a>中定义的可选商业通信。"
 
 #: wllegal/templates/legal/documents/tos.html:607
 msgid ""
 "All communication within the Service is encrypted using the SSL protocol. "
 "The User declares that they consider this encryption method sufficiently "
 "secure."
-msgstr ""
+msgstr "服务中的所有通信都使用SSL协议进行加密。用户声明他们认为这种加密方法足够安全。"
 
 #: wllegal/templates/legal/documents/tos.html:611
 #, python-format
@@ -1928,6 +1963,9 @@ msgid ""
 "defined in this Agreement and the <a href=\"%(privacy_url)s\">Privacy "
 "Policy</a>."
 msgstr ""
+"提供商承诺不将用户在注册其用户账户期间提交的任何信息或用户提供的任何其他个人"
+"数据提供给任何第三方，用于本协议和 <a href=\"%(privacy_url)s\""
+">”隐私政策</a>中定义的目的以外的目的。"
 
 #: wllegal/templates/legal/documents/tos.html:615
 msgid ""
@@ -1937,25 +1975,28 @@ msgid ""
 "technical cookies, for which explicit consent is not required under current "
 "legislation."
 msgstr ""
+"提供商的网站和web应用程序也使用cookie。服务只使用提供商提供的会话cookie，从不"
+"使用第三方cookie。关于功能和类型，提供商仅使用功能性/技术性cookie，根据现行法"
+"律不需要对此明确同意。"
 
 #: wllegal/templates/legal/documents/tos.html:623
 msgid ""
 "The Parties commit to maintaining the confidentiality of all information "
 "learned during the contractual relationship established by this Agreement."
-msgstr ""
+msgstr "各方承诺维持在由此协议建立的合约关系期间获悉的所有信息的机密性。"
 
 #: wllegal/templates/legal/documents/tos.html:627
 msgid ""
 "The User’s rights arising from the Agreement and these Terms cannot be "
 "assigned without the prior written consent of the Provider."
-msgstr ""
+msgstr "未经提供商事先书面同意，用户在本协议和本条款中产生的权利不得转让。"
 
 #: wllegal/templates/legal/documents/tos.html:631
 msgid ""
 "For the avoidance of doubt, the Parties explicitly confirm that they are "
 "business entities and that they are entering into this Agreement within the "
 "scope of their business activities."
-msgstr ""
+msgstr "为避免疑义，各方明确确认其为商业实体，并在其经营活动范围内订立本协议。"
 
 #: wllegal/templates/legal/documents/tos.html:635
 msgid ""
@@ -1966,6 +2007,9 @@ msgid ""
 "effort to amend the Agreement by replacing the invalid, unenforceable, or "
 "ineffective provision with a new one that reflects the original intent."
 msgstr ""
+"如果协议或这些条款的任何条款无效、无效或不可执行或者变得如此，并不影响协议或"
+"这些条款其余规定的有效性、可执行性或有效性。在这种情况下，双方应尽一切努力修"
+"改本协议，以反映原意的新条款取代无效、不可执行或无效的条款。"
 
 #: wllegal/templates/legal/documents/tos.html:639
 msgid ""
@@ -1985,6 +2029,15 @@ msgid ""
 "Parties. The Parties irrevocably agree not to contest the enforcement of the "
 "arbitration award in any jurisdiction."
 msgstr ""
+"这些条款受欧盟成员国捷克共和国法律管辖。但是，各方以最大可能的程度排除《捷克"
+"民法典》1764、1765、1793 到 1795、2050、2389a 到 2389f、2389t 和 2389u 的规定"
+"。任何因履行或解释本协议产生的、双方不能友好解决的争议最终应由依据捷克共和国"
+"经济商会和捷克共和国农业商会仲裁法院的规定任命的三位仲裁员通过在捷克共和国经"
+"济商会和捷克共和国农业商会仲裁法院的仲裁解决。每一方将任命一位仲裁员，"
+"两位仲裁员将在 30 天内就第三位仲裁员达成一致。如果两位仲裁员未能在上述期限内"
+"就第三位仲裁员达成一致，那么该上诉法院的主席将任命第三位仲裁员。仲裁裁决是最"
+"终的，对各方均有法律约束力。各方不可撤销地同意不在任何司法管辖区对仲裁裁决的"
+"强制执行提出异议。"
 
 #: wllegal/templates/legal/documents/tos.html:643
 msgid ""
@@ -1995,6 +2048,9 @@ msgid ""
 "the English version and any translated version, the English version shall "
 "prevail in all matters."
 msgstr ""
+"这些条款的官方版本已经有英文版，并且该版本被认为是唯一具备法律效力的版本。这"
+"些条款的任何翻译版本仅出于用户便利考虑而提供，不具备法律效力。如果英文版本和"
+"任何翻译版本之间有任何差异或冲突，任何情况下均以英文版本为准。"
 
 #: wllegal/templates/legal/documents/tos.html:647
 msgid "These Terms enter into force on November 1, 2024."
