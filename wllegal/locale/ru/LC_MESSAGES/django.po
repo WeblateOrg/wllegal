@@ -15,8 +15,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-11-26 03:26+0000\n"
-"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>\n"
+"PO-Revision-Date: 2024-12-11 01:02+0000\n"
+"Last-Translator: Blueberry <igory.ygr200@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/weblate/legal/ru/"
 ">\n"
 "Language: ru\n"
@@ -72,6 +72,10 @@ msgid ""
 "the Commercial Register kept by the Regional Court in Ústí nad Labem, file "
 "No. C 52324, i.e. the \"<strong>Provider</strong>\"."
 msgstr ""
+"Настоящая Политика выпущена компанией Weblate s.r.o., ID №: 21668027, с "
+"юридическим адресом: Nábřežní 694, Cvikov II, 471 54 Cvikov, "
+"зарегистрированной в Торговом реестре, хранящемся в Региональном суде в "
+"Усти-над-Лабем, файл № C 52324, т.е. «<strong>Провайдер</strong>»."
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid ""
@@ -80,6 +84,10 @@ msgid ""
 "the Services, Products, Support Services, as well as when using the Website "
 "and other possible services and related activities."
 msgstr ""
+"Настоящая Политика описывает, как Провайдер обрабатывает персональные данные "
+"Пользователей как субъектов данных - частных лиц при получении доступа и "
+"последующем использовании Услуг, Продуктов, Служб поддержки, а также при "
+"использовании Сайта и других возможных услуг и связанных с ними действий."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid ""
@@ -87,6 +95,9 @@ msgid ""
 "in Article 1 of the Terms and which have the same meaning as set out in the "
 "Terms."
 msgstr ""
+"В настоящей Политике также используются некоторые термины или определения, "
+"которые были определены в статье 1 Положений и имеют то же значение, что и в "
+"Положениях."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
@@ -99,6 +110,13 @@ msgid ""
 "personal data and the protection of privacy in the electronic communications "
 "sector (abbreviated as the \"<strong>ePrivacy Directive</strong>\")."
 msgstr ""
+"При обработке персональных данных Провайдер соблюдает Регламент (ЕС) 2016/"
+"679 Европейского парламента и Совета, Общий регламент по защите данных, "
+"также известный как GDPR (далее именуемый «<strong>GDPR</strong>»), Закон № "
+"110/2019 Coll., об обработке персональных данных, а также Директива 2002/58/"
+"EC Европейского парламента и Совета от 12 июля 2002 года об обработке "
+"персональных данных и защите частной жизни в секторе электронных "
+"коммуникаций (сокращённо «<strong>Директива ePrivacy Directive</strong>»)."
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -108,6 +126,12 @@ msgid ""
 "registers for the Provider's newsletter and/or when the Provider and the "
 "User conclude the Contract, whichever is the earliest."
 msgstr ""
+"Фактическая обработка персональных данных Пользователей всегда "
+"осуществляется только в целях и на условиях, более подробно определённых в "
+"настоящей Политике, и начинается с момента посещения Пользователем Сайта, "
+"регистрации Пользователя на рассылку новостей Провайдера и/или заключения "
+"между Провайдером и Пользователем Договора, в зависимости от того, что "
+"наступит раньше."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid ""
@@ -116,6 +140,10 @@ msgid ""
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
 msgstr ""
+"Обработка осуществляется либо непосредственно Провайдером и/или третьими "
+"лицами в соответствии со статьёй 3 настоящей Политики, которые были "
+"уполномочены Провайдером на обработку персональных данных в соответствии с "
+"настоящей Политикой."
 
 #: wllegal/templates/legal/documents/privacy.html:45
 msgid ""
@@ -123,73 +151,86 @@ msgid ""
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
+"Если в настоящей Политике явно не указано иное, Провайдер выступает в "
+"качестве <strong>оператора данных</strong> , а Пользователи, являющиеся "
+"физическими лицами, выступают в качестве субъектов данных, как эти роли "
+"определены в GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "Объём, цели и длительность обработки"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
 msgstr ""
+"Провайдер обрабатывает персональные данные Пользователя для следующих целей:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "выполнение Договора в соответствии со статьёй 6(1)(b) GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "ведения переговоров по Договору в соответствии со статьёй 6(1)(b) GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
 msgstr ""
+"выполнение юридических обязательств Провайдера в соответствии со статьёй "
+"6(1)(c) GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, "
 "and in selected cases also"
 msgstr ""
+"законные интересы Провайдера в соответствии со статьёй 6(1)(f) GDPR, а в "
+"отдельных случаях также"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
 msgstr ""
+"согласие, предоставленное Пользователем в соответствии со статьёй 6(1)(a) "
+"GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
 msgstr ""
+"Объём персональных данных Пользователя, обрабатываемых Провайдером, включает "
+"в себя следующее:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr ""
+msgstr "имя и фамилию,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr ""
+msgstr "Адрес пользователя (доставка и выставление счетов),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr ""
+msgstr "Идентификатор компании и налоговой,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, Xu, and others),"
 msgstr ""
+"псевдоним(-ы) (включая любые добровольно связанные платформы, такие как "
+"Liberapay, GitHub, Xu и другие),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr ""
+msgstr "Аватар пользователя,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail address"
 msgid "email address(es),"
-msgstr "Имя и адрес эл. почты"
+msgstr "адрес(-а) электронной почты,"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -197,15 +238,19 @@ msgid ""
 "openSUSE, and Ubuntu in the event that accounts with these providers are "
 "linked to the User account,"
 msgstr ""
+"идентификаторы Bitbucket, Facebook, Google, LinkedIn, GitHub, GitLab, "
+"openSUSE и Ubuntu в том случае, если к учётной записи Пользователя привязаны "
+"аккаунты этих провайдеров,"
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
 msgstr ""
+"технические характеристики Сервиса и Продукта, используемых Пользователем,"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
-msgstr ""
+msgstr "информация о количестве участников команды Пользователя и их ролях,"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
@@ -213,35 +258,47 @@ msgid ""
 "Profile), i.e., settings for languages, notifications, if they can identify "
 "the User directly or indirectly,"
 msgstr ""
+"все прочие пользовательские настройки учётной записи Пользователя (включая "
+"так называемый Профиль), т.е. настройки языков, уведомлений, если они могут "
+"прямо или косвенно идентифицировать Пользователя,"
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
 msgstr ""
+"номер банковского счёта и, возможно, другие платёжные реквизиты Пользователя,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "адрес или адреса криптовалютного кошелька,"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
 "other personal data contained in messages sent by the User to the Provider "
 "(especially the subject and other content of the message),"
 msgstr ""
+"другие персональные данные, содержащиеся в сообщениях, отправленных "
+"Пользователем Провайдеру (в частности, тема и другое содержание сообщения),"
 
 #: wllegal/templates/legal/documents/privacy.html:120
 msgid ""
 "other personal data contained in communications with the Provider's support,"
 msgstr ""
+"другие персональные данные, содержащиеся в коммуникациях со службой "
+"поддержки Провайдера,"
 
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
 msgstr ""
+"системные данные, журналы действий и журналы сеансов, включая IP-адрес "
+"Пользователя,"
 
 #: wllegal/templates/legal/documents/privacy.html:128
 msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
+"в котором отдельные категории персональных данных, перечисленные выше, будут "
+"и далее совместно именоваться «<strong>Персональные данные</strong>»."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -254,6 +311,15 @@ msgid ""
 "under the conditions and based on a separate data processing agreement (so-"
 "called processing agreement) concluded between the Provider and the User."
 msgstr ""
+"В некоторых случаях Провайдер <strong>может также являться обработчиком "
+"персональных данных</strong>, а именно, когда персональные данные третьих "
+"лиц предоставляются ему Пользователем для собственных целей (например, в "
+"случае добавления отдельных участников команды, передачи проекта Провайдеру "
+"от имени другого лица и т. д.). Обработка выбранных Персональных данных "
+"третьих лиц, к которым Пользователь получил доступ, происходит в этом случае "
+"по указанию Пользователя, на условиях и на основании отдельного соглашения "
+"об обработке данных (так называемого соглашения об обработке), заключенного "
+"между Провайдером и Пользователем."
 
 #: wllegal/templates/legal/documents/privacy.html:136
 msgid ""
