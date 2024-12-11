@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-12-11 14:13+0000\n"
+"PO-Revision-Date: 2024-12-12 15:00+0000\n"
 "Last-Translator: Blueberry <igory.ygr200@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/weblate/legal/ru/"
 ">\n"
@@ -954,43 +954,36 @@ msgid "GDPR"
 msgstr "GDPR"
 
 #: wllegal/templates/legal/documents/tos.html:61
-#, fuzzy
-#| msgid ""
-#| "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
-#| "Regulation"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
 msgstr ""
-"Постановление ЕС № %(law_679_2016)s, Основной регламент о защите данных"
+"означает Постановление ЕС № 679/2016, Общее положение о защите персональных "
+"данных;"
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
-msgstr ""
+msgstr "GTC"
 
 #: wllegal/templates/legal/documents/tos.html:68
 msgid ""
 "means these general terms and conditions, which form an integral part of the "
 "Agreement;"
 msgstr ""
+"означает настоящие общие положения и условия, которые являются неотъемлемой "
+"частью Соглашения;"
 
 #: wllegal/templates/legal/documents/tos.html:72
 msgid "Hosted String"
-msgstr ""
+msgstr "Размещённая строка"
 
 #: wllegal/templates/legal/documents/tos.html:75
-#, fuzzy
-#| msgid ""
-#| "Pricing is based on the number of source strings and target languages. "
-#| "The source string is a text unit defined in a translation format, it can "
-#| "be a word, sentence or paragraph."
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
 msgstr ""
-"Цены зависят от количества исходных строк и целевых языков. Исходная строка "
-"— это текстовая единица, определённая в формате перевода, это может быть "
-"слово, фраза или абзац."
+"означает единицу текста, определённую в формате перевода. Это может быть "
+"слово, предложение или абзац;"
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
@@ -1002,64 +995,63 @@ msgid ""
 "provides Services to Users on a non-dedicated (i.e., shared by multiple "
 "Users) cloud operated by the Provider;"
 msgstr ""
+"означает форму сотрудничества, основанную исключительно на облачных "
+"технологиях, когда Поставщик предоставляет Пользователям Услуги в "
+"невыделенном (т.е. совместно используемом несколькими Пользователями) "
+"облаке, управляемом Поставщиком;"
 
 #: wllegal/templates/legal/documents/tos.html:86
 msgid "License"
 msgstr "Лицензия"
 
 #: wllegal/templates/legal/documents/tos.html:89
-#, fuzzy
-#| msgid ""
-#| "means non-exclusive license granted by the Provider to the User for use "
-#| "of the Service"
 msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
 msgstr ""
 "неисключительная лицензия, выданная Поставщиком Пользователю для пользования "
-"Сервисом"
+"Сервисом;"
 
 #: wllegal/templates/legal/documents/tos.html:93
 msgid "Personal Data"
-msgstr "Личностные данные"
+msgstr "Персональные данные"
 
 #: wllegal/templates/legal/documents/tos.html:96
-#, fuzzy
-#| msgid ""
-#| "means personal data within the meaning of EU Regulation No. "
-#| "%(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"личностные данные в том смысле, в каком это трактует постановление ЕС № "
-"%(law_679_2016)s, предоставленные пользователем сервису и/или включённые в "
-"файлы «куки»"
+"означает персональные данные, как определено в Регламенте ЕС 679/2016, "
+"введённые пользователем в Сервис и/или файлы «куки»;"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
 msgid "Price"
-msgstr ""
+msgstr "Цена"
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid ""
 "the value expressed in money for the provided License in accordance with the "
 "Price List;"
 msgstr ""
+"стоимость, выраженная в деньгах, за предоставленную Лицензию в соответствии "
+"с Ценником;"
 
 #: wllegal/templates/legal/documents/tos.html:107
 msgid "Price List"
-msgstr ""
+msgstr "Ценник"
 
 #: wllegal/templates/legal/documents/tos.html:110
 msgid ""
 "means the document or web page that specifies the Price of the Service and/"
 "or Product unless otherwise stated in the Agreement;"
 msgstr ""
+"означает документ или веб-страницу, на которой указана цена Услуги и/или "
+"Продукта, если иное не указано в Соглашении;"
 
 #: wllegal/templates/legal/documents/tos.html:114
 msgid "Product"
-msgstr ""
+msgstr "Продукт"
 
 #: wllegal/templates/legal/documents/tos.html:117
 msgid ""
@@ -1067,6 +1059,10 @@ msgid ""
 "Provider based on its brand usage policy. The User purchases the Product AS "
 "IS. Support and other services are provided separately;"
 msgstr ""
+"означает любую услугу или её часть, предоставляемую под определённым брендом "
+"Поставщика в соответствии с его политикой использования бренда. Пользователь "
+"приобретает Продукт КАК ЕСТЬ. Поддержка и другие услуги предоставляются "
+"отдельно;"
 
 #: wllegal/templates/legal/documents/tos.html:121
 msgid "Provider"
@@ -1079,35 +1075,37 @@ msgid ""
 "the Commercial Register maintained by the Regional Court in Ústí nad Labem, "
 "file no. C 52324, with which the Agreement was concluded;"
 msgstr ""
+"относится к компании <strong>Weblate s.r.o.</strong>, ID № 21668027, с "
+"юридическим адресом Nábřežní 694, Cvikov II, 471 54 Cvikov, "
+"зарегистрированной в Торговом реестре, который ведёт Региональный суд в "
+"Усти-над-Лабем, номер файла. C 52324, с которой был заключено Соглашение;"
 
 #: wllegal/templates/legal/documents/tos.html:128
 msgid "Service"
 msgstr "Сервис"
 
 #: wllegal/templates/legal/documents/tos.html:131
-#, fuzzy
-#| msgid ""
-#| "means the website and services based on Weblate operated by the Provider"
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
 msgstr ""
-"веб-сайт и сервисы на основе Weblate, действующие под управлением Поставщика"
+"означает веб-сайты и сервисы на базе Weblate, предоставляемые Поставщиком;"
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid "Self-hosting"
-msgstr ""
+msgstr "Самостоятельный хостинг"
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid ""
 "means a form of collaboration where the User is the sole user of the "
 "Service, and this Service is operated directly on the User Server;"
 msgstr ""
+"означает форму сотрудничества, при которой Пользователь является "
+"единственным пользователем Сервиса, и этот Сервис работает непосредственно "
+"на Сервере Пользователя;"
 
 #: wllegal/templates/legal/documents/tos.html:142
-#, fuzzy
-#| msgid "Service"
 msgid "Support Services"
-msgstr "Сервис"
+msgstr "Службы поддержки"
 
 #: wllegal/templates/legal/documents/tos.html:145
 msgid ""
@@ -1115,77 +1113,80 @@ msgid ""
 "Support Services are governed separately by a separate support service "
 "agreement;"
 msgstr ""
+"означает поддержку, предоставляемую Поставщиком Пользователю в рамках "
+"Услуги. Услуги поддержки регулируются отдельным соглашением об оказании "
+"услуг поддержки;"
 
 #: wllegal/templates/legal/documents/tos.html:149
 msgid "Translation Memory"
 msgstr "Память переводов"
 
 #: wllegal/templates/legal/documents/tos.html:152
-#, fuzzy
-#| msgid ""
-#| "means the optional translation memory service provided within Weblate"
 msgid "means an optional translation memory service provided on Weblate;"
-msgstr "необязательная услуга накопителя переводов, предоставляемая Weblate"
+msgstr ""
+"означает необязательный сервис памяти переводов, предоставляемый на Weblate;"
 
 #: wllegal/templates/legal/documents/tos.html:156
 msgid "User"
 msgstr "Пользователь"
 
 #: wllegal/templates/legal/documents/tos.html:159
-#, fuzzy
-#| msgid ""
-#| "means any legal entity or an individual other than the Provider, who is "
-#| "using the Service"
 msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
 msgstr ""
-"любое юридическое или физическое лицо, отличное от Поставщика, которое "
-"использует Сервис"
+"означает любое юридическое или физическое лицо, не являющееся Поставщиком, "
+"которое использует Услугу;"
 
 #: wllegal/templates/legal/documents/tos.html:163
 msgid "User Account"
-msgstr ""
+msgstr "Учётная запись пользователя"
 
 #: wllegal/templates/legal/documents/tos.html:166
 msgid ""
 "means a user account with a unique access code and password in the Hosted "
 "Weblate web interface. Each User Account can be used by only one User;"
 msgstr ""
+"означает учётную запись (аккаунт) пользователя с уникальным кодом доступа и "
+"паролем в веб-интерфейсе Хостинга Weblate. Каждая учётная запись "
+"пользователя может использоваться только одним пользователем;"
 
 #: wllegal/templates/legal/documents/tos.html:170
 msgid "User Server"
-msgstr ""
+msgstr "Сервер пользователя"
 
 #: wllegal/templates/legal/documents/tos.html:173
 msgid ""
 "refers to the server and other hardware equipment not owned, managed, or "
 "controlled by the Provider;"
 msgstr ""
+"относится к серверу и другому аппаратному оборудованию, не принадлежащему, "
+"не управляемому и не контролируемому Поставщиком;"
 
 #: wllegal/templates/legal/documents/tos.html:179
 msgid "Methods of Acceptance"
-msgstr ""
+msgstr "Способы принятия"
 
 #: wllegal/templates/legal/documents/tos.html:183
 msgid "The License is granted to the User based on the concluded Agreement."
 msgstr ""
+"Лицензия предоставляется Пользователю на основании заключённого Соглашения."
 
 #: wllegal/templates/legal/documents/tos.html:187
 msgid "These GTC are an integral part of the Agreement."
-msgstr ""
+msgstr "Настоящие GTC являются неотъемлемой частью Соглашения."
 
 #: wllegal/templates/legal/documents/tos.html:191
-#, fuzzy
-#| msgid "License Agreement Conclusion"
 msgid "The Agreement is concluded:"
-msgstr "Заключение Лицензионного соглашения"
+msgstr "Соглашение заключено:"
 
 #: wllegal/templates/legal/documents/tos.html:196
 msgid ""
 "on the day of signing by both parties (especially for all Services offered "
 "with custom settings);"
 msgstr ""
+"в день подписания обеими сторонами (особенно для всех Услуг, предлагаемых с "
+"пользовательскими настройками);"
 
 #: wllegal/templates/legal/documents/tos.html:199
 msgid ""
@@ -1196,10 +1197,15 @@ msgid ""
 "Provider's bank account) for the amount stated in the first billing period "
 "by the User."
 msgstr ""
+"онлайн путем акцепта (подтверждения) через веб-интерфейс в соответствии с "
+"Ценником, при этом Соглашение вступает в силу после надлежащей оплаты (в "
+"случае банковского перевода - после зачисления суммы, соответствующей цене "
+"Лицензии, на банковский счёт Поставщика) стоимости Лицензии в размере, "
+"указанном Пользователем в первом расчётном периоде."
 
 #: wllegal/templates/legal/documents/tos.html:207
 msgid "Service Provision"
-msgstr ""
+msgstr "Оказание услуг"
 
 #: wllegal/templates/legal/documents/tos.html:211
 msgid ""
@@ -1208,6 +1214,9 @@ msgid ""
 "accordance with the Agreement and the technical specifications outlined in "
 "the Product specification."
 msgstr ""
+"Поставщик предоставляет Услугу по интернет-адресу, указанному в спецификации "
+"Продукта, и его поддоменам или на Серверах Пользователя в соответствии с "
+"Соглашением и техническими условиями, указанными в спецификации Продукта."
 
 #: wllegal/templates/legal/documents/tos.html:215
 msgid ""
@@ -1218,12 +1227,20 @@ msgid ""
 "specification defined in this manner takes precedence over the form of "
 "Service offered according to the Price list."
 msgstr ""
+"Если Соглашение заключено в соответствии со Статьёй 2.3(a), объём Услуг "
+"определяется в Спецификации продукта, которая прилагается к Соглашению. "
+"Спецификация Продукта может дополнительно детализировать объём отдельных "
+"(-суб)услуг в отношении их содержания и способов активации. Спецификация "
+"Продукта, определённая таким образом, имеет приоритет над формой Услуги, "
+"предлагаемой в соответствии с Ценником."
 
 #: wllegal/templates/legal/documents/tos.html:219
 msgid ""
 "The Service is provided in three forms of cooperation: Hosted Weblate, "
 "Dedicated Weblate, and Self-hosting."
 msgstr ""
+"Сервис предоставляется в трёх формах сотрудничества: Хостинг Weblate, "
+"Выделенный Weblate и Самостоятельный хостинг."
 
 #: wllegal/templates/legal/documents/tos.html:223
 msgid ""
@@ -1236,12 +1253,18 @@ msgid ""
 "third parties may process Personal Data within their activities in "
 "accordance with the Agreement and GPLv3."
 msgstr ""
+"В соответствии с GPLv3 некоторые аспекты Сервиса могут предоставляться либо "
+"с помощью третьих лиц, не являющихся Поставщиком, либо непосредственно этими "
+"лицами. Пользователь признаёт, что эти третьи лица будут предоставлять свои "
+"услуги в соответствии с настоящим Соглашением и лицензией GPLv3. "
+"Пользователь признаёт, что третьи лица, участвующие в предоставлении "
+"Сервиса, могут меняться в процессе предоставления Сервиса. Эти третьи лица "
+"могут обрабатывать Персональные данные в рамках своей деятельности в "
+"соответствии с Соглашением и лицензией GPLv3."
 
 #: wllegal/templates/legal/documents/tos.html:227
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
-msgstr "Сервис"
+msgstr "Длительность сервиса"
 
 #: wllegal/templates/legal/documents/tos.html:231
 msgid ""
@@ -1250,6 +1273,9 @@ msgid ""
 "subscription can be paid monthly or annually in accordance with Article 5 of "
 "the GTC."
 msgstr ""
+"Если иное прямо не оговорено в Соглашении, Соглашение заключается на срок, "
+"соответствующий модели подписки. Подписка может быть оплачена ежемесячно или "
+"ежегодно в соответствии со статьёй 5 GTC."
 
 #: wllegal/templates/legal/documents/tos.html:239
 msgid ""
@@ -1261,6 +1287,13 @@ msgid ""
 "List. The price for Services consists of the following separate items or "
 "their combination, which are paid regularly monthly/annually:"
 msgstr ""
+"Стоимость Услуги определяется в соответствии с офертой или Ценником. "
+"Пользователь признаёт и соглашается с тем, что Ценник может быть изменён "
+"Поставщиком в одностороннем порядке так же, как и настоящие GTC. Цена "
+"зависит от выбранной конфигурации Услуги, и существует множество вариантов, "
+"в которых может быть предоставлена Услуга. Эти варианты перечислены в "
+"Ценнике. Цена на Услуги состоит из следующих отдельных пунктов или их "
+"комбинации, которые оплачиваются регулярно ежемесячно/ежегодно:"
 
 #: wllegal/templates/legal/documents/tos.html:243
 msgid ""
@@ -1269,6 +1302,10 @@ msgid ""
 "but paid monthly or annually, with this price varying for different forms of "
 "collaboration according to the Price List;"
 msgstr ""
+"регулярная цена за доступ к Услугам, которая также всегда устанавливается на "
+"соответствующий период времени и основывается на конкретных условиях Услуги, "
+"но оплачивается ежемесячно или ежегодно, причём эта цена варьируется для "
+"различных форм сотрудничества в соответствии с Ценником;"
 
 #: wllegal/templates/legal/documents/tos.html:246
 msgid ""
