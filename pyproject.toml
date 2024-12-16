@@ -1,7 +1,7 @@
 [build-system]
-build-backend = "setuptools.build_meta"
+build-backend = "hatchling.build"
 requires = [
-  "setuptools>=61.2",
+  "hatchling",
   "translate-toolkit"
 ]
 
