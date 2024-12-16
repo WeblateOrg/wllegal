@@ -1,4 +1,5 @@
 {% load i18n %}
+{% load wllegal %}
 
 {% if not hide_english and LANGUAGE_CODE != 'en' %}
   <div class="alert alert-info" role="alert">
@@ -291,7 +292,8 @@
 </p>
 
 <p class="item">
-  {% blocktranslate with url="https://docs.weblate.org/en/latest/contributing/license.html" %}Unless otherwise stated in the Agreement, the license terms of this Agreement are fully governed by the GPLv3 license. However, selected parts of the Software may also be licensed under other licenses. A complete list of licenses used in the Provider's Software and software extensions can be found in their source code, which corresponds to the REUSE 3.0 specification according to the information provided on the Provider's website (see <a href="{{ url }}">{{ url }}</a>).{% endblocktranslate %}
+  {% weblate_documentation "contributing/license" as documentation_url %}
+  {% blocktranslate with url=documentation_url %}Unless otherwise stated in the Agreement, the license terms of this Agreement are fully governed by the GPLv3 license. However, selected parts of the Software may also be licensed under other licenses. A complete list of licenses used in the Provider's Software and software extensions can be found in their source code, which corresponds to the REUSE 3.0 specification according to the information provided on the Provider's website (see <a href="{{ url }}">{{ url }}</a>).{% endblocktranslate %}
 </p>
 
 <p class="item">
