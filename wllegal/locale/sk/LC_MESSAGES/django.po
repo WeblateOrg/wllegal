@@ -8,29 +8,27 @@
 # Ivan Pleva <ivan.pleva@tutanota.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-11-19 16:28+0000\n"
-"PO-Revision-Date: 2024-11-19 14:16+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Slovak <https://hosted.weblate.org/projects/weblate/legal/sk/"
-">\n"
+"PO-Revision-Date: 2024-12-18 04:00+0000\n"
+"Last-Translator: Peter Vančo <petervanco347@gmail.com>\n"
+"Language-Team: Slovak <https://hosted.weblate.org/projects/weblate/legal/sk/>"
+"\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.9.2-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "Subdodávatelia v súlade s čl. 28 GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:11
-#, fuzzy
-#| msgid "Status as of March 2023."
 msgid "Status as of May 2024."
-msgstr "Stav k marcu 2023."
+msgstr "Stav k máju 2024."
 
 #: wllegal/templates/legal/documents/privacy.html:5
 #, fuzzy
@@ -56,11 +54,14 @@ msgid ""
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
+"Tieto zásady ochrany osobných údajov, ďalej len \"<strong>Zásady</strong>\", "
+"dopĺňajú <a href=\"%(terms_url)s\">Zmluvné podmienky</a> spoločnosti "
+"Weblate, ďalej len „<strong>Podmienky</strong>“."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
 msgid "Introductory Provisions"
-msgstr ""
+msgstr "Úvodné ustanovenia"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
@@ -69,6 +70,10 @@ msgid ""
 "the Commercial Register kept by the Regional Court in Ústí nad Labem, file "
 "No. C 52324, i.e. the \"<strong>Provider</strong>\"."
 msgstr ""
+"Tieto zásady vydala spoločnosť Weblate s.r.o., IČO: 21668027, so sídlom "
+"Nábřežní 694, Cvikov II, 471 54 Cvikov, zapísaná v obchodnom registri "
+"vedenom Krajským súdom v Ústí nad Labem, vložka č. C 52324, t. j. "
+"„<strong>Poskytovateľ</strong>“."
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid ""
@@ -77,6 +82,10 @@ msgid ""
 "the Services, Products, Support Services, as well as when using the Website "
 "and other possible services and related activities."
 msgstr ""
+"Tieto Zásady popisujú, ako Poskytovateľ nakladá s osobnými údajmi "
+"Používateľov ako dotknutých osôb – fyzických osôb pri prístupe a následnom "
+"využívaní Služieb, Produktov, Podporných služieb, ako aj pri používaní "
+"Webovej stránky a iných možných služieb a súvisiacich činností."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid ""
@@ -84,6 +93,9 @@ msgid ""
 "in Article 1 of the Terms and which have the same meaning as set out in the "
 "Terms."
 msgstr ""
+"V týchto zásadách sa používajú aj niektoré pojmy alebo definície, ktoré sú "
+"definované v čl. 1 Podmienok a ktoré majú rovnaký význam, ako je uvedené v "
+"Podmienkach."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
@@ -105,6 +117,11 @@ msgid ""
 "registers for the Provider's newsletter and/or when the Provider and the "
 "User conclude the Contract, whichever is the earliest."
 msgstr ""
+"Spracúvanie osobných údajov Používateľov sa vždy vykonáva len na účely a za "
+"podmienok podrobnejšie uvedených v týchto Zásadách a začína sa okamihom, keď "
+"Používateľ navštívi Webovú stránku, keď sa Používateľ zaregistruje na odber "
+"newslettera Poskytovateľa a/alebo uzatvorením Zmluvy medzi Poskytovateľom a "
+"Používateľom, podľa toho, čo nastane skôr."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid ""
@@ -113,6 +130,9 @@ msgid ""
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
 msgstr ""
+"Spracúvanie sa potom uskutočňuje buď priamo Poskytovateľom a/alebo tretími "
+"osobami v zmysle čl. 3 týchto Zásad, ktorým Poskytovateľ povolil spracúvať "
+"osobné údaje v súlade s týmito Zásadami."
 
 #: wllegal/templates/legal/documents/privacy.html:45
 msgid ""
@@ -123,20 +143,20 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "Rozsah, účely a trvanie spracovania"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
-msgstr ""
+msgstr "Prevádzkovateľ spracúva osobné údaje Používateľa na účely:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "plnenie Zmluvy v zmysle čl. 6 ods. 1 písm. b) GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "rokovania o zmluve v zmysle čl. 6 ods. 1 písm. b) GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid ""
@@ -162,7 +182,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr ""
+msgstr "meno a priezvisko,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
