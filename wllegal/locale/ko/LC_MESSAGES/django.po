@@ -7,19 +7,19 @@
 # Lee Yunseok <ironyunseok@protonmail.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 09:50+0000\n"
-"PO-Revision-Date: 2024-11-28 03:00+0000\n"
-"Last-Translator: 이정희 <daemul72@gmail.com>\n"
-"Language-Team: Korean <https://hosted.weblate.org/projects/weblate/legal/ko/"
-">\n"
+"PO-Revision-Date: 2024-12-19 18:19+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Korean <https://hosted.weblate.org/projects/weblate/legal/ko/>"
+"\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.9.2-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -30,16 +30,11 @@ msgid "Status as of May 2024."
 msgstr "2024년 5월 현재 상태입니다."
 
 #: wllegal/templates/legal/documents/privacy.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
-msgstr ""
-"서비스 약관 문서는 영어로 저술되어 있으며, 귀하의 편의를 위해 번역이 제공됩니"
-"다."
+msgstr "본 개인정보처리방침은 영어로 작성된 법적 구속력을 갖는 문서이며, 번역본은 "
+"참고용으로 제공됩니다."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:7
@@ -638,16 +633,11 @@ msgid "We don’t use any third-party cookies."
 msgstr "당사는 타사 쿠키를 사용하지 않습니다."
 
 #: wllegal/templates/legal/documents/tos.html:6
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
-msgstr ""
-"서비스 약관 문서는 영어로 저술되어 있으며, 귀하의 편의를 위해 번역이 제공됩니"
-"다."
+msgstr "본 일반 이용 약관은 영어로 작성된 법적 구속력을 갖는 문서이며, 번역본은 "
+"참고용으로 제공됩니다."
 
 #: wllegal/templates/legal/documents/tos.html:12
 msgid ""
