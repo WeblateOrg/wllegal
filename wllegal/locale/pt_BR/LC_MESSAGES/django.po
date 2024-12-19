@@ -5,10 +5,10 @@
 # Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 09:50+0000\n"
-"PO-Revision-Date: 2024-12-18 04:00+0000\n"
+"PO-Revision-Date: 2024-12-19 18:19+0000\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "weblate/legal/pt_BR/>\n"
@@ -41,15 +41,16 @@ msgid "View English version"
 msgstr "Ver a versão em inglês"
 
 #: wllegal/templates/legal/documents/privacy.html:12
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "This Privacy Policy, hereinafter referred to as \"<strong>Policy</strong>\", "
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
-"Esta Política de Privacidade, doravante denominada \"<strong>Política</"
-"strong>\", complementa os <a href=\"%(terms_url)s\">Termos e Condições "
-"Gerais</a> do Weblate, doravante denominados \"<strong>Termos</strong>\"."
+"Esta Política de Privacidade, doravante denominada "
+"\"<strong>Política</strong>\", complementa os <a href=\"%(terms_url)s\""
+">Termos e Condições Gerais</a> do Weblate, doravante denominados "
+"\"<strong>Termos</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:17
@@ -207,16 +208,12 @@ msgid "Company ID and Tax ID,"
 msgstr "Identificação da empresa e identificação fiscal,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
-#, fuzzy
-#| msgid ""
-#| "nickname(s) (including any voluntarily linked platforms such as "
-#| "Liberapay, GitHub, Xu, and others),"
 msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, X, and others),"
 msgstr ""
 "apelido(s) (incluindo quaisquer plataformas vinculadas voluntariamente, como "
-"Liberapay, GitHub, Xu e outras),"
+"Liberapay, GitHub, X e outras),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
@@ -227,7 +224,6 @@ msgid "email address(es),"
 msgstr "endereço(s) de e-mail,"
 
 #: wllegal/templates/legal/documents/privacy.html:99
-#, fuzzy
 msgid ""
 "identifiers for Bitbucket, Facebook, Google, LinkedIn, GitHub, GitLab, "
 "openSUSE, and Ubuntu in the event that accounts with these providers are "
@@ -248,13 +244,12 @@ msgstr ""
 "informações sobre o número de membros da equipe do Usuário e suas funções,"
 
 #: wllegal/templates/legal/documents/privacy.html:108
-#, fuzzy
 msgid ""
 "all other user settings of the User account (including the so-called "
 "Profile), i.e., settings for languages, notifications, if they can identify "
 "the User directly or indirectly,"
 msgstr ""
-"todas as outras configurações do usuário da conta do Usuário (incluindo o "
+"todas as outras configurações de usuário da conta do Usuário (incluindo o "
 "chamado Perfil), ou seja, configurações de idiomas, notificações, se puderem "
 "identificar o Usuário direta ou indiretamente,"
 
@@ -288,7 +283,6 @@ msgstr ""
 "dados do sistema, logs e logs de sessão, incluindo o endereço IP do usuário,"
 
 #: wllegal/templates/legal/documents/privacy.html:128
-#, fuzzy
 msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
@@ -488,13 +482,6 @@ msgstr ""
 "Política como \"<strong>Processadores</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:182
-#, fuzzy
-#| msgid ""
-#| "The User agrees that the Provider may transfer personal data to the "
-#| "Processors if this is necessary to fulfil the above purposes of data "
-#| "processing. The Processors that the Provider engages for processing "
-#| "personal data must meet high standards of protection and will always "
-#| "handle the data within the limits of the GDPR and this Policy."
 msgid ""
 "The User agrees that the Provider may transfer personal data to the "
 "aforementioned Processors if this is necessary to fulfil the above purposes "
@@ -509,14 +496,6 @@ msgstr ""
 "manipularão os dados dentro dos limites do RGPD e desta Política."
 
 #: wllegal/templates/legal/documents/privacy.html:186
-#, fuzzy
-#| msgid ""
-#| "In case the Controller is required by law to disclose the Personal Data, "
-#| "an attempt will be made to provide the User with prior notice by e-mail "
-#| "(unless the Controller is prohibited, or it would be futile) that a "
-#| "request for the Personal Data has been made to allow the User to object "
-#| "to the disclosure. If the User does not challenge the disclosure request, "
-#| "the Controller may be legally required to turn over the Personal Data."
 msgid ""
 "The Personal Data might be disclosed to third parties in limited "
 "circumstances when the Controller has a good faith belief it is required by "
@@ -526,12 +505,13 @@ msgid ""
 "the Controller is prohibited, or it would be futile) that a request for the "
 "Personal Data has been made to allow the User to object to the disclosure."
 msgstr ""
-"Caso o Controlador seja obrigado por lei a divulgar os Dados Pessoais, será "
-"feita uma tentativa de fornecer ao Usuário um aviso prévio por e-mail (a "
-"menos que o Controlador seja proibido ou seja inútil) de que uma solicitação "
-"de Dados Pessoais foi feita para permitir que o usuário se oponha à "
-"divulgação. Se o Usuário não contestar a solicitação de divulgação, o "
-"Controlador poderá ser legalmente obrigado a entregar os Dados Pessoais."
+"Os Dados Pessoais podem ser divulgados para terceiros em circunstâncias "
+"limitadas quando o Controlador tiver boa-fé de que é exigido por lei, como "
+"por intimação ou outra ordem judicial ou administrativa. Caso o Controlador "
+"seja obrigado por lei a divulgar os Dados Pessoais, será feita uma tentativa "
+"de fornecer ao Usuário um aviso prévio por e-mail (a menos que o Controlador "
+"seja proibido ou seja inútil) de que uma solicitação de Dados Pessoais foi "
+"feita para permitir que o Usuário se oponha à divulgação."
 
 #: wllegal/templates/legal/documents/privacy.html:190
 msgid ""
@@ -893,16 +873,12 @@ msgstr ""
 "inglês; as traduções são fornecidas para sua conveniência."
 
 #: wllegal/templates/legal/documents/tos.html:12
-#, fuzzy
-#| msgid ""
-#| "The rights and obligations of the User and the Provider resulting from "
-#| "the use of the Service are governed by these Terms of Service."
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
 msgstr ""
 "Os direitos e obrigações do Usuário e do Provedor resultantes do uso do "
-"Serviço são regidos por estes Termos de Serviço."
+"Serviço são regidos por estes Termos e Condições Gerais."
 
 #: wllegal/templates/legal/documents/tos.html:21
 msgid ""
@@ -1116,7 +1092,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:136
 msgid "Self-hosting"
-msgstr "Auto-hospedagem"
+msgstr "Hospedagem Própria"
 
 #: wllegal/templates/legal/documents/tos.html:139
 msgid ""
@@ -1145,73 +1121,70 @@ msgid "Translation Memory"
 msgstr "Memória de tradução"
 
 #: wllegal/templates/legal/documents/tos.html:153
-#, fuzzy
-#| msgid ""
-#| "means the optional translation memory service provided within Weblate"
 msgid "means an optional translation memory service provided on Weblate;"
 msgstr ""
-"significa o serviço opcional de memória de tradução fornecido dentro do "
-"Weblate"
+"significa um serviço opcional de memória de tradução fornecido no Weblate;"
 
 #: wllegal/templates/legal/documents/tos.html:157
 msgid "User"
 msgstr "Usuário"
 
 #: wllegal/templates/legal/documents/tos.html:160
-#, fuzzy
-#| msgid ""
-#| "means any legal entity or an individual other than the Provider, who is "
-#| "using the Service"
 msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
 msgstr ""
-"significa qualquer entidade legal ou um indivíduo que não seja o Provedor, "
-"que está usando o Serviço"
+"significa qualquer entidade legal ou pessoa natural que não seja o Provedor, "
+"que utiliza o Serviço;"
 
 #: wllegal/templates/legal/documents/tos.html:164
 msgid "User Account"
-msgstr ""
+msgstr "Conta de Usuário"
 
 #: wllegal/templates/legal/documents/tos.html:167
 msgid ""
 "means a user account with a unique access code and password in the Hosted "
 "Weblate web interface. Each User Account can be used by only one User;"
 msgstr ""
+"significa uma conta de usuário com um código de acesso e senha exclusivos na "
+"interface web Hosted Weblate. Cada Conta de Usuário pode ser usada por "
+"apenas um Usuário;"
 
 #: wllegal/templates/legal/documents/tos.html:171
 msgid "User Server"
-msgstr ""
+msgstr "Servidor do Usuário"
 
 #: wllegal/templates/legal/documents/tos.html:174
 msgid ""
 "refers to the server and other hardware equipment not owned, managed, or "
 "controlled by the Provider;"
 msgstr ""
+"refere-se ao servidor e outros equipamentos de hardware que não são de "
+"propriedade, gerenciados ou controlados pelo Provedor;"
 
 #: wllegal/templates/legal/documents/tos.html:180
 msgid "Methods of Acceptance"
-msgstr ""
+msgstr "Métodos de Aceitação"
 
 #: wllegal/templates/legal/documents/tos.html:184
 msgid "The License is granted to the User based on the concluded Agreement."
-msgstr ""
+msgstr "A Licença é concedida ao Usuário com base no Contrato celebrado."
 
 #: wllegal/templates/legal/documents/tos.html:188
 msgid "These GTC are an integral part of the Agreement."
-msgstr ""
+msgstr "Estes GTC são parte integrante do Contrato."
 
 #: wllegal/templates/legal/documents/tos.html:192
-#, fuzzy
-#| msgid "License Agreement Conclusion"
 msgid "The Agreement is concluded:"
-msgstr "Celebração de Contrato de Licença"
+msgstr "O Contrato é celebrado:"
 
 #: wllegal/templates/legal/documents/tos.html:197
 msgid ""
 "on the day of signing by both parties (especially for all Services offered "
 "with custom settings);"
 msgstr ""
+"no dia da assinatura por ambas as partes (especialmente para todos os "
+"Serviços oferecidos com configurações personalizadas);"
 
 #: wllegal/templates/legal/documents/tos.html:200
 msgid ""
@@ -1222,10 +1195,16 @@ msgid ""
 "Provider's bank account) for the amount stated in the first billing period "
 "by the User."
 msgstr ""
+"online mediante aceitação (confirmação) via interface web de acordo com a "
+"lista de Preços, sendo o Contrato efetivo a partir do momento em que o Preço "
+"da Licença for devidamente pago (no caso de transferência bancária, a partir "
+"do momento em que o valor correspondente ao Preço da Licença for creditado "
+"na conta bancária do Provedor) no valor informado no primeiro período de "
+"faturamento pelo Usuário."
 
 #: wllegal/templates/legal/documents/tos.html:208
 msgid "Service Provision"
-msgstr ""
+msgstr "Prestação de Serviços"
 
 #: wllegal/templates/legal/documents/tos.html:212
 msgid ""
@@ -1234,6 +1213,10 @@ msgid ""
 "accordance with the Agreement and the technical specifications outlined in "
 "the Product specification."
 msgstr ""
+"O Provedor opera o Serviço no endereço de internet especificado na "
+"especificação do Produto e seus subdomínios ou nos Servidores do Usuário, de "
+"acordo com o Contrato e as especificações técnicas descritas na "
+"especificação do Produto."
 
 #: wllegal/templates/legal/documents/tos.html:216
 msgid ""
@@ -1244,12 +1227,20 @@ msgid ""
 "specification defined in this manner takes precedence over the form of "
 "Service offered according to the Price list."
 msgstr ""
+"Se o Contrato for concluído sob o Artigo 2.3(a), o escopo dos Serviços é "
+"definido na especificação do Produto, que está anexada ao Contrato. A "
+"especificação do Produto pode detalhar ainda mais o escopo de (sub)serviços "
+"individuais em relação ao seu conteúdo e métodos de ativação. A "
+"especificação do Produto definida dessa maneira tem precedência sobre a "
+"forma do Serviço oferecido de acordo com a lista de Preços."
 
 #: wllegal/templates/legal/documents/tos.html:220
 msgid ""
 "The Service is provided in three forms of cooperation: Hosted Weblate, "
 "Dedicated Weblate, and Self-hosting."
 msgstr ""
+"O Serviço é fornecido em três formas de cooperação: Hosted Weblate, Weblate "
+"Dedicado e Hospedagem Própria."
 
 #: wllegal/templates/legal/documents/tos.html:224
 msgid ""
@@ -1262,12 +1253,17 @@ msgid ""
 "third parties may process Personal Data within their activities in "
 "accordance with the Agreement and GPLv3."
 msgstr ""
+"De acordo com a GPLv3, certos aspectos do Serviço podem ser fornecidos com a "
+"assistência de terceiros que não o Provedor ou diretamente por essas partes. "
+"O Usuário reconhece que esses terceiros fornecerão seus serviços de acordo "
+"com este Contrato e a licença GPLv3. O Usuário reconhece que terceiros "
+"envolvidos no fornecimento do Serviço podem mudar ao longo do fornecimento "
+"do Serviço. Esses terceiros podem processar Dados Pessoais dentro de suas "
+"atividades de acordo com o Contrato e a GPLv3."
 
 #: wllegal/templates/legal/documents/tos.html:228
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
-msgstr "Serviço"
+msgstr "Duração do Serviço"
 
 #: wllegal/templates/legal/documents/tos.html:232
 msgid ""
@@ -1276,6 +1272,10 @@ msgid ""
 "subscription can be paid monthly or annually in accordance with Article 5 of "
 "the GTC."
 msgstr ""
+"A menos que expressamente acordado de outra forma no Contrato, o Contrato é "
+"celebrado por um período correspondente a um modelo de assinatura. A "
+"assinatura pode ser paga mensalmente ou anualmente de acordo com o Artigo 5 "
+"do GTC."
 
 #: wllegal/templates/legal/documents/tos.html:240
 msgid ""
@@ -1287,6 +1287,13 @@ msgid ""
 "List. The price for Services consists of the following separate items or "
 "their combination, which are paid regularly monthly/annually:"
 msgstr ""
+"O preço do Serviço é determinado de acordo com a oferta ou a Lista de "
+"Preços. O Usuário reconhece e concorda que a Lista de Preços pode ser "
+"alterada unilateralmente pelo Provedor da mesma forma que estes GTC. O preço "
+"depende da configuração do Serviço escolhida, e há muitas variantes nas "
+"quais o Serviço pode ser fornecido. Essas variantes estão listadas na Lista "
+"de Preços. O preço dos Serviços consiste nos seguintes itens separados ou "
+"sua combinação, que são pagos regularmente mensalmente/anualmente:"
 
 #: wllegal/templates/legal/documents/tos.html:244
 msgid ""
@@ -1295,6 +1302,10 @@ msgid ""
 "but paid monthly or annually, with this price varying for different forms of "
 "collaboration according to the Price List;"
 msgstr ""
+"preço regular para acesso aos Serviços, que também é sempre definido para o "
+"período de tempo relevante e com base nas condições específicas do Serviço, "
+"mas pago mensalmente ou anualmente, com este preço variando para diferentes "
+"formas de colaboração de acordo com a Lista de Preços;"
 
 #: wllegal/templates/legal/documents/tos.html:247
 msgid ""
@@ -1302,24 +1313,29 @@ msgid ""
 "User from the options offered in the Price List or in agreement with the "
 "Provider;"
 msgstr ""
+"preço regular para o número de Textos Hospedados; este valor é escolhido "
+"pelo Usuário entre as opções oferecidas na Lista de Preços ou em contrato "
+"com o Provedor;"
 
 #: wllegal/templates/legal/documents/tos.html:250
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "Memória de tradução"
+msgstr "preço regular para Memória de Tradução;"
 
 #: wllegal/templates/legal/documents/tos.html:255
 msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
 msgstr ""
+"(os pontos a), b) e c) são coletivamente denominados "
+"\"<strong>Assinatura</strong>\")."
 
 #: wllegal/templates/legal/documents/tos.html:259
 msgid ""
 "To avoid doubt, the Subscription may guarantee either only access to a "
 "specific Product or License and/or a specific package of guaranteed Services."
 msgstr ""
+"Para evitar dúvidas, a Assinatura pode garantir apenas acesso a um Produto "
+"ou Licença específica e/ou a um pacote específico de Serviços garantidos."
 
 #: wllegal/templates/legal/documents/tos.html:263
 msgid ""
@@ -1328,6 +1344,10 @@ msgid ""
 "invoice is issued and delivered to the User within 5 working days after the "
 "end of each relevant period."
 msgstr ""
+"O Usuário é obrigado a pagar o Preço com base nos documentos fiscais "
+"recebidos (faturas) emitidos pelo Provedor. O Preço é pago antecipadamente, "
+"e a fatura é emitida e entregue ao Usuário dentro de 5 dias úteis após o fim "
+"de cada período relevante."
 
 #: wllegal/templates/legal/documents/tos.html:267
 #, python-format
@@ -1338,6 +1358,11 @@ msgid ""
 "an additional VAT of 21%%. Reverse charge applies to invoices issued to "
 "businesses within the EU."
 msgstr ""
+"O pagamento do Preço pode ser feito por cartão de crédito, transferência "
+"bancária ou transação de criptomoeda. Todos os Preços listados na Lista de "
+"Preços excluem IVA. Usuários finais da UE e empresas comerciais tchecas "
+"serão obrigados a pagar um IVA adicional de 21%%. A cobrança reversa se "
+"aplica a faturas emitidas para empresas dentro da UE."
 
 #: wllegal/templates/legal/documents/tos.html:271
 msgid ""
@@ -1346,6 +1371,10 @@ msgid ""
 "automatic renewal of the Service usage. The Provider recommends verifying "
 "with the prepaid card issuer or bank whether recurring billing is possible."
 msgstr ""
+"Se o Usuário desejar evitar ser cobrado pelo Serviço no modo de Assinatura, "
+"ele deverá cancelar a Assinatura em até três dias antes da renovação "
+"automática do uso do Serviço. O Provedor recomenda verificar com o emissor "
+"do cartão pré-pago ou banco se o faturamento recorrente é possível."
 
 #: wllegal/templates/legal/documents/tos.html:275
 msgid ""
@@ -1355,6 +1384,11 @@ msgid ""
 "date as per point 5.5 above, their Subscription will stop at the end of the "
 "current billing cycle."
 msgstr ""
+"O Usuário pode alterar seu modo de Assinatura online acessando sua Conta de "
+"Usuário e fazendo a alteração ou cancelando a Assinatura lá. Se o Usuário "
+"cancelar sua Assinatura pelo menos três dias antes da data de renovação "
+"conforme o ponto 5.5 acima, sua Assinatura será interrompida no final do "
+"ciclo de cobrança atual."
 
 #: wllegal/templates/legal/documents/tos.html:279
 msgid ""
@@ -1368,6 +1402,16 @@ msgid ""
 "prepaid Services were prepaid for a period exceeding the actual usage "
 "period, the conditions of such a refund will be agreed upon individually."
 msgstr ""
+"O Provedor não reembolsa NENHUM dinheiro por Serviços, Serviços de Suporte e/"
+"ou quaisquer outros serviços fornecidos sob o Contrato e estes GTC se eles "
+"foram fornecidos antes do cancelamento desses Serviços pelo Usuário. O "
+"cancelamento do pedido após o pagamento é possível por acordo se o Serviço "
+"pedido não tiver sido usado ou nenhuma tentativa de baixá-lo tiver sido "
+"feita. Se uma tentativa de download tiver sido feita, nenhuma negociação "
+"ocorrerá, e o Usuário não tem direito a nenhum reembolso, desconto ou outra "
+"compensação monetária. Se os Serviços pré-pagos foram pré-pagos por um "
+"período que excede o período de uso real, as condições de tal reembolso "
+"serão acordadas individualmente."
 
 #: wllegal/templates/legal/documents/tos.html:283
 msgid ""
@@ -1380,12 +1424,18 @@ msgid ""
 "new Price or conditions come into effect. Under these conditions, the User "
 "has the right to cancel the Subscription."
 msgstr ""
+"Os preços e as condições de Assinatura podem mudar unilateralmente pelo "
+"Operador a qualquer momento. O preço e as condições válidos no momento da "
+"primeira compra ou da última renovação da Assinatura permanecem em vigor "
+"durante o período de Assinatura fornecido, mas novos preços e condições "
+"podem ser aplicados a renovações ou novas Assinaturas. O Provedor notificará "
+"o Usuário sobre quaisquer mudanças de preço ou condição de Assinatura em um "
+"período razoável antes que o novo Preço ou condições entrem em vigor. Sob "
+"essas condições, o Usuário tem o direito de cancelar a Assinatura."
 
 #: wllegal/templates/legal/documents/tos.html:287
-#, fuzzy
-#| msgid "License"
 msgid "License Terms"
-msgstr "Licença"
+msgstr "Termos da Licença"
 
 #: wllegal/templates/legal/documents/tos.html:291
 #, python-format
@@ -1397,6 +1447,12 @@ msgid ""
 "License is provided. The License is granted in accordance with the option "
 "selected according to the Price List."
 msgstr ""
+"O software do Provedor e as extensões de software Weblate são distribuídos "
+"sob a licença GNU/GPLv3 (consulte <a href=\"%(url)s\">%(url)s</a>). O "
+"Usuário recebe uma licença não exclusiva para quaisquer elementos do Serviço "
+"sob os termos do GTC em sua versão mais atualizada no momento em que a "
+"Licença é fornecida. A Licença é concedida de acordo com a opção selecionada "
+"de acordo com a Lista de Preços."
 
 #: wllegal/templates/legal/documents/tos.html:296
 #, python-format
