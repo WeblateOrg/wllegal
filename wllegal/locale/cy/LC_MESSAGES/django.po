@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2024-12-19 09:50+0000\n"
+"POT-Creation-Date: 2024-12-19 18:19+0000\n"
 "PO-Revision-Date: 2024-11-19 13:40+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Welsh <https://hosted.weblate.org/projects/weblate/legal/cy/"
@@ -884,7 +884,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:200
 msgid ""
 "online through acceptance (confirmation) via the web interface in accordance "
-"with the Price list, with the Agreement becoming effective once the Price "
+"with the Price List, with the Agreement becoming effective once the Price "
 "for the License has been duly paid (in the case of a bank transfer, once the "
 "amount corresponding to the Price for the License has been credited to the "
 "Provider's bank account) for the amount stated in the first billing period "
@@ -910,7 +910,7 @@ msgid ""
 "The Product specification may further detail the scope of individual "
 "(sub)services regarding their content and activation methods. The Product "
 "specification defined in this manner takes precedence over the form of "
-"Service offered according to the Price list."
+"Service offered according to the Price List."
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:220
@@ -1321,9 +1321,9 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:405
 msgid ""
-"According to the Service variant listed in the Price list, the User has the "
+"According to the Service variant listed in the Price List, the User has the "
 "right to request Support Services from the Supplier, as specified in the "
-"Price list."
+"Price List."
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:409

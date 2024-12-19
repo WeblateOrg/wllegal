@@ -7,13 +7,13 @@
 # Lee Yunseok <ironyunseok@protonmail.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2024-12-19 09:50+0000\n"
+"POT-Creation-Date: 2024-12-19 18:19+0000\n"
 "PO-Revision-Date: 2024-12-19 18:19+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Korean <https://hosted.weblate.org/projects/weblate/legal/ko/>"
-"\n"
+"Language-Team: Korean <https://hosted.weblate.org/projects/weblate/legal/ko/"
+">\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -33,8 +33,9 @@ msgstr "2024년 5월 현재 상태입니다."
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
-msgstr "본 개인정보처리방침은 영어로 작성된 법적 구속력을 갖는 문서이며, 번역본은 "
-"참고용으로 제공됩니다."
+msgstr ""
+"본 개인정보처리방침은 영어로 작성된 법적 구속력을 갖는 문서이며, 번역본은 참"
+"고용으로 제공됩니다."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:7
@@ -636,8 +637,9 @@ msgstr "당사는 타사 쿠키를 사용하지 않습니다."
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
-msgstr "본 일반 이용 약관은 영어로 작성된 법적 구속력을 갖는 문서이며, 번역본은 "
-"참고용으로 제공됩니다."
+msgstr ""
+"본 일반 이용 약관은 영어로 작성된 법적 구속력을 갖는 문서이며, 번역본은 참고"
+"용으로 제공됩니다."
 
 #: wllegal/templates/legal/documents/tos.html:12
 msgid ""
@@ -906,7 +908,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:200
 msgid ""
 "online through acceptance (confirmation) via the web interface in accordance "
-"with the Price list, with the Agreement becoming effective once the Price "
+"with the Price List, with the Agreement becoming effective once the Price "
 "for the License has been duly paid (in the case of a bank transfer, once the "
 "amount corresponding to the Price for the License has been credited to the "
 "Provider's bank account) for the amount stated in the first billing period "
@@ -932,7 +934,7 @@ msgid ""
 "The Product specification may further detail the scope of individual "
 "(sub)services regarding their content and activation methods. The Product "
 "specification defined in this manner takes precedence over the form of "
-"Service offered according to the Price list."
+"Service offered according to the Price List."
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:220
@@ -1341,9 +1343,9 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:405
 msgid ""
-"According to the Service variant listed in the Price list, the User has the "
+"According to the Service variant listed in the Price List, the User has the "
 "right to request Support Services from the Supplier, as specified in the "
-"Price list."
+"Price List."
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:409
