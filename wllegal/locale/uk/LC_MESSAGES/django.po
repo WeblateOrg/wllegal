@@ -7,10 +7,10 @@
 # Vadim Nekhai <vadimnekhai@gmail.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 18:29+0000\n"
-"PO-Revision-Date: 2024-12-19 18:22+0000\n"
+"PO-Revision-Date: 2024-12-19 19:17+0000\n"
 "Last-Translator: Максим Горпиніч <mgorpinic2005@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/weblate/legal/"
 "uk/>\n"
@@ -1325,13 +1325,7 @@ msgstr ""
 "робочих днів після закінчення кожного відповідного періоду."
 
 #: wllegal/templates/legal/documents/tos.html:267
-#, fuzzy, python-format
-#| msgid ""
-#| "Payment of the Price may be made by Credit Card, bank transfer, or "
-#| "cryptocurrency transaction. All Prices listed in the Price List exclude "
-#| "VAT. End users from the EU and Czech business companies will be required "
-#| "to pay an additional VAT of 21%%. Reverse charge applies to invoices "
-#| "issued to businesses within the EU."
+#, python-format
 msgid ""
 "Payment of the Price may be made by credit card, bank transfer, or "
 "cryptocurrency transaction. All Prices listed in the Price List exclude VAT. "
@@ -1346,13 +1340,6 @@ msgstr ""
 "застосовується до рахунків-фактур, виставлених підприємствам у межах ЄС."
 
 #: wllegal/templates/legal/documents/tos.html:271
-#, fuzzy
-#| msgid ""
-#| "If the User wishes to avoid being charged for the Service in the "
-#| "Subscription mode, they must cancel the Subscription three days before "
-#| "the automatic renewal of the Service usage. The Provider recommends "
-#| "verifying with the prepaid card issuer or bank whether recurring billing "
-#| "is possible."
 msgid ""
 "If the User wishes to avoid being charged for the Service in the "
 "Subscription mode, they must cancel the Subscription at least three days "
@@ -1361,9 +1348,10 @@ msgid ""
 "possible."
 msgstr ""
 "Якщо Користувач бажає уникнути стягнення плати за Послугу в режимі Підписки, "
-"він повинен скасувати Підписку за три дні до автоматичного поновлення "
-"використання Послуги. Постачальник рекомендує перевірити в емітента "
-"передплаченої картки або в банку, чи можливе повторне виставлення рахунку."
+"він повинен скасувати Підписку принаймні за три дні до автоматичного "
+"поновлення використання Послуги. Постачальник рекомендує перевірити в "
+"емітента передплаченої картки або в банку, чи можливе повторне виставлення "
+"рахунку."
 
 #: wllegal/templates/legal/documents/tos.html:275
 msgid ""
