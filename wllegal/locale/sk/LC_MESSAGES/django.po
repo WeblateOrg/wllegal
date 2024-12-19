@@ -8,13 +8,13 @@
 # Ivan Pleva <ivan.pleva@tutanota.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 09:50+0000\n"
-"PO-Revision-Date: 2024-12-18 04:00+0000\n"
+"PO-Revision-Date: 2024-12-19 18:19+0000\n"
 "Last-Translator: Peter Vančo <petervanco347@gmail.com>\n"
-"Language-Team: Slovak <https://hosted.weblate.org/projects/weblate/legal/sk/"
-">\n"
+"Language-Team: Slovak <https://hosted.weblate.org/projects/weblate/legal/sk/>"
+"\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -108,6 +108,14 @@ msgid ""
 "personal data and the protection of privacy in the electronic communications "
 "sector (abbreviated as the \"<strong>ePrivacy Directive</strong>\")."
 msgstr ""
+"Poskytovateľ pri spracovaní osobných údajov dodržiava Nariadenie Európskeho "
+"parlamentu a Rady (EÚ) 2016/679, všeobecné nariadenie o ochrane osobných "
+"údajov, známe tiež ako GDPR (ďalej budeme používať skratku "
+"„<strong>GDPR</strong>“), zákon č. 110/2019 Zb. o spracovaní osobných "
+"údajov, a ďalej tiež smernicu Európskeho parlamentu a Rady 2002/58/ES zo dňa "
+"12. júla 2002 o spracovaní osobných údajov a ochrane súkromia v odvetví "
+"elektronických komunikácií (skrátene len „<strong>ePrivacy "
+"smernicu</strong>“)."
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -140,6 +148,10 @@ msgid ""
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
+"Ak nie je v týchto Zásadách výslovne uvedené inak, vystupuje Poskytovateľ v "
+"pozícii <strong>správca osobných údajov</strong> a Používatelia, ktorí sú "
+"fyzickými osobami, v pozícii subjektu údajov tak, ako sú tieto role "
+"definované v nariadení GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
@@ -163,22 +175,28 @@ msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
 msgstr ""
+"plnenie právnych povinností Poskytovateľa v zmysle čl. 6(1)(c) nariadenia "
+"GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, "
 "and in selected cases also"
 msgstr ""
+"oprávneného záujmu Poskytovateľa v zmysle čl. 6(1)(f) nariadenia GDPR, a vo "
+"vybraných prípadoch tiež"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
-msgstr ""
+msgstr "súhlasu udeleného Používateľom v zmysle čl. 6(1)(a) nariadenia GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
 msgstr ""
+"Rozsah osobných údajov Používateľa spracovávaných Poskytovateľom je "
+"nasledujúci:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
@@ -186,27 +204,27 @@ msgstr "meno a priezvisko,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr ""
+msgstr "adresu Používateľa (dodacia aj fakturačná),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr ""
+msgstr "IČO a DIČ,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, X, and others),"
 msgstr ""
+"prezývku či prezývky (vrátane prípadne dobrovoľne prepojených platforiem "
+"typu Liberapay, GitHub, X a ďalších),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr ""
+msgstr "avatar Používateľa,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail address"
 msgid "email address(es),"
-msgstr "Meno a e-mailová adresa"
+msgstr "e-mailovú adresu či adresy,"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -214,15 +232,18 @@ msgid ""
 "openSUSE, and Ubuntu in the event that accounts with these providers are "
 "linked to the User account,"
 msgstr ""
+"identifikátory Bitbucket, Facebook, Google, LinkedIn, GitHub, GitLab, "
+"openSUSE a Ubuntu v prípade prepojenia účtov u týchto poskytovateľov s "
+"Používateľským účtom,"
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
-msgstr ""
+msgstr "špecifikácie Služby a Produktu využívaných Používateľom,"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
-msgstr ""
+msgstr "informácie o počte členov tímu Používateľa a ich rolách,"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
@@ -230,35 +251,43 @@ msgid ""
 "Profile), i.e., settings for languages, notifications, if they can identify "
 "the User directly or indirectly,"
 msgstr ""
+"všetky ďalšie používateľské nastavenia Používateľského účtu (vrátane tzv. "
+"Profilu), teda nastavenie jazykov, notifikácií, ak môže Používateľa priamo "
+"alebo nepriamo identifikovať,"
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
-msgstr ""
+msgstr "číslo bankového účtu a prípadne ďalšie platobné údaje Používateľa,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "adresa kryptomenovej peňaženky či adresy kryptomenových peňaženiek,"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
 "other personal data contained in messages sent by the User to the Provider "
 "(especially the subject and other content of the message),"
 msgstr ""
+"ďalšie osobné údaje obsiahnuté v správe Požívateľa zaslanej Poskytovateľovi ("
+"najmä predmet a ďalší obsah správy),"
 
 #: wllegal/templates/legal/documents/privacy.html:120
 msgid ""
 "other personal data contained in communications with the Provider's support,"
-msgstr ""
+msgstr "ďalšie osobné údaje obsiahnuté v komunikácii s podporou Poskytovateľa,"
 
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
 msgstr ""
+"systémové údaje, protokoly a logy relácií vrátane IP adresy Používateľa,"
 
 #: wllegal/templates/legal/documents/privacy.html:128
 msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
+"pričom jednotlivé kategórie osobných údajov tak, sú uvedené vyššie, budú "
+"naďalej súhrnne označované ako „<strong>Osobné údaje</strong>“."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -271,6 +300,15 @@ msgid ""
 "under the conditions and based on a separate data processing agreement (so-"
 "called processing agreement) concluded between the Provider and the User."
 msgstr ""
+"V určitých prípadoch môže byť Poskytovateľ <strong>tiež spracovateľom "
+"osobných údajov</strong>, a to v prípade, že sú mu zo strany Používateľa "
+"poskytnuté osobné údaje tretích osôb pre ich vlastné účely (napr. v prípade "
+"pridania jednotlivých členov svojho tímu, darovanie projektu Poskytovateľa v "
+"mene cudzej osoby a pod.). Ku spracovávanie vybraných Osobných údajov "
+"tretích osôb sprístupnených Používateľom dochádza v tomto prípade na pokyn "
+"Používateľa, a to za podmienok a na základe samostatnej zmluvy o spracovaní "
+"osobných údajov (tzv. spracovateľskej zmluvy) uzavretej medzi Poskytovateľom "
+"a Používateľom."
 
 #: wllegal/templates/legal/documents/privacy.html:136
 msgid ""
@@ -296,6 +334,27 @@ msgid ""
 "the User's instructions unless the Provider has another legal basis for "
 "processing personal data as a controller under Article 2.1 of this Policy."
 msgstr ""
+"Poskytovateľ spracováva Osobné údaje do doby splnenia všetkých záväzkov "
+"vyplývajúcich zo Zmluvy. K okamihu uzavretia účtu zo strany Poskytovateľa a/"
+"alebo zrušenia účtu zo strany Používateľa potom dochádza k výmazu všetkých "
+"Osobných údajov a ďalších dát vložených do Služby s výnimkou vybraných "
+"Osobných údajov uvedených nižšie; Poskytovateľ preto <strong>dôrazne "
+"odporúča zálohovať</strong> všetky dáta vložené do Služby pred zrušením "
+"Používateľského účtu a nezodpovedá za ich stratu po uzavretí Používateľského "
+"účtu, a to ani v prípade, že je tento oprávnene uzavretý zo strany "
+"Poskytovateľa. Osobné údaje uvedené na faktúre uchováva Poskytovateľ vždy "
+"minimálne po dobu archivačných lehôt vyplývajúcich Poskytovateľovi zo "
+"zákona, teda v dĺžke 10 rokov. V prípadoch, keď je to nevyhnutné z dôvodu "
+"obrany nárokov Poskytovateľa a/alebo obrany proti nárokom tretích strán ("
+"vrátane prípadných konaní začatých orgánmi verejnej správy) môže "
+"Poskytovateľ uchovávať aj niektoré ďalšie Osobné údaje, vždy však maximálne "
+"po dobu trvania premlčacej doby jednotlivých nárokov a/alebo do "
+"právoplatného skončenia vybraných konaní. Konkrétnu dobu nemožno presne "
+"definovať a líši sa podľa typu nároku, jej premlčacej doby a rýchlosti "
+"vybraných súdov či orgánov verejnej správy. Údaje, ktoré Poskytovateľ. "
+"spracováva iba ako spracovateľ Používateľa, sú spracovávané po dobu určenú "
+"pokynom Požívateľa, ak Poskytovateľ nedisponuje iným zákonným titulom pre "
+"spracovanie osobných údajov z pozície správcu v zmysle čl. 2.1 týchto Zásad."
 
 #: wllegal/templates/legal/documents/privacy.html:140
 #, python-format
@@ -315,6 +374,19 @@ msgid ""
 "consent granted otherwise, by sending a request to <a href=\"mailto:"
 "%(address)s\">%(address)s</a>."
 msgstr ""
+"Poskytovateľ môže spracovávať vybrané Osobné údaje Používateľa, najmä e-"
+"mail, meno, priezvisko a prípadné ďalšie osobné údaje (ak sú na tieto účely "
+"poskytnuté) tiež na základe dobrovoľného a informovaného súhlasu "
+"Používateľa. K spracovaniu dochádza po dobu 2 rokov a/alebo do okamihu "
+"odvolania súhlasu. Využívanie Služby ani Produkt (vrátane Služieb Podpory) "
+"nie je nikdy podmienené poskytnutím súhlasu. Súhlasom je však typicky "
+"podmienené zasielanie newsletteru subjektom údajov, ktorí ešte nie sú "
+"Používateľom, prípadne poskytnutie vybraných bonusov či bonusových "
+"materiálov nenaviazaných na ďalšie služby Poskytovateľa a/alebo zverejnenie "
+"Osobných údajov Používateľa v súvislosti s darom poskytnutým "
+"Poskytovateľovi. Odvolanie je možné vykonať kedykoľvek priamo v rozhraní "
+"Používateľského účtu a v v prípade súhlasu udeleného inak aj zaslaním "
+"žiadosti na adresu <a href=\"mailto: %(address)s \">%(address)s </a>."
 
 #: wllegal/templates/legal/documents/privacy.html:144
 msgid ""
@@ -323,12 +395,14 @@ msgid ""
 "selected Personal Data based on a different legal reason if this legal "
 "reason in favour of the Provider continues to exist."
 msgstr ""
+"Potom, čo pominie dôvod spracovania Osobných údajov, Poskytovateľ Osobné "
+"údaje zlikviduje. To nevylučuje ďalšie spracovávanie vybraných Osobných "
+"údajov na základe odlišného zákonného dôvodu v prípade, že tento zákon dôvod "
+"v prospech Poskytovateľa aj naďalej pretrváva."
 
 #: wllegal/templates/legal/documents/privacy.html:149
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Recipients and Processors of Personal Data"
-msgstr "Prístup k Osobným údajom"
+msgstr "Príjemcovia a spracovatelia osobných údajov"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -337,12 +411,18 @@ msgid ""
 "proper processing of Personal Data for the purposes defined in Article 2.1 "
 "of this Policy, specifically:"
 msgstr ""
+"Osobné údaje na základe týchto Zásad okrem Poskytovateľa prijímajú a "
+"spracovávajú aj vybrané tretie strany, ktorých zapojenie je nevyhnutné pre "
+"riadne spracovávanie Osobných údajov v rámci účelov definovaných v čl. 2.1 "
+"týchto Zásad, najmä potom:"
 
 #: wllegal/templates/legal/documents/privacy.html:158
 msgid ""
 "hosting provider (including web hosting and mail hosting services), "
 "currently this is <strong>Hetzner Online GmbH</strong>;"
 msgstr ""
+"poskytovateľ hostingu (vrátane webhostingových a mailhostingových služieb), "
+"v túto chvíľu ide o spoločnosť <strong>Hetzner Online GmbH</strong>;"
 
 #: wllegal/templates/legal/documents/privacy.html:161
 msgid ""
@@ -350,24 +430,33 @@ msgid ""
 "possibly operators of other services used in connection with the payment of "
 "any payments related to billing;"
 msgstr ""
+"prevádzkovatelia platobnej brány <strong>ThePay.cz, sro</strong> a prípadne "
+"prevádzkovatelia ďalších služieb, ktoré sú svojím charakterom používané pri "
+"úhrade akýchkoľvek platieb súvisiacich s platbou;"
 
 #: wllegal/templates/legal/documents/privacy.html:164
 msgid ""
 "accounting, legal, and tax advisors of the Provider and possibly other "
 "persons bound by confidentiality under the law;"
 msgstr ""
+"účtovní, právni a daňoví poradcovia Poskytovateľa a prípadne ďalšie osoby "
+"zaviazané mlčanlivosťou zo zákona;"
 
 #: wllegal/templates/legal/documents/privacy.html:167
 msgid ""
 "C-level and other managerial employees employed by or otherwise "
 "collaborating with the Provider;"
 msgstr ""
+"C-level a ďalšie manažérske osoby zamestnané u Poskytovateľa a/alebo s "
+"Poskytovateľom inak spolupracujúce;"
 
 #: wllegal/templates/legal/documents/privacy.html:170
 msgid ""
 "selected contractors of the Provider who are involved in providing services "
 "to Users and who are also bound by confidentiality;"
 msgstr ""
+"vybraní kontraktori Poskytovateľa, ktorí sa podieľajú na poskytovaní služieb "
+"Požívateľom, ktorí sú tiež viazaní mlčanlivosťou;"
 
 #: wllegal/templates/legal/documents/privacy.html:173
 msgid ""
@@ -375,12 +464,17 @@ msgid ""
 "the Service, Products, Support Services, and/or to ensure any other "
 "activities related to the above;"
 msgstr ""
+"prípadné ďalšie osoby ktorých zapojenie je nevyhnutné pre riadne "
+"poskytovanie Služby, Produktov, Služieb Podpory a/alebo zaistenie "
+"akýchkoľvek ďalších činností s vyššie uvedeným súvisiacimi;"
 
 #: wllegal/templates/legal/documents/privacy.html:178
 msgid ""
 "the persons mentioned in this Article 3.1 are collectively referred to in "
 "this Policy as \"<strong>Processors</strong>\"."
 msgstr ""
+"osoby vyššie uvedené v tomto čl. 3.1 sú v týchto Zásadách naďalej spoločne "
+"označené ako len ako „<strong>Spracovávatelia</strong>“."
 
 #: wllegal/templates/legal/documents/privacy.html:182
 msgid ""
@@ -390,16 +484,13 @@ msgid ""
 "personal data must meet high standards of protection and will always handle "
 "the data within the limits of the GDPR and this Policy."
 msgstr ""
+"Používateľ súhlasí s tým, že Poskytovateľ môže odovzdať osobné údaje zhora "
+"uvedeným Spracovateľom, pokiaľ je to nevyhnutné pre naplnenie vyššie "
+"uvedených účelov spracovania údajov. Spracovatelia, ktorých Poskytovateľ "
+"poverí spracovaním osobných údajov, musia spĺňať vysoký štandard ochrany a "
+"budú s údajmi nakladať vždy v medziach GDPR a týchto Zásad."
 
 #: wllegal/templates/legal/documents/privacy.html:186
-#, fuzzy
-#| msgid ""
-#| "In case the Controller is required by law to disclose the Personal Data, "
-#| "an attempt will be made to provide the User with prior notice by e-mail "
-#| "(unless the Controller is prohibited, or it would be futile) that a "
-#| "request for the Personal Data has been made to allow the User to object "
-#| "to the disclosure. If the User does not challenge the disclosure request, "
-#| "the Controller may be legally required to turn over the Personal Data."
 msgid ""
 "The Personal Data might be disclosed to third parties in limited "
 "circumstances when the Controller has a good faith belief it is required by "
@@ -409,18 +500,22 @@ msgid ""
 "the Controller is prohibited, or it would be futile) that a request for the "
 "Personal Data has been made to allow the User to object to the disclosure."
 msgstr ""
-"V prípade, že je Správca zo zákona povinný Osobné Údaje sprístupniť, pokúsi "
-"sa Používateľa vopred informovať e-mailom (pokiaľ to nie je Správcovi "
-"zakázané alebo by to bolo zbytočné) o tom, že bola podaná žiadosť o Osobné "
-"Údaje, aby mohol Používateľ vzniesť námietku proti sprístupnenie. Pokiaľ "
-"Používateľ žiadosť o sprístupnenie neodmietne, môže byť Správca zo zákona "
-"povinný Osobné údaje odovzdať."
+"Osobné údaje môžu byť ďalej sprístupnené tretím stranám v obmedzených "
+"prípadoch, pokiaľ má Poskytovateľ dôvodne za to, že je to vyžadované "
+"zákonom, napríklad na základe predvolania alebo iného súdneho či správneho "
+"príkazu. Pokiaľ je Poskytovateľ povinný zo zákona sprístupniť Osobné údaje, "
+"pokúsi sa Používateľovi poskytnúť predchádzajúce upozornenie e-mailom ("
+"pokiaľ to nie je zakázané alebo by to bolo márne), že bola podaná žiadosť o "
+"sprístupnenie Osobných údajov, aby mal Používateľ možnosť vzniesť proti "
+"sprístupneniu námietku."
 
 #: wllegal/templates/legal/documents/privacy.html:190
 msgid ""
 "The processing of Personal Data by selected Processors may be governed by "
 "their own service provision conditions."
 msgstr ""
+"Spracovávanie Osobných údajov vybranými Spracovateľmi môže byť upravené ich "
+"vlastnými podmienkami poskytovania služieb."
 
 #: wllegal/templates/legal/documents/privacy.html:194
 msgid ""
@@ -429,10 +524,15 @@ msgid ""
 "where the transfer must occur in compliance with the obligations of the "
 "Provider arising from generally binding regulations."
 msgstr ""
+"K odovzdaniu Osobných údajov môže dôjsť ďalej v prípade, že je Poskytovateľ "
+"povinný k takému odovzdaniu zo zákona, v dôsledku rozhodnutia orgánu "
+"verejnej správy, ako aj v ďalších prípadoch, keď musí k odovzdaniu prísť v "
+"súlade povinnosťami Poskytovateľa vyplývajúcemu z všeobecne záväzných "
+"predpisov."
 
 #: wllegal/templates/legal/documents/privacy.html:199
 msgid "Common Provisions on Processing"
-msgstr ""
+msgstr "spoločné ustanovenia o spracovaní"
 
 #: wllegal/templates/legal/documents/privacy.html:203
 msgid ""
@@ -442,6 +542,11 @@ msgid ""
 "processing of personal data by any third party, even if those third parties "
 "are Processors."
 msgstr ""
+"Poskytovateľ vždy vynaloží všetko úsilie, aby zabránil neoprávnenému "
+"spracovaniu osobných údajov inými osobami, avšak nezodpovedá Používateľovi "
+"ani iným subjektom údajov za prípadné škody spôsobené neoprávneným "
+"spracovaním osobných údajov akoukoľvek treťou osobou, a to ani v prípade, že "
+"sú touto treťou osobou Spracovatelia."
 
 #: wllegal/templates/legal/documents/privacy.html:207
 msgid ""
@@ -451,6 +556,11 @@ msgid ""
 "480/2004 Coll. on Certain Information Society Services, if they directly "
 "relate to these Services, Products, and/or Support Services."
 msgstr ""
+"E-maily zasielané Používateľom v súvislosti s poskytovaním Služby, Produktu "
+"a/alebo Služieb Podpory sa nepovažujú za nevyžiadané obchodné oznámenia v "
+"zmysle zákona č. 40/1995 Zb. o reklame a zákona č. 480/2004 Zb. o niektorých "
+"službách informačnej spoločnosti, ak sa týkajú priamo týchto Služieb "
+"Produktov a/alebo Služieb Podpory."
 
 #: wllegal/templates/legal/documents/privacy.html:211
 msgid ""
@@ -462,6 +572,13 @@ msgid ""
 "revoked at any time by clicking on the link found in the footer of such "
 "commercial communication."
 msgstr ""
+"Používateľ však môže výslovne <strong>dobrovoľne súhlasiť</strong>, v zmysle "
+"ustanovenia § 7 ods. 2 zákona č. 480/2004 Zb. o niektorých službách "
+"informačnej spoločnosti a o zmene niektorých zákonov v znení neskorších "
+"predpisov so zasielaním obchodných oznámení širšieho rozsahu (napr. v "
+"prípade nepriameho marketingu) Poskytovateľom na elektronickú adresu "
+"Používateľa. Tento súhlas možno samozrejme kedykoľvek odvolať kliknutím na "
+"odkaz nachádzajú sa v pätičke takého obchodného oznámenia."
 
 #: wllegal/templates/legal/documents/privacy.html:215
 msgid ""
@@ -469,6 +586,9 @@ msgid ""
 "related to Personal Data that affects the User, they will notify the User of "
 "this fact without undue delay."
 msgstr ""
+"V prípade, že sa Poskytovateľ a/alebo Spracovatelia dozvedia o bezpečnostnom "
+"riziku spojenom s Osobnými údajmi, ktoré má dopad na Používateľa, oznámi mu "
+"túto skutočnosť bez zbytočného odkladu."
 
 #: wllegal/templates/legal/documents/privacy.html:219
 msgid ""
@@ -477,6 +597,10 @@ msgid ""
 "other incident leading to loss. However, the Provider is not responsible for "
 "the improper actions of the Processors."
 msgstr ""
+"Poskytovateľ poskytne Používateľovi súčinnosť a právnu pomoc pri vymáhaní "
+"náhrady škody od zodpovedných Spracovateľov v prípade úniku osobných údajov "
+"alebo inej udalosti vedúcej k strate. Poskytovateľ však nezodpovedá za "
+"nesprávny postup Spracovateľov."
 
 #: wllegal/templates/legal/documents/privacy.html:223
 msgid ""
@@ -488,6 +612,13 @@ msgid ""
 "the User in the case where they provide the Provider with Personal Data of "
 "data subjects other than this User."
 msgstr ""
+"Používateľ týmto potvrdzuje, že poskytnuté Osobné údaje sú pravdivé, presné "
+"a že sa vzťahujú výhradne k Používateľovi, resp. že poskytol údaje, ktorých "
+"použitím neboli porušené práva tretích osôb. Používateľ je povinný vždy "
+"informovať Poskytovateľa o všetkých zmenách svojich Osobných údajov tak, aby "
+"boli spracovávané iba aktuálne a úplné údaje. Rovnaké povinnosti Používateľa "
+"ťaží aj v prípade, keď Poskytovateľovi oznámi Osobné údaje subjektov údajov "
+"odlišných od tohto Používateľa."
 
 #: wllegal/templates/legal/documents/privacy.html:227
 msgid ""
@@ -496,6 +627,10 @@ msgid ""
 "never be subject to individual automated decision-making (including "
 "profiling) within the meaning of Article 22 of the GDPR."
 msgstr ""
+"Osobné údaje budú spracovávané elektronicky, vrátane použitia "
+"automatizovaného spôsobu spracovania. Používateľ ani iné subjekty údajov "
+"však nebudú nikdy predmetom individuálneho automatizovaného rozhodovania ("
+"ani profilovania) v zmysle článku 22 nariadenia GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:231
 msgid ""
@@ -503,12 +638,13 @@ msgid ""
 "the GDPR) may be processed even after all legal grounds for processing the "
 "User's Personal Data have ceased."
 msgstr ""
+"Anonymizované osobné údaje (ktoré teda už nie sú v zmysle nariadenia GDPR "
+"považované za osobné údaje) môžu byť spracovávané aj po zániku všetkých "
+"zákonných dôvodov pre spracovanie Osobných údajov Používateľa."
 
 #: wllegal/templates/legal/documents/privacy.html:236
-#, fuzzy
-#| msgid "Order us to delete your Personal Data"
 msgid "User Rights in Relation to Personal Data"
-msgstr "Požadovať odstránenie vašich Osobných údajov"
+msgstr "Práva používateľa vo vzťahu k osobným údajom"
 
 #: wllegal/templates/legal/documents/privacy.html:240
 #, python-format
@@ -520,6 +656,13 @@ msgid ""
 "correction, restriction, or deletion) can be automated through this user "
 "account."
 msgstr ""
+"Používateľ môže svoje práva vyplývajúce pre neho z nariadenia GDPR "
+"kedykoľvek uplatniť zaslaním e-mailu na adresu <a href="
+"\"mailto: %(address)s \">%(address)s </a> a ďalej tiež prostredníctvom "
+"Používateľského účtu, pretože realizácia väčšiny práv uvedených nižšie ("
+"najmä prístup ku všetkým spracovávaným Osobným údajom, ich oprave, "
+"obmedzeniu či odstráneniu je možné realizovať automatizovane cez tento "
+"používateľský účet."
 
 #: wllegal/templates/legal/documents/privacy.html:244
 msgid ""
@@ -528,30 +671,42 @@ msgid ""
 "strong>, unless due to the complexity of the matter it is necessary for the "
 "Provider to extend this period. The User's rights include:"
 msgstr ""
+"Poskytovateľ sa bude snažiť vyriešiť požiadavky týkajúce sa osobných údajov "
+"Používateľa čo najskôr, najneskôr však do <strong>30 dní</strong>, ak nie je "
+"v dôsledku zložitosti danej veci treba takú lehotu zo strany Poskytovateľa "
+"ďalej predĺžiť. Práva Používateľa zahŕňajú:"
 
 #: wllegal/templates/legal/documents/privacy.html:249
 msgid ""
 "an explanation of whether and what personal data is being processed and, if "
 "applicable, requesting the Provider to disclose it;"
 msgstr ""
+"vysvetlenie, či a aké osobné údaje sú spracovávané, a prípadne požiadať "
+"Poskytovateľa o ich zverejnenie;"
 
 #: wllegal/templates/legal/documents/privacy.html:252
 msgid ""
 "correction of personal data if there is concern that some of it is "
 "inaccurate or missing;"
 msgstr ""
+"opravu osobných údajov, ak existuje obava, že niektoré z nich sú nepresné "
+"alebo chýba;"
 
 #: wllegal/templates/legal/documents/privacy.html:255
 msgid ""
 "restriction of processing if there is concern that the Provider is "
 "processing more data than necessary;"
 msgstr ""
+"obmedzenie spracovania, ak existuje obava, že Poskytovateľ spracováva viac "
+"údajov, než je nevyhnutné;"
 
 #: wllegal/templates/legal/documents/privacy.html:258
 msgid ""
 "deletion of personal data based on the consent of the Provider, provided "
 "that there is no other legal reason for further processing of personal data;"
 msgstr ""
+"výmaz osobných údajov, pričom Poskytovateľ žiadosti vyhovie za predpokladu, "
+"že neexistuje iný právny dôvod pre ďalšie spracovanie osobných údajov;"
 
 #: wllegal/templates/legal/documents/privacy.html:261
 msgid ""
@@ -559,12 +714,17 @@ msgid ""
 "on the consent of the Provider or in connection with fulfilling the "
 "Provider's contractual obligations, in a machine-readable format;"
 msgstr ""
+"vydanie kópie osobných údajov spracovávaných automatizovanými prostriedkami "
+"na základe súhlasu Poskytovateľa alebo v súvislosti s plnením zmluvných "
+"povinností Poskytovateľa, a to v strojovo čitateľnom formáte;"
 
 #: wllegal/templates/legal/documents/privacy.html:264
 msgid ""
 "temporary freezing of data processing operations for the purposes of the "
 "legitimate interest of the Provider;"
 msgstr ""
+"dočasné zmrazenie operácií spracovania údajov na účely oprávneného záujmu "
+"Poskytovateľa;"
 
 #: wllegal/templates/legal/documents/privacy.html:267
 #, python-format
@@ -574,11 +734,15 @@ msgid ""
 "authority if the User believes that the Provider is processing personal data "
 "in violation of this Policy or legal regulations."
 msgstr ""
+"podanie sťažnosti priamo na Úrade pre ochranu osobných údajov ( <a href="
+"\" %(url)s \">%(url)s </a>) alebo iného príslušného národného úradu pre "
+"ochranu osobných údajov, pokiaľ sa Používateľ domnieva, že Poskytovateľ "
+"spracováva osobné údaje v rozpore s týmito Zásadami alebo právnymi predpismi."
 
 #: wllegal/templates/legal/documents/privacy.html:272
 #: wllegal/templates/legal/documents/tos.html:621
 msgid "Final Provisions"
-msgstr ""
+msgstr "Záverečné ustanovenia"
 
 #: wllegal/templates/legal/documents/privacy.html:276
 msgid ""
@@ -589,6 +753,12 @@ msgid ""
 "Policy displayed within the Service, or upon the next first login to their "
 "User Account."
 msgstr ""
+"Poskytovateľ je oprávnený jednostranne zmeniť tieto Zásady. Nové znenie "
+"Zásad sa stáva účinným okamihom zverejnenia na Webe. Používateľ, ktorý bude "
+"mať v čase zmeny s Poskytovateľom uzavretý zmluvný vzťah, ktorý sa riadi "
+"týmito Zásadami, obdrží od Poskytovateľa upozornenie o zmene Zásad jej "
+"zobrazením v rámci Služby, resp. pri najbližšom prvom prihlásení do "
+"Používateľského účtu."
 
 #: wllegal/templates/legal/documents/privacy.html:280
 msgid ""
@@ -598,6 +768,11 @@ msgid ""
 "Policy will be resolved before the competent civil court in the Czech "
 "Republic."
 msgstr ""
+"Všetky právne vzťahy medzi Poskytovateľom a Používateľom vyplývajúce z "
+"týchto Zásad sa riadia platným právom Českej republiky. Všetky spory, ktoré "
+"medzi Poskytovateľom a Používateľom vzniknú z týchto Zásad alebo v "
+"súvislosti s nimi, budú riešené pred vecne a miestne príslušným civilným "
+"súdom v Českej republike."
 
 #: wllegal/templates/legal/documents/privacy.html:284
 msgid ""
@@ -610,6 +785,13 @@ msgid ""
 "Council (EC) No. 593/2008 of June 17, 2008, on the law applicable to "
 "contractual obligations (Rome I)."
 msgstr ""
+"Pokiaľ vzťah založený Zmluvou obsahuje medzinárodný (zahraničný) prvok, nie "
+"je voľbou práva podľa predchádzajúcej vety Používateľ – Spotrebiteľ zbavený "
+"ochrany, ktorú mu poskytujú ustanovenia právneho poriadku, od ktorých sa "
+"nemožno zmluvne odchýliť, a ktoré by sa v prípade neexistencie voľby práva "
+"inak použili podľa ustanovení článok 6 ods. 1 Nariadenie Európskeho "
+"parlamentu a Rady (ES) č. 593/2008 zo 17. júna 2008 o rozhodnom práve pre "
+"zmluvné záväzkové vzťahy (Rím I)."
 
 #: wllegal/templates/legal/documents/privacy.html:288
 msgid ""
@@ -619,14 +801,19 @@ msgid ""
 "provision does not affect the validity of the other provisions of this "
 "Policy."
 msgstr ""
+"Ak je niektoré ustanovenie Zásad neplatné alebo neúčinné, alebo sa takým "
+"stane, namiesto neplatných ustanovení nastúpi ustanovenie, ktorého zmysel sa "
+"neplatnému ustanoveniu čo najviac približuje. Neplatnosťou alebo "
+"neúčinnosťou jedného ustanovenia nie je dotknutá platnosť ostatných "
+"ustanovení týchto Zásad."
 
 #: wllegal/templates/legal/documents/privacy.html:292
 msgid "This Policy become effective upon their publication on the Website."
-msgstr ""
+msgstr "Tieto Zásady nadobúdajú účinnosť ich zverejnením na Webe."
 
 #: wllegal/templates/legal/documents/privacy.html:296
 msgid "In Prague on November 1, 2024."
-msgstr ""
+msgstr "V Prahe dňa 1. 11. 2024."
 
 #: wllegal/templates/legal/documents/summary.html:5
 msgid ""
@@ -649,8 +836,7 @@ msgid ""
 "Your name and e-mail address is used in VCS commits, it will stay there "
 "indefinitely."
 msgstr ""
-"Vaše meno a e-mailová adresa sa používajú v zápisoch systému pre správu "
-"verzií, kde zostanú uvedené na neurčito."
+"Vaše meno a e-mailová adresa sú použité v zápisoch VCS, zostanú tam navždy."
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid ""
@@ -681,16 +867,12 @@ msgstr ""
 "Preklady poskytujeme pre vaše pohodlie."
 
 #: wllegal/templates/legal/documents/tos.html:12
-#, fuzzy
-#| msgid ""
-#| "The rights and obligations of the User and the Provider resulting from "
-#| "the use of the Service are governed by these Terms of Service."
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
 msgstr ""
-"Práva a povinnosti Používateľa a Poskytovateľa plynúce z používania Služby "
-"sa riadia týmito Podmienkami poskytovania služieb."
+"Práva a povinnosti Používateľa a Poskytovateľa prameniace z užívania Služby "
+"sa riadia týmito Všeobecnými obchodnými podmienkami."
 
 #: wllegal/templates/legal/documents/tos.html:21
 msgid ""
@@ -701,32 +883,37 @@ msgid ""
 "Services and Products. These general terms and conditions govern the "
 "contractual relationship between the service provider and the User."
 msgstr ""
+"Tieto všeobecné obchodné podmienky sú neoddeliteľnou súčasťou zmluvy o "
+"poskytovaní služieb uzavretej medzi Používateľom a Poskytovateľom (ďalej len "
+"„<strong>Zmluva</strong>“) a vymedzujú záväzné pravidlá a podmienky "
+"poskytovania Služieb a Produktov a používania Služieb a Produktov. Tieto "
+"všeobecné obchodné podmienky upravujú zmluvný vzťah medzi Poskytovateľom "
+"služby a Používateľom."
 
 #: wllegal/templates/legal/documents/tos.html:25
 msgid ""
 "The definitions below have the following meanings for the purposes of these "
 "general terms and conditions:"
 msgstr ""
+"Nižšie uvedené definície majú pre účely týchto všeobecných obchodných "
+"podmienok nasledujúci význam:"
 
 #: wllegal/templates/legal/documents/tos.html:31
 msgid "Civil Code"
 msgstr "Občiansky zákonník"
 
 #: wllegal/templates/legal/documents/tos.html:34
-#, fuzzy
-#| msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
 msgstr ""
-"rozumie sa zákon č. %(law_89_2012)s Zb., Občianskeho zákonníka, v znení "
-"neskorších predpisov"
+"znamená zákon 89/2012 Zb., Občiansky zákonník, v znení neskorších predpisov;"
 
 #: wllegal/templates/legal/documents/tos.html:38
 msgid "Contracting Parties"
-msgstr ""
+msgstr "Zmluvné strany"
 
 #: wllegal/templates/legal/documents/tos.html:41
 msgid "jointly refers to the User and the Provider;"
-msgstr ""
+msgstr "spoločne Používateľ a Poskytovateľ;"
 
 #: wllegal/templates/legal/documents/tos.html:45
 msgid "Cookies"
@@ -740,64 +927,63 @@ msgid ""
 "Coll., on Certain Information Society Services and Amending Certain Acts, as "
 "amended;"
 msgstr ""
+"znamená akékoľvek dáta odoslané z webového servera Služby na počítač "
+"Používateľa alebo iné zariadenie pripojené k internetu, ktoré umožní "
+"unikátnu identifikáciu Používateľovho webového prehliadača v súlade s § 89 "
+"zákona č. 480/2004 Zb. o niektorých službách informačnej spoločnosti a o "
+"zmene niektorých zákonov v znení neskorších predpisov;"
 
 #: wllegal/templates/legal/documents/tos.html:52
 msgid "Dedicated Weblate"
-msgstr ""
+msgstr "Vyhradený Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:55
 msgid ""
 "means a form of collaboration where the User is the sole user of the Service "
 "in a cloud hosted and provided by the Provider;"
 msgstr ""
+"znamená formu spolupráce, kedy Požívateľ je výhradným používateľom Služby v "
+"cloude hosťovanom a poskytovanom zo strany Poskytovateľa;"
 
 #: wllegal/templates/legal/documents/tos.html:59
 msgid "GDPR"
 msgstr "GDPR"
 
 #: wllegal/templates/legal/documents/tos.html:62
-#, fuzzy
-#| msgid ""
-#| "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
-#| "Regulation"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
 msgstr ""
-"rozumie sa nariadenie EÚ č. %(law_679_2016)s, Všeobecné nariadenie o ochrane "
-"údajov"
+"znamená nariadenie EÚ č. 679/2016, všeobecné nariadenie o ochrane osobných "
+"údajov;"
 
 #: wllegal/templates/legal/documents/tos.html:66
 msgid "GTC"
-msgstr ""
+msgstr "VOP"
 
 #: wllegal/templates/legal/documents/tos.html:69
 msgid ""
 "means these general terms and conditions, which form an integral part of the "
 "Agreement;"
 msgstr ""
+"znamená tieto všeobecné obchodné podmienky, ktoré tvoria neoddeliteľnú "
+"súčasť Zmluvy;"
 
 #: wllegal/templates/legal/documents/tos.html:73
 msgid "Hosted String"
-msgstr ""
+msgstr "Hosťovaný reťazec"
 
 #: wllegal/templates/legal/documents/tos.html:76
-#, fuzzy
-#| msgid ""
-#| "Pricing is based on the number of source strings and target languages. "
-#| "The source string is a text unit defined in a translation format, it can "
-#| "be a word, sentence or paragraph."
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
 msgstr ""
-"Cena závisí od počtu zdrojových reťazcov a cieľových jazykov. Zdrojový "
-"reťazec je textová jednotka definovaná v prekladovom formáte. Môže to byť "
-"slovo, veta alebo odstavec."
+"znamená textová jednotka definovaná vo formáte prekladu. Môže to byť slovo, "
+"veta alebo odsek;"
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid "Hosted Weblate"
-msgstr "Hosťované Weblate"
+msgstr "Hosted Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:83
 msgid ""
@@ -805,63 +991,61 @@ msgid ""
 "provides Services to Users on a non-dedicated (i.e., shared by multiple "
 "Users) cloud operated by the Provider;"
 msgstr ""
+"forma spolupráce, ktorá je čisto cloudová, kedy Poskytovateľ poskytuje "
+"Služby Používateľom na nevyhradenom (teda používanom viacerými Používateľmi) "
+"cloude prevádzkovanom Poskytovateľom;"
 
 #: wllegal/templates/legal/documents/tos.html:87
 msgid "License"
 msgstr "Licencia"
 
 #: wllegal/templates/legal/documents/tos.html:90
-#, fuzzy
-#| msgid ""
-#| "means non-exclusive license granted by the Provider to the User for use "
-#| "of the Service"
 msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
 msgstr ""
-"rozumie sa nevýhradná licencia udelená Poskytovateľom Používateľovi na "
-"používanie Služby"
+"znamená nevýhradnú licenciu poskytnutú Prevádzkovateľom Používateľovi pre "
+"používanie Služby;"
 
 #: wllegal/templates/legal/documents/tos.html:94
 msgid "Personal Data"
 msgstr "Osobné údaje"
 
 #: wllegal/templates/legal/documents/tos.html:97
-#, fuzzy
-#| msgid ""
-#| "means personal data within the meaning of EU Regulation No. "
-#| "%(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"rozumejú sa osobné údaje v zmysle nariadenia EÚ č. %(law_679_2016)s vložené "
-"Používateľom do Služby a/alebo súbory cookies"
+"znamená osobné údaje vo význame nariadenia EÚ 679/2016, vloženého "
+"používateľom do Služby a/alebo súborov Cookie;"
 
 #: wllegal/templates/legal/documents/tos.html:101
 #: wllegal/templates/legal/documents/tos.html:236
 msgid "Price"
-msgstr ""
+msgstr "Cena"
 
 #: wllegal/templates/legal/documents/tos.html:104
 msgid ""
 "the value expressed in money for the provided License in accordance with the "
 "Price List;"
 msgstr ""
+"hodnota vyjadrená v peniazoch za poskytovanú Licenciu v súlade s Cenníkom;"
 
 #: wllegal/templates/legal/documents/tos.html:108
 msgid "Price List"
-msgstr ""
+msgstr "Cenník"
 
 #: wllegal/templates/legal/documents/tos.html:111
 msgid ""
 "means the document or web page that specifies the Price of the Service and/"
 "or Product unless otherwise stated in the Agreement;"
 msgstr ""
+"znamená dokument alebo webovú stránku, ktorá stanoví Cenu Služby a/alebo "
+"Produktu, pokiaľ nie je v Zmluve uvedené inak;"
 
 #: wllegal/templates/legal/documents/tos.html:115
 msgid "Product"
-msgstr ""
+msgstr "Produkt"
 
 #: wllegal/templates/legal/documents/tos.html:118
 msgid ""
@@ -869,6 +1053,9 @@ msgid ""
 "Provider based on its brand usage policy. The User purchases the Product AS "
 "IS. Support and other services are provided separately;"
 msgstr ""
+"znamená akúkoľvek službu alebo jej časť poskytovanú pod určitou značkou "
+"Poskytovateľa na základe jeho zásad pre používanie značky. Používateľ kupuje "
+"Produkt TAK, AKO JE. Podpora a ďalšie služby sú poskytované samostatne;"
 
 #: wllegal/templates/legal/documents/tos.html:122
 msgid "Provider"
@@ -881,36 +1068,37 @@ msgid ""
 "the Commercial Register maintained by the Regional Court in Ústí nad Labem, "
 "file no. C 52324, with which the Agreement was concluded;"
 msgstr ""
+"znamená spoločnosť <strong>Weblate s.r.o.</strong>, IČO: 21668027, so sídlom "
+"Nábřežní 694, Cvikov II, 471 54 Cvikov, zapísaná v obchodnom registri "
+"vedenom na Krajskom súde v Ústí nad Labem, sp. zn. C 52324, s ktorou bola "
+"uzavretá Zmluva;"
 
 #: wllegal/templates/legal/documents/tos.html:129
 msgid "Service"
 msgstr "Služba"
 
 #: wllegal/templates/legal/documents/tos.html:132
-#, fuzzy
-#| msgid ""
-#| "means the website and services based on Weblate operated by the Provider"
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
 msgstr ""
-"je webová stránka a služby založené na Weblate, ktoré prevádzkuje "
-"Poskytovateľ"
+"znamená webové stránky a služby založené na Weblate poskytované "
+"Poskytovateľom;"
 
 #: wllegal/templates/legal/documents/tos.html:136
 msgid "Self-hosting"
-msgstr ""
+msgstr "Vlastné hosťovanie"
 
 #: wllegal/templates/legal/documents/tos.html:139
 msgid ""
 "means a form of collaboration where the User is the sole user of the "
 "Service, and this Service is operated directly on the User Server;"
 msgstr ""
+"znamená formu spolupráce, kedy Používateľ je výhradným používateľom Služby a "
+"táto Služba je prevádzkovaná priamo na Serveri Používateľa;"
 
 #: wllegal/templates/legal/documents/tos.html:143
-#, fuzzy
-#| msgid "Service"
 msgid "Support Services"
-msgstr "Služba"
+msgstr "Služby Podpory"
 
 #: wllegal/templates/legal/documents/tos.html:146
 msgid ""
@@ -918,77 +1106,78 @@ msgid ""
 "Support Services are governed separately by a separate support service "
 "agreement;"
 msgstr ""
+"znamená podpora poskytovaná Poskytovateľom Používateľovi v rámci Služby. "
+"Služby Podpory sú upravené zvlášť v samostatnej zmluve o poskytovaní Služby "
+"Podpory;"
 
 #: wllegal/templates/legal/documents/tos.html:150
 msgid "Translation Memory"
 msgstr "Pamäť prekladu"
 
 #: wllegal/templates/legal/documents/tos.html:153
-#, fuzzy
-#| msgid ""
-#| "means the optional translation memory service provided within Weblate"
 msgid "means an optional translation memory service provided on Weblate;"
-msgstr "je voliteľná služba prekladovej pamäte poskytovaná vo Weblate"
+msgstr "znamená voliteľná služba prekladovej pamäte poskytovaná na Weblate;"
 
 #: wllegal/templates/legal/documents/tos.html:157
 msgid "User"
 msgstr "Používateľ"
 
 #: wllegal/templates/legal/documents/tos.html:160
-#, fuzzy
-#| msgid ""
-#| "means any legal entity or an individual other than the Provider, who is "
-#| "using the Service"
 msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
 msgstr ""
-"je akýkoľvek právny subjekt alebo jednotlivec iný ako Poskytovateľ, ktorý "
-"používa Službu"
+"znamená akákoľvek právnická osoba alebo fyzická osoba iná ako "
+"Prevádzkovateľ, ktorá využíva Službu;"
 
 #: wllegal/templates/legal/documents/tos.html:164
 msgid "User Account"
-msgstr ""
+msgstr "Používateľský účet"
 
 #: wllegal/templates/legal/documents/tos.html:167
 msgid ""
 "means a user account with a unique access code and password in the Hosted "
 "Weblate web interface. Each User Account can be used by only one User;"
 msgstr ""
+"znamená používateľský účet s jedinečným prístupovým kódom a heslom vo "
+"webovom rozhraní Hosted Weblate. Každý Používateľský účet môže používať iba "
+"jeden Používateľ;"
 
 #: wllegal/templates/legal/documents/tos.html:171
 msgid "User Server"
-msgstr ""
+msgstr "Server Používateľa"
 
 #: wllegal/templates/legal/documents/tos.html:174
 msgid ""
 "refers to the server and other hardware equipment not owned, managed, or "
 "controlled by the Provider;"
 msgstr ""
+"server a ďalšie HW vybavenie, ktoré nie je vo vlastníctve, správe alebo pod "
+"kontrolou Poskytovateľa;"
 
 #: wllegal/templates/legal/documents/tos.html:180
 msgid "Methods of Acceptance"
-msgstr ""
+msgstr "Spôsoby prijatia"
 
 #: wllegal/templates/legal/documents/tos.html:184
 msgid "The License is granted to the User based on the concluded Agreement."
-msgstr ""
+msgstr "Licencia je Používateľovi poskytovaná na základe uzavretej Zmluvy."
 
 #: wllegal/templates/legal/documents/tos.html:188
 msgid "These GTC are an integral part of the Agreement."
-msgstr ""
+msgstr "Tieto VOP tvoria neoddeliteľnú súčasť Zmluvy."
 
 #: wllegal/templates/legal/documents/tos.html:192
-#, fuzzy
-#| msgid "License Agreement Conclusion"
 msgid "The Agreement is concluded:"
-msgstr "Záver licenčnej zmluvy"
+msgstr "Zmluva sa uzatvára:"
 
 #: wllegal/templates/legal/documents/tos.html:197
 msgid ""
 "on the day of signing by both parties (especially for all Services offered "
 "with custom settings);"
 msgstr ""
+"v deň podpisu oboma stranami (najmä pri všetkých Službách ponúkaných s "
+"vlastným nastavením);"
 
 #: wllegal/templates/legal/documents/tos.html:200
 msgid ""
@@ -999,10 +1188,15 @@ msgid ""
 "Provider's bank account) for the amount stated in the first billing period "
 "by the User."
 msgstr ""
+"online prostredníctvom akceptácie (prijatia) cez webové rozhranie v súlade s "
+"Cenníkom s tým, že účinnosť Zmluvy je odložená do okamihu riadneho uhradenia "
+"Ceny za Licenciu (v prípade bankového prevodu, do okamihu, keď je čiastka "
+"zodpovedajúca Cene za Licenciu pripísaná na bankový účet Poskytovateľa) vo "
+"výške uvedenej v prvom zúčtovacom období zo strany Používateľa."
 
 #: wllegal/templates/legal/documents/tos.html:208
 msgid "Service Provision"
-msgstr ""
+msgstr "Poskytovanie Služby"
 
 #: wllegal/templates/legal/documents/tos.html:212
 msgid ""
@@ -1011,6 +1205,10 @@ msgid ""
 "accordance with the Agreement and the technical specifications outlined in "
 "the Product specification."
 msgstr ""
+"Poskytovateľ prevádzkuje Službu na internetovej adrese uvedenej v "
+"špecifikácii Produktu a jej subdoménach alebo na Serveroch Používateľa v "
+"súlade so Zmluvou a technickými špecifikáciami uvedenými v špecifikácii "
+"Produktu."
 
 #: wllegal/templates/legal/documents/tos.html:216
 msgid ""
@@ -1021,12 +1219,19 @@ msgid ""
 "specification defined in this manner takes precedence over the form of "
 "Service offered according to the Price list."
 msgstr ""
+"Pokiaľ je Zmluva uzavretá podľa čl. 2.3 a), rozsah Služieb je definovaný v "
+"špecifikácii Produktu, ktorá je prílohou Zmluvy. Špecifikácia Produktu môže "
+"rozsah jednotlivých (čiastkových) Služieb z hľadiska ich obsahu a spôsobu "
+"aktivácie vymedziť podrobnejšie. Špecifikácia Produktu vymedzená takýmto "
+"Spôsobom má prednosť pred podobou Služby ponúkanou podľa Cenníka."
 
 #: wllegal/templates/legal/documents/tos.html:220
 msgid ""
 "The Service is provided in three forms of cooperation: Hosted Weblate, "
 "Dedicated Weblate, and Self-hosting."
 msgstr ""
+"Služba je poskytovaná v troch formách spolupráce: Hosted Weblate, Vyhradený "
+"Weblate a Vlastné hosťovanie."
 
 #: wllegal/templates/legal/documents/tos.html:224
 msgid ""
@@ -1039,12 +1244,17 @@ msgid ""
 "third parties may process Personal Data within their activities in "
 "accordance with the Agreement and GPLv3."
 msgstr ""
+"V súlade s GPLv3 môžu byť niektoré aspekty Služby poskytované buď s pomocou "
+"tretích strán odlišných od Poskytovateľa, alebo priamo týmito stranami. "
+"Používateľ berie na vedomie, že tieto tretie strany budú poskytovať svoje "
+"služby v súlade s touto Zmluvou a s licenciou GPLv3. Používateľ berie na "
+"vedomie, že tretie strany zapojené do poskytovania Služby sa môžu v priebehu "
+"poskytovania Služby meniť. Tieto tretie strany môžu v rámci svojej činnosti "
+"spracovávať Osobné údaje v súlade so Zmluvou a GPLv3."
 
 #: wllegal/templates/legal/documents/tos.html:228
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
-msgstr "Služba"
+msgstr "Doba poskytovania Služby"
 
 #: wllegal/templates/legal/documents/tos.html:232
 msgid ""
@@ -1053,6 +1263,8 @@ msgid ""
 "subscription can be paid monthly or annually in accordance with Article 5 of "
 "the GTC."
 msgstr ""
+"Ak nie je v Zmluve výslovne dohodnuté inak, Zmluva je uzatvorená na dobu, "
+"ktorá zodpovedá modelu predplatného. súlade s čl. 5 VOP."
 
 #: wllegal/templates/legal/documents/tos.html:240
 msgid ""
@@ -1064,6 +1276,13 @@ msgid ""
 "List. The price for Services consists of the following separate items or "
 "their combination, which are paid regularly monthly/annually:"
 msgstr ""
+"Cena za Službu je stanovená podľa ponuky alebo Cenníka. Používateľ pritom "
+"berie na vedomie a súhlasí s tým, že Cenník môže byť zo strany Poskytovateľa "
+"jednostranne zmenený rovnakým spôsobom ako tieto VOP. Cena sa odvíja od "
+"zvolenej konfigurácie Služby a existuje mnoho variantov, ako môže byť Služba "
+"poskytovaná. Tieto varianty sú uvedené v Cenníku. Cena za Služby sa skladá z "
+"nasledujúcich samostatných položiek alebo ich kombinácie, ktoré sú platené "
+"pravidelne mesačne/ročne:"
 
 #: wllegal/templates/legal/documents/tos.html:244
 msgid ""
@@ -1072,6 +1291,10 @@ msgid ""
 "but paid monthly or annually, with this price varying for different forms of "
 "collaboration according to the Price List;"
 msgstr ""
+"pravidelná Cena za prístup k Službám, ktorá je tiež vždy stanovená na "
+"príslušné časové obdobie a s ohľadom na konkrétne podmienky Služby, avšak "
+"platená mesačne alebo ročne, pričom táto Cena sa podľa Cenníka líši pre "
+"jednotlivé formy spolupráce;"
 
 #: wllegal/templates/legal/documents/tos.html:247
 msgid ""
@@ -1079,24 +1302,27 @@ msgid ""
 "User from the options offered in the Price List or in agreement with the "
 "Provider;"
 msgstr ""
+"pravidelná Cena za množstvo Hosťovaných reťazcov; toto množstvo si určí "
+"Používateľ z ponúkaných variantov Cenníka alebo po dohovore s Poskytovateľom;"
 
 #: wllegal/templates/legal/documents/tos.html:250
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "Pamäť prekladu"
+msgstr "pravidelná Cena za Prekladovú pamäť;"
 
 #: wllegal/templates/legal/documents/tos.html:255
 msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
-msgstr ""
+msgstr "(body a), b) a c) spoločne ďalej len \"<strong>Predplatné</strong>\")."
 
 #: wllegal/templates/legal/documents/tos.html:259
 msgid ""
 "To avoid doubt, the Subscription may guarantee either only access to a "
 "specific Product or License and/or a specific package of guaranteed Services."
 msgstr ""
+"Pre vylúčenie pochybností, Predplatné môže zaručovať buď iba prístup k "
+"určitému Produktu alebo Licencii a/alebo určitému balíčku garantovaných "
+"Služieb."
 
 #: wllegal/templates/legal/documents/tos.html:263
 msgid ""
@@ -1105,6 +1331,10 @@ msgid ""
 "invoice is issued and delivered to the User within 5 working days after the "
 "end of each relevant period."
 msgstr ""
+"Používateľ je povinný uhradiť Cenu na základe doručených daňových dokladov "
+"(faktúr) vystavených Poskytovateľom. Cena je hradená zálohovo a faktúra je "
+"vystavená a doručená Používateľovi do 5 pracovných dní po skončení každého "
+"príslušného obdobia."
 
 #: wllegal/templates/legal/documents/tos.html:267
 #, python-format
@@ -1115,6 +1345,11 @@ msgid ""
 "an additional VAT of 21%%. Reverse charge applies to invoices issued to "
 "businesses within the EU."
 msgstr ""
+"Uhradenie Ceny môže byť vykonané Kreditnou kartou, bankovým prevodom alebo "
+"kryptomenovou transakciou. Všetky Ceny uvedené v Cenníku nezahŕňajú DPH. "
+"Koncoví používatelia z EÚ a české obchodné spoločnosti budú vyzvaní k "
+"zaplateniu dodatočného DPH vo výške 21 %% . Prenesenie daňovej povinnosti sa "
+"vzťahuje na faktúry vystavené podnikom v EÚ."
 
 #: wllegal/templates/legal/documents/tos.html:271
 msgid ""
@@ -1123,6 +1358,10 @@ msgid ""
 "automatic renewal of the Service usage. The Provider recommends verifying "
 "with the prepaid card issuer or bank whether recurring billing is possible."
 msgstr ""
+"Pokiaľ sa chce Používateľ vyhnúť účtovaniu poplatkov za Službu v režime "
+"Predplatného, musí Predplatné zrušiť tri dni pred automatickým obnovením "
+"používania Služby. Poskytovateľ odporúča overiť si v spoločnosti vydávajúcej "
+"predplatené karty alebo v banke, či je opakované účtovanie možné."
 
 #: wllegal/templates/legal/documents/tos.html:275
 msgid ""
@@ -1132,6 +1371,11 @@ msgid ""
 "date as per point 5.5 above, their Subscription will stop at the end of the "
 "current billing cycle."
 msgstr ""
+"Používateľ môže zmeniť svoj režim Predplatného online prihlásením do svojho "
+"Používateľského účtu a tu vykonať zmenu alebo zrušenie Predplatného. Pokiaľ "
+"Užívateľ zruší svoje Predplatné aspoň tri dni pred dátumom obnovenia podľa "
+"bodu 5.5 vyššie, jeho Predplatné sa zastaví na konci aktuálneho zúčtovacieho "
+"cyklu."
 
 #: wllegal/templates/legal/documents/tos.html:279
 msgid ""
@@ -1145,6 +1389,15 @@ msgid ""
 "prepaid Services were prepaid for a period exceeding the actual usage "
 "period, the conditions of such a refund will be agreed upon individually."
 msgstr ""
+"Poskytovateľ nevracia ŽIADNE peniaze za Služby, Služby Podpory a/alebo "
+"akékoľvek iné služby poskytované na základe Zmluvy a týchto VOP, pokiaľ boli "
+"poskytnuté pred zrušením týchto Služieb zo strany Používateľa. Zrušenie "
+"objednávky po prijatí platby je možné po dohode, pokiaľ objednaná Služba "
+"nebola využitá alebo nebol vykonaný žiadny pokus o jej stiahnutie. Pokiaľ "
+"bol pokus o stiahnutie vykonaný, nedôjde k žiadnemu konaniu a Používateľ "
+"nemá nárok na žiadne náhrady, zľavy ani iné peňažné kompenzácie. Pokiaľ boli "
+"predplatené Služby predplatené na dobu presahujúcu skutočnú dobu užívania, "
+"budú dohodnuté podmienky takéhoto vrátenia individuálne."
 
 #: wllegal/templates/legal/documents/tos.html:283
 msgid ""
@@ -1157,12 +1410,18 @@ msgid ""
 "new Price or conditions come into effect. Under these conditions, the User "
 "has the right to cancel the Subscription."
 msgstr ""
+"Ceny a podmienky Predplatného sa môžu kedykoľvek zmeniť jednostranne zo "
+"strany Prevádzkovateľa. Cena a podmienky platné pri prvom nákupe alebo pri "
+"poslednom obnovení Predplatného zostávajú v platnosti po dobu trvania daného "
+"obdobia Predplatného, ale na obnovenie alebo nové Predplatné sa môžu "
+"vzťahovať nové Ceny a podmienky Predplatného. Poskytovateľ na akúkoľvek "
+"zmenu Ceny alebo podmienok Predplatného upozorní Používateľa v primeranej "
+"lehote pred tým, než vstúpi nová Cena alebo nové podmienky Predplatného v "
+"platnosť. Používateľ má právo za týchto podmienok Predplatné zrušiť."
 
 #: wllegal/templates/legal/documents/tos.html:287
-#, fuzzy
-#| msgid "License"
 msgid "License Terms"
-msgstr "Licencia"
+msgstr "Licenčné podmienky"
 
 #: wllegal/templates/legal/documents/tos.html:291
 #, python-format
@@ -1174,6 +1433,11 @@ msgid ""
 "License is provided. The License is granted in accordance with the option "
 "selected according to the Price List."
 msgstr ""
+"Softvér Poskytovateľa a softvérové rozšírenia Weblate sú šírené pod "
+"licenciou GNU/GPLv3 (pozri <a href=\" %(url)s \">%(url)s </a>). "
+"Používateľovi je poskytnutá nevýhradná licencia k akýmkoľvek prvkom Služby "
+"za podmienok VOP v ich poslednej aktualizovanej verzii k okamihu poskytnutia "
+"Licencie. Licencia je poskytovaná v súlade s variantom podľa Cenníka."
 
 #: wllegal/templates/legal/documents/tos.html:296
 #, python-format
@@ -1186,6 +1450,12 @@ msgid ""
 "according to the information provided on the Provider's website (see <a "
 "href=\"%(url)s\">%(url)s</a>)."
 msgstr ""
+"Ak nie je v Zmluve uvedené inak, riadia sa licenčné podmienky tejto Zmluvy "
+"plne podľa licencie GPLv3. Vybrané časti Softvéru však môžu byť licencované "
+"aj v súlade s ďalšími licenciami. Úplný zoznam licencií použitých v Softvéri "
+"Poskytovateľa a softvérových rozšíreniach možno nájsť v ich zdrojovom kóde, "
+"ktorý v súlade s informáciami uvedenými na webových stránkach Poskytovateľa ("
+"pozri <a href=\" %(url)s \">%(url)s </a>) zodpovedá špecifikácii REUSE 3.0."
 
 #: wllegal/templates/legal/documents/tos.html:300
 msgid ""
@@ -1197,6 +1467,12 @@ msgid ""
 "creating, and distributing the Service, even if the User does not publicly "
 "release the Service."
 msgstr ""
+"Používateľ berie na vedomie, že všetky autorské práva a iné práva duševného "
+"vlastníctva k Službe patria Poskytovateľovi a/alebo tretím osobám, ktorých "
+"diela boli do Služby začlenené a/alebo sú so Službou spoločne používané. "
+"Používateľ tým však nestráca právo Službu používať v rozsahu umožnenom "
+"predmetnými licenciami, a to vrátane jej spúšťania, tvorenia a šírenia "
+"Služby, a to aj keď Službu sám Používateľ nezverejňuje."
 
 #: wllegal/templates/legal/documents/tos.html:304
 msgid ""
@@ -1206,6 +1482,11 @@ msgid ""
 "or later versions of the GPL license), they publish all materials to which "
 "they do not own copyright."
 msgstr ""
+"Pre účely exkluzívnych úprav Služby výhradne v prospech Používateľa alebo "
+"vytvorenia prostriedkov na spustenie takejto Služby, môže Používateľ Službu "
+"zverejniť iba v prípade, že v súlade s podmienkami GPLv3 (a/alebo neskoršej "
+"verzie GPL licencie) zverejní všetky materiály, ku ktorým nevlastní autorské "
+"práva."
 
 #: wllegal/templates/legal/documents/tos.html:308
 msgid ""
@@ -1216,6 +1497,12 @@ msgid ""
 "released. The User acknowledges that not all Self-hosting Subscription "
 "packages include updates and/or modifications to the Services."
 msgstr ""
+"Licencia zahŕňa aktualizácie a/alebo úpravy Služieb vykonávané "
+"Poskytovateľom v budúcnosti, pokiaľ sú Služby poskytované na základe "
+"vybraného Predplatného a všetky príslušné licenčné a iné poplatky sú plne "
+"uhradené za obdobie, v ktorom sú tieto aktualizácie a/alebo úpravy vydané. "
+"Používateľ pritom berie na vedomie, že nie všetky balíčky Predplatného pre "
+"Vlastné hosťovanie v zahŕňajú aj aktualizácie a/alebo úpravy Služieb."
 
 #: wllegal/templates/legal/documents/tos.html:312
 msgid ""
@@ -1229,12 +1516,19 @@ msgid ""
 "intact, and the User provides all recipients of such copies of the source "
 "code with a copy of the license along with the program."
 msgstr ""
+"Používateľ je oprávnený využívať zdrojový kód a nakladať s prvkami "
+"chránenými autorským dielom v medziach GPLv3 (a/alebo neskoršej verzie GPL "
+"licencie), okrem iného teda robiť aj jeho kópie. Takto vytvorené kópie môže "
+"Používateľ šíriť iba v prípade, že na každej kópii bude uvedená zmienka o "
+"Poskytovateľovi a absencii záruky na vhodnom a viditeľnom mieste, že všetky "
+"zmienky odkazujúce na túto licenciu a na akúkoľvek pridanú podmienku budú "
+"ponechané bez zmien a že zároveň budú ponechané nedotknuté všetky zmienky o "
+"absencii záruky a Používateľ všetkým príjemcom takejto kópie zdrojového kódu "
+"sprostredkuje kópiu licencie spolu s programom."
 
 #: wllegal/templates/legal/documents/tos.html:316
-#, fuzzy
-#| msgid "Payment error"
 msgid "Payment Terms"
-msgstr "Chyba platby"
+msgstr "Platobné podmienky"
 
 #: wllegal/templates/legal/documents/tos.html:320
 msgid ""
@@ -1242,6 +1536,10 @@ msgid ""
 "issuance of invoices and to receiving them via electronic means. Invoices "
 "will be issued with a due date of 14 calendar days."
 msgstr ""
+"Faktúry budú vystavované v elektronickej podobe. Používateľ súhlasí s "
+"elektronickým vystavovaním faktúr aj s tým, že tieto faktúry budú "
+"Používateľovi doručované elektronickými prostriedkami. Faktúry budú "
+"vystavené so splatnosťou 14 kalendárnych dní."
 
 #: wllegal/templates/legal/documents/tos.html:324
 msgid ""
@@ -1252,6 +1550,12 @@ msgid ""
 "any reason, the Provider will issue an invoice, and the User is obliged to "
 "pay such an invoice within the same deadlines."
 msgstr ""
+"Fakturačné obdobie je definované ako opakujúce sa obdobie (kalendárny mesiac/"
+"rok). Platba je automaticky účtovaná prostredníctvom zvoleného spôsobu "
+"platby a faktúra je Používateľovi zaslaná bez zbytočného odkladu potom, čo "
+"bola táto platba Poskytovateľom prijatá. Pokiaľ platba nemôže byť z "
+"akéhokoľvek dôvodu automaticky strhnutá, vystaví Poskytovateľ faktúru a "
+"Používateľ je povinný takú faktúru v rovnakých lehotách uhradiť."
 
 #: wllegal/templates/legal/documents/tos.html:328
 msgid ""
@@ -1263,6 +1567,13 @@ msgid ""
 "a material breach of the Agreement, entitling the Provider to terminate the "
 "Agreement for the reason stated in Article 11 below."
 msgstr ""
+"V prípade omeškania Používateľa s akoukoľvek platbou je Poskytovateľ taktiež "
+"oprávnený pozastaviť alebo obmedziť poskytovanie Služby až do úplného "
+"uhradenia dlhu. Po dobu pozastavenia alebo obmedzenia poskytovania Služby je "
+"Používateľ naďalej povinný hradiť Cenu podľa dodaných daňových dokladov. "
+"Opakované omeškanie s úhradou zo strany Používateľa je považované za "
+"podstatné porušenie Zmluvy oprávňujúce Poskytovateľa k výpovedi Zmluvy z "
+"dôvodu uvedeného v článku 11 nižšie."
 
 #: wllegal/templates/legal/documents/tos.html:332
 msgid ""
@@ -1276,6 +1587,15 @@ msgid ""
 "continuous and automatically renews until it is cancelled, or the User "
 "Account is terminated."
 msgstr ""
+"Súhlasom s VOP pri nákupe sa Používateľ prihlasuje k budúcemu automatickému "
+"obnoveniu Predplatného. Predplatné bude automaticky obnovené na konci "
+"každého obdobia Predplatného na základe obdobia Predplatného, ktoré bude "
+"vybrané pri nákupe. Na začiatku každého zúčtovacieho obdobia bude účtované "
+"Predplatné vo výške podľa aktualizovaného Cenníka a/alebo vo výške podľa "
+"samostatného oznámenia urobeného zo strany Poskytovateľa pred skončením "
+"posledného zúčtovacieho obdobia. Predplatné je nepretržité a automaticky sa "
+"obnovuje, pokiaľ nebude zrušené alebo pokiaľ nebude zrušený Používateľský "
+"účet."
 
 #: wllegal/templates/legal/documents/tos.html:336
 msgid ""
@@ -1287,6 +1607,13 @@ msgid ""
 "conditions for the payment of the Fee are governed by the relevant "
 "contractual terms of ThePay."
 msgstr ""
+"Používateľ berie na vedomie, že v prípade uhradenia Predplatného "
+"prostredníctvom platobnej brány je táto platobná brána zabezpečovaná zo "
+"strany <strong>ThePay, as</strong>, so sídlom Masarykovo námestie 102/65, "
+"586 01 Jihlava, IČ: 281 35 261, zapísaná v obchodnom registri vedenom "
+"Krajským súdom v Brne, oddiel B, vložka 8977 („<strong>ThePay</strong>“). "
+"Podmienky úhrady Odmeny sa potom riadia príslušnými zmluvnými podmienkami "
+"spoločnosti ThePay."
 
 #: wllegal/templates/legal/documents/tos.html:340
 msgid ""
@@ -1294,10 +1621,13 @@ msgid ""
 "by the Provider, and the Provider is not responsible for the functionality "
 "of ThePay's payment gateway."
 msgstr ""
+"Údaje o platobnej karte zadávané do platobnej brány nie sú spracovávané zo "
+"strany Poskytovateľ a Poskytovateľ nezodpovedá za funkčnosť platobnej brány "
+"spoločnosti ThePay."
 
 #: wllegal/templates/legal/documents/tos.html:344
 msgid "Supplier‘s Rights and Obligations"
-msgstr ""
+msgstr "Práva a povinnosti Poskytovateľa"
 
 #: wllegal/templates/legal/documents/tos.html:348
 msgid ""
@@ -1323,6 +1653,29 @@ msgid ""
 "any case, the User may either accept the Change (implicitly through failure "
 "to object) or terminate the Agreement within the above period."
 msgstr ""
+"Poskytovateľ je oprávnený vykonávať akékoľvek zmeny Služby alebo jej "
+"rozsahu. V takom prípade Poskytovateľ informuje Používateľa prostredníctvom "
+"webového rozhrania vzťahujúceho sa k poskytovanej Službe. Ďalej v prípade "
+"zmien právneho a regulačného rámca, odborových štandardov, súvisiacich "
+"nákladov Poskytovateľa, zmien trhových zvyklostí, zmien ovplyvňujúcich "
+"podmienky na príslušnom trhu alebo akýchkoľvek iných zmien, ktoré by mali "
+"vplyv na poskytovanie Služby, môže Poskytovateľ kedykoľvek zmeniť, zrušiť "
+"alebo doplniť tieto VOP ( ďalej len \"<strong>Zmena</strong>\"), a to "
+"oznámením takejto Zmeny zverejnením revidovanej verzie týchto VOP na "
+"Webových stránkach a oznámením Používateľovi prostredníctvom e-mailu aj "
+"prostredníctvom rozhrania súvisiaceho s poskytovanou Službou, a to najmenej "
+"14 dní pred nadobudnutím účinnosti Zmeny. Po takomto oznámení akejkoľvek "
+"Zmeny Používateľovi a nevyjadrení sa Používateľa k takej Zmene vo vyššie "
+"uvedenej lehote sa má za to, že Používateľ so Zmenou súhlasí. Oznámenie sa "
+"neuplatní v prípade, že je Zmena vyžadovaná zákonom, súdnym príkazom, týka "
+"sa výhradne pridania novej služby, dodatočných funkcií k existujúcej Službe "
+"alebo inej Zmeny, ktorá neznižuje práva Používateľa ani nezvyšuje jeho "
+"povinnosti. V takýchto prípadoch bude Zmena vykonaná bez predchádzajúceho "
+"oznámenia Používateľovi a bude účinná okamžite. Pokiaľ Používateľ vo vyššie "
+"uvedenej lehote vznesie proti Zmene VOP námietky, je oprávnený Zmluvu "
+"vypovedať. V každom prípade môže Používateľ Zmenu buď prijať (prípadne "
+"právnou fikciou v dôsledku nevyjadrenia námietky), alebo Zmluvu vo vyššie "
+"uvedenej lehote úplne vypovedať."
 
 #: wllegal/templates/legal/documents/tos.html:352
 msgid ""
@@ -1330,6 +1683,10 @@ msgid ""
 "to ensure the functionality and availability of the Service. The User "
 "acknowledges and agrees that they use the Service at their own risk."
 msgstr ""
+"Poskytovateľ sa zaväzuje, že v rámci svojich technických možností urobí "
+"všetky kroky na zabezpečenie funkčnosti a dostupnosti Služby. Používateľ "
+"berie na vedomie a súhlasí s tým, že Službu používa výhradne na vlastné "
+"riziko."
 
 #: wllegal/templates/legal/documents/tos.html:356
 msgid ""
@@ -1338,6 +1695,10 @@ msgid ""
 "version. The Supplier undertakes to fulfil these requirements and ensure the "
 "proper operation of the Service through its own actions."
 msgstr ""
+"Za základné systémové požiadavky pre správny beh Služby sa považuje aj "
+"prostredie servera a definovaný technický stav v najnovšej verzii. "
+"Poskytovateľ sa zaväzuje tieto požiadavky napĺňať a prípadne vlastnou "
+"činnosťou správneho behu Služby docieliť."
 
 #: wllegal/templates/legal/documents/tos.html:360
 msgid ""
@@ -1350,6 +1711,14 @@ msgid ""
 "Supplier bears no responsibility for any damages incurred by the User in "
 "connection with these events."
 msgstr ""
+"Ak zistí Používateľ akýkoľvek problém súvisiaci s rýchlosťou Služby, jej "
+"funkčnosťou alebo jej dostupnosťou, je povinný túto udalosť bezodkladne "
+"nahlásiť Poskytovateľovi. Používateľ berie na vedomie, že môžu nastať "
+"udalosti mimo kontroly Poskytovateľa, ktoré môžu ovplyvniť funkčnosť alebo "
+"dostupnosť Služby pre Používateľa (napr. porucha internetového pripojenia na "
+"strane Používateľa, živelná pohroma, DOS alebo DNS útoky na technické "
+"vybavenie Poskytovateľa a ďalšie). Poskytovateľ nenesie žiadnu zodpovednosť "
+"za škody, ktoré v súvislosti s týmito udalosťami Používateľovi vzniknú."
 
 #: wllegal/templates/legal/documents/tos.html:364
 msgid ""
@@ -1363,12 +1732,24 @@ msgid ""
 "the Service. In the case of planned outages, the Supplier is obligated to "
 "inform the User in advance within a reasonable time."
 msgstr ""
+"Používateľ berie na vedomie a súhlasí s tým, že Poskytovateľ môže zo "
+"závažných dôvodov dočasne prerušiť poskytovanie Služby, a to najmä v "
+"prípadoch, ako je prevencia kybernetických útokov, ak je to nutné, alebo v "
+"prípade závažnej poruchy Služby, ktorú treba riešiť nevyhnutnou odstávkou. "
+"Oznámenie informujúce o prerušení poskytovania Služby musí byť zaslané "
+"Používateľovi čo najskôr. Poskytovateľ je povinný vytvoriť zodpovedajúce "
+"prevádzkové a bezpečnostné opatrenia na minimalizáciu prípadných porúch "
+"alebo obmedzenej či úplnej nedostupnosti Služby. V prípade plánovanej "
+"odstávky je Poskytovateľ povinný v primeranej dobe pred vykonaním odstávky o "
+"tomto Používateľa informovať."
 
 #: wllegal/templates/legal/documents/tos.html:368
 msgid ""
 "The Supplier agrees not to provide the content of the User's data to third "
 "parties."
 msgstr ""
+"Poskytovateľ súhlasí s tým, že nie je oprávnený poskytovať obsah "
+"používateľských údajov tretím osobám."
 
 #: wllegal/templates/legal/documents/tos.html:372
 msgid ""
@@ -1376,6 +1757,9 @@ msgid ""
 "of the User's data. The User is solely responsible for the content of the "
 "data stored on their Server or the Supplier's server."
 msgstr ""
+"Zmluvné strany dohodli, že Poskytovateľ nenadobúda vlastnícke právo k dátam "
+"Používateľa. Za obsah dát uložených na Serveri Používateľa alebo na serveri "
+"Poskytovateľa zodpovedá výhradne Používateľ."
 
 #: wllegal/templates/legal/documents/tos.html:376
 msgid ""
@@ -1384,10 +1768,14 @@ msgid ""
 "the Service in accordance with the Agreement. The User undertakes to fully "
 "cooperate with the Supplier in such cases."
 msgstr ""
+"Prijatím týchto VOP berie Používateľ na vedomie a súhlasí s tým, že "
+"Poskytovateľ je oprávnený pomocou svojich vlastných zdrojov kontrolovať, či "
+"Používateľ používa Službu v súlade so Zmluvou. Požívateľ sa zaväzuje, že v "
+"takom prípade bude plne spolupracovať s Poskytovateľom."
 
 #: wllegal/templates/legal/documents/tos.html:381
 msgid "User’s Rights and Obligations"
-msgstr ""
+msgstr "Práva a povinnosti Používateľa"
 
 #: wllegal/templates/legal/documents/tos.html:385
 msgid ""
@@ -1396,6 +1784,9 @@ msgid ""
 "modifications to the Service made by them are in compliance with applicable "
 "legal regulations."
 msgstr ""
+"Používateľ nesmie používať Službu v rozpore so všeobecne záväznými právnymi "
+"predpismi. Používateľ taktiež plne zodpovedá za to, že všetky Používateľove "
+"úpravy Služby budú v súlade s platnými právnymi predpismi."
 
 #: wllegal/templates/legal/documents/tos.html:389
 msgid ""
@@ -1410,6 +1801,17 @@ msgid ""
 "expand the scope of required personal information but emphasizes the "
 "truthfulness, accuracy, and currency of the information provided by the User."
 msgstr ""
+"Pre získanie prístupu k Službe môže Poskytovateľ od Používateľa požadovať "
+"niektoré identifikačné údaje a ďalšie informácie, vždy však iba v rozsahu "
+"vyžadovanom formulárom. Po väčšine našich používateľov vyžadujeme čisto "
+"prezývku; ak potrebujeme vystaviť faktúru, budú vyžadované aj ďalšie zákonom "
+"vyžadované údaje. Používateľ je povinný poskytnúť v rámci požadovaných "
+"údajov vždy pravdivé, presné a aktuálne informácie. Ide pritom o povinnosť "
+"zo zákona. U používateľov, ktorí nám odovzdávajú len prezývku to neznamená, "
+"že by nám mali odovzdávať akékoľvek ďalšie informácie. Týmto ustanovením "
+"teda nie je rozširovaný rozsah vyžadovaných osobných údajov, iba je kladený "
+"dôraz na pravdivosť, presnosť a aktuálnosť tých údajov, ktoré sú zo strany "
+"Používateľa odovzdávané."
 
 #: wllegal/templates/legal/documents/tos.html:393
 msgid ""
@@ -1419,6 +1821,10 @@ msgid ""
 "in cases where the Supplier performs system outages for the reasons "
 "mentioned in Section 8.5."
 msgstr ""
+"Používateľ je povinný na žiadosť Poskytovateľa poskytnúť potrebnú súčinnosť "
+"pri odstraňovaní porúch alebo pri úpravách Služby vrátane povinnosti strpieť "
+"obmedzenia používania Služby v prípade, že Poskytovateľ bude vykonávať "
+"odstávku systému z dôvodov uvedených v čl. 8.5."
 
 #: wllegal/templates/legal/documents/tos.html:397
 msgid ""
@@ -1426,6 +1832,9 @@ msgid ""
 "Service in accordance with this Agreement, and the User is required to "
 "comply with and respect these measures."
 msgstr ""
+"Poskytovateľ je oprávnený v súlade s touto Zmluvou vytvárať bezpečnostné "
+"opatrenia k zabezpečenie Služby a Používateľ je v takom prípade povinný dané "
+"opatrenia rešpektovať a správať sa v súlade s nimi."
 
 #: wllegal/templates/legal/documents/tos.html:401
 msgid ""
@@ -1433,6 +1842,9 @@ msgid ""
 "terms specified in Section 6 of this Agreement, ensuring that they do not "
 "jeopardize the Service's functionality."
 msgstr ""
+"Používateľ je povinný pri používaní Služby postupovať najmä v súlade s "
+"licenčnými podmienkami uvedenými v čl. 6 tejto Zmluvy a to tak, aby nijako "
+"neohrozil fungovanie Služby."
 
 #: wllegal/templates/legal/documents/tos.html:405
 msgid ""
@@ -1440,6 +1852,8 @@ msgid ""
 "right to request Support Services from the Supplier, as specified in the "
 "Price list."
 msgstr ""
+"Podľa variantu Služby uvedenej v Cenníku má Používateľ právo požadovať od "
+"Poskytovateľa Službu Podpory špecifikovanú v Cenníku."
 
 #: wllegal/templates/legal/documents/tos.html:409
 msgid ""
@@ -1449,6 +1863,11 @@ msgid ""
 "reasonable extent to minimize the risk of third parties misusing access "
 "credentials to the User's account."
 msgstr ""
+"Používateľ je povinný uchovávať prístupové údaje k Službe v tajnosti a "
+"svojím konaním neohroziť bezpečnosť Služby. Používateľ je tiež povinný "
+"zabezpečiť svoje technické vybavenie v primeranom rozsahu tak, aby "
+"minimalizoval riziko zneužitia prístupových údajov k Používateľskému účtu "
+"treťou stranou."
 
 #: wllegal/templates/legal/documents/tos.html:413
 msgid ""
@@ -1460,10 +1879,17 @@ msgid ""
 "be exposed to third parties due to a leak of access information, they are "
 "required to report this to the Supplier."
 msgstr ""
+"Pokiaľ Používateľ poruší povinnosti uložené v tomto článku, nenesie "
+"Poskytovateľ žiadnu zodpovednosť za škody, ktoré vzniknú Používateľovi, a za "
+"škody, ktoré vzniknú Poskytovateľovi alebo tretím osobám, zodpovedá výhradne "
+"Používateľ. Porušenie týchto povinností ďalej zakladá právo Poskytovateľa "
+"vypovedať túto Zmluvu. Pokiaľ Používateľ zistí, že môže dôjsť k "
+"sprístupneniu Služby tretím osobám v dôsledku úniku informácií o prístupe k "
+"Službe, je povinný túto skutočnosť nahlásiť Poskytovateľovi."
 
 #: wllegal/templates/legal/documents/tos.html:417
 msgid "Prohibited Conduct"
-msgstr ""
+msgstr "Zakázané konanie"
 
 #: wllegal/templates/legal/documents/tos.html:421
 msgid ""
@@ -1477,48 +1903,75 @@ msgid ""
 "another User’s account or the Provider’s servers. Violation of these "
 "obligations constitutes a material breach of the Agreement."
 msgstr ""
+"Používateľ nesmie na portál Služby nahrávať, odosielať ani inak ukladať "
+"obsah, ktorý môže obsahovať softvérový vírus alebo iné súbory a programy, "
+"ktoré môžu zničiť, poškodiť alebo obmedziť funkčnosť zariadenia "
+"Poskytovateľa alebo iných Používateľov. Požívateľ ďalej nie je oprávnený "
+"nahrávať na portál Služby obsah, ktorého držanie alebo šírenie je nezákonné, "
+"obsah, ktorý neoprávnene zasahuje do autorských práv tretej osoby alebo je "
+"súčasťou trestnej činnosti, šíriť prostredníctvom Služby spam alebo sa "
+"pokúšať získať prístup k Používateľskému účtu iného Používateľa alebo "
+"serverom Poskytovateľa . Porušenie týchto povinností je považované za "
+"podstatné porušenie Zmluvy."
 
 #: wllegal/templates/legal/documents/tos.html:425
 msgid ""
 "The User particularly agrees to refrain from the following activities while "
 "using the Services, especially through the Services:"
 msgstr ""
+"Používateľ sa najmä zaväzuje zdržať sa pri využívaní Služieb a najmä "
+"prostredníctvom Služieb:"
 
 #: wllegal/templates/legal/documents/tos.html:429
 msgid ""
 "Disseminating or offering any content that violates applicable laws at the "
 "national, EU, or international level;"
 msgstr ""
+"šírenie či ponúkanie akéhokoľvek obsahu, ktorý je v rozpore s platnými "
+"právnymi predpismi, a to ako na úrovni Českej republiky, tak na úrovni "
+"únijného a medzinárodného práva;"
 
 #: wllegal/templates/legal/documents/tos.html:433
 msgid ""
 "Disseminating or offering any illegally obtained content or content whose "
 "dissemination would be illegal;"
 msgstr ""
+"šírenie alebo ponúkanie akéhokoľvek obsahu, ktorý je nelegálne získaný, "
+"alebo ktorého šírenie by bolo nelegálne;"
 
 #: wllegal/templates/legal/documents/tos.html:437
 msgid ""
 "Disseminating or offering any pornographic, obscene, or otherwise vulgar "
 "content;"
 msgstr ""
+"šírenie či ponúkanie akéhokoľvek pornografického, obscénneho či inak "
+"vulgárneho obsahu;"
 
 #: wllegal/templates/legal/documents/tos.html:441
 msgid ""
 "Engaging in any services or activities that are contrary to applicable laws "
 "at the national, EU, or international level;"
 msgstr ""
+"šírenie, ponúkanie či prevádzkovanie akýchkoľvek služieb a/alebo činností, "
+"ktoré sú v rozpore s platnými právnymi predpismi, a to ako na úrovni Českej "
+"republiky, tak na úrovni únijného a medzinárodného práva;"
 
 #: wllegal/templates/legal/documents/tos.html:445
 msgid ""
 "Engaging in activities that bypass intellectual property protection elements "
 "(such as cracks, warez, etc.);"
 msgstr ""
+"prevádzkovanie akýchkoľvek činností spočívajúcich v obchádzaní prvkov "
+"ochrany duševného vlastníctva (typicky cracky, warez a ďalšie podobné "
+"činnosti);"
 
 #: wllegal/templates/legal/documents/tos.html:449
 msgid ""
 "Sending unsolicited commercial messages and other spam or other illegal "
 "harassment of third parties;"
 msgstr ""
+"rozosielanie nevyžiadaných obchodných oznámení a ďalšieho spamu či iného "
+"nelegálneho obťažovania tretích osôb;"
 
 #: wllegal/templates/legal/documents/tos.html:453
 msgid ""
@@ -1527,81 +1980,111 @@ msgid ""
 "impolite, or otherwise inappropriate content that unlawfully or illegally "
 "infringes on the personal rights of third parties;"
 msgstr ""
+"publikovanie alebo šírenie akéhokoľvek obsahu, ktorým by mohlo byť "
+"zasiahnuté do práv tretej osoby, vrátane útokov na tieto osoby, ako aj "
+"akéhokoľvek urážlivého, nezdvorilého či inak nevhodného obsahu, ktorým by "
+"mohlo byť neoprávnene alebo nezákonne zasiahnuté do osobnostných práv "
+"tretích osôb;"
 
 #: wllegal/templates/legal/documents/tos.html:457
 msgid ""
 "Disseminating or offering any content that infringes on third-party "
 "intellectual or industrial property rights;"
 msgstr ""
+"šírenie alebo ponúkanie akéhokoľvek obsahu, ktorý zasahuje do práv duševného "
+"vlastníctva tretích osôb a priemyselných práv týchto osôb;"
 
 #: wllegal/templates/legal/documents/tos.html:461
 msgid ""
 "Operating or disseminating any tools that may be misused to breach network, "
 "device, or service security;"
 msgstr ""
+"prevádzkovanie a šírenie akýchkoľvek nástrojov, ktoré môžu byť zneužité na "
+"porušenie zabezpečenia sietí, zariadení a ďalších služieb;"
 
 #: wllegal/templates/legal/documents/tos.html:465
 msgid "Overburdening the Provider's or third-party servers;"
 msgstr ""
+"nadmerné zaťažovanie serverov Poskytovateľa či akýchkoľvek tretích strán;"
 
 #: wllegal/templates/legal/documents/tos.html:469
 msgid ""
 "Engaging in any activities that could harm the Provider, its reputation, or "
 "its assets;"
 msgstr ""
+"akýchkoľvek činností, ktoré môžu poškodiť Poskytovateľa, jeho dobré meno, "
+"povesť, alebo akékoľvek jeho prostriedky a majetok;"
 
 #: wllegal/templates/legal/documents/tos.html:473
 msgid ""
 "Using any means, servers, devices, or elements provided by the Provider in a "
 "manner not expressly agreed upon in these Terms or the Agreement;"
 msgstr ""
+"využívanie akýchkoľvek prostriedkov, serverov, zariadení a ďalších prvkov "
+"sprístupnených Poskytovateľom iným spôsobom než spôsobom výslovne dohodnutým "
+"v týchto VOP a/alebo v Zmluve;"
 
 #: wllegal/templates/legal/documents/tos.html:477
 msgid ""
 "Conducting activities that would disclose any content to third parties that:"
 msgstr ""
+"akýchkoľvek činností, ktorými by mohlo dôjsť k sprístupneniu akejkoľvek "
+"tretej osobe obsahu, ktorý:"
 
 #: wllegal/templates/legal/documents/tos.html:481
 msgid "Contains prohibited applications and scripts;"
-msgstr ""
+msgstr "obsahuje nedovolené aplikácie a skripty;"
 
 #: wllegal/templates/legal/documents/tos.html:485
 msgid "Overloads database systems or causes malfunction of servers;"
-msgstr ""
+msgstr "preťažuje databázové systémy alebo spôsobuje zlú funkciu serverov;"
 
 #: wllegal/templates/legal/documents/tos.html:489
 msgid ""
 "Overburdens the infrastructure, connection lines, or hardware of the "
 "Provider or third parties;"
 msgstr ""
+"preťažuje infraštruktúru, prípojné linky alebo hardvér Poskytovateľa alebo "
+"prípadne iných osôb;"
 
 #: wllegal/templates/legal/documents/tos.html:493
 msgid ""
 "Involves music, sound, image, film, or similar files for which the User "
 "lacks distribution rights;"
 msgstr ""
+"možno označiť ako hudobné, zvukové, obrazové, filmové a iné podobné súbory, "
+"ku ktorým Používateľ nemá oprávnenie alebo autorské práva či iné práva na "
+"ich šírenie a distribúciu;"
 
 #: wllegal/templates/legal/documents/tos.html:497
 msgid ""
 "Threatens the privacy or security of other Internet users or the security of "
 "computer systems (e.g., through viruses, password generators, etc.);"
 msgstr ""
+"ohrozuje súkromie alebo bezpečnosť počítačových systémov iných používateľov "
+"siete Internet alebo ohrozuje súkromie alebo bezpečnosť akýchkoľvek iných "
+"používateľov siete Internet (napríklad prostredníctvom vírusov, generátorov "
+"hesiel a pod.);"
 
 #: wllegal/templates/legal/documents/tos.html:501
 msgid ""
 "Is part of the provided Service without written permission from the Provider "
 "to share it with third parties;"
 msgstr ""
+"je súčasťou poskytovanej Služby, pričom Používateľ nemá od Poskytovateľa "
+"písomné povolenie na sprostredkovanie Služby alebo jej časti tretím osobám;"
 
 #: wllegal/templates/legal/documents/tos.html:505
 msgid ""
 "Gives the impression that the User acts on behalf of the Provider without "
 "authorization;"
 msgstr ""
+"môže vzbudiť dojem, že Používateľ koná v mene Poskytovateľa, hoci nie je "
+"oprávneným spolupracovníkom Poskytovateľa;"
 
 #: wllegal/templates/legal/documents/tos.html:509
 msgid "May harm any third-party rights."
-msgstr ""
+msgstr "môže poškodiť akékoľvek práva tretích strán."
 
 #: wllegal/templates/legal/documents/tos.html:513
 msgid ""
@@ -1611,6 +2094,13 @@ msgid ""
 "public morality, ethical principles, or Internet usage rules, or is aiding "
 "in or committing criminal activities."
 msgstr ""
+"Poskytovateľ je oprávnený bez predchádzajúceho oznámenia prerušiť, obmedziť "
+"či pozastaviť poskytovanie Služieb vždy, keď sa dá dôvodne domnieva, že "
+"Používateľ porušuje VOP, Zmluvu, alebo používa Služby v rozpore so všeobecne "
+"záväznými právnymi predpismi, dobrými mravmi a všeobecne uznávanými etickými "
+"a morálnymi princípmi a všeobecne uznávanými pravidlami používania služieb "
+"poskytovaných prostredníctvom siete Internet alebo dokonca na páchanie či "
+"napomáhanie trestnej činnosti, priestupkov či iných deliktov."
 
 #: wllegal/templates/legal/documents/tos.html:517
 msgid ""
@@ -1620,6 +2110,14 @@ msgid ""
 "invoicing) or excessive usage, particularly through automated software and "
 "bots that overload the Provider’s servers or other technical facilities."
 msgstr ""
+"Poskytovateľ je ďalej bez predchádzajúceho oznámenia oprávnený prerušiť, "
+"obmedziť či pozastaviť poskytovanie Služieb vždy aj v prípade, keď dochádza "
+"k zneužívaniu Služieb k inému neoprávnenému zásahu do práva Poskytovateľa ("
+"napr. vydávanie sa za niekoho iného, vystavovanie podvodných faktúr a pod.) "
+"a/alebo nadmernému používaniu Služieb, a to najmä prostredníctvom "
+"automatizovaného softvéru a botov ako takých, ktorí neúmerne zaťažujú "
+"servery a ďalšie technické zariadenia Poskytovateľa a/alebo tretích strán, "
+"ktoré poskytujú služby Poskytovateľovi."
 
 #: wllegal/templates/legal/documents/tos.html:521
 msgid ""
@@ -1628,6 +2126,12 @@ msgid ""
 "responsible for any damages resulting from the interruption and cannot claim "
 "any compensation from the Provider for such damages."
 msgstr ""
+"Používateľ zároveň výslovne súhlasí s tým, že v prípade oprávneného "
+"prerušenia, obmedzenia či pozastavenia Služby zo strany Poskytovateľa, "
+"zodpovedá za všetky škody spôsobené v dôsledku prerušenia, obmedzenia či "
+"pozastavenia Služby výlučne Používateľ, a že nemôže po Poskytovateľovi "
+"požadovať akúkoľvek náhradu majetkovej či nemajetkovej ujmy takýmto "
+"prerušením, obmedzením či pozastavením Služby spôsobenej."
 
 #: wllegal/templates/legal/documents/tos.html:525
 msgid ""
@@ -1637,6 +2141,12 @@ msgid ""
 "or ensuring the installation and execution of tools and scripts on the "
 "virtual server that verify and check the software resources used."
 msgstr ""
+"Za účelom overenia využívaného softvérového riešenia či prípadného auditu "
+"licencovania pridelených softvérových prostriedkov a obsahu nahraného "
+"prostredníctvom Služieb sa Používateľ zaväzuje poskytnúť všetku súčinnosť "
+"Poskytovateľovi. To zahŕňa umožnenie či zabezpečenie inštalácie a spustenia "
+"príslušných nástrojov a skriptov na virtuálnom serveri, ktoré zaisťujú "
+"overenie a kontrolu využívaných softvérových prostriedkov."
 
 #: wllegal/templates/legal/documents/tos.html:529
 msgid ""
@@ -1650,10 +2160,20 @@ msgid ""
 "does not affect the Provider’s right to claim damages in addition to the "
 "penalty."
 msgstr ""
+"Požívateľ výslovne súhlasí s tým, že je zodpovedný za všetku škodu spôsobenú "
+"Poskytovateľovi, jeho klientom, partnerom alebo akýmkoľvek tretím stranám. "
+"Táto zodpovednosť zahŕňa najmä dôsledky akéhokoľvek právneho konania, ktoré "
+"porušuje ustanovenia tohto článku 10 VOP vyššie. Požívateľ taktiež súhlasí, "
+"že Poskytovateľ môže v rámci ochrany svojich Služieb upraviť ich nastavenia, "
+"aby maximálne zabránil ich zneužitiu. Cena za nevyužité obdobie po zrušení "
+"Služby nebude Používateľovi v prípade porušenia povinností zo strany "
+"Používateľa vrátená a bude automaticky považovaná za jednorazovú zmluvnú "
+"pokutu za porušenie povinnosti; dojednanie zmluvnej pokuty ani jej úhrada "
+"nemá vplyv na právo Poskytovateľa domáhať sa vedľa nej tiež náhrady škody."
 
 #: wllegal/templates/legal/documents/tos.html:534
 msgid "Termination of the Agreement"
-msgstr ""
+msgstr "Ukončenie zmluvy"
 
 #: wllegal/templates/legal/documents/tos.html:538
 msgid ""
@@ -1662,6 +2182,9 @@ msgid ""
 "(either the Provider or the User) with liquidation, termination of the "
 "Agreement, or by mutual agreement of the Parties."
 msgstr ""
+"Zmluvný vzťah končí odstúpením od Zmluvy, uplynutím dojednanej doby trvania "
+"Zmluvy, zánikom právnickej osoby (Poskytovateľa alebo Používateľa) s "
+"likvidáciou, výpoveďou Zmluvy alebo dohodou Zmluvných strán."
 
 #: wllegal/templates/legal/documents/tos.html:542
 msgid ""
@@ -1669,12 +2192,17 @@ msgid ""
 "reason. The notice period is three months, starting from the first day of "
 "the calendar month following the delivery of the notice to the User."
 msgstr ""
+"Poskytovateľ je oprávnený Zmluvu kedykoľvek vypovedať bez udania dôvodu. "
+"Výpovedná lehota je tri mesiace a začína plynúť prvým dňom kalendárneho "
+"mesiaca nasledujúceho po doručení výpovede Používateľovi."
 
 #: wllegal/templates/legal/documents/tos.html:546
 msgid ""
 "The User may terminate the Agreement under the conditions specified in "
 "Section 8.1 of these Terms."
 msgstr ""
+"Používateľ je oprávnený vypovedať Zmluvu v prípadoch uvedených v bode 8.1 "
+"týchto VOP."
 
 #: wllegal/templates/legal/documents/tos.html:550
 msgid ""
@@ -1684,6 +2212,11 @@ msgid ""
 "Agreement. The withdrawal becomes effective the day after the User receives "
 "the notice of withdrawal."
 msgstr ""
+"Pokiaľ Používateľ podstatne alebo opakovane poruší svoje povinnosti "
+"vyplývajúce z týchto VOP alebo zo Zmluvy a toto podstatné a opakované "
+"porušenie nenapraví do 14 dní odo dňa doručenia výzvy, ktorou bol o tejto "
+"skutočnosti, je Poskytovateľ oprávnený od Zmluvy odstúpiť. Odstúpenie je "
+"účinné dňom nasledujúcim po doručení oznámenia o odstúpení Používateľovi."
 
 #: wllegal/templates/legal/documents/tos.html:554
 msgid ""
@@ -1692,6 +2225,9 @@ msgid ""
 "withdraw from the Agreement and terminate the provision of the Service as "
 "soon as such a breach is discovered."
 msgstr ""
+"V prípade, že Používateľ poruší jeho povinnosti vyplývajúce z týchto VOP "
+"alebo zo Zmluvy zvlášť závažným spôsobom, je Poskytovateľ oprávnený odstúpiť "
+"od Zmluvy a ukončiť poskytovanie Služby ihneď po zistení takého porušenia."
 
 #: wllegal/templates/legal/documents/tos.html:558
 msgid ""
@@ -1699,6 +2235,9 @@ msgid ""
 "in a particularly serious manner, the User is entitled to immediately "
 "withdraw from the Agreement as soon as such a breach is discovered."
 msgstr ""
+"V prípade, že Poskytovateľ poruší jeho povinnosti vyplývajúce z týchto VOP "
+"alebo zo Zmluvy zvlášť závažným spôsobom, je Používateľ oprávnený odstúpiť "
+"od Zmluvy ihneď po zistení takého porušenia."
 
 #: wllegal/templates/legal/documents/tos.html:562
 msgid ""
@@ -1708,10 +2247,15 @@ msgid ""
 "including the provisions of Sections 1912 (2), 1923, 1969, 1977, 1978, 1979, "
 "2001, 2002, 2003, 2106, 2107, 2110, and 2111 of the Czech Civil Code."
 msgstr ""
+"Žiadna zo Zmluvných strán nemá právo vypovedať alebo inak ukončiť Zmluvu, s "
+"výnimkou prípadov výslovne uvedených v tomto článku. Zmluvné strany v "
+"maximálnej možnej miere vylučujú právo ktorejkoľvek zo strán vypovedať túto "
+"Zmluvu, vrátane ustanovení § 1912 ods. 2, 1923, 1969, 1977, 1978, 1979, "
+"2001, 2002, 2003, 2106, 2107, 2110 a 2111 Občianskeho zákonníka."
 
 #: wllegal/templates/legal/documents/tos.html:566
 msgid "Limitation of Liability"
-msgstr ""
+msgstr "Obmedzenie zodpovednosti"
 
 #: wllegal/templates/legal/documents/tos.html:570
 msgid ""
@@ -1722,10 +2266,16 @@ msgid ""
 "other intangible losses (even if the Provider has been advised of the "
 "possibility of such damages), resulting from:"
 msgstr ""
+"Poskytovateľ nezodpovedá za nepriame škody vzniknuté v dôsledku poskytovania "
+"Služieb, ako sú ušlý zisk, strata príjmov, strata dát, finančné škody alebo "
+"akékoľvek nepriame, zvláštne alebo následné škody, vrátane exemplárnych "
+"alebo sankčných škôd, vrátane, ale nie výlučne, škôd za iné nehmotné straty ("
+"aj keď bol Poskytovateľ na možnosť takých škôd upozornený), ktoré vznikli v "
+"dôsledku:"
 
 #: wllegal/templates/legal/documents/tos.html:575
 msgid "Use or inability to use the Service;"
-msgstr ""
+msgstr "používanie alebo nemožnosti používať Službu;"
 
 #: wllegal/templates/legal/documents/tos.html:578
 msgid ""
@@ -1733,6 +2283,10 @@ msgid ""
 "data, information, or services purchased or obtained or messages received, "
 "or transactions entered into through or from the Service;"
 msgstr ""
+"nákladov na obstaranie náhradného tovaru a služieb vyplývajúcich z "
+"akéhokoľvek tovaru, dát, informácií alebo Služby zakúpených alebo získaných "
+"alebo správ prijatých alebo transakcií uzavretých prostredníctvom Služby "
+"alebo z nej;"
 
 #: wllegal/templates/legal/documents/tos.html:581
 msgid ""
@@ -1740,12 +2294,13 @@ msgid ""
 "including any outcomes of third-party solutions or services related to the "
 "Service;"
 msgstr ""
+"vyhlásenie alebo správanie akejkoľvek tretej strany zapojenej do "
+"poskytovania Služby, ako aj akýchkoľvek výsledkov/výstupov riešení alebo "
+"služieb tretích strán poskytovaných v súvislosti so Službou;"
 
 #: wllegal/templates/legal/documents/tos.html:584
-#, fuzzy
-#| msgid "means translation project operated on the Service"
 msgid "Any other matters related to the Service."
-msgstr "je prekladateľský projekt spravovaný v Službe"
+msgstr "akékoľvek iné záležitosti týkajúce sa Služby."
 
 #: wllegal/templates/legal/documents/tos.html:589
 msgid ""
@@ -1757,6 +2312,14 @@ msgid ""
 "war, or changes in the political situation that prevent or unduly hinder the "
 "exercise of rights and obligations arising from this Agreement."
 msgstr ""
+"V prípade zásahu vyššej moci sú Zmluvné strany oprávnené dočasne pozastaviť "
+"plnenie svojich povinností na základe Zmluvy a akékoľvek nedodržanie ("
+"celkové alebo čiastočné) alebo omeškanie s plnením povinností uložených "
+"touto Zmluvou nebude považované za porušenie Zmluvy. ktorých je zodpovednosť "
+"podľa českých právnych predpisov vylúčená, okrem iného prírodná katastrofa, "
+"vojna, zmena politickej situácie, ktorá znemožňuje alebo neprimerane sťažuje "
+"výkon práv a povinností vyplývajúcich z tejto Zmluvy, alebo akýkoľvek iný "
+"obdobný dôvod, udalosť či skutočnosť."
 
 #: wllegal/templates/legal/documents/tos.html:593
 msgid ""
@@ -1767,6 +2330,12 @@ msgid ""
 "back up all of their data stored within the Service at another geographical "
 "location(s)."
 msgstr ""
+"Uzatvorením Zmluvy berie Používateľ na vedomie, že aj pri vynaložení "
+"všetkého úsilia Poskytovateľa je možné, že dôjde ku krátkodobej "
+"nedostupnosti Služby, ktorá je spôsobená okolnosťami mimo sféry vplyvu "
+"Poskytovateľa (napr. výpadok internetového pripojenia). Používateľ preto "
+"súhlasí a zaväzuje sa, že všetky jeho dáta uložené v rámci Služby budú "
+"Používateľom zálohované na inom geografickom mieste (miestach)."
 
 #: wllegal/templates/legal/documents/tos.html:597
 msgid ""
@@ -1775,12 +2344,15 @@ msgid ""
 "cancel their order or to request a refund of any fees paid, unless otherwise "
 "expressly agreed between the Parties in individual cases."
 msgstr ""
+"Používateľ používa Službu TAK, AKO JE. Nekompatibilita s iným softvérom, "
+"hardvérovou konfiguráciou alebo akékoľvek závady a vady NEOPRAVŇUJÚ "
+"Používateľa na zrušenie objednávky ani na vrátenie už zaplatenej Ceny "
+"Používateľom, pokiaľ nie je medzi Zmluvnými stranami v jednotlivých "
+"prípadoch výslovne dohodnuté inak."
 
 #: wllegal/templates/legal/documents/tos.html:601
-#, fuzzy
-#| msgid "The Personal Data retention"
 msgid "Personal Data Protection"
-msgstr "Uchovávanie Osobných údajov"
+msgstr "Ochrana osobných údajov"
 
 #: wllegal/templates/legal/documents/tos.html:605
 #, python-format
@@ -1792,6 +2364,12 @@ msgid ""
 "communications as defined in the <a href=\"%(privacy_url)s\">Privacy Policy</"
 "a>."
 msgstr ""
+"Všetky údaje zhromažďuje Poskytovateľ od Používateľa iba za účelom "
+"poskytovania Služby, zlepšovania jej kvality, plnenia právnych povinností, a "
+"vo vybraných prípadoch aj pre účely vlastného oprávnenému záujmu "
+"Poskytovateľ (napr. zachovanie bezpečnosti a integrity serverov) či pre "
+"zasielanie voliteľných obchodných oznámení v rozsahu bližšie definovanom v "
+"<a href=\" %(privacy_url)s \">Zásadách ochrany osobných údajov</a>."
 
 #: wllegal/templates/legal/documents/tos.html:609
 msgid ""
@@ -1799,6 +2377,8 @@ msgid ""
 "The User declares that they consider this encryption method sufficiently "
 "secure."
 msgstr ""
+"Všetka komunikácia v rámci Služby je šifrovaná protokolom SSL. Používateľ "
+"týmto prehlasuje, že tento spôsob šifrovania považuje za dostatočne bezpečný."
 
 #: wllegal/templates/legal/documents/tos.html:613
 #, python-format
@@ -1809,6 +2389,11 @@ msgid ""
 "defined in this Agreement and the <a href=\"%(privacy_url)s\">Privacy "
 "Policy</a>."
 msgstr ""
+"Poskytovateľ sa zaväzuje, že neposkytne žiadne informácie uvedené "
+"Používateľom pri registrácii jeho Používateľského účtu ani žiadne iné osobné "
+"údaje poskytnuté Používateľom žiadnej tretej strane na iné účely, než ktoré "
+"sú definované v tejto Zmluve a <a href=\" %(privacy_url)s \">Zásadách "
+"ochrany osobných údajov</a>."
 
 #: wllegal/templates/legal/documents/tos.html:617
 msgid ""
@@ -1818,18 +2403,28 @@ msgid ""
 "technical cookies, for which explicit consent is not required under current "
 "legislation."
 msgstr ""
+"Webové stránky a webová aplikácia Poskytovateľa tiež používajú súbory "
+"Cookies. Služby pritom využívajú výlučne session cookies Poskytovateľa a "
+"nikdy nepoužívajú Cookies tretích strán. Čo do funkcionality a typu Cookies "
+"potom Poskytovateľ používa výlučne funkčné/technické Cookies pre ktorých "
+"ukladanie do zariadenia Používateľa nie je v súlade s legislatívou "
+"vyžadovaný výslovný súhlas."
 
 #: wllegal/templates/legal/documents/tos.html:625
 msgid ""
 "The Parties commit to maintaining the confidentiality of all information "
 "learned during the contractual relationship established by this Agreement."
 msgstr ""
+"Zmluvné strany sa zaväzujú zachovávať mlčanlivosť o všetkých informáciách, "
+"ktoré sa dozvedeli v priebehu zmluvného vzťahu podľa tejto Zmluvy."
 
 #: wllegal/templates/legal/documents/tos.html:629
 msgid ""
 "The User’s rights arising from the Agreement and these Terms cannot be "
 "assigned without the prior written consent of the Provider."
 msgstr ""
+"Práva Používateľa vyplývajúce zo Zmluvy a týchto VOP nemožno postúpiť bez "
+"predchádzajúceho písomného súhlasu Poskytovateľa."
 
 #: wllegal/templates/legal/documents/tos.html:633
 msgid ""
@@ -1837,6 +2432,9 @@ msgid ""
 "business entities and that they are entering into this Agreement within the "
 "scope of their business activities."
 msgstr ""
+"Pre vylúčenie akýchkoľvek pochybností Zmluvné strany výslovne potvrdzujú, že "
+"sú podnikateľmi a že túto Zmluvu uzatvárajú v rámci svojej podnikateľskej "
+"činnosti."
 
 #: wllegal/templates/legal/documents/tos.html:637
 msgid ""
@@ -1847,6 +2445,13 @@ msgid ""
 "effort to amend the Agreement by replacing the invalid, unenforceable, or "
 "ineffective provision with a new one that reflects the original intent."
 msgstr ""
+"Pokiaľ niektoré ustanovenie tejto Zmluvy alebo týchto VOP je alebo sa stane "
+"neplatným, neúčinným alebo nevymáhateľným, nemá táto skutočnosť vplyv na "
+"platnosť, vymáhateľnosť alebo účinnosť zostávajúcich ustanovení Zmluvy alebo "
+"týchto VOP. V takom prípade sú Zmluvné strany povinné vyvinúť všetko úsilie "
+"na uzavretie dodatku k Zmluve, ktorým bude neplatné, nevymáhateľné alebo "
+"neúčinné ustanovenie nahradené novým ustanovením zodpovedajúcim pôvodne "
+"zamýšľanému účelu."
 
 #: wllegal/templates/legal/documents/tos.html:641
 msgid ""
@@ -1866,6 +2471,18 @@ msgid ""
 "Parties. The Parties irrevocably agree not to contest the enforcement of the "
 "arbitration award in any jurisdiction."
 msgstr ""
+"Tieto VOP sa riadia právom Českej republiky, člena Európskej únie. Zmluvné "
+"strany však zároveň v maximálnej možnej miere vylučujú ustanovenia § 1764, "
+"1765, 1793 až 1795, 2050, 2389a až 2389f, 2389t a 2389u Občianskeho "
+"zákonníka. Všetky spory vzniknuté v súvislosti s plnením alebo výkladom "
+"Zmluvy alebo z nej, ktoré sa Zmluvným stranám nepodarí vyriešiť zmierlivo, "
+"budú s konečnou platnosťou riešené českým rozhodcovským orgánom. "
+"Rozhodcovského súdu. Každá strana vymenuje jedného rozhodcu. Obaja "
+"rozhodcovia sa na treťom rozhodcovi dohodnú do 30 dní. Pokiaľ sa obaja "
+"rozhodcovia vo vyššie uvedenej lehote nedohodnú na treťom rozhodcovi, "
+"vymenuje ho predseda Rozhodcovského súdu. Rozhodcovský nález je pre Zmluvné "
+"strany konečný a záväzný. Zmluvné strany sa týmto neodvolateľne zaväzujú, že "
+"nenapadnú výkon rozhodcovského nálezu v rámci akejkoľvek jurisdikcie."
 
 #: wllegal/templates/legal/documents/tos.html:645
 msgid ""
@@ -1876,15 +2493,16 @@ msgid ""
 "the English version and any translated version, the English version shall "
 "prevail in all matters."
 msgstr ""
+"Oficiálna verzia týchto VOP bola vypracovaná v angličtine a je považovaná za "
+"jedinú záväznú verziu. Akékoľvek verzie týchto VOP preložené do iných "
+"jazykov sú poskytované výhradne pre pohodlie Používateľa a nemajú právnu "
+"váhu. V prípade akýchkoľvek nezrovnalostí alebo rozporov medzi anglickou "
+"verziou a akoukoľvek preloženou verziou má vo všetkých záležitostiach "
+"prednosť anglická verzia."
 
 #: wllegal/templates/legal/documents/tos.html:649
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 15th May 2023."
 msgid "These Terms enter into force on November 1, 2024."
-msgstr ""
-"Tieto Všeobecné Zmluvné Podmienky nadobúdajú platnosť a účinnosť dňa 15. "
-"mája 2023."
+msgstr "Tieto VOP nadobúdajú platnosť 1. 11. 2024."
 
 #, python-format
 #~ msgid ""
