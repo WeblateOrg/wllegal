@@ -12,7 +12,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 09:50+0000\n"
 "PO-Revision-Date: 2024-12-19 18:19+0000\n"
-"Last-Translator: Peter Vančo <petervanco347@gmail.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/weblate/legal/sk/>"
 "\n"
 "Language: sk\n"
@@ -31,16 +31,12 @@ msgid "Status as of May 2024."
 msgstr "Stav k máju 2024."
 
 #: wllegal/templates/legal/documents/privacy.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
-"Smerodajná je anglická verzia dokumentu Podmienky poskytovania služieb. "
-"Preklady poskytujeme pre vaše pohodlie."
+"Dokument Zásady ochrany osobných údajov je právne záväzný v angličtine, "
+"preklady sú poskytované pre vaše pohodlie."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:7
@@ -855,16 +851,12 @@ msgid "We don’t use any third-party cookies."
 msgstr "Nepoužívame žiadne súbory cookie tretích strán."
 
 #: wllegal/templates/legal/documents/tos.html:6
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
-"Smerodajná je anglická verzia dokumentu Podmienky poskytovania služieb. "
-"Preklady poskytujeme pre vaše pohodlie."
+"Dokument Všeobecné obchodné podmienky je právne záväzný v anglickom jazyku, "
+"preklady sú poskytované pre vaše pohodlie."
 
 #: wllegal/templates/legal/documents/tos.html:12
 msgid ""
