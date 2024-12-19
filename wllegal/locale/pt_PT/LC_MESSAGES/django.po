@@ -5,11 +5,11 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 09:50+0000\n"
-"PO-Revision-Date: 2024-11-26 03:26+0000\n"
-"Last-Translator: Horus68 <horus68@users.noreply.hosted.weblate.org>\n"
+"PO-Revision-Date: 2024-12-19 18:19+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Portugal) <https://hosted.weblate.org/projects/"
 "weblate/legal/pt_PT/>\n"
 "Language: pt_PT\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.9.2-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -636,16 +636,12 @@ msgid "We don’t use any third-party cookies."
 msgstr "Não utilizamos cookies de terceiros."
 
 #: wllegal/templates/legal/documents/tos.html:6
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
-"O documento dos \"Termos de Serviço\" em inglês é vinculativo, as traduções "
-"são fornecidas para sua conveniência."
+"O documento dos Termos de Serviço, em inglês, é vinculativo legalmente. As "
+"traduções são fornecidas apenas para sua conveniência."
 
 #: wllegal/templates/legal/documents/tos.html:12
 #, fuzzy
