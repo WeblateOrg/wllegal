@@ -1643,7 +1643,7 @@ msgstr ""
 "funcionalidade do gateway de pagamento do ThePay."
 
 #: wllegal/templates/legal/documents/tos.html:344
-msgid "Provider‘s Rights and Obligations"
+msgid "Provider's Rights and Obligations"
 msgstr "Direitos e obrigações do Provedor"
 
 #: wllegal/templates/legal/documents/tos.html:348

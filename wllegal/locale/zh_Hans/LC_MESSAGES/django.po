@@ -1408,7 +1408,7 @@ msgstr ""
 "功能负责。"
 
 #: wllegal/templates/legal/documents/tos.html:344
-msgid "Provider‘s Rights and Obligations"
+msgid "Provider's Rights and Obligations"
 msgstr "提供者的权利和义务"
 
 #: wllegal/templates/legal/documents/tos.html:348

@@ -1615,7 +1615,7 @@ msgstr ""
 "платіжного шлюзу ThePay."
 
 #: wllegal/templates/legal/documents/tos.html:344
-msgid "Provider‘s Rights and Obligations"
+msgid "Provider's Rights and Obligations"
 msgstr "Права та обов'язки Провайдера"
 
 #: wllegal/templates/legal/documents/tos.html:348

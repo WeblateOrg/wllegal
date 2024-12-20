@@ -1698,7 +1698,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:344
 #, fuzzy
 #| msgid "Supplier‘s Rights and Obligations"
-msgid "Provider‘s Rights and Obligations"
+msgid "Provider's Rights and Obligations"
 msgstr "Cearta agus Oibleagáidí an tSoláthróra"
 
 #: wllegal/templates/legal/documents/tos.html:348

@@ -1176,7 +1176,7 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:344
-msgid "Provider‘s Rights and Obligations"
+msgid "Provider's Rights and Obligations"
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:348
