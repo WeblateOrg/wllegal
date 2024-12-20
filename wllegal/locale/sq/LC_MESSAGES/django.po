@@ -6,10 +6,10 @@
 # Besnik Bleta <besnik@programeshqip.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2024-12-16 14:20+0000\n"
+"PO-Revision-Date: 2024-12-21 00:25+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/weblate/legal/"
 "sq/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9-rc\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -175,10 +175,8 @@ msgid "User's avatar,"
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail address"
 msgid "email address(es),"
-msgstr "Emër dhe adresë email"
+msgstr "adresë(a) email,"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -297,10 +295,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:149
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Recipients and Processors of Personal Data"
-msgstr "Përdorim të Dhëna Personale"
+msgstr "Marrë dhe Përpunues të Dhënash Personale"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -478,10 +474,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:236
-#, fuzzy
-#| msgid "Order us to delete your Personal Data"
 msgid "User Rights in Relation to Personal Data"
-msgstr "Të urdhëroni fshirjen prej nesh të të Dhënave tuaja Personale"
+msgstr "Të drejta Përdorues në Lidhje me të Dhëna Personale"
 
 #: wllegal/templates/legal/documents/privacy.html:240
 #, python-format
@@ -650,16 +644,13 @@ msgstr ""
 "anglisht, përkthimet jepen për t’ju lehtësuar punë."
 
 #: wllegal/templates/legal/documents/tos.html:12
-#, fuzzy
-#| msgid ""
-#| "The rights and obligations of the User and the Provider resulting from "
-#| "the use of the Service are governed by these Terms of Service."
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
 msgstr ""
 "Të drejtat dhe detyrimet e Përdoruesit dhe Furnizuesit të Shërbimit të "
-"rrjedhura nga përdorimi i Shërbimit qeverisen nga këto Kushte Shërbimi."
+"rrjedhura nga përdorimi i Shërbimit qeverisen nga këto Terma dhe Kushte të "
+"Përgjithshme."
 
 #: wllegal/templates/legal/documents/tos.html:21
 msgid ""
@@ -682,11 +673,8 @@ msgid "Civil Code"
 msgstr "Kod Civil"
 
 #: wllegal/templates/legal/documents/tos.html:34
-#, fuzzy
-#| msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
-msgstr ""
-"do të thotë Akti No. %(law_89_2012)s Coll., Kodi Civil, siç është ndryshuar"
+msgstr "do të thotë Akti No. 89/2012 Coll., Kodi Civil, siç është ndryshuar;"
 
 #: wllegal/templates/legal/documents/tos.html:38
 msgid "Contracting Parties"
@@ -724,16 +712,12 @@ msgid "GDPR"
 msgstr "GDPR"
 
 #: wllegal/templates/legal/documents/tos.html:62
-#, fuzzy
-#| msgid ""
-#| "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
-#| "Regulation"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
 msgstr ""
-"do të thotë Rregullorja No. %(law_679_2016)s e Bashkimit Europian, "
-"Rregullorja e Përgjithshme e Mbrojtjes së të Dhënave (GDRP)"
+"do të thotë Rregullorja No. 679/2016, e BE-së, Rregullorja e Përgjithshme e "
+"Mbrojtjes së të Dhënave;"
 
 #: wllegal/templates/legal/documents/tos.html:66
 msgid "GTC"
@@ -750,18 +734,12 @@ msgid "Hosted String"
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:76
-#, fuzzy
-#| msgid ""
-#| "Pricing is based on the number of source strings and target languages. "
-#| "The source string is a text unit defined in a translation format, it can "
-#| "be a word, sentence or paragraph."
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
 msgstr ""
-"Çmimet bazohen te numri i vargjeve burim dhe ai i gjuhëve të synuara. Varg "
-"burimi është një njësi teksti e përcaktuar në një format përkthimi, mund të "
-"jetë një fjalë, një togfjalësh ose një paragraf."
+"do të thotë një njësi teksti e përcaktuar në format përkthimi. Mund të jetë "
+"një fjalë, një togfjalësh ose një paragraf."
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid "Hosted Weblate"
@@ -779,33 +757,24 @@ msgid "License"
 msgstr "Licencë"
 
 #: wllegal/templates/legal/documents/tos.html:90
-#, fuzzy
-#| msgid ""
-#| "means non-exclusive license granted by the Provider to the User for use "
-#| "of the Service"
 msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
 msgstr ""
-"do të thotë licencë jopërjashtimore akorduar Përdoruesit nga Shërbimi për "
-"përdorimin e Shërbimit"
+"do të thotë licenca jopërjashtimore akorduar Përdoruesit nga Shërbimi për "
+"përdorimin e Shërbimit;"
 
 #: wllegal/templates/legal/documents/tos.html:94
 msgid "Personal Data"
 msgstr "Të dhëna Personale"
 
 #: wllegal/templates/legal/documents/tos.html:97
-#, fuzzy
-#| msgid ""
-#| "means personal data within the meaning of EU Regulation No. "
-#| "%(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"do të thotë të dhëna personale sipas kuptimit të Rregullores No. "
-"%(law_679_2016)s të Bashkimit Europian, dhënë nga përdoruesi te Shërbimi dhe/"
-"ose Cookie-t"
+"do të thotë të dhëna personale siç përkufizohen në Rregulloren 679/2016, të "
+"BE-se, dhënë nga përdoruesi te Shërbimi dhe/ose Cookie-t;"
 
 #: wllegal/templates/legal/documents/tos.html:101
 #: wllegal/templates/legal/documents/tos.html:236
@@ -856,14 +825,11 @@ msgid "Service"
 msgstr "Shërbim"
 
 #: wllegal/templates/legal/documents/tos.html:132
-#, fuzzy
-#| msgid ""
-#| "means the website and services based on Weblate operated by the Provider"
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
 msgstr ""
-"do të thotë sajti dhe shërbime të bazuar në Weblate, administruar nga "
-"Furnizuesi i Shërbimit"
+"do të thotë sajte dhe shërbime të bazuar në Weblate, dhënë nga Furnizuesi i "
+"Shërbimit;"
 
 #: wllegal/templates/legal/documents/tos.html:136
 msgid "Self-hosting"
@@ -876,10 +842,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:143
-#, fuzzy
-#| msgid "Service"
 msgid "Support Services"
-msgstr "Shërbim"
+msgstr "Shërbime Asistence"
 
 #: wllegal/templates/legal/documents/tos.html:146
 msgid ""
@@ -893,28 +857,22 @@ msgid "Translation Memory"
 msgstr "Kujtesë Përkthimesh"
 
 #: wllegal/templates/legal/documents/tos.html:153
-#, fuzzy
-#| msgid ""
-#| "means the optional translation memory service provided within Weblate"
 msgid "means an optional translation memory service provided on Weblate;"
 msgstr ""
-"do të thotë shërbimi opsional kujtese përkthimesh furnizuar brenda Weblate-it"
+"do të thotë një shërbim opsional kujtese përkthimesh furnizuar brenda "
+"Weblate-it;"
 
 #: wllegal/templates/legal/documents/tos.html:157
 msgid "User"
 msgstr "Përdorues"
 
 #: wllegal/templates/legal/documents/tos.html:160
-#, fuzzy
-#| msgid ""
-#| "means any legal entity or an individual other than the Provider, who is "
-#| "using the Service"
 msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
 msgstr ""
-"do të thotë çfarëdo njësi apo individ ligjor, tjetër nga Furnizuesi i "
-"Shërbimit, që përdor Shërbimin"
+"do të thotë çfarëdo njësie ligjore, apo personi natyror, tjetër nga "
+"Furnizuesi i Shërbimit, që përdor Shërbimin;"
 
 #: wllegal/templates/legal/documents/tos.html:164
 msgid "User Account"
@@ -949,10 +907,8 @@ msgid "These GTC are an integral part of the Agreement."
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:192
-#, fuzzy
-#| msgid "License Agreement Conclusion"
 msgid "The Agreement is concluded:"
-msgstr "Finalizim Marrëveshjeje Licence"
+msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:197
 msgid ""
@@ -1011,10 +967,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:228
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
-msgstr "Shërbim"
+msgstr "Kohëzgjatje Shërbimi"
 
 #: wllegal/templates/legal/documents/tos.html:232
 msgid ""
@@ -1051,10 +1005,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:250
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "Kujtesë Përkthimesh"
+msgstr "çmim i rregullt për Kujtesë Përkthimesh;"
 
 #: wllegal/templates/legal/documents/tos.html:255
 msgid ""
@@ -1130,10 +1082,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:287
-#, fuzzy
-#| msgid "License"
 msgid "License Terms"
-msgstr "Licencë"
+msgstr "Kushte Licence"
 
 #: wllegal/templates/legal/documents/tos.html:291
 #, python-format
@@ -1202,10 +1152,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:316
-#, fuzzy
-#| msgid "Payment error"
 msgid "Payment Terms"
-msgstr "Gabim pagese"
+msgstr "Kushte Pagese"
 
 #: wllegal/templates/legal/documents/tos.html:320
 msgid ""
@@ -1713,10 +1661,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:584
-#, fuzzy
-#| msgid "means translation project operated on the Service"
 msgid "Any other matters related to the Service."
-msgstr "do të thotë projekt përkthimi i punuar në Shërbim"
+msgstr "Çfarëdo çështje të tjera të lidhura me Shërbimin."
 
 #: wllegal/templates/legal/documents/tos.html:589
 msgid ""
@@ -1748,10 +1694,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:601
-#, fuzzy
-#| msgid "The Personal Data retention"
 msgid "Personal Data Protection"
-msgstr "Mbajtje të Dhënash Personale"
+msgstr "Mbrojtje të Dhënash Personale"
 
 #: wllegal/templates/legal/documents/tos.html:605
 #, python-format
@@ -1849,12 +1793,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:649
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 15th May 2023."
 msgid "These Terms enter into force on November 1, 2024."
-msgstr ""
-"Këto Kushte Shërbimi do të hyjnë në fuqi dhe kenë efekt më 15 maj 2023."
+msgstr "Këto Kushte hyjnë në fuqi më 1 nëntor 2024."
 
 #, python-format
 #~ msgid ""
