@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2024-12-20 09:15+0000\n"
+"PO-Revision-Date: 2024-12-21 00:25+0000\n"
 "Last-Translator: VfBFan <drop0815@posteo.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/weblate/legal/de/>"
 "\n"
@@ -24,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9.2-dev\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -1231,7 +1231,7 @@ msgstr "Diese AGB sind integraler Bestandteil des Vertrages."
 
 #: wllegal/templates/legal/documents/tos.html:192
 msgid "The Agreement is concluded:"
-msgstr "Das Abkommen ist abgeschlossen:"
+msgstr "Der Vertrag ist abgeschlossen:"
 
 #: wllegal/templates/legal/documents/tos.html:197
 msgid ""
@@ -2269,7 +2269,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:534
 msgid "Termination of the Agreement"
-msgstr "Beendigung des Abkommens"
+msgstr "Kündigung des Vertrags"
 
 #: wllegal/templates/legal/documents/tos.html:538
 msgid ""
@@ -2279,8 +2279,8 @@ msgid ""
 "Agreement, or by mutual agreement of the Parties."
 msgstr ""
 "Die Beendigung des Vertragsverhältnisses kann durch Rücktritt vom Vertrag, "
-"Ablauf des vereinbarten Begriffs, Auflösung einer juristischen Person "
-"(entweder des Anbieters oder des Benutzers) mit Liquidation, Kündigung des "
+"Ablauf des vereinbarten Vertrags, Aufhebung einer juristischen Person ("
+"entweder des Anbieters oder des Benutzers) mit Auflösung, Kündigung des "
 "Vertrags oder im gegenseitigen Einvernehmen der Parteien erfolgen."
 
 #: wllegal/templates/legal/documents/tos.html:542
@@ -2356,7 +2356,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:566
 msgid "Limitation of Liability"
-msgstr "Beschränkung der Haftung"
+msgstr "Haftungsbeschränkung"
 
 #: wllegal/templates/legal/documents/tos.html:570
 msgid ""
