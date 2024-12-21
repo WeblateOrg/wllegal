@@ -12,11 +12,11 @@
 # Golubev Alexander <fatzer2@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2024-12-19 18:19+0000\n"
-"Last-Translator: Blueberry <igory.ygr200@gmail.com>\n"
+"PO-Revision-Date: 2024-12-21 15:47+0000\n"
+"Last-Translator: BouenMarsh <mveretsuk@yandex.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/weblate/legal/ru/"
 ">\n"
 "Language: ru\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.9.2-dev\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -1388,13 +1388,7 @@ msgstr ""
 "рабочих дней после окончания каждого соответствующего периода."
 
 #: wllegal/templates/legal/documents/tos.html:267
-#, fuzzy, python-format
-#| msgid ""
-#| "Payment of the Price may be made by Credit Card, bank transfer, or "
-#| "cryptocurrency transaction. All Prices listed in the Price List exclude "
-#| "VAT. End users from the EU and Czech business companies will be required "
-#| "to pay an additional VAT of 21%%. Reverse charge applies to invoices "
-#| "issued to businesses within the EU."
+#, python-format
 msgid ""
 "Payment of the Price may be made by credit card, bank transfer, or "
 "cryptocurrency transaction. All Prices listed in the Price List exclude VAT. "
@@ -1409,13 +1403,6 @@ msgstr ""
 "применяется к счетам, выставленным предприятиям на территории ЕС."
 
 #: wllegal/templates/legal/documents/tos.html:271
-#, fuzzy
-#| msgid ""
-#| "If the User wishes to avoid being charged for the Service in the "
-#| "Subscription mode, they must cancel the Subscription three days before "
-#| "the automatic renewal of the Service usage. The Provider recommends "
-#| "verifying with the prepaid card issuer or bank whether recurring billing "
-#| "is possible."
 msgid ""
 "If the User wishes to avoid being charged for the Service in the "
 "Subscription mode, they must cancel the Subscription at least three days "
@@ -1424,9 +1411,10 @@ msgid ""
 "possible."
 msgstr ""
 "Если Пользователь желает избежать списания средств за Сервис в режиме "
-"подписки, он должен отменить подписку за три дня до автоматического "
-"продления использования Сервиса. Поставщик рекомендует уточнить у эмитента "
-"предоплаченной карты или банка, возможно ли выставление периодических счетов."
+"подписки, он должен отменить подписку не позднее, чем за три дня до "
+"автоматического продления использования Сервиса. Поставщик рекомендует "
+"уточнить у эмитента предоплаченной карты или банка, возможно ли выставление "
+"периодических счетов."
 
 #: wllegal/templates/legal/documents/tos.html:275
 msgid ""
@@ -1696,8 +1684,6 @@ msgstr ""
 "платёжного шлюза ThePay."
 
 #: wllegal/templates/legal/documents/tos.html:344
-#, fuzzy
-#| msgid "Supplier‘s Rights and Obligations"
 msgid "Provider's Rights and Obligations"
 msgstr "Права и обязанности поставщика"
 
