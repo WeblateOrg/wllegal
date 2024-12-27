@@ -7,10 +7,10 @@
 # Manuela Silva <mmsrs@sky.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2024-11-26 03:26+0000\n"
+"PO-Revision-Date: 2024-12-27 12:01+0000\n"
 "Last-Translator: Horus68 <horus68@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/weblate/legal/"
 "pt/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -615,17 +615,17 @@ msgid ""
 "Your name and e-mail address is used in VCS commits, it will stay there "
 "indefinitely."
 msgstr ""
-"O seu nome e o endereço de ''e-mail'' são utilizados nas submissões de VCS, "
-"que irão ficar lá permanentemente."
+"O seu nome e endereço de email são utilizados nas submissões de VCS, pelo "
+"que irá ficar lá para sempre."
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
 msgstr ""
-"O nome escolhido é da sua responsabilidade e o endereço de e-mail utilizado "
-"para as confirmações pode ser ocultado pelo sistema Weblate para proteger a "
-"sua privacidade."
+"O nome escolhido fica a seu critério. O endereço de email utilizado para as "
+"submissões pode ser ocultado pelo sistema Weblate para proteger a sua "
+"privacidade."
 
 #: wllegal/templates/legal/documents/summary.html:15
 msgid "We use cookies to deliver our services."
@@ -640,9 +640,8 @@ msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
-"O documento dos \"Termos gerais de serviço e condições\" é legalmente "
-"vinculativo na versão em inglês. As traduções são fornecidas apenas para sua "
-"conveniência."
+"O documento dos Termos gerais e condições é legalmente vinculativo em "
+"inglês. As traduções são fornecidas apenas para sua conveniência."
 
 #: wllegal/templates/legal/documents/tos.html:12
 msgid ""
@@ -875,7 +874,7 @@ msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
 msgstr ""
-"significa qualquer entidade legal um indivíduo, que não o fornecedor, que "
+"significa qualquer entidade legal ou indivíduo, que não o fornecedor, que "
 "esteja a utilizar o Serviço;"
 
 #: wllegal/templates/legal/documents/tos.html:164
@@ -1665,10 +1664,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:584
-#, fuzzy
-#| msgid "means translation project operated on the Service"
 msgid "Any other matters related to the Service."
-msgstr "significa que o projeto de tradução operado no \"Serviço\""
+msgstr "Qualquer outro assunto relacionado com o Serviço."
 
 #: wllegal/templates/legal/documents/tos.html:589
 msgid ""
