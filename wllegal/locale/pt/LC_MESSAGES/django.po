@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2024-12-27 12:01+0000\n"
+"PO-Revision-Date: 2024-12-27 15:38+0000\n"
 "Last-Translator: Horus68 <horus68@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/weblate/legal/"
 "pt/>\n"
@@ -361,14 +361,6 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:186
-#, fuzzy
-#| msgid ""
-#| "In case the Controller is required by law to disclose the Personal Data, "
-#| "an attempt will be made to provide the User with prior notice by e-mail "
-#| "(unless the Controller is prohibited, or it would be futile) that a "
-#| "request for the Personal Data has been made to allow the User to object "
-#| "to the disclosure. If the User does not challenge the disclosure request, "
-#| "the Controller may be legally required to turn over the Personal Data."
 msgid ""
 "The Personal Data might be disclosed to third parties in limited "
 "circumstances when the Controller has a good faith belief it is required by "
@@ -378,12 +370,13 @@ msgid ""
 "the Controller is prohibited, or it would be futile) that a request for the "
 "Personal Data has been made to allow the User to object to the disclosure."
 msgstr ""
-"Caso o Controlador seja obrigado por lei a divulgar os Dados Pessoais, será "
-"feita uma tentativa de fornecer ao Utilizador um aviso por e-mail (a menos "
-"que o Controlador seja proibido, ou seja, inútil) de que uma solicitação de "
-"Dados Pessoais foi feita para permitir que o utilizador se oponha à "
-"divulgação. Se o Utilizador não contestar a solicitação de divulgação, o "
-"Controlador poderá ser legalmente obrigado a entregar os Dados Pessoais."
+"Os dados pessoais podem ser divulgados a terceiros em circunstâncias "
+"limitadas quando o Controlador acreditar de boa-fé que tal é exigido por "
+"lei, como por intimação ou outra ordem judicial ou administrativa. Caso o "
+"Controlador seja obrigado por lei a divulgar os dados pessoais, será feita "
+"uma tentativa de fornecer ao Utilizador um aviso por email (a menos que o "
+"Controlador seja proibido, ou seja, inútil) de que foi feita uma solicitação "
+"de dados pessoais para permitir que o utilizador se oponha à divulgação."
 
 #: wllegal/templates/legal/documents/privacy.html:190
 msgid ""
@@ -712,16 +705,12 @@ msgid "GDPR"
 msgstr "RGPD"
 
 #: wllegal/templates/legal/documents/tos.html:62
-#, fuzzy
-#| msgid ""
-#| "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
-#| "Regulation"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
 msgstr ""
-"significa o «Regulamento» da UE n.º %(law_679_2016)s, o «Regulamento Geral "
-"de Proteção de Dados»"
+"significa o Regulamento da UE n.º 679/2016, o Regulamento Geral de Proteção "
+"de Dados;"
 
 #: wllegal/templates/legal/documents/tos.html:66
 msgid "GTC"
@@ -1796,12 +1785,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:649
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 15th May 2023."
 msgid "These Terms enter into force on November 1, 2024."
-msgstr ""
-"Estes Termos do Serviço entrarão em vigor a partir de 15 de maio de 2023."
+msgstr "Estes termos entrarão em vigor a partir de 1 de novembro de 2024."
 
 #, python-format
 #~ msgid ""
