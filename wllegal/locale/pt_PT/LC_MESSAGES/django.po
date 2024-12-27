@@ -5,11 +5,11 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2024-12-19 18:19+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-12-27 12:01+0000\n"
+"Last-Translator: Horus68 <horus68@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Portuguese (Portugal) <https://hosted.weblate.org/projects/"
 "weblate/legal/pt_PT/>\n"
 "Language: pt_PT\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.9.2-dev\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -294,10 +294,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:149
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Recipients and Processors of Personal Data"
-msgstr "Acesso aos Dados Pessoais"
+msgstr "Destinatários e subcontratantes de dados pessoais"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -623,9 +621,9 @@ msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
 msgstr ""
-"O nome escolhido é da sua responsabilidade e o endereço de email utilizado "
-"para as submissões pode ser ocultado pelo sistema Weblate para proteger a "
-"sua privacidade."
+"O nome escolhido fica a seu critério. O endereço de email utilizado para as "
+"submissões pode ser ocultado pelo sistema Weblate para proteger a sua "
+"privacidade."
 
 #: wllegal/templates/legal/documents/summary.html:15
 msgid "We use cookies to deliver our services."
@@ -640,21 +638,17 @@ msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
-"O documento dos Termos de Serviço, em inglês, é vinculativo legalmente. As "
-"traduções são fornecidas apenas para sua conveniência."
+"O documento dos Termos gerais e condições é legalmente vinculativo em "
+"inglês. As traduções são fornecidas apenas para sua conveniência."
 
 #: wllegal/templates/legal/documents/tos.html:12
-#, fuzzy
-#| msgid ""
-#| "The rights and obligations of the User and the Provider resulting from "
-#| "the use of the Service are governed by these Terms of Service."
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
 msgstr ""
-"Os direitos e as obrigações do \"Utilizador\" e do \"Fornecedor\" "
-"resultantes da utilização do \"Serviço\" são geridos por estes \"Termos de "
-"Serviço\"."
+"Os direitos e as obrigações do Utilizador e do Fornecedor resultantes da "
+"utilização do Serviço são geridos por estes Termos gerais de serviço e "
+"condições."
 
 #: wllegal/templates/legal/documents/tos.html:21
 msgid ""
@@ -746,6 +740,8 @@ msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
 msgstr ""
+"significa uma unidade de texto definida no formato de tradução. Pode ser uma "
+"palavra, frase ou parágrafo;"
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid "Hosted Weblate"
@@ -785,7 +781,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:101
 #: wllegal/templates/legal/documents/tos.html:236
 msgid "Price"
-msgstr ""
+msgstr "Preço"
 
 #: wllegal/templates/legal/documents/tos.html:104
 msgid ""
@@ -795,7 +791,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:108
 msgid "Price List"
-msgstr ""
+msgstr "Lista de preços"
 
 #: wllegal/templates/legal/documents/tos.html:111
 msgid ""
@@ -848,10 +844,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:143
-#, fuzzy
-#| msgid "Service"
 msgid "Support Services"
-msgstr "Serviço"
+msgstr "Serviço de apoio"
 
 #: wllegal/templates/legal/documents/tos.html:146
 msgid ""
