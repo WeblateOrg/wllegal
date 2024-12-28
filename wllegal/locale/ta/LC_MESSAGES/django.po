@@ -5,40 +5,34 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2024-11-19 13:40+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Tamil <https://hosted.weblate.org/projects/weblate/legal/ta/"
-">\n"
+"PO-Revision-Date: 2024-12-29 11:01+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/weblate/legal/ta/>"
+"\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "கலைக்கு ஏற்ப துணை ஒப்பந்தக்காரர்கள். 28 சிடிபிஆர்"
 
 #: wllegal/templates/legal/documents/contracts.html:11
-#, fuzzy
-#| msgid "Status as of March 2023."
 msgid "Status as of May 2024."
-msgstr "பங்குனி 2023 நிலவரப்படி."
+msgstr "மே 2024 நிலவரப்படி நிலை."
 
 #: wllegal/templates/legal/documents/privacy.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
-"பணி ஆவணத்தின் விதிமுறைகள் ஆங்கிலத்தில் அதிகாரப்பூர்வமானது, உங்கள் வசதிக்காக "
+"தனியுரிமைக் கொள்கை ஆவணம் ஆங்கிலத்தில் சட்டப்பூர்வமாக பிணைக்கப்பட்டுள்ளது, உங்கள் வசதிக்காக "
 "மொழிபெயர்ப்புகள் வழங்கப்படுகின்றன."
 
 #: wllegal/templates/legal/documents/privacy.html:6
@@ -53,11 +47,14 @@ msgid ""
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
+"இந்த தனியுரிமைக் கொள்கை, இனிமேல் \"<strong> கொள்கை </strong>\" என்று "
+"குறிப்பிடப்படுகிறது, <a href=\"%(terms_url)s\"> பொது விதிமுறைகள் மற்றும் நிபந்தனைகள்"
+" </a> வெப்லேட்டுக்கு துணை, இங்கே \"&lt; வலுவான&gt; விதிமுறைகள்  \"."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:17
 msgid "Introductory Provisions"
-msgstr ""
+msgstr "அறிமுக ஏற்பாடுகள்"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
@@ -66,6 +63,7 @@ msgid ""
 "the Commercial Register kept by the Regional Court in Ústí nad Labem, file "
 "No. C 52324, i.e. the \"<strong>Provider</strong>\"."
 msgstr ""
+"இந்த கொள்கையை வலைபெயர்ப்பு எச்.ஆர்.ஓ. அதாவது \"<strong> வழங்குநர் </strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid ""
@@ -74,6 +72,10 @@ msgid ""
 "the Services, Products, Support Services, as well as when using the Website "
 "and other possible services and related activities."
 msgstr ""
+"பயனர்களின் தனிப்பட்ட தரவை தரவு பாடங்களாக வழங்குநர் எவ்வாறு கையாளுகிறார் என்பதை இந்த "
+"கொள்கை விவரிக்கிறது - சேவைகள், தயாரிப்புகள், உதவி சேவைகள் மற்றும் வலைத்தளம் மற்றும் பிற "
+"சாத்தியமான சேவைகள் மற்றும் தொடர்புடைய செயல்பாடுகளைப் பயன்படுத்தும் போது தனியார் நபர்கள் "
+"அணுகும்போது மற்றும் பின்னர் பயன்படுத்தும் போது."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid ""
@@ -81,6 +83,9 @@ msgid ""
 "in Article 1 of the Terms and which have the same meaning as set out in the "
 "Terms."
 msgstr ""
+"இந்தக் கொள்கை விதிமுறைகளின் 1 வது பிரிவில் வரையறுக்கப்பட்டுள்ள சில விதிமுறைகள் அல்லது "
+"வரையறைகளையும் பயன்படுத்துகிறது மற்றும் விதிமுறைகளில் குறிப்பிடப்பட்டுள்ள அதே பொருளைக் "
+"கொண்டுள்ளது."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
@@ -93,6 +98,13 @@ msgid ""
 "personal data and the protection of privacy in the electronic communications "
 "sector (abbreviated as the \"<strong>ePrivacy Directive</strong>\")."
 msgstr ""
+"தனிப்பட்ட தரவை செயலாக்குவதில், வழங்குநர் ஐரோப்பிய பாராளுமன்றம் மற்றும் கவுன்சிலின் "
+"ஒழுங்குமுறை (EU) 2016/679 உடன் இணங்குகிறார், இது சிடிபிஆர் என்றும் அழைக்கப்படும் பொது "
+"தரவு பாதுகாப்பு ஒழுங்குமுறை (நாங்கள் இனிமேல் சுருக்கத்தை பயன்படுத்துவோம் "
+"\"<strong> சிடிபிஆர்  \"), சட்டகை எண் 110/2019 கோல்., தனிப்பட்ட தரவை செயலாக்குவது, "
+"அத்துடன் ஐரோப்பிய நாடாளுமன்றத்தின் 2002/58/EC மற்றும் 12 சூலை 2002 கவுன்சிலின் தனிப்பட்ட "
+"தரவுகளை செயலாக்குவது மற்றும் எலக்ட்ரானிக் கம்யூனிகேசன்ச் துறையில் தனியுரிமையைப் "
+"பாதுகாத்தல் (\"<strong> ஈப்ரிவாசி டைரெக்டிவ் </strong>\" என சுருக்கமாக).</strong>"
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -102,6 +114,10 @@ msgid ""
 "registers for the Provider's newsletter and/or when the Provider and the "
 "User conclude the Contract, whichever is the earliest."
 msgstr ""
+"பயனர்களின் தனிப்பட்ட தரவின் உண்மையான செயலாக்கம் எப்போதுமே நோக்கங்களுக்காக மட்டுமே "
+"மேற்கொள்ளப்படுகிறது மற்றும் இந்தக் கொள்கையில் இன்னும் விரிவாக வரையறுக்கப்பட்ட நிபந்தனைகளின் "
+"கீழ் மற்றும் பயனர் வலைத்தளத்தைப் பார்வையிடும் தருணத்தில் தொடங்குகிறது, பயனர் வழங்குநரின் "
+"செய்திமடல் மற்றும்/அல்லது வழங்குநரும் பயனரும் ஒப்பந்தத்தை முடிக்கும்போது, எது ஆரம்பமானது."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid ""
@@ -110,6 +126,9 @@ msgid ""
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
 msgstr ""
+"இந்தக் கொள்கையின்படி தனிப்பட்ட தரவை செயலாக்க வழங்குநரால் அங்கீகரிக்கப்பட்டுள்ள இந்தக் கொள்கையின்"
+" 3 வது பிரிவின் அர்த்தத்திற்குள் நேரடியாக வழங்குநர் மற்றும்/அல்லது மூன்றாம் தரப்பினரால் "
+"செயலாக்கம் மேற்கொள்ளப்படுகிறது."
 
 #: wllegal/templates/legal/documents/privacy.html:45
 msgid ""
@@ -117,73 +136,82 @@ msgid ""
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
+"இந்தக் கொள்கையில் வெளிப்படையாகக் கூறப்படாவிட்டால், வழங்குநர் <strong> தரவுக் கட்டுப்பாட்டாளர்"
+" </strong> ஆக செயல்படுகிறார், மேலும் இயற்கையான நபர்களாக இருக்கும் பயனர்கள் இந்த "
+"பாத்திரங்கள் மொத்த உள்நாட்டு உற்பத்தியில் வரையறுக்கப்படுவதால் தரவு பாடங்களாக செயல்படுகின்றன."
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "நோக்கம், நோக்கங்கள் மற்றும் செயலாக்கத்தின் காலம்"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
 msgstr ""
+"வழங்குநர் பயனரின் தனிப்பட்ட தரவை பின்வரும் நோக்கங்களுக்காக செயலாக்குகிறார்:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "சிடிபிஆரின் பிரிவு 6 (1) (பி) இன் கீழ் ஒப்பந்தத்தை நிறைவேற்றுதல்,"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
 msgstr ""
+"மொத்த உள்நாட்டு உற்பத்தியின் பிரிவு 6 (1) (பி) இன் கீழ் ஒப்பந்தத்தை பேச்சுவார்த்தை நடத்துதல்,"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
 msgstr ""
+"சிடிபிஆரின் பிரிவு 6 (1) (சி) இன் கீழ் வழங்குநரின் சட்டபூர்வமான கடமைகளை நிறைவேற்றுதல்,"
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, "
 "and in selected cases also"
 msgstr ""
+"மொத்த உள்நாட்டு உற்பத்தியின் பிரிவு 6 (1) (எஃப்) இன் கீழ் வழங்குநரின் நியாயமான நலன்கள், "
+"மற்றும் தேர்ந்தெடுக்கப்பட்ட நிகழ்வுகளிலும்"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
-msgstr ""
+msgstr "சிடிபிஆரின் பிரிவு 6 (1) (அ) இன் கீழ் பயனரால் வழங்கப்பட்ட ஒப்புதல்."
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
 msgstr ""
+"வழங்குநரால் செயலாக்கப்பட்ட பயனரின் தனிப்பட்ட தரவின் நோக்கம் பின்வருவனவற்றை உள்ளடக்கியது:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr ""
+msgstr "முதல் மற்றும் கடைசி பெயர்,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr ""
+msgstr "பயனரின் முகவரி (டெலிவரி மற்றும் பில்லிங்),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr ""
+msgstr "நிறுவனத்தின் ஐடி மற்றும் வரி ஐடி,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, X, and others),"
 msgstr ""
+"புனைப்பெயர் (கள்) (லைபர்பே, அறிவிலிமையம், ஃச் மற்றும் பிற தானாக முன்வந்து இணைக்கப்பட்ட "
+"தளங்கள் உட்பட),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr ""
+msgstr "பயனரின் அவதார்,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail address"
 msgid "email address(es),"
-msgstr "பெயர் மற்றும் மின்னஞ்சல் முகவரி"
+msgstr "மின்னஞ்சல் முகவரி (எச்),"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -191,15 +219,19 @@ msgid ""
 "openSUSE, and Ubuntu in the event that accounts with these providers are "
 "linked to the User account,"
 msgstr ""
+"பிட்பக்கெட், பேச்புக், கூகிள், லிங்க்ட்இன், அறிவிலிமையம், அறிவிலிஆய்வு, ஓபன்ச்யூச் மற்றும் "
+"உபுண்டு ஆகியவற்றிற்கான அடையாளங்காட்டிகள் இந்த வழங்குநர்களுடனான கணக்குகள் பயனர் கணக்கில் "
+"இணைக்கப்பட்டுள்ளன,"
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
-msgstr ""
+msgstr "பயனர் பயன்படுத்தும் சேவையின் விவரக்குறிப்புகள் மற்றும் தயாரிப்பு,"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
 msgstr ""
+"பயனரின் குழு உறுப்பினர்களின் எண்ணிக்கை மற்றும் அவர்களின் பாத்திரங்கள் பற்றிய தகவல்கள்,"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
@@ -207,35 +239,43 @@ msgid ""
 "Profile), i.e., settings for languages, notifications, if they can identify "
 "the User directly or indirectly,"
 msgstr ""
+"பயனர் கணக்கின் மற்ற அனைத்து பயனர் அமைப்புகளும் (சுயவிவரம் என்று அழைக்கப்படுவது உட்பட), "
+"அதாவது, மொழிகளுக்கான அமைப்புகள், அறிவிப்புகள், பயனரை நேரடியாகவோ அல்லது மறைமுகமாகவோ "
+"அடையாளம் காண முடிந்தால்,"
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
-msgstr ""
+msgstr "வங்கி கணக்கு எண் மற்றும் பயனரின் பிற கட்டண விவரங்கள்,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "மறையீட்டு நாணயம் வாலட் முகவரி அல்லது முகவரிகள்,"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
 "other personal data contained in messages sent by the User to the Provider "
 "(especially the subject and other content of the message),"
 msgstr ""
+"வழங்குநருக்கு (குறிப்பாக செய்தியின் பொருள் மற்றும் பிற உள்ளடக்கம்) பயனர் அனுப்பிய "
+"செய்திகளில் உள்ள பிற தனிப்பட்ட தரவு,"
 
 #: wllegal/templates/legal/documents/privacy.html:120
 msgid ""
 "other personal data contained in communications with the Provider's support,"
-msgstr ""
+msgstr "வழங்குநரின் ஆதரவுடன் தகவல்தொடர்புகளில் உள்ள பிற தனிப்பட்ட தரவு,"
 
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
 msgstr ""
+"கணினி தரவு, பதிவுகள் மற்றும் பயனரின் ஐபி முகவரி உள்ளிட்ட அமர்வு பதிவுகள்,"
 
 #: wllegal/templates/legal/documents/privacy.html:128
 msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
+"மேலே பட்டியலிடப்பட்ட தனிப்பட்ட தரவுகளின் தனிப்பட்ட வகைகள் "
+"\"<strong> தனிப்பட்ட தரவு </strong>\" என்று கூட்டாக குறிப்பிடப்படும்."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -248,6 +288,13 @@ msgid ""
 "under the conditions and based on a separate data processing agreement (so-"
 "called processing agreement) concluded between the Provider and the User."
 msgstr ""
+"சில சந்தர்ப்பங்களில், வழங்குநர் <strong> தனிப்பட்ட தரவின் செயலியாக இருக்கலாம் </strong>, "
+"அதாவது மூன்றாம் தரப்பினரின் தனிப்பட்ட தரவு பயனரால் தங்கள் சொந்த நோக்கங்களுக்காக வழங்கப்படும் "
+"போது (எ.கா. உறுப்பினர்கள், மற்றொரு நபர் சார்பாக வழங்குநருக்கு ஒரு திட்டத்தை நன்கொடையாக "
+"வழங்குகிறார்கள்). பயனரால் அணுகக்கூடிய மூன்றாம் தரப்பினரின் தேர்ந்தெடுக்கப்பட்ட தனிப்பட்ட தரவை"
+" செயலாக்குவது இந்த விசயத்தில் பயனரின் திசையில், நிபந்தனைகளின் கீழ் மற்றும் வழங்குநருக்கும் "
+"பயனருக்கும் இடையில் முடிவடைந்த தனி தரவு செயலாக்க ஒப்பந்தத்தின் (செயலாக்க ஒப்பந்தம் என்று "
+"அழைக்கப்படுகிறது) அடிப்படையில் நிகழ்கிறது."
 
 #: wllegal/templates/legal/documents/privacy.html:136
 msgid ""
@@ -273,6 +320,26 @@ msgid ""
 "the User's instructions unless the Provider has another legal basis for "
 "processing personal data as a controller under Article 2.1 of this Policy."
 msgstr ""
+"ஒப்பந்தத்திலிருந்து எழும் அனைத்து கடமைகளும் நிறைவேறும் வரை வழங்குநர் தனிப்பட்ட தரவை "
+"செயலாக்குகிறார். வழங்குநர் மற்றும்/அல்லது கணக்கு ரத்துசெய்யும் கணக்கு மூடப்பட்ட தருணத்தில், "
+"சேவையில் உள்ளிடப்பட்ட அனைத்து தனிப்பட்ட தரவுகளும் பிற தரவுகளும் நீக்கப்படும், கீழே "
+"குறிப்பிடப்பட்ட தேர்ந்தெடுக்கப்பட்ட தனிப்பட்ட தரவுகளைத் தவிர; எனவே வழங்குநர் <strong> "
+"காப்புப் பிரதி எடுக்க பரிந்துரைக்கிறார் </strong> பயனர் கணக்கை ரத்து செய்வதற்கு முன்பு "
+"சேவையில் உள்ளிடப்பட்ட அனைத்து தரவுகளும் பயனர் கணக்கை ரத்து செய்வதற்கு முன், பயனர் கணக்கு "
+"மூடப்பட்ட பிறகு அவற்றின் இழப்புக்கு பொறுப்பல்ல, அது வழங்குநரால் சரியாக மூடப்பட்டாலும் கூ"
+"ட. விலைப்பட்டியலில் சுட்டிக்காட்டப்பட்ட தனிப்பட்ட தரவு, சட்டத்திலிருந்து எழும் சட்டரீதியான "
+"தக்கவைப்பு காலங்களுக்கு வழங்குநரால் தக்கவைக்கப்படுகிறது, அதாவது, 10 வருட காலத்திற்கு. "
+"வழங்குநரின் உரிமைகோரல்களைப் பாதுகாப்பதற்கும்/அல்லது மூன்றாம் தரப்பினரின் உரிமைகோரல்களுக்கு "
+"எதிராக பாதுகாப்பதற்கும் (பொது அதிகாரிகளால் தொடங்கப்பட்ட எந்தவொரு நடவடிக்கைகளும் உட்பட) "
+"பாதுகாப்பிற்காக தேவையான சந்தர்ப்பங்களில், வழங்குநர் வேறு சில தனிப்பட்ட தரவுகளையும் தக்க "
+"வைத்துக் கொள்ளலாம், ஆனால் எப்போதும் அதிகபட்ச காலத்திற்கு சமம் தனிப்பட்ட உரிமைகோரல்களுக்கான "
+"வரம்பு காலம் மற்றும்/அல்லது தேர்ந்தெடுக்கப்பட்ட நடவடிக்கைகளின் இறுதி முடிவு வரை. குறிப்பிட்"
+"ட காலத்தை துல்லியமாக வரையறுக்க முடியாது மற்றும் உரிமைகோரல் வகை, அவற்றின் வரம்பு காலங்கள்"
+" மற்றும் தேர்ந்தெடுக்கப்பட்ட நீதிமன்றங்கள் அல்லது பொது அதிகாரிகளின் வேகத்திற்கு ஏற்ப மாறுபடும்"
+". வழங்குநர் பயனரின் தரவின் செயலியாக மட்டுமே செயலாக்கும் தரவு பயனரின் அறிவுறுத்தல்களால் "
+"குறிப்பிடப்பட்ட காலத்திற்கு செயலாக்கப்படுகிறது, இந்தக் கொள்கையின் பிரிவு 2.1 இன் கீழ் ஒரு "
+"கட்டுப்பாட்டாளராக தனிப்பட்ட தரவை செயலாக்குவதற்கான மற்றொரு சட்டபூர்வமான அடிப்படை "
+"வழங்குநருக்கு இல்லாவிட்டால்."
 
 #: wllegal/templates/legal/documents/privacy.html:140
 #, python-format
@@ -292,6 +359,18 @@ msgid ""
 "consent granted otherwise, by sending a request to <a href=\"mailto:"
 "%(address)s\">%(address)s</a>."
 msgstr ""
+"பயனரின் தேர்ந்தெடுக்கப்பட்ட தனிப்பட்ட தரவையும், குறிப்பாக மின்னஞ்சல், முதல் பெயர், கடைசி "
+"பெயர் மற்றும் வேறு எந்த தனிப்பட்ட தரவையும் (இந்த நோக்கங்களுக்காக வழங்கப்பட்டால்) <strong> "
+"தன்னார்வ மற்றும் தகவலறிந்த </strong> பயனரின் சம்மதத்தையும் வழங்குநர் செயலாக்கலாம் . "
+"<strong> 2 ஆண்டுகள் </strong> மற்றும்/அல்லது ஒப்புதல் ரத்து செய்யப்படும் வரை செயலாக்கம் "
+"ஏற்படுகிறது. பணி அல்லது தயாரிப்பின் பயன்பாடு (ஆதரவு சேவைகள் உட்பட) <strong> நெவர் </"
+"strong> ஒப்புதல் வழங்குவதில் நிபந்தனை விதிக்கப்பட்டுள்ளது. எவ்வாறாயினும், இன்னும் பயனர்களா"
+"க இல்லாத தரவு பாடங்களுக்கு செய்திமடல்களை அனுப்புவதற்கு அல்லது வழங்குநரின் பிற சேவைகளுடன்"
+" இணைக்கப்படாத தேர்ந்தெடுக்கப்பட்ட போனச் அல்லது போனச் பொருட்களை வழங்குவதற்கும்/அல்லது பயனரின் "
+"தனிப்பட்ட தரவை வெளிப்படுத்துவதற்கும் ஒப்புதல் பொதுவாக தேவைப்படுகிறது வழங்குநருக்கு "
+"நன்கொடை வழங்கப்பட்டது. திரும்பப்பெறுதல் எந்த நேரத்திலும் பயனர் கணக்கு இடைமுகத்தில் நேரடியா"
+"க செய்யப்படலாம், இல்லையெனில் வழங்கப்பட்ட ஒப்புதல் விசயத்தில், <a href="
+"\"mailto:%(address)s\">%(address)s </a>."
 
 #: wllegal/templates/legal/documents/privacy.html:144
 msgid ""
@@ -300,12 +379,13 @@ msgid ""
 "selected Personal Data based on a different legal reason if this legal "
 "reason in favour of the Provider continues to exist."
 msgstr ""
+"தனிப்பட்ட தரவை செயலாக்குவதற்கான காரணம் கடந்துவிட்டால், வழங்குநர் தனிப்பட்ட தரவை அழிப்பார். "
+"வழங்குநருக்கு ஆதரவாக இந்த சட்ட காரணம் தொடர்ந்து இருந்தால், தேர்ந்தெடுக்கப்பட்ட தனிப்பட்ட "
+"தரவின் அடிப்படையில் தேர்ந்தெடுக்கப்பட்ட தனிப்பட்ட தரவை மேலும் செயலாக்குவதை இது விலக்காது."
 
 #: wllegal/templates/legal/documents/privacy.html:149
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Recipients and Processors of Personal Data"
-msgstr "தனிப்பட்ட தரவுகளுக்கான அணுகல்"
+msgstr "தனிப்பட்ட தரவின் பெறுநர்கள் மற்றும் செயலிகள்"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -314,37 +394,48 @@ msgid ""
 "proper processing of Personal Data for the purposes defined in Article 2.1 "
 "of this Policy, specifically:"
 msgstr ""
+"வழங்குநருக்கு கூடுதலாக, தேர்ந்தெடுக்கப்பட்ட மூன்றாம் தரப்பினரும் இந்தக் கொள்கையின் "
+"அடிப்படையில் தனிப்பட்ட தரவைப் பெற்று செயலாக்குகிறார்கள், இந்த கொள்கையின் 2.1 வது பிரிவில் "
+"வரையறுக்கப்பட்டுள்ள நோக்கங்களுக்காக தனிப்பட்ட தரவை முறையாக செயலாக்குவதற்கு அதன் ஈடுபாடு "
+"தேவை, குறிப்பாக:"
 
 #: wllegal/templates/legal/documents/privacy.html:158
 msgid ""
 "hosting provider (including web hosting and mail hosting services), "
 "currently this is <strong>Hetzner Online GmbH</strong>;"
 msgstr ""
+"ஓச்டிங் வழங்குநர் (வலை ஓச்டிங் மற்றும் மெயில் ஓச்டிங் சேவைகள் உட்பட), தற்போது இது <strong> "
+"எட்ச்னர் நிகழ்நிலை சி.எம்.பி.எச் </strong>;"
 
 #: wllegal/templates/legal/documents/privacy.html:161
 msgid ""
 "operators of the payment gateway <strong>ThePay.cz, s.r.o.</strong> and "
 "possibly operators of other services used in connection with the payment of "
 "any payments related to billing;"
-msgstr ""
+msgstr "கட்டண நுழைவாயில் <strong> thepay.cz, S.R.O.</strong>"
 
 #: wllegal/templates/legal/documents/privacy.html:164
 msgid ""
 "accounting, legal, and tax advisors of the Provider and possibly other "
 "persons bound by confidentiality under the law;"
 msgstr ""
+"வழங்குநரின் கணக்கியல், சட்ட மற்றும் வரி ஆலோசகர்கள் மற்றும் சட்டத்தின் கீழ் இரகசியத்தன்மையால் "
+"பிணைக்கப்பட்ட பிற நபர்கள்;"
 
 #: wllegal/templates/legal/documents/privacy.html:167
 msgid ""
 "C-level and other managerial employees employed by or otherwise "
 "collaborating with the Provider;"
 msgstr ""
+"சி-லெவல் மற்றும் பிற நிர்வாக ஊழியர்கள் வழங்குநருடன் ஒத்துழைக்கும் அல்லது ஒத்துழைக்கும்;"
 
 #: wllegal/templates/legal/documents/privacy.html:170
 msgid ""
 "selected contractors of the Provider who are involved in providing services "
 "to Users and who are also bound by confidentiality;"
 msgstr ""
+"பயனர்களுக்கு சேவைகளை வழங்குவதில் ஈடுபட்டுள்ள வழங்குநரின் தேர்ந்தெடுக்கப்பட்ட ஒப்பந்தக்காரர்கள் "
+"மற்றும் இரகசியத்தன்மைக்கு கட்டுப்பட்டவர்கள்;"
 
 #: wllegal/templates/legal/documents/privacy.html:173
 msgid ""
@@ -352,12 +443,16 @@ msgid ""
 "the Service, Products, Support Services, and/or to ensure any other "
 "activities related to the above;"
 msgstr ""
+"பணி, தயாரிப்புகள், உதவி சேவைகள் மற்றும்/அல்லது மேற்கூறியவற்றுடன் தொடர்புடைய வேறு ஏதேனும்"
+" நடவடிக்கைகளை உறுதி செய்வதற்கு அதன் ஈடுபாடு தேவையான வேறு எந்த நபர்களும்;"
 
 #: wllegal/templates/legal/documents/privacy.html:178
 msgid ""
 "the persons mentioned in this Article 3.1 are collectively referred to in "
 "this Policy as \"<strong>Processors</strong>\"."
 msgstr ""
+"இந்த கட்டுரை 3.1 இல் குறிப்பிடப்பட்டுள்ள நபர்கள் இந்த கொள்கையில் கூட்டாக "
+"\"<strong> செயலிகள் </strong>\" என்று குறிப்பிடப்படுகிறார்கள்."
 
 #: wllegal/templates/legal/documents/privacy.html:182
 msgid ""
@@ -367,16 +462,13 @@ msgid ""
 "personal data must meet high standards of protection and will always handle "
 "the data within the limits of the GDPR and this Policy."
 msgstr ""
+"தரவு செயலாக்கத்தின் மேற்கண்ட நோக்கங்களை நிறைவேற்ற இது தேவைப்பட்டால், வழங்குநர் தனிப்பட்ட "
+"தரவை மேற்கூறிய செயலிகளுக்கு மாற்றலாம் என்று பயனர் ஒப்புக்கொள்கிறார். தனிப்பட்ட தரவை "
+"செயலாக்க வழங்குநர் ஈடுபடும் செயலிகள் அதிக பாதுகாப்பின் தரத்தை நிறைவு செய்ய வேண்டும், "
+"மேலும் மொத்த உள்நாட்டு உற்பத்தியில் மற்றும் இந்தக் கொள்கையின் எல்லைக்குள் தரவை எப்போதும் "
+"கையாளும்."
 
 #: wllegal/templates/legal/documents/privacy.html:186
-#, fuzzy
-#| msgid ""
-#| "In case the Controller is required by law to disclose the Personal Data, "
-#| "an attempt will be made to provide the User with prior notice by e-mail "
-#| "(unless the Controller is prohibited, or it would be futile) that a "
-#| "request for the Personal Data has been made to allow the User to object "
-#| "to the disclosure. If the User does not challenge the disclosure request, "
-#| "the Controller may be legally required to turn over the Personal Data."
 msgid ""
 "The Personal Data might be disclosed to third parties in limited "
 "circumstances when the Controller has a good faith belief it is required by "
@@ -386,18 +478,21 @@ msgid ""
 "the Controller is prohibited, or it would be futile) that a request for the "
 "Personal Data has been made to allow the User to object to the disclosure."
 msgstr ""
-"தனிப்பட்ட தரவை வெளிப்படுத்த கட்டுப்பாட்டாளர் சட்டத்தால் தேவைப்பட்டால், பயனருக்கு மின்னஞ்சல் "
-"மூலம் முன் அறிவிப்பை வழங்குவதற்கான முயற்சி மேற்கொள்ளப்படும் (கட்டுப்படுத்தி "
-"தடைசெய்யப்படாவிட்டால், அல்லது அது பயனற்றதாக இருக்கும்) தனிப்பட்ட தரவுகளுக்கான கோரிக்கை "
-"பயனரை வெளிப்படுத்துவதை ஆட்சேபிக்க அனுமதிக்க செய்யப்பட்டுள்ளது. வெளிப்படுத்தல் கோரிக்கையை "
-"பயனர் அறைகூவல் செய்யாவிட்டால், தனிப்பட்ட தரவை மாற்ற கட்டுப்படுத்தி சட்டப்பூர்வமாக "
-"தேவைப்படலாம்."
+"கட்டுப்பாட்டாளருக்கு ஒரு நல்ல நம்பிக்கை நம்பிக்கை இருக்கும்போது, சட்டப்படி அல்லது பிற "
+"நீதித்துறை அல்லது நிர்வாக ஒழுங்கு போன்ற சட்டத்தால் தேவைப்படும் போது தனிப்பட்ட தரவு மூன்றாம் "
+"தரப்பினருக்கு மட்டுப்படுத்தப்பட்ட சூழ்நிலைகளில் வெளியிடப்படலாம். தனிப்பட்ட தரவை வெளிப்படுத்"
+"த கட்டுப்பாட்டாளர் சட்டத்தால் தேவைப்பட்டால், பயனருக்கு மின்னஞ்சல் மூலம் முன் அறிவிப்பை "
+"வழங்குவதற்கான முயற்சி மேற்கொள்ளப்படும் (கட்டுப்படுத்தி தடைசெய்யப்படாவிட்டால், அல்லது அது "
+"பயனற்றதாக இருக்கும்) தனிப்பட்ட தரவுகளுக்கான கோரிக்கை பயனரை வெளிப்படுத்துவதை ஆட்சேபிக்க "
+"அனுமதிக்க செய்யப்பட்டுள்ளது."
 
 #: wllegal/templates/legal/documents/privacy.html:190
 msgid ""
 "The processing of Personal Data by selected Processors may be governed by "
 "their own service provision conditions."
 msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட செயலிகளால் தனிப்பட்ட தரவை செயலாக்குவது அவர்களின் சொந்த பணி வழங்கல் "
+"நிபந்தனைகளால் நிர்வகிக்கப்படலாம்."
 
 #: wllegal/templates/legal/documents/privacy.html:194
 msgid ""
@@ -406,10 +501,13 @@ msgid ""
 "where the transfer must occur in compliance with the obligations of the "
 "Provider arising from generally binding regulations."
 msgstr ""
+"ஒரு பொது அதிகாரத்தின் முடிவின் விளைவாக, அல்லது பொதுவாக பிணைப்பு விதிமுறைகளிலிருந்து"
+" எழும் வழங்குநரின் கடமைகளுக்கு இணங்க பரிமாற்றம் ஏற்பட வேண்டிய பிற சந்தர்ப்பங்களில், சட்டப்படி"
+", சட்டப்படி அவ்வாறு செய்ய வேண்டிய கட்டாயத்தில் இருந்தால் தனிப்பட்ட தரவுகளும் மாற்றப்படலாம் ."
 
 #: wllegal/templates/legal/documents/privacy.html:199
 msgid "Common Provisions on Processing"
-msgstr ""
+msgstr "செயலாக்கத்தில் பொதுவான விதிகள்"
 
 #: wllegal/templates/legal/documents/privacy.html:203
 msgid ""
@@ -419,6 +517,10 @@ msgid ""
 "processing of personal data by any third party, even if those third parties "
 "are Processors."
 msgstr ""
+"மற்ற நபர்களால் தனிப்பட்ட தரவை அங்கீகரிக்கப்படாத செயலாக்கத்தைத் தடுக்க வழங்குநர் எப்போதும் எல்லா"
+" முயற்சிகளையும் செய்வார்; எவ்வாறாயினும், அந்த மூன்றாம் தரப்பினர் செயலிகளாக இருந்தாலும் கூ"
+"ட, எந்தவொரு மூன்றாம் தரப்பினராலும் தனிப்பட்ட தரவை அங்கீகரிக்கப்படாத செயலாக்கத்தால் ஏற்படும் "
+"எந்தவொரு சேதத்திற்கும் பயனர் அல்லது பிற தரவு பாடங்களுக்கு இது பொறுப்பல்ல."
 
 #: wllegal/templates/legal/documents/privacy.html:207
 msgid ""
@@ -428,6 +530,11 @@ msgid ""
 "480/2004 Coll. on Certain Information Society Services, if they directly "
 "relate to these Services, Products, and/or Support Services."
 msgstr ""
+"பணி, தயாரிப்பு மற்றும்/அல்லது உதவி சேவைகளை வழங்குவது தொடர்பாக பயனர்களுக்கு அனுப்பப்படும்"
+" மின்னஞ்சல்கள் சட்டகை எண் 40/1995 COLL இன் கீழ் கோரப்படாத வணிக தகவல்தொடர்புகளாக "
+"கருதப்படுவதில்லை. விளம்பரம் மற்றும் சட்டகை எண் 480/2004 கோல். சில செய்தி சங்க சேவைகளில், "
+"அவை இந்த சேவைகள், தயாரிப்புகள் மற்றும்/அல்லது உதவி சேவைகளுடன் நேரடியாக "
+"தொடர்புபடுத்தினால்."
 
 #: wllegal/templates/legal/documents/privacy.html:211
 msgid ""
@@ -439,6 +546,12 @@ msgid ""
 "revoked at any time by clicking on the link found in the footer of such "
 "commercial communication."
 msgstr ""
+"எவ்வாறாயினும், பயனர் வெளிப்படையாகவும் <strong> தானாக முன்வந்து ஒப்புதல் </strong> "
+"ஆகவும், சட்டகை எண் 480/2004 COLL இன் பிரிவு 7 (2) இன் அர்த்தத்திற்குள் இருக்கலாம். சில "
+"செய்தி சங்க சேவைகள் மற்றும் சில செயல்களைத் திருத்துதல், பயனரின் மின்னணு முகவரியில் "
+"வழங்குநரிடமிருந்து பரந்த வணிக தகவல்தொடர்புகளைப் பெற (எ.கா., மறைமுக சந்தைப்படுத்தல் "
+"விசயத்தில்) பெற. அத்தகைய வணிக தகவல்தொடர்பு அடிக்குறிப்பில் காணப்படும் இணைப்பைக் சொடுக்கு "
+"செய்வதன் மூலம் இந்த ஒப்புதல் எந்த நேரத்திலும் ரத்து செய்யப்படலாம்."
 
 #: wllegal/templates/legal/documents/privacy.html:215
 msgid ""
@@ -446,6 +559,8 @@ msgid ""
 "related to Personal Data that affects the User, they will notify the User of "
 "this fact without undue delay."
 msgstr ""
+"வழங்குநர் மற்றும்/அல்லது செயலிகள் பயனரை பாதிக்கும் தனிப்பட்ட தரவு தொடர்பான பாதுகாப்பு "
+"அபாயத்தை அறிந்தால், அவர்கள் தேவையற்ற தாமதமின்றி இந்த உண்மையை பயனருக்கு அறிவிப்பார்கள்."
 
 #: wllegal/templates/legal/documents/privacy.html:219
 msgid ""
@@ -454,6 +569,9 @@ msgid ""
 "other incident leading to loss. However, the Provider is not responsible for "
 "the improper actions of the Processors."
 msgstr ""
+"தரவு மீறல் அல்லது இழப்புக்கு வழிவகுக்கும் பிற நிகழ்வு ஏற்பட்டால், பொறுப்பான "
+"செயலிகளிடமிருந்து இழப்பீடு கோருவதற்கு வழங்குநர் பயனருக்கு உதவி மற்றும் சட்ட உதவியை "
+"வழங்குவார். இருப்பினும், செயலிகளின் முறையற்ற செயல்களுக்கு வழங்குநர் பொறுப்பல்ல."
 
 #: wllegal/templates/legal/documents/privacy.html:223
 msgid ""
@@ -465,6 +583,14 @@ msgid ""
 "the User in the case where they provide the Provider with Personal Data of "
 "data subjects other than this User."
 msgstr ""
+"The பயனர் hereby confirms that the provided Personal தகவல்கள் is true, "
+"accurate, and relates solely பெறுநர் the User, or that they have provided "
+"தகவல்கள் the use of which does not violate the rights of third parties. The "
+"பயனர் is obliged பெறுநர் எப்போதும் inform the வழங்குநர் of any changes பெறுநர் "
+"their Personal தகவல்கள் so that only மின்னோட்ட்ம், ஓட்டம் and complete தகவல்கள் is "
+"processed. The same obligations இடு பெறுநர் the பயனர் in the case where they "
+"provide the வழங்குநர் with Personal தகவல்கள் of தகவல்கள் subjects மற்றொன்று than "
+"this User."
 
 #: wllegal/templates/legal/documents/privacy.html:227
 msgid ""
@@ -473,6 +599,10 @@ msgid ""
 "never be subject to individual automated decision-making (including "
 "profiling) within the meaning of Article 22 of the GDPR."
 msgstr ""
+"தானியங்கு செயலாக்க முறைகளின் பயன்பாடு உட்பட தனிப்பட்ட தரவு மின்னணு முறையில் "
+"செயலாக்கப்படும். இருப்பினும், சிடிபிஆரின் 22 வது பிரிவின் அர்த்தத்திற்குள் பயனர் அல்லது பி"
+"ற தரவு பாடங்கள் ஒருபோதும் தனிப்பட்ட தானியங்கி முடிவெடுப்பதற்கு (விவரக்குறிப்பு உட்பட) "
+"உட்படுத்தப்படாது."
 
 #: wllegal/templates/legal/documents/privacy.html:231
 msgid ""
@@ -480,12 +610,13 @@ msgid ""
 "the GDPR) may be processed even after all legal grounds for processing the "
 "User's Personal Data have ceased."
 msgstr ""
+"பயனரின் தனிப்பட்ட தரவை செயலாக்குவதற்கான அனைத்து சட்ட காரணிகளும் நிறுத்தப்பட்ட பிறகும் "
+"அநாமதேய தனிப்பட்ட தரவு (சிடிபிஆரின் கீழ் தனிப்பட்ட தரவுகளாக கருதப்படவில்லை) "
+"செயலாக்கப்படலாம்."
 
 #: wllegal/templates/legal/documents/privacy.html:236
-#, fuzzy
-#| msgid "Order us to delete your Personal Data"
 msgid "User Rights in Relation to Personal Data"
-msgstr "உங்கள் தனிப்பட்ட தரவை நீக்க எங்களுக்கு உத்தரவிடவும்"
+msgstr "தனிப்பட்ட தரவு தொடர்பாக பயனர் உரிமைகள்"
 
 #: wllegal/templates/legal/documents/privacy.html:240
 #, python-format
@@ -497,6 +628,11 @@ msgid ""
 "correction, restriction, or deletion) can be automated through this user "
 "account."
 msgstr ""
+"பயனர் எந்த நேரத்திலும் சிடிபிஆரிலிருந்து எழும் தங்கள் உரிமைகளை <a href="
+"\"mailto:%(address)s\">%(address)s </a>, அதே போல் அவர்களின் பயனர் கணக்கு மூலமாகவும்"
+" அனுப்பலாம். கீழே பட்டியலிடப்பட்டுள்ள பெரும்பாலான உரிமைகளை செயல்படுத்துவதால் (குறிப்பாக "
+"அனைத்து செயலாக்கப்பட்ட தனிப்பட்ட தரவுகளுக்கும் அணுகல், அவற்றின் திருத்தம், கட்டுப்பாடு அல்லது"
+" நீக்குதல்) இந்த பயனர் கணக்கு மூலம் தானியங்கி செய்யப்படலாம்."
 
 #: wllegal/templates/legal/documents/privacy.html:244
 msgid ""
@@ -505,30 +641,42 @@ msgid ""
 "strong>, unless due to the complexity of the matter it is necessary for the "
 "Provider to extend this period. The User's rights include:"
 msgstr ""
+"பயனரின் தனிப்பட்ட தரவு தொடர்பான கோரிக்கைகளை விரைவில் நிவர்த்தி செய்ய வழங்குநர் எல்லா "
+"முயற்சிகளையும் செய்வார், ஆனால் <strong> 30 நாட்கள் </strong> க்குள் இல்லை, இந்த விசயத்தின்"
+" சிக்கலான தன்மை காரணமாக வழங்குநர் நீட்டிக்க வேண்டியது தேவை இந்த காலம். பயனரின் உரிமைகள் "
+"பின்வருமாறு:"
 
 #: wllegal/templates/legal/documents/privacy.html:249
 msgid ""
 "an explanation of whether and what personal data is being processed and, if "
 "applicable, requesting the Provider to disclose it;"
 msgstr ""
+"தனிப்பட்ட தரவு செயலாக்கப்படுகிறது, பொருந்தினால், அதை வெளிப்படுத்த வழங்குநரைக் கோருகிறது"
+" என்பதற்கான விளக்கம்;"
 
 #: wllegal/templates/legal/documents/privacy.html:252
 msgid ""
 "correction of personal data if there is concern that some of it is "
 "inaccurate or missing;"
 msgstr ""
+"தனிப்பட்ட தரவுகளைத் திருத்தம் செய்வது அதில் சில தவறானவை அல்லது காணவில்லை என்ற கவலை "
+"இருந்தால்;"
 
 #: wllegal/templates/legal/documents/privacy.html:255
 msgid ""
 "restriction of processing if there is concern that the Provider is "
 "processing more data than necessary;"
 msgstr ""
+"செயலாக்கத்தின் கட்டுப்பாடு வழங்குநர் தேவையானதை விட அதிக தரவை செயலாக்குகிறார் என்ற கவலை "
+"இருந்தால்;"
 
 #: wllegal/templates/legal/documents/privacy.html:258
 msgid ""
 "deletion of personal data based on the consent of the Provider, provided "
 "that there is no other legal reason for further processing of personal data;"
 msgstr ""
+"தனிப்பட்ட தரவை மேலும் செயலாக்குவதற்கு வேறு சட்ட காரணங்கள் இல்லை என்று வழங்குநரின் "
+"ஒப்புதலின் அடிப்படையில் தனிப்பட்ட தரவை நீக்குதல்;"
 
 #: wllegal/templates/legal/documents/privacy.html:261
 msgid ""
@@ -536,12 +684,17 @@ msgid ""
 "on the consent of the Provider or in connection with fulfilling the "
 "Provider's contractual obligations, in a machine-readable format;"
 msgstr ""
+"வழங்குநரின் ஒப்புதலின் அடிப்படையில் அல்லது வழங்குநரின் ஒப்பந்தக் கடமைகளை நிறைவேற்றுவது "
+"தொடர்பாக, இயந்திரம் படிக்கக்கூடிய வடிவத்தில், தானியங்கு வழிமுறைகளால் செயலாக்கப்பட்ட "
+"தனிப்பட்ட தரவின் நகலை வழங்குதல்;"
 
 #: wllegal/templates/legal/documents/privacy.html:264
 msgid ""
 "temporary freezing of data processing operations for the purposes of the "
 "legitimate interest of the Provider;"
 msgstr ""
+"வழங்குநரின் நியாயமான ஆர்வத்தின் நோக்கங்களுக்காக தரவு செயலாக்க நடவடிக்கைகளின் தற்காலிக "
+"முடக்கம்;"
 
 #: wllegal/templates/legal/documents/privacy.html:267
 #, python-format
@@ -551,11 +704,15 @@ msgid ""
 "authority if the User believes that the Provider is processing personal data "
 "in violation of this Policy or legal regulations."
 msgstr ""
+"தனிப்பட்ட தரவு பாதுகாப்பிற்காக (<a href=\"%(url)s\">%(url)s </a>) அல்லது மற்றொரு "
+"தொடர்புடைய தேசிய தரவு பாதுகாப்பு ஆணையம் வழங்குநர் செயலாக்குவதாக பயனர் நம்பினால், ஒரு "
+"புகாரை நேரடியாக அலுவலகத்துடன் தாக்கல் செய்தல் இந்த கொள்கை அல்லது சட்ட விதிமுறைகளை மீறும் "
+"தனிப்பட்ட தரவு."
 
 #: wllegal/templates/legal/documents/privacy.html:272
 #: wllegal/templates/legal/documents/tos.html:621
 msgid "Final Provisions"
-msgstr ""
+msgstr "இறுதி விதிகள்"
 
 #: wllegal/templates/legal/documents/privacy.html:276
 msgid ""
@@ -566,6 +723,11 @@ msgid ""
 "Policy displayed within the Service, or upon the next first login to their "
 "User Account."
 msgstr ""
+"கொள்கையை ஒருதலைப்பட்சமாக மாற்ற வழங்குநருக்கு உரிமை உண்டு. கொள்கையின் புதிய சொற்கள் "
+"இணையதளத்தில் வெளியிடப்பட்டவுடன் பயனுள்ளதாக இருக்கும். மாற்றத்தின் போது இந்தக் கொள்கையால் "
+"நிர்வகிக்கப்படும் வழங்குநருடன் ஒப்பந்த உறவைக் கொண்ட பயனர், சேவையில் காட்டப்படும் கொள்கையின் "
+"மாற்றம் குறித்த அறிவிப்பைப் பெறுவார், அல்லது அடுத்த முதல் முதல் உள்நுழைவு அவர்களின் பயனர் "
+"கணக்கில்."
 
 #: wllegal/templates/legal/documents/privacy.html:280
 msgid ""
@@ -575,6 +737,10 @@ msgid ""
 "Policy will be resolved before the competent civil court in the Czech "
 "Republic."
 msgstr ""
+"இந்தக் கொள்கையிலிருந்து எழும் வழங்குநருக்கும் பயனருக்கும் இடையிலான அனைத்து சட்ட உறவுகளும் "
+"செக் குடியரசின் செல்லுபடியாகும் சட்டங்களால் நிர்வகிக்கப்படுகின்றன. இந்தக் கொள்கையோ அல்லது "
+"அதனுடன் அல்லது தொடர்புடைய வழங்குநருக்கும் பயனருக்கும் இடையில் எழும் எந்தவொரு சர்ச்சையும் "
+"செக் குடியரசில் திறமையான குடிமை நீதிமன்றத்தின் முன் தீர்க்கப்படும்."
 
 #: wllegal/templates/legal/documents/privacy.html:284
 msgid ""
@@ -587,6 +753,12 @@ msgid ""
 "Council (EC) No. 593/2008 of June 17, 2008, on the law applicable to "
 "contractual obligations (Rome I)."
 msgstr ""
+"ஒப்பந்தத்தால் நிறுவப்பட்ட உறவில் ஒரு பன்னாட்டு (வெளிநாட்டு) உறுப்பு இருந்தால், முந்தைய "
+"வாக்கியத்தின்படி சட்டத்தின் தேர்வு பயனரை இழக்காது - சட்ட ஒழுங்கின் விதிகளால் வழங்கப்படும் "
+"பாதுகாப்பை நுகர்வோர் ஒப்பந்தப்படி விலகிச் செல்ல முடியாது, அது இல்லையெனில், ஐரோப்பிய "
+"பாராளுமன்றம் மற்றும் கவுன்சில் (EC) எண் 17, 2008 ஆம் ஆண்டின் 593/2008 ஆகியவற்றின் "
+"ஒழுங்குமுறையின் 6 (1) இன் விதிமுறைகளுக்கு ஏற்ப சட்டத்தின் தேர்வு இல்லாத நிலையில், "
+"ஒப்பந்தத்திற்கு பொருந்தக்கூடிய சட்டத்தின் மீது விண்ணப்பிக்கவும் கடமைகள் (ரோம் I)."
 
 #: wllegal/templates/legal/documents/privacy.html:288
 msgid ""
@@ -596,14 +768,18 @@ msgid ""
 "provision does not affect the validity of the other provisions of this "
 "Policy."
 msgstr ""
+"கொள்கையின் எந்தவொரு விதிமுறையும் தவறானது அல்லது பயனற்றது என்றால், அல்லது அவ்வாறு செய்தால்"
+", தவறான விதியை மிக நெருக்கமாக தோராயமாக மதிப்பிடுவது தவறான விதிகளை மாற்றும். ஒரு "
+"விதிமுறையின் செல்லாத தன்மை அல்லது பயனற்ற தன்மை இந்த கொள்கையின் மற்ற விதிகளின் செல்லுபடியை"
+" பாதிக்காது."
 
 #: wllegal/templates/legal/documents/privacy.html:292
 msgid "This Policy become effective upon their publication on the Website."
-msgstr ""
+msgstr "இணையதளத்தில் அவர்கள் வெளியிட்டவுடன் இந்த கொள்கை பயனுள்ளதாக இருக்கும்."
 
 #: wllegal/templates/legal/documents/privacy.html:296
 msgid "In Prague on November 1, 2024."
-msgstr ""
+msgstr "நவம்பர் 1, 2024 அன்று ப்ராக்."
 
 #: wllegal/templates/legal/documents/summary.html:5
 msgid ""
@@ -646,28 +822,20 @@ msgid "We don’t use any third-party cookies."
 msgstr "நாங்கள் எந்த மூன்றாம் தரப்பு குக்கீகளையும் பயன்படுத்த மாட்டோம்."
 
 #: wllegal/templates/legal/documents/tos.html:6
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
-"பணி ஆவணத்தின் விதிமுறைகள் ஆங்கிலத்தில் அதிகாரப்பூர்வமானது, உங்கள் வசதிக்காக "
-"மொழிபெயர்ப்புகள் வழங்கப்படுகின்றன."
+"பொதுவான விதிமுறைகள் மற்றும் நிபந்தனைகள் ஆவணம் ஆங்கிலத்தில் சட்டப்பூர்வமாக பிணைக்கப்பட்டுள்ளது"
+", உங்கள் வசதிக்காக மொழிபெயர்ப்புகள் வழங்கப்படுகின்றன."
 
 #: wllegal/templates/legal/documents/tos.html:12
-#, fuzzy
-#| msgid ""
-#| "The rights and obligations of the User and the Provider resulting from "
-#| "the use of the Service are governed by these Terms of Service."
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
 msgstr ""
-"சேவையின் பயன்பாட்டின் விளைவாக பயனரின் உரிமைகள் மற்றும் கடமைகள் மற்றும் வழங்குநர் இந்த பணி "
-"விதிமுறைகளால் நிர்வகிக்கப்படுகிறார்கள்."
+"சேவையின் பயன்பாட்டின் விளைவாக பயனரின் உரிமைகள் மற்றும் கடமைகள் மற்றும் வழங்குநர் இந்த "
+"பொதுவான விதிமுறைகள் மற்றும் நிபந்தனைகளால் நிர்வகிக்கப்படுகிறார்கள்."
 
 #: wllegal/templates/legal/documents/tos.html:21
 msgid ""
@@ -678,30 +846,36 @@ msgid ""
 "Services and Products. These general terms and conditions govern the "
 "contractual relationship between the service provider and the User."
 msgstr ""
+"இந்த பொதுவான விதிமுறைகள் மற்றும் நிபந்தனைகள் பயனருக்கும் வழங்குநருக்கும் இடையில் முடிவடைந்"
+"த பணி ஒப்பந்தத்தின் ஒருங்கிணைந்த பகுதியாகும் (இனிமேல் \"<strong> ஒப்பந்தம் </strong>\" "
+"என்று குறிப்பிடப்படுகிறது) மற்றும் சேவைகளை வழங்குவதற்கான பிணைப்பு விதிகள் மற்றும் "
+"நிபந்தனைகளை வரையறுக்கவும் தயாரிப்புகள் மற்றும் சேவைகள் மற்றும் தயாரிப்புகளின் பயன்பாடு. இந்"
+"த பொதுவான விதிமுறைகள் மற்றும் நிபந்தனைகள் பணி வழங்குநருக்கும் பயனருக்கும் இடையிலான ஒப்பந்"
+"த உறவை நிர்வகிக்கின்றன."
 
 #: wllegal/templates/legal/documents/tos.html:25
 msgid ""
 "The definitions below have the following meanings for the purposes of these "
 "general terms and conditions:"
 msgstr ""
+"கீழேயுள்ள வரையறைகள் இந்த பொதுவான விதிமுறைகள் மற்றும் நிபந்தனைகளின் நோக்கங்களுக்காக "
+"பின்வரும் அர்த்தங்களைக் கொண்டுள்ளன:"
 
 #: wllegal/templates/legal/documents/tos.html:31
 msgid "Civil Code"
 msgstr "குடிமை குறியீடு"
 
 #: wllegal/templates/legal/documents/tos.html:34
-#, fuzzy
-#| msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
-msgstr "சட்டம் எண் %(law_89_2012)s கோல்., குடிமை குறியீடு, திருத்தப்பட்டபடி"
+msgstr "சட்டம் எண் 89/2012 கோல்., குடிமை கோட், திருத்தப்பட்டபடி;"
 
 #: wllegal/templates/legal/documents/tos.html:38
 msgid "Contracting Parties"
-msgstr ""
+msgstr "ஒப்பந்தக் கட்சிகள்"
 
 #: wllegal/templates/legal/documents/tos.html:41
 msgid "jointly refers to the User and the Provider;"
-msgstr ""
+msgstr "கூட்டாக பயனர் மற்றும் வழங்குநரைக் குறிக்கிறது;"
 
 #: wllegal/templates/legal/documents/tos.html:45
 msgid "Cookies"
@@ -715,51 +889,58 @@ msgid ""
 "Coll., on Certain Information Society Services and Amending Certain Acts, as "
 "amended;"
 msgstr ""
+"சேவையின் வலை சேவையகத்திலிருந்து பயனரின் கணினி அல்லது பிற இணையத்துடன் இணைக்கப்பட்ட பிற "
+"சாதனத்திற்கு அனுப்பப்படும் எந்தவொரு தரவையும் குறிக்கிறது, இது சட்டகை எண் 480/2004 COLL "
+"இன் பிரிவு 89 இன் படி பயனரின் வலை உலாவியை தனித்துவமாக அடையாளம் காண அனுமதிக்கிறது, "
+"சில செய்தி சங்க சேவைகளில் திருத்தப்பட்டபடி சில செயல்களைத் திருத்துதல்;"
 
 #: wllegal/templates/legal/documents/tos.html:52
 msgid "Dedicated Weblate"
-msgstr ""
+msgstr "அர்ப்பணிக்கப்பட்ட வலைபெயர்ப்பு"
 
 #: wllegal/templates/legal/documents/tos.html:55
 msgid ""
 "means a form of collaboration where the User is the sole user of the Service "
 "in a cloud hosted and provided by the Provider;"
 msgstr ""
+"வழங்குநரால் வழங்கப்பட்ட மற்றும் வழங்கப்பட்ட கிளவுட்டில் பயனர் சேவையின் ஒரே பயனராக இருக்கும் "
+"ஒத்துழைப்பின் ஒரு வடிவம்;"
 
 #: wllegal/templates/legal/documents/tos.html:59
 msgid "GDPR"
 msgstr "சிடிபிஆர்"
 
 #: wllegal/templates/legal/documents/tos.html:62
-#, fuzzy
-#| msgid ""
-#| "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
-#| "Regulation"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
 msgstr ""
-"ஐரோப்பிய ஒன்றிய ஒழுங்குமுறை எண் %(law_679_2016)s, பொது தரவு பாதுகாப்பு ஒழுங்குமுறை"
+"ஐரோப்பிய ஒன்றிய ஒழுங்குமுறை எண் 679/2016, தனிப்பட்ட தரவு பாதுகாப்பு குறித்த பொது "
+"ஒழுங்குமுறை;"
 
 #: wllegal/templates/legal/documents/tos.html:66
 msgid "GTC"
-msgstr ""
+msgstr "சி.டி.சி"
 
 #: wllegal/templates/legal/documents/tos.html:69
 msgid ""
 "means these general terms and conditions, which form an integral part of the "
 "Agreement;"
 msgstr ""
+"இந்த பொதுவான விதிமுறைகள் மற்றும் நிபந்தனைகள், ஒப்பந்தத்தின் ஒருங்கிணைந்த பகுதியாக "
+"உருவாகின்றன;"
 
 #: wllegal/templates/legal/documents/tos.html:73
 msgid "Hosted String"
-msgstr ""
+msgstr "புரவலன் செய்யப்பட்ட சரம்"
 
 #: wllegal/templates/legal/documents/tos.html:76
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
 msgstr ""
+"மொழிபெயர்ப்பு வடிவத்தில் வரையறுக்கப்பட்ட உரை அலகு என்று பொருள். இது ஒரு சொல், வாக்கியம் "
+"அல்லது பத்தி இருக்கலாம்;"
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid "Hosted Weblate"
@@ -771,61 +952,59 @@ msgid ""
 "provides Services to Users on a non-dedicated (i.e., shared by multiple "
 "Users) cloud operated by the Provider;"
 msgstr ""
+"முற்றிலும் மேகக்கணி சார்ந்த ஒத்துழைப்பின் ஒரு வடிவம், வழங்குநரால் இயக்கப்படும் மேகக்கணி அல்லா"
+"த (அதாவது, பல பயனர்களால் பகிரப்பட்ட) பயனர்களுக்கு வழங்குநர் சேவைகளை வழங்குகிறார்;"
 
 #: wllegal/templates/legal/documents/tos.html:87
 msgid "License"
 msgstr "உரிமம்"
 
 #: wllegal/templates/legal/documents/tos.html:90
-#, fuzzy
-#| msgid ""
-#| "means non-exclusive license granted by the Provider to the User for use "
-#| "of the Service"
 msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
-msgstr "சேவையைப் பயன்படுத்த பயனருக்கு வழங்குநரால் வழங்கப்பட்ட பிரத்தியேகமற்ற உரிமம்"
+msgstr ""
+"சேவையைப் பயன்படுத்துவதற்காக பயனருக்கு வழங்குநரால் வழங்கப்பட்ட பிரத்தியேகமற்ற உரிமம்;"
 
 #: wllegal/templates/legal/documents/tos.html:94
 msgid "Personal Data"
 msgstr "தனிப்பட்ட செய்தி"
 
 #: wllegal/templates/legal/documents/tos.html:97
-#, fuzzy
-#| msgid ""
-#| "means personal data within the meaning of EU Regulation No. "
-#| "%(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"ஐரோப்பிய ஒன்றிய ஒழுங்குமுறை எண் %(law_679_2016)s இன் பொருளுக்குள் தனிப்பட்ட தரவு "
-"என்பது பயனரால் பணி மற்றும்/அல்லது குக்கீகளில் செருகப்படுகிறது"
+"ஐரோப்பிய ஒன்றிய ஒழுங்குமுறை 679/2016 இல் வரையறுக்கப்பட்டுள்ள தனிப்பட்ட தரவு, பயனரால் பணி"
+" மற்றும்/அல்லது குக்கீகளில் உள்ளிடப்பட்டது;"
 
 #: wllegal/templates/legal/documents/tos.html:101
 #: wllegal/templates/legal/documents/tos.html:236
 msgid "Price"
-msgstr ""
+msgstr "விலை"
 
 #: wllegal/templates/legal/documents/tos.html:104
 msgid ""
 "the value expressed in money for the provided License in accordance with the "
 "Price List;"
 msgstr ""
+"வழங்கப்பட்ட உரிமத்திற்காக பணத்தில் வெளிப்படுத்தப்பட்ட மதிப்பு விலை பட்டியலுக்கு ஏற்ப;"
 
 #: wllegal/templates/legal/documents/tos.html:108
 msgid "Price List"
-msgstr ""
+msgstr "விலை பட்டியல்"
 
 #: wllegal/templates/legal/documents/tos.html:111
 msgid ""
 "means the document or web page that specifies the Price of the Service and/"
 "or Product unless otherwise stated in the Agreement;"
 msgstr ""
+"ஒப்பந்தத்தில் குறிப்பிடப்படாவிட்டால் பணி மற்றும்/அல்லது தயாரிப்பின் விலையைக் குறிப்பிடும் "
+"ஆவணம் அல்லது வலைப்பக்கம்;"
 
 #: wllegal/templates/legal/documents/tos.html:115
 msgid "Product"
-msgstr ""
+msgstr "தயாரிப்பு"
 
 #: wllegal/templates/legal/documents/tos.html:118
 msgid ""
@@ -833,6 +1012,9 @@ msgid ""
 "Provider based on its brand usage policy. The User purchases the Product AS "
 "IS. Support and other services are provided separately;"
 msgstr ""
+"எந்தவொரு சேவையும் அல்லது அதன் பகுதியும் அதன் சூட்டுக்குறி பயன்பாட்டுக் கொள்கையின் "
+"அடிப்படையில் வழங்குநரின் ஒரு குறிப்பிட்ட பிராண்டின் கீழ் வழங்கப்பட்டது. பயனர் தயாரிப்பை "
+"வாங்குகிறார். உதவி மற்றும் பிற சேவைகள் தனித்தனியாக வழங்கப்படுகின்றன;"
 
 #: wllegal/templates/legal/documents/tos.html:122
 msgid "Provider"
@@ -845,34 +1027,34 @@ msgid ""
 "the Commercial Register maintained by the Regional Court in Ústí nad Labem, "
 "file no. C 52324, with which the Agreement was concluded;"
 msgstr ""
+"<strong> வலைபெயர்ப்பு எச்.ஆர்.ஓ. . சி 52324, அதனுடன் ஒப்பந்தம் முடிவுக்கு "
+"வந்தது;</strong>"
 
 #: wllegal/templates/legal/documents/tos.html:129
 msgid "Service"
 msgstr "பணி"
 
 #: wllegal/templates/legal/documents/tos.html:132
-#, fuzzy
-#| msgid ""
-#| "means the website and services based on Weblate operated by the Provider"
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
-msgstr "வழங்குநரால் இயக்கப்படும் வலைபெயர்ப்பு அடிப்படையில் வலைத்தளம் மற்றும் சேவைகள்"
+msgstr ""
+"வழங்குநரால் வழங்கப்பட்ட வெப்லேட்டின் அடிப்படையில் வலைத்தளங்கள் மற்றும் சேவைகள்;"
 
 #: wllegal/templates/legal/documents/tos.html:136
 msgid "Self-hosting"
-msgstr ""
+msgstr "தன்வய ஓச்டிங்"
 
 #: wllegal/templates/legal/documents/tos.html:139
 msgid ""
 "means a form of collaboration where the User is the sole user of the "
 "Service, and this Service is operated directly on the User Server;"
 msgstr ""
+"பயனர் சேவையின் ஒரே பயனராக இருக்கும் ஒத்துழைப்பின் ஒரு வடிவம், இந்த பணி பயனர் சேவையகத்தில்"
+" நேரடியாக இயக்கப்படுகிறது;"
 
 #: wllegal/templates/legal/documents/tos.html:143
-#, fuzzy
-#| msgid "Service"
 msgid "Support Services"
-msgstr "பணி"
+msgstr "உதவி சேவைகள்"
 
 #: wllegal/templates/legal/documents/tos.html:146
 msgid ""
@@ -880,76 +1062,77 @@ msgid ""
 "Support Services are governed separately by a separate support service "
 "agreement;"
 msgstr ""
+"சேவைக்குள் பயனருக்கு வழங்குநர் வழங்கிய உதவி. உதவி சேவைகள் ஒரு தனி உதவி பணி ஒப்பந்தத்தால்"
+" தனித்தனியாக நிர்வகிக்கப்படுகின்றன;"
 
 #: wllegal/templates/legal/documents/tos.html:150
 msgid "Translation Memory"
 msgstr "மொழிபெயர்ப்பு நினைவகம்"
 
 #: wllegal/templates/legal/documents/tos.html:153
-#, fuzzy
-#| msgid ""
-#| "means the optional translation memory service provided within Weblate"
 msgid "means an optional translation memory service provided on Weblate;"
-msgstr "வலைபெயர்ப்புக்குள் வழங்கப்பட்ட விருப்ப மொழிபெயர்ப்பு நினைவக பணி என்று பொருள்"
+msgstr "வெப்லேட்டில் வழங்கப்பட்ட விருப்ப மொழிபெயர்ப்பு நினைவக சேவை;"
 
 #: wllegal/templates/legal/documents/tos.html:157
 msgid "User"
 msgstr "பயனர்"
 
 #: wllegal/templates/legal/documents/tos.html:160
-#, fuzzy
-#| msgid ""
-#| "means any legal entity or an individual other than the Provider, who is "
-#| "using the Service"
 msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
 msgstr ""
-"சேவையைப் பயன்படுத்தும் வழங்குநரைத் தவிர வேறு எந்தவொரு சட்ட நிறுவனமும் அல்லது ஒரு நபரும்"
+"சேவையைப் பயன்படுத்தும் வழங்குநரைத் தவிர வேறு எந்தவொரு சட்ட நிறுவனம் அல்லது இயற்கையான "
+"நபரைக் குறிக்கிறது;"
 
 #: wllegal/templates/legal/documents/tos.html:164
 msgid "User Account"
-msgstr ""
+msgstr "பயனர் கணக்கு"
 
 #: wllegal/templates/legal/documents/tos.html:167
 msgid ""
 "means a user account with a unique access code and password in the Hosted "
 "Weblate web interface. Each User Account can be used by only one User;"
 msgstr ""
+"புரவலன் செய்யப்பட்ட வலைபெயர்ப்பு வலை இடைமுகத்தில் தனித்துவமான அணுகல் குறியீடு மற்றும் "
+"கடவுச்சொல் கொண்ட பயனர் கணக்கு. ஒவ்வொரு பயனர் கணக்கையும் ஒரே ஒரு பயனரால் மட்டுமே பயன்படுத்"
+"த முடியும்;"
 
 #: wllegal/templates/legal/documents/tos.html:171
 msgid "User Server"
-msgstr ""
+msgstr "பயனர் சேவையகம்"
 
 #: wllegal/templates/legal/documents/tos.html:174
 msgid ""
 "refers to the server and other hardware equipment not owned, managed, or "
 "controlled by the Provider;"
 msgstr ""
+"சேவையகம் மற்றும் பிற வன்பொருள் உபகரணங்களை வழங்குநருக்கு சொந்தமான, நிர்வகிக்காத அல்லது "
+"கட்டுப்படுத்தப்படாதது;"
 
 #: wllegal/templates/legal/documents/tos.html:180
 msgid "Methods of Acceptance"
-msgstr ""
+msgstr "ஏற்றுக்கொள்ளும் முறைகள்"
 
 #: wllegal/templates/legal/documents/tos.html:184
 msgid "The License is granted to the User based on the concluded Agreement."
-msgstr ""
+msgstr "முடிவடைந்த ஒப்பந்தத்தின் அடிப்படையில் பயனருக்கு உரிமம் வழங்கப்படுகிறது."
 
 #: wllegal/templates/legal/documents/tos.html:188
 msgid "These GTC are an integral part of the Agreement."
-msgstr ""
+msgstr "இந்த சி.டி.சி ஒப்பந்தத்தின் ஒருங்கிணைந்த பகுதியாகும்."
 
 #: wllegal/templates/legal/documents/tos.html:192
-#, fuzzy
-#| msgid "License Agreement Conclusion"
 msgid "The Agreement is concluded:"
-msgstr "உரிம ஒப்பந்த முடிவு"
+msgstr "ஒப்பந்தம் முடிவுக்கு வந்தது:"
 
 #: wllegal/templates/legal/documents/tos.html:197
 msgid ""
 "on the day of signing by both parties (especially for all Services offered "
 "with custom settings);"
 msgstr ""
+"இரு கட்சிகளும் கையெழுத்திடும் நாளில் (குறிப்பாக தனிப்பயன் அமைப்புகளுடன் வழங்கப்படும் "
+"அனைத்து சேவைகளுக்கும்);"
 
 #: wllegal/templates/legal/documents/tos.html:200
 msgid ""
@@ -960,10 +1143,15 @@ msgid ""
 "Provider's bank account) for the amount stated in the first billing period "
 "by the User."
 msgstr ""
+"விலை பட்டியலுக்கு இணங்க வலை இடைமுகம் வழியாக ஆன்லைனில் ஏற்றுக்கொள்வதன் மூலம் "
+"(உறுதிப்படுத்தல்), உரிமத்திற்கான விலை முறையாக செலுத்தப்பட்டவுடன் (வங்கி பரிமாற்றத்தின் "
+"விசயத்தில், ஒரு முறை விலைக்கு ஒத்த தொகை வழங்கப்பட்டவுடன் ஒப்பந்தம் பயனுள்ளதாக இருக்கும் "
+"உரிமம் வழங்குநரின் வங்கிக் கணக்கிற்கு வரவு வைக்கப்பட்டுள்ளது) பயனரால் முதல் பட்டியலிடல் "
+"காலத்தில் கூறப்பட்ட தொகைக்கு."
 
 #: wllegal/templates/legal/documents/tos.html:208
 msgid "Service Provision"
-msgstr ""
+msgstr "பணி வழங்கல்"
 
 #: wllegal/templates/legal/documents/tos.html:212
 msgid ""
@@ -972,6 +1160,9 @@ msgid ""
 "accordance with the Agreement and the technical specifications outlined in "
 "the Product specification."
 msgstr ""
+"தயாரிப்பு விவரக்குறிப்பு மற்றும் அதன் துணை டொமைன்கள் அல்லது பயனரின் சேவையகங்களில் "
+"குறிப்பிடப்பட்டுள்ள இணைய முகவரியில் அல்லது தயாரிப்பு விவரக்குறிப்பில் கோடிட்டுக் "
+"காட்டப்பட்டுள்ள தொழில்நுட்ப விவரக்குறிப்புகள் ஆகியவற்றில் வழங்குநர் சேவையை இயக்குகிறார்."
 
 #: wllegal/templates/legal/documents/tos.html:216
 msgid ""
@@ -982,12 +1173,19 @@ msgid ""
 "specification defined in this manner takes precedence over the form of "
 "Service offered according to the Price List."
 msgstr ""
+"பிரிவு 2.3 (அ) இன் கீழ் ஒப்பந்தம் முடிவடைந்தால், சேவைகளின் நோக்கம் தயாரிப்பு "
+"விவரக்குறிப்பில் வரையறுக்கப்படுகிறது, இது ஒப்பந்தத்துடன் இணைக்கப்பட்டுள்ளது. தயாரிப்பு "
+"விவரக்குறிப்பு தனிநபர் (துணை) சேவைகளின் உள்ளடக்கம் மற்றும் செயல்படுத்தும் முறைகள் குறித்து "
+"மேலும் விவரிக்கப்படலாம். இந்த முறையில் வரையறுக்கப்பட்ட தயாரிப்பு விவரக்குறிப்பு விலை "
+"பட்டியலுக்கு ஏற்ப வழங்கப்படும் பணி வடிவத்திற்கு முன்னுரிமை அளிக்கிறது."
 
 #: wllegal/templates/legal/documents/tos.html:220
 msgid ""
 "The Service is provided in three forms of cooperation: Hosted Weblate, "
 "Dedicated Weblate, and Self-hosting."
 msgstr ""
+"இந்த பணி மூன்று வகையான ஒத்துழைப்புகளில் வழங்கப்படுகிறது: வலைபெயர்ப்பு, அர்ப்பணிப்பு "
+"வலைபெயர்ப்பு மற்றும் தன்வய ஓச்டிங்."
 
 #: wllegal/templates/legal/documents/tos.html:224
 msgid ""
@@ -1000,12 +1198,16 @@ msgid ""
 "third parties may process Personal Data within their activities in "
 "accordance with the Agreement and GPLv3."
 msgstr ""
+"சி.பி.எல்.வி 3 க்கு இணங்க, சேவையின் சில நற்பொருத்தங்கள் வழங்குநரைத் தவிர வேறு மூன்றாம் "
+"தரப்பினரின் உதவியுடன் அல்லது இந்த கட்சிகளால் நேரடியாக வழங்கப்படலாம். இந்த ஒப்பந்தம் மற்றும் "
+"சி.பி.எல்.வி 3 உரிமத்தின்படி இந்த மூன்றாம் தரப்பினர் தங்கள் சேவைகளை வழங்கும் என்பதை பயனர் "
+"ஒப்புக்கொள்கிறார். சேவையை வழங்குவதில் ஈடுபட்டுள்ள மூன்றாம் தரப்பினர் சேவையின் ஏற்பாட்டின் "
+"போது மாறக்கூடும் என்பதை பயனர் ஒப்புக்கொள்கிறார். இந்த மூன்றாம் தரப்பினர் ஒப்பந்தம் மற்றும் "
+"சி.பி.எல்.வி 3 இன் படி தங்கள் செயல்பாடுகளுக்குள் தனிப்பட்ட தரவை செயலாக்கலாம்."
 
 #: wllegal/templates/legal/documents/tos.html:228
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
-msgstr "பணி"
+msgstr "பணி காலம்"
 
 #: wllegal/templates/legal/documents/tos.html:232
 msgid ""
@@ -1014,6 +1216,9 @@ msgid ""
 "subscription can be paid monthly or annually in accordance with Article 5 of "
 "the GTC."
 msgstr ""
+"ஒப்பந்தத்தில் வெளிப்படையாக ஒப்புக் கொள்ளப்படாவிட்டால், சந்தா மாதிரியுடன் தொடர்புடைய ஒரு "
+"காலத்திற்கு ஒப்பந்தம் முடிவுக்கு வருகிறது. சி.டி.சியின் 5 வது பிரிவின்படி சந்தாவை "
+"மாதந்தோறும் அல்லது ஆண்டுதோறும் செலுத்தலாம்."
 
 #: wllegal/templates/legal/documents/tos.html:240
 msgid ""
@@ -1025,6 +1230,12 @@ msgid ""
 "List. The price for Services consists of the following separate items or "
 "their combination, which are paid regularly monthly/annually:"
 msgstr ""
+"சேவைக்கான விலை சலுகை அல்லது விலை பட்டியலுக்கு ஏற்ப தீர்மானிக்கப்படுகிறது. இந்த சி.டி.சி"
+" போலவே வழங்குநரால் விலை பட்டியல் ஒருதலைப்பட்சமாக மாற்றப்படலாம் என்பதை பயனர் "
+"ஒப்புக்கொள்கிறார் மற்றும் ஒப்புக்கொள்கிறார். விலை தேர்ந்தெடுக்கப்பட்ட பணி உள்ளமைவைப் பொறுத்தது"
+", மேலும் சேவையை வழங்கக்கூடிய பல வகைகள் உள்ளன. இந்த வகைகள் விலை பட்டியலில் "
+"பட்டியலிடப்பட்டுள்ளன. சேவைகளுக்கான விலை பின்வரும் தனித்தனி உருப்படிகள் அல்லது அவற்றின் "
+"கலவையைக் கொண்டுள்ளது, அவை மாதந்தோறும்/ஆண்டுதோறும் வழக்கமாக செலுத்தப்படுகின்றன:"
 
 #: wllegal/templates/legal/documents/tos.html:244
 msgid ""
@@ -1033,6 +1244,10 @@ msgid ""
 "but paid monthly or annually, with this price varying for different forms of "
 "collaboration according to the Price List;"
 msgstr ""
+"சேவைகளுக்கான அணுகலுக்கான வழக்கமான விலை, இது எப்போதும் தொடர்புடைய காலத்திற்கு "
+"அமைக்கப்பட்டுள்ளது மற்றும் சேவையின் குறிப்பிட்ட நிபந்தனைகளின் அடிப்படையில் அமைக்கப்பட்டுள்ளது"
+", ஆனால் மாதாந்திர அல்லது ஆண்டுதோறும் செலுத்தப்படுகிறது, இந்த விலை விலை பட்டியலின்படி "
+"வெவ்வேறு வகையான ஒத்துழைப்புக்கு மாறுபடும்;"
 
 #: wllegal/templates/legal/documents/tos.html:247
 msgid ""
@@ -1040,24 +1255,29 @@ msgid ""
 "User from the options offered in the Price List or in agreement with the "
 "Provider;"
 msgstr ""
+"புரவலன் செய்யப்பட்ட சரங்களின் எண்ணிக்கையில் வழக்கமான விலை; விலை பட்டியலில் வழங்கப்படும் "
+"விருப்பங்களிலிருந்தோ அல்லது வழங்குநருடனான ஒப்பந்தத்திலும் இந்த தொகை பயனரால் "
+"தேர்ந்தெடுக்கப்படுகிறது;"
 
 #: wllegal/templates/legal/documents/tos.html:250
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "மொழிபெயர்ப்பு நினைவகம்"
+msgstr "மொழிபெயர்ப்பு நினைவகத்திற்கான வழக்கமான விலை;"
 
 #: wllegal/templates/legal/documents/tos.html:255
 msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
 msgstr ""
+"(புள்ளிகள் அ), பி) மற்றும் சி) கூட்டாக \"<strong> சந்தா </strong>\" என்று "
+"குறிப்பிடப்படுகின்றன)."
 
 #: wllegal/templates/legal/documents/tos.html:259
 msgid ""
 "To avoid doubt, the Subscription may guarantee either only access to a "
 "specific Product or License and/or a specific package of guaranteed Services."
 msgstr ""
+"சந்தேகத்தைத் தவிர்க்க, சந்தா ஒரு குறிப்பிட்ட தயாரிப்பு அல்லது உரிமம் மற்றும்/அல்லது உத்தரவா"
+"த சேவைகளின் ஒரு குறிப்பிட்ட தொகுப்பு மட்டுமே அணுகலை மட்டுமே பொறுப்பு அளிக்கக்கூடும்."
 
 #: wllegal/templates/legal/documents/tos.html:263
 msgid ""
@@ -1066,6 +1286,10 @@ msgid ""
 "invoice is issued and delivered to the User within 5 working days after the "
 "end of each relevant period."
 msgstr ""
+"வழங்குநரால் வழங்கப்பட்ட பெறப்பட்ட வரி ஆவணங்களின் (விலைப்பட்டியல்) அடிப்படையில் விலையை செலுத்"
+"த பயனர் கடமைப்பட்டுள்ளார். விலை முன்கூட்டியே செலுத்தப்படுகிறது, மேலும் ஒவ்வொரு தொடர்புடை"
+"ய காலப்பகுதியின் முடிந்த 5 வேலை நாட்களுக்குள் விலைப்பட்டியல் வழங்கப்பட்டு பயனருக்கு "
+"வழங்கப்படுகிறது."
 
 #: wllegal/templates/legal/documents/tos.html:267
 #, python-format
@@ -1076,6 +1300,11 @@ msgid ""
 "an additional VAT of 21%%. Reverse charge applies to invoices issued to "
 "businesses within the EU."
 msgstr ""
+"கடன் அட்டை, வங்கி பரிமாற்றம் அல்லது மறையீட்டு நாணயம் பரிவர்த்தனை மூலம் விலையை செலுத்தலாம். "
+"விலை பட்டியலில் பட்டியலிடப்பட்டுள்ள அனைத்து விலைகளும் வாட் விலக்குகின்றன. ஐரோப்பிய ஒன்றியம்"
+" மற்றும் செக் வணிக நிறுவனங்களின் இறுதி பயனர்கள் 21 %% கூடுதல் வாட் செலுத்த வேண்டும். "
+"ஐரோப்பிய ஒன்றியத்திற்குள் வணிகங்களுக்கு வழங்கப்படும் விலைப்பட்டியல்களுக்கு தலைகீழ் கட்டணம் "
+"பொருந்தும்."
 
 #: wllegal/templates/legal/documents/tos.html:271
 msgid ""
@@ -1085,6 +1314,10 @@ msgid ""
 "verifying with the prepaid card issuer or bank whether recurring billing is "
 "possible."
 msgstr ""
+"சந்தா பயன்முறையில் சேவைக்கு கட்டணம் வசூலிக்கப்படுவதைத் தவிர்க்க பயனர் விரும்பினால், பணி "
+"பயன்பாட்டை தானாக புதுப்பிப்பதற்கு குறைந்தது மூன்று நாட்களுக்கு முன்பே அவர்கள் சந்தாவை ரத்து"
+" செய்ய வேண்டும். தொடர்ச்சியான பட்டியலிடல் சாத்தியமா என்பதை ப்ரீபெய்ட் அட்டை வழங்குபவர் அல்லது "
+"வங்கியுடன் சரிபார்க்க வழங்குநர் பரிந்துரைக்கிறார்."
 
 #: wllegal/templates/legal/documents/tos.html:275
 msgid ""
@@ -1094,6 +1327,10 @@ msgid ""
 "date as per point 5.5 above, their Subscription will stop at the end of the "
 "current billing cycle."
 msgstr ""
+"பயனர் தங்கள் சந்தா பயன்முறையை ஆன்லைனில் தங்கள் பயனர் கணக்கில் உள்நுழைந்து மாற்றத்தை செய்வதன் "
+"மூலம் அல்லது அங்கு சந்தாவை ரத்து செய்வதன் மூலம் மாற்றலாம். மேலே உள்ள புள்ளி 5.5 இன் படி "
+"புதுப்பித்தல் தேதிக்கு குறைந்தது மூன்று நாட்களுக்கு முன்னர் பயனர் தங்கள் சந்தாவை ரத்து "
+"செய்தால், அவர்களின் சந்தா தற்போதைய பட்டியலிடல் சுழற்சியின் முடிவில் நின்றுவிடும்."
 
 #: wllegal/templates/legal/documents/tos.html:279
 msgid ""
@@ -1107,6 +1344,15 @@ msgid ""
 "prepaid Services were prepaid for a period exceeding the actual usage "
 "period, the conditions of such a refund will be agreed upon individually."
 msgstr ""
+"இந்த சேவைகளை பயனரால் ரத்து செய்வதற்கு முன்னர் வழங்கப்பட்டால், ஒப்பந்தத்தின் கீழ் வழங்கப்பட்ட "
+"சேவைகள், உதவி சேவைகள் மற்றும்/அல்லது இந்த சி.டி.சி ஆகியவற்றின் கீழ் வழங்கப்பட்ட வேறு எந்த "
+"சேவைகளுக்கும் வழங்குநர் எந்தவொரு பணத்தையும் திருப்பித் தரமாட்டார். உத்தரவிடப்பட்ட பணி "
+"பயன்படுத்தப்படாவிட்டால் அல்லது பதிவிறக்கம் செய்ய எந்த முயற்சியும் செய்யப்படவில்லை எனில், "
+"ஒப்பந்தத்தின் மூலம் பணம் செலுத்திய பின்னர் ஆர்டர் ரத்து செய்யப்படுகிறது. பதிவிறக்க முயற்சி "
+"மேற்கொள்ளப்பட்டால், எந்த பேச்சுவார்த்தையும் ஏற்படாது, மேலும் பயனருக்கு எந்தவொரு பணத்தைத் "
+"திரும்பப்பெறுதல், தள்ளுபடிகள் அல்லது பிற பண இழப்பீடு வழங்க உரிமை இல்லை. உண்மையான "
+"பயன்பாட்டு காலத்தை விட ஒரு காலத்திற்கு ப்ரீபெய்ட் சேவைகள் ப்ரீபெய்ட் செய்யப்பட்டால், அத்தகைய "
+"பணத்தைத் திரும்பப்பெறுவதற்கான நிபந்தனைகள் தனித்தனியாக ஒப்புக் கொள்ளப்படும்."
 
 #: wllegal/templates/legal/documents/tos.html:283
 msgid ""
@@ -1119,12 +1365,17 @@ msgid ""
 "new Price or conditions come into effect. Under these conditions, the User "
 "has the right to cancel the Subscription."
 msgstr ""
+"விலைகள் மற்றும் சந்தா நிலைமைகள் எந்த நேரத்திலும் ஆபரேட்டரால் ஒருதலைப்பட்சமாக மாறக்கூடும். "
+"முதல் கொள்முதல் அல்லது கடைசி சந்தா புதுப்பித்தல் நேரத்தில் செல்லுபடியாகும் விலை மற்றும் "
+"நிபந்தனைகள் கொடுக்கப்பட்ட சந்தா காலத்தின் காலத்திற்கு நடைமுறையில் உள்ளன, ஆனால் "
+"புதுப்பிப்புகள் அல்லது புதிய சந்தாக்களுக்கு புதிய விலைகள் மற்றும் நிபந்தனைகள் "
+"பொருந்தக்கூடும். புதிய விலை அல்லது நிபந்தனைகள் நடைமுறைக்கு வருவதற்கு முன்பு ஒரு "
+"நியாயமான காலகட்டத்தில் எந்தவொரு விலை அல்லது சந்தா நிலை மாற்றங்களையும் வழங்குநர் பயனருக்கு"
+" அறிவிப்பார். இந்த நிபந்தனைகளின் கீழ், சந்தாவை ரத்து செய்ய பயனருக்கு உரிமை உண்டு."
 
 #: wllegal/templates/legal/documents/tos.html:287
-#, fuzzy
-#| msgid "License"
 msgid "License Terms"
-msgstr "உரிமம்"
+msgstr "உரிம விதிமுறைகள்"
 
 #: wllegal/templates/legal/documents/tos.html:291
 #, python-format
@@ -1136,6 +1387,11 @@ msgid ""
 "License is provided. The License is granted in accordance with the option "
 "selected according to the Price List."
 msgstr ""
+"வழங்குநரின் மென்பொருள் மற்றும் வலைபெயர்ப்பு மென்பொருள் நீட்டிப்புகள் குனு/சி.பி.எல்.வி 3 "
+"உரிமத்தின் கீழ் விநியோகிக்கப்படுகின்றன (பார்க்க <a href=\"%(url)s\">%(url)s </a>). "
+"உரிமம் வழங்கப்படும் நேரத்தில் சி.டி.சி விதிமுறைகளின் கீழ் சி.டி.சி விதிமுறைகளின் கீழ் "
+"சேவையின் எந்தவொரு கூறுகளுக்கும் பயனருக்கு பிரத்தியேகமற்ற உரிமம் வழங்கப்படுகிறது. விலை "
+"பட்டியலின்படி தேர்ந்தெடுக்கப்பட்ட விருப்பத்தின்படி உரிமம் வழங்கப்படுகிறது."
 
 #: wllegal/templates/legal/documents/tos.html:296
 #, python-format
@@ -1148,6 +1404,12 @@ msgid ""
 "according to the information provided on the Provider's website (see <a "
 "href=\"%(url)s\">%(url)s</a>)."
 msgstr ""
+"ஒப்பந்தத்தில் குறிப்பிடப்படாவிட்டால், இந்த ஒப்பந்தத்தின் உரிம விதிமுறைகள் GPLV3 உரிமத்தால் "
+"முழுமையாக நிர்வகிக்கப்படுகின்றன. இருப்பினும், மென்பொருளின் தேர்ந்தெடுக்கப்பட்ட பகுதிகள் மற்"
+"ற உரிமங்களின் கீழ் உரிமம் பெறலாம். வழங்குநரின் மென்பொருள் மற்றும் மென்பொருள் நீட்டிப்புகளில் "
+"பயன்படுத்தப்படும் உரிமங்களின் முழுமையான பட்டியலை அவற்றின் மூலக் குறியீட்டில் காணலாம், இது "
+"வழங்குநரின் இணையதளத்தில் வழங்கப்பட்ட தகவல்களின்படி மறுபயன்பாடு 3.0 விவரக்குறிப்புக்கு "
+"ஒத்திருக்கிறது (<a href=\"%(url)s பார்க்கவும்\">%(url)s </a>)."
 
 #: wllegal/templates/legal/documents/tos.html:300
 msgid ""
@@ -1159,6 +1421,12 @@ msgid ""
 "creating, and distributing the Service, even if the User does not publicly "
 "release the Service."
 msgstr ""
+"சேவைக்கான அனைத்து பதிப்புரிமை மற்றும் பிற அறிவுசார் சொத்துரிமைகள் வழங்குநர் மற்றும்/அல்லது"
+" மூன்றாம் தரப்பினருக்கு சொந்தமானது என்பதை பயனர் ஒப்புக்கொள்கிறார், அதன் பணிகள் சேவையில் "
+"இணைக்கப்பட்டுள்ளன மற்றும்/அல்லது சேவையுடன் கூட்டாக பயன்படுத்தப்படுகின்றன. இருப்பினும், பயனர் "
+"சேவையை பகிரங்கமாக வெளியிடாவிட்டாலும் கூட, சேவையை இயக்குதல், உருவாக்குதல் மற்றும் "
+"விநியோகித்தல் உள்ளிட்ட பொருந்தக்கூடிய உரிமங்களால் அனுமதிக்கப்பட்ட அளவிற்கு சேவையைப் "
+"பயன்படுத்துவதற்கான உரிமையை பயனர் இழக்க மாட்டார்."
 
 #: wllegal/templates/legal/documents/tos.html:304
 msgid ""
@@ -1168,6 +1436,10 @@ msgid ""
 "or later versions of the GPL license), they publish all materials to which "
 "they do not own copyright."
 msgstr ""
+"சேவையின் பிரத்தியேக மாற்றங்களின் நோக்கத்திற்காக அல்லது பயனரின் நலனுக்காக அல்லது இந்த "
+"சேவைகளை இயக்குவதற்கான வழிமுறைகளை உருவாக்கியதற்காக, GPLV3 இன் விதிமுறைகளுக்கு ஏற்ப "
+"(மற்றும்/அல்லது பின்னர் வரும் பதிப்புகள் சிபிஎல் உரிமம்), அவர்கள் பதிப்புரிமை இல்லாத அனைத்து"
+" பொருட்களையும் வெளியிடுகிறார்கள்."
 
 #: wllegal/templates/legal/documents/tos.html:308
 msgid ""
@@ -1178,6 +1450,9 @@ msgid ""
 "released. The User acknowledges that not all Self-hosting Subscription "
 "packages include updates and/or modifications to the Services."
 msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட சந்தாவின் அடிப்படையில் சேவைகள் வழங்கப்பட்டால், இந்த புதுப்பிப்புகள் "
+"மற்றும்/அல்லது மாற்றங்கள் வெளியிடப்படுகின்றன. எல்லா தன்வய ஓச்டிங் சந்தா தொகுப்புகளிலும் "
+"புதுப்பிப்புகள் மற்றும்/அல்லது சேவைகளுக்கான மாற்றங்கள் இல்லை என்பதை பயனர் ஒப்புக்கொள்கிறார்."
 
 #: wllegal/templates/legal/documents/tos.html:312
 msgid ""
@@ -1191,10 +1466,18 @@ msgid ""
 "intact, and the User provides all recipients of such copies of the source "
 "code with a copy of the license along with the program."
 msgstr ""
+"சிபிஎல்.வி 3 (மற்றும்/அல்லது சிபிஎல் உரிமத்தின் பிற்கால பதிப்புகள்) வரம்பிற்குள் "
+"பதிப்புரிமை மூலம் பாதுகாக்கப்பட்ட மூலக் குறியீட்டைப் பயன்படுத்தவும் கையாளவும் பயனருக்கு "
+"உரிமை உண்டு, இதில் நகல்கள் அடங்கும், ஆனால் அவை மட்டுமல்ல. ஒவ்வொரு நகலும் வழங்குநருக்கு ஒரு"
+" குறிப்பு மற்றும் ஒரு முக்கிய மற்றும் புலப்படும் இடத்தில் உத்தரவாதத்தை இல்லாதிருந்தால் "
+"மட்டுமே பயனர் அத்தகைய நகல்களை விநியோகிக்க முடியும், இந்த உரிமம் மற்றும் கூடுதல் "
+"நிபந்தனைகள் குறித்த அனைத்து குறிப்புகளும் மாறாமல் இருப்பதை உறுதிசெய்கிறது, மேலும் "
+"அனைத்து குறிப்புகளும் இல்லாதது உத்தரவாதமானது அப்படியே இருக்கும், மேலும் மூலக் குறியீட்டின்"
+" அத்தகைய நகல்களைப் பெறுபவர்களுக்கு பயனர் நிரலுடன் உரிமத்தின் நகலுடன் வழங்குகிறார்."
 
 #: wllegal/templates/legal/documents/tos.html:316
 msgid "Payment Terms"
-msgstr ""
+msgstr "கட்டண விதிமுறைகள்"
 
 #: wllegal/templates/legal/documents/tos.html:320
 msgid ""
@@ -1202,6 +1485,9 @@ msgid ""
 "issuance of invoices and to receiving them via electronic means. Invoices "
 "will be issued with a due date of 14 calendar days."
 msgstr ""
+"விலைப்பட்டியல் மின்னணு முறையில் வழங்கப்படும். விலைப்பட்டியல்களின் மின்னணு வெளியீட்டை பயனர் "
+"ஒப்புக்கொள்கிறார் மற்றும் அவற்றை மின்னணு வழிமுறைகள் மூலம் பெறுகிறார். விலைப்பட்டியல் 14 "
+"காலண்டர் நாட்களின் தேதியுடன் வழங்கப்படும்."
 
 #: wllegal/templates/legal/documents/tos.html:324
 msgid ""
@@ -1212,6 +1498,12 @@ msgid ""
 "any reason, the Provider will issue an invoice, and the User is obliged to "
 "pay such an invoice within the same deadlines."
 msgstr ""
+"பட்டியலிடல் காலம் ஒரு தொடர்ச்சியான காலமாக வரையறுக்கப்படுகிறது (காலண்டர் மாதம்/ஆண்டு). "
+"தேர்ந்தெடுக்கப்பட்ட கட்டண முறை மூலம் பணம் தானாகவே வசூலிக்கப்படுகிறது, மேலும் வழங்குநர் "
+"கட்டணத்தைப் பெற்ற பின்னர் விலைப்பட்டியல் பயனருக்கு தேவையற்ற தாமதமின்றி அனுப்பப்படுகிறது. "
+"எந்தவொரு காரணத்திற்காகவும் கட்டணத்தை தானாகக் கழிக்க முடியாவிட்டால், வழங்குநர் விலைப்பட்டியல்"
+" வழங்குவார், மேலும் அதே காலக்கெடுவிற்குள் அத்தகைய விலைப்பட்டியலை செலுத்த பயனர் "
+"கடமைப்பட்டுள்ளார்."
 
 #: wllegal/templates/legal/documents/tos.html:328
 msgid ""
@@ -1223,6 +1515,12 @@ msgid ""
 "a material breach of the Agreement, entitling the Provider to terminate the "
 "Agreement for the reason stated in Article 11 below."
 msgstr ""
+"எந்தவொரு கட்டணத்திலும் பயனரின் நேரந்தவறுகை ஏற்பட்டால், கடனை முழுமையாக செலுத்தும் வரை "
+"சேவையை வழங்குவதை இடைநிறுத்த அல்லது கட்டுப்படுத்த வழங்குநருக்கு உரிமை உண்டு. சேவையை "
+"வழங்குவதற்கான இடைநீக்கம் அல்லது வரம்பின் போது, வழங்கப்பட்ட வரி ஆவணங்களின்படி விலையை செலுத்"
+"த பயனர் இன்னும் கடமைப்பட்டுள்ளார். பயனரின் தொடர்ச்சியான கட்டண தாமதங்கள் ஒப்பந்தத்தின் பொருள் "
+"மீறலாகக் கருதப்படுகின்றன, கீழே உள்ள 11 வது பிரிவில் குறிப்பிடப்பட்டுள்ள காரணத்திற்காக "
+"ஒப்பந்தத்தை நிறுத்த வழங்குநருக்கு உரிமை உண்டு."
 
 #: wllegal/templates/legal/documents/tos.html:332
 msgid ""
@@ -1236,6 +1534,13 @@ msgid ""
 "continuous and automatically renews until it is cancelled, or the User "
 "Account is terminated."
 msgstr ""
+"வாங்கும் நேரத்தில் சி.டி.சிக்கு உடன்படுவதன் மூலம், பயனர் சந்தாவின் எதிர்கால தானியங்கி "
+"புதுப்பிப்புக்கு குழுசேர்கிறார். வாங்கும் நேரத்தில் தேர்ந்தெடுக்கப்பட்ட சந்தா காலத்தின் "
+"அடிப்படையில் ஒவ்வொரு சந்தா காலத்தின் முடிவிலும் சந்தா தானாக புதுப்பிக்கப்படும். ஒவ்வொரு "
+"பட்டியலிடல் காலத்தின் தொடக்கத்திலும், புதுப்பிக்கப்பட்ட விலை பட்டியல் மற்றும்/அல்லது கடைசி "
+"பட்டியலிடல் காலத்தின் முடிவில் வழங்குநரால் செய்யப்பட்ட ஒரு தனி அறிவிப்பின் படி இந்த சந்தா "
+"விகிதத்தில் வசூலிக்கப்படும். சந்தா தொடர்ச்சியாகவும், அது ரத்துசெய்யப்படும் வரை தானாக "
+"புதுப்பிக்கப்படும், அல்லது பயனர் கணக்கு நிறுத்தப்படும் வரை தானாகவே புதுப்பிக்கப்படும்."
 
 #: wllegal/templates/legal/documents/tos.html:336
 msgid ""
@@ -1247,6 +1552,11 @@ msgid ""
 "conditions for the payment of the Fee are governed by the relevant "
 "contractual terms of ThePay."
 msgstr ""
+"கட்டண நுழைவாயில் வழியாக சந்தா செலுத்தும் விசயத்தில், இந்த நுழைவாயிலை <strong> "
+"thepay, a.s. 261, பி.ஆர்.என்.ஓ, பிரிவு பி, பிராந்திய நீதிமன்றத்தால் பராமரிக்கப்படும் "
+"வணிக பதிவேட்டில் பதிவு செய்யப்பட்டுள்ளது, 8977 ஐ செருகவும் ("
+"\"<strong> தேமே </strong>\"). கட்டணத்தை செலுத்துவதற்கான நிபந்தனைகள் பேவின் தொடர்புடை"
+"ய ஒப்பந்த விதிமுறைகளால் நிர்வகிக்கப்படுகின்றன.</strong>"
 
 #: wllegal/templates/legal/documents/tos.html:340
 msgid ""
@@ -1254,10 +1564,12 @@ msgid ""
 "by the Provider, and the Provider is not responsible for the functionality "
 "of ThePay's payment gateway."
 msgstr ""
+"கட்டண நுழைவாயிலில் உள்ளிடப்பட்ட கட்டண அட்டை செய்தி வழங்குநரால் செயலாக்கப்படவில்லை, மேலும் "
+"தி பேவின் கட்டண நுழைவாயிலின் செயல்பாட்டிற்கு வழங்குநர் பொறுப்பல்ல."
 
 #: wllegal/templates/legal/documents/tos.html:344
 msgid "Provider's Rights and Obligations"
-msgstr ""
+msgstr "வழங்குநரின் உரிமைகள் மற்றும் கடமைகள்"
 
 #: wllegal/templates/legal/documents/tos.html:348
 msgid ""
@@ -1283,6 +1595,25 @@ msgid ""
 "any case, the User may either accept the Change (implicitly through failure "
 "to object) or terminate the Agreement within the above period."
 msgstr ""
+"பணி அல்லது அதன் நோக்கத்தில் ஏதேனும் மாற்றங்களைச் செய்ய வழங்குநருக்கு உரிமை உண்டு. அத்தகைய "
+"சந்தர்ப்பத்தில், வழங்கப்பட்ட பணி தொடர்பான வலை இடைமுகத்தின் மூலம் வழங்குநர் பயனருக்கு "
+"தெரிவிப்பார். சட்ட அல்லது ஒழுங்குமுறை கட்டமைப்பில் மாற்றங்கள், தொழில் தரநிலைகள், வழங்குநரின்"
+" தொடர்புடைய செலவுகள், சந்தை பழக்கவழக்கங்கள், தொடர்புடைய சந்தையை பாதிக்கும் நிபந்தனைகள் "
+"அல்லது சேவையை வழங்குவதை பாதிக்கக்கூடிய வேறு ஏதேனும் மாற்றங்கள் ஏற்பட்டால், வழங்குநர் எந்த "
+"நேரத்திலும் திருத்தப்படலாம், இந்த விதிமுறைகளின் திருத்தப்பட்ட பதிப்பை இணையதளத்தில் "
+"இடுகையிடுவதன் மூலமும், பயனருக்கு மின்னஞ்சல் வழியாகவும், இடைமுகம் தொடர்பான இடைமுகத்தின் "
+"மூலமாகவும் இந்த விதிமுறைகளை பயனருக்கு அறிவிப்பதன் மூலம் இந்த விதிமுறைகளை ("
+"\"<strong> மாற்றம் </strong>\" என்று குறிப்பிடப்படுகிறது) ரத்து செய்யுங்கள் வழங்கப்பட்ட "
+"சேவைக்கு, மாற்றம் நடைமுறைக்கு வருவதற்கு குறைந்தது 14 நாட்களுக்கு முன்பு. மேற்கூறிய "
+"காலத்திற்குள் அத்தகைய மாற்றத்திற்கு பயனர் பதிலளிக்கவில்லை என்றால், பயனர் மாற்றத்துடன் "
+"உடன்படுகிறார் என்று கருதப்படும். சட்டம், நீதிமன்ற கட்டளை, ஒரு புதிய சேவையைச் சேர்ப்பது, "
+"தற்போதுள்ள சேவைக்கு கூடுதல் நற்பொருத்தங்கள் அல்லது பயனரின் உரிமைகளை குறைக்காத அல்லது "
+"அவர்களின் கடமைகளை அதிகரிக்காத வேறு எந்த மாற்றத்தையும் கவலை கொண்டிருந்தால் அறிவிப்பு "
+"பொருந்தாது. இதுபோன்ற சந்தர்ப்பங்களில், இந்த மாற்றம் பயனருக்கு முன் அறிவிப்பின்றி "
+"செயல்படுத்தப்படும், உடனடியாக நடைமுறைக்கு வரும். மேற்கண்ட காலத்திற்குள் விதிமுறைகளில் "
+"ஏற்படும் மாற்றத்தை பயனர் எதிர்த்தால், ஒப்பந்தத்தை நிறுத்த அவர்களுக்கு உரிமை உண்டு. எந்தவொரு "
+"சந்தர்ப்பத்திலும், பயனர் மாற்றத்தை ஏற்றுக்கொள்ளலாம் (மறைமுகமாக எதிர்க்கத் தவறியதன் மூலம்) "
+"அல்லது மேற்கண்ட காலத்திற்குள் ஒப்பந்தத்தை நிறுத்தலாம்."
 
 #: wllegal/templates/legal/documents/tos.html:352
 msgid ""
@@ -1290,6 +1621,9 @@ msgid ""
 "to ensure the functionality and availability of the Service. The User "
 "acknowledges and agrees that they use the Service at their own risk."
 msgstr ""
+"சேவையின் செயல்பாடு மற்றும் கிடைக்கும் தன்மையை உறுதிப்படுத்த அதன் தொழில்நுட்ப திறன்களுக்குள் "
+"அனைத்து நடவடிக்கைகளையும் எடுக்க வழங்குநர் மேற்கொள்கிறார். பயனர் ஒப்புக்கொள்கிறார் மற்றும் "
+"அவர்கள் சேவையை தங்கள் சொந்த ஆபத்தில் பயன்படுத்துகிறார்கள் என்பதை ஒப்புக்கொள்கிறார்கள்."
 
 #: wllegal/templates/legal/documents/tos.html:356
 msgid ""
@@ -1298,6 +1632,10 @@ msgid ""
 "version. The Provider undertakes to fulfil these requirements and ensure the "
 "proper operation of the Service through its own actions."
 msgstr ""
+"சேவையின் சரியான செயல்பாட்டிற்கான அடிப்படை கணினி தேவைகள் சேவையக சூழல் மற்றும் அண்மைக் கா"
+"ல பதிப்பில் வரையறுக்கப்பட்ட தொழில்நுட்ப நிலை ஆகியவை அடங்கும். வழங்குநர் இந்த தேவைகளை "
+"நிறைவு செய்வதற்கும் அதன் சொந்த செயல்களின் மூலம் சேவையின் சரியான செயல்பாட்டை உறுதி "
+"செய்வதற்கும் மேற்கொள்கிறார்."
 
 #: wllegal/templates/legal/documents/tos.html:360
 msgid ""
@@ -1310,6 +1648,13 @@ msgid ""
 "Provider bears no responsibility for any damages incurred by the User in "
 "connection with these events."
 msgstr ""
+"சேவையின் விரைவு, செயல்பாடு அல்லது கிடைக்கும் தன்மை தொடர்பான எந்தவொரு சிக்கலையும் பயனர் "
+"அடையாளம் கண்டால், அதை உடனடியாக வழங்குநரிடம் புகாரளிக்க அவர்கள் கடமைப்பட்டுள்ளனர். "
+"வழங்குநரின் இணைய இணைப்பு தோல்வி, இயற்கை பேரழிவுகள், DOS அல்லது டி.என்.எச் வழங்குநரின் "
+"தொழில்நுட்ப உபகரணங்கள் மீதான தாக்குதல்கள் மற்றும் பிற காரணிகள் போன்ற வழங்குநரின் "
+"கட்டுப்பாட்டிற்கு அப்பாற்பட்ட நிகழ்வுகள் சேவையின் செயல்பாடு அல்லது கிடைக்கும் தன்மையை "
+"பாதிக்கக்கூடும் என்பதை பயனர் ஒப்புக்கொள்கிறார். இந்த நிகழ்வுகள் தொடர்பாக பயனரால் ஏற்படும் "
+"எந்தவொரு சேதத்திற்கும் வழங்குநர் எந்தப் பொறுப்பையும் ஏற்கவில்லை."
 
 #: wllegal/templates/legal/documents/tos.html:364
 msgid ""
@@ -1323,12 +1668,22 @@ msgid ""
 "the Service. In the case of planned outages, the Provider is obligated to "
 "inform the User in advance within a reasonable time."
 msgstr ""
+"தீவிர காரணங்களுக்காக, குறிப்பாக சைபர் தாக்குதல்களைத் தடுப்பது, தேவைப்படும்போது, அல்லது "
+"ஒரு அத்தியாவசிய செயலிழப்பு தேவைப்படும் தீவிர பணி செயலிழப்பு ஏற்பட்டால், சேவையை "
+"வழங்குவதை வழங்குநர் தற்காலிகமாக நிறுத்தி வைக்கலாம் என்று பயனர் ஒப்புக்கொள்கிறார் மற்றும் "
+"ஒப்புக்கொள்கிறார். வழங்குநர் குறுக்கீட்டின் பயனருக்கு விரைவில் அறிவிக்க வேண்டும். சாத்தியமான "
+"செயலிழப்புகளைக் குறைக்க அல்லது சேவையின் வரையறுக்கப்பட்ட அல்லது முழுமையான கிடைக்காத "
+"தன்மையைக் குறைக்க பொருத்தமான செயல்பாட்டு மற்றும் பாதுகாப்பு நடவடிக்கைகளை செயல்படுத்த "
+"வழங்குநர் கடமைப்பட்டுள்ளார். திட்டமிட்ட செயலிழப்புகளின் விசயத்தில், ஒரு நியாயமான "
+"நேரத்திற்குள் பயனருக்கு முன்கூட்டியே தெரிவிக்க வழங்குநர் கடமைப்பட்டுள்ளார்."
 
 #: wllegal/templates/legal/documents/tos.html:368
 msgid ""
 "The Provider agrees not to provide the content of the User's data to third "
 "parties."
 msgstr ""
+"பயனரின் தரவின் உள்ளடக்கத்தை மூன்றாம் தரப்பினருக்கு வழங்க வேண்டாம் என்று வழங்குநர் "
+"ஒப்புக்கொள்கிறார்."
 
 #: wllegal/templates/legal/documents/tos.html:372
 msgid ""
@@ -1336,6 +1691,9 @@ msgid ""
 "of the User's data. The User is solely responsible for the content of the "
 "data stored on their Server or the Provider's server."
 msgstr ""
+"பயனரின் தரவின் உரிமையை வழங்குநர் பெறவில்லை என்பதை ஒப்பந்தக் கட்சிகள் ஒப்புக்கொள்கின்றன. தங்கள்"
+" சேவையகத்தில் அல்லது வழங்குநரின் சேவையகத்தில் சேமிக்கப்பட்ட தரவின் உள்ளடக்கத்திற்கு பயனர் "
+"மட்டுமே பொறுப்பு."
 
 #: wllegal/templates/legal/documents/tos.html:376
 msgid ""
@@ -1344,10 +1702,14 @@ msgid ""
 "the Service in accordance with the Agreement. The User undertakes to fully "
 "cooperate with the Provider in such cases."
 msgstr ""
+"இந்த விதிமுறைகளை ஏற்றுக்கொள்வதன் மூலம், பயனர் தனது சொந்த ஆதாரங்களைப் பயன்படுத்தி, "
+"ஒப்பந்தத்திற்கு ஏற்ப பயனர் சேவையைப் பயன்படுத்துகிறாரா என்பதை கண்காணிக்க உரிமை உண்டு என்பதை "
+"ஒப்புக்கொள்கிறார் மற்றும் ஒப்புக்கொள்கிறார். இதுபோன்ற சந்தர்ப்பங்களில் வழங்குநருடன் முழுமையாக "
+"ஒத்துழைக்க பயனர் மேற்கொள்கிறார்."
 
 #: wllegal/templates/legal/documents/tos.html:381
 msgid "User’s Rights and Obligations"
-msgstr ""
+msgstr "பயனரின் உரிமைகள் மற்றும் கடமைகள்"
 
 #: wllegal/templates/legal/documents/tos.html:385
 msgid ""
@@ -1356,6 +1718,9 @@ msgid ""
 "modifications to the Service made by them are in compliance with applicable "
 "legal regulations."
 msgstr ""
+"பொருந்தக்கூடிய சட்ட விதிமுறைகளை மீறி பயனர் சேவையைப் பயன்படுத்தக்கூடாது. அவர்கள் செய்த "
+"சேவையில் ஏதேனும் மாற்றங்கள் பொருந்தக்கூடிய சட்ட விதிமுறைகளுக்கு இணங்குவதை உறுதி "
+"செய்வதற்கும் பயனர் முழு பொறுப்பு."
 
 #: wllegal/templates/legal/documents/tos.html:389
 msgid ""
@@ -1370,6 +1735,14 @@ msgid ""
 "expand the scope of required personal information but emphasizes the "
 "truthfulness, accuracy, and currency of the information provided by the User."
 msgstr ""
+"சேவைக்கான அணுகலைப் பெற, வழங்குநருக்கு பயனரிடமிருந்து சில அடையாள விவரங்கள் மற்றும் பிற "
+"தகவல்கள் தேவைப்படலாம், எப்போதும் படிவத்தால் தேவைப்படும் அளவிற்கு மட்டுமே. எங்கள் பயனர்களில் "
+"பெரும்பாலோர் புனைப்பெயரை மட்டுமே வழங்க வேண்டும்; இருப்பினும், விலைப்பட்டியல் வழங்கப்பட "
+"வேண்டுமானால், கூடுதல் சட்டப்பூர்வமாக தேவையான தகவல்கள் கோரப்படும். சட்டத்தால் தேவைப்படும் "
+"உண்மை, துல்லியமான மற்றும் புதுப்பித்த தகவல்களை எப்போதும் வழங்க பயனர் கடமைப்பட்டுள்ளார். "
+"புனைப்பெயரை மட்டுமே வழங்கும் பயனர்களுக்கு, அவர்கள் கூடுதல் தகவல்களை வழங்க வேண்டும் என்று "
+"அர்த்தமல்ல. இந்த விதிமுறை தேவையான தனிப்பட்ட தகவல்களின் நோக்கத்தை விரிவுபடுத்தாது, ஆனால் "
+"பயனரால் வழங்கப்பட்ட தகவல்களின் உண்மைத்தன்மை, துல்லியம் மற்றும் நாணயத்தை வலியுறுத்துகிறது."
 
 #: wllegal/templates/legal/documents/tos.html:393
 msgid ""
@@ -1379,6 +1752,10 @@ msgid ""
 "in cases where the Provider performs system outages for the reasons "
 "mentioned in Section 8.5."
 msgstr ""
+"வழங்குநரின் வேண்டுகோளின் பேரில், செயலிழப்புகளைத் தீர்ப்பதில் அல்லது சேவையில் மாற்றங்களைச் "
+"செய்வதில் தேவையான ஒத்துழைப்பை வழங்க பயனர் கடமைப்பட்டிருக்கிறார், இதில் குறிப்பிடப்பட்ட "
+"காரணங்களுக்காக வழங்குநர் கணினி செயலிழப்புகளைச் செய்யும் சந்தர்ப்பங்களில் சேவையைப் "
+"பயன்படுத்துவதற்கான கட்டுப்பாடுகளை பொறுத்துக்கொள்ள வேண்டிய கடமை உட்பட பிரிவு 8.5."
 
 #: wllegal/templates/legal/documents/tos.html:397
 msgid ""
@@ -1386,6 +1763,8 @@ msgid ""
 "Service in accordance with this Agreement, and the User is required to "
 "comply with and respect these measures."
 msgstr ""
+"இந்த ஒப்பந்தத்தின்படி சேவையைப் பாதுகாக்க பாதுகாப்பு நடவடிக்கைகளை செயல்படுத்த வழங்குநருக்கு"
+" உரிமை உண்டு, மேலும் பயனர் இந்த நடவடிக்கைகளுக்கு இணங்கவும் மதிக்கவும் வேண்டும்."
 
 #: wllegal/templates/legal/documents/tos.html:401
 msgid ""
@@ -1393,6 +1772,9 @@ msgid ""
 "terms specified in Section 6 of this Agreement, ensuring that they do not "
 "jeopardize the Service's functionality."
 msgstr ""
+"இந்த ஒப்பந்தத்தின் 6 வது பிரிவில் குறிப்பிடப்பட்டுள்ள உரிம விதிமுறைகளுக்கு ஏற்ப சேவையைப் "
+"பயன்படுத்த பயனர் கடமைப்பட்டுள்ளார், மேலும் அவர்கள் சேவையின் செயல்பாட்டை பாதிக்கவில்லை என்பதை "
+"உறுதிசெய்கிறார்கள்."
 
 #: wllegal/templates/legal/documents/tos.html:405
 msgid ""
@@ -1400,6 +1782,8 @@ msgid ""
 "right to request Support Services from the Provider, as specified in the "
 "Price List."
 msgstr ""
+"விலை பட்டியலில் பட்டியலிடப்பட்ட பணி மாறுபாட்டின் படி, விலை பட்டியலில் "
+"குறிப்பிடப்பட்டுள்ளபடி, வழங்குநரிடமிருந்து உதவி சேவைகளை கோர பயனருக்கு உரிமை உண்டு."
 
 #: wllegal/templates/legal/documents/tos.html:409
 msgid ""
@@ -1409,6 +1793,10 @@ msgid ""
 "reasonable extent to minimize the risk of third parties misusing access "
 "credentials to the User's account."
 msgstr ""
+"பணி ரகசியத்திற்கு அணுகல் நற்சான்றிதழ்களை வைத்திருக்க பயனர் தேவை, மேலும் சேவையின் "
+"பாதுகாப்பை வேறுபாடின்மை செய்யக்கூடிய எந்தவொரு செயலிலும் ஈடுபடக்கூடாது. பயனரின் கணக்கில்"
+" அணுகல் நற்சான்றிதழ்களை தவறாகப் பயன்படுத்தும் மூன்றாம் தரப்பினரின் அபாயத்தைக் குறைக்க பயனர் "
+"தங்கள் தொழில்நுட்ப உபகரணங்களை நியாயமான அளவிற்கு பாதுகாக்க வேண்டும்."
 
 #: wllegal/templates/legal/documents/tos.html:413
 msgid ""
@@ -1420,10 +1808,16 @@ msgid ""
 "be exposed to third parties due to a leak of access information, they are "
 "required to report this to the Provider."
 msgstr ""
+"இந்த பிரிவில் குறிப்பிடப்பட்டுள்ள எந்தவொரு கடமைகளையும் பயனர் மீறினால், வழங்குநர் பயனரால் "
+"ஏற்படும் எந்தவொரு சேதத்திற்கும் எந்தப் பொறுப்பையும் ஏற்கவில்லை, மேலும் வழங்குநர் அல்லது "
+"மூன்றாம் தரப்பினரால் ஏற்படும் எந்தவொரு சேதங்களுக்கும் பயனர் மட்டுமே பொறுப்பு. இந்த கடமைகளை "
+"மீறுவது இந்த ஒப்பந்தத்தை நிறுத்த வழங்குநருக்கு உரிமை உண்டு. அணுகல் செய்தி கசிவு காரணமாக "
+"மூன்றாம் தரப்பினருக்கு பணி அணுகல் வெளிப்படும் என்பதை பயனர் அறிந்தால், அவர்கள் இதை "
+"வழங்குநரிடம் புகாரளிக்க வேண்டும்."
 
 #: wllegal/templates/legal/documents/tos.html:417
 msgid "Prohibited Conduct"
-msgstr ""
+msgstr "தடைசெய்யப்பட்ட நடத்தை"
 
 #: wllegal/templates/legal/documents/tos.html:421
 msgid ""
@@ -1437,48 +1831,69 @@ msgid ""
 "another User’s account or the Provider’s servers. Violation of these "
 "obligations constitutes a material breach of the Agreement."
 msgstr ""
+"மென்பொருள் வைரச்கள் அல்லது பிற கோப்புகள் மற்றும் நிரல்களைக் கொண்டிருக்கும் பணி போர்ட்டலில் "
+"எந்தவொரு உள்ளடக்கத்தையும் பதிவேற்றுவது, அனுப்புவது அல்லது சேமிப்பது அல்லது சேமிப்பதில் "
+"பயனர் தடைசெய்யப்பட்டுள்ளது, இது வழங்குநரின் அல்லது பிற பயனர்களின் சாதனங்களின் செயல்பாட்டை "
+"அழிக்க, சேதப்படுத்தலாம் அல்லது கட்டுப்படுத்தலாம். வைத்திருக்க அல்லது விநியோகிக்க "
+"சட்டவிரோதமான பணி போர்ட்டலில் உள்ளடக்கத்தைப் பதிவேற்ற பயனர் ஏற்பு பெறவில்லை, மூன்றாம் தரப்பு "
+"பதிப்புரிமைகளை மீறுவது, குற்றச் செயல்களின் ஒரு பகுதியாகும், சேவையின் மூலம் ச்பேமை "
+"பரப்புகிறது, அல்லது மற்றொரு பயனரின் கணக்கை அணுக முயற்சிக்கிறது அல்லது வழங்குநரின் "
+"சேவையகங்கள். இந்த கடமைகளை மீறுவது ஒப்பந்தத்தின் பொருள் மீறலாகும்."
 
 #: wllegal/templates/legal/documents/tos.html:425
 msgid ""
 "The User particularly agrees to refrain from the following activities while "
 "using the Services, especially through the Services:"
 msgstr ""
+"சேவைகளைப் பயன்படுத்தும் போது, குறிப்பாக சேவைகள் மூலம் பின்வரும் செயல்பாடுகளைத் தவிர்க்க "
+"பயனர் குறிப்பாக ஒப்புக்கொள்கிறார்:"
 
 #: wllegal/templates/legal/documents/tos.html:429
 msgid ""
 "Disseminating or offering any content that violates applicable laws at the "
 "national, EU, or international level;"
 msgstr ""
+"தேசிய, ஐரோப்பிய ஒன்றியம் அல்லது பன்னாட்டு மட்டத்தில் பொருந்தக்கூடிய சட்டங்களை மீறும் எந்தவொரு"
+" உள்ளடக்கத்தையும் பரப்புதல் அல்லது வழங்குதல்;"
 
 #: wllegal/templates/legal/documents/tos.html:433
 msgid ""
 "Disseminating or offering any illegally obtained content or content whose "
 "dissemination would be illegal;"
 msgstr ""
+"சட்டவிரோதமாக பெறப்பட்ட உள்ளடக்கம் அல்லது உள்ளடக்கத்தை பரப்புதல் அல்லது வழங்குவது "
+"சட்டவிரோதமானது;"
 
 #: wllegal/templates/legal/documents/tos.html:437
 msgid ""
 "Disseminating or offering any pornographic, obscene, or otherwise vulgar "
 "content;"
 msgstr ""
+"எந்தவொரு ஆபாச, ஆபாசமான, அல்லது மோசமான உள்ளடக்கத்தையும் பரப்புதல் அல்லது வழங்குதல்;"
 
 #: wllegal/templates/legal/documents/tos.html:441
 msgid ""
 "Engaging in any services or activities that are contrary to applicable laws "
 "at the national, EU, or international level;"
 msgstr ""
+"தேசிய, ஐரோப்பிய ஒன்றியம் அல்லது பன்னாட்டு மட்டத்தில் பொருந்தக்கூடிய சட்டங்களுக்கு முரணான "
+"எந்தவொரு சேவைகள் அல்லது செயல்பாடுகளிலும் ஈடுபடுவது;"
 
 #: wllegal/templates/legal/documents/tos.html:445
 msgid ""
 "Engaging in activities that bypass intellectual property protection elements "
 "(such as cracks, warez, etc.);"
 msgstr ""
+"அறிவுசார் சொத்து பாதுகாப்பு கூறுகளை (விரிசல், கிடங்கு போன்றவை) தவிர்த்து வரும் "
+"செயல்களில் ஈடுபடுவது;"
 
 #: wllegal/templates/legal/documents/tos.html:449
 msgid ""
 "Sending unsolicited commercial messages and other spam or other illegal "
 "harassment of third parties;"
 msgstr ""
+"கோரப்படாத வணிகச் செய்திகள் மற்றும் பிற ச்பேம் அல்லது மூன்றாம் தரப்பினரின் பிற சட்டவிரோத "
+"துன்புறுத்தல்களை அனுப்புதல்;"
 
 #: wllegal/templates/legal/documents/tos.html:453
 msgid ""
@@ -1487,81 +1902,104 @@ msgid ""
 "impolite, or otherwise inappropriate content that unlawfully or illegally "
 "infringes on the personal rights of third parties;"
 msgstr ""
+"மூன்றாம் தரப்பினரின் தனிப்பட்ட உரிமைகளை சட்டவிரோதமாக அல்லது சட்டவிரோதமாக மீறும் எந்தவொரு "
+"தாக்குதல்கள், அல்லது எந்தவொரு தாக்குதல், சிறப்பான அல்லது பொருத்தமற்ற உள்ளடக்கம் உள்ளிட்ட "
+"மூன்றாம் தரப்பினரின் உரிமைகளை மீறக்கூடிய எந்தவொரு உள்ளடக்கத்தையும் வெளியிடுவது அல்லது "
+"பரப்புதல்;"
 
 #: wllegal/templates/legal/documents/tos.html:457
 msgid ""
 "Disseminating or offering any content that infringes on third-party "
 "intellectual or industrial property rights;"
 msgstr ""
+"மூன்றாம் தரப்பு அறிவுசார் அல்லது தொழில்துறை சொத்துரிமைகளை மீறும் எந்தவொரு உள்ளடக்கத்தையும் "
+"பரப்புதல் அல்லது வழங்குதல்;"
 
 #: wllegal/templates/legal/documents/tos.html:461
 msgid ""
 "Operating or disseminating any tools that may be misused to breach network, "
 "device, or service security;"
 msgstr ""
+"பிணையம், சாதனம் அல்லது பணி பாதுகாப்பை மீறுவதற்கு தவறாகப் பயன்படுத்தக்கூடிய எந்தவொரு "
+"கருவியையும் இயக்குதல் அல்லது பரப்புதல்;"
 
 #: wllegal/templates/legal/documents/tos.html:465
 msgid "Overburdening the Provider's or third-party servers;"
-msgstr ""
+msgstr "வழங்குநரின் அல்லது மூன்றாம் தரப்பு சேவையகங்களுக்கு அதிக சுமை;"
 
 #: wllegal/templates/legal/documents/tos.html:469
 msgid ""
 "Engaging in any activities that could harm the Provider, its reputation, or "
 "its assets;"
 msgstr ""
+"வழங்குநர், அதன் நற்பெயருக்கு அல்லது அதன் சொத்துக்களுக்கு தீங்கு விளைவிக்கும் எந்தவொரு "
+"செயலிலும் ஈடுபடுவது;"
 
 #: wllegal/templates/legal/documents/tos.html:473
 msgid ""
 "Using any means, servers, devices, or elements provided by the Provider in a "
 "manner not expressly agreed upon in these Terms or the Agreement;"
 msgstr ""
+"இந்த விதிமுறைகள் அல்லது ஒப்பந்தத்தில் வெளிப்படையாக ஒப்புக் கொள்ளப்படாத விதத்தில் வழங்குநரால் "
+"வழங்கப்பட்ட சேவையகங்கள், சாதனங்கள் அல்லது கூறுகளைப் பயன்படுத்துதல்;"
 
 #: wllegal/templates/legal/documents/tos.html:477
 msgid ""
 "Conducting activities that would disclose any content to third parties that:"
 msgstr ""
+"மூன்றாம் தரப்பினருக்கு எந்தவொரு உள்ளடக்கத்தையும் வெளிப்படுத்தும் நடவடிக்கைகளை நடத்துதல்:"
 
 #: wllegal/templates/legal/documents/tos.html:481
 msgid "Contains prohibited applications and scripts;"
-msgstr ""
+msgstr "தடைசெய்யப்பட்ட பயன்பாடுகள் மற்றும் ச்கிரிப்ட்களைக் கொண்டுள்ளது;"
 
 #: wllegal/templates/legal/documents/tos.html:485
 msgid "Overloads database systems or causes malfunction of servers;"
 msgstr ""
+"தரவுத்தள அமைப்புகளை ஓவர்லோட் செய்கிறது அல்லது சேவையகங்களின் செயலிழப்பை ஏற்படுத்துகிறது;"
 
 #: wllegal/templates/legal/documents/tos.html:489
 msgid ""
 "Overburdens the infrastructure, connection lines, or hardware of the "
 "Provider or third parties;"
 msgstr ""
+"வழங்குநர் அல்லது மூன்றாம் தரப்பினரின் உள்கட்டமைப்பு, இணைப்பு கோடுகள் அல்லது வன்பொருள் "
+"ஆகியவற்றை அதிகப்படுத்துகிறது;"
 
 #: wllegal/templates/legal/documents/tos.html:493
 msgid ""
 "Involves music, sound, image, film, or similar files for which the User "
 "lacks distribution rights;"
 msgstr ""
+"பயனருக்கு விநியோக உரிமைகள் இல்லாத இசை, ஒலி, படம், திரைப்படம் அல்லது ஒத்த கோப்புகளை "
+"உள்ளடக்கியது;"
 
 #: wllegal/templates/legal/documents/tos.html:497
 msgid ""
 "Threatens the privacy or security of other Internet users or the security of "
 "computer systems (e.g., through viruses, password generators, etc.);"
 msgstr ""
+"பிற இணைய பயனர்களின் தனியுரிமை அல்லது பாதுகாப்பை அச்சுறுத்துகிறது அல்லது கணினி "
+"அமைப்புகளின் பாதுகாப்பை (எ.கா., வைரச்கள், கடவுச்சொல் செனரேட்டர்கள் போன்றவை);"
 
 #: wllegal/templates/legal/documents/tos.html:501
 msgid ""
 "Is part of the provided Service without written permission from the Provider "
 "to share it with third parties;"
 msgstr ""
+"மூன்றாம் தரப்பினருடன் பகிர்ந்து கொள்ள வழங்குநரிடமிருந்து எழுத்துப்பூர்வ அனுமதியின்றி "
+"வழங்கப்பட்ட சேவையின் ஒரு பகுதியாகும்;"
 
 #: wllegal/templates/legal/documents/tos.html:505
 msgid ""
 "Gives the impression that the User acts on behalf of the Provider without "
 "authorization;"
 msgstr ""
+"ஏற்பு இல்லாமல் பயனர் வழங்குநரின் சார்பாக செயல்படுகிறார் என்ற தோற்றத்தை அளிக்கிறது;"
 
 #: wllegal/templates/legal/documents/tos.html:509
 msgid "May harm any third-party rights."
-msgstr ""
+msgstr "எந்தவொரு மூன்றாம் தரப்பு உரிமைகளுக்கும் தீங்கு விளைவிக்கும்."
 
 #: wllegal/templates/legal/documents/tos.html:513
 msgid ""
@@ -1571,6 +2009,10 @@ msgid ""
 "public morality, ethical principles, or Internet usage rules, or is aiding "
 "in or committing criminal activities."
 msgstr ""
+"வழங்குநர், முன் அறிவிப்பின்றி, குறுக்கீடு, வரம்பை அல்லது இடைநீக்கம் செய்யலாம் அல்லது பயனர் "
+"விதிமுறைகளை மீறுவதாக நியாயமான முறையில் நம்பினால், பொருந்தக்கூடிய சட்டங்கள், பொது "
+"ஒழுக்கநெறி, நெறிமுறைக் கொள்கைகள் அல்லது இணைய பயன்பாட்டிற்கு மாறாக சேவைகளைப் "
+"பயன்படுத்துகிறார் விதிகள், அல்லது குற்றச் செயல்களுக்கு உதவுவது அல்லது செய்யப்படுகிறது."
 
 #: wllegal/templates/legal/documents/tos.html:517
 msgid ""
@@ -1580,6 +2022,11 @@ msgid ""
 "invoicing) or excessive usage, particularly through automated software and "
 "bots that overload the Provider’s servers or other technical facilities."
 msgstr ""
+"வழங்குநரின் உரிமைகள் (எ.கா., ஆள்மாறாட்டம், மோசடி விலைப்பட்டியல்) அல்லது அதிகப்படியான "
+"பயன்பாடு, குறிப்பாக தானியங்கி மென்பொருள் மற்றும் போட்ச் மூலம், சேவைகள் அங்கீகரிக்கப்படாத "
+"குறுக்கீட்டிற்காக சேவைகள் தவறாகப் பயன்படுத்தப்பட்டால், முன் அறிவிப்பு இல்லாமல், குறுக்கீடு, "
+"கட்டுப்படுத்துதல் அல்லது இடைநீக்கம் செய்யலாம். வழங்குநரின் சேவையகங்கள் அல்லது பிற தொழில்நுட்ப "
+"வசதிகளை ஓவர்லோட் செய்யுங்கள்."
 
 #: wllegal/templates/legal/documents/tos.html:521
 msgid ""
@@ -1588,6 +2035,10 @@ msgid ""
 "responsible for any damages resulting from the interruption and cannot claim "
 "any compensation from the Provider for such damages."
 msgstr ""
+"வழங்குநரால் நியாயப்படுத்தப்பட்ட குறுக்கீடு, வரம்பு அல்லது சேவைகளை இடைநிறுத்தினால், "
+"குறுக்கீட்டின் விளைவாக ஏற்படும் எந்தவொரு சேதத்திற்கும் பயனர் மட்டுமே பொறுப்பு மற்றும் அத்தகை"
+"ய சேதங்களுக்கு வழங்குநரிடமிருந்து எந்தவொரு இழப்பீட்டையும் கோர முடியாது என்று பயனர் "
+"வெளிப்படையாக ஒப்புக்கொள்கிறார்."
 
 #: wllegal/templates/legal/documents/tos.html:525
 msgid ""
@@ -1597,6 +2048,11 @@ msgid ""
 "or ensuring the installation and execution of tools and scripts on the "
 "virtual server that verify and check the software resources used."
 msgstr ""
+"பயன்படுத்தப்பட்ட மென்பொருள் தீர்வை சரிபார்க்க அல்லது பணிகள் மூலம் ஒதுக்கப்பட்ட மென்பொருள் வளங்கள்"
+" மற்றும் உள்ளடக்கத்தின் உரிமத்தை தணிக்கை செய்ய, வழங்குநருக்கு முழு ஒத்துழைப்பையும் வழங்க "
+"பயனர் ஒப்புக்கொள்கிறார். பயன்படுத்தப்படும் மென்பொருள் வளங்களை சரிபார்த்து சரிபார்க்கும் "
+"மெய்நிகர் சேவையகத்தில் கருவிகள் மற்றும் ச்கிரிப்ட்களை நிறுவுதல் மற்றும் செயல்படுத்துவது "
+"ஆகியவற்றை இயக்குவது அல்லது உறுதிப்படுத்துவது இதில் அடங்கும்."
 
 #: wllegal/templates/legal/documents/tos.html:529
 msgid ""
@@ -1610,10 +2066,17 @@ msgid ""
 "does not affect the Provider’s right to claim damages in addition to the "
 "penalty."
 msgstr ""
+"வழங்குநர், அதன் வாடிக்கையாளர்கள், கூட்டாளர்கள் அல்லது மூன்றாம் தரப்பினருக்கு ஏற்படும் எந்தவொரு"
+" சேதத்திற்கும் பொறுப்பாக இருக்க பயனர் வெளிப்படையாக ஒப்புக்கொள்கிறார். இந்த விதிமுறைகளின் "
+"10 வது பிரிவின் விதிகளை மீறும் எந்தவொரு சட்ட நடவடிக்கைகளின் விளைவுகளையும் இந்த பொறுப்பு"
+" குறிப்பாக உள்ளடக்கியது. தவறாகப் பயன்படுத்துவதைத் தடுக்க வழங்குநர் பணி அமைப்புகளை "
+"சரிசெய்யலாம் என்பதையும் பயனர் ஒப்புக்கொள்கிறார். பயனரால் மீறல் ஏற்பட்டால், பயன்படுத்தப்படாத பணி"
+" காலம் திருப்பித் தரப்படாது, மேலும் தானாகவே ஒரு முறை ஒப்பந்த தண்டம் என்று கருதப்படும். இந்"
+"த தண்டம் அபராதத்திற்கு கூடுதலாக சேதங்களை கோருவதற்கான வழங்குநரின் உரிமையை பாதிக்காது."
 
 #: wllegal/templates/legal/documents/tos.html:534
 msgid "Termination of the Agreement"
-msgstr ""
+msgstr "ஒப்பந்தத்தை முடித்தல்"
 
 #: wllegal/templates/legal/documents/tos.html:538
 msgid ""
@@ -1622,6 +2085,9 @@ msgid ""
 "(either the Provider or the User) with liquidation, termination of the "
 "Agreement, or by mutual agreement of the Parties."
 msgstr ""
+"ஒப்பந்தத்திலிருந்து திரும்பப் பெறுதல், ஒப்புக் கொள்ளப்பட்ட காலத்தின் காலாவதி, சட்டப்பூர்வ "
+"நிறுவனத்தை (வழங்குநர் அல்லது பயனர்) கலைப்பு, ஒப்பந்தத்தை முடித்தல் அல்லது கட்சிகளின் பரச்பர "
+"ஒப்பந்தத்தின் மூலம் ஒப்பந்த உறவு நிறுத்தலாம்."
 
 #: wllegal/templates/legal/documents/tos.html:542
 msgid ""
@@ -1629,12 +2095,17 @@ msgid ""
 "reason. The notice period is three months, starting from the first day of "
 "the calendar month following the delivery of the notice to the User."
 msgstr ""
+"வழங்குநர் ஒரு காரணத்தை வழங்காமல் எந்த நேரத்திலும் ஒப்பந்தத்தை நிறுத்தலாம். அறிவிப்பு காலம் "
+"மூன்று மாதங்கள், பயனருக்கு அறிவிப்பு வழங்கப்பட்டதைத் தொடர்ந்து காலண்டர் மாதத்தின் முதல் "
+"நாளிலிருந்து தொடங்கி."
 
 #: wllegal/templates/legal/documents/tos.html:546
 msgid ""
 "The User may terminate the Agreement under the conditions specified in "
 "Section 8.1 of these Terms."
 msgstr ""
+"இந்த விதிமுறைகளின் பிரிவு 8.1 இல் குறிப்பிடப்பட்டுள்ள நிபந்தனைகளின் கீழ் பயனர் ஒப்பந்தத்தை "
+"நிறுத்தலாம்."
 
 #: wllegal/templates/legal/documents/tos.html:550
 msgid ""
@@ -1644,6 +2115,10 @@ msgid ""
 "Agreement. The withdrawal becomes effective the day after the User receives "
 "the notice of withdrawal."
 msgstr ""
+"இந்த விதிமுறைகள் அல்லது ஒப்பந்தத்தின் கீழ் பயனர் பொருள் ரீதியாகவோ அல்லது மீண்டும் மீண்டும் தங்கள் "
+"கடமைகளை மீறவும், மீறல் குறித்த அறிவிப்பை வழங்கியதிலிருந்து 14 நாட்களுக்குள் மீறலை "
+"சரிசெய்யத் தவறினால், வழங்குநர் ஒப்பந்தத்திலிருந்து விலகலாம். திரும்பப் பெறுவது பயனர் "
+"திரும்பப் பெறுவதற்கான அறிவிப்பைப் பெற்ற மறுநாளே பயனுள்ளதாக இருக்கும்."
 
 #: wllegal/templates/legal/documents/tos.html:554
 msgid ""
@@ -1652,6 +2127,9 @@ msgid ""
 "withdraw from the Agreement and terminate the provision of the Service as "
 "soon as such a breach is discovered."
 msgstr ""
+"இந்த விதிமுறைகளின் கீழ் அல்லது ஒப்பந்தத்தின் கீழ் பயனர் தங்கள் கடமைகளை மீறினால், குறிப்பாக "
+"தீவிரமான முறையில் ஒப்பந்தத்திலிருந்து விலகி, அத்தகைய மீறல் கண்டுபிடிக்கப்பட்டவுடன் சேவையை "
+"வழங்குவதை நிறுத்த வழங்குநருக்கு உரிமை உண்டு."
 
 #: wllegal/templates/legal/documents/tos.html:558
 msgid ""
@@ -1659,6 +2137,9 @@ msgid ""
 "in a particularly serious manner, the User is entitled to immediately "
 "withdraw from the Agreement as soon as such a breach is discovered."
 msgstr ""
+"வழங்குநர் இந்த விதிமுறைகளின் கீழ் அல்லது ஒப்பந்தத்தின் கீழ் அதன் கடமைகளை குறிப்பாக தீவிரமான "
+"முறையில் மீறினால், அத்தகைய மீறல் கண்டுபிடிக்கப்பட்டவுடன் ஒப்பந்தத்திலிருந்து உடனடியாக "
+"திரும்பப் பெற பயனருக்கு உரிமை உண்டு."
 
 #: wllegal/templates/legal/documents/tos.html:562
 msgid ""
@@ -1668,10 +2149,13 @@ msgid ""
 "including the provisions of Sections 1912 (2), 1923, 1969, 1977, 1978, 1979, "
 "2001, 2002, 2003, 2106, 2107, 2110, and 2111 of the Czech Civil Code."
 msgstr ""
+"இந்த பிரிவில் வெளிப்படையாகக் கூறப்பட்ட வழக்குகளைத் தவிர வேறு எந்தக் கட்சியும் ஒப்பந்தத்தை "
+"நிறுத்தவோ அல்லது முடிக்கவோ கூடாது. 1912 (2), 1923, 1969, 1977, 1978, 1979, "
+"2001, 2002, 2003, 2106, 2107, செக் குடிமை கோட் 2110, மற்றும் 2111."
 
 #: wllegal/templates/legal/documents/tos.html:566
 msgid "Limitation of Liability"
-msgstr ""
+msgstr "பொறுப்பின் வரம்பு"
 
 #: wllegal/templates/legal/documents/tos.html:570
 msgid ""
@@ -1682,10 +2166,15 @@ msgid ""
 "other intangible losses (even if the Provider has been advised of the "
 "possibility of such damages), resulting from:"
 msgstr ""
+"இழந்த இலாபங்கள், இழந்த வருவாய், தரவு இழப்பு, பொருள் சேதங்கள், அல்லது முன்மாதிரியான அல்லது"
+" தண்டனையான சேதங்கள் உள்ளிட்ட எந்தவொரு மறைமுக, சிறப்பு அல்லது பின்விளைவு சேதங்களும் போன்ற "
+"சேவைகளை வழங்குவதன் மூலம் எழும் மறைமுக சேதங்களுக்கு வழங்குநர் பொறுப்பேற்க மாட்டார், ஆனால் "
+"மற்றொன்று அருவருப்பான இழப்புகளுக்கான சேதங்கள் (இதுபோன்ற சேதங்களின் சாத்தியம் குறித்து "
+"வழங்குநருக்கு அறிவுறுத்தப்பட்டிருந்தாலும்), இதன் விளைவாக: இதன் விளைவாக:"
 
 #: wllegal/templates/legal/documents/tos.html:575
 msgid "Use or inability to use the Service;"
-msgstr ""
+msgstr "சேவையைப் பயன்படுத்த அல்லது இயலாமை;"
 
 #: wllegal/templates/legal/documents/tos.html:578
 msgid ""
@@ -1693,6 +2182,9 @@ msgid ""
 "data, information, or services purchased or obtained or messages received, "
 "or transactions entered into through or from the Service;"
 msgstr ""
+"எந்தவொரு பொருட்கள், தரவு, தகவல்கள் அல்லது சேவைகள் அல்லது பெறப்பட்ட செய்திகள் அல்லது "
+"சேவையின் மூலம் அல்லது சேவையின் மூலம் உள்ளிடப்பட்ட பரிவர்த்தனைகள் ஆகியவற்றிலிருந்து எழும் "
+"மாற்று பொருட்கள் மற்றும் சேவைகளைப் பெறுவதற்கான செலவு;"
 
 #: wllegal/templates/legal/documents/tos.html:581
 msgid ""
@@ -1700,12 +2192,12 @@ msgid ""
 "including any outcomes of third-party solutions or services related to the "
 "Service;"
 msgstr ""
+"சேவையை வழங்குவதில் ஈடுபட்டுள்ள எந்தவொரு மூன்றாம் தரப்பினரின் அறிக்கைகள் அல்லது செயல்கள், "
+"மூன்றாம் தரப்பு தீர்வுகள் அல்லது பணி தொடர்பான சேவைகளின் எந்தவொரு விளைவுகளும் அடங்கும்;"
 
 #: wllegal/templates/legal/documents/tos.html:584
-#, fuzzy
-#| msgid "means translation project operated on the Service"
 msgid "Any other matters related to the Service."
-msgstr "சேவையில் இயக்கப்படும் மொழிபெயர்ப்பு திட்டம்"
+msgstr "பணி தொடர்பான வேறு எந்த விசயங்களும்."
 
 #: wllegal/templates/legal/documents/tos.html:589
 msgid ""
@@ -1717,6 +2209,13 @@ msgid ""
 "war, or changes in the political situation that prevent or unduly hinder the "
 "exercise of rights and obligations arising from this Agreement."
 msgstr ""
+"ஃபோர்ச் மசூரின் சந்தர்ப்பங்களில், கட்சிகள் தங்கள் ஒப்பந்தக் கடமைகளை தற்காலிகமாக நிறுத்தி வைக்க "
+"உரிமை உண்டு, மேலும் இந்த ஒப்பந்தத்தால் விதிக்கப்பட்ட கடமைகளை நிறைவேற்றுவதில் எந்தவொரு "
+"செயல்திறன் அல்லாத அல்லது நேரந்தவறுகை ஒப்பந்தத்தை மீறுவதாக கருதப்படாது. இந்த "
+"ஒப்பந்தத்திலிருந்து எழும் உரிமைகள் மற்றும் கடமைகளைப் பயன்படுத்துவதைத் தடுக்கும் அல்லது "
+"தேவையற்ற முறையில் தடையாக இருக்கும் இயற்கை பேரழிவுகள், போர், அல்லது அரசியல் சூழ்நிலையில் "
+"ஏற்படும் மாற்றங்கள் போன்ற செக் சட்டத்தின்படி பொறுப்பு விலக்கப்பட்ட சூழ்நிலைகளை ஃபோர்ச் மசூர் "
+"உள்ளடக்கியது."
 
 #: wllegal/templates/legal/documents/tos.html:593
 msgid ""
@@ -1727,6 +2226,11 @@ msgid ""
 "back up all of their data stored within the Service at another geographical "
 "location(s)."
 msgstr ""
+"ஒப்பந்தத்தில் நுழைவதன் மூலம், வழங்குநரின் சிறந்த முயற்சிகள் இருந்தபோதிலும், வழங்குநரின் "
+"கட்டுப்பாட்டிற்கு அப்பாற்பட்ட சூழ்நிலைகள் (எ.கா., இணைய இணைப்பு செயலிழப்பு) காரணமாக "
+"சேவையை தற்காலிகமாக கிடைக்கக்கூடும் என்பதை பயனர் ஒப்புக்கொள்கிறார். எனவே, பயனர் "
+"ஒப்புக்கொள்கிறார் மற்றும் சேவையில் சேமித்து வைக்கப்பட்டுள்ள அனைத்து தரவுகளையும் மற்றொரு "
+"புவியியல் இருப்பிடத்தில் (கள்) காப்புப் பிரதி எடுக்கவும் மேற்கொள்கிறார்."
 
 #: wllegal/templates/legal/documents/tos.html:597
 msgid ""
@@ -1735,12 +2239,14 @@ msgid ""
 "cancel their order or to request a refund of any fees paid, unless otherwise "
 "expressly agreed between the Parties in individual cases."
 msgstr ""
+"பயனர் சேவையைப் பயன்படுத்துகிறார். பிற மென்பொருளுடன் பொருந்தாத தன்மை, வன்பொருள் உள்ளமைவுகள்"
+" அல்லது ஏதேனும் குறைபாடுகள் அல்லது தவறுகள் பயனருக்கு தங்கள் ஆர்டரை ரத்து செய்ய அல்லது "
+"செலுத்தப்பட்ட கட்டணங்களைத் திருப்பித் தருமாறு கோருவதற்கு உரிமை இல்லை, இல்லையெனில் தனிப்பட்"
+"ட நிகழ்வுகளில் கட்சிகளுக்கு இடையில் வெளிப்படையாக ஒப்புக் கொள்ளப்படாவிட்டால்."
 
 #: wllegal/templates/legal/documents/tos.html:601
-#, fuzzy
-#| msgid "The Personal Data retention"
 msgid "Personal Data Protection"
-msgstr "தனிப்பட்ட தரவு தக்கவைப்பு"
+msgstr "தனிப்பட்ட தரவு பாதுகாப்பு"
 
 #: wllegal/templates/legal/documents/tos.html:605
 #, python-format
@@ -1752,6 +2258,11 @@ msgid ""
 "communications as defined in the <a href=\"%(privacy_url)s\">Privacy Policy</"
 "a>."
 msgstr ""
+"சேவையை வழங்குதல், அதன் தரத்தை மேம்படுத்துதல், சட்டபூர்வமான கடமைகளை நிறைவேற்றுதல் மற்றும் "
+"வழங்குநரின் முறையான நலன்களுக்காக (எ.கா., சேவையக பாதுகாப்பு மற்றும் ஒருமைப்பாட்டை "
+"பராமரித்தல்) அல்லது வரையறுக்கப்பட்ட வணிக தகவல்தொடர்புகளை அனுப்புவதற்காக தேர்ந்தெடுக்கப்பட்ட "
+"நிகழ்வுகளில் மட்டுமே வழங்குநர் பயனரிடமிருந்து தரவை சேகரிக்கிறார் <a href="
+"\"%(privacy_url)s\"> தனியுரிமைக் கொள்கை </a> இல்."
 
 #: wllegal/templates/legal/documents/tos.html:609
 msgid ""
@@ -1759,9 +2270,12 @@ msgid ""
 "The User declares that they consider this encryption method sufficiently "
 "secure."
 msgstr ""
+"சேவையில் உள்ள அனைத்து தகவல்தொடர்புகளும் SSL நெறிமுறையைப் பயன்படுத்தி குறியாக்கம் "
+"செய்யப்படுகின்றன. இந்த குறியாக்க முறையை போதுமான அளவு பாதுகாப்பாக கருதுவதாக பயனர் "
+"அறிவிக்கிறார்."
 
 #: wllegal/templates/legal/documents/tos.html:613
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "The Provider commits not to provide any information submitted by the User "
 "during the registration of their User account or any other personal data "
@@ -1769,6 +2283,10 @@ msgid ""
 "defined in this Agreement and the <a href=\"%(privacy_url)s\">Privacy "
 "Policy</a>."
 msgstr ""
+"வழங்குநர் தங்கள் பயனர் கணக்கை பதிவு செய்யும் போது அல்லது பயனரால் வழங்கப்பட்ட வேறு எந்தவொரு "
+"தனிப்பட்ட தரவையும் இந்த ஒப்பந்தத்தில் வரையறுக்கப்பட்டுள்ள நோக்கங்களுக்காக எந்தவொரு மூன்றாம் "
+"தரப்பினருக்கும் வழங்கிய வேறு எந்த தகவலையும் வழங்க வேண்டாம் என்று உறுதியளிக்கிறார் மற்றும் "
+"<a href=\"%( privacy_url) s \"> தனியுரிமைக் கொள்கை </a>."
 
 #: wllegal/templates/legal/documents/tos.html:617
 msgid ""
@@ -1778,18 +2296,27 @@ msgid ""
 "technical cookies, for which explicit consent is not required under current "
 "legislation."
 msgstr ""
+"வழங்குநரின் வலைத்தளம் மற்றும் வலை பயன்பாடு குக்கீகளையும் பயன்படுத்துகின்றன. சேவைகள் "
+"பிரத்தியேகமாக வழங்குநரிடமிருந்து அமர்வு குக்கீகளைப் பயன்படுத்துகின்றன, மேலும் மூன்றாம் "
+"தரப்பு குக்கீகளை ஒருபோதும் பயன்படுத்த வேண்டாம். செயல்பாடு மற்றும் வகையைப் பொறுத்தவரை, "
+"வழங்குநர் செயல்பாட்டு/தொழில்நுட்ப குக்கீகளை மட்டுமே பயன்படுத்துகிறார், இதற்காக தற்போதைய "
+"சட்டத்தின் கீழ் வெளிப்படையான ஒப்புதல் தேவையில்லை."
 
 #: wllegal/templates/legal/documents/tos.html:625
 msgid ""
 "The Parties commit to maintaining the confidentiality of all information "
 "learned during the contractual relationship established by this Agreement."
 msgstr ""
+"இந்த ஒப்பந்தத்தால் நிறுவப்பட்ட ஒப்பந்த உறவின் போது கற்றுக்கொண்ட அனைத்து தகவல்களின் "
+"இரகசியத்தன்மையை பராமரிக்க கட்சிகள் உறுதியளிக்கின்றன."
 
 #: wllegal/templates/legal/documents/tos.html:629
 msgid ""
 "The User’s rights arising from the Agreement and these Terms cannot be "
 "assigned without the prior written consent of the Provider."
 msgstr ""
+"ஒப்பந்தத்திலிருந்து எழும் பயனரின் உரிமைகள் மற்றும் வழங்குநரின் முன் எழுத்துப்பூர்வ "
+"அனுமதியின்றி இந்த விதிமுறைகளை ஒதுக்க முடியாது."
 
 #: wllegal/templates/legal/documents/tos.html:633
 msgid ""
@@ -1797,6 +2324,9 @@ msgid ""
 "business entities and that they are entering into this Agreement within the "
 "scope of their business activities."
 msgstr ""
+"சந்தேகத்தைத் தவிர்ப்பதற்காக, கட்சிகள் அவர்கள் வணிக நிறுவனங்கள் என்பதையும், அவர்கள் தங்கள் வணிக "
+"நடவடிக்கைகளின் எல்லைக்குள் இந்த ஒப்பந்தத்தில் நுழைகிறார்கள் என்பதையும் வெளிப்படையாக "
+"உறுதிப்படுத்துகிறார்கள்."
 
 #: wllegal/templates/legal/documents/tos.html:637
 msgid ""
@@ -1807,6 +2337,12 @@ msgid ""
 "effort to amend the Agreement by replacing the invalid, unenforceable, or "
 "ineffective provision with a new one that reflects the original intent."
 msgstr ""
+"இந்த ஒப்பந்தத்தின் எந்தவொரு விதிமுறையும் அல்லது இந்த விதிமுறைகள் செல்லாதவை, பயனற்றவை "
+"அல்லது செயல்படுத்த முடியாதவை என்றால், அது ஒப்பந்தத்தின் மீதமுள்ள விதிகளின் அல்லது இந்த "
+"விதிமுறைகளின் செல்லுபடியாகும் தன்மை, அமலாக்க அல்லது செயல்திறனை பாதிக்காது. அவ்வாறான "
+"சந்தர்ப்பத்தில், அசல் நோக்கத்தை பிரதிபலிக்கும் புதிய ஒன்றைக் கொண்டு செல்லாத, செயல்படுத்த "
+"முடியாத, அல்லது பயனற்ற ஏற்பாட்டை மாற்றுவதன் மூலம் ஒப்பந்தத்தை திருத்துவதற்கான அனைத்து "
+"முயற்சிகளும் கட்சிகள் வழங்கப்படும்."
 
 #: wllegal/templates/legal/documents/tos.html:641
 msgid ""
@@ -1826,6 +2362,18 @@ msgid ""
 "Parties. The Parties irrevocably agree not to contest the enforcement of the "
 "arbitration award in any jurisdiction."
 msgstr ""
+"இந்த விதிமுறைகள் ஐரோப்பிய ஒன்றியத்தின் உறுப்பினரான செக் குடியரசின் சட்டத்தால் "
+"நிர்வகிக்கப்படுகின்றன. எவ்வாறாயினும், கட்சிகள் 1764, 1765, 1793 முதல் 1795, 2050, "
+"2389A முதல் 2389F, 2389T, மற்றும் செக் குடிமை கோட் 2389U பிரிவுகளின் விதிகளை "
+"அதிகபட்சமாக விலக்குகின்றன. கட்சிகளால் இணக்கமாக தீர்க்க முடியாத ஒப்பந்தத்தின் செயல்திறன் "
+"அல்லது விளக்கம் தொடர்பாக எழும் எந்தவொரு சர்ச்சையும் இறுதியாக செக் குடியரசின் பொருளாதார "
+"அறையின் நடுவர் நீதிமன்றத்திலும், செக் குடியரசின் விவசாய அறை மூன்று நடுவர்களாலும் நடுவர் "
+"மூலம் தீர்க்கப்படும் இந்த நடுவர் நீதிமன்றத்தின் விதிகளின்படி நியமிக்கப்பட்டுள்ளது. ஒவ்வொரு "
+"கட்சியும் ஒரு நடுவரை நியமிக்கிறது, மேலும் இரண்டு நடுவர்களும் 30 நாட்களுக்குள் மூன்றாவது "
+"நடுவர் மீது உடன்படுவார்கள். மேற்கண்ட காலத்திற்குள் இரண்டு நடுவர்களும் மூன்றாவது நடுவர் மீது "
+"உடன்படத் தவறினால், நடுவர் நீதிமன்றத்தின் தலைவர் மூன்றாவது நடுவர் நியமிப்பார். நடுவர் பட்டம் "
+"இறுதி மற்றும் கட்சிகளுக்கு பிணைப்பு. எந்தவொரு அதிகார வரம்பிலும் நடுவர் விருதை "
+"அமல்படுத்துவதில் போட்டியிட வேண்டாம் என்று கட்சிகள் மாற்றமுடியாமல் ஒப்புக்கொள்கின்றன."
 
 #: wllegal/templates/legal/documents/tos.html:645
 msgid ""
@@ -1836,14 +2384,15 @@ msgid ""
 "the English version and any translated version, the English version shall "
 "prevail in all matters."
 msgstr ""
+"இந்த விதிமுறைகளின் அதிகாரப்பூர்வ பதிப்பு ஆங்கிலத்தில் தயாரிக்கப்பட்டு, ஒரே பிணைப்பு "
+"பதிப்பாக கருதப்படுகிறது. பிற மொழிகளில் மொழிபெயர்க்கப்பட்ட இந்த விதிமுறைகளின் எந்த "
+"பதிப்புகளும் பயனரின் வசதிக்காக மட்டுமே வழங்கப்படுகின்றன, மேலும் சட்ட ஆற்றல் இல்லை. ஆங்கில "
+"பதிப்பிற்கும் எந்த மொழிபெயர்க்கப்பட்ட பதிப்பிற்கும் இடையில் ஏதேனும் முரண்பாடுகள் அல்லது "
+"மோதல்கள் ஏற்பட்டால், ஆங்கில பதிப்பு எல்லா விசயங்களிலும் மேலோங்கும்."
 
 #: wllegal/templates/legal/documents/tos.html:649
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 15th May 2023."
 msgid "These Terms enter into force on November 1, 2024."
-msgstr ""
-"இந்த பணி விதிமுறைகள் நடைமுறைக்கு வரும் மற்றும் 15 மே 2023 அன்று நடைமுறைக்கு வரும்."
+msgstr "இந்த விதிமுறைகள் நவம்பர் 1, 2024 அன்று நடைமுறைக்கு வருகின்றன."
 
 #, python-format
 #~ msgid ""
