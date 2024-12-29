@@ -5,10 +5,10 @@
 # anonymous <noreply@weblate.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2024-11-22 21:03+0000\n"
+"PO-Revision-Date: 2024-12-30 06:39+0000\n"
 "Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "weblate/legal/en_GB/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -142,19 +142,23 @@ msgid ""
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
+"Unless expressly stated otherwise in this Policy, the Provider acts as a "
+"<strong>data controller</strong> and Users who are natural persons act as "
+"data subjects as these roles are defined in the GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "Scope, Purposes, and Duration of Processing"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
 msgstr ""
+"The Provider processes the User's personal data for the following purposes:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
