@@ -8,19 +8,19 @@
 # Localisation Lab <ao@localizationlab.org>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2024-11-23 01:21+0000\n"
-"Last-Translator: Christian Wia <w9204-gi@yahoo.com>\n"
-"Language-Team: French <https://hosted.weblate.org/projects/weblate/legal/fr/"
-">\n"
+"PO-Revision-Date: 2024-12-31 05:57+0000\n"
+"Last-Translator: MERCRED <augustinseroul@gmail.com>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/weblate/legal/fr/>"
+"\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -57,8 +57,9 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:17
+#, fuzzy
 msgid "Introductory Provisions"
-msgstr ""
+msgstr "Dispositions Introductives"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
@@ -67,6 +68,11 @@ msgid ""
 "the Commercial Register kept by the Regional Court in Ústí nad Labem, file "
 "No. C 52324, i.e. the \"<strong>Provider</strong>\"."
 msgstr ""
+"Cette Politique a été établie par Weblate s.r.o., numéro d'identification : "
+"21668027, dont le siège social est situé à Nábřežní 694, Cvikov II, 471 54 "
+"Cvikov, enregistrée au Registre du commerce tenu par le Tribunal régional "
+"d'Ústí nad Labem, sous le numéro de dossier C 52324, ci-après désignée le « "
+"<strong>Fournisseur</strong> »."
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid ""
@@ -75,6 +81,11 @@ msgid ""
 "the Services, Products, Support Services, as well as when using the Website "
 "and other possible services and related activities."
 msgstr ""
+"Cette Politique décrit la manière dont le Fournisseur traite les données "
+"personnelles des Utilisateurs en tant que personnes concernées - individus "
+"privés - lors de l'accès et de l'utilisation ultérieure des Services, "
+"Produits, Services d'assistance, ainsi que lors de l'utilisation du Site Web "
+"et d'autres services ou activités connexes."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid ""
@@ -82,8 +93,12 @@ msgid ""
 "in Article 1 of the Terms and which have the same meaning as set out in the "
 "Terms."
 msgstr ""
+"Cette Politique utilise également certains termes ou définitions qui ont été "
+"définis à l'Article 1 des Conditions générales et qui ont la même "
+"signification que celle indiquée dans lesdites Conditions."
 
 #: wllegal/templates/legal/documents/privacy.html:33
+#, fuzzy
 msgid ""
 "In processing personal data, the Provider complies with Regulation (EU) "
 "2016/679 of the European Parliament and of the Council, the General Data "
@@ -94,6 +109,15 @@ msgid ""
 "personal data and the protection of privacy in the electronic communications "
 "sector (abbreviated as the \"<strong>ePrivacy Directive</strong>\")."
 msgstr ""
+"Lors du traitement des données personnelles, le Fournisseur se conforme au "
+"Règlement (UE) 2016/679 du Parlement européen et du Conseil, le Règlement "
+"général sur la protection des données, également connu sous le nom de RGPD ("
+"nous utiliserons ci-après l’abréviation « <strong>RGPD</strong> »), à la Loi "
+"n° 110/2019 Coll., sur le traitement des données personnelles, ainsi qu’à la "
+"Directive 2002/58/CE du Parlement européen et du Conseil du 12 juillet 2002 "
+"relative au traitement des données personnelles et à la protection de la vie "
+"privée dans le secteur des communications électroniques (abrégée en « "
+"<strong>Directive ePrivacy</strong> »)."
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -103,6 +127,12 @@ msgid ""
 "registers for the Provider's newsletter and/or when the Provider and the "
 "User conclude the Contract, whichever is the earliest."
 msgstr ""
+"Le traitement effectif des données personnelles des Utilisateurs est "
+"toujours effectué uniquement dans les buts et selon les conditions définis "
+"plus en détail dans la présente Politique. Ce traitement commence au moment "
+"où l'Utilisateur visite le Site Web, s'inscrit à la newsletter du "
+"Fournisseur et/ou lorsque le Fournisseur et l'Utilisateur concluent le "
+"Contrat, selon ce qui survient en premier."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid ""
@@ -111,6 +141,10 @@ msgid ""
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
 msgstr ""
+"Le traitement est ensuite effectué soit directement par le Fournisseur, soit "
+"par des tiers au sens de l'Article 3 de la présente Politique, qui ont été "
+"autorisés par le Fournisseur à traiter les données personnelles conformément "
+"à cette Politique."
 
 #: wllegal/templates/legal/documents/privacy.html:45
 msgid ""
@@ -118,6 +152,10 @@ msgid ""
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
+"Sauf indication contraire expresse dans la présente Politique, le "
+"Fournisseur agit en tant que <strong>responsable du traitement des données</"
+"strong> et les Utilisateurs, qui sont des personnes physiques, agissent en "
+"tant que personnes concernées, tels que ces rôles sont définis dans le RGPD."
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
@@ -132,7 +170,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "l'exécution du Contrat conformément à l'Article 6(1)(b) du RGPD,"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
