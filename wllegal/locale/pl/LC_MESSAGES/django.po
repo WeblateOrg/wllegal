@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-01-08 17:49+0000\n"
+"PO-Revision-Date: 2025-01-09 06:13+0000\n"
 "Last-Translator: Gadzio742 <daniel.123737@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/weblate/legal/pl/>"
 "\n"
@@ -49,6 +49,10 @@ msgid ""
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
+"Ta Polityka Prywatności, teraz i później, nawiązuje do "
+"\"<strong>Polityka</strong>\", uzupełnienie <a href=\"%(terms_url)s\">Ogólne "
+"Zasady i Warunki</a> Weblate, teraz i później, nawiązuje do "
+"\"<strong>Zasady</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:17
@@ -137,17 +141,19 @@ msgstr "Usługodawca przetwarza dane osobowe Użytkownika w następujących cela
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "realizowanie Umowy na podstawie Artykułu 6(1)(b) RODO,"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "negocjowanie Umowy na podstawie Artykułu 6(1)(b) RODO,"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
 msgstr ""
+"realizowanie przez Usługodawcę prawnego obowiązku na podstawie Artykułu "
+"6(1)(c) RODO,"
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
@@ -157,7 +163,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
-msgstr ""
+msgstr "zgoda przyznana przez Użytkownika na podstawie Artykułu 6(1)(a) RODO."
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
@@ -171,7 +177,7 @@ msgstr "imię i nazwisko,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr ""
+msgstr "Adres użytkownika (dostawy i rachunku),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
@@ -182,10 +188,12 @@ msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, X, and others),"
 msgstr ""
+"pseudonim(y) (włącznie z dobrowolnie połączonymi platformami takimi jak "
+"Liberapay, GitHub, X, i innymi),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr ""
+msgstr "Awatar użytkownika,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
 msgid "email address(es),"
@@ -200,12 +208,12 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
-msgstr ""
+msgstr "specyfikacja Usługi i Produktu użytego przez Użytkownika,"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
-msgstr ""
+msgstr "informacja o ilości członków zespołu Użytkownika i ich rolach,"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
@@ -216,11 +224,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
-msgstr ""
+msgstr "numer konta bankowego i dostępne inne szczegóły płatności Użytkownika,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "adres lub adresy portfela kryptowalut,"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
@@ -231,11 +239,11 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:120
 msgid ""
 "other personal data contained in communications with the Provider's support,"
-msgstr ""
+msgstr "inne dane osobowe zawarte w komunikacji ze wsparciem Usługodawcy,"
 
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
-msgstr ""
+msgstr "dane systemu, logi, i logi sesji włącznie z adresem IP Użytkownika,"
 
 #: wllegal/templates/legal/documents/privacy.html:128
 msgid ""
@@ -309,7 +317,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:149
 msgid "Recipients and Processors of Personal Data"
-msgstr "Odbiorcy i Edytorzy Danych Osobowych"
+msgstr "Odbiorcy i Moderatorzy Danych Osobowych"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -520,12 +528,16 @@ msgid ""
 "correction of personal data if there is concern that some of it is "
 "inaccurate or missing;"
 msgstr ""
+"poprawianie danych osobowych jeśli jest podejrzenie że ich część jest "
+"nieprawidłowa lub czegoś brakuje;"
 
 #: wllegal/templates/legal/documents/privacy.html:255
 msgid ""
 "restriction of processing if there is concern that the Provider is "
 "processing more data than necessary;"
 msgstr ""
+"ograniczenie przetwarzania jeśli istnieje obawa, że Usługodawca przetwarza "
+"więcej danych niż jest potrzebne;"
 
 #: wllegal/templates/legal/documents/privacy.html:258
 msgid ""
@@ -602,11 +614,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:292
 msgid "This Policy become effective upon their publication on the Website."
-msgstr ""
+msgstr "Ta Polityka będzie ważna po opublikowaniu jej na Stronie internetowej."
 
 #: wllegal/templates/legal/documents/privacy.html:296
 msgid "In Prague on November 1, 2024."
-msgstr ""
+msgstr "W Pradze 1 listopada 2024."
 
 #: wllegal/templates/legal/documents/summary.html:5
 msgid ""
@@ -637,8 +649,8 @@ msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
 msgstr ""
-"Wybrana nazwa zależy od Ciebie, a adres e-mail używany do commitów może być "
-"maskowany przez system Weblate w celu ochrony Twojej prywatności."
+"Wybrana nazwa zależy od ciebie, a adres e-mail używany do commitów może być "
+"maskowany przez system Weblate w celu ochrony twojej prywatności."
 
 #: wllegal/templates/legal/documents/summary.html:15
 msgid "We use cookies to deliver our services."
@@ -646,7 +658,7 @@ msgstr "Używamy ciasteczek do świadczenia naszych usług."
 
 #: wllegal/templates/legal/documents/summary.html:16
 msgid "We don’t use any third-party cookies."
-msgstr "Nie używamy żadnych plików cookie stron trzecich."
+msgstr "Nie używamy żadnych ciasteczek stron zewnętrznych."
 
 #: wllegal/templates/legal/documents/tos.html:6
 msgid ""
@@ -679,6 +691,8 @@ msgid ""
 "The definitions below have the following meanings for the purposes of these "
 "general terms and conditions:"
 msgstr ""
+"Poniższe definicje mają następujące znaczenie dla celów ogólnych zasad i "
+"warunków:"
 
 #: wllegal/templates/legal/documents/tos.html:31
 msgid "Civil Code"
@@ -695,7 +709,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:41
 msgid "jointly refers to the User and the Provider;"
-msgstr ""
+msgstr "wspólnie nawiązuje do Użytkownika i Usługodawcy;"
 
 #: wllegal/templates/legal/documents/tos.html:45
 msgid "Cookies"
@@ -712,7 +726,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:52
 msgid "Dedicated Weblate"
-msgstr ""
+msgstr "Dedykowany dla Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:55
 msgid ""
@@ -722,7 +736,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:59
 msgid "GDPR"
-msgstr "GDPR"
+msgstr "RODO"
 
 #: wllegal/templates/legal/documents/tos.html:62
 msgid ""
@@ -734,17 +748,18 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:66
 msgid "GTC"
-msgstr ""
+msgstr "GTC"
 
 #: wllegal/templates/legal/documents/tos.html:69
 msgid ""
 "means these general terms and conditions, which form an integral part of the "
 "Agreement;"
 msgstr ""
+"oznacza te ogóle zasady i warunki, które są integralną częścią Porozumienia;"
 
 #: wllegal/templates/legal/documents/tos.html:73
 msgid "Hosted String"
-msgstr ""
+msgstr "Hostowany Ciąg"
 
 #: wllegal/templates/legal/documents/tos.html:76
 msgid ""
@@ -792,17 +807,18 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:101
 #: wllegal/templates/legal/documents/tos.html:236
 msgid "Price"
-msgstr ""
+msgstr "Cena"
 
 #: wllegal/templates/legal/documents/tos.html:104
 msgid ""
 "the value expressed in money for the provided License in accordance with the "
 "Price List;"
 msgstr ""
+"wartość wyrażona w pieniądzach za dostarczoną Licencje zgodnie z Listą Cen;"
 
 #: wllegal/templates/legal/documents/tos.html:108
 msgid "Price List"
-msgstr ""
+msgstr "Lista cen"
 
 #: wllegal/templates/legal/documents/tos.html:111
 msgid ""
@@ -812,7 +828,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:115
 msgid "Product"
-msgstr ""
+msgstr "Produkt"
 
 #: wllegal/templates/legal/documents/tos.html:118
 msgid ""
@@ -846,7 +862,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:136
 msgid "Self-hosting"
-msgstr ""
+msgstr "Hosting własny"
 
 #: wllegal/templates/legal/documents/tos.html:139
 msgid ""
@@ -888,7 +904,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:164
 msgid "User Account"
-msgstr ""
+msgstr "Konto użytkownika"
 
 #: wllegal/templates/legal/documents/tos.html:167
 msgid ""
@@ -898,7 +914,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:171
 msgid "User Server"
-msgstr ""
+msgstr "Serwer użytkownika"
 
 #: wllegal/templates/legal/documents/tos.html:174
 msgid ""
@@ -913,16 +929,15 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:184
 msgid "The License is granted to the User based on the concluded Agreement."
 msgstr ""
+"Licencja jest przyznawana Użytkownikowi na podstawie zawartego Porozumienia."
 
 #: wllegal/templates/legal/documents/tos.html:188
 msgid "These GTC are an integral part of the Agreement."
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:192
-#, fuzzy
-#| msgid "License Agreement Conclusion"
 msgid "The Agreement is concluded:"
-msgstr "Umowa zostaje zawarta:"
+msgstr "Porozumienie jest zawarte:"
 
 #: wllegal/templates/legal/documents/tos.html:197
 msgid ""
@@ -1029,6 +1044,7 @@ msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
 msgstr ""
+"(punkty a), b), c) są zbiorowo nazywane \"<strong>Subskrypcja</strong>\")."
 
 #: wllegal/templates/legal/documents/tos.html:259
 msgid ""
@@ -1232,7 +1248,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:344
 msgid "Provider's Rights and Obligations"
-msgstr ""
+msgstr "Prawa i Zobowiązania Usługodawcy"
 
 #: wllegal/templates/legal/documents/tos.html:348
 msgid ""
@@ -1304,6 +1320,8 @@ msgid ""
 "The Provider agrees not to provide the content of the User's data to third "
 "parties."
 msgstr ""
+"Usługodawca zgadza się nie udostępniać zawartości danych Użytkownika "
+"podmiotom zewnętrznym."
 
 #: wllegal/templates/legal/documents/tos.html:372
 msgid ""
@@ -1322,7 +1340,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:381
 msgid "User’s Rights and Obligations"
-msgstr ""
+msgstr "Prawa i Zobowiązania Użytkownika"
 
 #: wllegal/templates/legal/documents/tos.html:385
 msgid ""
@@ -1498,11 +1516,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:481
 msgid "Contains prohibited applications and scripts;"
-msgstr ""
+msgstr "Zawiera zakazane aplikacje i skrypty;"
 
 #: wllegal/templates/legal/documents/tos.html:485
 msgid "Overloads database systems or causes malfunction of servers;"
-msgstr ""
+msgstr "Przeciąża system bazy danych albo powoduje usterkę serwerów;"
 
 #: wllegal/templates/legal/documents/tos.html:489
 msgid ""
@@ -1536,7 +1554,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:509
 msgid "May harm any third-party rights."
-msgstr ""
+msgstr "Może naruszyć jakie kolwiek prawa podmiotów zewnętrznych."
 
 #: wllegal/templates/legal/documents/tos.html:513
 msgid ""
