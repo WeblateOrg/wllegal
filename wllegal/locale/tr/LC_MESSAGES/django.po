@@ -8,11 +8,11 @@
 # Ali Demirtas <alidemirtas94@gmail.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2024-11-19 13:40+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-01-09 20:20+0000\n"
+"Last-Translator: Yılmaz Durmaz <yilmaz_durmaz@hotmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/weblate/legal/tr/"
 ">\n"
 "Language: tr\n"
@@ -20,25 +20,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "GPDR 28. maddesi uyarınca alt yükleniciler"
 
 #: wllegal/templates/legal/documents/contracts.html:11
-#, fuzzy
-#| msgid "Status as of March 2023."
 msgid "Status as of May 2024."
-msgstr "2020 Ekim ayındaki durum."
+msgstr "Mayıs 2024 itibarıyla durum."
 
 #: wllegal/templates/legal/documents/privacy.html:5
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
-"Yasal olarak, gizlilik ilkesi belgesinin İngilizce biçimi geçerlidir. "
-"Çeviriler size kolaylık sağlaması için sunulmuştur."
+"Gizlilik Politikası belgesinin yasal olarak İngilizce dilindeki biçimi "
+"bağlayıcıdır, çeviriler size kolaylık sağlamak için sağlanmıştır."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:7
@@ -650,8 +648,8 @@ msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
-"Yasal olarak, genel hüküm ve koşullar belgesinin İngilizce biçimi "
-"geçerlidir. Çeviriler size kolaylık sağlaması için sunulmuştur."
+"Genel Hüküm ve Koşullar belgesinin yasal olarak İngilizce dilindeki biçimi "
+"bağlayıcıdır, çeviriler size kolaylık sağlamak için sağlanmıştır."
 
 #: wllegal/templates/legal/documents/tos.html:12
 #, fuzzy
@@ -683,15 +681,12 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:31
 msgid "Civil Code"
-msgstr "Medeni Kanun"
+msgstr "Civil Code"
 
 #: wllegal/templates/legal/documents/tos.html:34
-#, fuzzy
-#| msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
 msgstr ""
-"Medeni Kanun'un değiştirildiği şekliyle %(law_89_2012)s Coll. sayılı Kanun "
-"anlamına gelir"
+"son değiştirilmiş şekliyle Act No. 89/2012 Coll., Civil Code, anlamına gelir;"
 
 #: wllegal/templates/legal/documents/tos.html:38
 msgid "Contracting Parties"
@@ -729,16 +724,12 @@ msgid "GDPR"
 msgstr "GDPR"
 
 #: wllegal/templates/legal/documents/tos.html:62
-#, fuzzy
-#| msgid ""
-#| "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
-#| "Regulation"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
 msgstr ""
-"Genel Veri Koruma Yönetmeliği olan %(law_679_2016)s No'lu AB Tüzüğü anlamına "
-"gelir"
+"679/2016 sayılı AB Tüzüğü, Kişisel Verilerin Korunmasına İlişkin Genel Tüzük "
+"anlamına gelmektedir;"
 
 #: wllegal/templates/legal/documents/tos.html:66
 msgid "GTC"
@@ -752,21 +743,15 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:73
 msgid "Hosted String"
-msgstr ""
+msgstr "Hosted String"
 
 #: wllegal/templates/legal/documents/tos.html:76
-#, fuzzy
-#| msgid ""
-#| "Pricing is based on the number of source strings and target languages. "
-#| "The source string is a text unit defined in a translation format, it can "
-#| "be a word, sentence or paragraph."
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
 msgstr ""
-"Fiyatlandırma, kaynak satırların sayısına ve hedef dillere dayanmaktadır. "
-"Kaynak satır, çeviri biçiminde tanımlanan bir metin birimidir, bir sözcük, "
-"tümce veya paragraf olabilir."
+"çeviri biçiminde tanımlanan bir metin birimidir. Bir kelime, cümle veya "
+"paragraf olabilir;"
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid "Hosted Weblate"
@@ -778,38 +763,33 @@ msgid ""
 "provides Services to Users on a non-dedicated (i.e., shared by multiple "
 "Users) cloud operated by the Provider;"
 msgstr ""
+"Sağlayıcının Kullanıcılara, Sağlayıcı tarafından işletilen özel olmayan ("
+"yani birden fazla Kullanıcı tarafından paylaşılan) bir bulut üzerinde Hizmet "
+"sağladığı, tamamen bulut tabanlı bir işbirliği biçimi anlamına gelir;"
 
 #: wllegal/templates/legal/documents/tos.html:87
 msgid "License"
 msgstr "Lisans"
 
 #: wllegal/templates/legal/documents/tos.html:90
-#, fuzzy
-#| msgid ""
-#| "means non-exclusive license granted by the Provider to the User for use "
-#| "of the Service"
 msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
 msgstr ""
-"Hizmet’in kullanımı için Hizmet Sağlayıcı tarafından Kullanıcı’ya verilen "
-"münhasır olmayan lisans anlamına gelir"
+"Hizmet'in kullanımı için Sağlayıcı tarafından Kullanıcı'ya verilen münhasır "
+"olmayan lisans anlamına gelir;"
 
 #: wllegal/templates/legal/documents/tos.html:94
 msgid "Personal Data"
 msgstr "Kişisel Veriler"
 
 #: wllegal/templates/legal/documents/tos.html:97
-#, fuzzy
-#| msgid ""
-#| "means personal data within the meaning of EU Regulation No. "
-#| "%(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"Kullanıcı tarafından Hizmet’e ve/veya Tanımlama Bilgileri’ne eklenen "
-"%(law_679_2016)s sayılı AB Tüzüğü anlamında Kişisel Veriler anlamına gelir"
+"679/2016 sayılı AB Yönetmeliğinde tanımlandığı şekilde, kullanıcı tarafından "
+"Hizmet'e ve/veya Çerezler'e girilen kişisel veriler anlamına gelir;"
 
 #: wllegal/templates/legal/documents/tos.html:101
 #: wllegal/templates/legal/documents/tos.html:236
@@ -860,14 +840,11 @@ msgid "Service"
 msgstr "Hizmet"
 
 #: wllegal/templates/legal/documents/tos.html:132
-#, fuzzy
-#| msgid ""
-#| "means the website and services based on Weblate operated by the Provider"
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
 msgstr ""
-"Sağlayıcı tarafından işletilen Weblate temelli internet sitesi ve hizmetler "
-"anlamına gelir"
+"Sağlayıcı tarafından sağlanan Weblate tabanlı web siteleri ve hizmetler "
+"anlamına gelir;"
 
 #: wllegal/templates/legal/documents/tos.html:136
 msgid "Self-hosting"
@@ -897,28 +874,21 @@ msgid "Translation Memory"
 msgstr "Çeviri belleği"
 
 #: wllegal/templates/legal/documents/tos.html:153
-#, fuzzy
-#| msgid ""
-#| "means the optional translation memory service provided within Weblate"
 msgid "means an optional translation memory service provided on Weblate;"
 msgstr ""
-"Weblate içinde sağlanan isteğe bağlı çeviri belleği hizmeti anlamına gelir"
+"Weblate'te sağlanan isteğe bağlı bir çeviri belleği hizmeti anlamına gelir;"
 
 #: wllegal/templates/legal/documents/tos.html:157
 msgid "User"
 msgstr "Kullanıcı"
 
 #: wllegal/templates/legal/documents/tos.html:160
-#, fuzzy
-#| msgid ""
-#| "means any legal entity or an individual other than the Provider, who is "
-#| "using the Service"
 msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
 msgstr ""
-"Hizmet'i kullanan Hizmet Sağlayıcı dışındaki herhangi bir tüzel kişi veya "
-"bir kişi anlamına gelir"
+"Hizmet'i kullanıma sunan Sağlayıcı dışındaki herhangi bir tüzel veya gerçek "
+"kişi anlamına gelir;"
 
 #: wllegal/templates/legal/documents/tos.html:164
 msgid "User Account"
@@ -953,16 +923,16 @@ msgid "These GTC are an integral part of the Agreement."
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:192
-#, fuzzy
-#| msgid "License Agreement Conclusion"
 msgid "The Agreement is concluded:"
-msgstr "Lisans Sözleşmesinin sonuçlandırılması"
+msgstr "Sözleşmenin tamamlanması:"
 
 #: wllegal/templates/legal/documents/tos.html:197
 msgid ""
 "on the day of signing by both parties (especially for all Services offered "
 "with custom settings);"
 msgstr ""
+"her iki tarafça imzalandığı gün (özellikle özel ayarlarla sunulan tüm "
+"Hizmetler için);"
 
 #: wllegal/templates/legal/documents/tos.html:200
 msgid ""
@@ -973,6 +943,11 @@ msgid ""
 "Provider's bank account) for the amount stated in the first billing period "
 "by the User."
 msgstr ""
+"Fiyat Listesine uygun olarak web arayüzü üzerinden kabul (onay) yoluyla "
+"çevrimiçi olarak, Lisans Bedeli Kullanıcı tarafından ilk fatura döneminde "
+"belirtilen tutar için usulüne uygun olarak ödendiğinde (banka havalesi "
+"durumunda, Lisans Bedeline karşılık gelen tutar Sağlayıcının banka hesabına "
+"yatırıldığında) Sözleşme yürürlüğe girer."
 
 #: wllegal/templates/legal/documents/tos.html:208
 msgid "Service Provision"
@@ -1055,16 +1030,16 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:250
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "Çeviri belleği"
+msgstr "Çeviri Belleği için normal ücret;"
 
 #: wllegal/templates/legal/documents/tos.html:255
 msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
 msgstr ""
+"( a), b) ve c) bentleri topluca <strong>\"Abonelik</strong>\" olarak "
+"anılacaktır)."
 
 #: wllegal/templates/legal/documents/tos.html:259
 msgid ""
@@ -1717,10 +1692,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:584
-#, fuzzy
-#| msgid "means translation project operated on the Service"
 msgid "Any other matters related to the Service."
-msgstr "Hizmet’te yürütülen çeviri projesi anlamına gelir"
+msgstr "Hizmet'le ilgili diğer tüm konular."
 
 #: wllegal/templates/legal/documents/tos.html:589
 msgid ""
