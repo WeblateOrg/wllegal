@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-01-09 06:13+0000\n"
+"PO-Revision-Date: 2025-01-09 14:00+0000\n"
 "Last-Translator: Gadzio742 <daniel.123737@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/weblate/legal/pl/>"
 "\n"
@@ -160,6 +160,8 @@ msgid ""
 "the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, "
 "and in selected cases also"
 msgstr ""
+"prawnie przysługujące interesy Usługodawcy na podstawie Artykułu 6(1)(f) "
+"RODO, i w wybranych przypadkach także"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
@@ -170,6 +172,8 @@ msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
 msgstr ""
+"Zakres danych osobowych Użytkownika przetwarzanych przez Usługodawcę zawiera "
+"następujące:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
@@ -221,6 +225,9 @@ msgid ""
 "Profile), i.e., settings for languages, notifications, if they can identify "
 "the User directly or indirectly,"
 msgstr ""
+"wszystkie inne ustawienia użytkownika na koncie Użytkownika (wliczając w to "
+"tak zwany Profil), tzn., ustawienia dla języków, powiadomień, jeśli mogą "
+"zidentyfikować Użytkownika bezpośrednio lub pośrednio,"
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
@@ -996,10 +1003,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:228
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
-msgstr "Czas Usługi"
+msgstr "Czas trwania Usługi"
 
 #: wllegal/templates/legal/documents/tos.html:232
 msgid ""
