@@ -15,8 +15,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2024-12-23 09:44+0000\n"
-"Last-Translator: Blueberry <igory.ygr200@gmail.com>\n"
+"PO-Revision-Date: 2025-01-11 12:55+0000\n"
+"Last-Translator: 11zAzu <inga.mishtal@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/weblate/legal/ru/"
 ">\n"
 "Language: ru\n"
@@ -152,7 +152,7 @@ msgid ""
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
 "Если в настоящей Политике явно не указано иное, Поставщик выступает в "
-"качестве <strong>оператора данных</strong> , а Пользователи, являющиеся "
+"качестве <strong>data controller</strong> , а Пользователи, являющиеся "
 "физическими лицами, выступают в качестве субъектов данных, как эти роли "
 "определены в GDPR."
 
@@ -194,7 +194,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
 msgstr ""
-"согласие, предоставленное Пользователем в соответствии со статьёй 6(1)(a) "
+"согласие, предоставленное Пользователем, в соответствии со статьёй 6(1)(a) "
 "GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:76
@@ -215,7 +215,7 @@ msgstr "Адрес пользователя (доставка и выставл�
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr "идентификатор компании и налоговой,"
+msgstr "Идентификатор компании и налоговый номер,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
