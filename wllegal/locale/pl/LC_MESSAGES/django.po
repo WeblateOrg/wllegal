@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-01-11 16:01+0000\n"
-"Last-Translator: 11zAzu <inga.mishtal@gmail.com>\n"
+"PO-Revision-Date: 2025-01-11 17:09+0000\n"
+"Last-Translator: Gadzio742 <gadzio742@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/weblate/legal/pl/>"
 "\n"
 "Language: pl\n"
@@ -1459,30 +1459,40 @@ msgid ""
 "The User particularly agrees to refrain from the following activities while "
 "using the Services, especially through the Services:"
 msgstr ""
+"Użytkownik zgadza się powstrzymać w szczególności od następujących działań "
+"podczas korzystania z Usług, zwłaszcza wykorzystując w tym celu Usługi:"
 
 #: wllegal/templates/legal/documents/tos.html:429
 msgid ""
 "Disseminating or offering any content that violates applicable laws at the "
 "national, EU, or international level;"
 msgstr ""
+"Rozpowszechnianie lub rozprowadzanie jakiejkolwiek zawartości, która narusza "
+"obowiązujące prawa na poziomie narodowym, UE, lub międzynarodowym;"
 
 #: wllegal/templates/legal/documents/tos.html:433
 msgid ""
 "Disseminating or offering any illegally obtained content or content whose "
 "dissemination would be illegal;"
 msgstr ""
+"Rozpowszechnianie lub rozprowadzanie jakiejkolwiek nielegalnie uzyskanej "
+"zawartości lub zawartości, której rozpowszechnianie było by nielegalne;"
 
 #: wllegal/templates/legal/documents/tos.html:437
 msgid ""
 "Disseminating or offering any pornographic, obscene, or otherwise vulgar "
 "content;"
 msgstr ""
+"Rozpowszechnianie lub rozprowadzanie jakiejkolwiek zawartości "
+"pornograficznej, nieprzyzwoitej, lub w inny sposób wulgarnej;"
 
 #: wllegal/templates/legal/documents/tos.html:441
 msgid ""
 "Engaging in any services or activities that are contrary to applicable laws "
 "at the national, EU, or international level;"
 msgstr ""
+"Angażowanie się w jakiekolwiek usługi lub działalności, które naruszają "
+"obowiązujące prawa na poziomie narodowym, UE, lub międzynarodowym;"
 
 #: wllegal/templates/legal/documents/tos.html:445
 msgid ""
