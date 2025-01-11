@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-01-11 17:09+0000\n"
+"PO-Revision-Date: 2025-01-11 20:02+0000\n"
 "Last-Translator: Gadzio742 <gadzio742@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/weblate/legal/pl/>"
 "\n"
@@ -60,6 +60,7 @@ msgid "Introductory Provisions"
 msgstr "Postanowienia wstępne"
 
 #: wllegal/templates/legal/documents/privacy.html:21
+#, fuzzy
 msgid ""
 "This Policy has been issued by Weblate s.r.o., ID No.: 21668027, with "
 "registered office at Nábřežní 694, Cvikov II, 471 54 Cvikov, registered in "
@@ -214,6 +215,7 @@ msgstr ""
 "Użytkownika,"
 
 #: wllegal/templates/legal/documents/privacy.html:102
+#, fuzzy
 msgid "specifications of the Service and Product used by the User,"
 msgstr ""
 "techniczną charakterystyka Usługi i Produktu z którego korzysta Użytkownik,"
@@ -1491,17 +1493,16 @@ msgid ""
 "Engaging in any services or activities that are contrary to applicable laws "
 "at the national, EU, or international level;"
 msgstr ""
-"Angażowanie się w jakiekolwiek usługi lub działalności, które naruszają "
+"Angażowanie się w jakiekolwiek usługi lub działania, które naruszają "
 "obowiązujące prawa na poziomie narodowym, UE, lub międzynarodowym;"
 
 #: wllegal/templates/legal/documents/tos.html:445
-#, fuzzy
 msgid ""
 "Engaging in activities that bypass intellectual property protection elements "
 "(such as cracks, warez, etc.);"
 msgstr ""
-"Angażowanie się w działalności, które omijają ochronę własności "
-"intelektualnej (takie jak cracks, warez, itp.);"
+"Angażowanie się w działania, które omijają ochronę własności intelektualnej ("
+"takie jak cracks, warez, itp.);"
 
 #: wllegal/templates/legal/documents/tos.html:449
 msgid ""
@@ -1531,13 +1532,15 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:465
 msgid "Overburdening the Provider's or third-party servers;"
-msgstr ""
+msgstr "Przeciążanie serwerów Usługodawcy lub podmiotów zewnętrznych;"
 
 #: wllegal/templates/legal/documents/tos.html:469
 msgid ""
 "Engaging in any activities that could harm the Provider, its reputation, or "
 "its assets;"
 msgstr ""
+"Angażowanie się w jakiekolwiek działania, które mogą zaszkodzić Usługodawcy, "
+"jego reputacji, lub jego majątkowi;"
 
 #: wllegal/templates/legal/documents/tos.html:473
 msgid ""
@@ -1569,6 +1572,8 @@ msgid ""
 "Involves music, sound, image, film, or similar files for which the User "
 "lacks distribution rights;"
 msgstr ""
+"Obejmuje muzykę, dźwięk, zdjęcie, film, lub podobne pliki, dla których "
+"Użytkownik nie posiada praw na rozpowszechnianie;"
 
 #: wllegal/templates/legal/documents/tos.html:497
 msgid ""
@@ -1581,6 +1586,8 @@ msgid ""
 "Is part of the provided Service without written permission from the Provider "
 "to share it with third parties;"
 msgstr ""
+"Jest częścią dostarczonej Usługi bez pisemnej zgody od Usługodawcy na "
+"udostępnienie jej podmiotom zewnętrznym;"
 
 #: wllegal/templates/legal/documents/tos.html:505
 msgid ""
@@ -1642,7 +1649,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:534
 msgid "Termination of the Agreement"
-msgstr ""
+msgstr "Zakończenie Porozumienia"
 
 #: wllegal/templates/legal/documents/tos.html:538
 msgid ""
