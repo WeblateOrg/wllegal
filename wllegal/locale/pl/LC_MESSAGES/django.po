@@ -1495,10 +1495,13 @@ msgstr ""
 "obowiązujące prawa na poziomie narodowym, UE, lub międzynarodowym;"
 
 #: wllegal/templates/legal/documents/tos.html:445
+#, fuzzy
 msgid ""
 "Engaging in activities that bypass intellectual property protection elements "
 "(such as cracks, warez, etc.);"
 msgstr ""
+"Angażowanie się w działalności, które omijają ochronę własności "
+"intelektualnej (takie jak cracks, warez, itp.);"
 
 #: wllegal/templates/legal/documents/tos.html:449
 msgid ""
