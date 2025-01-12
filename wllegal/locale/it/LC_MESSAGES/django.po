@@ -10,11 +10,11 @@
 # Valentina Grassi <vale.grassi11@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2024-11-29 04:00+0000\n"
-"Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
+"PO-Revision-Date: 2025-01-13 00:38+0000\n"
+"Last-Translator: Diego Beraldin <diego.beraldin@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/weblate/legal/it/"
 ">\n"
 "Language: it\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.10-dev\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
@@ -217,16 +217,12 @@ msgid "Company ID and Tax ID,"
 msgstr "Codice fiscale e partita IVA aziendale,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
-#, fuzzy
-#| msgid ""
-#| "nickname(s) (including any voluntarily linked platforms such as "
-#| "Liberapay, GitHub, Xu, and others),"
 msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, X, and others),"
 msgstr ""
 "nickname (incluse eventuali piattaforme collegate volontariamente come "
-"Liberapay, GitHub, Xu e altre),"
+"Liberapay, GitHub, X e altre),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
@@ -491,10 +487,13 @@ msgstr ""
 "per garantire qualsiasi altra attività correlata a quanto sopra;"
 
 #: wllegal/templates/legal/documents/privacy.html:178
+#, fuzzy
 msgid ""
 "the persons mentioned in this Article 3.1 are collectively referred to in "
 "this Policy as \"<strong>Processors</strong>\"."
 msgstr ""
+"i soggetti menzionati nel presente Articolo 3.1 vengono designati "
+"all'interno della presente Informativa come \"<strong>Processor</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:182
 msgid ""
