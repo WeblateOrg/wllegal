@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-01-09 20:20+0000\n"
-"Last-Translator: Yılmaz Durmaz <yilmaz_durmaz@hotmail.com>\n"
+"PO-Revision-Date: 2025-01-18 05:07+0000\n"
+"Last-Translator: Kaya Zeren <kayazeren@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/weblate/legal/tr/"
 ">\n"
 "Language: tr\n"
@@ -177,10 +177,8 @@ msgid "User's avatar,"
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail address"
 msgid "email address(es),"
-msgstr "Ad ve e-posta adresi"
+msgstr "e-posta adresleri,"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -299,10 +297,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:149
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Recipients and Processors of Personal Data"
-msgstr "Kişisel Veriler’e erişim"
+msgstr "Kişisel Verilerin Alıcıları ve İşleyicileri"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -366,14 +362,6 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:186
-#, fuzzy
-#| msgid ""
-#| "In case the Controller is required by law to disclose the Personal Data, "
-#| "an attempt will be made to provide the User with prior notice by e-mail "
-#| "(unless the Controller is prohibited, or it would be futile) that a "
-#| "request for the Personal Data has been made to allow the User to object "
-#| "to the disclosure. If the User does not challenge the disclosure request, "
-#| "the Controller may be legally required to turn over the Personal Data."
 msgid ""
 "The Personal Data might be disclosed to third parties in limited "
 "circumstances when the Controller has a good faith belief it is required by "
@@ -383,13 +371,14 @@ msgid ""
 "the Controller is prohibited, or it would be futile) that a request for the "
 "Personal Data has been made to allow the User to object to the disclosure."
 msgstr ""
-"Sorumlu’nun yasalarca Kişisel Veriler’i açıklamasının gerekli olması "
-"durumunda, Kullanıcı’nın açıklamaya itiraz etmesini sağlamak için, "
-"Kullanıcı’ya Kişisel Veriler’i ile ilgili bir istekte bulunulduğu konusunda "
-"e-posta yoluyla önceden bildirimde bulunulmaya çalışılır (Sorumlu’nun bunu "
-"yapması engellenmediği veya boşuna olmadığı sürece). Kullanıcı açıklama "
-"isteğine itiraz etmezse, sorumlunun Kişisel Veriler’i teslim etmesi yasal "
-"olarak gerekli olabilir."
+"Kişisel Veriler, bir mahkeme celbi veya diğer bir adli veya idari emir gibi "
+"sınırlı durumlarda Sorumlu'nun kanunen gerekli olduğuna iyi niyetle inanması "
+"durumunda üçüncü taraflara açıklanabilir. Sorumlu’nun yasalarca Kişisel "
+"Veriler’i açıklamasının gerekli olması durumunda, Kullanıcı’nın açıklamaya "
+"itiraz etmesini sağlamak için, Kullanıcı’ya Kişisel Veriler’i ile ilgili bir "
+"istekte bulunulduğu konusunda e-posta yoluyla önceden bildirimde bulunulmaya "
+"çalışılır (Sorumlu’nun bunu yapması engellenmediği veya boşuna olmadığı "
+"sürece)."
 
 #: wllegal/templates/legal/documents/privacy.html:190
 msgid ""
@@ -480,10 +469,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:236
-#, fuzzy
-#| msgid "Order us to delete your Personal Data"
 msgid "User Rights in Relation to Personal Data"
-msgstr "Bizden Kişisel Veriler’inizi silmemizi isteyebilirsiniz"
+msgstr "Kullanıcıların Kişisel Veriler Üzerindeki Hakları"
 
 #: wllegal/templates/legal/documents/privacy.html:240
 #, python-format
@@ -652,16 +639,12 @@ msgstr ""
 "bağlayıcıdır, çeviriler size kolaylık sağlamak için sağlanmıştır."
 
 #: wllegal/templates/legal/documents/tos.html:12
-#, fuzzy
-#| msgid ""
-#| "The rights and obligations of the User and the Provider resulting from "
-#| "the use of the Service are governed by these Terms of Service."
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
 msgstr ""
 "Hizmetin kullanımından kaynaklanan Kullanıcı ve Hizmet Sağlayıcı’nın hak ve "
-"yükümlülükleri, bu Hizmet Kullanım Koşulları metnine tabidir."
+"yükümlülükleri, bu Genel Hüküm ve Koşullar metnine tabidir."
 
 #: wllegal/templates/legal/documents/tos.html:21
 msgid ""
@@ -857,10 +840,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:143
-#, fuzzy
-#| msgid "Service"
 msgid "Support Services"
-msgstr "Hizmet"
+msgstr "Destek Hizmetleri"
 
 #: wllegal/templates/legal/documents/tos.html:146
 msgid ""
@@ -990,10 +971,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:228
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
-msgstr "Hizmet"
+msgstr "Hizmet Süresi"
 
 #: wllegal/templates/legal/documents/tos.html:232
 msgid ""
@@ -1109,10 +1088,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:287
-#, fuzzy
-#| msgid "License"
 msgid "License Terms"
-msgstr "Lisans"
+msgstr "Lisans Koşulları"
 
 #: wllegal/templates/legal/documents/tos.html:291
 #, python-format
@@ -1181,10 +1158,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:316
-#, fuzzy
-#| msgid "Payment error"
 msgid "Payment Terms"
-msgstr "Ödeme hatası"
+msgstr "Ödeme Koşulları"
 
 #: wllegal/templates/legal/documents/tos.html:320
 msgid ""
@@ -1725,10 +1700,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:601
-#, fuzzy
-#| msgid "The Personal Data retention"
 msgid "Personal Data Protection"
-msgstr "Kişisel Veriler’in tutulması"
+msgstr "Kişisel Veriler’in Korunması"
 
 #: wllegal/templates/legal/documents/tos.html:605
 #, python-format
@@ -1826,13 +1799,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:649
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 15th May 2023."
 msgid "These Terms enter into force on November 1, 2024."
-msgstr ""
-"Bu Hizmet Kullanım Koşulları 15 Mayıs 2023 tarihinde yürürlüğe girecek ve "
-"etkin olacaktır."
+msgstr "Bu Koşullar 1 Kasım 2024 tarihinde geçerli olacaktır."
 
 #, python-format
 #~ msgid ""
