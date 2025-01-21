@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-01-20 08:05+0000\n"
+"PO-Revision-Date: 2025-01-21 18:29+0000\n"
 "Last-Translator: Kaya Zeren <kayazeren@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/weblate/legal/tr/"
 ">\n"
@@ -28,7 +28,7 @@ msgstr "GPDR 28. maddesi uyarınca alt yükleniciler"
 
 #: wllegal/templates/legal/documents/contracts.html:11
 msgid "Status as of May 2024."
-msgstr "Mayıs 2024 itibarıyla durum."
+msgstr "2024 Mayıs ayındaki durum."
 
 #: wllegal/templates/legal/documents/privacy.html:5
 msgid ""
@@ -1381,7 +1381,7 @@ msgstr ""
 "Kullanıcı, Kullanıcı Hesabı’nda oturum açarak ve orada değişiklik yaparak "
 "veya Aboneliği iptal ederek Abonelik durumunu çevrim içi olarak "
 "değiştirebilir. Kullanıcı, yukarıdaki Madde 5.5 uyarınca yenileme tarihinden "
-"en az üç gün önce Aboneliğini iptal ederse, Aboneliği mevcut fatura "
+"en az üç gün önce Aboneliğini iptal ederse, Aboneliği geçerli fatura "
 "döneminin sonunda sona erecektir."
 
 #: wllegal/templates/legal/documents/tos.html:279
