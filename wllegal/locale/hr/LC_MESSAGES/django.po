@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-01-23 09:05+0000\n"
+"PO-Revision-Date: 2025-01-23 21:42+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/weblate/legal/"
 "hr/>\n"
@@ -49,6 +49,9 @@ msgid ""
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
+"Ova Politika privatnosti (u nastavku teksta: Politika) nadopunjuje <a href="
+"\"%(terms_url)s\">Opće uvjete poslovanja</a> Weblate-a (u nastavku teksta: "
+"Uvjeti)."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:17
@@ -152,6 +155,7 @@ msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
 msgstr ""
+"Opseg osobnih podataka Korisnika koje Pružatelj obrađuje uključuje sljedeće:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
@@ -204,7 +208,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
-msgstr ""
+msgstr "broj bankovnog računa i eventualno druge podatke plaćanja Korisnika,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
@@ -224,12 +228,15 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
 msgstr ""
+"podaci o sustavu, dnevnici i dnevnici sesija uključujući IP adresu korisnika,"
 
 #: wllegal/templates/legal/documents/privacy.html:128
 msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
+"gdje će se pojedinačne kategorije gore navedenih osobnih podataka nadalje "
+"navoditi pod zajedničkim nazivom „<strong>Osobni podatci</strong>“."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -350,6 +357,8 @@ msgid ""
 "the persons mentioned in this Article 3.1 are collectively referred to in "
 "this Policy as \"<strong>Processors</strong>\"."
 msgstr ""
+"u ovom članku 3.1 spomenute osobe se u ovoj Politici zajednički nazivaju "
+"„<strong>Obrađivači</strong>”."
 
 #: wllegal/templates/legal/documents/privacy.html:182
 msgid ""
@@ -370,14 +379,14 @@ msgid ""
 "the Controller is prohibited, or it would be futile) that a request for the "
 "Personal Data has been made to allow the User to object to the disclosure."
 msgstr ""
-"Osobni podaci se mogu otkriti trećim stranama u ograničenim okolnostima kada "
-"kontrolor obrade u dobroj vjeri pretpostavlja da je to zakonski potrebno, "
-"kao što je sudski poziv ili drugi sudski ili administrativni nalog. U "
-"slučaju da kontrolor na osnovi zakona mora otkriti osobne podatke, pokušat "
-"će prethodno obavijestiti korisnika putem e-maila (osim ako je to kontroloru "
-"zabranjeno ili ako bi bilo uzaludno) da je postavljen zahtjev za osobnim "
-"podacima, kako bi se korisniku omogućilo ulaganje prigovora na otkrivanje "
-"podataka."
+"Osobni podatci se mogu otkriti trećim stranama u ograničenim okolnostima "
+"kada kontrolor obrade u dobroj vjeri pretpostavlja da je to zakonski "
+"potrebno, kao što je sudski poziv ili drugi sudski ili administrativni "
+"nalog. U slučaju da kontrolor na osnovi zakona mora otkriti osobne podatke, "
+"pokušat će prethodno obavijestiti korisnika putem e-maila (osim ako je to "
+"kontroloru zabranjeno ili ako bi bilo uzaludno) da je postavljen zahtjev za "
+"osobnim podatcima, kako bi se korisniku omogućilo ulaganje prigovora na "
+"otkrivanje podataka."
 
 #: wllegal/templates/legal/documents/privacy.html:190
 msgid ""
@@ -587,7 +596,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:296
 msgid "In Prague on November 1, 2024."
-msgstr ""
+msgstr "U Pragu, 1. listopada 2024."
 
 #: wllegal/templates/legal/documents/summary.html:5
 msgid ""
@@ -653,6 +662,11 @@ msgid ""
 "Services and Products. These general terms and conditions govern the "
 "contractual relationship between the service provider and the User."
 msgstr ""
+"Ovi Opći uvjeti poslovanja su sastavni dio ugovora o usluzi sklopljenog "
+"između Korisnika i Pružatelja (u daljnjem tekstu „<strong>Ugovor</strong>“) "
+"te definiraju obvezujuća pravila i uvjete za pružanje usluga i proizvoda te "
+"za korištenje usluga i proizvoda. Ovi opći uvjeti poslovanja uređuju "
+"ugovorni odnos između pružatelja usluge i Korisnika."
 
 #: wllegal/templates/legal/documents/tos.html:25
 msgid ""
@@ -673,7 +687,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:38
 msgid "Contracting Parties"
-msgstr ""
+msgstr "Ugovorne strane"
 
 #: wllegal/templates/legal/documents/tos.html:41
 msgid "jointly refers to the User and the Provider;"
@@ -1008,7 +1022,7 @@ msgstr "standardna cijena za prevodilačku memoriju;"
 msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
-msgstr ""
+msgstr "(točke a), b) i c) zajedno se nazivaju „<strong>Pretplata</strong>”)."
 
 #: wllegal/templates/legal/documents/tos.html:259
 msgid ""
