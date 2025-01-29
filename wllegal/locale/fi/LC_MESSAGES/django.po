@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-01-17 14:31+0000\n"
+"PO-Revision-Date: 2025-01-29 13:04+0000\n"
 "Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/weblate/legal/fi/"
 ">\n"
@@ -691,12 +691,10 @@ msgid "Civil Code"
 msgstr "Siviilikoodi"
 
 #: wllegal/templates/legal/documents/tos.html:34
-#, fuzzy
-#| msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
 msgstr ""
-"tarkoittaa Act No. %(law_89_2012)s:ta Coll., siviilikoodi, sellaisena kuin "
-"se on muutettuna"
+"tarkoittaa Act No. 89/2012 :ta Coll., siviilikoodi, sellaisena kuin se on "
+"muutettuna"
 
 #: wllegal/templates/legal/documents/tos.html:38
 msgid "Contracting Parties"
@@ -734,16 +732,12 @@ msgid "GDPR"
 msgstr "GDPR eli yleinen tietosuoja-asetus"
 
 #: wllegal/templates/legal/documents/tos.html:62
-#, fuzzy
-#| msgid ""
-#| "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
-#| "Regulation"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
 msgstr ""
-"tarkoittaa EU:n asetusta No. %(law_679_2016)s, General Data Protection "
-"Regulation"
+"tarkoittaa EU:n asetusta N:o 679/2016, yleisasetusta henkilötietojen "
+"suojasta;"
 
 #: wllegal/templates/legal/documents/tos.html:66
 msgid "GTC"
@@ -760,18 +754,12 @@ msgid "Hosted String"
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:76
-#, fuzzy
-#| msgid ""
-#| "The pricing is based on number of source strings and number of target "
-#| "languages. The source string is a text unit defined in a translation "
-#| "format, it can be word, sentence or a paragraph."
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
 msgstr ""
-"Hinnoittelu perustuu lähdetekstien ja kohdekielien määrään. Lähdeteksti on "
-"tekstiyksikkö joka on määritelty käännösmuotoilussa, ja se voi olla joko "
-"sana, lause tai kappale."
+"tarkoittaa käännösmuodossa määriteltyä tekstiyksikköä. Se voi olla sana, "
+"lause tai kappale;"
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid "Hosted Weblate"
@@ -789,10 +777,6 @@ msgid "License"
 msgstr "Lisenssi"
 
 #: wllegal/templates/legal/documents/tos.html:90
-#, fuzzy
-#| msgid ""
-#| "means non-exclusive license granted by the Provider to the User for use "
-#| "of the Service"
 msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
@@ -805,16 +789,12 @@ msgid "Personal Data"
 msgstr "Henkilökohtaiset tiedot"
 
 #: wllegal/templates/legal/documents/tos.html:97
-#, fuzzy
-#| msgid ""
-#| "means personal data within the meaning of EU Regulation No. "
-#| "%(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"tarkoittaa EU-asetuksessa tarkoitettuja henkilötietoja No. "
-"%(law_679_2016)s , jonka Käyttäjä on lisännyt Palveluun ja/tai Evästeisiin"
+"tarkoittaa EU-asetuksessa 679/2016 määriteltyjä henkilötietoja, jotka "
+"käyttäjä on syöttänyt Palveluun ja/tai Evästeisiin;"
 
 #: wllegal/templates/legal/documents/tos.html:101
 #: wllegal/templates/legal/documents/tos.html:236
@@ -865,14 +845,11 @@ msgid "Service"
 msgstr "Palvelu"
 
 #: wllegal/templates/legal/documents/tos.html:132
-#, fuzzy
-#| msgid ""
-#| "means the website and services based on Weblate operated by the Provider"
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
 msgstr ""
-"tarkoittaa Palveluntarjoajan ylläpitämää verkkosivustoa ja Weblate-pohjaisia "
-"palveluita"
+"tarkoittaa Palveluntarjoajan tarjoamia Web-sivustoon perustuvia "
+"verkkosivustoja ja palveluita;"
 
 #: wllegal/templates/legal/documents/tos.html:136
 msgid "Self-hosting"
@@ -902,28 +879,21 @@ msgid "Translation Memory"
 msgstr "Käännösmuisti"
 
 #: wllegal/templates/legal/documents/tos.html:153
-#, fuzzy
-#| msgid ""
-#| "means the optional translation memory service provided within Weblate"
 msgid "means an optional translation memory service provided on Weblate;"
 msgstr ""
-"tarkoittaa valinnaista käännösmuistipalvelua, joka tarjotaan Weblatessa"
+"tarkoittaa valinnaista käännösmuistipalvelua, joka tarjotaan Weblatessa;"
 
 #: wllegal/templates/legal/documents/tos.html:157
 msgid "User"
 msgstr "Käyttäjä"
 
 #: wllegal/templates/legal/documents/tos.html:160
-#, fuzzy
-#| msgid ""
-#| "means any legal entity or an individual other than the Provider, who is "
-#| "using the Service"
 msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
 msgstr ""
-"tarkoittaa mitä tahansa oikeushenkilöä tai henkilöä, joka ei ole "
-"Palveluntarjoaja ja joka käyttää Palvelua"
+"tarkoittaa mitä tahansa muuta oikeushenkilöä tai luonnollista henkilöä kuin "
+"Palveluntarjoajaa, joka käyttää Palvelua;"
 
 #: wllegal/templates/legal/documents/tos.html:164
 msgid "User Account"
@@ -1058,10 +1028,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:250
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "Käännösmuisti"
+msgstr "Käännösmuistin normaali hinta;"
 
 #: wllegal/templates/legal/documents/tos.html:255
 msgid ""
@@ -1731,10 +1699,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:584
-#, fuzzy
-#| msgid "means translation project operated on the Service"
 msgid "Any other matters related to the Service."
-msgstr "tarkoittaa Palvelussa toimivaa käännösprojektia"
+msgstr "Kaikki muut Palveluun liittyvät asiat."
 
 #: wllegal/templates/legal/documents/tos.html:589
 msgid ""
