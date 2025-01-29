@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-01-23 21:42+0000\n"
+"PO-Revision-Date: 2025-01-30 19:38+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/weblate/legal/"
 "hr/>\n"
@@ -691,7 +691,7 @@ msgstr "Ugovorne strane"
 
 #: wllegal/templates/legal/documents/tos.html:41
 msgid "jointly refers to the User and the Provider;"
-msgstr ""
+msgstr "odnosi se zajedno na Korisnika i Pružatelja usluge;"
 
 #: wllegal/templates/legal/documents/tos.html:45
 msgid "Cookies"
