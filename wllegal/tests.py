@@ -7,18 +7,18 @@ from django.urls import reverse
 
 
 class LegalTestCase(TestCase):
-    def test_terms(self):
+    def test_terms(self) -> None:
         response = self.client.get(reverse("legal:terms"))
         self.assertContains(response, "21668027")
 
-    def test_privacy(self):
+    def test_privacy(self) -> None:
         response = self.client.get(reverse("legal:privacy"))
         self.assertContains(response, "21668027")
 
-    def test_index(self):
+    def test_index(self) -> None:
         response = self.client.get(reverse("legal:index"))
         self.assertContains(response, "We process personal data")
 
-    def test_security(self):
+    def test_security(self) -> None:
         response = self.client.get("/security.txt")
         self.assertContains(response, "https://hackerone.com/weblate")

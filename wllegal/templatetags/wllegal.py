@@ -3,16 +3,15 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
 from __future__ import annotations
 
-from weblate_language_data.docs import DOCUMENTATION_LANGUAGES
-
-from django.utils.translation import get_language
 from django import template
+from django.utils.translation import get_language
+from weblate_language_data.docs import DOCUMENTATION_LANGUAGES
 
 register = template.Library()
 
 
 @register.simple_tag
-def weblate_documentation(page: str, anchor: str = ""):
+def weblate_documentation(page: str, anchor: str = "") -> str:
     """Return link to Weblate documentation."""
     doc_version = "latest"
     # Language variant

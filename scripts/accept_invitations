@@ -14,8 +14,10 @@ import sys
 
 import requests
 
+TIMEOUT = 60
 
-def main():
+
+def main() -> None:
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"token {sys.argv[1]}",
@@ -24,7 +26,11 @@ def main():
     url = "https://api.github.com/user/memberships/orgs"
     accept_url = "https://api.github.com/user/memberships/orgs/{}"
 
-    orgs = requests.get(url, headers=headers)
+    orgs = requests.get(
+        url,
+        headers=headers,
+        timeout=TIMEOUT,
+    )
     orgs.raise_for_status()
 
     for org in orgs.json():
@@ -32,18 +38,27 @@ def main():
             name = org["organization"]["login"]
             print(f"Accepting org {name}")  # noqa: T201
             response = requests.patch(
-                accept_url.format(name), '{"state":"active"}', headers=headers
+                accept_url.format(name),
+                '{"state":"active"}',
+                headers=headers,
+                timeout=TIMEOUT,
             )
             response.raise_for_status()
 
     url = "https://api.github.com/user/repository_invitations"
 
-    invitations = requests.get(url, headers=headers)
+    invitations = requests.get(
+        url,
+        headers=headers,
+        timeout=TIMEOUT,
+    )
     invitations.raise_for_status()
     for invitation in invitations.json():
         print("Accepting {}".format(invitation["repository"]["html_url"]))  # noqa: T201
         response = requests.patch(
-            "{}/{}".format(url, invitation["id"]), headers=headers
+            "{}/{}".format(url, invitation["id"]),
+            headers=headers,
+            timeout=TIMEOUT,
         )
         response.raise_for_status()
 
