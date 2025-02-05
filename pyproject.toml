@@ -147,8 +147,7 @@ ignore = [
   "E501",  # WONTFIX: we accept long strings (rest is formatted by black)
   "RUF001",  # WONTFIX: String contains ambiguous unicode character, we are using Unicode
   "PTH",  # TODO: Not using pathlib
-  "COM",  # CONFIG: No trailing commas
-  "RUF012"  # TODO: Mutable class attributes should be annotated with `typing.ClassVar`
+  "COM"  # CONFIG: No trailing commas
 ]
 select = ["ALL"]
 

@@ -4,12 +4,15 @@
 #
 # SPDX-License-Identifier: GPL-3.0-or-later
 
+from __future__ import annotations
+
 import os
 from distutils.command.build import build
 from distutils.core import Command
 from distutils.dep_util import newer
 from glob import glob
 from itertools import chain
+from typing import ClassVar
 
 from setuptools import setup
 from translate.tools.pocompile import convertmo
@@ -21,7 +24,7 @@ LOCALE_MASKS = [
 
 class BuildMo(Command):
     description = "update MO files to match PO"
-    user_options = []
+    user_options: ClassVar = []
 
     def initialize_options(self) -> None:
         self.build_base = None
@@ -43,7 +46,7 @@ class WeblateBuild(build):
     """Override the default build with new subcommands."""
 
     # The build_mo has to be before build_data
-    sub_commands = [
+    sub_commands: ClassVar = [
         ("build_mo", lambda self: True),  # noqa: ARG005
         *build.sub_commands,
     ]
