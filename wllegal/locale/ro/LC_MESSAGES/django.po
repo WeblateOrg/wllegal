@@ -5,11 +5,11 @@
 # Michal Čihař <michal@cihar.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2024-11-19 13:40+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-02-06 18:37+0000\n"
+"Last-Translator: Vlăduț Ilie <vladilie94@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/weblate/legal/"
 "ro/>\n"
 "Language: ro\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -33,16 +33,12 @@ msgid "Status as of May 2024."
 msgstr "Situația din martie 2023."
 
 #: wllegal/templates/legal/documents/privacy.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
-"Documentul Termenilor serviciului de furnizare a serviciilor este în limba "
-"engleză, iar traducerile sunt furnizate pentru confortul tău."
+"Documentul Politica de confidențialitate este, din punct de vedere juridic, "
+"în limba engleză, iar traducerile sunt furnizate pentru confortul tău."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:7
@@ -650,16 +646,13 @@ msgid "We don’t use any third-party cookies."
 msgstr "Nu folosim niciun cookie de la terți."
 
 #: wllegal/templates/legal/documents/tos.html:6
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
-"Documentul Termenilor serviciului de furnizare a serviciilor este în limba "
-"engleză, iar traducerile sunt furnizate pentru confortul tău."
+"Documentul Termenelor și condițiilor generale este, din punct de vedere "
+"juridic, în limba engleză, iar traducerile sunt furnizate pentru confortul "
+"tău."
 
 #: wllegal/templates/legal/documents/tos.html:12
 #, fuzzy
