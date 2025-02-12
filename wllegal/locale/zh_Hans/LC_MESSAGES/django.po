@@ -16,8 +16,9 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-01-24 19:24+0000\n"
-"Last-Translator: 大学没毕业 <ziweidao@foxmail.com>\n"
+"PO-Revision-Date: 2025-02-12 14:03+0000\n"
+"Last-Translator: 大王叫我来巡山 "
+"<hamburger2048@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/weblate/legal/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -372,24 +373,22 @@ msgstr ""
 msgid ""
 "hosting provider (including web hosting and mail hosting services), "
 "currently this is <strong>Hetzner Online GmbH</strong>;"
-msgstr ""
-"托管提供商（包括 web 托管和电子邮件托管服务），目前为<strong>Hetzner Online "
-"GmbH</strong>；"
+msgstr "托管提供商（包括 web 托管和电子邮件托管服务），目前为 <strong>Hetzner Online "
+"GmbH</strong>;"
 
 #: wllegal/templates/legal/documents/privacy.html:161
 msgid ""
 "operators of the payment gateway <strong>ThePay.cz, s.r.o.</strong> and "
 "possibly operators of other services used in connection with the payment of "
 "any payments related to billing;"
-msgstr ""
-"支付网关运营方 <strong>ThePay.cz, s.r.o.</strong>及任何账单相关付款的支付有关"
-"的所用其他服务的可能运营方；"
+msgstr "支付网关运营方 <strong>ThePay.cz, "
+"s.r.o.</strong>及任何账单相关付款的支付有关的所用其他服务的可能运营方;"
 
 #: wllegal/templates/legal/documents/privacy.html:164
 msgid ""
 "accounting, legal, and tax advisors of the Provider and possibly other "
 "persons bound by confidentiality under the law;"
-msgstr "提供者的会计、法律及税务顾问及可能的受法律保密性约束的其他个人；"
+msgstr "提供者的会计、法律及税务顾问及可能的受法律保密性约束的其他个人;"
 
 #: wllegal/templates/legal/documents/privacy.html:167
 msgid ""
@@ -401,7 +400,7 @@ msgstr "提供者雇佣的或与之协作的 C 级和其他管理员工；"
 msgid ""
 "selected contractors of the Provider who are involved in providing services "
 "to Users and who are also bound by confidentiality;"
-msgstr "提供者的选定承包商，参与向用户提供服务且不受保密性约束；"
+msgstr "提供者的选定承包商，参与向用户提供服务且不受保密性约束;"
 
 #: wllegal/templates/legal/documents/privacy.html:173
 msgid ""
@@ -791,7 +790,7 @@ msgstr "合约方"
 
 #: wllegal/templates/legal/documents/tos.html:41
 msgid "jointly refers to the User and the Provider;"
-msgstr "共同指用户和提供者；"
+msgstr "指用户和提供者；"
 
 #: wllegal/templates/legal/documents/tos.html:45
 msgid "Cookies"
@@ -880,7 +879,7 @@ msgstr "个人数据"
 msgid ""
 "means personal data as defined in EU Regulation 679/2016, entered by the "
 "user into the Service and/or Cookies;"
-msgstr "指欧盟法规679/2016中定义的个人数据，由用户在服务和/或cookie中输入；"
+msgstr "指欧盟法规679/2016中定义的个人数据，由用户在服务和/或 cookie 中输入；"
 
 #: wllegal/templates/legal/documents/tos.html:101
 #: wllegal/templates/legal/documents/tos.html:236
@@ -938,7 +937,7 @@ msgstr "服务"
 #: wllegal/templates/legal/documents/tos.html:132
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
-msgstr "指以提供商提供的 Weblate 为基础的站点和服务；"
+msgstr "指基于提供商提供的 Weblate 的站点和服务；"
 
 #: wllegal/templates/legal/documents/tos.html:136
 msgid "Self-hosting"
@@ -1653,7 +1652,7 @@ msgstr "传播或提供任何违反国家、欧盟或国际层面适用法律的
 msgid ""
 "Disseminating or offering any illegally obtained content or content whose "
 "dissemination would be illegal;"
-msgstr "传播或提供任何非法获得的内容或者传播内容行为将违法的内容；"
+msgstr "传播或提供任何非法获得的内容或者传播行为违法的内容；"
 
 #: wllegal/templates/legal/documents/tos.html:437
 msgid ""
