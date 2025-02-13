@@ -45,7 +45,7 @@ jobs:
         cache-suffix: test
     - name: Install pip dependencies
       run: |
-        uv pip install --system https://github.com/nijel/thepay/archive/weblate.zip .[test]
+        uv pip install --system https://github.com/nijel/thepay/archive/weblate.zip ".[test]"
     - name: Test with Django
       env:
         CI_DATABASE: postgresql
@@ -54,7 +54,7 @@ jobs:
         DJANGO_SETTINGS_MODULE: wllegal.settings_test
       run: |
         weblate collectstatic
-        coverage run `which weblate` test
+        coverage run "$(which weblate)" test
     - name: Coverage
       run: |
         coverage combine
