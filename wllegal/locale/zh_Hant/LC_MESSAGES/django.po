@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-02-12 14:03+0000\n"
+"PO-Revision-Date: 2025-02-16 10:45+0000\n"
 "Last-Translator: hugoalh <hugoalh@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/weblate/legal/zh_Hant/>\n"
@@ -19,17 +19,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.10-dev\n"
+"X-Generator: Weblate 5.10\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "轉包商遵守《通用資料保護法》第28條之細則"
 
 #: wllegal/templates/legal/documents/contracts.html:11
-#, fuzzy
-#| msgid "Status as of March 2023."
 msgid "Status as of May 2024."
-msgstr "截至 2023 年 3 月的狀態。"
+msgstr "截至 2024 年 5 月的狀態。"
 
 #: wllegal/templates/legal/documents/privacy.html:5
 msgid ""
@@ -174,13 +172,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr ""
+msgstr "使用者的頭像，"
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail address"
 msgid "email address(es),"
-msgstr "名稱和電子郵件地址"
+msgstr "電子郵件地址，"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -855,7 +851,7 @@ msgstr "指「供應商」基於 Weblate 營運的網站與服務"
 
 #: wllegal/templates/legal/documents/tos.html:136
 msgid "Self-hosting"
-msgstr ""
+msgstr "自託管"
 
 #: wllegal/templates/legal/documents/tos.html:139
 msgid ""
