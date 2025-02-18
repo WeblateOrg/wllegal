@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-02-18 20:17+0000\n"
+"PO-Revision-Date: 2025-02-18 20:35+0000\n"
 "Last-Translator: cat <catsnote@proton.me>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/weblate/legal/da/>"
 "\n"
@@ -133,6 +133,10 @@ msgid ""
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
 msgstr ""
+"Behandlingen udføres derefter enten direkte af Udbyderen og/eller "
+"tredjeparter jf. artikel 3 i Politikken, som er blevet bemyndiget af "
+"Udbyderen til at behandle personoplysninger i overensstemmelse med "
+"Politikken."
 
 #: wllegal/templates/legal/documents/privacy.html:45
 msgid ""
@@ -140,29 +144,36 @@ msgid ""
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
+"Såfremt andet ikke udtrykkeligt er angivet i Politikken, fungerer Udbyderen "
+"som <strong>dataansvarlig</strong>, og Brugere, der er fysiske personer, "
+"fungerer som registrerede, som disse roller er defineret i GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "Omfang, formål og varighed af behandling"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
-msgstr ""
+msgstr "Udbyderen behandler Brugerens personoplysninger til følgende formål:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
 msgstr ""
+"opfyldelse af Kontrakten i henhold til artikel 6, stk. 1, litra b), i GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
 msgstr ""
+"forhandling af Kontrakten i henhold til artikel 6, stk. 1, litra b), i GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
 msgstr ""
+"opfyldelse af Udbyderens juridiske forpligtelser i henhold til artikel 6, "
+"stk. 1, litra c), i GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
