@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-02-18 21:04+0000\n"
+"PO-Revision-Date: 2025-02-18 21:16+0000\n"
 "Last-Translator: cat <catsnote@proton.me>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/weblate/legal/da/>"
 "\n"
@@ -213,16 +213,16 @@ msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, X, and others),"
 msgstr ""
+"kaldenavn(e) (herunder eventuelle frivilligt tilknyttede platforme som "
+"Liberapay, GitHub, X og andre),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr ""
+msgstr "Brugerens avatar,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail address"
 msgid "email address(es),"
-msgstr "Navn og e-mailadresse"
+msgstr "e-mailadresse(r),"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -230,6 +230,9 @@ msgid ""
 "openSUSE, and Ubuntu in the event that accounts with these providers are "
 "linked to the User account,"
 msgstr ""
+"identifikatorer for Bitbucket, Facebook, Google, LinkedIn, GitHub, GitLab, "
+"openSUSE og Ubuntu, hvis konti hos disse udbydere er knyttet til "
+"Brugerkontoen,"
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
