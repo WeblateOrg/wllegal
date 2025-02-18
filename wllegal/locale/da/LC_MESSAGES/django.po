@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-02-18 17:08+0000\n"
+"PO-Revision-Date: 2025-02-18 17:33+0000\n"
 "Last-Translator: cat <catsnote@proton.me>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/weblate/legal/da/>"
 "\n"
@@ -31,16 +31,12 @@ msgid "Status as of May 2024."
 msgstr "Status pr. maj 2024."
 
 #: wllegal/templates/legal/documents/privacy.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
-"Dokumentet Tjenestevilkår er autoritativt på engelsk, oversættelser leveres "
-"for din bekvemmelighed."
+"Privatlivspolitikken er juridisk bindende på engelsk. Oversættelser leveres "
+"blot til din bekvemmelighed."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:7
@@ -54,11 +50,14 @@ msgid ""
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
+"Denne privatlivspolitik, herefter kaldet \"<strong>Politik</strong>\", "
+"supplerer Weblates <a href=\"%(terms_url)s\">generelle vilkår og "
+"betingelser</a>, herefter kaldet \"<strong>Vilkår</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:17
 msgid "Introductory Provisions"
-msgstr ""
+msgstr "Indledende bestemmelser"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
