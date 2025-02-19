@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-02-18 21:16+0000\n"
+"PO-Revision-Date: 2025-02-19 14:12+0000\n"
 "Last-Translator: cat <catsnote@proton.me>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/weblate/legal/da/>"
 "\n"
@@ -236,12 +236,12 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
-msgstr ""
+msgstr "specifikationer for den Tjeneste og det Produkt, Brugeren anvender,"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
-msgstr ""
+msgstr "oplysninger om antallet af Brugerens teammedlemmer og deres roller,"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
@@ -249,35 +249,44 @@ msgid ""
 "Profile), i.e., settings for languages, notifications, if they can identify "
 "the User directly or indirectly,"
 msgstr ""
+"alle øvrige brugerindstillinger for Brugerkontoen (herunder den såkaldte "
+"Profil), dvs. indstillinger for sprog og meddelelser, hvis de direkte eller "
+"indirekte kan identificere Brugeren,"
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
-msgstr ""
+msgstr "bankkontonummer og eventuelt andre af Brugerens betalingsoplysninger,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "kryptovaluta-tegnebogsadresse eller -adresser,"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
 "other personal data contained in messages sent by the User to the Provider "
 "(especially the subject and other content of the message),"
 msgstr ""
+"andre personoplysninger indeholdt i beskeder sendt af Brugeren til Udbyderen "
+"(især emnet og andet indhold i beskeden),"
 
 #: wllegal/templates/legal/documents/privacy.html:120
 msgid ""
 "other personal data contained in communications with the Provider's support,"
 msgstr ""
+"andre personoplysninger indeholdt i kommunikation med Udbyderens support,"
 
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
 msgstr ""
+"systemdata, logfiler og sessionslogfiler, herunder Brugerens IP-adresse,"
 
 #: wllegal/templates/legal/documents/privacy.html:128
 msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
+"hvor de enkelte kategorier af personoplysninger, der er anført ovenfor, "
+"fortsat vil blive omtalt samlet som \"<strong>Personoplysninger</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
