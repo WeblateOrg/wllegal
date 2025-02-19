@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-02-19 16:34+0000\n"
+"PO-Revision-Date: 2025-02-19 16:52+0000\n"
 "Last-Translator: cat <catsnote@proton.me>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/weblate/legal/da/>"
 "\n"
@@ -1014,10 +1014,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:228
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
-msgstr "Tjeneste"
+msgstr "Tjenestevarighed"
 
 #: wllegal/templates/legal/documents/tos.html:232
 msgid ""
@@ -1054,10 +1052,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:250
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "Oversættelseshukommelse"
+msgstr "normalpris for Oversættelseshukommelse;"
 
 #: wllegal/templates/legal/documents/tos.html:255
 msgid ""
@@ -1133,10 +1129,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:287
-#, fuzzy
-#| msgid "License"
 msgid "License Terms"
-msgstr "Licens"
+msgstr "Licensvilkår"
 
 #: wllegal/templates/legal/documents/tos.html:291
 #, python-format
@@ -1205,10 +1199,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:316
-#, fuzzy
-#| msgid "Payment error"
 msgid "Payment Terms"
-msgstr "Fejl ved betaling"
+msgstr "Betalingsvilkår"
 
 #: wllegal/templates/legal/documents/tos.html:320
 msgid ""
@@ -1271,7 +1263,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:344
 msgid "Provider's Rights and Obligations"
-msgstr ""
+msgstr "Udbyderens rettigheder og forpligtelser"
 
 #: wllegal/templates/legal/documents/tos.html:348
 msgid ""
@@ -1361,7 +1353,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:381
 msgid "User’s Rights and Obligations"
-msgstr ""
+msgstr "Brugerens rettigheder og forpligtelser"
 
 #: wllegal/templates/legal/documents/tos.html:385
 msgid ""
@@ -1751,10 +1743,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:601
-#, fuzzy
-#| msgid "The Personal Data retention"
 msgid "Personal Data Protection"
-msgstr "Opbevaring af personoplysninger"
+msgstr "Beskyttelse af personoplysninger"
 
 #: wllegal/templates/legal/documents/tos.html:605
 #, python-format
@@ -1853,7 +1843,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:649
 msgid "These Terms enter into force on November 1, 2024."
-msgstr ""
+msgstr "Disse Vilkår træder i kraft den 1. november 2024."
 
 #, python-format
 #~ msgid ""
