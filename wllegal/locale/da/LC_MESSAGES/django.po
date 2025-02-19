@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-02-19 14:54+0000\n"
+"PO-Revision-Date: 2025-02-19 15:22+0000\n"
 "Last-Translator: cat <catsnote@proton.me>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/weblate/legal/da/>"
 "\n"
@@ -649,16 +649,12 @@ msgstr ""
 "slettet fra databasen, hvis du fjerner din konto."
 
 #: wllegal/templates/legal/documents/summary.html:8
-#, fuzzy
-#| msgid ""
-#| "Your translations are made under license which is specified by each "
-#| "translation."
 msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
 msgstr ""
-"Oversættelser er foretaget i henhold til licensen, som er angivet ved hver "
-"enkelt oversættelse."
+"Dine oversættelser er foretaget i henhold til den licens, som er angivet ved "
+"hver oversættelse."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid ""
@@ -678,19 +674,15 @@ msgstr "Vi bruger cookies til at levere vores tjenester."
 
 #: wllegal/templates/legal/documents/summary.html:16
 msgid "We don’t use any third-party cookies."
-msgstr ""
+msgstr "Vi bruger ikke tredjepartscookies."
 
 #: wllegal/templates/legal/documents/tos.html:6
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
-"Dokumentet Tjenestevilkår er autoritativt på engelsk, oversættelser leveres "
-"for din bekvemmelighed."
+"De Generelle Vilkår og Betingelser er juridisk bindende på engelsk. "
+"Oversættelser leveres blot til din bekvemmelighed."
 
 #: wllegal/templates/legal/documents/tos.html:12
 #, fuzzy
