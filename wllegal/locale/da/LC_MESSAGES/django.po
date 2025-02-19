@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-02-19 16:14+0000\n"
+"PO-Revision-Date: 2025-02-19 16:27+0000\n"
 "Last-Translator: cat <catsnote@proton.me>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/weblate/legal/da/>"
 "\n"
@@ -814,21 +814,17 @@ msgid "Personal Data"
 msgstr "Personlige Data"
 
 #: wllegal/templates/legal/documents/tos.html:97
-#, fuzzy
-#| msgid ""
-#| "means personal data within the meaning of EU Regulation No. "
-#| "%(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"betyder personoplysninger i henhold til EU-forordning nr. %(law_679_2016)s, "
-"som brugeren har indsat i tjenesten og/eller cookies"
+"betyder personoplysninger i henhold til EU-forordning 679/2016, som Brugeren "
+"har indsat i Tjenesten og/eller Cookies;"
 
 #: wllegal/templates/legal/documents/tos.html:101
 #: wllegal/templates/legal/documents/tos.html:236
 msgid "Price"
-msgstr ""
+msgstr "Pris"
 
 #: wllegal/templates/legal/documents/tos.html:104
 msgid ""
@@ -838,7 +834,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:108
 msgid "Price List"
-msgstr ""
+msgstr "Prisliste"
 
 #: wllegal/templates/legal/documents/tos.html:111
 msgid ""
@@ -848,7 +844,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:115
 msgid "Product"
-msgstr ""
+msgstr "Produkt"
 
 #: wllegal/templates/legal/documents/tos.html:118
 msgid ""
@@ -874,13 +870,11 @@ msgid "Service"
 msgstr "Tjeneste"
 
 #: wllegal/templates/legal/documents/tos.html:132
-#, fuzzy
-#| msgid ""
-#| "means the website and services based on Weblate operated by the Provider"
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
 msgstr ""
-"betyder hjemmesiden og tjenester baseret på Weblate, der drives af udbyderen"
+"betyder hjemmesider og tjenester baseret på Weblate, der leveres af "
+"Udbyderen;"
 
 #: wllegal/templates/legal/documents/tos.html:136
 msgid "Self-hosting"
@@ -893,10 +887,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:143
-#, fuzzy
-#| msgid "Service"
 msgid "Support Services"
-msgstr "Tjeneste"
+msgstr "Supporttjenester"
 
 #: wllegal/templates/legal/documents/tos.html:146
 msgid ""
