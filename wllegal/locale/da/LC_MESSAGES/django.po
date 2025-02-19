@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-02-19 16:27+0000\n"
+"PO-Revision-Date: 2025-02-19 16:34+0000\n"
 "Last-Translator: cat <catsnote@proton.me>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/weblate/legal/da/>"
 "\n"
@@ -902,11 +902,8 @@ msgid "Translation Memory"
 msgstr "Oversættelseshukommelse"
 
 #: wllegal/templates/legal/documents/tos.html:153
-#, fuzzy
-#| msgid ""
-#| "means the optional translation memory service provided within Weblate"
 msgid "means an optional translation memory service provided on Weblate;"
-msgstr "den valgfrie oversættelseshukommelsestjeneste, der leveres i Weblate"
+msgstr "betyder en valgfri oversættelseshukommelsestjeneste leveret på Weblate;"
 
 #: wllegal/templates/legal/documents/tos.html:157
 msgid "User"
@@ -926,7 +923,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:164
 msgid "User Account"
-msgstr ""
+msgstr "Brugerkonto"
 
 #: wllegal/templates/legal/documents/tos.html:167
 msgid ""
@@ -936,7 +933,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:171
 msgid "User Server"
-msgstr ""
+msgstr "Brugerserver"
 
 #: wllegal/templates/legal/documents/tos.html:174
 msgid ""
@@ -950,17 +947,15 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:184
 msgid "The License is granted to the User based on the concluded Agreement."
-msgstr ""
+msgstr "Licenses gives til Brugeren baseret på den indgåede Aftale."
 
 #: wllegal/templates/legal/documents/tos.html:188
 msgid "These GTC are an integral part of the Agreement."
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:192
-#, fuzzy
-#| msgid "License Agreement Conclusion"
 msgid "The Agreement is concluded:"
-msgstr "Licensaftale Konklusion"
+msgstr "Aftalen er indgået:"
 
 #: wllegal/templates/legal/documents/tos.html:197
 msgid ""
