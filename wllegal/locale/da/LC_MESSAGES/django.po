@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-02-19 15:22+0000\n"
+"PO-Revision-Date: 2025-02-19 15:30+0000\n"
 "Last-Translator: cat <catsnote@proton.me>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/weblate/legal/da/>"
 "\n"
@@ -685,16 +685,12 @@ msgstr ""
 "Oversættelser leveres blot til din bekvemmelighed."
 
 #: wllegal/templates/legal/documents/tos.html:12
-#, fuzzy
-#| msgid ""
-#| "The rights and obligations of the User and the Provider resulting from "
-#| "the use of the Service are governed by these Terms of Service."
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
 msgstr ""
-"Brugerens og udbyderens rettigheder og forpligtelser som følge af brugen af "
-"tjenesten er reguleret af disse vilkår for tjenesten."
+"Brugerens og Udbyderens rettigheder og forpligtelser ved brug af Tjenesten "
+"reguleres af disse Generelle Vilkår og Betingelser."
 
 #: wllegal/templates/legal/documents/tos.html:21
 msgid ""
