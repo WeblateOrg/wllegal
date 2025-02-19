@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-02-19 15:44+0000\n"
+"PO-Revision-Date: 2025-02-19 16:14+0000\n"
 "Last-Translator: cat <catsnote@proton.me>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/weblate/legal/da/>"
 "\n"
@@ -715,10 +715,8 @@ msgid "Civil Code"
 msgstr "Civillovbog"
 
 #: wllegal/templates/legal/documents/tos.html:34
-#, fuzzy
-#| msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
-msgstr "lov nr. %(law_89_2012)s Coll., den civile lovbog, som ændret"
+msgstr "betyder lov nr. 89/2012, civillovbog, som ændret;"
 
 #: wllegal/templates/legal/documents/tos.html:38
 msgid "Contracting Parties"
@@ -750,22 +748,19 @@ msgid ""
 "means a form of collaboration where the User is the sole user of the Service "
 "in a cloud hosted and provided by the Provider;"
 msgstr ""
+"betyder en form for samarbejde, hvor Brugeren er den eneste bruger af "
+"Tjenesten i en sky, der hostes og leveres af Udbyderen;"
 
 #: wllegal/templates/legal/documents/tos.html:59
 msgid "GDPR"
 msgstr "GDPR"
 
 #: wllegal/templates/legal/documents/tos.html:62
-#, fuzzy
-#| msgid ""
-#| "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
-#| "Regulation"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
 msgstr ""
-"betyder EU-forordning nr. %(law_679_2016)s, den generelle "
-"databeskyttelsesforordning"
+"betyder EU-forordning nr. 679/2016, generel forordning om databeskyttelse;"
 
 #: wllegal/templates/legal/documents/tos.html:66
 msgid "GTC"
@@ -776,24 +771,20 @@ msgid ""
 "means these general terms and conditions, which form an integral part of the "
 "Agreement;"
 msgstr ""
+"betyder disse generelle vilkår og betingelser, som udgør en væsentlig del af "
+"Aftalen;"
 
 #: wllegal/templates/legal/documents/tos.html:73
 msgid "Hosted String"
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:76
-#, fuzzy
-#| msgid ""
-#| "Pricing is based on the number of source strings and target languages. "
-#| "The source string is a text unit defined in a translation format, it can "
-#| "be a word, sentence or paragraph."
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
 msgstr ""
-"Prissætningen er baseret på antallet af kildestrenge og målsprog. "
-"Kildestrengen er en tekstenhed defineret i et oversættelsesformat, kan være "
-"et ord, sætning eller afsnit."
+"betyder en tekstenhed defineret i oversættelsesformatet. Det kan være et "
+"ord, en sætning eller et afsnit;"
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid "Hosted Weblate"
@@ -811,16 +802,12 @@ msgid "License"
 msgstr "Licens"
 
 #: wllegal/templates/legal/documents/tos.html:90
-#, fuzzy
-#| msgid ""
-#| "means non-exclusive license granted by the Provider to the User for use "
-#| "of the Service"
 msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
 msgstr ""
-"betyder ikke-eksklusiv licens, som udbyderen har givet brugeren til brug af "
-"tjenesten"
+"betyder den ikke-eksklusive licens, som Udbyderen giver Brugeren til brug af "
+"Tjenesten;"
 
 #: wllegal/templates/legal/documents/tos.html:94
 msgid "Personal Data"
