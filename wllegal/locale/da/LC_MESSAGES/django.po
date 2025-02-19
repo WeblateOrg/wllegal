@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-02-19 14:12+0000\n"
+"PO-Revision-Date: 2025-02-19 14:19+0000\n"
 "Last-Translator: cat <catsnote@proton.me>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/weblate/legal/da/>"
 "\n"
@@ -353,10 +353,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:149
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Recipients and Processors of Personal Data"
-msgstr "Adgang til den personlige data"
+msgstr "Modtagere og behandlere af personoplysninger"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
