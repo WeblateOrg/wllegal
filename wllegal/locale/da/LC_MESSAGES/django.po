@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-02-19 16:52+0000\n"
+"PO-Revision-Date: 2025-02-25 03:08+0000\n"
 "Last-Translator: cat <catsnote@proton.me>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/weblate/legal/da/>"
 "\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.1-dev\n"
+"X-Generator: Weblate 5.10.2-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -910,16 +910,12 @@ msgid "User"
 msgstr "Bruger"
 
 #: wllegal/templates/legal/documents/tos.html:160
-#, fuzzy
-#| msgid ""
-#| "means any legal entity or an individual other than the Provider, who is "
-#| "using the Service"
 msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
 msgstr ""
-"betyder enhver juridisk enhed eller individ, bortset fra Leverandøren, som "
-"bruger Tjenesten"
+"betyder enhver juridisk enhed eller fysisk person, bortset fra Udbyderen, "
+"der bruger Tjenesten;"
 
 #: wllegal/templates/legal/documents/tos.html:164
 msgid "User Account"
