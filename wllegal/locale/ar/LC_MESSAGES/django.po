@@ -7,20 +7,20 @@
 # Omar Aglan <omar.aglan91@yahoo.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2024-11-19 14:16+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Arabic <https://hosted.weblate.org/projects/weblate/legal/ar/"
-">\n"
+"PO-Revision-Date: 2025-03-01 20:23+0000\n"
+"Last-Translator: Basheer Radman <ba2014sheer@gmail.com>\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/weblate/legal/ar/>"
+"\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.10.3-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -54,11 +54,15 @@ msgid ""
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
+"تكمل سياسة الخصوصية هذه، والتي يشار إليها فيما بعد باسم "
+"\"<strong>السياسة</strong>\"، <a href=\"%(terms_url)s\">الشروط والأحكام "
+"العامة</a> الخاصة بـ Weblate، والتي يشار إليها فيما بعد باسم "
+"\"<strong>الشروط</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:17
 msgid "Introductory Provisions"
-msgstr ""
+msgstr "الأحكام التمهيدية"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
@@ -67,6 +71,10 @@ msgid ""
 "the Commercial Register kept by the Regional Court in Ústí nad Labem, file "
 "No. C 52324, i.e. the \"<strong>Provider</strong>\"."
 msgstr ""
+"تم إصدار هذه السياسة من قبل شركة weblate s.r.o.، رقم الهوية: 21668027، "
+"ومقرها المسجل في Nábřežní 694، Cvikov II، 471 54 Cvikov، والمسجلة في السجل "
+"التجاري الذي تحتفظ به المحكمة الإقليمية في Ústí nad Labem، رقم الملف C 52324،"
+" أي \"<strong>المزود</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid ""
@@ -75,6 +83,10 @@ msgid ""
 "the Services, Products, Support Services, as well as when using the Website "
 "and other possible services and related activities."
 msgstr ""
+"تصف هذه السياسة كيفية تعامل المزود مع البيانات الشخصية للمستخدمين كأصحاب "
+"بيانات - أفراد عند الوصول إلى الخدمات والمنتجات وخدمات الدعم واستخدامها "
+"لاحقًا، وكذلك عند استخدام الموقع الإلكتروني والخدمات الأخرى الممكنة والأنشطة "
+"ذات الصلة."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid ""
@@ -82,6 +94,8 @@ msgid ""
 "in Article 1 of the Terms and which have the same meaning as set out in the "
 "Terms."
 msgstr ""
+"وتستخدم هذه السياسة أيضًا بعض المصطلحات أو التعريفات التي تم تعريفها في "
+"المادة 1 من الشروط والتي لها نفس المعنى المنصوص عليه في الشروط."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
