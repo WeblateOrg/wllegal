@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-03-01 20:23+0000\n"
+"PO-Revision-Date: 2025-03-01 20:44+0000\n"
 "Last-Translator: Basheer Radman <ba2014sheer@gmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/weblate/legal/ar/>"
 "\n"
@@ -108,6 +108,13 @@ msgid ""
 "personal data and the protection of privacy in the electronic communications "
 "sector (abbreviated as the \"<strong>ePrivacy Directive</strong>\")."
 msgstr ""
+"في معالجة البيانات الشخصية، يلتزم المزود باللائحة (الاتحاد الأوروبي) 2016/"
+"679 للبرلمان الأوروبي والمجلس، واللائحة العامة لحماية البيانات، والمعروفة أيضً"
+"ا باسم GDPR (سنستخدم فيما يلي الاختصار \"<strong>GDPR</strong>\")، والقانون "
+"رقم 110/2019 Coll.، بشأن معالجة البيانات الشخصية، بالإضافة إلى التوجيه 2002/"
+"58/EC للبرلمان الأوروبي والمجلس بتاريخ 12 يوليو 2002 بشأن معالجة البيانات "
+"الشخصية وحماية الخصوصية في قطاع الاتصالات الإلكترونية (المختصر باسم "
+"\"<strong>توجيه الخصوصية الإلكترونية</strong>\")."
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -117,6 +124,10 @@ msgid ""
 "registers for the Provider's newsletter and/or when the Provider and the "
 "User conclude the Contract, whichever is the earliest."
 msgstr ""
+"يتم دائمًا تنفيذ المعالجة الفعلية للبيانات الشخصية للمستخدمين فقط للأغراض "
+"والشروط المحددة بمزيد من التفصيل في هذه السياسة وتبدأ في اللحظة التي يزور "
+"فيها المستخدم موقع الويب، أو عندما يسجل المستخدم في النشرة الإخبارية للمزود "
+"و/أو عندما يبرم المزود والمستخدم العقد، أيهما أقرب."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid ""
@@ -125,6 +136,9 @@ msgid ""
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
 msgstr ""
+"ويتم بعد ذلك تنفيذ المعالجة إما بشكل مباشر من قبل المزود و/أو من قبل أطراف "
+"ثالثة وفقًا للمادة 3 من هذه السياسة والتي تم تفويضها من قبل المزود لمعالجة "
+"البيانات الشخصية وفقًا لهذه السياسة."
 
 #: wllegal/templates/legal/documents/privacy.html:45
 msgid ""
@@ -132,35 +146,43 @@ msgid ""
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
+"ما لم يُنص صراحةً على خلاف ذلك في هذه السياسة، يعمل المزود<strong> كمسؤول عن "
+"البيانات ويعمل المستخدمون</strong> الذين هم أشخاص طبيعيون كأصحاب بيانات كما "
+"هو محدد في اللائحة العامة لحماية البيانات."
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "نطاق وأغراض ومدة المعالجة"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
-msgstr ""
+msgstr "يقوم المزود بمعالجة البيانات الشخصية للمستخدم للأغراض التالية:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "الوفاء بالعقد بموجب المادة 6(1)(ب) من اللائحة العامة لحماية البيانات،"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
 msgstr ""
+"التفاوض على العقد بموجب المادة 6(1)(ب) من اللائحة العامة لحماية البيانات،"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
 msgstr ""
+"الوفاء بالالتزامات القانونية للمزود بموجب المادة 6(1)(ج) من اللائحة العامة "
+"لحماية البيانات،"
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, "
 "and in selected cases also"
 msgstr ""
+"المصالح المشروعة للمزود بموجب المادة 6(1)(و) من اللائحة العامة لحماية "
+"البيانات، وفي حالات مختارة أيضًا"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
