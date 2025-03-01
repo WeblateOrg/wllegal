@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-03-01 20:44+0000\n"
+"PO-Revision-Date: 2025-03-01 21:31+0000\n"
 "Last-Translator: Basheer Radman <ba2014sheer@gmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/weblate/legal/ar/>"
 "\n"
@@ -187,40 +187,42 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
 msgstr ""
+"الموافقة الممنوحة من قبل المستخدم بموجب المادة 6(1)(أ) من اللائحة العامة "
+"لحماية البيانات."
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
 msgstr ""
+"يشمل نطاق البيانات الشخصية للمستخدم التي تتم معالجتها بواسطة المزود ما يلي:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr ""
+msgstr "الاسم الأول والأخير،"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr ""
+msgstr "عنوان المستخدم (التسليم والفاتورة)،"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr ""
+msgstr "رقم الشركة ورقم الضريبة،"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, X, and others),"
 msgstr ""
+"الألقاب (بما في ذلك أي منصات مرتبطة طوعيًا مثل Liberapay وGitHub وX وغيرها)،"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail address"
 msgid "email address(es),"
-msgstr "الاسم وعنوان البريد الإلكتروني"
+msgstr "عنوان(عناوين) البريد الإلكتروني،"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -228,15 +230,17 @@ msgid ""
 "openSUSE, and Ubuntu in the event that accounts with these providers are "
 "linked to the User account,"
 msgstr ""
+"معرفات Bitbucket وFacebook وGoogle وLinkedIn وGitHub وGitLab وopenSUSE "
+"وUbuntu في حالة ربط الحسابات مع هؤلاء المزودين بحساب المستخدم،"
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
-msgstr ""
+msgstr "مواصفات الخدمة والمنتج الذي يستخدمه المستخدم،"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
-msgstr ""
+msgstr "معلومات حول عدد أعضاء فريق المستخدم وأدوارهم،"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
@@ -244,14 +248,17 @@ msgid ""
 "Profile), i.e., settings for languages, notifications, if they can identify "
 "the User directly or indirectly,"
 msgstr ""
+"جميع إعدادات المستخدم الأخرى لحساب المستخدم (بما في ذلك ما يسمى بالملف "
+"الشخصي)، أي إعدادات اللغات والإشعارات، إذا كان بإمكانها تحديد هوية المستخدم "
+"بشكل مباشر أو غير مباشر،"
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
-msgstr ""
+msgstr "رقم الحساب المصرفي وربما تفاصيل الدفع الأخرى للمستخدم،"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "عنوان أو عناوين محفظة العملة المشفرة،"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
