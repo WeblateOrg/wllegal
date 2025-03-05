@@ -12,8 +12,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-02-01 19:29+0000\n"
-"Last-Translator: Kyotaro Iijima <kyotaro.eyes@gmail.com>\n"
+"PO-Revision-Date: 2025-03-05 18:24+0000\n"
+"Last-Translator: Đèmòñ ślãýèř <rmeo11273@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/weblate/legal/"
 "ja/>\n"
 "Language: ja\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.10-dev\n"
+"X-Generator: Weblate 5.10.3-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -146,8 +146,11 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:71
+#, fuzzy
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
 msgstr ""
+"https://hosted.weblate.org/translate/weblate/legal/ja/"
+"?checksum=31367d6cbf9ab905"
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
