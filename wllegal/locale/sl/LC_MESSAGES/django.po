@@ -5,11 +5,11 @@
 # anonymous <noreply@weblate.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2024-11-19 14:16+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-03-13 11:19+0000\n"
+"Last-Translator: Vinko Kastelic <vinko.kastelic@gmail.com>\n"
 "Language-Team: Slovenian <https://hosted.weblate.org/projects/weblate/legal/"
 "sl/>\n"
 "Language: sl\n"
@@ -18,11 +18,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
 "n%100==4 ? 2 : 3;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.10.3\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr ""
+msgstr "Podizvajalci v skladu s 3. čl. 28 GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:11
 msgid "Status as of May 2024."
@@ -708,18 +708,12 @@ msgid "Hosted String"
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:76
-#, fuzzy
-#| msgid ""
-#| "The pricing is based on number of source strings and number of target "
-#| "languages. The source string is a text unit defined in a translation "
-#| "format, it can be word, sentence or a paragraph."
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
 msgstr ""
-"Cena temelji na številu izvirnih nizov in številu ciljnih jezikov. Izvirni "
-"niz je besedilna enota, opredeljena v prevajalski obliki; lahko je beseda, "
-"poved ali odstavek."
+"pomeni besedilno enoto, definirano v formatu prevoda. Lahko je beseda, "
+"stavek ali odstavek;"
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid "Hosted Weblate"
@@ -979,10 +973,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:250
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "Spomin prevodov"
+msgstr "redna cena za pomnilnik prevodov;"
 
 #: wllegal/templates/legal/documents/tos.html:255
 msgid ""
@@ -1130,10 +1122,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:316
-#, fuzzy
-#| msgid "Failed to process form!"
 msgid "Payment Terms"
-msgstr "Nismo uspeli obdelati obrazca!"
+msgstr "Plačilni pogoji"
 
 #: wllegal/templates/legal/documents/tos.html:320
 msgid ""
@@ -1641,11 +1631,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:584
-#, fuzzy
-#| msgid ""
-#| "However, the following translation projects are available on this server:"
 msgid "Any other matters related to the Service."
-msgstr "Kakor koli, na strežniku so na voljo naslednji prevajalski projekti:"
+msgstr "Vse druge zadeve v zvezi s storitvijo."
 
 #: wllegal/templates/legal/documents/tos.html:589
 msgid ""
