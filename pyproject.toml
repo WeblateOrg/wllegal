@@ -40,7 +40,7 @@ keywords = [
 ]
 name = "wllegal"
 requires-python = ">=3.11"
-version = "2024.9"
+version = "2025.1"
 
 [[project.authors]]
 email = "michal@cihar.com"
