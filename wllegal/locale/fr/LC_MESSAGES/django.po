@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-03-07 21:14+0000\n"
-"Last-Translator: Christine Di Bella <christine.dibella@lyrasis.org>\n"
+"PO-Revision-Date: 2025-03-22 15:51+0000\n"
+"Last-Translator: Ldm Public <ldmpub@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/weblate/legal/fr/>"
 "\n"
 "Language: fr\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.10.3-dev\n"
+"X-Generator: Weblate 5.11-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -191,6 +191,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
 msgstr ""
+"consentement accordé par l'Utilisateur en vertu de l'article 6(1)(a) du RGPD."
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
@@ -204,7 +205,7 @@ msgstr "nom et prénom,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr ""
+msgstr "Adresse de l'Utilisateur (livraison et facturation),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
@@ -218,13 +219,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr ""
+msgstr "Avatar de l'Utilisateur,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail address"
 msgid "email address(es),"
-msgstr "Nom et adresse courriel"
+msgstr "adresse(s) de courriel,"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -235,12 +234,14 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
-msgstr ""
+msgstr "caractéristiques du Service et du Produit utilisés par l'Utilisateur,"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
 msgstr ""
+"informations sur le nombre de membres de l'équipe de l'Utilisateur et leurs "
+"rôles,"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
