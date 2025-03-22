@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-03-22 15:51+0000\n"
+"PO-Revision-Date: 2025-03-22 16:24+0000\n"
 "Last-Translator: Ldm Public <ldmpub@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/weblate/legal/fr/>"
 "\n"
@@ -253,6 +253,8 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
 msgstr ""
+"numéro de compte bancaire et éventuellement d'autres modes de paiement de "
+"l'Utilisateur,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
@@ -344,10 +346,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:149
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Recipients and Processors of Personal Data"
-msgstr "Accès aux données personnelles"
+msgstr "Destinataires et opérateurs des Données Personnelles"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -525,10 +525,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:236
-#, fuzzy
-#| msgid "Order us to delete your Personal Data"
 msgid "User Rights in Relation to Personal Data"
-msgstr "Nous ordonner de détruire vos Données Personnelles"
+msgstr "Droits des utilisateurs relatifs aux Données Personnelles"
 
 #: wllegal/templates/legal/documents/privacy.html:240
 #, python-format
