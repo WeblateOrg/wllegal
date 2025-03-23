@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-03-23 13:38+0000\n"
+"PO-Revision-Date: 2025-03-23 14:26+0000\n"
 "Last-Translator: \"ℂ𝕠𝕠𝕠𝕝 (𝕘𝕚𝕥𝕙𝕦𝕓.𝕔𝕠𝕞/ℂ𝕠𝕠𝕠𝕝)\" <coool@mail.lv>\n"
 "Language-Team: Latvian <https://hosted.weblate.org/projects/weblate/legal/lv/"
 ">\n"
@@ -124,9 +124,10 @@ msgid "Scope, Purposes, and Duration of Processing"
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:54
+#, fuzzy
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
-msgstr ""
+msgstr "Pakalpojuma sniedzējs apstrādā Lietotāja personas datus šādiem mērķiem:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
@@ -153,32 +154,40 @@ msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:76
+#, fuzzy
 msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
-msgstr ""
+msgstr "Pakalpojumu sniedzēja apstrādāto Lietotāja personas datu apjoms ietver:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
+#, fuzzy
 msgid "first and last name,"
-msgstr ""
+msgstr "vārds un uzvārds,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
+#, fuzzy
 msgid "User's address (delivery and billing),"
-msgstr ""
+msgstr "Lietotāja adrese (piegāde un rēķins),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
+#, fuzzy
 msgid "Company ID and Tax ID,"
-msgstr ""
+msgstr "Uzņēmuma ID un nodokļu maksātāja numurs,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
+#, fuzzy
 msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, X, and others),"
 msgstr ""
+"iesauka(s) (tostarp visas brīvprātīgi saistītās platformas, piemēram, "
+"Liberapay, GitHub, X un citas),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
+#, fuzzy
 msgid "User's avatar,"
-msgstr ""
+msgstr "Lietotāja profila attēls,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
 #, fuzzy
@@ -187,20 +196,26 @@ msgid "email address(es),"
 msgstr "Vārds un e-pasta adrese"
 
 #: wllegal/templates/legal/documents/privacy.html:99
+#, fuzzy
 msgid ""
 "identifiers for Bitbucket, Facebook, Google, LinkedIn, GitHub, GitLab, "
 "openSUSE, and Ubuntu in the event that accounts with these providers are "
 "linked to the User account,"
 msgstr ""
+"Bitbucket, Facebook, Google, LinkedIn, GitHub, GitLab, openSUSE un Ubuntu "
+"identifikatori, ja lietotāja konts ir saistīts ar šo pakalpojumu sniedzēju "
+"kontiem,"
 
 #: wllegal/templates/legal/documents/privacy.html:102
+#, fuzzy
 msgid "specifications of the Service and Product used by the User,"
-msgstr ""
+msgstr "Lietotāja izmantotā Pakalpojuma un Produkta tehniskās detaļas,"
 
 #: wllegal/templates/legal/documents/privacy.html:105
+#, fuzzy
 msgid ""
 "information about the number of team members of the User and their roles,"
-msgstr ""
+msgstr "informācija par Lietotāja komandas dalībnieku skaitu un viņu lomām,"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
@@ -1797,10 +1812,17 @@ msgid ""
 "the English version and any translated version, the English version shall "
 "prevail in all matters."
 msgstr ""
+"Šo Noteikumu oficiālā versija ir sagatavota angļu valodā un tiek uzskatīta "
+"par vienīgo saistošo versiju (noklikšķiniet uz pogas "
+"\"Skatīt angļu valodas versiju\" lapas augšpusē). Jebkuras šo Noteikumu "
+"versijas, kas iztulkotas citās valodās, tiek nodrošinātas tikai Lietotāja "
+"ērtībai, un tām nav juridiska spēka. Ja starp angļu valodas versiju un "
+"jebkuru iztulkoto versiju rodas neatbilstības vai pretrunas, visos "
+"jautājumos noteicošā ir un būs angļu versija."
 
 #: wllegal/templates/legal/documents/tos.html:649
 msgid "These Terms enter into force on November 1, 2024."
-msgstr ""
+msgstr "Šie Noteikumi stājas spēkā 2024. gada 1. novembrī."
 
 #, python-format
 #~ msgid ""
