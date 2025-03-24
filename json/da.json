@@ -3,10 +3,10 @@
   "f1755fb51ebbc26a": "Tjenestestatus",
   "f0a04eec920f8be1": "Igangværende vedligeholdelse",
   "700639553f6a669b": "Vilkår og privatliv",
-  "855aad6254dbc154": "Webstedet er i øjeblikket nede pga. vedligeholdelse.",
+  "855aad6254dbc154": "Dette websted er i øjeblikket nede grundet vedligeholdelse.",
   "dd688904278968c2": "Licenseret under GNU GPLv3+",
-  "f3e2fd9f17199fd9": "Du har lavet for mange anmodninger for hurtigt i træk. Prøv igen senere.",
-  "cefd423328bbabae": "Satsgrænse",
-  "404c9a7eb09bf5cf": "Grænse for Weblate-sats",
+  "f3e2fd9f17199fd9": "Du har sendt for mange anmodninger i træk. Prøv venligst igen senere.",
+  "cefd423328bbabae": "Hastighedsgrænse",
+  "404c9a7eb09bf5cf": "Weblate-hastighedsgrænse",
   "20deef135140c70": "Licensieret GNU GPLv3+"
 }
