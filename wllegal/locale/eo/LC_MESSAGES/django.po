@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-03-24 16:47+0000\n"
+"PO-Revision-Date: 2025-03-24 18:01+0000\n"
 "Last-Translator: Emilia Meza <emiliameza@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/weblate/legal/"
 "eo/>\n"
@@ -772,18 +772,12 @@ msgid "Hosted String"
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:76
-#, fuzzy
-#| msgid ""
-#| "The pricing is based on number of source strings and target languages. "
-#| "The source string is a text unit defined in a translation format, it can "
-#| "be a word, sentence or paragraph."
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
 msgstr ""
-"La prezo baziĝas sur iuj fontaj tekstoĉenoj kaj celaj lingvoj. Fonta "
-"tekstoĉeno estas teksto-unuo difinita en traduka formato, vorto, frazo aŭ "
-"alineo."
+"signifas tekstan unuon difinitan en la tradukformato. Ĝi povas esti vorto, "
+"frazo aŭ paragrafo;"
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid "Hosted Weblate"
@@ -880,10 +874,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:143
-#, fuzzy
-#| msgid "Service"
 msgid "Support Services"
-msgstr "Servo"
+msgstr "Subtenaj Servoj"
 
 #: wllegal/templates/legal/documents/tos.html:146
 msgid ""
@@ -1003,10 +995,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:228
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
-msgstr "Servo"
+msgstr "Serva Daŭro"
 
 #: wllegal/templates/legal/documents/tos.html:232
 msgid ""
@@ -1043,10 +1033,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:250
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "Traduka memoro"
+msgstr "regula prezo por Tradukmemoro;"
 
 #: wllegal/templates/legal/documents/tos.html:255
 msgid ""
@@ -1122,10 +1110,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:287
-#, fuzzy
-#| msgid "License"
 msgid "License Terms"
-msgstr "Permesilo"
+msgstr "Licencaj Kondiĉoj"
 
 #: wllegal/templates/legal/documents/tos.html:291
 #, python-format
@@ -1736,10 +1722,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:601
-#, fuzzy
-#| msgid "Personal Data Controller"
 msgid "Personal Data Protection"
-msgstr "Kontrolilo de personaj datumoj"
+msgstr "Persona Datumprotekto"
 
 #: wllegal/templates/legal/documents/tos.html:605
 #, python-format
