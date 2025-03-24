@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-03-24 16:17+0000\n"
+"PO-Revision-Date: 2025-03-24 16:47+0000\n"
 "Last-Translator: Emilia Meza <emiliameza@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/weblate/legal/"
 "eo/>\n"
@@ -145,73 +145,83 @@ msgid ""
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
+"Krom se eksplicite dirite alie en ĉi tiu Politiko, la Provizanto agas kiel "
+"<strong>datumregilo</strong> kaj Uzantoj, kiuj estas naturaj personoj, agas "
+"kiel datumoj, ĉar ĉi tiuj roloj estas difinitaj en la ĜDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "Amplekso, Celoj kaj Daŭro de Prilaborado"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
 msgstr ""
+"La Provizanto prilaboras la personajn datumojn de la Uzanto por la sekvaj "
+"celoj:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "plenumante la Kontrakton laŭ Artikolo 6(1)(b) de la ĜDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "negocante la Kontrakton laŭ Artikolo 6(1)(b) de la ĜDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
 msgstr ""
+"plenumante la leĝajn devojn de la Provizanto laŭ Artikolo 6(1)(c) de la ĜDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, "
 "and in selected cases also"
 msgstr ""
+"la legitimaj interesoj de la Provizanto laŭ Artikolo 6(1)(f) de la ĜDPR, kaj "
+"en elektitaj kazoj ankaŭ"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
-msgstr ""
+msgstr "konsento donita de la Uzanto laŭ Artikolo 6(1)(a) de la ĜDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
 msgstr ""
+"La amplekso de la personaj datumoj de la Uzanto prilaboritaj de la "
+"Provizanto inkluzivas la sekvajn:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr ""
+msgstr "unua kaj familia nomo,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr ""
+msgstr "Adreso de uzanto (livero kaj fakturado),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr ""
+msgstr "Kompania ID kaj Imposta ID,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, X, and others),"
 msgstr ""
+"kromnomo(j) (inkluzive de iuj libervole ligitaj platformoj kiel Liberapay, "
+"GitHub, X, kaj aliaj),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr ""
+msgstr "Avataro de uzanto,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail"
 msgid "email address(es),"
-msgstr "Uzantnomo kaj retpoŝtadreso"
+msgstr "retadreso(j),"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -219,15 +229,18 @@ msgid ""
 "openSUSE, and Ubuntu in the event that accounts with these providers are "
 "linked to the User account,"
 msgstr ""
+"identigiloj por Bitbucket, Facebook, Google, LinkedIn, GitHub, GitLab, "
+"openSUSE kaj Ubuntu en la okazo ke kontoj kun ĉi tiuj provizantoj estas "
+"ligitaj al la Uzantkonto,"
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
-msgstr ""
+msgstr "specifoj de la Servo kaj Produkto uzata de la Uzanto,"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
-msgstr ""
+msgstr "informoj pri la nombro da teamanoj de la Uzanto kaj iliaj roloj,"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
@@ -235,35 +248,46 @@ msgid ""
 "Profile), i.e., settings for languages, notifications, if they can identify "
 "the User directly or indirectly,"
 msgstr ""
+"ĉiuj aliaj uzantaj agordoj de la Uzantkonto (inkluzive de la tiel nomata "
+"Profilo), t.e., agordoj por lingvoj, sciigoj, se ili povas identigi la "
+"Uzanton rekte aŭ nerekte,"
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
-msgstr ""
+msgstr "banka kontnumero kaj eventuale aliaj pagdetaloj de la Uzanto,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "adreso aŭ adresoj pri monujo de kriptmonero,"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
 "other personal data contained in messages sent by the User to the Provider "
 "(especially the subject and other content of the message),"
 msgstr ""
+"aliaj personaj datumoj enhavitaj en mesaĝoj senditaj de la Uzanto al la "
+"Provizanto (precipe la temo kaj alia enhavo de la mesaĝo),"
 
 #: wllegal/templates/legal/documents/privacy.html:120
 msgid ""
 "other personal data contained in communications with the Provider's support,"
 msgstr ""
+"aliaj personaj datumoj enhavitaj en komunikadoj kun la subteno de la "
+"Provizanto,"
 
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
 msgstr ""
+"sistemdatumoj, protokoloj kaj seancaj protokoloj inkluzive de la IP-adreso "
+"de la Uzanto,"
 
 #: wllegal/templates/legal/documents/privacy.html:128
 msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
+"kie la individuaj kategorioj de personaj datumoj listigitaj supre daŭre "
+"estos kolektive referitaj kiel \"<strong>Personaj Datumoj</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -276,6 +300,15 @@ msgid ""
 "under the conditions and based on a separate data processing agreement (so-"
 "called processing agreement) concluded between the Provider and the User."
 msgstr ""
+"En iuj kazoj, la Provizanto <strong>povas ankaŭ esti prilaboranto de "
+"personaj datumoj</strong>, nome kiam personaj datumoj de triaj partioj estas "
+"provizitaj al ĝi de la Uzanto por siaj propraj celoj (ekz., en la kazo de "
+"aldoni individuajn teamanojn, donaci projekton al la Provizanto nome de alia "
+"persono, ktp.). La prilaborado de elektitaj Personaj Datumoj de triaj "
+"partioj alireblaj de la Uzanto okazas ĉi-kaze laŭ la direkto de la Uzanto, "
+"sub la kondiĉoj kaj surbaze de aparta interkonsento pri prilaborado de "
+"datumoj (tielnomita prilaborada interkonsento) konkludita inter la "
+"Provizanto kaj la Uzanto."
 
 #: wllegal/templates/legal/documents/privacy.html:136
 msgid ""
