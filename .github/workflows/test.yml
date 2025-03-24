@@ -45,7 +45,7 @@ jobs:
         cache-suffix: test
     - name: Install pip dependencies
       run: |
-        uv pip install --system https://github.com/nijel/thepay/archive/weblate.zip ".[test]"
+        uv pip install --system ".[test]"
     - name: Test with Django
       env:
         CI_DATABASE: postgresql
