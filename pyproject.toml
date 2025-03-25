@@ -1,7 +1,7 @@
 [build-system]
 build-backend = "setuptools.build_meta"
 requires = [
-  "setuptools>=70.0",
+  "setuptools>=78.0.2",
   "translate-toolkit"
 ]
 
@@ -12,7 +12,6 @@ classifiers = [
   "Framework :: Django",
   "Intended Audience :: Developers",
   "Intended Audience :: System Administrators",
-  "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
   "Operating System :: OS Independent",
   "Programming Language :: Python",
   "Programming Language :: Python :: 3",
@@ -38,7 +37,8 @@ keywords = [
   "mercurial",
   "translate"
 ]
-license = {text = "GPL-3.0-or-later"}
+license = "GPL-3.0-or-later"
+license-files = ["LICENSE"]
 name = "wllegal"
 requires-python = ">=3.11"
 version = "2025.1"
@@ -155,7 +155,6 @@ max-complexity = 16
 [tool.setuptools]
 include-package-data = true
 # Empty as a workaround for https://github.com/pypa/setuptools/issues/4759
-license-files = []
 platforms = [
   "any"
 ]
