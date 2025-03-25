@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-03-25 03:37+0000\n"
+"PO-Revision-Date: 2025-03-25 19:47+0000\n"
 "Last-Translator: Emilia Meza <emiliameza@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/weblate/legal/"
 "eo/>\n"
@@ -66,10 +66,10 @@ msgid ""
 "the Commercial Register kept by the Regional Court in Ústí nad Labem, file "
 "No. C 52324, i.e. the \"<strong>Provider</strong>\"."
 msgstr ""
-"Ĉi tiu Politiko estis eldonita de Weblate s.r.o., ID No.: 21668027, kun "
-"registrita oficejo ĉe Nábřežní 694, Cvikov II, 471 54 Cvikov, registrita en "
-"la Komerca Registro tenita de la Regiona Juĝejo en Ústí nad Labem, dosiero n-"
-"ro C 52324, t.e. la \"<strong>Provizanto</strong>\"."
+"Ĉi tiu Politiko estis eldonita de Weblate s.r.o., identigilo n-ro: 21668027, "
+"kun registrita oficejo ĉe Nábřežní 694, Cvikov II, 471 54 Cvikov, registrita "
+"en la Komerca Registro tenita de la Regiona Juĝejo en Ústí nad Labem, "
+"dosiero n-ro C 52324, t.e. la \"<strong>Provizanto</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid ""
@@ -205,7 +205,7 @@ msgstr "Adreso de uzanto (livero kaj fakturado),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr "Kompania ID kaj Imposta ID,"
+msgstr "Kompania identigilo kaj Imposta identigilo,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
