@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-03-25 19:47+0000\n"
+"PO-Revision-Date: 2025-03-26 04:57+0000\n"
 "Last-Translator: Emilia Meza <emiliameza@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/weblate/legal/"
 "eo/>\n"
@@ -866,7 +866,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:122
 msgid "Provider"
-msgstr ""
+msgstr "Provizanto"
 
 #: wllegal/templates/legal/documents/tos.html:125
 msgid ""
