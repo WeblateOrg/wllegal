@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-03-27 21:10+0000\n"
+"PO-Revision-Date: 2025-03-27 21:34+0000\n"
 "Last-Translator: RViktor <rviktor@ivankapal.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/weblate/legal/"
 "hu/>\n"
@@ -1079,19 +1079,20 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:136
 msgid "Self-hosting"
-msgstr ""
+msgstr "Saját üzemeltetés"
 
 #: wllegal/templates/legal/documents/tos.html:139
 msgid ""
 "means a form of collaboration where the User is the sole user of the "
 "Service, and this Service is operated directly on the User Server;"
 msgstr ""
+"olyan együttműködési formát jelent, amelyben a Felhasználó az egyetlen "
+"használója a Szolgáltatásnak és a Szolgáltatást közvetlenül a Felhasználó "
+"szerverén üzemeltetik;"
 
 #: wllegal/templates/legal/documents/tos.html:143
-#, fuzzy
-#| msgid "Service"
 msgid "Support Services"
-msgstr "Szolgáltatás"
+msgstr "Támogatási szolgáltatások"
 
 #: wllegal/templates/legal/documents/tos.html:146
 msgid ""
@@ -1099,79 +1100,81 @@ msgid ""
 "Support Services are governed separately by a separate support service "
 "agreement;"
 msgstr ""
+"azokat a támogatási szolgáltatásokat jelentik, amelyeket a Szolgáltató a "
+"Felhasználónak nyújt a Szolgáltatáson belül. A támogatási szolgáltatások "
+"külön támogatási szerződés keretében szabályozottak;"
 
 #: wllegal/templates/legal/documents/tos.html:150
 msgid "Translation Memory"
 msgstr "Fordítási memória"
 
 #: wllegal/templates/legal/documents/tos.html:153
-#, fuzzy
-#| msgid ""
-#| "means the optional translation memory service provided within Weblate"
 msgid "means an optional translation memory service provided on Weblate;"
 msgstr ""
-"a Weblate-en belül biztosított, választható fordításimemória-szolgáltatást "
-"jelenti"
+"egy opcionálisan igénybe vehető fordítási memória szolgáltatást jelent, "
+"amelyet a Weblate biztosít;"
 
 #: wllegal/templates/legal/documents/tos.html:157
 msgid "User"
 msgstr "Felhasználó"
 
 #: wllegal/templates/legal/documents/tos.html:160
-#, fuzzy
-#| msgid ""
-#| "means any legal entity or an individual other than the Provider, who is "
-#| "using the Service"
 msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
 msgstr ""
-"a szolgáltatótól eltérő bármely jogi személyt vagy magánszemélyt jelenti, "
-"aki a szolgáltatást használja"
+"a Szolgáltatótól eltérő bármely jogi vagy természetes személy, aki igénybe "
+"veszi a Szolgáltatást;"
 
 #: wllegal/templates/legal/documents/tos.html:164
 msgid "User Account"
-msgstr ""
+msgstr "Felhasználói fiók"
 
 #: wllegal/templates/legal/documents/tos.html:167
 msgid ""
 "means a user account with a unique access code and password in the Hosted "
 "Weblate web interface. Each User Account can be used by only one User;"
 msgstr ""
+"a Weblate hosztolt webes felületén létrehozott, egyedi hozzáférési kóddal és "
+"jelszóval védett fiókot jelenti. Minden Felhasználói fiókot kizárólag egy "
+"Felhasználó használhat;"
 
 #: wllegal/templates/legal/documents/tos.html:171
 msgid "User Server"
-msgstr ""
+msgstr "Felhasználói szerver"
 
 #: wllegal/templates/legal/documents/tos.html:174
 msgid ""
 "refers to the server and other hardware equipment not owned, managed, or "
 "controlled by the Provider;"
 msgstr ""
+"azt a szervert és egyéb hardvereszközöket jelenti, amelyek nem a Szolgáltató "
+"tulajdonában állnak, és amelyeket nem a Szolgáltató üzemeltet vagy felügyel;"
 
 #: wllegal/templates/legal/documents/tos.html:180
 msgid "Methods of Acceptance"
-msgstr ""
+msgstr "Elfogadási módok"
 
 #: wllegal/templates/legal/documents/tos.html:184
 msgid "The License is granted to the User based on the concluded Agreement."
 msgstr ""
+"A Licenc a Szerződés megkötésével kerül a Felhasználó részére biztosításra."
 
 #: wllegal/templates/legal/documents/tos.html:188
 msgid "These GTC are an integral part of the Agreement."
-msgstr ""
+msgstr "Az ÁSZF a Szerződés elválaszthatatlan részét képezi."
 
 #: wllegal/templates/legal/documents/tos.html:192
-#, fuzzy
-#| msgid "License Agreement Conclusion"
 msgid "The Agreement is concluded:"
-msgstr "Licencmegállapodás megkötése"
+msgstr "A Szerződés az alábbi módokon jön létre:"
 
 #: wllegal/templates/legal/documents/tos.html:197
 msgid ""
 "on the day of signing by both parties (especially for all Services offered "
 "with custom settings);"
 msgstr ""
+"a felek általi aláírás napján (különösen egyedi beállításokat tartalmazó "
+"Szolgáltatások esetén);"
 
 #: wllegal/templates/legal/documents/tos.html:200
 msgid ""
@@ -1182,10 +1185,15 @@ msgid ""
 "Provider's bank account) for the amount stated in the first billing period "
 "by the User."
 msgstr ""
+"online elfogadással (megerősítéssel) a webes felületen keresztül a Díjszabás "
+"szerint, ahol a Szerződés akkor lép hatályba, amikor a Licenc díja rendben "
+"kiegyenlítésre kerül (átutalás esetén akkor, amikor a Licenc díjának "
+"megfelelő összeg jóváírásra kerül a Szolgáltató bankszámláján) a Felhasználó "
+"által, az első számlázási időszakra vonatkozóan."
 
 #: wllegal/templates/legal/documents/tos.html:208
 msgid "Service Provision"
-msgstr ""
+msgstr "A Szolgáltatás nyújtása"
 
 #: wllegal/templates/legal/documents/tos.html:212
 msgid ""
@@ -1194,6 +1202,10 @@ msgid ""
 "accordance with the Agreement and the technical specifications outlined in "
 "the Product specification."
 msgstr ""
+"A Szolgáltató a Szolgáltatást a Termék specifikációjában meghatározott "
+"internetcímen és annak aldomainjein keresztül vagy a Felhasználó szerverein "
+"működteti, a Szerződés és a Termék specifikációjában meghatározott műszaki "
+"feltételek szerint."
 
 #: wllegal/templates/legal/documents/tos.html:216
 msgid ""
@@ -1204,12 +1216,20 @@ msgid ""
 "specification defined in this manner takes precedence over the form of "
 "Service offered according to the Price List."
 msgstr ""
+"Ha a Szerződés a 2.3(a) pont alapján jött létre, a Szolgáltatás terjedelmét "
+"a Termék specifikációja határozza meg, amely a Szerződés mellékletét képezi. "
+"A Termék specifikáció részletesen meghatározhatja az egyes (al)"
+"szolgáltatások tartalmát és aktiválási módját. Az ilyen módon meghatározott "
+"Termék specifikáció elsőbbséget élvez a Díjszabásban feltüntetett "
+"Szolgáltatásformával szemben."
 
 #: wllegal/templates/legal/documents/tos.html:220
 msgid ""
 "The Service is provided in three forms of cooperation: Hosted Weblate, "
 "Dedicated Weblate, and Self-hosting."
 msgstr ""
+"A Szolgáltatás három együttműködési formában érhető el: Hosztolt Weblate, "
+"Dedikált Weblate és Saját üzemeltetés."
 
 #: wllegal/templates/legal/documents/tos.html:224
 msgid ""
@@ -1222,12 +1242,17 @@ msgid ""
 "third parties may process Personal Data within their activities in "
 "accordance with the Agreement and GPLv3."
 msgstr ""
+"A GPLv3 értelmében a Szolgáltatás egyes elemei harmadik felek "
+"közreműködésével is nyújthatók vagy akár közvetlenül ezen felek által. A "
+"Felhasználó tudomásul veszi, hogy ezek a harmadik felek a Szerződés és a "
+"GPLv3 licenc alapján nyújtják szolgáltatásaikat. A Felhasználó tudomásul "
+"veszi azt is, hogy a Szolgáltatás nyújtásában részt vevő harmadik felek a "
+"Szolgáltatás időtartama alatt változhatnak. Ezek a felek a Szerződés és a "
+"GPLv3 licenc keretében kezelhetnek Személyes adatokat."
 
 #: wllegal/templates/legal/documents/tos.html:228
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
-msgstr "Szolgáltatás"
+msgstr "A Szolgáltatás időtartama"
 
 #: wllegal/templates/legal/documents/tos.html:232
 msgid ""
@@ -1236,6 +1261,9 @@ msgid ""
 "subscription can be paid monthly or annually in accordance with Article 5 of "
 "the GTC."
 msgstr ""
+"Hacsak a Szerződés másként nem rendelkezik, a Szerződés előfizetéses modell "
+"szerint jön létre. Az előfizetés havonta vagy évente fizethető az ÁSZF 5. "
+"pontja szerint."
 
 #: wllegal/templates/legal/documents/tos.html:240
 msgid ""
@@ -1247,6 +1275,12 @@ msgid ""
 "List. The price for Services consists of the following separate items or "
 "their combination, which are paid regularly monthly/annually:"
 msgstr ""
+"A Szolgáltatás ára az ajánlat vagy a Díjszabás alapján kerül meghatározásra. "
+"A Felhasználó tudomásul veszi és elfogadja, hogy a Díjszabást a Szolgáltató "
+"egyoldalúan módosíthatja, ugyanúgy, mint az ÁSZF-et. Az ár függ a választott "
+"Szolgáltatás konfigurációjától, és számos változatban vehető igénybe, "
+"amelyek szerepelnek a Díjszabásban. A Szolgáltatás ára az alábbi tételekből "
+"vagy azok kombinációjából áll, amelyeket havonta vagy évente kell megfizetni:"
 
 #: wllegal/templates/legal/documents/tos.html:244
 msgid ""
@@ -1255,6 +1289,10 @@ msgid ""
 "but paid monthly or annually, with this price varying for different forms of "
 "collaboration according to the Price List;"
 msgstr ""
+"a Szolgáltatásokhoz való hozzáférés rendszeres díja, amelyet mindig az adott "
+"időszakra és a Szolgáltatás konkrét feltételei szerint határoznak meg, de "
+"havonta vagy évente fizetendő, és különböző együttműködési formák esetén "
+"eltérhet a Díjszabás szerint;"
 
 #: wllegal/templates/legal/documents/tos.html:247
 msgid ""
@@ -1262,24 +1300,30 @@ msgid ""
 "User from the options offered in the Price List or in agreement with the "
 "Provider;"
 msgstr ""
+"a tárolt szövegegységek számához kapcsolódó rendszeres díj; ezt az összeget "
+"a Felhasználó a Díjszabásban megadott lehetőségek alapján, vagy a "
+"Szolgáltatóval történt egyeztetés szerint választja ki;"
 
 #: wllegal/templates/legal/documents/tos.html:250
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "Fordítási memória"
+msgstr "a fordítási memória használatához kapcsolódó rendszeres díj;"
 
 #: wllegal/templates/legal/documents/tos.html:255
 msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
 msgstr ""
+"(a), (b) és (c) pontokat összefoglalóan \"<strong>Előfizetés</strong>\"-nek "
+"nevezzük."
 
 #: wllegal/templates/legal/documents/tos.html:259
 msgid ""
 "To avoid doubt, the Subscription may guarantee either only access to a "
 "specific Product or License and/or a specific package of guaranteed Services."
 msgstr ""
+"A félreértések elkerülése végett: az Előfizetés garantálhat kizárólag "
+"hozzáférést egy adott Termékhez vagy Licenchez és/vagy egy adott "
+"Szolgáltatáscsomaghoz is."
 
 #: wllegal/templates/legal/documents/tos.html:263
 msgid ""
@@ -1288,6 +1332,10 @@ msgid ""
 "invoice is issued and delivered to the User within 5 working days after the "
 "end of each relevant period."
 msgstr ""
+"A Felhasználó köteles a Szolgáltató által kiállított számlák (adóügyi "
+"bizonylatok) alapján az árat megfizetni. Az ár előre fizetendő, a számlát a "
+"Szolgáltató a tárgyidőszak végét követő 5 munkanapon belül állítja ki és "
+"juttatja el a Felhasználónak."
 
 #: wllegal/templates/legal/documents/tos.html:267
 #, python-format
@@ -1298,6 +1346,11 @@ msgid ""
 "an additional VAT of 21%%. Reverse charge applies to invoices issued to "
 "businesses within the EU."
 msgstr ""
+"A fizetés történhet bankkártyával, banki átutalással vagy kriptovaluta-"
+"tranzakcióval. A Díjszabásban megadott minden ár ÁFA nélkül értendő. EU-s "
+"magánszemély felhasználók és cseh vállalkozások számára további 21%% ÁFA "
+"kerül felszámításra. Az EU-n belüli vállalkozások esetében fordított adózás ("
+"reverse charge) érvényes."
 
 #: wllegal/templates/legal/documents/tos.html:271
 msgid ""
@@ -1307,6 +1360,12 @@ msgid ""
 "verifying with the prepaid card issuer or bank whether recurring billing is "
 "possible."
 msgstr ""
+"Ha a Felhasználó el kívánja kerülni, hogy az Előfizetéses rendszerben "
+"automatikusan újra számlázzák a Szolgáltatást, akkor az automatikus "
+"megújítás előtt legalább három nappal le kell mondania az Előfizetést. A "
+"Szolgáltató javasolja, hogy a Felhasználó ellenőrizze bankjánál vagy a "
+"feltöltőkártyát kibocsátó szolgáltatónál, hogy lehetséges-e az ismétlődő "
+"fizetés."
 
 #: wllegal/templates/legal/documents/tos.html:275
 msgid ""
@@ -1316,6 +1375,10 @@ msgid ""
 "date as per point 5.5 above, their Subscription will stop at the end of the "
 "current billing cycle."
 msgstr ""
+"A Felhasználó Előfizetését online is módosíthatja vagy lemondhatja a "
+"Felhasználói fiókjába való bejelentkezés után. Ha az Előfizetés legalább "
+"három nappal a megújítás előtt kerül lemondásra az 5.5 pont szerint, akkor "
+"az Előfizetés a jelenlegi számlázási ciklus végén megszűnik."
 
 #: wllegal/templates/legal/documents/tos.html:279
 msgid ""
@@ -1329,6 +1392,17 @@ msgid ""
 "prepaid Services were prepaid for a period exceeding the actual usage "
 "period, the conditions of such a refund will be agreed upon individually."
 msgstr ""
+"A Szolgáltató NEM téríti vissza a már megfizetett összegeket a "
+"Szolgáltatásokért, a Támogatási szolgáltatásokért és/vagy a Szerződés és az "
+"ÁSZF alapján nyújtott bármely más szolgáltatásért, ha azok a Felhasználó "
+"általi lemondás előtt már nyújtásra kerültek. A megrendelés lemondása a "
+"fizetés után csak akkor lehetséges, ha a megrendelt Szolgáltatás még nem "
+"került felhasználásra, illetve letöltésére nem történt kísérlet. Amennyiben "
+"letöltési kísérlet történt, a Szolgáltató nem tárgyal további "
+"visszatérítésről, kedvezményről vagy más pénzügyi kompenzációról. Ha az "
+"előre kifizetett Szolgáltatás hosszabb időszakra szólt, mint ameddig "
+"ténylegesen használatban volt, az esetleges visszatérítés feltételeit "
+"egyedileg egyeztetik."
 
 #: wllegal/templates/legal/documents/tos.html:283
 msgid ""
@@ -1341,12 +1415,17 @@ msgid ""
 "new Price or conditions come into effect. Under these conditions, the User "
 "has the right to cancel the Subscription."
 msgstr ""
+"A Szolgáltató bármikor egyoldalúan módosíthatja az árakat és az Előfizetés "
+"feltételeit. Az első vásárlás vagy az utolsó Előfizetés-megújítás "
+"időpontjában érvényes árak és feltételek a vonatkozó Előfizetési időszak "
+"végéig érvényben maradnak, de a megújításokra vagy új Előfizetésekre már az "
+"új árak és feltételek vonatkozhatnak. A Szolgáltató az új árak vagy "
+"feltételek hatálybalépése előtt ésszerű idővel értesíti a Felhasználót. Ezen "
+"feltételek szerint a Felhasználó jogosult az Előfizetés lemondására."
 
 #: wllegal/templates/legal/documents/tos.html:287
-#, fuzzy
-#| msgid "License"
 msgid "License Terms"
-msgstr "Licenc"
+msgstr "Licencfeltételek"
 
 #: wllegal/templates/legal/documents/tos.html:291
 #, python-format
@@ -1358,6 +1437,12 @@ msgid ""
 "License is provided. The License is granted in accordance with the option "
 "selected according to the Price List."
 msgstr ""
+"A Szolgáltató szoftverei és a Weblate szoftverkiegészítései a GNU/GPLv3 "
+"licenc alatt kerülnek terjesztésre (lásd: <a href=\"%(url)s\">%(url)s</a>). "
+"A Felhasználó nem kizárólagos licencet kap a Szolgáltatás bármely elemére az "
+"ÁSZF aktuális változata alapján, amely a Licenc megadásának időpontjában "
+"érvényes. A Licenc a Díjszabásban kiválasztott opció szerint kerül "
+"biztosításra."
 
 #: wllegal/templates/legal/documents/tos.html:296
 #, python-format
@@ -1370,6 +1455,13 @@ msgid ""
 "according to the information provided on the Provider's website (see <a "
 "href=\"%(url)s\">%(url)s</a>)."
 msgstr ""
+"Hacsak a Szerződés másként nem rendelkezik, a jelen Szerződésre vonatkozó "
+"licencfeltételeket teljes egészében a GPLv3 licenc szabályozza. Ugyanakkor a "
+"Szoftver egyes részei más licencek alatt is elérhetők. A Szolgáltató által "
+"használt Szoftver és kiegészítések teljes licenclistája megtalálható a "
+"forráskódban, amely megfelel a REUSE 3.0 specifikációnak, a Szolgáltató "
+"weboldalán közzétett információk szerint (lásd: <a href=\"%(url)s\""
+">%(url)s</a>)."
 
 #: wllegal/templates/legal/documents/tos.html:300
 msgid ""
