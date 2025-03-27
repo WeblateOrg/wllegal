@@ -1473,6 +1473,13 @@ msgid ""
 "creating, and distributing the Service, even if the User does not publicly "
 "release the Service."
 msgstr ""
+"A Felhasználó tudomásul veszi, hogy a Szolgáltatáshoz kapcsolódó valamennyi "
+"szerzői jog és egyéb szellemi tulajdonjog a Szolgáltatót és/vagy azokat a "
+"harmadik feleket illeti, akik művei a Szolgáltatás részét képezik vagy azzal "
+"együtt kerülnek felhasználásra. A Felhasználó azonban nem veszti el a jogát "
+"arra, hogy a Szolgáltatást a vonatkozó licencek által megengedett mértékben "
+"használja – ideértve annak futtatását, módosítását, terjesztését –, még "
+"akkor sem, ha nem teszi azt nyilvánosan elérhetővé."
 
 #: wllegal/templates/legal/documents/tos.html:304
 msgid ""
