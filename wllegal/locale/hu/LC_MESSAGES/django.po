@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-02-27 18:05+0000\n"
+"PO-Revision-Date: 2025-03-27 21:10+0000\n"
 "Last-Translator: RViktor <rviktor@ivankapal.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/weblate/legal/"
 "hu/>\n"
@@ -23,25 +23,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.2-dev\n"
+"X-Generator: Weblate 5.11-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr "Alvállalkozók a GDPR 28. cikkének megfelelően"
+msgstr "Alvállalkozók a GDPR 28. cikke szerint"
 
 #: wllegal/templates/legal/documents/contracts.html:11
-#, fuzzy
-#| msgid "Status as of March 2023."
 msgid "Status as of May 2024."
-msgstr "2023. márciusi állapot."
+msgstr "Állapot: 2024. május"
 
 #: wllegal/templates/legal/documents/privacy.html:5
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
-"Az Adatvédelmi szabályzat jogilag kötelező érvényű angol nyelven, a "
-"fordítások kizárólag tájékoztató jellegűek."
+"A jelen Adatvédelmi szabályzat angol nyelven jogilag kötelező érvényű, a "
+"fordítások kizárólag a tájékozódásodat szolgálják."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:7
@@ -55,11 +53,14 @@ msgid ""
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
+"Jelen Adatvédelmi szabályzat (a továbbiakban: „<strong>Szabályzat</strong>”) "
+"kiegészíti a Weblate <a href=\"%(terms_url)s\">Általános Szerződési "
+"Feltételeit</a> (a továbbiakban: „<strong>Feltételek</strong>”)."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:17
 msgid "Introductory Provisions"
-msgstr ""
+msgstr "Bevezető rendelkezések"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
@@ -68,6 +69,10 @@ msgid ""
 "the Commercial Register kept by the Regional Court in Ústí nad Labem, file "
 "No. C 52324, i.e. the \"<strong>Provider</strong>\"."
 msgstr ""
+"Ezt a Szabályzatot a Weblate s.r.o. adta ki, cégjegyzékszáma: 21668027, "
+"székhelye: Nábřežní 694, Cvikov II, 471 54 Cvikov, bejegyezve az Ústí nad "
+"Labem-i Kerületi Bíróság cégnyilvántartásába, iktatószám: C 52324, azaz a "
+"továbbiakban: „<strong>Szolgáltató</strong>”."
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid ""
@@ -76,6 +81,10 @@ msgid ""
 "the Services, Products, Support Services, as well as when using the Website "
 "and other possible services and related activities."
 msgstr ""
+"E Szabályzat leírja, hogyan kezeli a Szolgáltató a Felhasználók személyes "
+"adatait mint érintettekét – vagyis magánszemélyekét, amikor igénybe veszik a "
+"Szolgáltatásokat, Termékeket, Ügyféltámogatást, valamint a Weboldalt és az "
+"egyéb kapcsolódó szolgáltatásokat."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid ""
@@ -83,6 +92,8 @@ msgid ""
 "in Article 1 of the Terms and which have the same meaning as set out in the "
 "Terms."
 msgstr ""
+"A Szabályzat bizonyos fogalmakat is használ, amelyeket a Feltételek 1. cikke "
+"definiál, és amelyek ugyanazt a jelentést hordozzák, mint a Feltételekben."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
@@ -95,6 +106,13 @@ msgid ""
 "personal data and the protection of privacy in the electronic communications "
 "sector (abbreviated as the \"<strong>ePrivacy Directive</strong>\")."
 msgstr ""
+"A személyes adatok kezelése során a Szolgáltató betartja az Európai "
+"Parlament és a Tanács (EU) 2016/679 rendeletét, azaz az Általános "
+"Adatvédelmi Rendeletet (a továbbiakban: „<strong>GDPR</strong>”), a 2019. "
+"évi 110. törvényt a személyes adatok kezeléséről, valamint az Európai "
+"Parlament és a Tanács 2002/58/EK irányelvét (2002. július 12.) az "
+"elektronikus hírközlés során végzett adatkezelésről és a magánszféra "
+"védelméről (a továbbiakban: „<strong>ePrivacy Irányelv</strong>”)."
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -104,6 +122,11 @@ msgid ""
 "registers for the Provider's newsletter and/or when the Provider and the "
 "User conclude the Contract, whichever is the earliest."
 msgstr ""
+"A Felhasználók személyes adatainak tényleges kezelése kizárólag az ebben a "
+"Szabályzatban részletesebben meghatározott célokra és feltételek szerint "
+"történik, és akkor kezdődik, amikor a Felhasználó meglátogatja a Weboldalt, "
+"feliratkozik a Szolgáltató hírlevelére és/vagy amikor a Szolgáltató és a "
+"Felhasználó szerződést kötnek – attól függően, melyik történik meg előbb."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid ""
@@ -112,6 +135,9 @@ msgid ""
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
 msgstr ""
+"Ezt követően az adatkezelést közvetlenül a Szolgáltató és/vagy a Szabályzat "
+"3. cikkében meghatározott, a Szolgáltató által erre felhatalmazott harmadik "
+"felek végzik a Szabályzatnak megfelelően."
 
 #: wllegal/templates/legal/documents/privacy.html:45
 msgid ""
@@ -119,73 +145,87 @@ msgid ""
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
+"Hacsak a Szabályzat kifejezetten másként nem rendelkezik, a Szolgáltató "
+"<strong>adatkezelőként</strong> jár el, a természetes személy Felhasználók "
+"pedig érintetteknek minősülnek, a GDPR meghatározása szerint."
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "Az adatkezelés terjedelme, céljai és időtartama"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
 msgstr ""
+"A Szolgáltató az alábbi célokból kezeli a Felhasználó személyes adatait:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "a szerződés teljesítése a GDPR 6. cikk (1) bekezdés b) pontja alapján,"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
 msgstr ""
+"a szerződés megkötésére irányuló tárgyalások a GDPR 6. cikk (1) bekezdés b) "
+"pontja alapján,"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
 msgstr ""
+"a Szolgáltató jogi kötelezettségeinek teljesítése a GDPR 6. cikk (1) "
+"bekezdés c) pontja alapján,"
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, "
 "and in selected cases also"
 msgstr ""
+"a Szolgáltató jogos érdekei a GDPR 6. cikk (1) bekezdés f) pontja alapján, "
+"valamint egyes esetekben"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
 msgstr ""
+"a Felhasználó által adott hozzájárulás alapján a GDPR 6. cikk (1) bekezdés a)"
+" pontja szerint."
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
 msgstr ""
+"A Szolgáltató által kezelt Felhasználói személyes adatok köre az alábbiakat "
+"tartalmazza:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr ""
+msgstr "vezetéknév és keresztnév,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr ""
+msgstr "a Felhasználó címe (szállítási és számlázási),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr ""
+msgstr "cégjegyzékszám és adószám,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, X, and others),"
 msgstr ""
+"felhasználónév(ek) (beleértve a szándékosan összekapcsolt platformokat, mint "
+"például a Liberapay, GitHub, X és mások),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr ""
+msgstr "a Felhasználó avatárja,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail address"
 msgid "email address(es),"
-msgstr "Név és e-mail-cím"
+msgstr "email cím(ek),"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -193,15 +233,20 @@ msgid ""
 "openSUSE, and Ubuntu in the event that accounts with these providers are "
 "linked to the User account,"
 msgstr ""
+"azonosítók Bitbucket, Facebook, Google, LinkedIn, GitHub, GitLab, openSUSE "
+"és Ubuntu esetén, ha ezek a szolgáltatói fiókok össze vannak kapcsolva a "
+"Felhasználói fiókkal,"
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
-msgstr ""
+msgstr "a Felhasználó által használt Szolgáltatás és Termék specifikációi,"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
 msgstr ""
+"a Felhasználó csapatának taglétszámára és a tagok szerepeire vonatkozó "
+"információk,"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
@@ -209,35 +254,46 @@ msgid ""
 "Profile), i.e., settings for languages, notifications, if they can identify "
 "the User directly or indirectly,"
 msgstr ""
+"a Felhasználói fiók összes beállítása (beleértve az úgynevezett Profilt is), "
+"azaz nyelvi, értesítési beállítások, ha ezek közvetlenül vagy közvetve "
+"azonosítani tudják a Felhasználót,"
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
-msgstr ""
+msgstr "bankszámlaszám és esetleg más fizetési adatok,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "kriptovaluta pénztárca címe vagy címei,"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
 "other personal data contained in messages sent by the User to the Provider "
 "(especially the subject and other content of the message),"
 msgstr ""
+"a Felhasználó által a Szolgáltatónak küldött üzenetekben szereplő egyéb "
+"személyes adatok (különösen a tárgy és az üzenet tartalma),"
 
 #: wllegal/templates/legal/documents/privacy.html:120
 msgid ""
 "other personal data contained in communications with the Provider's support,"
 msgstr ""
+"a Szolgáltató ügyféltámogatásával folytatott kommunikációban szereplő egyéb "
+"személyes adatok,"
 
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
 msgstr ""
+"rendszeradatok, naplók és munkamenet-naplók, beleértve a Felhasználó IP-"
+"címét,"
 
 #: wllegal/templates/legal/documents/privacy.html:128
 msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
+"a fenti kategóriákba tartozó személyes adatokat a továbbiakban együttesen „"
+"<strong>Személyes adatok</strong>” néven említjük."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -250,6 +306,13 @@ msgid ""
 "under the conditions and based on a separate data processing agreement (so-"
 "called processing agreement) concluded between the Provider and the User."
 msgstr ""
+"Egyes esetekben a Szolgáltató <strong>adatfeldolgozóként is eljárhat</"
+"strong>, például ha a Felhasználó harmadik személyek személyes adatait adja "
+"át saját célból (pl. csapattagok hozzáadása, egy projekt felajánlása más "
+"nevében a Szolgáltatónak stb.). Harmadik felek kiválasztott Személyes "
+"adatainak kezelése ebben az esetben a Felhasználó utasítására történik, a "
+"Szolgáltató és a Felhasználó között külön megkötött adatfeldolgozási "
+"szerződés (ún. adatfeldolgozási megállapodás) alapján."
 
 #: wllegal/templates/legal/documents/privacy.html:136
 msgid ""
@@ -275,6 +338,25 @@ msgid ""
 "the User's instructions unless the Provider has another legal basis for "
 "processing personal data as a controller under Article 2.1 of this Policy."
 msgstr ""
+"A Szolgáltató a Személyes adatokat addig kezeli, amíg a szerződésből eredő "
+"valamennyi kötelezettség teljesül. Amikor a Szolgáltató lezárja a fiókot és/"
+"vagy a Felhasználó törli azt, a Szolgáltatásba bevitt minden Személyes adat "
+"és egyéb adat törlésre kerül, kivéve az alábbiakban megjelölt kiválasztott "
+"adatokat; ezért a Szolgáltató <strong>nyomatékosan javasolja</strong> az "
+"összes adat biztonsági mentését a fiók törlése előtt, és nem vállal "
+"felelősséget azok elvesztéséért a fiók lezárása után, még abban az esetben "
+"sem, ha az jogosan történt. A számlákon szereplő Személyes adatokat a "
+"Szolgáltató legalább a jogszabályban előírt megőrzési ideig, azaz 10 évig "
+"megőrzi. Abban az esetben, ha ez szükséges a Szolgáltató jogainak "
+"érvényesítéséhez és/vagy harmadik felek követeléseivel szembeni védekezéshez "
+"(beleértve a hatóságok által indított eljárásokat is), a Szolgáltató más "
+"Személyes adatokat is megőrizhet, de legfeljebb az adott követelés elévülési "
+"idejéig és/vagy az adott eljárás jogerős lezárásáig. A pontos időtartam nem "
+"határozható meg előre, az a követelés típusától, elévülési idejétől és az "
+"adott bíróság vagy hatóság eljárásának sebességétől függ. Azokat az "
+"adatokat, amelyeket a Szolgáltató csak mint adatfeldolgozó kezel, a "
+"Felhasználó által meghatározott időtartamig kezeli, kivéve ha a Szolgáltató "
+"más jogalappal is rendelkezik adatkezelőként a 2.1 pont szerint."
 
 #: wllegal/templates/legal/documents/privacy.html:140
 #, python-format
@@ -294,6 +376,20 @@ msgid ""
 "consent granted otherwise, by sending a request to <a href=\"mailto:"
 "%(address)s\">%(address)s</a>."
 msgstr ""
+"A Szolgáltató bizonyos Személyes adatokat – különösen email címet, kereszt- "
+"és vezetéknevet, valamint egyéb adatokat (amennyiben azokat a Felhasználó "
+"ezen célra megadta) – a Felhasználó <strong>önkéntes és tájékozott "
+"hozzájárulása</strong> alapján is kezelhet. Az adatkezelés <strong>2 évig</"
+"strong> és/vagy a hozzájárulás visszavonásáig történik. A Szolgáltatás vagy "
+"Termék (beleértve az Ügyféltámogatást) használata <strong>soha</strong> nem "
+"függ a hozzájárulás megadásától. Hozzájárulás azonban jellemzően szükséges "
+"például hírlevél küldéséhez olyan érintetteknek, akik még nem Felhasználók, "
+"vagy bizonyos bónuszok, bónusz anyagok biztosításához, amelyek nem "
+"kapcsolódnak más szolgáltatásokhoz, illetve a Felhasználó Személyes "
+"adatainak nyilvánosságra hozatalához a Szolgáltatónak tett adomány kapcsán. "
+"A hozzájárulás bármikor visszavonható a Felhasználói fiók felületén, illetve "
+"más módon adott hozzájárulás esetén a következő címre küldött kérés útján: "
+"<a href=\"mailto:%(address)s\">%(address)s</a>."
 
 #: wllegal/templates/legal/documents/privacy.html:144
 msgid ""
@@ -302,12 +398,14 @@ msgid ""
 "selected Personal Data based on a different legal reason if this legal "
 "reason in favour of the Provider continues to exist."
 msgstr ""
+"Amint a Személyes adatok kezelésének oka megszűnik, a Szolgáltató "
+"megsemmisíti az adatokat. Ez nem zárja ki, hogy bizonyos kiválasztott "
+"adatokat más jogalap alapján tovább kezeljen, ha ez a jogalap továbbra is "
+"fennáll a Szolgáltató javára."
 
 #: wllegal/templates/legal/documents/privacy.html:149
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Recipients and Processors of Personal Data"
-msgstr "Hozzáférés a személyes adatokhoz"
+msgstr "A személyes adatok címzettjei és feldolgozói"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -316,12 +414,18 @@ msgid ""
 "proper processing of Personal Data for the purposes defined in Article 2.1 "
 "of this Policy, specifically:"
 msgstr ""
+"A Szolgáltatón kívül kiválasztott harmadik felek is megkapják és kezelik a "
+"személyes adatokat jelen Szabályzat alapján, ha ez szükséges a Személyes "
+"adatok megfelelő kezeléséhez a Szabályzat 2.1 pontjában meghatározott célok "
+"érdekében, különösen:"
 
 #: wllegal/templates/legal/documents/privacy.html:158
 msgid ""
 "hosting provider (including web hosting and mail hosting services), "
 "currently this is <strong>Hetzner Online GmbH</strong>;"
 msgstr ""
+"tárhelyszolgáltató (beleértve a web- és e-mail tárhelyszolgáltatásokat), "
+"jelenleg: <strong>Hetzner Online GmbH</strong>;"
 
 #: wllegal/templates/legal/documents/privacy.html:161
 msgid ""
@@ -329,24 +433,34 @@ msgid ""
 "possibly operators of other services used in connection with the payment of "
 "any payments related to billing;"
 msgstr ""
+"a fizetési kapu üzemeltetői, <strong>ThePay.cz, s.r.o.</strong>, valamint "
+"más, a számlázással kapcsolatos fizetési szolgáltatásokhoz kapcsolódó "
+"szolgáltatók;"
 
 #: wllegal/templates/legal/documents/privacy.html:164
 msgid ""
 "accounting, legal, and tax advisors of the Provider and possibly other "
 "persons bound by confidentiality under the law;"
 msgstr ""
+"a Szolgáltató könyvelői, jogi és adótanácsadói, valamint más, törvény által "
+"titoktartásra kötelezett személyek;"
 
 #: wllegal/templates/legal/documents/privacy.html:167
 msgid ""
 "C-level and other managerial employees employed by or otherwise "
 "collaborating with the Provider;"
 msgstr ""
+"a Szolgáltatóval munkaviszonyban vagy egyéb formában együttműködő "
+"felsővezetők és más vezető beosztású munkatársak;"
 
 #: wllegal/templates/legal/documents/privacy.html:170
 msgid ""
 "selected contractors of the Provider who are involved in providing services "
 "to Users and who are also bound by confidentiality;"
 msgstr ""
+"a Szolgáltató kiválasztott alvállalkozói, akik részt vesznek a Felhasználók "
+"számára nyújtott szolgáltatásokban, és titoktartási kötelezettség terheli "
+"őket;"
 
 #: wllegal/templates/legal/documents/privacy.html:173
 msgid ""
@@ -354,12 +468,17 @@ msgid ""
 "the Service, Products, Support Services, and/or to ensure any other "
 "activities related to the above;"
 msgstr ""
+"minden más személy, akinek közreműködése szükséges a Szolgáltatás, a "
+"Termékek, az Ügyféltámogatás megfelelő biztosításához, és/vagy az ezekhez "
+"kapcsolódó egyéb tevékenységekhez;"
 
 #: wllegal/templates/legal/documents/privacy.html:178
 msgid ""
 "the persons mentioned in this Article 3.1 are collectively referred to in "
 "this Policy as \"<strong>Processors</strong>\"."
 msgstr ""
+"A 3.1 pontban említett személyek összefoglalóan a jelen Szabályzatban "
+"„<strong>Feldolgozók</strong>” néven szerepelnek."
 
 #: wllegal/templates/legal/documents/privacy.html:182
 msgid ""
@@ -369,16 +488,13 @@ msgid ""
 "personal data must meet high standards of protection and will always handle "
 "the data within the limits of the GDPR and this Policy."
 msgstr ""
+"A Felhasználó elfogadja, hogy a Szolgáltató átadhatja a személyes adatokat a "
+"fent említett Feldolgozóknak, ha ez szükséges az adatkezelési célok "
+"teljesítéséhez. A Szolgáltató által megbízott Feldolgozóknak magas "
+"adatvédelmi követelményeknek kell megfelelniük, és az adatokat mindig a GDPR "
+"és a jelen Szabályzat keretein belül kezelik."
 
 #: wllegal/templates/legal/documents/privacy.html:186
-#, fuzzy
-#| msgid ""
-#| "In case the Controller is required by law to disclose the Personal Data, "
-#| "an attempt will be made to provide the User with prior notice by e-mail "
-#| "(unless the Controller is prohibited, or it would be futile) that a "
-#| "request for the Personal Data has been made to allow the User to object "
-#| "to the disclosure. If the User does not challenge the disclosure request, "
-#| "the Controller may be legally required to turn over the Personal Data."
 msgid ""
 "The Personal Data might be disclosed to third parties in limited "
 "circumstances when the Controller has a good faith belief it is required by "
@@ -388,18 +504,21 @@ msgid ""
 "the Controller is prohibited, or it would be futile) that a request for the "
 "Personal Data has been made to allow the User to object to the disclosure."
 msgstr ""
-"Amennyiben az adatkezelőt jogszabály kötelezi a személyes adatok átadására, "
-"akkor megpróbálja a felhasználót e-mailben előzetesen értesíteni a személyes "
-"adatokra vonatkozó kérelem érkezéséről (kivéve, ha az adatkezelőnek ez "
-"tiltott vagy hiábavaló lenne), hogy a felhasználó tiltakozhasson a személyes "
-"adatok átadása ellen. Ha a felhasználó nem tiltakozik az átadási kérelem "
-"ellen, akkor az adatkezelő jogilag kötelezhető a személyes adatok átadására."
+"Személyes adatok harmadik felek részére csak kivételes esetekben adhatók ki, "
+"ha az Adatkezelő jóhiszeműen úgy véli, hogy erre jogszabály kötelezi (pl. "
+"idézés vagy bírósági, illetve hatósági határozat alapján). Ha a jogszabály "
+"kötelezi az Adatkezelőt a Személyes adatok kiadására, megpróbálja a "
+"Felhasználót előzetesen emailben értesíteni (kivéve, ha ezt jogszabály "
+"tiltja, vagy értelmetlen lenne), hogy a Felhasználónak lehetősége legyen "
+"tiltakozni az adatkiadás ellen."
 
 #: wllegal/templates/legal/documents/privacy.html:190
 msgid ""
 "The processing of Personal Data by selected Processors may be governed by "
 "their own service provision conditions."
 msgstr ""
+"A kiválasztott Feldolgozók általi adatkezelésre saját szolgáltatási "
+"feltételeik is vonatkozhatnak."
 
 #: wllegal/templates/legal/documents/privacy.html:194
 msgid ""
@@ -408,10 +527,14 @@ msgid ""
 "where the transfer must occur in compliance with the obligations of the "
 "Provider arising from generally binding regulations."
 msgstr ""
+"A Személyes adatok továbbítása akkor is megtörténhet, ha erre a Szolgáltatót "
+"jogszabály kötelezi, hatósági döntés alapján vagy más olyan esetekben, "
+"amikor az adattovábbítás a Szolgáltatóra vonatkozó általánosan kötelező "
+"érvényű jogszabályoknak való megfelelés miatt szükséges."
 
 #: wllegal/templates/legal/documents/privacy.html:199
 msgid "Common Provisions on Processing"
-msgstr ""
+msgstr "Általános rendelkezések az adatkezelésről"
 
 #: wllegal/templates/legal/documents/privacy.html:203
 msgid ""
@@ -421,6 +544,11 @@ msgid ""
 "processing of personal data by any third party, even if those third parties "
 "are Processors."
 msgstr ""
+"A Szolgáltató mindig minden tőle telhetőt megtesz annak érdekében, hogy "
+"megakadályozza a személyes adatok jogosulatlan kezelését más személyek által;"
+" azonban nem vállal felelősséget a Felhasználó vagy más érintettek felé az "
+"olyan károkért, amelyeket harmadik felek – még ha azok Feldolgozók is – "
+"jogosulatlan adatkezelése okoz."
 
 #: wllegal/templates/legal/documents/privacy.html:207
 msgid ""
@@ -430,6 +558,12 @@ msgid ""
 "480/2004 Coll. on Certain Information Society Services, if they directly "
 "relate to these Services, Products, and/or Support Services."
 msgstr ""
+"A Szolgáltatással, Termékkel és/vagy Ügyféltámogatással kapcsolatban a "
+"Felhasználónak küldött emailek nem minősülnek kéretlen kereskedelmi "
+"kommunikációnak a reklámtörvényről szóló 1995. évi 40. törvény és az "
+"elektronikus kereskedelmi szolgáltatásokról szóló 2004. évi 480. törvény "
+"alapján, amennyiben közvetlenül kapcsolódnak ezekhez a Szolgáltatásokhoz, "
+"Termékekhez és/vagy Ügyféltámogatáshoz."
 
 #: wllegal/templates/legal/documents/privacy.html:211
 msgid ""
@@ -441,6 +575,12 @@ msgid ""
 "revoked at any time by clicking on the link found in the footer of such "
 "commercial communication."
 msgstr ""
+"A Felhasználó ugyanakkor kifejezetten és <strong>önkéntesen hozzájárulhat</"
+"strong> ahhoz, hogy a Szolgáltató szélesebb körű kereskedelmi kommunikációt ("
+"pl. közvetett marketing) küldjön neki elektronikus elérhetőségére, az "
+"elektronikus kereskedelmi szolgáltatásokról szóló 2004. évi 480. törvény 7. §"
+" (2) bekezdése értelmében. A hozzájárulás természetesen bármikor "
+"visszavonható a kereskedelmi üzenetek láblécében található linken keresztül."
 
 #: wllegal/templates/legal/documents/privacy.html:215
 msgid ""
@@ -448,6 +588,9 @@ msgid ""
 "related to Personal Data that affects the User, they will notify the User of "
 "this fact without undue delay."
 msgstr ""
+"Amennyiben a Szolgáltató és/vagy a Feldolgozók tudomást szereznek a "
+"Felhasználót érintő, személyes adatokat érintő biztonsági kockázatról, "
+"haladéktalanul értesítik erről a Felhasználót."
 
 #: wllegal/templates/legal/documents/privacy.html:219
 msgid ""
@@ -456,6 +599,10 @@ msgid ""
 "other incident leading to loss. However, the Provider is not responsible for "
 "the improper actions of the Processors."
 msgstr ""
+"Adatvédelmi incidens vagy más adatvesztéssel járó esemény esetén a "
+"Szolgáltató segítséget és jogi támogatást nyújt a Felhasználónak abban, hogy "
+"kártérítést igényelhessen a felelős Feldolgozóktól. Ugyanakkor a Szolgáltató "
+"nem vállal felelősséget a Feldolgozók nem megfelelő eljárásáért."
 
 #: wllegal/templates/legal/documents/privacy.html:223
 msgid ""
@@ -467,6 +614,13 @@ msgid ""
 "the User in the case where they provide the Provider with Personal Data of "
 "data subjects other than this User."
 msgstr ""
+"A Felhasználó ezennel megerősíti, hogy az általa megadott Személyes adatok "
+"valósak, pontosak, és kizárólag rá vonatkoznak, illetve ha más adatokat "
+"adott meg, azok használata nem sérti harmadik felek jogait. A Felhasználó "
+"köteles minden változást haladéktalanul közölni a Szolgáltatóval, hogy "
+"kizárólag aktuális és teljes adatok kerüljenek kezelésre. Ugyanez a "
+"kötelezettség vonatkozik a Felhasználóra abban az esetben is, ha más "
+"érintettek személyes adatait adja meg a Szolgáltatónak."
 
 #: wllegal/templates/legal/documents/privacy.html:227
 msgid ""
@@ -475,6 +629,10 @@ msgid ""
 "never be subject to individual automated decision-making (including "
 "profiling) within the meaning of Article 22 of the GDPR."
 msgstr ""
+"A Személyes adatok kezelése elektronikus úton történik, beleértve az "
+"automatizált adatkezelési módszerek alkalmazását is. A Felhasználó vagy más "
+"érintettek azonban soha nem lesznek egyedi automatizált döntéshozatal ("
+"beleértve a profilalkotást) alanyai a GDPR 22. cikke értelmében."
 
 #: wllegal/templates/legal/documents/privacy.html:231
 msgid ""
@@ -482,12 +640,13 @@ msgid ""
 "the GDPR) may be processed even after all legal grounds for processing the "
 "User's Personal Data have ceased."
 msgstr ""
+"Az anonimizált személyes adatok (amelyek a GDPR szerint már nem minősülnek "
+"személyes adatnak) akkor is kezelhetők, ha a Felhasználó személyes adatainak "
+"kezelésére vonatkozó összes jogalap megszűnt."
 
 #: wllegal/templates/legal/documents/privacy.html:236
-#, fuzzy
-#| msgid "Order us to delete your Personal Data"
 msgid "User Rights in Relation to Personal Data"
-msgstr "Utasítani minket a személyes adatai törlésére"
+msgstr "A Felhasználó jogai a személyes adatokkal kapcsolatban"
 
 #: wllegal/templates/legal/documents/privacy.html:240
 #, python-format
@@ -499,6 +658,11 @@ msgid ""
 "correction, restriction, or deletion) can be automated through this user "
 "account."
 msgstr ""
+"A Felhasználó a GDPR-ból eredő jogait bármikor gyakorolhatja az <a href="
+"\"mailto:%(address)s\">%(address)s</a> email címen, illetve a Felhasználói "
+"fiókján keresztül, mivel a lent felsorolt jogok többsége (különösen a kezelt "
+"adatokhoz való hozzáférés, helyesbítés, korlátozás vagy törlés) "
+"automatizáltan elérhető a felületen."
 
 #: wllegal/templates/legal/documents/privacy.html:244
 msgid ""
@@ -507,30 +671,41 @@ msgid ""
 "strong>, unless due to the complexity of the matter it is necessary for the "
 "Provider to extend this period. The User's rights include:"
 msgstr ""
+"A Szolgáltató minden tőle telhetőt megtesz, hogy a személyes adatokkal "
+"kapcsolatos kérelmeket a lehető legrövidebb időn belül, de legkésőbb "
+"<strong>30 napon</strong> belül teljesítse, kivéve, ha az ügy összetettsége "
+"miatt a határidő meghosszabbítása szükséges. A Felhasználó jogai különösen "
+"az alábbiakat foglalják magukba:"
 
 #: wllegal/templates/legal/documents/privacy.html:249
 msgid ""
 "an explanation of whether and what personal data is being processed and, if "
 "applicable, requesting the Provider to disclose it;"
 msgstr ""
+"magyarázat kérését arról, hogy történik-e adatkezelés, és ha igen, milyen "
+"adatokra vonatkozik, továbbá kérheti ezen adatok kiadását;"
 
 #: wllegal/templates/legal/documents/privacy.html:252
 msgid ""
 "correction of personal data if there is concern that some of it is "
 "inaccurate or missing;"
-msgstr ""
+msgstr "a személyes adatok helyesbítését, ha azok pontatlanok vagy hiányosak;"
 
 #: wllegal/templates/legal/documents/privacy.html:255
 msgid ""
 "restriction of processing if there is concern that the Provider is "
 "processing more data than necessary;"
 msgstr ""
+"az adatkezelés korlátozását, ha felmerül a gyanú, hogy a Szolgáltató az "
+"indokoltnál több adatot kezel;"
 
 #: wllegal/templates/legal/documents/privacy.html:258
 msgid ""
 "deletion of personal data based on the consent of the Provider, provided "
 "that there is no other legal reason for further processing of personal data;"
 msgstr ""
+"személyes adatok törlését, ha azok kezelése a Szolgáltató hozzájárulásán "
+"alapult, és nincs más jogalap a további kezelésre;"
 
 #: wllegal/templates/legal/documents/privacy.html:261
 msgid ""
@@ -538,12 +713,17 @@ msgid ""
 "on the consent of the Provider or in connection with fulfilling the "
 "Provider's contractual obligations, in a machine-readable format;"
 msgstr ""
+"a Szolgáltató által automatizált módon kezelt személyes adatok másolatának "
+"kiadását géppel olvasható formátumban, ha az adatkezelés hozzájáruláson vagy "
+"a Szolgáltató szerződéses kötelezettségének teljesítésén alapult;"
 
 #: wllegal/templates/legal/documents/privacy.html:264
 msgid ""
 "temporary freezing of data processing operations for the purposes of the "
 "legitimate interest of the Provider;"
 msgstr ""
+"az adatkezelési műveletek ideiglenes felfüggesztését a Szolgáltató jogos "
+"érdekeire hivatkozva;"
 
 #: wllegal/templates/legal/documents/privacy.html:267
 #, python-format
@@ -553,11 +733,14 @@ msgid ""
 "authority if the User believes that the Provider is processing personal data "
 "in violation of this Policy or legal regulations."
 msgstr ""
+"panasz benyújtását közvetlenül a Személyes Adatokat Védő Hivatalhoz (<a href="
+"\"%(url)s\">%(url)s</a>) vagy más illetékes nemzeti adatvédelmi hatósághoz, "
+"ha úgy véli, hogy a Szolgáltató az adatokat jogellenesen kezeli."
 
 #: wllegal/templates/legal/documents/privacy.html:272
 #: wllegal/templates/legal/documents/tos.html:621
 msgid "Final Provisions"
-msgstr ""
+msgstr "Záró rendelkezések"
 
 #: wllegal/templates/legal/documents/privacy.html:276
 msgid ""
@@ -568,6 +751,11 @@ msgid ""
 "Policy displayed within the Service, or upon the next first login to their "
 "User Account."
 msgstr ""
+"A Szolgáltató jogosult a Szabályzatot egyoldalúan módosítani. Az új "
+"Szabályzat a Weboldalon való közzététellel lép hatályba. Az a Felhasználó, "
+"aki a módosítás időpontjában szerződéses kapcsolatban áll a Szolgáltatóval a "
+"jelen Szabályzat alapján, értesítést kap a változásról a Szolgáltatáson "
+"belül, illetve a következő bejelentkezéskor a Felhasználói fiókjába."
 
 #: wllegal/templates/legal/documents/privacy.html:280
 msgid ""
@@ -577,6 +765,10 @@ msgid ""
 "Policy will be resolved before the competent civil court in the Czech "
 "Republic."
 msgstr ""
+"A Szolgáltató és a Felhasználó között a jelen Szabályzatból eredő "
+"jogviszonyokra a Cseh Köztársaság hatályos jogszabályai az irányadók. Az "
+"ezekből vagy ezzel összefüggésben keletkező jogvitákat a Cseh Köztársaság "
+"illetékes polgári bíróságai rendezik."
 
 #: wllegal/templates/legal/documents/privacy.html:284
 msgid ""
@@ -589,6 +781,12 @@ msgid ""
 "Council (EC) No. 593/2008 of June 17, 2008, on the law applicable to "
 "contractual obligations (Rome I)."
 msgstr ""
+"Ha a szerződéses kapcsolat nemzetközi (külföldi) elemet tartalmaz, a fentiek "
+"szerinti jogválasztás nem fosztja meg a Felhasználót – mint Fogyasztót – az "
+"olyan jogszabályi rendelkezések nyújtotta védelemtől, amelyekről a "
+"jogválasztással nem lehet érvényesen eltérni, és amelyek egyébként "
+"alkalmazandók lennének az Európai Parlament és a Tanács 593/2008/EK "
+"rendeletének (Róma I rendelet) 6. cikk (1) bekezdése alapján."
 
 #: wllegal/templates/legal/documents/privacy.html:288
 msgid ""
@@ -598,75 +796,73 @@ msgid ""
 "provision does not affect the validity of the other provisions of this "
 "Policy."
 msgstr ""
+"Ha a Szabályzat bármely rendelkezése érvénytelen vagy hatálytalan, vagy azzá "
+"válik, azt a rendelkezés helyettesíti, amely tartalmában a legközelebb áll "
+"az érvénytelen rendelkezés céljához. Az egyik rendelkezés érvénytelensége "
+"vagy hatálytalansága nem érinti a Szabályzat többi rendelkezésének "
+"érvényességét."
 
 #: wllegal/templates/legal/documents/privacy.html:292
 msgid "This Policy become effective upon their publication on the Website."
-msgstr ""
+msgstr "A jelen Szabályzat a Weboldalon történő közzététel napján lép hatályba."
 
 #: wllegal/templates/legal/documents/privacy.html:296
 msgid "In Prague on November 1, 2024."
-msgstr ""
+msgstr "Kelt: Prága, 2024. november 1."
 
 #: wllegal/templates/legal/documents/summary.html:5
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"Személyes adatokat dolgozunk fel (például az e-mail-címét). Ezeket töröljük "
-"adatbázisunkból, ha eltávolítja a fiókját."
+"Személyes adatokat kezelünk (például az email címedet); ezek törlésre "
+"kerülnek az adatbázisunkból, ha törlöd a fiókodat."
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
-msgstr ""
-"A fordításai olyan licenc alapján készülnek, amelyeket az egyes "
-"fordításoknál megadtak."
+msgstr "A fordításaid az adott fordításhoz megadott licenc alatt készülnek."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid ""
 "Your name and e-mail address is used in VCS commits, it will stay there "
 "indefinitely."
 msgstr ""
-"A neve és az e-mail-címe a verziókövető rendszer véglegesítéseiben lesz "
-"használva, és ott is marad a végtelenségig."
+"A neved és email címed szerepel a verziókövetési rendszer (VCS) "
+"commitjaiban, és ott korlátlan ideig megmarad."
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
 msgstr ""
-"A választott név Öntől függ, és a véglegesítésekhez használt e-mail-címet a "
-"Weblate rendszer elrejtheti az Ön magánéletének védelme érdekében."
+"A választott név rajtad múlik, a commitokhoz használt email címet pedig a "
+"Weblate rendszere elrejtheti az adatvédelmed érdekében."
 
 #: wllegal/templates/legal/documents/summary.html:15
 msgid "We use cookies to deliver our services."
-msgstr "Sütiket használunk a szolgáltatásaink nyújtásához."
+msgstr "Sütiket használunk szolgáltatásaink működtetéséhez."
 
 #: wllegal/templates/legal/documents/summary.html:16
 msgid "We don’t use any third-party cookies."
-msgstr "Nem használunk harmadik féltől származó sütiket."
+msgstr "Harmadik féltől származó sütiket nem használunk."
 
 #: wllegal/templates/legal/documents/tos.html:6
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
-"Az Általános Szerződési Feltételek jogilag kötelező érvényű angol nyelven, a "
-"fordítások kizárólag tájékoztató jellegűek."
+"Az Általános Szerződési Feltételek dokumentum angol nyelven jogilag kötelező "
+"érvényű, a fordítások kizárólag a tájékozódásodat szolgálják."
 
 #: wllegal/templates/legal/documents/tos.html:12
-#, fuzzy
-#| msgid ""
-#| "The rights and obligations of the User and the Provider resulting from "
-#| "the use of the Service are governed by these Terms of Service."
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
 msgstr ""
-"A felhasználónak és a szolgáltatónak a szolgáltatás használatából eredő "
-"jogait és kötelezettségeit jelen általános szerződési feltételek "
-"szabályozzák."
+"A Szolgáltatás használatából eredő jogok és kötelezettségek a Felhasználó és "
+"a Szolgáltató között ezen Általános Szerződési Feltételek szerint alakulnak."
 
 #: wllegal/templates/legal/documents/tos.html:21
 msgid ""
@@ -677,31 +873,38 @@ msgid ""
 "Services and Products. These general terms and conditions govern the "
 "contractual relationship between the service provider and the User."
 msgstr ""
+"Ezek az általános szerződési feltételek a Felhasználó és a Szolgáltató "
+"között létrejött szolgáltatási szerződés (a továbbiakban: "
+"„<strong>Szerződés</strong>”) elválaszthatatlan részét képezik, és "
+"meghatározzák a Szolgáltatások és Termékek nyújtásának, valamint "
+"használatának kötelező szabályait és feltételeit. Az általános szerződési "
+"feltételek szabályozzák a Szolgáltató és a Felhasználó közötti szerződéses "
+"kapcsolatot."
 
 #: wllegal/templates/legal/documents/tos.html:25
 msgid ""
 "The definitions below have the following meanings for the purposes of these "
 "general terms and conditions:"
 msgstr ""
+"Az alábbi fogalommeghatározások a jelen általános szerződési feltételek "
+"alkalmazásában a következő jelentéssel bírnak:"
 
 #: wllegal/templates/legal/documents/tos.html:31
 msgid "Civil Code"
 msgstr "Polgári Törvénykönyv"
 
 #: wllegal/templates/legal/documents/tos.html:34
-#, fuzzy
-#| msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
 msgstr ""
-"a módosított %(law_89_2012)s számú törvényt, a Polgári Törvénykönyvet jelenti"
+"az 89/2012. sz. törvényt jelenti, a Polgári Törvénykönyv hatályos változatát;"
 
 #: wllegal/templates/legal/documents/tos.html:38
 msgid "Contracting Parties"
-msgstr ""
+msgstr "Szerződő felek"
 
 #: wllegal/templates/legal/documents/tos.html:41
 msgid "jointly refers to the User and the Provider;"
-msgstr ""
+msgstr "a Felhasználóra és a Szolgáltatóra együttesen utal;"
 
 #: wllegal/templates/legal/documents/tos.html:45
 msgid "Cookies"
@@ -715,64 +918,64 @@ msgid ""
 "Coll., on Certain Information Society Services and Amending Certain Acts, as "
 "amended;"
 msgstr ""
+"azokat az adatokat jelentik, amelyeket a szolgáltatás webszervere küld a "
+"Felhasználó számítógépére vagy más internetkapcsolattal rendelkező "
+"eszközére, és amelyek lehetővé teszik a Felhasználó webböngészőjének egyedi "
+"azonosítását a 2004. évi 480. törvény 89. §-a alapján, az Elektronikus "
+"kereskedelmi szolgáltatásokról szóló törvény szerint;"
 
 #: wllegal/templates/legal/documents/tos.html:52
 msgid "Dedicated Weblate"
-msgstr ""
+msgstr "Dedikált Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:55
 msgid ""
 "means a form of collaboration where the User is the sole user of the Service "
 "in a cloud hosted and provided by the Provider;"
 msgstr ""
+"egy olyan együttműködési forma, amelyben a Felhasználó az egyetlen "
+"felhasználója a Szolgáltatásnak a Szolgáltató által üzemeltetett felhőalapú "
+"környezetben;"
 
 #: wllegal/templates/legal/documents/tos.html:59
 msgid "GDPR"
 msgstr "GDPR"
 
 #: wllegal/templates/legal/documents/tos.html:62
-#, fuzzy
-#| msgid ""
-#| "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
-#| "Regulation"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
 msgstr ""
-"a %(law_679_2016)s számú európai uniós rendeletet, az általános adatvédelmi "
-"rendeletet jelenti"
+"az Európai Unió 679/2016. sz. rendeletét jelenti, az Általános Adatvédelmi "
+"Rendeletet;"
 
 #: wllegal/templates/legal/documents/tos.html:66
 msgid "GTC"
-msgstr ""
+msgstr "ÁSZF"
 
 #: wllegal/templates/legal/documents/tos.html:69
 msgid ""
 "means these general terms and conditions, which form an integral part of the "
 "Agreement;"
 msgstr ""
+"az ezen általános szerződési feltételeket jelenti, amelyek a Szerződés "
+"elválaszthatatlan részét képezik;"
 
 #: wllegal/templates/legal/documents/tos.html:73
 msgid "Hosted String"
-msgstr ""
+msgstr "Tárolt szövegegység"
 
 #: wllegal/templates/legal/documents/tos.html:76
-#, fuzzy
-#| msgid ""
-#| "Pricing is based on number of source strings and target languages. The "
-#| "source string is a text unit defined in a translation format, it can be a "
-#| "word, sentence or paragraph."
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
 msgstr ""
-"Az ár a forrásszövegek és a célnyelvek számán alapul. A forrásszöveg egy "
-"szövegegység fordítási formátumban definiálva, lehet egy szó, egy mondat "
-"vagy bekezdés."
+"a fordítási formátumban meghatározott szövegegységet jelenti. Ez lehet egy "
+"szó, mondat vagy bekezdés;"
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid "Hosted Weblate"
-msgstr "Szolgáltatott Weblate"
+msgstr "Hosztolt Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:83
 msgid ""
@@ -780,63 +983,61 @@ msgid ""
 "provides Services to Users on a non-dedicated (i.e., shared by multiple "
 "Users) cloud operated by the Provider;"
 msgstr ""
+"egy olyan együttműködési forma, amely teljesen felhőalapú, és amelyben a "
+"Szolgáltató a Szolgáltatásokat nem dedikált (azaz több Felhasználó által "
+"megosztott) felhőben nyújtja;"
 
 #: wllegal/templates/legal/documents/tos.html:87
 msgid "License"
 msgstr "Licenc"
 
 #: wllegal/templates/legal/documents/tos.html:90
-#, fuzzy
-#| msgid ""
-#| "means non-exclusive license granted by the Provider to the User for use "
-#| "of the Service"
 msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
 msgstr ""
-"a szolgáltató által a felhasználónak a szolgáltatás használatára adott nem "
-"kizárólagos engedélyt jelent"
+"azt a nem kizárólagos felhasználási jogot jelenti, amelyet a Szolgáltató a "
+"Felhasználónak biztosít a Szolgáltatás használatához;"
 
 #: wllegal/templates/legal/documents/tos.html:94
 msgid "Personal Data"
 msgstr "Személyes adatok"
 
 #: wllegal/templates/legal/documents/tos.html:97
-#, fuzzy
-#| msgid ""
-#| "means personal data within the meaning of EU Regulation No. "
-#| "%(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"a %(law_679_2016)s számú európai uniós rendelet értelmében vett személyes "
-"adatok, amelyeket a felhasználó a szolgáltatásba és/vagy a sütikbe helyez el"
+"az EU 679/2016 rendeletében meghatározott személyes adatokat jelenti, "
+"amelyeket a Felhasználó visz be a Szolgáltatásba és/vagy amelyek sütik "
+"formájában kerülnek rögzítésre;"
 
 #: wllegal/templates/legal/documents/tos.html:101
 #: wllegal/templates/legal/documents/tos.html:236
 msgid "Price"
-msgstr ""
+msgstr "Ár"
 
 #: wllegal/templates/legal/documents/tos.html:104
 msgid ""
 "the value expressed in money for the provided License in accordance with the "
 "Price List;"
-msgstr ""
+msgstr "a Licencért fizetendő, pénzben kifejezett érték a Díjszabás szerint;"
 
 #: wllegal/templates/legal/documents/tos.html:108
 msgid "Price List"
-msgstr ""
+msgstr "Díjszabás"
 
 #: wllegal/templates/legal/documents/tos.html:111
 msgid ""
 "means the document or web page that specifies the Price of the Service and/"
 "or Product unless otherwise stated in the Agreement;"
 msgstr ""
+"az a dokumentum vagy weboldal, amely meghatározza a Szolgáltatás és/vagy "
+"Termék árát, hacsak a Szerződés másként nem rendelkezik;"
 
 #: wllegal/templates/legal/documents/tos.html:115
 msgid "Product"
-msgstr ""
+msgstr "Termék"
 
 #: wllegal/templates/legal/documents/tos.html:118
 msgid ""
@@ -844,6 +1045,10 @@ msgid ""
 "Provider based on its brand usage policy. The User purchases the Product AS "
 "IS. Support and other services are provided separately;"
 msgstr ""
+"a Szolgáltató által valamely márkanév alatt, annak márkakezelési szabályzata "
+"alapján nyújtott bármely szolgáltatás vagy annak része. A Felhasználó a "
+"Terméket „AHOGY VAN” állapotban vásárolja meg. A támogatás és egyéb "
+"szolgáltatások külön kerülnek biztosításra;"
 
 #: wllegal/templates/legal/documents/tos.html:122
 msgid "Provider"
@@ -856,20 +1061,21 @@ msgid ""
 "the Commercial Register maintained by the Regional Court in Ústí nad Labem, "
 "file no. C 52324, with which the Agreement was concluded;"
 msgstr ""
+"a <strong>Weblate s.r.o.</strong> nevű céget jelenti, székhelye: Nábřežní "
+"694, Cvikov II, 471 54 Cvikov, cégjegyzékszám: 21668027, bejegyezve az Ústí "
+"nad Labem-i Kerületi Bíróság cégnyilvántartásába, iktatószám: C 52324, "
+"amellyel a Szerződés létrejött;"
 
 #: wllegal/templates/legal/documents/tos.html:129
 msgid "Service"
 msgstr "Szolgáltatás"
 
 #: wllegal/templates/legal/documents/tos.html:132
-#, fuzzy
-#| msgid ""
-#| "means the website and services based on Weblate operated by the Provider"
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
 msgstr ""
-"a szolgáltató által üzemeltetett Weblate-en alapuló webhelyet és "
-"szolgáltatásokat jelenti"
+"a Szolgáltató által nyújtott, Weblate-alapú weboldalakat és szolgáltatásokat "
+"jelenti;"
 
 #: wllegal/templates/legal/documents/tos.html:136
 msgid "Self-hosting"
