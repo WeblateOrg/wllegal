@@ -1489,6 +1489,11 @@ msgid ""
 "or later versions of the GPL license), they publish all materials to which "
 "they do not own copyright."
 msgstr ""
+"Ha a Szolgáltatás módosításai kizárólag a Felhasználó javát szolgálják, vagy "
+"olyan eszközök készülnek, amelyekkel ezek futtathatók, akkor a Felhasználó "
+"csak akkor teheti közzé a Szolgáltatást, ha a GPLv3 (és/vagy későbbi GPL-"
+"verziók) szerint minden olyan anyagot is közzétesz, amelyre nem rendelkezik "
+"szerzői joggal."
 
 #: wllegal/templates/legal/documents/tos.html:308
 msgid ""
