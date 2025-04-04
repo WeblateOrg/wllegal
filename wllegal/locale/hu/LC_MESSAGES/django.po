@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-04-02 19:27+0000\n"
+"PO-Revision-Date: 2025-04-04 15:06+0000\n"
 "Last-Translator: RViktor <rviktor@ivankapal.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/weblate/legal/"
 "hu/>\n"
@@ -1990,19 +1990,19 @@ msgid ""
 "Operating or disseminating any tools that may be misused to breach network, "
 "device, or service security;"
 msgstr ""
-"Olyan eszközök üzemeltetése vagy terjesztése, amelyek visszaélésre "
+"olyan eszközök üzemeltetése vagy terjesztése, amelyek visszaélésre "
 "alkalmasak hálózat, eszköz vagy szolgáltatás biztonságának megsértésére;"
 
 #: wllegal/templates/legal/documents/tos.html:465
 msgid "Overburdening the Provider's or third-party servers;"
-msgstr "A Szolgáltató vagy harmadik felek szervereinek túlterhelése;"
+msgstr "a Szolgáltató vagy harmadik felek szervereinek túlterhelése;"
 
 #: wllegal/templates/legal/documents/tos.html:469
 msgid ""
 "Engaging in any activities that could harm the Provider, its reputation, or "
 "its assets;"
 msgstr ""
-"Bármilyen olyan tevékenység végzése, amely a Szolgáltatónak, hírnevének vagy "
+"bármilyen olyan tevékenység végzése, amely a Szolgáltatónak, hírnevének vagy "
 "vagyonának kárt okozhat;"
 
 #: wllegal/templates/legal/documents/tos.html:473
@@ -2010,7 +2010,7 @@ msgid ""
 "Using any means, servers, devices, or elements provided by the Provider in a "
 "manner not expressly agreed upon in these Terms or the Agreement;"
 msgstr ""
-"A Szolgáltató által biztosított eszközök, szerverek vagy más elemek olyan "
+"a Szolgáltató által biztosított eszközök, szerverek vagy más elemek olyan "
 "módon történő használata, amelyre a jelen Feltételek vagy a Szerződés "
 "kifejezetten nem ad felhatalmazást;"
 
@@ -2018,23 +2018,23 @@ msgstr ""
 msgid ""
 "Conducting activities that would disclose any content to third parties that:"
 msgstr ""
-"Olyan tevékenységek folytatása, amelyek során harmadik felek számára olyan "
+"olyan tevékenységek folytatása, amelyek során harmadik felek számára olyan "
 "tartalom válik hozzáférhetővé, amely:"
 
 #: wllegal/templates/legal/documents/tos.html:481
 msgid "Contains prohibited applications and scripts;"
-msgstr "Tiltott alkalmazásokat és scripteket tartalmaz;"
+msgstr "tiltott alkalmazásokat és scripteket tartalmaz;"
 
 #: wllegal/templates/legal/documents/tos.html:485
 msgid "Overloads database systems or causes malfunction of servers;"
-msgstr "Adatbázis-rendszerek túlterhelését vagy szerverhibát okoz;"
+msgstr "adatbázis-rendszerek túlterhelését vagy szerverhibát okoz;"
 
 #: wllegal/templates/legal/documents/tos.html:489
 msgid ""
 "Overburdens the infrastructure, connection lines, or hardware of the "
 "Provider or third parties;"
 msgstr ""
-"A Szolgáltató vagy harmadik felek infrastruktúráját, internetkapcsolatát "
+"a Szolgáltató vagy harmadik felek infrastruktúráját, internetkapcsolatát "
 "vagy hardverét túlterheli;"
 
 #: wllegal/templates/legal/documents/tos.html:493
@@ -2042,7 +2042,7 @@ msgid ""
 "Involves music, sound, image, film, or similar files for which the User "
 "lacks distribution rights;"
 msgstr ""
-"Zenei, hang-, kép-, film- vagy hasonló fájlokat tartalmaz, amelyek "
+"zenei, hang-, kép-, film- vagy hasonló fájlokat tartalmaz, amelyek "
 "terjesztésére a Felhasználónak nincs joga;"
 
 #: wllegal/templates/legal/documents/tos.html:497
@@ -2050,7 +2050,7 @@ msgid ""
 "Threatens the privacy or security of other Internet users or the security of "
 "computer systems (e.g., through viruses, password generators, etc.);"
 msgstr ""
-"Más internethasználók vagy számítógépes rendszerek (pl. vírusok, "
+"más internethasználók vagy számítógépes rendszerek (pl. vírusok, "
 "jelszógenerátorok stb.) biztonságát vagy magánéletét veszélyezteti;"
 
 #: wllegal/templates/legal/documents/tos.html:501
@@ -2058,7 +2058,7 @@ msgid ""
 "Is part of the provided Service without written permission from the Provider "
 "to share it with third parties;"
 msgstr ""
-"A Szolgáltatás részét képezi, de a Felhasználó nem rendelkezik írásos "
+"a Szolgáltatás részét képezi, de a Felhasználó nem rendelkezik írásos "
 "engedéllyel annak harmadik felekkel való megosztására;"
 
 #: wllegal/templates/legal/documents/tos.html:505
@@ -2066,12 +2066,12 @@ msgid ""
 "Gives the impression that the User acts on behalf of the Provider without "
 "authorization;"
 msgstr ""
-"Azt a benyomást kelti, hogy a Felhasználó a Szolgáltató nevében jár el, "
+"azt a benyomást kelti, hogy a Felhasználó a Szolgáltató nevében jár el, "
 "miközben erre nincs jogosultsága;"
 
 #: wllegal/templates/legal/documents/tos.html:509
 msgid "May harm any third-party rights."
-msgstr "Harmadik felek jogait sértheti."
+msgstr "harmadik felek jogait sértheti."
 
 #: wllegal/templates/legal/documents/tos.html:513
 msgid ""
