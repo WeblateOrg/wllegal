@@ -6,39 +6,41 @@
 # anonymous <noreply@weblate.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2021-01-28 08:55+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Belarusian (latin) <https://hosted.weblate.org/projects/"
-"weblate/legal/be_Latn/>\n"
-"Language: be@latin\n"
+"PO-Revision-Date: 2025-04-10 11:40+0000\n"
+"Last-Translator: CyrTranslit <noreply-mt-cyrtranslit@weblate.org>\n"
+"Language-Team: Belarusian (Latin script) <https://hosted.weblate.org/"
+"projects/weblate/legal/be_Latn/>\n"
+"Language: be_Latn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5-dev\n"
+"X-Generator: Weblate 5.11-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr ""
+msgstr "Subpadradchy'kі zgodna arty'kula 28 GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:11
 msgid "Status as of May 2024."
-msgstr ""
+msgstr "Pa stane na 03.2023."
 
 #: wllegal/templates/legal/documents/privacy.html:5
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
+"Afіczy'ny'm dakumentam «Umoў abslugoўvannya» yoscz' dakument na anglіjskaj "
+"move, peraklady' padayuczcza, kab vam by'lo zruchnej."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:7
 msgid "View English version"
-msgstr ""
+msgstr "Praglyadzecz' anglіjskuyu versіyu"
 
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
@@ -174,10 +176,8 @@ msgid "User's avatar,"
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail"
 msgid "email address(es),"
-msgstr "Imia i eliektronnaja pošta"
+msgstr "Imia i eliektronnazha pošta"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -296,10 +296,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:149
-#, fuzzy
-#| msgid "Access the internal repository"
 msgid "Recipients and Processors of Personal Data"
-msgstr "Dostup da ŭnutranaha repazitoryja"
+msgstr "Dostup da ŭnutranaha repazitorizha"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -462,10 +460,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:236
-#, fuzzy
-#| msgid "Access the internal repository"
 msgid "User Rights in Relation to Personal Data"
-msgstr "Dostup da ŭnutranaha repazitoryja"
+msgstr "Dostup da ŭnutranaha repazitorizha"
 
 #: wllegal/templates/legal/documents/privacy.html:240
 #, python-format
@@ -586,28 +582,20 @@ msgid "In Prague on November 1, 2024."
 msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:5
-#, fuzzy
-#| msgid ""
-#| "We process private data (such as your e-mail address), those will be "
-#| "discarded from our database as soon as you remove your account."
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"My apracoŭvajem asabistyja dadzienyja (napryklad, adras eliektronnaj pošty). "
-"Jany buduć vykinuty z našaj bazy dadzienych, jak toĺki vy vydalicie svoj "
-"kont."
+"Mi aprakoŭvazhem asabistizha dadzienizha (napriklad, adras eliektronnaj "
+"pošti). ZHani buduć vikinuti z našaj bazi dadzienich, zhak toĺki vi "
+"vidalikie svoj kont."
 
 #: wllegal/templates/legal/documents/summary.html:8
-#, fuzzy
-#| msgid ""
-#| "Your translations are made under license which is specified by each "
-#| "translation."
 msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
 msgstr ""
-"Vašy pieraklady zroblienyja na ŭmovach licenzii, što zadadzienaja dlia "
+"Vaši pierakladi zroblienizha na ŭmovach likenzii, što zadadzienazha dlia "
 "kožnaha pieriekladu."
 
 #: wllegal/templates/legal/documents/summary.html:11
@@ -637,12 +625,17 @@ msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
+"Afіczy'ny'm dakumentam «Umoў abslugoўvannya» yoscz' dakument na anglіjskaj "
+"move, peraklady' padayuczcza, kab vam by'lo zruchnej."
 
 #: wllegal/templates/legal/documents/tos.html:12
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
 msgstr ""
+"Pravy' і abavyazkі Kary'stal'nіka і Pastaўshchy'ka, shto ўznіkayucz' u "
+"vy'nіku vy'kary'stannya Paslug, re'gulyuyuczcza dadzeny'mі Umovamі "
+"abslugoўvannya."
 
 #: wllegal/templates/legal/documents/tos.html:21
 msgid ""
@@ -662,11 +655,13 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:31
 msgid "Civil Code"
-msgstr ""
+msgstr "Gramadzyanskі kode'ks"
 
 #: wllegal/templates/legal/documents/tos.html:34
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
 msgstr ""
+"aznachae Zakon № %(law_89_2012)s zboru zakonaў Gramadzyanskaga kode'ksu z "
+"vy'praўlennyamі"
 
 #: wllegal/templates/legal/documents/tos.html:38
 msgid "Contracting Parties"
@@ -701,13 +696,15 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:59
 msgid "GDPR"
-msgstr ""
+msgstr "GDPR"
 
 #: wllegal/templates/legal/documents/tos.html:62
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
 msgstr ""
+"aznachae re'glament № %(law_679_2016)s, General Data Protection Regulation, "
+"vyadomy' yak GDPR"
 
 #: wllegal/templates/legal/documents/tos.html:66
 msgid "GTC"
@@ -724,22 +721,17 @@ msgid "Hosted String"
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:76
-#, fuzzy
-#| msgid ""
-#| "The pricing is based on number of source strings and number of target "
-#| "languages. The source string is a text unit defined in a translation "
-#| "format, it can be word, sentence or a paragraph."
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
 msgstr ""
-"Košty ŭ zaliežnasci ad koĺkasci zychodnych radkoŭ i koĺkasci metavych moŭ. "
-"Zychodny radok — tekstavaja adzinka, jakaja vykarystoŭvajecca ŭ "
-"pierakladzie, heta moža być slova, skaz aĺbo abzac."
+"Košti ŭ zaliežnaski ad koĺkaski zichodnich radkoŭ i koĺkaski metavich moŭ. "
+"Zichodni radok — tekstavazha adzinka, zhakazha vikaristoŭvazhekka ŭ "
+"pierakladzie, heta moža bić slova, skaz aĺbo abzak."
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid "Hosted Weblate"
-msgstr ""
+msgstr "Xosty'ng Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:83
 msgid ""
@@ -757,19 +749,20 @@ msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
 msgstr ""
+"aznachae agul'nuyu lіcze'nzіyu, vy'dadzenuyu pastaўshchy'kom kary'stal'nіku "
+"dlya kary'stannya paslugaj"
 
 #: wllegal/templates/legal/documents/tos.html:94
-#, fuzzy
-#| msgctxt "Translation memory category"
-#| msgid "Personal: {}"
 msgid "Personal Data"
-msgstr "Asabistaja: {}"
+msgstr "Asabіsty'ya dany'ya"
 
 #: wllegal/templates/legal/documents/tos.html:97
 msgid ""
 "means personal data as defined in EU Regulation 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
+"aznachae asabіsty'ya dany'ya pa znache'nnі re'glamentu EU No %(law_679_2016)"
+"s, padadzeny'ya Kary'stal'nіkam u Sluzhbu czі / abo ўklyuchany'ya ў cookies"
 
 #: wllegal/templates/legal/documents/tos.html:101
 #: wllegal/templates/legal/documents/tos.html:236
@@ -805,7 +798,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:122
 msgid "Provider"
-msgstr ""
+msgstr "Adras"
 
 #: wllegal/templates/legal/documents/tos.html:125
 msgid ""
@@ -823,6 +816,8 @@ msgstr "Služba"
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
 msgstr ""
+"aznachae ve'b-sajt і sluzhby' na asnove Weblate, shto kіruyuczcza "
+"Pastaўshchy'kom"
 
 #: wllegal/templates/legal/documents/tos.html:136
 msgid "Self-hosting"
@@ -835,8 +830,6 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:143
-#, fuzzy
-#| msgid "Service"
 msgid "Support Services"
 msgstr "Služba"
 
@@ -854,6 +847,8 @@ msgstr "Pamiać pierakladu"
 #: wllegal/templates/legal/documents/tos.html:153
 msgid "means an optional translation memory service provided on Weblate;"
 msgstr ""
+"aznachae dadatkovuyu paslugu pamyaczі perakladaў, shto pastaўlyaeczcza z "
+"Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:157
 msgid "User"
@@ -864,6 +859,8 @@ msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
 msgstr ""
+"aznachae lyubuyu yury'dy'chnuyu abo fіzіchnuyu asobu, akramya "
+"Pastaўshchy'ka, yakaya vy'kary'stoўvae Paslugu"
 
 #: wllegal/templates/legal/documents/tos.html:164
 msgid "User Account"
@@ -899,7 +896,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:192
 msgid "The Agreement is concluded:"
-msgstr ""
+msgstr "Zaklyuche'nne lіcze'nzіjnaga pagadnennya"
 
 #: wllegal/templates/legal/documents/tos.html:197
 msgid ""
@@ -958,8 +955,6 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:228
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
 msgstr "Služba"
 
@@ -998,8 +993,6 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:250
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
 msgstr "Pamiać pierakladu"
 
@@ -1077,10 +1070,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:287
-#, fuzzy
-#| msgid "License"
 msgid "License Terms"
-msgstr "Lіcenzіja"
+msgstr "Lіkenzіzha"
 
 #: wllegal/templates/legal/documents/tos.html:291
 #, python-format
@@ -1149,10 +1140,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:316
-#, fuzzy
-#| msgid "Failed to process form!"
 msgid "Payment Terms"
-msgstr "Nie ŭdalosia apracavać farmuliar!"
+msgstr "Nie ŭdalosia aprakavać farmuliar!"
 
 #: wllegal/templates/legal/documents/tos.html:320
 msgid ""
@@ -1660,11 +1649,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:584
-#, fuzzy
-#| msgid ""
-#| "However, the following translation projects are available on this server:"
 msgid "Any other matters related to the Service."
-msgstr "Adnak nastupnyja pierakladnickija prajekty dastupnyja na sierviery:"
+msgstr "Adnak nastupnizha pierakladnikizha prazhekti dastupnizha na siervieri:"
 
 #: wllegal/templates/legal/documents/tos.html:589
 msgid ""
@@ -1696,8 +1682,6 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:601
-#, fuzzy
-#| msgid "Version control"
 msgid "Personal Data Protection"
 msgstr "Kantroĺ viersij"
 
@@ -1799,6 +1783,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:649
 msgid "These Terms enter into force on November 1, 2024."
 msgstr ""
+"Ge'ty'ya ўmovy' abslugoўvannya naby'vayucz' mocz z 1 verasnya 2017 goda."
 
 #, fuzzy
 #~| msgid "Translation process"
