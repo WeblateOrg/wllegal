@@ -8,11 +8,11 @@
 # Alex Ky <esthomolupus@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2024-11-19 13:40+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-04-10 11:40+0000\n"
+"Last-Translator: CyrTranslit <noreply-mt-cyrtranslit@weblate.org>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/weblate/legal/"
 "be/>\n"
 "Language: be\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.11-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -184,10 +184,8 @@ msgid "User's avatar,"
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail address"
 msgid "email address(es),"
-msgstr "Імя і адрас электроннай пошты"
+msgstr "Имиа и елиектроннажа поšта"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -306,10 +304,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:149
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Recipients and Processors of Personal Data"
-msgstr "Доступ да асабістых даных"
+msgstr "Доступ да ŭнутранаhа репазиторижа"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -472,10 +468,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:236
-#, fuzzy
-#| msgid "Order us to delete your Personal Data"
 msgid "User Rights in Relation to Personal Data"
-msgstr "Замовіць нам выдаленне вашых асабістых даных"
+msgstr "Доступ да ŭнутранаhа репазиторижа"
 
 #: wllegal/templates/legal/documents/privacy.html:240
 #, python-format
@@ -596,28 +590,20 @@ msgid "In Prague on November 1, 2024."
 msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:5
-#, fuzzy
-#| msgid ""
-#| "We process private data (such as your e-mail address), those will be "
-#| "discarded from our database as soon as you remove your account."
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"Мы апрацоўваем асабістыя даныя (напрыклад, адрас электроннай пошты). Яны "
-"выдаляцца з нашай базы даных як толькі вы выдаліце свой акаўнт."
+"Ми апракоŭважем асабистижа дадзиенижа (наприклад, адрас елиектроннай поšти). "
+"Жани будуć викинути з наšай бази дадзиенич, жак тоĺки ви видаликие свой конт."
 
 #: wllegal/templates/legal/documents/summary.html:8
-#, fuzzy
-#| msgid ""
-#| "Your translations are made under license which is specified by each "
-#| "translation."
 msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
 msgstr ""
-"Вашыя пераклады выконваюцца на ўмовах ліцэнзій, што вызначаюцца для кожнага "
-"перекладу."
+"Ваšи пиераклади зроблиенижа на ŭмовач ликензии, šто зададзиенажа длиа "
+"коžнаhа пиериекладу."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid ""
@@ -755,18 +741,13 @@ msgid "Hosted String"
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:76
-#, fuzzy
-#| msgid ""
-#| "Pricing is based on the number of source strings and target languages. "
-#| "The source string is a text unit defined in a translation format, it can "
-#| "be a word, sentence or paragraph."
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
 msgstr ""
-"Кошт залежыць ад колькасці зыходных радкоў і мэтавых моў. Зыходны радок — "
-"тэкставая адзінка, якая выкарыстоўваецца ў перакладзе, гэта можа быць слова, "
-"сказ альбо абзац."
+"Коšти ŭ залиеžнаски ад коĺкаски зичоднич радкоŭ и коĺкаски метавич моŭ. "
+"Зичодни радок — текставажа адзинка, жакажа викаристоŭважекка ŭ пиеракладзие, "
+"hета моžа биć слова, сказ аĺбо абзак."
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid "Hosted Weblate"
@@ -878,10 +859,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:143
-#, fuzzy
-#| msgid "Service"
 msgid "Support Services"
-msgstr "Служба"
+msgstr "Слуžба"
 
 #: wllegal/templates/legal/documents/tos.html:146
 msgid ""
@@ -1013,10 +992,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:228
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
-msgstr "Служба"
+msgstr "Слуžба"
 
 #: wllegal/templates/legal/documents/tos.html:232
 msgid ""
@@ -1053,10 +1030,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:250
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "Памяць перакладаў"
+msgstr "Памиаć пиеракладу"
 
 #: wllegal/templates/legal/documents/tos.html:255
 msgid ""
@@ -1132,10 +1107,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:287
-#, fuzzy
-#| msgid "License"
 msgid "License Terms"
-msgstr "Ліцэнзія"
+msgstr "Лікензіжа"
 
 #: wllegal/templates/legal/documents/tos.html:291
 #, python-format
@@ -1204,10 +1177,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:316
-#, fuzzy
-#| msgid "Payment error"
 msgid "Payment Terms"
-msgstr "Памылка аплаты"
+msgstr "Ние ŭдалосиа апракаваć фармулиар!"
 
 #: wllegal/templates/legal/documents/tos.html:320
 msgid ""
@@ -1715,10 +1686,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:584
-#, fuzzy
-#| msgid "means translation project operated on the Service"
 msgid "Any other matters related to the Service."
-msgstr "азначае праект перакладу, што апрацоўваецца ў Службе"
+msgstr "Аднак наступнижа пиеракладникижа пражекти даступнижа на сиервиери:"
 
 #: wllegal/templates/legal/documents/tos.html:589
 msgid ""
@@ -1750,10 +1719,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:601
-#, fuzzy
-#| msgid "The Personal Data retention"
 msgid "Personal Data Protection"
-msgstr "Захоўванне асабістых даных"
+msgstr "Кантроĺ виерсий"
 
 #: wllegal/templates/legal/documents/tos.html:605
 #, python-format
