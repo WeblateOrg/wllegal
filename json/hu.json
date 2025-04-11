@@ -2,11 +2,11 @@
   "700639553f6a669b": "Felhasználási feltételek és adatvédelem",
   "855aad6254dbc154": "Ez a webhely jelenleg nem érhető el karbantartás miatt.",
   "f0a04eec920f8be1": "Karbantartás folyamatban",
-  "580c807df3faaff0": "Weblate szerverkarbantartás",
+  "580c807df3faaff0": "Weblate kiszolgáló-karbantartás",
   "dd688904278968c2": "A GNU GPLv3+ szerint licencelt",
   "f1755fb51ebbc26a": "Szolgáltatás állapota",
-  "f3e2fd9f17199fd9": "Túl sok kérést küldött túl rövid idő alatt. Kérjük, próbálja meg később újra.",
-  "cefd423328bbabae": "Sebességkorlátozás",
-  "404c9a7eb09bf5cf": "Weblate sebességkorlátozás",
-  "20deef135140c70": "Licenc: GNU GPLv3+"
+  "f3e2fd9f17199fd9": "Túl sok kérést indított túl rövid idő alatt. Próbálja újra később.",
+  "cefd423328bbabae": "Sebességkorlát",
+  "404c9a7eb09bf5cf": "Weblate sebességkorlát",
+  "20deef135140c70": "GNU GPLv3+ szerint licencelt"
 }
