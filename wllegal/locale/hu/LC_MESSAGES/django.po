@@ -14,8 +14,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-04-04 15:22+0000\n"
-"Last-Translator: RViktor <rviktor@ivankapal.com>\n"
+"PO-Revision-Date: 2025-04-11 12:46+0000\n"
+"Last-Translator: Balázs Úr <balazs@urbalazs.hu>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/weblate/legal/"
 "hu/>\n"
 "Language: hu\n"
@@ -27,7 +27,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr "Alvállalkozók a GDPR 28. cikke szerint"
+msgstr "Alvállalkozók a GDPR 28. cikkének megfelelően"
 
 #: wllegal/templates/legal/documents/contracts.html:11
 msgid "Status as of May 2024."
@@ -815,40 +815,40 @@ msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"Személyes adatokat (például az e-mail-címét) kezelünk; ezek törlésre "
-"kerülnek az adatbázisunkból, ha eltávolítja fiókját."
+"Személyes adatokat dolgozunk fel (például az e-mail-címét). Ezeket töröljük "
+"adatbázisunkból, ha eltávolítja a fiókját."
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
 msgstr ""
-"A fordításai az adott fordításhoz megadott licenc alapján kerülnek "
-"felhasználásra."
+"A fordításai olyan licenc alapján készülnek, amelyeket az egyes "
+"fordításoknál megadtak."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid ""
 "Your name and e-mail address is used in VCS commits, it will stay there "
 "indefinitely."
 msgstr ""
-"Az Ön neve és e-mail-címe a verziókövetési rendszerben történő rögzítésekben "
-"is szerepel, és ezek ott véglegesen megmaradnak."
+"A neve és az e-mail-címe a verziókövető rendszer véglegesítéseiben lesz "
+"használva, és ott is marad a végtelenségig."
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
 msgstr ""
-"A választott név Önön múlik, az e-mail-cím pedig elfedhető a Weblate "
-"rendszere által, hogy védje az Ön személyes adatait."
+"A választott név Öntől függ, és a véglegesítésekhez használt e-mail-címet a "
+"Weblate rendszer elrejtheti az Ön magánéletének védelme érdekében."
 
 #: wllegal/templates/legal/documents/summary.html:15
 msgid "We use cookies to deliver our services."
-msgstr "Sütiket használunk szolgáltatásaink működtetéséhez."
+msgstr "Sütiket használunk a szolgáltatásaink nyújtásához."
 
 #: wllegal/templates/legal/documents/summary.html:16
 msgid "We don’t use any third-party cookies."
-msgstr "Harmadik féltől származó sütiket nem használunk."
+msgstr "Nem használunk harmadik féltől származó sütiket."
 
 #: wllegal/templates/legal/documents/tos.html:6
 msgid ""
@@ -977,7 +977,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid "Hosted Weblate"
-msgstr "Hosztolt Weblate"
+msgstr "Szolgáltatott Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:83
 msgid ""
