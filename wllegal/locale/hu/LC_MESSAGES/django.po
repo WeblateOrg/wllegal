@@ -14,8 +14,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-04-11 12:46+0000\n"
-"Last-Translator: Balázs Úr <balazs@urbalazs.hu>\n"
+"PO-Revision-Date: 2025-04-11 15:28+0000\n"
+"Last-Translator: RViktor <rviktor@ivankapal.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/weblate/legal/"
 "hu/>\n"
 "Language: hu\n"
@@ -844,7 +844,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:15
 msgid "We use cookies to deliver our services."
-msgstr "Sütiket használunk a szolgáltatásaink nyújtásához."
+msgstr "Sütiket használunk szolgáltatásaink működtetéséhez."
 
 #: wllegal/templates/legal/documents/summary.html:16
 msgid "We don’t use any third-party cookies."
@@ -977,7 +977,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid "Hosted Weblate"
-msgstr "Szolgáltatott Weblate"
+msgstr "Hosted Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:83
 msgid ""
@@ -1137,7 +1137,7 @@ msgid ""
 "means a user account with a unique access code and password in the Hosted "
 "Weblate web interface. Each User Account can be used by only one User;"
 msgstr ""
-"a Weblate hosztolt webes felületén létrehozott, egyedi hozzáférési kóddal és "
+"a Hosted Weblate webes felületén létrehozott, egyedi hozzáférési kóddal és "
 "jelszóval védett fiókot jelenti. Minden Felhasználói fiókot kizárólag egy "
 "Felhasználó használhat;"
 
@@ -1230,7 +1230,7 @@ msgid ""
 "The Service is provided in three forms of cooperation: Hosted Weblate, "
 "Dedicated Weblate, and Self-hosting."
 msgstr ""
-"A Szolgáltatás három együttműködési formában érhető el: Hosztolt Weblate, "
+"A Szolgáltatás három együttműködési formában érhető el: Hosted Weblate, "
 "Dedikált Weblate és Saját üzemeltetés."
 
 #: wllegal/templates/legal/documents/tos.html:224
