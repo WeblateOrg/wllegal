@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-04-10 11:40+0000\n"
+"PO-Revision-Date: 2025-04-12 04:21+0000\n"
 "Last-Translator: CyrTranslit <noreply-mt-cyrtranslit@weblate.org>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/weblate/legal/"
 "be/>\n"
@@ -28,16 +28,10 @@ msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "Субпадрадчыкі згодна артыкула 28 GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:11
-#, fuzzy
-#| msgid "Status as of March 2023."
 msgid "Status as of May 2024."
 msgstr "Па стане на 03.2023."
 
 #: wllegal/templates/legal/documents/privacy.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
@@ -628,10 +622,6 @@ msgid "We don’t use any third-party cookies."
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:6
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
@@ -640,10 +630,6 @@ msgstr ""
 "пераклады падаюцца, каб вам было зручней."
 
 #: wllegal/templates/legal/documents/tos.html:12
-#, fuzzy
-#| msgid ""
-#| "The rights and obligations of the User and the Provider resulting from "
-#| "the use of the Service are governed by these Terms of Service."
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
@@ -672,11 +658,9 @@ msgid "Civil Code"
 msgstr "Грамадзянскі кодэкс"
 
 #: wllegal/templates/legal/documents/tos.html:34
-#, fuzzy
-#| msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
 msgstr ""
-"азначае Закон № %(law_89_2012)s збору законаў Грамадзянскага кодэксу з "
+"азначае Закон № %(лав_89_2012)с збору законаў Грамадзянскага кодэксу з "
 "выпраўленнямі"
 
 #: wllegal/templates/legal/documents/tos.html:38
@@ -715,16 +699,12 @@ msgid "GDPR"
 msgstr "GDPR"
 
 #: wllegal/templates/legal/documents/tos.html:62
-#, fuzzy
-#| msgid ""
-#| "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
-#| "Regulation"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
 msgstr ""
-"азначае рэгламент № %(law_679_2016)s, General Data Protection Regulation, "
-"вядомы як GDPR"
+"азначае рэгламент № %(лав_679_2016)с, Генерал Дата Протектион Регулатион, "
+"вядомы як ГДПР"
 
 #: wllegal/templates/legal/documents/tos.html:66
 msgid "GTC"
@@ -765,10 +745,6 @@ msgid "License"
 msgstr "Ліцэнзія"
 
 #: wllegal/templates/legal/documents/tos.html:90
-#, fuzzy
-#| msgid ""
-#| "means non-exclusive license granted by the Provider to the User for use "
-#| "of the Service"
 msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
@@ -781,16 +757,12 @@ msgid "Personal Data"
 msgstr "Асабістыя даныя"
 
 #: wllegal/templates/legal/documents/tos.html:97
-#, fuzzy
-#| msgid ""
-#| "means personal data within the meaning of EU Regulation No. "
-#| "%(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"азначае асабістыя даныя па значэнні рэгламенту EU No %(law_679_2016)s, "
-"пададзеныя Карыстальнікам у Службу ці / або ўключаныя ў cookies"
+"азначае асабістыя даныя па значэнні рэгламенту ЕУ Но %(лав_679_2016)с, "
+"пададзеныя Карыстальнікам у Службу ці / або ўключаныя ў коокиес"
 
 #: wllegal/templates/legal/documents/tos.html:101
 #: wllegal/templates/legal/documents/tos.html:236
@@ -841,12 +813,9 @@ msgid "Service"
 msgstr "Служба"
 
 #: wllegal/templates/legal/documents/tos.html:132
-#, fuzzy
-#| msgid ""
-#| "means the website and services based on Weblate operated by the Provider"
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
-msgstr "азначае вэб-сайт і службы на аснове Weblate, што кіруюцца Пастаўшчыком"
+msgstr "азначае вэб-сайт і службы на аснове Веблате, што кіруюцца Пастаўшчыком"
 
 #: wllegal/templates/legal/documents/tos.html:136
 msgid "Self-hosting"
@@ -874,22 +843,15 @@ msgid "Translation Memory"
 msgstr "Памяць перакладаў"
 
 #: wllegal/templates/legal/documents/tos.html:153
-#, fuzzy
-#| msgid ""
-#| "means the optional translation memory service provided within Weblate"
 msgid "means an optional translation memory service provided on Weblate;"
 msgstr ""
-"азначае дадатковую паслугу памяці перакладаў, што пастаўляецца з Weblate"
+"азначае дадатковую паслугу памяці перакладаў, што пастаўляецца з Веблате"
 
 #: wllegal/templates/legal/documents/tos.html:157
 msgid "User"
 msgstr "Карыстальнік"
 
 #: wllegal/templates/legal/documents/tos.html:160
-#, fuzzy
-#| msgid ""
-#| "means any legal entity or an individual other than the Provider, who is "
-#| "using the Service"
 msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
@@ -930,8 +892,6 @@ msgid "These GTC are an integral part of the Agreement."
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:192
-#, fuzzy
-#| msgid "License Agreement Conclusion"
 msgid "The Agreement is concluded:"
 msgstr "Заключэнне ліцэнзійнага пагаднення"
 
@@ -1818,10 +1778,6 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:649
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 1st September "
-#| "2017."
 msgid "These Terms enter into force on November 1, 2024."
 msgstr "Гэтыя ўмовы абслугоўвання набываюць моц з 1 верасня 2017 года."
 
