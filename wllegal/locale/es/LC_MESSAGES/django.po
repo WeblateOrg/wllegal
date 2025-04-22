@@ -8,11 +8,11 @@
 # Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2024-11-25 07:00+0000\n"
-"Last-Translator: Jose <ciordia@gmail.com>\n"
+"PO-Revision-Date: 2025-04-22 21:55+0000\n"
+"Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/weblate/legal/es/"
 ">\n"
 "Language: es\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.11.1-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -779,7 +779,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:52
 msgid "Dedicated Weblate"
-msgstr ""
+msgstr "Weblate dedicada"
 
 #: wllegal/templates/legal/documents/tos.html:55
 msgid ""
@@ -815,7 +815,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:73
 msgid "Hosted String"
-msgstr ""
+msgstr "Cadena Hospedada"
 
 #: wllegal/templates/legal/documents/tos.html:76
 #, fuzzy
@@ -873,7 +873,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:101
 #: wllegal/templates/legal/documents/tos.html:236
 msgid "Price"
-msgstr ""
+msgstr "Precio"
 
 #: wllegal/templates/legal/documents/tos.html:104
 msgid ""
