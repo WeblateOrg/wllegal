@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-04-22 21:55+0000\n"
+"PO-Revision-Date: 2025-04-23 00:30+0000\n"
 "Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/weblate/legal/es/"
 ">\n"
@@ -231,7 +231,7 @@ msgstr "Avatar del usuario,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
 msgid "email address(es),"
-msgstr "Dirección(es) de correo(s) electrónico(s)"
+msgstr "Dirección(es) de correo(s) electrónico(s),"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -271,7 +271,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr "dirección o direcciones de la cartera de criptomoneda"
+msgstr "dirección o direcciones de la cartera de criptomoneda,"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
@@ -754,7 +754,7 @@ msgstr "Código Civil"
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
 msgstr ""
 "significa colección de leyes n.º %(law_89_2012)s, del Código Civil, tal y "
-"como se ha enmendado"
+"como se ha enmendado;"
 
 #: wllegal/templates/legal/documents/tos.html:38
 msgid "Contracting Parties"
@@ -847,16 +847,12 @@ msgid "License"
 msgstr "Licencia"
 
 #: wllegal/templates/legal/documents/tos.html:90
-#, fuzzy
-#| msgid ""
-#| "means non-exclusive license granted by the Provider to the User for use "
-#| "of the Service"
 msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
 msgstr ""
 "se refiere a la licencia no exclusiva concedida por el Proveedor al Usuario "
-"para el uso del Servicio"
+"para el uso del Servicio;"
 
 #: wllegal/templates/legal/documents/tos.html:94
 msgid "Personal Data"
@@ -867,8 +863,8 @@ msgid ""
 "means personal data as defined in EU Regulation 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"significa datos personales tal como se definen en el Reglamento (UE) "
-"679/2016, ingresados por el usuario en el Servicio y/o Cookies ;"
+"significa datos personales tal como se definen en el Reglamento (UE) 679/"
+"2016, ingresados por el usuario en el Servicio y/o Cookies;"
 
 #: wllegal/templates/legal/documents/tos.html:101
 #: wllegal/templates/legal/documents/tos.html:236
@@ -951,29 +947,22 @@ msgid "Translation Memory"
 msgstr "Memoria de traducción"
 
 #: wllegal/templates/legal/documents/tos.html:153
-#, fuzzy
-#| msgid ""
-#| "means the optional translation memory service provided within Weblate"
 msgid "means an optional translation memory service provided on Weblate;"
 msgstr ""
-"se refiere al servicio opcional de memoria de traducción proporcionado por "
-"Weblate"
+"se refiere un servicio opcional de memoria de traducción proporcionado por "
+"Weblate;"
 
 #: wllegal/templates/legal/documents/tos.html:157
 msgid "User"
 msgstr "Usuario"
 
 #: wllegal/templates/legal/documents/tos.html:160
-#, fuzzy
-#| msgid ""
-#| "means any legal entity or an individual other than the Provider, who is "
-#| "using the Service"
 msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
 msgstr ""
-"significa cualquier entidad legal o individual distinta al Proveedor, que "
-"esté usando el Servicio"
+"significa cualquier entidad legal o persona natural distinta al Proveedor "
+"que utilice el Servicio;"
 
 #: wllegal/templates/legal/documents/tos.html:164
 msgid "User Account"
@@ -1110,10 +1099,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:250
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "Memoria de traducción"
+msgstr "precio usual para Memoria de Traducción"
 
 #: wllegal/templates/legal/documents/tos.html:255
 msgid ""
