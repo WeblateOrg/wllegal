@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-04-12 04:21+0000\n"
-"Last-Translator: CyrTranslit <noreply-mt-cyrtranslit@weblate.org>\n"
+"PO-Revision-Date: 2025-04-25 09:32+0000\n"
+"Last-Translator: Yauhen <bugomol@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/weblate/legal/"
 "be/>\n"
 "Language: be\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.11-dev\n"
+"X-Generator: Weblate 5.11.1-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -179,7 +179,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:96
 msgid "email address(es),"
-msgstr "Имиа и елиектроннажа поšта"
+msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -299,7 +299,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:149
 msgid "Recipients and Processors of Personal Data"
-msgstr "Доступ да ŭнутранаhа репазиторижа"
+msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -463,7 +463,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:236
 msgid "User Rights in Relation to Personal Data"
-msgstr "Доступ да ŭнутранаhа репазиторижа"
+msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:240
 #, python-format
@@ -588,16 +588,12 @@ msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"Ми апракоŭважем асабистижа дадзиенижа (наприклад, адрас елиектроннай поšти). "
-"Жани будуć викинути з наšай бази дадзиенич, жак тоĺки ви видаликие свой конт."
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
 msgstr ""
-"Ваšи пиераклади зроблиенижа на ŭмовач ликензии, šто зададзиенажа длиа "
-"коžнаhа пиериекладу."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid ""
@@ -703,8 +699,6 @@ msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
 msgstr ""
-"азначае рэгламент № %(лав_679_2016)с, Генерал Дата Протектион Регулатион, "
-"вядомы як ГДПР"
 
 #: wllegal/templates/legal/documents/tos.html:66
 msgid "GTC"
@@ -725,9 +719,6 @@ msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
 msgstr ""
-"Коšти ŭ залиеžнаски ад коĺкаски зичоднич радкоŭ и коĺкаски метавич моŭ. "
-"Зичодни радок — текставажа адзинка, жакажа викаристоŭважекка ŭ пиеракладзие, "
-"hета моžа биć слова, сказ аĺбо абзак."
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid "Hosted Weblate"
@@ -761,8 +752,6 @@ msgid ""
 "means personal data as defined in EU Regulation 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"азначае асабістыя даныя па значэнні рэгламенту ЕУ Но %(лав_679_2016)с, "
-"пададзеныя Карыстальнікам у Службу ці / або ўключаныя ў коокиес"
 
 #: wllegal/templates/legal/documents/tos.html:101
 #: wllegal/templates/legal/documents/tos.html:236
@@ -991,7 +980,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:250
 msgid "regular price for Translation Memory;"
-msgstr "Памиаć пиеракладу"
+msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:255
 msgid ""
@@ -1138,7 +1127,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:316
 msgid "Payment Terms"
-msgstr "Ние ŭдалосиа апракаваć фармулиар!"
+msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:320
 msgid ""
@@ -1647,7 +1636,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:584
 msgid "Any other matters related to the Service."
-msgstr "Аднак наступнижа пиеракладникижа пражекти даступнижа на сиервиери:"
+msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:589
 msgid ""
@@ -1680,7 +1669,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:601
 msgid "Personal Data Protection"
-msgstr "Кантроĺ виерсий"
+msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:605
 #, python-format
