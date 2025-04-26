@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-04-23 00:30+0000\n"
+"PO-Revision-Date: 2025-04-26 15:25+0000\n"
 "Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/weblate/legal/es/"
 ">\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.1-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -291,12 +291,17 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
 msgstr ""
+"datos del sistema, bitácoras, y bitácoras de sesión incluyendo la dirección "
+"IP del Usuario,"
 
 #: wllegal/templates/legal/documents/privacy.html:128
 msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
+"donde las categorías individuales de datos del personal listados arriba "
+"continuará para ser referenciado colectivamente a un «<strong>Datos "
+"Personales</strong>»."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -361,6 +366,10 @@ msgid ""
 "selected Personal Data based on a different legal reason if this legal "
 "reason in favour of the Provider continues to exist."
 msgstr ""
+"Una vez expirado el motivo del tratamiento de Datos Personales, el Proveedor "
+"los destruirá. Esto no excluye el tratamiento posterior de Datos Personales "
+"seleccionados con base en un motivo legal diferente, si dicho motivo legal a "
+"favor del Proveedor persiste."
 
 #: wllegal/templates/legal/documents/privacy.html:149
 msgid "Recipients and Processors of Personal Data"
@@ -379,6 +388,8 @@ msgid ""
 "hosting provider (including web hosting and mail hosting services), "
 "currently this is <strong>Hetzner Online GmbH</strong>;"
 msgstr ""
+"hospedando proveedor (incluyendo hospedaje web y servicios de correo), "
+"actualmente esto es <strong>Hetzner Online GmbH</strong>;"
 
 #: wllegal/templates/legal/documents/privacy.html:161
 msgid ""
@@ -386,24 +397,33 @@ msgid ""
 "possibly operators of other services used in connection with the payment of "
 "any payments related to billing;"
 msgstr ""
+"operadores del puente de pago ThePay.czm s.r.o. y posiblemente operadores de "
+"otros servicios en conexión con la liquidación de cualquier pago relacionado "
+"por la factura;"
 
 #: wllegal/templates/legal/documents/privacy.html:164
 msgid ""
 "accounting, legal, and tax advisors of the Provider and possibly other "
 "persons bound by confidentiality under the law;"
 msgstr ""
+"contabilidad, legislación, y avisos impositivos del Proveedor y posiblemente "
+"otras personas vinculadas por confidencialidad bajo la ley;"
 
 #: wllegal/templates/legal/documents/privacy.html:167
 msgid ""
 "C-level and other managerial employees employed by or otherwise "
 "collaborating with the Provider;"
 msgstr ""
+"Nivel-C y otro material de empleadores empleados por cualquier colaboración "
+"con el Proveedor;"
 
 #: wllegal/templates/legal/documents/privacy.html:170
 msgid ""
 "selected contractors of the Provider who are involved in providing services "
 "to Users and who are also bound by confidentiality;"
 msgstr ""
+"contratos seleccionados del Proveedor quien está involucrado en probar "
+"servicios a Usuarios y quien además vincula por confidencialidad;"
 
 #: wllegal/templates/legal/documents/privacy.html:173
 msgid ""
@@ -411,12 +431,17 @@ msgid ""
 "the Service, Products, Support Services, and/or to ensure any other "
 "activities related to the above;"
 msgstr ""
+"cualquier otra persona cuya participación es necesaria para la propia "
+"comisión del Servicio, Producto, Servicio Soportado, y/o asegurar cualquier "
+"otra actividad relacionada para la de arriba;"
 
 #: wllegal/templates/legal/documents/privacy.html:178
 msgid ""
 "the persons mentioned in this Article 3.1 are collectively referred to in "
 "this Policy as \"<strong>Processors</strong>\"."
 msgstr ""
+"las personas mencionadas en este Artículo 3.1 están referenciadas "
+"colectivamente en esta Normativa como «<strong>Procesos</strong>»."
 
 #: wllegal/templates/legal/documents/privacy.html:182
 msgid ""
@@ -458,6 +483,9 @@ msgid ""
 "The processing of Personal Data by selected Processors may be governed by "
 "their own service provision conditions."
 msgstr ""
+"El tratamiento de Datos Personales por parte de Encargados del Tratamiento "
+"seleccionados podrá regirse por sus propias condiciones de prestación de "
+"servicios."
 
 #: wllegal/templates/legal/documents/privacy.html:194
 msgid ""
@@ -466,10 +494,15 @@ msgid ""
 "where the transfer must occur in compliance with the obligations of the "
 "Provider arising from generally binding regulations."
 msgstr ""
+"Los Datos Personales también podrán transferirse si el Proveedor está "
+"obligado a hacerlo por ley, como resultado de una decisión de una autoridad "
+"pública, o en otros casos en que la transferencia deba ocurrir en "
+"cumplimiento de las obligaciones del Proveedor derivadas de regulaciones "
+"generalmente vinculantes."
 
 #: wllegal/templates/legal/documents/privacy.html:199
 msgid "Common Provisions on Processing"
-msgstr ""
+msgstr "Disposiciones Comunes sobre el Tratamiento"
 
 #: wllegal/templates/legal/documents/privacy.html:203
 msgid ""
@@ -540,10 +573,13 @@ msgid ""
 "the GDPR) may be processed even after all legal grounds for processing the "
 "User's Personal Data have ceased."
 msgstr ""
+"Datos personales anónimos (el cual no está más considerado datos personales "
+"bajo el GDPR) puede ser procesado incluso tras todos los apoyos legales para "
+"procesar los Datos Personales del Usuario han cesado."
 
 #: wllegal/templates/legal/documents/privacy.html:236
 msgid "User Rights in Relation to Personal Data"
-msgstr "Derechos del usuario en relación con los datos personales"
+msgstr "Derechos del usuario en relación con los Datos Personales"
 
 #: wllegal/templates/legal/documents/privacy.html:240
 #, python-format
@@ -575,18 +611,25 @@ msgid ""
 "correction of personal data if there is concern that some of it is "
 "inaccurate or missing;"
 msgstr ""
+"corrección de datos personales cuando exista preocupación de que algunos de "
+"ellos sean inexactos o falten;"
 
 #: wllegal/templates/legal/documents/privacy.html:255
 msgid ""
 "restriction of processing if there is concern that the Provider is "
 "processing more data than necessary;"
 msgstr ""
+"restricción del procesamiento si existe preocupación de que el Proveedor "
+"esté procesando más datos de los necesarios;"
 
 #: wllegal/templates/legal/documents/privacy.html:258
 msgid ""
 "deletion of personal data based on the consent of the Provider, provided "
 "that there is no other legal reason for further processing of personal data;"
 msgstr ""
+"eliminación de datos personales basada en el consentimiento del Proveedor, "
+"siempre que no exista otro motivo legal para el posterior tratamiento de los "
+"datos personales;"
 
 #: wllegal/templates/legal/documents/privacy.html:261
 msgid ""
@@ -594,12 +637,18 @@ msgid ""
 "on the consent of the Provider or in connection with fulfilling the "
 "Provider's contractual obligations, in a machine-readable format;"
 msgstr ""
+"una instancia de una copia de los datos personales procesadores por medios "
+"automáticos basados en el consentimiento del Proveedor o en conexión con el "
+"cumplimiento de obligaciones contractuales del Proveedor, en un formato de "
+"máquina-legible;"
 
 #: wllegal/templates/legal/documents/privacy.html:264
 msgid ""
 "temporary freezing of data processing operations for the purposes of the "
 "legitimate interest of the Provider;"
 msgstr ""
+"congelación temporal de las operaciones de tratamiento de datos a efectos "
+"del interés legítimo del Proveedor;"
 
 #: wllegal/templates/legal/documents/privacy.html:267
 #, python-format
@@ -613,7 +662,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:272
 #: wllegal/templates/legal/documents/tos.html:621
 msgid "Final Provisions"
-msgstr ""
+msgstr "Disposiciones finales"
 
 #: wllegal/templates/legal/documents/privacy.html:276
 msgid ""
@@ -654,14 +703,19 @@ msgid ""
 "provision does not affect the validity of the other provisions of this "
 "Policy."
 msgstr ""
+"Si alguna disposición de la Política es inválida o ineficaz, o llega a "
+"serlo, la disposición cuyo significado se aproxime más a la inválida la "
+"sustituirá. La invalidez o ineficacia de una disposición no afecta la "
+"validez de las demás disposiciones de esta Política."
 
 #: wllegal/templates/legal/documents/privacy.html:292
 msgid "This Policy become effective upon their publication on the Website."
 msgstr ""
+"Esta Política entrará en vigor a partir de su publicación en el Sitio Web."
 
 #: wllegal/templates/legal/documents/privacy.html:296
 msgid "In Prague on November 1, 2024."
-msgstr ""
+msgstr "Praga, el 1 de noviembre de 2024."
 
 #: wllegal/templates/legal/documents/summary.html:5
 msgid ""
@@ -749,20 +803,18 @@ msgid "Civil Code"
 msgstr "Código Civil"
 
 #: wllegal/templates/legal/documents/tos.html:34
-#, fuzzy
-#| msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
 msgstr ""
-"significa colección de leyes n.º %(law_89_2012)s, del Código Civil, tal y "
-"como se ha enmendado;"
+"significa colección de artículos nº89/2012 del Código Civil, tal y como se "
+"ha enmendado;"
 
 #: wllegal/templates/legal/documents/tos.html:38
 msgid "Contracting Parties"
-msgstr ""
+msgstr "Partes Contratantes"
 
 #: wllegal/templates/legal/documents/tos.html:41
 msgid "jointly refers to the User and the Provider;"
-msgstr ""
+msgstr "se refiere conjuntamente a la Usuario y al Proveedor;"
 
 #: wllegal/templates/legal/documents/tos.html:45
 msgid "Cookies"
@@ -792,16 +844,12 @@ msgid "GDPR"
 msgstr "RGPD"
 
 #: wllegal/templates/legal/documents/tos.html:62
-#, fuzzy
-#| msgid ""
-#| "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
-#| "Regulation"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
 msgstr ""
-"el Reglamento nº %(law_679_2016)s de la UE, el Reglamento General de "
-"Protección de Datos"
+"significa el Reglamento nº 679/2016 de la UE, la Regulación General de "
+"Protección de Datos Personales;"
 
 #: wllegal/templates/legal/documents/tos.html:66
 msgid "GTC"
@@ -812,24 +860,20 @@ msgid ""
 "means these general terms and conditions, which form an integral part of the "
 "Agreement;"
 msgstr ""
+"significa que estos términos generales y condiciones, las cuales forman "
+"parte integral del Acuerdo;"
 
 #: wllegal/templates/legal/documents/tos.html:73
 msgid "Hosted String"
 msgstr "Cadena Hospedada"
 
 #: wllegal/templates/legal/documents/tos.html:76
-#, fuzzy
-#| msgid ""
-#| "Pricing is based on the number of source strings and target languages. "
-#| "The source string is a text unit defined in a translation format, it can "
-#| "be a word, sentence or paragraph."
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
 msgstr ""
-"El precio se basa en el número de cadenas de origen y de idiomas de destino. "
-"La cadena de origen es una unidad de texto definida en un formato de "
-"traducción; puede ser una palabra, una oración o un párrafo."
+"significa una unidad de texto definida en el formato de traducción. Puede "
+"ser una palabra, una oración o un párrafo;"
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid "Hosted Weblate"
@@ -879,17 +923,19 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:108
 msgid "Price List"
-msgstr ""
+msgstr "Listado de Precios"
 
 #: wllegal/templates/legal/documents/tos.html:111
 msgid ""
 "means the document or web page that specifies the Price of the Service and/"
 "or Product unless otherwise stated in the Agreement;"
 msgstr ""
+"significa el documento o página web que especifica el Precio del Servicio y/"
+"o Producto a no ser que de otra manera especificó en el Acuerdo;"
 
 #: wllegal/templates/legal/documents/tos.html:115
 msgid "Product"
-msgstr ""
+msgstr "Producto"
 
 #: wllegal/templates/legal/documents/tos.html:118
 msgid ""
@@ -897,6 +943,10 @@ msgid ""
 "Provider based on its brand usage policy. The User purchases the Product AS "
 "IS. Support and other services are provided separately;"
 msgstr ""
+"significa cualquier servicio o parte por tanto proporcionada bajo una cierta "
+"rama del Proveedor basada en su rama de política de uso. La compra del "
+"Usuario del Producto TAL CUAL. Mantenimiento y otros servicios se "
+"proporcionan separadamente;"
 
 #: wllegal/templates/legal/documents/tos.html:122
 msgid "Provider"
