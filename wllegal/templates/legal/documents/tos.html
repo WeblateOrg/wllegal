@@ -1,15 +1,14 @@
-{% load i18n %}
-{% load wllegal %}
+{% load i18n wllegal %}
 
 {% if not hide_english and LANGUAGE_CODE != 'en' %}
   <div class="alert alert-info" role="alert">
-    {% trans "The General Terms and Conditions document is legally-binding in English, translations are provided for your convenience." %}
-    <a href="https://weblate.org/en/terms/">{% trans "View English version" %}</a>
+    {% translate "The General Terms and Conditions document is legally-binding in English, translations are provided for your convenience." %}
+    <a href="https://weblate.org/en/terms/">{% translate "View English version" %}</a>
   </div>
 {% endif %}
 
 <p>
-  {% blocktrans %}The rights and obligations of the User and the Provider resulting from the use of the Service are governed by these General Terms and Conditions.{% endblocktrans %}
+  {% blocktranslate %}The rights and obligations of the User and the Provider resulting from the use of the Service are governed by these General Terms and Conditions.{% endblocktranslate %}
 </p>
 
 
