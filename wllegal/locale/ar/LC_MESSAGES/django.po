@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-03-01 21:31+0000\n"
-"Last-Translator: Basheer Radman <ba2014sheer@gmail.com>\n"
+"PO-Revision-Date: 2025-05-02 02:39+0000\n"
+"Last-Translator: abdelbasset jabrane <ribago9317@cubene.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/weblate/legal/ar/>"
 "\n"
 "Language: ar\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 5.10.3-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -33,14 +33,12 @@ msgid "Status as of May 2024."
 msgstr "الحالة اعتبارا من أكتوبر 2020."
 
 #: wllegal/templates/legal/documents/privacy.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
-msgstr "وثيقة شروط الخدمة موثوقة باللغة الانجليزية. تم توفير الترجمات لراحتك."
+msgstr ""
+"تُعد وثيقة سياسة الخصوصية باللغة الإنجليزيةملزمة قانونياً ، ويتم توفير "
+"الترجمات لراحتك."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:7
@@ -678,14 +676,12 @@ msgid "We don’t use any third-party cookies."
 msgstr "نحن لا نستخدم أي ملفات تعريف ارتباط تابعة لجهات خارجية."
 
 #: wllegal/templates/legal/documents/tos.html:6
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
-msgstr "وثيقة شروط الخدمة موثوقة باللغة الانجليزية. تم توفير الترجمات لراحتك."
+msgstr ""
+"تُعد وثيقة الشروط والأحكام العامة باللغة الإنجليزيةملزمة قانونياً ، ويتم توفير "
+"الترجمات لراحتك."
 
 #: wllegal/templates/legal/documents/tos.html:12
 #, fuzzy
