@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-03-23 14:26+0000\n"
+"PO-Revision-Date: 2025-05-02 02:39+0000\n"
 "Last-Translator: \"ℂ𝕠𝕠𝕠𝕝 (𝕘𝕚𝕥𝕙𝕦𝕓.𝕔𝕠𝕞/ℂ𝕠𝕠𝕠𝕝)\" <coool@mail.lv>\n"
 "Language-Team: Latvian <https://hosted.weblate.org/projects/weblate/legal/lv/"
 ">\n"
@@ -18,29 +18,24 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n % 10 == 0 || n % 100 >= 11 && n % 100 <= "
 "19) ? 0 : ((n % 10 == 1 && n % 100 != 11) ? 1 : 2);\n"
-"X-Generator: Weblate 5.11-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "Apakšuzņēmēji saskaņā ar GDPR 28. pantu"
 
 #: wllegal/templates/legal/documents/contracts.html:11
-#, fuzzy
-#| msgid "Status as of October 2020."
 msgid "Status as of May 2024."
-msgstr "2020. gada oktobra statuss."
+msgstr "2024. gada maija statuss."
 
 #: wllegal/templates/legal/documents/privacy.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
-"Pakalpojuma oficiālie lietošanas noteikumi ir dokumentēti angļu valodā, jūsu "
-"ērtībai tiek sniegti tulkojumi."
+"Pakalpojuma oficiālais konfidencialitātes politikas dokuments ir juridiski "
+"saistošs angļu valodas tekstā, jūsu ērtībai tiek sniegti juridiski "
+"nesaistoši tulkojumi."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:7
@@ -58,7 +53,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:17
 msgid "Introductory Provisions"
-msgstr ""
+msgstr "Ievada noteikumi"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
@@ -121,10 +116,9 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "Apstrādes apjoms, mērķi un apstrādes ilgums"
 
 #: wllegal/templates/legal/documents/privacy.html:54
-#, fuzzy
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
 msgstr "Pakalpojuma sniedzējs apstrādā Lietotāja personas datus šādiem mērķiem:"
@@ -190,10 +184,8 @@ msgid "User's avatar,"
 msgstr "Lietotāja profila attēls,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail address"
 msgid "email address(es),"
-msgstr "Vārds un e-pasta adrese"
+msgstr "e-pasta adrese(s)"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 #, fuzzy
@@ -225,12 +217,15 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:111
+#, fuzzy
 msgid "bank account number and possibly other payment details of the User,"
 msgstr ""
+"bankas konta numuru un, iespējams, citu Lietotāja maksājuma informāciju,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
+#, fuzzy
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "kriptovalūtas maka adresi vai adreses,"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
