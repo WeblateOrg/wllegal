@@ -5,11 +5,11 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2024-11-19 14:16+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-03 08:05+0000\n"
+"Last-Translator: پرویز قادر <mpqadir@gmail.com>\n"
 "Language-Team: Saraiki <https://hosted.weblate.org/projects/weblate/legal/"
 "skr/>\n"
 "Language: skr\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -153,7 +153,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr ""
+msgstr "پہلا تے چھیکڑی ناں،"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
@@ -171,13 +171,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr ""
+msgstr "ورتݨ آلے دا اواتار"
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail address"
 msgid "email address(es),"
-msgstr "ناں تے ای میل پتہ"
+msgstr "ای میل پتہ(ے)،"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -706,7 +704,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:73
 msgid "Hosted String"
-msgstr ""
+msgstr "ہوسٹ تھئی تند"
 
 #: wllegal/templates/legal/documents/tos.html:76
 msgid ""
@@ -748,7 +746,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:101
 #: wllegal/templates/legal/documents/tos.html:236
 msgid "Price"
-msgstr ""
+msgstr "قیمت"
 
 #: wllegal/templates/legal/documents/tos.html:104
 msgid ""
@@ -758,7 +756,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:108
 msgid "Price List"
-msgstr ""
+msgstr "قیمت تندیر"
 
 #: wllegal/templates/legal/documents/tos.html:111
 msgid ""
@@ -768,7 +766,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:115
 msgid "Product"
-msgstr ""
+msgstr "پیداوار"
 
 #: wllegal/templates/legal/documents/tos.html:118
 msgid ""
@@ -841,7 +839,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:164
 msgid "User Account"
-msgstr ""
+msgstr "ورتݨ آلے دا کھاتہ"
 
 #: wllegal/templates/legal/documents/tos.html:167
 msgid ""
@@ -851,7 +849,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:171
 msgid "User Server"
-msgstr ""
+msgstr "ورتݨ آلے دا سرور"
 
 #: wllegal/templates/legal/documents/tos.html:174
 msgid ""
@@ -861,7 +859,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:180
 msgid "Methods of Acceptance"
-msgstr ""
+msgstr "قبول کرݨ دے طریقے"
 
 #: wllegal/templates/legal/documents/tos.html:184
 msgid "The License is granted to the User based on the concluded Agreement."
