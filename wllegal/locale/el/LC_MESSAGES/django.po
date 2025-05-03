@@ -5,19 +5,19 @@
 # anonymous <noreply@weblate.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2024-11-19 13:40+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Greek <https://hosted.weblate.org/projects/weblate/legal/el/"
-">\n"
+"PO-Revision-Date: 2025-05-04 16:02+0000\n"
+"Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
+"Language-Team: Greek <https://hosted.weblate.org/projects/weblate/legal/el/>"
+"\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -736,18 +736,12 @@ msgid "Hosted String"
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:76
-#, fuzzy
-#| msgid ""
-#| "The pricing is based on number of source strings and number of target "
-#| "languages. The source string is a text unit defined in a translation "
-#| "format, it can be word, sentence or a paragraph."
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
 msgstr ""
-"Η κοστολόγηση βασίζεται στον αριθμό των κειμένων προέλευσης και τον αριθμό "
-"των γλωσσών προορισμού. Το κείμενο προέλευσης είναι μια μονάδα κειμένου "
-"ορισμένη σε μια μορφή μετάφρασης, όπως λέξη, φράση ή παράγραφος."
+"αποτελεί μια μονάδα κειμένου που έχει καθοριστεί στη μορφή της μετάφρασης. "
+"Μπορεί να είναι μια λέξη, μια πρόταση ή μια παράγραφος·"
 
 #: wllegal/templates/legal/documents/tos.html:80
 msgid "Hosted Weblate"
@@ -1007,10 +1001,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:250
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "Μεταφραστική μνήμη"
+msgstr "κανονική τιμή για τη μεταφραστική μνήμη·"
 
 #: wllegal/templates/legal/documents/tos.html:255
 msgid ""
