@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-04-22 08:37+0000\n"
-"Last-Translator: dedakir923 <dedakir923@exoular.com>\n"
+"PO-Revision-Date: 2025-05-05 19:03+0000\n"
+"Last-Translator: Jose Delvani <dedakir923@exoular.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "weblate/legal/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.1-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -1547,7 +1547,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:316
 msgid "Payment Terms"
-msgstr "Termos dos Pagamentos"
+msgstr "Termos de Pagamento"
 
 #: wllegal/templates/legal/documents/tos.html:320
 msgid ""
