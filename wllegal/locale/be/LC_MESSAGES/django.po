@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-04-25 09:32+0000\n"
+"PO-Revision-Date: 2025-05-06 22:01+0000\n"
 "Last-Translator: Yauhen <bugomol@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/weblate/legal/"
 "be/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.11.1-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -29,15 +29,15 @@ msgstr "Субпадрадчыкі згодна артыкула 28 GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:11
 msgid "Status as of May 2024."
-msgstr "Па стане на 03.2023."
+msgstr "Стан на май 2023 года."
 
 #: wllegal/templates/legal/documents/privacy.html:5
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
-"Афіцыным дакументам «Умоў абслугоўвання» ёсць дакумент на англійскай мове, "
-"пераклады падаюцца, каб вам было зручней."
+"Юрыдычна значнай «Палітыкай прыватнасці» з'яўляецца толькі дакумент на "
+"англійскай мове, пераклады падаюцца выключна дзеля вашай зручнасці."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:7
@@ -179,7 +179,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:96
 msgid "email address(es),"
-msgstr ""
+msgstr "адрас(ы) электроннай пошты,"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -656,8 +656,8 @@ msgstr "Грамадзянскі кодэкс"
 #: wllegal/templates/legal/documents/tos.html:34
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
 msgstr ""
-"азначае Закон № %(лав_89_2012)с збору законаў Грамадзянскага кодэксу з "
-"выпраўленнямі"
+"азначае закон чэшскага грамадзянскага кодэксу Act No. 89/2012 Coll., Civil "
+"Code у апошняй рэдакцыі"
 
 #: wllegal/templates/legal/documents/tos.html:38
 msgid "Contracting Parties"
@@ -799,12 +799,13 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:129
 msgid "Service"
-msgstr "Служба"
+msgstr "Сэрвіс"
 
 #: wllegal/templates/legal/documents/tos.html:132
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
-msgstr "азначае вэб-сайт і службы на аснове Веблате, што кіруюцца Пастаўшчыком"
+msgstr ""
+"азначае вэб-сайт і паслугі на аснове Weblate, якія аказваюцца Пастаўшчыком"
 
 #: wllegal/templates/legal/documents/tos.html:136
 msgid "Self-hosting"
@@ -818,7 +819,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:143
 msgid "Support Services"
-msgstr "Слуžба"
+msgstr "Паслугі падтрымкі"
 
 #: wllegal/templates/legal/documents/tos.html:146
 msgid ""
@@ -834,7 +835,7 @@ msgstr "Памяць перакладаў"
 #: wllegal/templates/legal/documents/tos.html:153
 msgid "means an optional translation memory service provided on Weblate;"
 msgstr ""
-"азначае дадатковую паслугу памяці перакладаў, што пастаўляецца з Веблате"
+"азначае дадатковую паслугу памяці перакладаў, якая аказваецца на Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:157
 msgid "User"
@@ -942,7 +943,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:228
 msgid "Service Duration"
-msgstr "Слуžба"
+msgstr "Працягласць аказання паслуг"
 
 #: wllegal/templates/legal/documents/tos.html:232
 msgid ""
@@ -1057,7 +1058,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:287
 msgid "License Terms"
-msgstr "Лікензіжа"
+msgstr "Умовы ліцэнзіі"
 
 #: wllegal/templates/legal/documents/tos.html:291
 #, python-format
