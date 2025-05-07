@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-05-02 02:39+0000\n"
+"PO-Revision-Date: 2025-05-08 02:03+0000\n"
 "Last-Translator: \"ℂ𝕠𝕠𝕠𝕝 (𝕘𝕚𝕥𝕙𝕦𝕓.𝕔𝕠𝕞/ℂ𝕠𝕠𝕠𝕝)\" <coool@mail.lv>\n"
 "Language-Team: Latvian <https://hosted.weblate.org/projects/weblate/legal/lv/"
 ">\n"
@@ -649,16 +649,13 @@ msgid "We don’t use any third-party cookies."
 msgstr "Mēs neizmantojam trešo pušu sīkdatnes."
 
 #: wllegal/templates/legal/documents/tos.html:6
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
-"Pakalpojuma oficiālie lietošanas noteikumi ir dokumentēti angļu valodā, jūsu "
-"ērtībai tiek sniegti tulkojumi."
+"Oficiālais Vispārīgo noteikumu un nosacījumu dokuments, kam ir juridisks "
+"spēks, ir tikai angļu valodā sastādītais dokuments. Visi pārējie tulkotie "
+"dokumenti tiek sniegti tikai jūsu ērtībai."
 
 #: wllegal/templates/legal/documents/tos.html:12
 #, fuzzy
