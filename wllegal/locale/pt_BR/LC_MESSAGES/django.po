@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-05-08 02:03+0000\n"
+"PO-Revision-Date: 2025-05-09 07:03+0000\n"
 "Last-Translator: Jose Delvani <dedakir923@exoular.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "weblate/legal/pt_BR/>\n"
@@ -148,7 +148,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr "Escopo, Propósitos e Duração do Processamento"
+msgstr "Âmbito, propósitos e duração do processamento"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
