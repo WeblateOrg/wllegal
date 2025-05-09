@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-05-09 07:03+0000\n"
+"PO-Revision-Date: 2025-05-10 17:01+0000\n"
 "Last-Translator: Jose Delvani <dedakir923@exoular.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "weblate/legal/pt_BR/>\n"
@@ -38,7 +38,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:7
 msgid "View English version"
-msgstr "Ver a versão em inglês"
+msgstr "Mostrar versão em inglês"
 
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
@@ -958,8 +958,8 @@ msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
 msgstr ""
-"significa Regulamento da UE n.º 679/2016, Regulamento Geral sobre Proteção "
-"de Dados Pessoais;"
+"significa Regulamento da União Europeia n.º 679/2016, Regulamento Geral "
+"sobre Proteção de Dados Pessoais;"
 
 #: wllegal/templates/legal/documents/tos.html:66
 msgid "GTC"
@@ -1020,8 +1020,8 @@ msgid ""
 "means personal data as defined in EU Regulation 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"significa dados pessoais conforme definido no Regulamento da UE 679/2016, "
-"inseridos pelo usuário no Serviço e/ou Cookies;"
+"significa dados pessoais conforme definido no Regulamento da União Europeia "
+"679/2016, inseridos pelo usuário no Serviço e/ou Cookies;"
 
 #: wllegal/templates/legal/documents/tos.html:101
 #: wllegal/templates/legal/documents/tos.html:236
@@ -1359,9 +1359,9 @@ msgid ""
 msgstr ""
 "O pagamento do Preço pode ser feito por cartão de crédito, transferência "
 "bancária ou transação de criptomoeda. Todos os Preços listados na Lista de "
-"Preços excluem IVA. Usuários finais da UE e empresas comerciais tchecas "
-"serão obrigados a pagar um IVA adicional de 21%%. A cobrança reversa se "
-"aplica a faturas emitidas para empresas dentro da UE."
+"Preços excluem IVA. Usuários finais da União Europeia e empresas comerciais "
+"tchecas serão obrigados a pagar um IVA adicional de 21%%. A cobrança reversa "
+"se aplica a faturas emitidas para empresas dentro da União Europeia."
 
 #: wllegal/templates/legal/documents/tos.html:271
 msgid ""
@@ -1944,7 +1944,7 @@ msgid ""
 "national, EU, or international level;"
 msgstr ""
 "Divulgar ou oferecer qualquer conteúdo que viole as leis aplicáveis em nível "
-"nacional, da UE ou internacional;"
+"nacional, da União Europeia ou internacional;"
 
 #: wllegal/templates/legal/documents/tos.html:433
 msgid ""
@@ -1967,7 +1967,7 @@ msgid ""
 "at the national, EU, or international level;"
 msgstr ""
 "Envolver-se em quaisquer serviços ou atividades que sejam contrários às leis "
-"aplicáveis a nível nacional, da UE ou internacional;"
+"aplicáveis em nível nacional, da União Europeia ou internacional;"
 
 #: wllegal/templates/legal/documents/tos.html:445
 msgid ""
