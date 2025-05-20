@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-05-04 16:02+0000\n"
-"Last-Translator: joel MKO <joelmko90@outlook.com>\n"
+"PO-Revision-Date: 2025-05-21 09:28+0000\n"
+"Last-Translator: Hēphaïstos <hephaistos@users.noreply.hosted.weblate.org>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/weblate/legal/fr/>"
 "\n"
 "Language: fr\n"
@@ -174,19 +174,23 @@ msgstr "l'exécution du Contrat conformément à l'Article 6(1)(b) du RGPD,"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "négociant le Contrat selon l'Article 6(1)(b) du RGPD,"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
 msgstr ""
+"remplissant les obligations légales du Fournisseur selon l'Article 6(1)(c) "
+"du RGPD,"
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, "
 "and in selected cases also"
 msgstr ""
+"l'intérêt légitime du Fournisseur d'après l'Article 6(1)(f) du RGPD, et "
+"aussi dans des cas choisis"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
@@ -300,6 +304,9 @@ msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
+"où les catégories individuelles de données personnelles listées ci-dessus "
+"continuerons à être collectivement désignées comme « <strong>Données "
+"Personnelles</strong> »."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
