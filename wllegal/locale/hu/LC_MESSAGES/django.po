@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2024-12-19 19:19+0000\n"
-"PO-Revision-Date: 2025-05-21 09:28+0000\n"
+"PO-Revision-Date: 2025-05-21 13:06+0000\n"
 "Last-Translator: RViktor <rviktor@ivankapal.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/weblate/legal/"
 "hu/>\n"
@@ -38,13 +38,13 @@ msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
-"A jelen Adatvédelmi szabályzat angol nyelven jogilag kötelező érvényű, a "
-"fordítások kizárólag a tájékozódásodat szolgálják."
+"Az adatvédelmi irányelvek angol nyelvű változata jogilag kötelező érvényű, a "
+"fordítások csak tájékoztató jellegűek."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:7
 msgid "View English version"
-msgstr "Angol verzió megtekintése"
+msgstr "Angol változat megtekintése"
 
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
@@ -855,8 +855,8 @@ msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
-"Az Általános Szerződési Feltételek dokumentum angol nyelven jogilag kötelező "
-"érvényű, a fordítások kizárólag a tájékozódásodat szolgálják."
+"Az általános szerződési feltételek dokumentumának angol nyelvű változata "
+"jogilag kötelező érvényű, a fordítások csak tájékoztató jellegűek."
 
 #: wllegal/templates/legal/documents/tos.html:12
 msgid ""
