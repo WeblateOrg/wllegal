@@ -5,20 +5,20 @@
 # ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2018.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-05-22 11:19+0000\n"
-"PO-Revision-Date: 2025-03-26 05:48+0000\n"
-"Last-Translator: elid <shopisrael12@gmail.com>\n"
-"Language-Team: Hebrew <https://hosted.weblate.org/projects/weblate/legal/he/"
-">\n"
+"PO-Revision-Date: 2025-05-23 12:01+0000\n"
+"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
+"Language-Team: Hebrew <https://hosted.weblate.org/projects/weblate/legal/he/>"
+"\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.11-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -816,41 +816,39 @@ msgid "Personal Data"
 msgstr "נתונים אישיים"
 
 #: wllegal/templates/legal/documents/tos.html:96
-#, fuzzy
-#| msgid ""
-#| "means personal data within the meaning of EU Regulation No. "
-#| "%(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"כלומר נתונים אישיים בהתאם למשמעות של האסדרה האירופית %(law_679_2016)s שסופקה "
-"על ידי המשתמש אל השירות ו/או קובצי העוגיות"
+"כלומר נתונים אישיים כפי שהוגדר באסדרה האירופית מס׳ 679/2016 שסופקה על ידי "
+"המשתמש אל השירות ו/או קובצי העוגיות,"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
 msgid "Price"
-msgstr ""
+msgstr "מחיר"
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid ""
 "the value expressed in money for the provided License in accordance with the "
 "Price List;"
-msgstr ""
+msgstr "הערך הכלכלי שצוין לרישיון שסופק בכפוף לרשימת המחירים,"
 
 #: wllegal/templates/legal/documents/tos.html:107
 msgid "Price List"
-msgstr ""
+msgstr "רשימת מחירים"
 
 #: wllegal/templates/legal/documents/tos.html:110
 msgid ""
 "means the document or web page that specifies the Price of the Service and/"
 "or Product unless otherwise stated in the Agreement;"
 msgstr ""
+"כלמר המסמך או עמוד האתר שמציינים את מחיר השירות ו/או המוצר אלא אם כן צוין "
+"אחרת בהסכם,"
 
 #: wllegal/templates/legal/documents/tos.html:114
 msgid "Product"
-msgstr ""
+msgstr "מוצר"
 
 #: wllegal/templates/legal/documents/tos.html:117
 msgid ""
