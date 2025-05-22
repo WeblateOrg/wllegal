@@ -8,9 +8,9 @@
 # Ali Demirtas <alidemirtas94@gmail.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2024-12-19 19:19+0000\n"
+"POT-Creation-Date: 2025-05-22 11:19+0000\n"
 "PO-Revision-Date: 2025-01-21 18:29+0000\n"
 "Last-Translator: Kaya Zeren <kayazeren@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/weblate/legal/tr/"
@@ -39,7 +39,7 @@ msgstr ""
 "bağlayıcıdır. Çeviriler size kolaylık sağlamak için sunulmuştur."
 
 #: wllegal/templates/legal/documents/privacy.html:6
-#: wllegal/templates/legal/documents/tos.html:7
+#: wllegal/templates/legal/documents/tos.html:6
 msgid "View English version"
 msgstr "İngilizce sürümü görüntüle"
 
@@ -51,12 +51,11 @@ msgid ""
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
 "Bundan böyle<strong>”İlke</strong>\" olarak anılacak olan bu Gizlilik "
-"İlkesi, bundan böyle<strong>”Koşullar</strong>"
-"\" olarak anılacak olan Weblate <a href=\"%(terms_url)s\">Genel Hüküm ve "
-"Koşulları’nı</a> tamamlar."
+"İlkesi, bundan böyle<strong>”Koşullar</strong>\" olarak anılacak olan "
+"Weblate <a href=\"%(terms_url)s\">Genel Hüküm ve Koşulları’nı</a> tamamlar."
 
 #: wllegal/templates/legal/documents/privacy.html:17
-#: wllegal/templates/legal/documents/tos.html:17
+#: wllegal/templates/legal/documents/tos.html:16
 msgid "Introductory Provisions"
 msgstr "Giriş Hükümleri"
 
@@ -106,12 +105,12 @@ msgid ""
 "sector (abbreviated as the \"<strong>ePrivacy Directive</strong>\")."
 msgstr ""
 "Kişisel Veri’lerin işlenmesinde Sağlayıcı, GDPR olarak da bilinen Genel Veri "
-"Koruma Yönetmeliği (bundan sonra<strong>\"GDPR</strong>\" olarak anılacaktır)"
-", Kişisel Veriler’in işlenmesine ilişkin 110/2019 Coll. sayılı Kanun ve "
-"elektronik iletişim sektöründe Kişisel Veri’lerin işlenmesi ve gizliliğin "
-"korunmasına ilişkin 12 Temmuz 2002 tarihli ve 2002/58/EC sayılı Avrupa "
-"Parlamentosu ve Konsey Direktifi'ne (<strong>\"ePrivacy Direktifi</strong>\" "
-"olarak anılacaktır) uygun hareket eder."
+"Koruma Yönetmeliği (bundan sonra<strong>\"GDPR</strong>\" olarak "
+"anılacaktır), Kişisel Veriler’in işlenmesine ilişkin 110/2019 Coll. sayılı "
+"Kanun ve elektronik iletişim sektöründe Kişisel Veri’lerin işlenmesi ve "
+"gizliliğin korunmasına ilişkin 12 Temmuz 2002 tarihli ve 2002/58/EC sayılı "
+"Avrupa Parlamentosu ve Konsey Direktifi'ne (<strong>\"ePrivacy Direktifi</"
+"strong>\" olarak anılacaktır) uygun hareket eder."
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -135,8 +134,8 @@ msgid ""
 "Policy."
 msgstr ""
 "İşleme daha sonra ya doğrudan Sağlayıcı tarafından ve/veya bu İlkenin 3. "
-"Maddesi kapsamında Sağlayıcı tarafından bu İlke’ye uygun olarak Kişisel Veri’"
-"leri işleme yetkisi verilen üçüncü taraflarca gerçekleştirilir."
+"Maddesi kapsamında Sağlayıcı tarafından bu İlke’ye uygun olarak Kişisel "
+"Veri’leri işleme yetkisi verilen üçüncü taraflarca gerçekleştirilir."
 
 #: wllegal/templates/legal/documents/privacy.html:45
 msgid ""
@@ -253,7 +252,8 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
-msgstr "banka hesap numarası ve muhtemelen Kullanıcı’nın diğer ödeme bilgileri,"
+msgstr ""
+"banka hesap numarası ve muhtemelen Kullanıcı’nın diğer ödeme bilgileri,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
@@ -285,8 +285,8 @@ msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
-"yukarıda listelenen Kişisel Veri kategorileri toplu olarak<strong>"
-"\"Kişisel Veri’ler</strong>\" olarak anılmaya devam edecektir."
+"yukarıda listelenen Kişisel Veri kategorileri toplu olarak<strong>\"Kişisel "
+"Veri’ler</strong>\" olarak anılmaya devam edecektir."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -301,13 +301,13 @@ msgid ""
 msgstr ""
 "Bazı durumlarda, Sağlayıcı, üçüncü tarafların <strong>Kişisel Veri’lerinin</"
 "strong> Kullanıcı tarafından kendi amaçları için kendisine sağlandığı "
-"durumlarda <strong>da Kişisel Veri’lerin işleyicisi olabilir</strong>("
-"örneğin, bireysel ekip üyelerinin eklenmesi, başka bir kişi adına Sağlayıcı’"
-"ya bir proje bağışlanması vb.) Kullanıcı tarafından erişilebilir kılınan "
-"üçüncü taraflara ait seçilmiş Kişisel Veri’lerin işlenmesi bu durumda "
-"Kullanıcı’nın talimatıyla, Koşullar altında ve Sağlayıcı ile Kullanıcı "
-"arasında imzalanan ayrı bir veri işleme sözleşmesine (işleme sözleşmesi "
-"olarak anılacak) dayalı olarak gerçekleşir."
+"durumlarda <strong>da Kişisel Veri’lerin işleyicisi olabilir</"
+"strong>(örneğin, bireysel ekip üyelerinin eklenmesi, başka bir kişi adına "
+"Sağlayıcı’ya bir proje bağışlanması vb.) Kullanıcı tarafından erişilebilir "
+"kılınan üçüncü taraflara ait seçilmiş Kişisel Veri’lerin işlenmesi bu "
+"durumda Kullanıcı’nın talimatıyla, Koşullar altında ve Sağlayıcı ile "
+"Kullanıcı arasında imzalanan ayrı bir veri işleme sözleşmesine (işleme "
+"sözleşmesi olarak anılacak) dayalı olarak gerçekleşir."
 
 #: wllegal/templates/legal/documents/privacy.html:136
 msgid ""
@@ -344,8 +344,8 @@ msgstr ""
 "değildir. Faturalarda belirtilen Kişisel Veri’ler, Sağlayıcı tarafından en "
 "azından yasadan kaynaklanan yasal saklama süreleri boyunca, yani 10 yıllık "
 "bir süre boyunca saklanır. Sağlayıcı’nın taleplerinin savunulması ve/veya "
-"üçüncü tarafların taleplerine karşı savunma için gerekli olduğu durumlarda ("
-"kamu makamları tarafından başlatılan herhangi bir işlem dahil), Sağlayıcı "
+"üçüncü tarafların taleplerine karşı savunma için gerekli olduğu durumlarda "
+"(kamu makamları tarafından başlatılan herhangi bir işlem dahil), Sağlayıcı "
 "diğer bazı Kişisel Veri’leri de saklayabilir. Ancak bu saklama her zaman "
 "bireysel talepler için zaman aşımı süresine eşit bir en fazla süre boyunca "
 "ve/veya seçilen işlemlerin nihai sonucuna kadar yapılır. Belirli süre kesin "
@@ -375,19 +375,20 @@ msgid ""
 "%(address)s\">%(address)s</a>."
 msgstr ""
 "Sağlayıcı ayrıca, Kullanıcı’nın <strong>gönüllü ve bilgilendirilmiş</strong> "
-"rızasına dayalı olarak, özellikle e-posta, ad, soyad ve diğer Kişisel Veri’"
-"ler (bu amaçlar için sağlanmışsa) olmak üzere Kullanıcı’nın seçilmiş Kişisel "
-"Veri’lerini işleyebilir. İşleme <strong>2 yıllık</strong> bir süre boyunca "
-"ve/veya rıza iptal edilene kadar gerçekleşir. Hizmet veya Ürünün (Destek "
-"Hizmetleri dahil) kullanımı <strong>hiçbir zaman</strong> rıza verilmesine "
-"bağlı değildir. Bununla birlikte, henüz Kullanıcı olmayan veri sahiplerine "
-"haber bültenleri göndermek veya Sağlayıcı’nın diğer hizmetleriyle bağlantılı "
-"olmayan seçilmiş ödüller veya ödül materyalleri sağlamak ve/veya Sağlayıcı’"
-"ya yapılan bir bağışla bağlantılı olarak Kullanıcının Kişisel Veri’lerinin "
-"ifşa edilmesi için genellikle rıza gereklidir. İptal, herhangi bir zamanda "
-"doğrudan Kullanıcı hesabı arayüzünden ve başka şekilde verilen rıza "
-"durumunda aşağıdaki adrese bir talep gönderilerek yapılabilir <a href="
-"\"mailto:%(address)s\">%(address)s</a>."
+"rızasına dayalı olarak, özellikle e-posta, ad, soyad ve diğer Kişisel "
+"Veri’ler (bu amaçlar için sağlanmışsa) olmak üzere Kullanıcı’nın seçilmiş "
+"Kişisel Veri’lerini işleyebilir. İşleme <strong>2 yıllık</strong> bir süre "
+"boyunca ve/veya rıza iptal edilene kadar gerçekleşir. Hizmet veya Ürünün "
+"(Destek Hizmetleri dahil) kullanımı <strong>hiçbir zaman</strong> rıza "
+"verilmesine bağlı değildir. Bununla birlikte, henüz Kullanıcı olmayan veri "
+"sahiplerine haber bültenleri göndermek veya Sağlayıcı’nın diğer "
+"hizmetleriyle bağlantılı olmayan seçilmiş ödüller veya ödül materyalleri "
+"sağlamak ve/veya Sağlayıcı’ya yapılan bir bağışla bağlantılı olarak "
+"Kullanıcının Kişisel Veri’lerinin ifşa edilmesi için genellikle rıza "
+"gereklidir. İptal, herhangi bir zamanda doğrudan Kullanıcı hesabı "
+"arayüzünden ve başka şekilde verilen rıza durumunda aşağıdaki adrese bir "
+"talep gönderilerek yapılabilir <a href=\"mailto:%(address)s\">%(address)s</"
+"a>."
 
 #: wllegal/templates/legal/documents/privacy.html:144
 msgid ""
@@ -475,8 +476,8 @@ msgid ""
 "the persons mentioned in this Article 3.1 are collectively referred to in "
 "this Policy as \"<strong>Processors</strong>\"."
 msgstr ""
-"Bu Madde 3.1 içinde belirtilen kişiler bu İlke’de toplu olarak<strong>"
-"\"İşleyiciler</strong>\" olarak anılacaktır."
+"Bu Madde 3.1 içinde belirtilen kişiler bu İlke’de toplu "
+"olarak<strong>\"İşleyiciler</strong>\" olarak anılacaktır."
 
 #: wllegal/templates/legal/documents/privacy.html:182
 msgid ""
@@ -505,9 +506,9 @@ msgid ""
 msgstr ""
 "Kişisel Veri’ler, bir mahkeme celbi veya diğer bir adli veya idari emir gibi "
 "sınırlı durumlarda Sorumlu'nun kanunen gerekli olduğuna iyi niyetle inanması "
-"durumunda üçüncü taraflara açıklanabilir. Sorumlu’nun yasalarca Kişisel Veri’"
-"leri açıklamasının gerekli olması durumunda, Kullanıcı’nın açıklamaya itiraz "
-"etmesini sağlamak için, Kullanıcı’ya Kişisel Veri’leri ile ilgili bir "
+"durumunda üçüncü taraflara açıklanabilir. Sorumlu’nun yasalarca Kişisel "
+"Veri’leri açıklamasının gerekli olması durumunda, Kullanıcı’nın açıklamaya "
+"itiraz etmesini sağlamak için, Kullanıcı’ya Kişisel Veri’leri ile ilgili bir "
 "istekte bulunulduğu konusunda e-posta yoluyla önceden bildirimde bulunulmaya "
 "çalışılır (Sorumlu’nun bunu yapması engellenmediği veya boşuna olmadığı "
 "sürece)."
@@ -618,9 +619,9 @@ msgstr ""
 "ile ilgili olduğunu veya kullanımı üçüncü tarafların haklarını ihlal etmeyen "
 "verileri sağladığını teyit eder. Kullanıcı, Kişisel Veri’lerindeki "
 "değişiklikleri her zaman Sağlayıcı’ya bildirmekle yükümlüdür, böylece "
-"yalnızca güncel ve eksiksiz veriler işlenir. Aynı yükümlülükler, Sağlayıcı’"
-"ya bu Kullanıcı dışındaki veri sahiplerinin Kişisel Veri’lerini sağlamaları "
-"durumunda Kullanıcı için de geçerlidir."
+"yalnızca güncel ve eksiksiz veriler işlenir. Aynı yükümlülükler, "
+"Sağlayıcı’ya bu Kullanıcı dışındaki veri sahiplerinin Kişisel Veri’lerini "
+"sağlamaları durumunda Kullanıcı için de geçerlidir."
 
 #: wllegal/templates/legal/documents/privacy.html:227
 msgid ""
@@ -658,12 +659,12 @@ msgid ""
 "correction, restriction, or deletion) can be automated through this user "
 "account."
 msgstr ""
-"Kullanıcı, GDPR'den doğan haklarını istediği zaman <a href="
-"\"mailto:%(address)s\">%(address)s</a> adrese bir e-posta göndererek ya da "
-"Kullanıcı Hesabı üzerinden kullanılabilir. Aşağıda belirtilen hakların "
-"çoğunun uygulanması (özellikle işlenen tüm Kişisel Veri’lere erişim, "
-"bunların düzeltilmesi, kısıtlanması veya silinmesi) bu kullanıcı hesabı "
-"aracılığıyla otomatikleştirilebilir."
+"Kullanıcı, GDPR'den doğan haklarını istediği zaman <a href=\"mailto:"
+"%(address)s\">%(address)s</a> adrese bir e-posta göndererek ya da Kullanıcı "
+"Hesabı üzerinden kullanılabilir. Aşağıda belirtilen hakların çoğunun "
+"uygulanması (özellikle işlenen tüm Kişisel Veri’lere erişim, bunların "
+"düzeltilmesi, kısıtlanması veya silinmesi) bu kullanıcı hesabı aracılığıyla "
+"otomatikleştirilebilir."
 
 #: wllegal/templates/legal/documents/privacy.html:244
 msgid ""
@@ -743,7 +744,7 @@ msgstr ""
 "başka bir ilgili ulusal veri koruma makamına başvurabilir."
 
 #: wllegal/templates/legal/documents/privacy.html:272
-#: wllegal/templates/legal/documents/tos.html:621
+#: wllegal/templates/legal/documents/tos.html:620
 msgid "Final Provisions"
 msgstr "Nihai Hükümler"
 
@@ -790,8 +791,8 @@ msgid ""
 msgstr ""
 "Sözleşme ile kurulan ilişki uluslararası (yabancı) bir unsur içeriyorsa, "
 "önceki cümleye göre hukuk seçimi Kullanıcı - Tüketici’yi, Sözleşme’den doğan "
-"yükümlülüklere uygulanacak hukuka ilişkin 17 Haziran 2008 tarihli ve 593/"
-"2008 sayılı Avrupa Parlamentosu ve Konseyi (EC) Tüzüğünün (Roma I) 6(1) "
+"yükümlülüklere uygulanacak hukuka ilişkin 17 Haziran 2008 tarihli ve "
+"593/2008 sayılı Avrupa Parlamentosu ve Konseyi (EC) Tüzüğünün (Roma I) 6(1) "
 "Maddesi hükümleri uyarınca, Sözleşme’yle sapılamayan ve hukuk seçimi "
 "yapılmaması halinde geçerli olacak hukuk düzeni hükümlerinin sağladığı "
 "korumadan mahrum bırakmaz."
@@ -857,7 +858,7 @@ msgstr "Hizmetlerimizi sunmak için Tanımlama Bilgileri’ni kullanıyoruz."
 msgid "We don’t use any third-party cookies."
 msgstr "Herhangi bir üçüncü taraf Tanımlama Bilgileri kullanmıyoruz."
 
-#: wllegal/templates/legal/documents/tos.html:6
+#: wllegal/templates/legal/documents/tos.html:5
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
@@ -865,7 +866,7 @@ msgstr ""
 "Genel Hüküm ve Koşullar belgesinin yasal olarak İngilizce dilindeki biçimi "
 "bağlayıcıdır, çeviriler size kolaylık sağlamak için sağlanmıştır."
 
-#: wllegal/templates/legal/documents/tos.html:12
+#: wllegal/templates/legal/documents/tos.html:11
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
@@ -873,7 +874,7 @@ msgstr ""
 "Hizmet’in kullanımından kaynaklanan Kullanıcı ve Hizmet Sağlayıcı’nın hak ve "
 "yükümlülükleri, bu Genel Hüküm ve Koşullar metnine tabidir."
 
-#: wllegal/templates/legal/documents/tos.html:21
+#: wllegal/templates/legal/documents/tos.html:20
 msgid ""
 "These general terms and conditions are an integral part of the service "
 "agreement concluded between the User and the Provider (hereinafter referred "
@@ -889,7 +890,7 @@ msgstr ""
 "tanımlar. Bu Genel Hüküm ve Koşullar, Sağlayıcı ile Kullanıcı arasındaki "
 "sözleşmeye dayalı ilişkiyi yönetir."
 
-#: wllegal/templates/legal/documents/tos.html:25
+#: wllegal/templates/legal/documents/tos.html:24
 msgid ""
 "The definitions below have the following meanings for the purposes of these "
 "general terms and conditions:"
@@ -897,27 +898,27 @@ msgstr ""
 "Aşağıdaki tanımlar, bu Genel Hüküm ve Koşulların amaçları doğrultusunda "
 "aşağıdaki anlamlara sahiptir:"
 
-#: wllegal/templates/legal/documents/tos.html:31
+#: wllegal/templates/legal/documents/tos.html:30
 msgid "Civil Code"
 msgstr "Medeni Kanun"
 
-#: wllegal/templates/legal/documents/tos.html:34
+#: wllegal/templates/legal/documents/tos.html:33
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
 msgstr "değiştirilmiş şekliyle 89/2012 Coll. sayılı Medeni Kanunu ifade eder;"
 
-#: wllegal/templates/legal/documents/tos.html:38
+#: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
 msgstr "Sözleşmenin Tarafları"
 
-#: wllegal/templates/legal/documents/tos.html:41
+#: wllegal/templates/legal/documents/tos.html:40
 msgid "jointly refers to the User and the Provider;"
 msgstr "Kullanıcı ve Sağlayıcı’yı müştereken ifade eder;"
 
-#: wllegal/templates/legal/documents/tos.html:45
+#: wllegal/templates/legal/documents/tos.html:44
 msgid "Cookies"
 msgstr "Tanımlama Bilgileri"
 
-#: wllegal/templates/legal/documents/tos.html:48
+#: wllegal/templates/legal/documents/tos.html:47
 msgid ""
 "means any data sent from the service's web server to the User's computer or "
 "other internet-connected device, which allows the unique identification of "
@@ -931,11 +932,11 @@ msgstr ""
 "Hakkında Kanun'un 89. Bölümü uyarınca Kullanıcı’nın internet tarayıcısının "
 "benzersiz bir şekilde tanımlanmasını sağlayan herhangi bir veriyi ifade eder;"
 
-#: wllegal/templates/legal/documents/tos.html:52
+#: wllegal/templates/legal/documents/tos.html:51
 msgid "Dedicated Weblate"
 msgstr "Özel Weblate"
 
-#: wllegal/templates/legal/documents/tos.html:55
+#: wllegal/templates/legal/documents/tos.html:54
 msgid ""
 "means a form of collaboration where the User is the sole user of the Service "
 "in a cloud hosted and provided by the Provider;"
@@ -943,11 +944,11 @@ msgstr ""
 "Kullanıcı’nın, Sağlayıcı tarafından barındırılan ve sağlanan bir bulutta "
 "Hizmetin tek kullanıcısı olduğu bir işbirliği biçimi anlamına gelir;"
 
-#: wllegal/templates/legal/documents/tos.html:59
+#: wllegal/templates/legal/documents/tos.html:58
 msgid "GDPR"
 msgstr "GDPR"
 
-#: wllegal/templates/legal/documents/tos.html:62
+#: wllegal/templates/legal/documents/tos.html:61
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
@@ -955,11 +956,11 @@ msgstr ""
 "679/2016 sayılı AB Tüzüğü, Kişisel Veri’lerin Korunmasına İlişkin Genel "
 "Düzenlemeyi ifade eder;"
 
-#: wllegal/templates/legal/documents/tos.html:66
+#: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
 msgstr "Genel Hüküm ve Koşullar"
 
-#: wllegal/templates/legal/documents/tos.html:69
+#: wllegal/templates/legal/documents/tos.html:68
 msgid ""
 "means these general terms and conditions, which form an integral part of the "
 "Agreement;"
@@ -967,11 +968,11 @@ msgstr ""
 "sözleşmenin ayrılmaz bir parçasını oluşturan bu Genel Hüküm ve Koşullar "
 "metnini ifade eder;"
 
-#: wllegal/templates/legal/documents/tos.html:73
+#: wllegal/templates/legal/documents/tos.html:72
 msgid "Hosted String"
 msgstr "Barındırılan Dizge"
 
-#: wllegal/templates/legal/documents/tos.html:76
+#: wllegal/templates/legal/documents/tos.html:75
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
@@ -979,25 +980,25 @@ msgstr ""
 "çeviri biçiminde tanımlanan bir metin birimini ifade eder. Bir sözcük, cümle "
 "veya paragraf olabilir;"
 
-#: wllegal/templates/legal/documents/tos.html:80
+#: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
 msgstr "Hosted Weblate"
 
-#: wllegal/templates/legal/documents/tos.html:83
+#: wllegal/templates/legal/documents/tos.html:82
 msgid ""
 "means a form of collaboration that is purely cloud-based, where the Provider "
 "provides Services to Users on a non-dedicated (i.e., shared by multiple "
 "Users) cloud operated by the Provider;"
 msgstr ""
-"Sağlayıcı’nın Kullanıcı’lara, Sağlayıcı tarafından işletilen özel olmayan ("
-"yani birden fazla Kullanıcı tarafından paylaşılan) bir bulut üzerinde Hizmet "
-"sağladığı, tümüyle bulut tabanlı bir işbirliği biçimini ifade eder;"
+"Sağlayıcı’nın Kullanıcı’lara, Sağlayıcı tarafından işletilen özel olmayan "
+"(yani birden fazla Kullanıcı tarafından paylaşılan) bir bulut üzerinde "
+"Hizmet sağladığı, tümüyle bulut tabanlı bir işbirliği biçimini ifade eder;"
 
-#: wllegal/templates/legal/documents/tos.html:87
+#: wllegal/templates/legal/documents/tos.html:86
 msgid "License"
 msgstr "Lisans"
 
-#: wllegal/templates/legal/documents/tos.html:90
+#: wllegal/templates/legal/documents/tos.html:89
 msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
@@ -1005,24 +1006,28 @@ msgstr ""
 "Hizmet'in kullanımı için Sağlayıcı tarafından Kullanıcı'ya verilen münhasır "
 "olmayan lisansı ifade eder;"
 
-#: wllegal/templates/legal/documents/tos.html:94
+#: wllegal/templates/legal/documents/tos.html:93
 msgid "Personal Data"
 msgstr "Kişisel Veri’ler"
 
-#: wllegal/templates/legal/documents/tos.html:97
+#: wllegal/templates/legal/documents/tos.html:96
+#, fuzzy
+#| msgid ""
+#| "means personal data as defined in EU Regulation 679/2016, entered by the "
+#| "user into the Service and/or Cookies;"
 msgid ""
-"means personal data as defined in EU Regulation 679/2016, entered by the "
+"means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
 "679/2016 sayılı AB Yönetmeliğinde tanımlandığı şekilde, Kullanıcı tarafından "
 "Hizmet'e ve/veya Tanımlama Bilgileri’ne verilen Kişisel Veri’leri ifade eder;"
 
-#: wllegal/templates/legal/documents/tos.html:101
-#: wllegal/templates/legal/documents/tos.html:236
+#: wllegal/templates/legal/documents/tos.html:100
+#: wllegal/templates/legal/documents/tos.html:235
 msgid "Price"
 msgstr "Fiyat"
 
-#: wllegal/templates/legal/documents/tos.html:104
+#: wllegal/templates/legal/documents/tos.html:103
 msgid ""
 "the value expressed in money for the provided License in accordance with the "
 "Price List;"
@@ -1030,11 +1035,11 @@ msgstr ""
 "Fiyat Listesi’ne uygun olarak sağlanan Lisans için para olarak ifade edilen "
 "değer;"
 
-#: wllegal/templates/legal/documents/tos.html:108
+#: wllegal/templates/legal/documents/tos.html:107
 msgid "Price List"
 msgstr "Fiyat Listesi"
 
-#: wllegal/templates/legal/documents/tos.html:111
+#: wllegal/templates/legal/documents/tos.html:110
 msgid ""
 "means the document or web page that specifies the Price of the Service and/"
 "or Product unless otherwise stated in the Agreement;"
@@ -1042,11 +1047,11 @@ msgstr ""
 "sözleşmede aksi belirtilmedikçe, Hizmet ve/veya Ürün’ün fiyatını belirten "
 "belge veya internet sayfasını ifade eder;"
 
-#: wllegal/templates/legal/documents/tos.html:115
+#: wllegal/templates/legal/documents/tos.html:114
 msgid "Product"
 msgstr "Ürün"
 
-#: wllegal/templates/legal/documents/tos.html:118
+#: wllegal/templates/legal/documents/tos.html:117
 msgid ""
 "means any service or part thereof provided under a certain brand of the "
 "Provider based on its brand usage policy. The User purchases the Product AS "
@@ -1057,11 +1062,11 @@ msgstr ""
 "Kullanıcı Ürünü OLDUĞU GİBİ satın alır. Destek ve diğer hizmetler ayrıca "
 "sağlanır;"
 
-#: wllegal/templates/legal/documents/tos.html:122
+#: wllegal/templates/legal/documents/tos.html:121
 msgid "Provider"
 msgstr "Sağlayıcı"
 
-#: wllegal/templates/legal/documents/tos.html:125
+#: wllegal/templates/legal/documents/tos.html:124
 msgid ""
 "refers to the company <strong>Weblate s.r.o.</strong>, ID No. 21668027, with "
 "registered office at Nábřežní 694, Cvikov II, 471 54 Cvikov, registered in "
@@ -1073,22 +1078,22 @@ msgstr ""
 "471 54 Cvikov adresinde bulunan <strong>Weblate s.r.o.</strong>, ID No. "
 "21668027 şirketini ifade eder;"
 
-#: wllegal/templates/legal/documents/tos.html:129
+#: wllegal/templates/legal/documents/tos.html:128
 msgid "Service"
 msgstr "Hizmet"
 
-#: wllegal/templates/legal/documents/tos.html:132
+#: wllegal/templates/legal/documents/tos.html:131
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
 msgstr ""
 "Sağlayıcı tarafından sağlanan Weblate tabanlı internet siteleri ve "
 "hizmetleri ifade eder;"
 
-#: wllegal/templates/legal/documents/tos.html:136
+#: wllegal/templates/legal/documents/tos.html:135
 msgid "Self-hosting"
 msgstr "Özel Barındırma"
 
-#: wllegal/templates/legal/documents/tos.html:139
+#: wllegal/templates/legal/documents/tos.html:138
 msgid ""
 "means a form of collaboration where the User is the sole user of the "
 "Service, and this Service is operated directly on the User Server;"
@@ -1096,11 +1101,11 @@ msgstr ""
 "kullanıcının Hizmet’in tek kullanıcısı olduğu ve bu Hizmet’in doğrudan "
 "Kullanıcı sunucusu üzerinde işletildiği bir işbirliği biçimini ifade eder;"
 
-#: wllegal/templates/legal/documents/tos.html:143
+#: wllegal/templates/legal/documents/tos.html:142
 msgid "Support Services"
 msgstr "Destek Hizmetleri"
 
-#: wllegal/templates/legal/documents/tos.html:146
+#: wllegal/templates/legal/documents/tos.html:145
 msgid ""
 "means the support provided by the Provider to the User within the Service. "
 "Support Services are governed separately by a separate support service "
@@ -1110,21 +1115,21 @@ msgstr ""
 "gelir. Destek Hizmetleri, ayrı bir destek hizmeti sözleşmesi ile ayrı olarak "
 "yönetilir;"
 
-#: wllegal/templates/legal/documents/tos.html:150
+#: wllegal/templates/legal/documents/tos.html:149
 msgid "Translation Memory"
 msgstr "Çeviri Belleği"
 
-#: wllegal/templates/legal/documents/tos.html:153
+#: wllegal/templates/legal/documents/tos.html:152
 msgid "means an optional translation memory service provided on Weblate;"
 msgstr ""
 "Weblate üzerinde sağlanan isteğe bağlı bir çeviri belleği hizmetini ifade "
 "eder;"
 
-#: wllegal/templates/legal/documents/tos.html:157
+#: wllegal/templates/legal/documents/tos.html:156
 msgid "User"
 msgstr "Kullanıcı"
 
-#: wllegal/templates/legal/documents/tos.html:160
+#: wllegal/templates/legal/documents/tos.html:159
 msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
@@ -1132,11 +1137,11 @@ msgstr ""
 "Hizmet'i kullanıma sunan Sağlayıcı dışındaki herhangi bir tüzel veya gerçek "
 "kişiyi ifade eder;"
 
-#: wllegal/templates/legal/documents/tos.html:164
+#: wllegal/templates/legal/documents/tos.html:163
 msgid "User Account"
 msgstr "Kullanıcı Hesabı"
 
-#: wllegal/templates/legal/documents/tos.html:167
+#: wllegal/templates/legal/documents/tos.html:166
 msgid ""
 "means a user account with a unique access code and password in the Hosted "
 "Weblate web interface. Each User Account can be used by only one User;"
@@ -1145,11 +1150,11 @@ msgstr ""
 "olan bir kullanıcı hesabı anlamına gelir. Her kullanıcı hesabı yalnızca bir "
 "Kullanıcı tarafından kullanılabilir;"
 
-#: wllegal/templates/legal/documents/tos.html:171
+#: wllegal/templates/legal/documents/tos.html:170
 msgid "User Server"
 msgstr "Kullanıcı Sunucusu"
 
-#: wllegal/templates/legal/documents/tos.html:174
+#: wllegal/templates/legal/documents/tos.html:173
 msgid ""
 "refers to the server and other hardware equipment not owned, managed, or "
 "controlled by the Provider;"
@@ -1157,31 +1162,32 @@ msgstr ""
 "sağlayıcı tarafından sahip olunmayan, yönetilmeyen veya kontrol edilmeyen "
 "sunucu ve diğer donanım ekipmanlarını ifade eder;"
 
-#: wllegal/templates/legal/documents/tos.html:180
+#: wllegal/templates/legal/documents/tos.html:179
 msgid "Methods of Acceptance"
 msgstr "Kabul Yöntemleri"
 
-#: wllegal/templates/legal/documents/tos.html:184
+#: wllegal/templates/legal/documents/tos.html:183
 msgid "The License is granted to the User based on the concluded Agreement."
 msgstr "Lisans, akdedilen Sözleşme’ye dayalı olarak Kullanıcı’ya verilir."
 
-#: wllegal/templates/legal/documents/tos.html:188
+#: wllegal/templates/legal/documents/tos.html:187
 msgid "These GTC are an integral part of the Agreement."
-msgstr "Bu Genel Hüküm ve Koşullar metni, Sözleşme’nin ayrılmaz bir parçasıdır."
+msgstr ""
+"Bu Genel Hüküm ve Koşullar metni, Sözleşme’nin ayrılmaz bir parçasıdır."
 
-#: wllegal/templates/legal/documents/tos.html:192
+#: wllegal/templates/legal/documents/tos.html:191
 msgid "The Agreement is concluded:"
 msgstr "Sözleşme’nin tamamlanması:"
 
-#: wllegal/templates/legal/documents/tos.html:197
+#: wllegal/templates/legal/documents/tos.html:196
 msgid ""
 "on the day of signing by both parties (especially for all Services offered "
 "with custom settings);"
 msgstr ""
-"her iki tarafça imzalandığı gün (özellikle özel ayarlarla sunulan tüm Hizmet’"
-"ler için);"
+"her iki tarafça imzalandığı gün (özellikle özel ayarlarla sunulan tüm "
+"Hizmet’ler için);"
 
-#: wllegal/templates/legal/documents/tos.html:200
+#: wllegal/templates/legal/documents/tos.html:199
 msgid ""
 "online through acceptance (confirmation) via the web interface in accordance "
 "with the Price List, with the Agreement becoming effective once the Price "
@@ -1196,11 +1202,11 @@ msgstr ""
 "durumunda, Lisans Bedeline karşılık gelen tutar Sağlayıcı’nın banka hesabına "
 "yatırıldığında) Sözleşme yürürlüğe girer."
 
-#: wllegal/templates/legal/documents/tos.html:208
+#: wllegal/templates/legal/documents/tos.html:207
 msgid "Service Provision"
 msgstr "Hizmet Sağlama"
 
-#: wllegal/templates/legal/documents/tos.html:212
+#: wllegal/templates/legal/documents/tos.html:211
 msgid ""
 "The Provider operates the Service at the internet address specified in the "
 "Product specification and its subdomains or on the User's Servers in "
@@ -1211,7 +1217,7 @@ msgstr ""
 "ve alt etki alanlarında veya Kullanıcı’nın sunucularında Sözleşme’ye ve Ürün "
 "teknik özelliklerinde belirtildiği şekilde işletir."
 
-#: wllegal/templates/legal/documents/tos.html:216
+#: wllegal/templates/legal/documents/tos.html:215
 msgid ""
 "If the Agreement is concluded under Article 2.3(a), the scope of Services is "
 "defined in the Product specification, which is attached to the Agreement. "
@@ -1227,7 +1233,7 @@ msgstr ""
 "şekilde tanımlanan Ürün teknik özellikleri, Fiyat Listesi’nde sunulan Hizmet "
 "biçimine göre önceliklidir."
 
-#: wllegal/templates/legal/documents/tos.html:220
+#: wllegal/templates/legal/documents/tos.html:219
 msgid ""
 "The Service is provided in three forms of cooperation: Hosted Weblate, "
 "Dedicated Weblate, and Self-hosting."
@@ -1235,7 +1241,7 @@ msgstr ""
 "Hizmet üç işbirliği biçiminde sağlanmaktadır: Hosted Weblate, Özel Weblate "
 "ve Özel Barındırma."
 
-#: wllegal/templates/legal/documents/tos.html:224
+#: wllegal/templates/legal/documents/tos.html:223
 msgid ""
 "In accordance with GPLv3, certain aspects of the Service may be provided "
 "either with the assistance of third parties other than the Provider or "
@@ -1254,11 +1260,11 @@ msgstr ""
 "eder. Bu üçüncü taraflar, Sözleşme ve GPLv3 uyarınca faaliyetleri dahilinde "
 "Kişisel Veri’leri işleyebilir."
 
-#: wllegal/templates/legal/documents/tos.html:228
+#: wllegal/templates/legal/documents/tos.html:227
 msgid "Service Duration"
 msgstr "Hizmet Süresi"
 
-#: wllegal/templates/legal/documents/tos.html:232
+#: wllegal/templates/legal/documents/tos.html:231
 msgid ""
 "Unless otherwise expressly agreed in the Agreement, the Agreement is "
 "concluded for a period corresponding to a subscription model. The "
@@ -1269,7 +1275,7 @@ msgstr ""
 "karşılık gelen bir süre için akdedilir. Abonelik, Genel Hüküm ve Koşullar "
 "metninin 5. Maddesi uyarınca aylık veya yıllık olarak ödenebilir."
 
-#: wllegal/templates/legal/documents/tos.html:240
+#: wllegal/templates/legal/documents/tos.html:239
 msgid ""
 "The price for the Service is determined according to the offer or the Price "
 "List. The User acknowledges and agrees that the Price List may be "
@@ -1287,19 +1293,19 @@ msgstr ""
 "belirtilmiştir. Hizmet’lerin fiyatı, aylık/yıllık düzenli olarak ödenen "
 "aşağıdaki ayrı kalemlerden veya bunların kombinasyonundan oluşur:"
 
-#: wllegal/templates/legal/documents/tos.html:244
+#: wllegal/templates/legal/documents/tos.html:243
 msgid ""
 "regular price for access to Services, which is also always set for the "
 "relevant time period and based on the specific conditions of the Service, "
 "but paid monthly or annually, with this price varying for different forms of "
 "collaboration according to the Price List;"
 msgstr ""
-"Hizmet’lere erişim için her zaman ilgili dönem boyunca belirlenen ve Hizmet’"
-"in özel koşullarına dayanan, ancak aylık veya yıllık olarak ödenen ve bu "
-"fiyatın Fiyat Listesi’ne göre farklı işbirliği biçimleri için değiştiği "
+"Hizmet’lere erişim için her zaman ilgili dönem boyunca belirlenen ve "
+"Hizmet’in özel koşullarına dayanan, ancak aylık veya yıllık olarak ödenen ve "
+"bu fiyatın Fiyat Listesi’ne göre farklı işbirliği biçimleri için değiştiği "
 "düzenli fiyat;"
 
-#: wllegal/templates/legal/documents/tos.html:247
+#: wllegal/templates/legal/documents/tos.html:246
 msgid ""
 "regular price for the number of Hosted Strings; this amount is chosen by the "
 "User from the options offered in the Price List or in agreement with the "
@@ -1309,11 +1315,11 @@ msgstr ""
 "tarafından Fiyat Listesi’nde sunulan seçenekler arasından veya Sağlayıcı ile "
 "anlaşarak seçilir;"
 
-#: wllegal/templates/legal/documents/tos.html:250
+#: wllegal/templates/legal/documents/tos.html:249
 msgid "regular price for Translation Memory;"
 msgstr "Çeviri Belleği için normal ücret;"
 
-#: wllegal/templates/legal/documents/tos.html:255
+#: wllegal/templates/legal/documents/tos.html:254
 msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
@@ -1321,7 +1327,7 @@ msgstr ""
 "( a), b) ve c) bentleri topluca <strong>\"Abonelik</strong>\" olarak "
 "anılacaktır)."
 
-#: wllegal/templates/legal/documents/tos.html:259
+#: wllegal/templates/legal/documents/tos.html:258
 msgid ""
 "To avoid doubt, the Subscription may guarantee either only access to a "
 "specific Product or License and/or a specific package of guaranteed Services."
@@ -1329,7 +1335,7 @@ msgstr ""
 "Şüpheye mahal vermemek için, Abonelik yalnızca belirli bir Ürün veya Lisansa "
 "ve/veya belirli bir garantili Hizmet paketine erişimi garanti edebilir."
 
-#: wllegal/templates/legal/documents/tos.html:263
+#: wllegal/templates/legal/documents/tos.html:262
 msgid ""
 "The User is obliged to pay the Price based on the received tax documents "
 "(invoices) issued by the Provider. The Price is paid in advance, and the "
@@ -1341,7 +1347,7 @@ msgstr ""
 "her dönemin bitiminden sonraki 5 iş günü içinde düzenlenerek Kullanıcıya "
 "teslim edilir."
 
-#: wllegal/templates/legal/documents/tos.html:267
+#: wllegal/templates/legal/documents/tos.html:266
 #, python-format
 msgid ""
 "Payment of the Price may be made by credit card, bank transfer, or "
@@ -1356,7 +1362,7 @@ msgstr ""
 "ödemesi gerekecektir. Ters ücret, AB içindeki işletmelere düzenlenen "
 "faturalar için geçerlidir."
 
-#: wllegal/templates/legal/documents/tos.html:271
+#: wllegal/templates/legal/documents/tos.html:270
 msgid ""
 "If the User wishes to avoid being charged for the Service in the "
 "Subscription mode, they must cancel the Subscription at least three days "
@@ -1370,7 +1376,7 @@ msgstr ""
 "faturalandırmanın mümkün olup olmadığını ön ödemeli kartı veren kuruluş veya "
 "banka ile doğrulamanızı önerir."
 
-#: wllegal/templates/legal/documents/tos.html:275
+#: wllegal/templates/legal/documents/tos.html:274
 msgid ""
 "The User can change their Subscription mode online by logging into their "
 "User Account and making the change or cancelling the Subscription there. If "
@@ -1384,7 +1390,7 @@ msgstr ""
 "en az üç gün önce Aboneliğini iptal ederse, Aboneliği geçerli fatura "
 "döneminin sonunda sona erecektir."
 
-#: wllegal/templates/legal/documents/tos.html:279
+#: wllegal/templates/legal/documents/tos.html:278
 msgid ""
 "The Provider does not refund ANY money for Services, Support Services, and/"
 "or any other services provided under the Agreement and these GTC if they "
@@ -1399,15 +1405,15 @@ msgstr ""
 "Sağlayıcı, Hizmet’ler, Destek Hizmetleri ve/veya Sözleşme ve bu Genel Hüküm "
 "ve Koşullar metni kapsamında sağlanan diğer hizmetler için, bu Hizmet’ler "
 "Kullanıcı tarafından iptal edilmeden önce sağlanmışsa, HERHANGİ bir para "
-"iadesi yapmaz. Ödeme yapıldıktan sonra sipariş iptali, sipariş edilen Hizmet’"
-"in kullanılmaması veya indirme girişiminde bulunulmaması halinde anlaşmayla "
-"mümkündür. Bir indirme girişiminde bulunulmuşsa, herhangi bir müzakere "
-"gerçekleşmez ve Kullanıcı herhangi bir geri ödeme, indirim veya diğer "
-"parasal tazminat hakkına sahip değildir. Ön ödemeli Hizmet’lerin gerçek "
-"kullanım süresini aşan bir süre için ön ödemesi yapılmışsa, bu tür bir geri "
-"ödemenin koşulları üzerinde ayrı ayrı anlaşmaya varılacaktır."
+"iadesi yapmaz. Ödeme yapıldıktan sonra sipariş iptali, sipariş edilen "
+"Hizmet’in kullanılmaması veya indirme girişiminde bulunulmaması halinde "
+"anlaşmayla mümkündür. Bir indirme girişiminde bulunulmuşsa, herhangi bir "
+"müzakere gerçekleşmez ve Kullanıcı herhangi bir geri ödeme, indirim veya "
+"diğer parasal tazminat hakkına sahip değildir. Ön ödemeli Hizmet’lerin "
+"gerçek kullanım süresini aşan bir süre için ön ödemesi yapılmışsa, bu tür "
+"bir geri ödemenin koşulları üzerinde ayrı ayrı anlaşmaya varılacaktır."
 
-#: wllegal/templates/legal/documents/tos.html:283
+#: wllegal/templates/legal/documents/tos.html:282
 msgid ""
 "Prices and Subscription conditions may change unilaterally by the Operator "
 "at any time. The price and conditions valid at the time of the first "
@@ -1427,11 +1433,11 @@ msgstr ""
 "değişikliğini Kullanıcı’ya bildirecektir. Bu koşullar altında, Kullanıcı "
 "Aboneliği iptal etme hakkına sahiptir."
 
-#: wllegal/templates/legal/documents/tos.html:287
+#: wllegal/templates/legal/documents/tos.html:286
 msgid "License Terms"
 msgstr "Lisans Koşulları"
 
-#: wllegal/templates/legal/documents/tos.html:291
+#: wllegal/templates/legal/documents/tos.html:290
 #, python-format
 msgid ""
 "The Provider's software and Weblate software extensions are distributed "
@@ -1448,7 +1454,7 @@ msgstr ""
 "lisans verilir. Lisans, Fiyat Listesi’nden seçilmiş seçeneğe uygun olarak "
 "verilir."
 
-#: wllegal/templates/legal/documents/tos.html:296
+#: wllegal/templates/legal/documents/tos.html:295
 #, python-format
 msgid ""
 "Unless otherwise stated in the Agreement, the license terms of this "
@@ -1467,7 +1473,7 @@ msgstr ""
 "karşılık gelen kaynak kodlarında bulunabilir (Ayrıntılı bilgi almak için: <a "
 "href=\"%(url)s\">%(url)s</a>)."
 
-#: wllegal/templates/legal/documents/tos.html:300
+#: wllegal/templates/legal/documents/tos.html:299
 msgid ""
 "The User acknowledges that all copyright and other intellectual property "
 "rights to the Service belong to the Provider and/or third parties whose "
@@ -1484,7 +1490,7 @@ msgstr ""
 "oluşturmak ve dağıtmak da dahil olmak üzere, geçerli lisansların izin "
 "verdiği ölçüde Hizmet’i kullanma hakkını kaybetmez."
 
-#: wllegal/templates/legal/documents/tos.html:304
+#: wllegal/templates/legal/documents/tos.html:303
 msgid ""
 "For the purpose of exclusive modifications of the Service solely for the "
 "benefit of the User or the creation of means to run these Services, the User "
@@ -1498,7 +1504,7 @@ msgstr ""
 "koşullarına uygun olarak telif hakkına sahip olmadığı tüm materyalleri "
 "yayınlaması halinde yayınlayabilir."
 
-#: wllegal/templates/legal/documents/tos.html:308
+#: wllegal/templates/legal/documents/tos.html:307
 msgid ""
 "The License includes updates and/or modifications to the Services made by "
 "the Provider in the future, provided that the Services are supplied based on "
@@ -1515,7 +1521,7 @@ msgstr ""
 "Hizmet’lere yönelik güncellemeleri ve/veya değişiklikleri içermediğini kabul "
 "eder."
 
-#: wllegal/templates/legal/documents/tos.html:312
+#: wllegal/templates/legal/documents/tos.html:311
 msgid ""
 "The User is entitled to use the source code and handle elements protected by "
 "copyright within the limits of GPLv3 (and/or later versions of the GPL "
@@ -1538,11 +1544,11 @@ msgstr ""
 "alıcılarına programla birlikte lisansın bir kopyasını vermesi koşuluyla "
 "dağıtabilir."
 
-#: wllegal/templates/legal/documents/tos.html:316
+#: wllegal/templates/legal/documents/tos.html:315
 msgid "Payment Terms"
 msgstr "Ödeme Koşulları"
 
-#: wllegal/templates/legal/documents/tos.html:320
+#: wllegal/templates/legal/documents/tos.html:319
 msgid ""
 "Invoices will be issued electronically. The User agrees to the electronic "
 "issuance of invoices and to receiving them via electronic means. Invoices "
@@ -1553,7 +1559,7 @@ msgstr ""
 "eder. Faturalar son ödeme tarihi 14 takvim günü olacak şekilde "
 "düzenlenecektir."
 
-#: wllegal/templates/legal/documents/tos.html:324
+#: wllegal/templates/legal/documents/tos.html:323
 msgid ""
 "The billing period is defined as a recurring period (calendar month/year). "
 "Payment is automatically charged through the selected payment method, and "
@@ -1569,7 +1575,7 @@ msgstr ""
 "fatura düzenler ve Kullanıcı bu faturayı aynı süreler içinde ödemekle "
 "yükümlüdür."
 
-#: wllegal/templates/legal/documents/tos.html:328
+#: wllegal/templates/legal/documents/tos.html:327
 msgid ""
 "In the event of a delay by the User in any payment, the Provider is also "
 "entitled to suspend or limit the provision of the Service until the full "
@@ -1584,10 +1590,11 @@ msgstr ""
 "sınırlama hakkına da sahiptir. Hizmet sunumunun askıya alınması veya "
 "sınırlandırılması sırasında Kullanıcı, teslim edilen vergi belgelerine göre "
 "Ücreti ödemekle yükümlüdür. Kullanıcı tarafından yinelenen ödeme "
-"gecikmeleri, Sözleşmenin önemli bir ihlali olarak kabul edilir ve Sağlayıcı’"
-"ya aşağıda Madde 11'de belirtilen nedenle Sözleşme’yi feshetme hakkı verir."
+"gecikmeleri, Sözleşmenin önemli bir ihlali olarak kabul edilir ve "
+"Sağlayıcı’ya aşağıda Madde 11'de belirtilen nedenle Sözleşme’yi feshetme "
+"hakkı verir."
 
-#: wllegal/templates/legal/documents/tos.html:332
+#: wllegal/templates/legal/documents/tos.html:331
 msgid ""
 "By agreeing to the GTC at the time of purchase, the User subscribes to the "
 "future automatic renewal of the Subscription. The Subscription will be "
@@ -1608,7 +1615,7 @@ msgstr ""
 "göre ücretlendirilecektir. Abonelik süreklidir ve iptal edilene veya "
 "Kullanıcı Hesabı sonlandırılana kadar otomatik olarak yenilenir."
 
-#: wllegal/templates/legal/documents/tos.html:336
+#: wllegal/templates/legal/documents/tos.html:335
 msgid ""
 "The User acknowledges that in the case of Subscription payment via a payment "
 "gateway, this gateway is provided by <strong>ThePay, a.s.</strong>, with its "
@@ -1622,11 +1629,11 @@ msgstr ""
 "aracının, kayıtlı ofisi Masarykovo náměstí 102/65, 586 01 Jihlava, ID: 281 "
 "35 261 adresinde bulunan ve Brno'daki Bölge Mahkemesi tarafından tutulan "
 "Ticaret Sicilinde kayıtlı olan <strong>ThePay, a.s.</strong> tarafından "
-"sağlandığını kabul eder, Bölüm B, Insert 8977 (<strong>"
-"\"</strong> <strong>ThePay</strong>\"). Ücretin ödenmesine ilişkin koşullar "
-"ThePay şirketinin ilgili sözleşme koşullarına tabidir."
+"sağlandığını kabul eder, Bölüm B, Insert 8977 (<strong>\"</strong> "
+"<strong>ThePay</strong>\"). Ücretin ödenmesine ilişkin koşullar ThePay "
+"şirketinin ilgili sözleşme koşullarına tabidir."
 
-#: wllegal/templates/legal/documents/tos.html:340
+#: wllegal/templates/legal/documents/tos.html:339
 msgid ""
 "Payment card information entered into the payment gateway is not processed "
 "by the Provider, and the Provider is not responsible for the functionality "
@@ -1636,11 +1643,11 @@ msgstr ""
 "ve Sağlayıcı, ThePay şirketinin ödeme aracısının işlevselliğinden sorumlu "
 "değildir."
 
-#: wllegal/templates/legal/documents/tos.html:344
+#: wllegal/templates/legal/documents/tos.html:343
 msgid "Provider's Rights and Obligations"
 msgstr "Sağlayıcının Hak ve Yükümlülükleri"
 
-#: wllegal/templates/legal/documents/tos.html:348
+#: wllegal/templates/legal/documents/tos.html:347
 msgid ""
 "The Provider is entitled to make any changes to the Service or its scope. In "
 "such a case, the Provider will inform the User through the web interface "
@@ -1670,17 +1677,17 @@ msgstr ""
 "çerçevede, endüstri standartlarında, Sağlayıcı’nın ilgili maliyetlerinde, "
 "piyasa vergilerinde, ilgili piyasayı etkileyen koşullarda veya Hizmet’in "
 "sağlanmasını etkileyebilecek diğer değişikliklerde değişiklik olması "
-"durumunda, Sağlayıcı, bu Koşulların revize edilmiş halini "
-"(<strong>”</strong>Değişiklik” olarak anılacaktır) internet sitesinde "
-"yayınlayarak ve Değişiklik yürürlüğe girmeden en az 14 gün önce Kullanıcı’ya "
-"e-posta yoluyla ve sağlanan Hizmet ile ilgili arayüz aracılığıyla bildirimde "
-"bulunarak bu Değişik’liği Kullanıcı’ya bildirerek bu Koşulları herhangi bir "
-"zamanda değiştirebilir, iptal edebilir veya tamamlayabilir. Kullanıcı söz "
-"konusu Değişikliğe yukarıda belirtilen süre içinde yanıt vermezse, "
-"Kullanıcının Değişikliği kabul ettiği varsayılacaktır. Değişikliğin yasa, "
-"mahkeme kararı, yeni bir hizmetin eklenmesi, var olan Hizmete ek özellikler "
-"veya Kullanıcı’nın haklarını azaltmayan veya yükümlülüklerini artırmayan "
-"başka herhangi bir Değişiklik ile ilgili olması durumunda bildirim geçerli "
+"durumunda, Sağlayıcı, bu Koşulların revize edilmiş halini (<strong>”</"
+"strong>Değişiklik” olarak anılacaktır) internet sitesinde yayınlayarak ve "
+"Değişiklik yürürlüğe girmeden en az 14 gün önce Kullanıcı’ya e-posta yoluyla "
+"ve sağlanan Hizmet ile ilgili arayüz aracılığıyla bildirimde bulunarak bu "
+"Değişik’liği Kullanıcı’ya bildirerek bu Koşulları herhangi bir zamanda "
+"değiştirebilir, iptal edebilir veya tamamlayabilir. Kullanıcı söz konusu "
+"Değişikliğe yukarıda belirtilen süre içinde yanıt vermezse, Kullanıcının "
+"Değişikliği kabul ettiği varsayılacaktır. Değişikliğin yasa, mahkeme kararı, "
+"yeni bir hizmetin eklenmesi, var olan Hizmete ek özellikler veya "
+"Kullanıcı’nın haklarını azaltmayan veya yükümlülüklerini artırmayan başka "
+"herhangi bir Değişiklik ile ilgili olması durumunda bildirim geçerli "
 "değildir. Bu gibi durumlarda, Değişiklik Kullanıcı’ya önceden haber "
 "verilmeksizin uygulanacak ve derhal yürürlüğe girecektir. Kullanıcı, "
 "yukarıdaki süre içinde Koşullardaki Değişikliğe itiraz ederse, Sözleşme’yi "
@@ -1688,7 +1695,7 @@ msgstr ""
 "edebilir (itiraz etmemek suretiyle zımnen) ya da yukarıda belirtilen süre "
 "içinde Sözleşme’yi feshedebilir."
 
-#: wllegal/templates/legal/documents/tos.html:352
+#: wllegal/templates/legal/documents/tos.html:351
 msgid ""
 "The Provider undertakes to take all steps within its technical capabilities "
 "to ensure the functionality and availability of the Service. The User "
@@ -1698,7 +1705,7 @@ msgstr ""
 "teknik olanakları dahilinde tüm adımları atmayı taahhüt eder. Kullanıcı, "
 "Hizmet’i riski kendisine ait olmak üzere kullandığını kabul ve beyan eder."
 
-#: wllegal/templates/legal/documents/tos.html:356
+#: wllegal/templates/legal/documents/tos.html:355
 msgid ""
 "The basic system requirements for the proper operation of the Service "
 "include the server environment and defined technical status in the latest "
@@ -1710,7 +1717,7 @@ msgstr ""
 "gereklilikleri yerine getirmeyi ve kendi eylemleriyle Hizmet’in düzgün "
 "çalışmasını sağlamayı taahhüt eder."
 
-#: wllegal/templates/legal/documents/tos.html:360
+#: wllegal/templates/legal/documents/tos.html:359
 msgid ""
 "If the User identifies any issue related to the Service's speed, "
 "functionality, or availability, they are obligated to report it to the "
@@ -1730,7 +1737,7 @@ msgstr ""
 "Sağlayıcı, bu olaylarla bağlantılı olarak Kullanıcının uğrayacağı herhangi "
 "bir zarardan sorumlu değildir."
 
-#: wllegal/templates/legal/documents/tos.html:364
+#: wllegal/templates/legal/documents/tos.html:363
 msgid ""
 "The User acknowledges and agrees that the Provider may temporarily suspend "
 "the provision of the Service for serious reasons, particularly in cases such "
@@ -1749,10 +1756,10 @@ msgstr ""
 "sürede Kullanıcı’ya bildirmelidir. Sağlayıcı, olası arızaları veya Hizmet’in "
 "sınırlı ya da tamamen kullanılamamasını en aza indirmek için uygun "
 "operasyonel ve güvenlik önlemlerini uygulamakla yükümlüdür. Planlı "
-"kesintiler söz konusu olduğunda, Sağlayıcı makul bir süre içinde Kullanıcı’"
-"yı önceden bilgilendirmekle yükümlüdür."
+"kesintiler söz konusu olduğunda, Sağlayıcı makul bir süre içinde "
+"Kullanıcı’yı önceden bilgilendirmekle yükümlüdür."
 
-#: wllegal/templates/legal/documents/tos.html:368
+#: wllegal/templates/legal/documents/tos.html:367
 msgid ""
 "The Provider agrees not to provide the content of the User's data to third "
 "parties."
@@ -1760,7 +1767,7 @@ msgstr ""
 "Sağlayıcı, Kullanıcı verilerinin içeriğini üçüncü taraflara vermemeyi kabul "
 "eder."
 
-#: wllegal/templates/legal/documents/tos.html:372
+#: wllegal/templates/legal/documents/tos.html:371
 msgid ""
 "The contractual parties agree that the Provider does not acquire ownership "
 "of the User's data. The User is solely responsible for the content of the "
@@ -1770,7 +1777,7 @@ msgstr ""
 "edinmediğini kabul eder. Kullanıcı, kendi sunucusunda veya Sağlayıcı’nın "
 "sunucusunda depolanan verilerin içeriğinden tek başına sorumludur."
 
-#: wllegal/templates/legal/documents/tos.html:376
+#: wllegal/templates/legal/documents/tos.html:375
 msgid ""
 "By accepting these Terms, the User acknowledges and agrees that the Provider "
 "is entitled to monitor, using its own resources, whether the User is using "
@@ -1782,11 +1789,11 @@ msgstr ""
 "kullanmadığını izleme hakkına sahip olduğunu kabul ve beyan eder. Kullanıcı, "
 "bu gibi durumlarda Sağlayıcı ile tam işbirliği yapmayı taahhüt eder."
 
-#: wllegal/templates/legal/documents/tos.html:381
+#: wllegal/templates/legal/documents/tos.html:380
 msgid "User’s Rights and Obligations"
 msgstr "Kullanıcının Hak ve Yükümlülükleri"
 
-#: wllegal/templates/legal/documents/tos.html:385
+#: wllegal/templates/legal/documents/tos.html:384
 msgid ""
 "The User must not use the Service in violation of applicable legal "
 "regulations. The User is also fully responsible for ensuring that any "
@@ -1798,7 +1805,7 @@ msgstr ""
 "değişikliklerin yürürlükteki yasal düzenlemelere uygun olmasını sağlamaktan "
 "tamamen sorumludur."
 
-#: wllegal/templates/legal/documents/tos.html:389
+#: wllegal/templates/legal/documents/tos.html:388
 msgid ""
 "To gain access to the Service, the Provider may require certain "
 "identification details and other information from the User, always only to "
@@ -1822,7 +1829,7 @@ msgstr ""
 "bilgilerin kapsamını genişletmez, ancak Kullanıcı tarafından verilen "
 "bilgilerin doğruluğunu, kesinliğini ve güncelliğini vurgular."
 
-#: wllegal/templates/legal/documents/tos.html:393
+#: wllegal/templates/legal/documents/tos.html:392
 msgid ""
 "The User is obligated, upon the Provider's request, to provide the necessary "
 "cooperation in resolving malfunctions or making adjustments to the Service, "
@@ -1836,7 +1843,7 @@ msgstr ""
 "olmak üzere, arızaların giderilmesi veya Hizmet’te ayarlamalar yapılması "
 "konusunda gerekli işbirliğini sağlamakla yükümlüdür."
 
-#: wllegal/templates/legal/documents/tos.html:397
+#: wllegal/templates/legal/documents/tos.html:396
 msgid ""
 "The Provider is entitled to implement security measures to protect the "
 "Service in accordance with this Agreement, and the User is required to "
@@ -1846,7 +1853,7 @@ msgstr ""
 "önlemleri uygulama hakkına sahiptir ve Kullanıcı’nın bu önlemlere uyması ve "
 "saygı göstermesi gerekmektedir."
 
-#: wllegal/templates/legal/documents/tos.html:401
+#: wllegal/templates/legal/documents/tos.html:400
 msgid ""
 "The User is obligated to use the Service in accordance with the licensing "
 "terms specified in Section 6 of this Agreement, ensuring that they do not "
@@ -1856,17 +1863,17 @@ msgstr ""
 "koşullarına uygun olarak ve Hizmet’in işlevselliğini tehlikeye atmayacak "
 "şekilde kullanmakla yükümlüdür."
 
-#: wllegal/templates/legal/documents/tos.html:405
+#: wllegal/templates/legal/documents/tos.html:404
 msgid ""
 "According to the Service variant listed in the Price List, the User has the "
 "right to request Support Services from the Provider, as specified in the "
 "Price List."
 msgstr ""
-"Fiyat Listesi’nde belirtilen Hizmet çeşidine göre Kullanıcı, Fiyat Listesi’"
-"nde belirtildiği şekilde Sağlayıcı’dan Destek Hizmetleri talep etme hakkına "
-"sahiptir."
+"Fiyat Listesi’nde belirtilen Hizmet çeşidine göre Kullanıcı, Fiyat "
+"Listesi’nde belirtildiği şekilde Sağlayıcı’dan Destek Hizmetleri talep etme "
+"hakkına sahiptir."
 
-#: wllegal/templates/legal/documents/tos.html:409
+#: wllegal/templates/legal/documents/tos.html:408
 msgid ""
 "The User is required to keep access credentials to the Service confidential "
 "and must not engage in any actions that could compromise the security of the "
@@ -1880,7 +1887,7 @@ msgstr ""
 "kimlik bilgilerini kötüye kullanma riskini en aza indirmek için teknik "
 "ekipmanlarını makul ölçüde güvence altına almalıdır."
 
-#: wllegal/templates/legal/documents/tos.html:413
+#: wllegal/templates/legal/documents/tos.html:412
 msgid ""
 "If the User breaches any of the obligations specified in this Section, the "
 "Provider bears no responsibility for any damages incurred by the User, and "
@@ -1899,11 +1906,11 @@ msgstr ""
 "eline geçebileceğinin farkına varırsa, bunu Sağlayıcı’ya bildirmekle "
 "yükümlüdür."
 
-#: wllegal/templates/legal/documents/tos.html:417
+#: wllegal/templates/legal/documents/tos.html:416
 msgid "Prohibited Conduct"
 msgstr "İzin Verilmeyen Davranışlar"
 
-#: wllegal/templates/legal/documents/tos.html:421
+#: wllegal/templates/legal/documents/tos.html:420
 msgid ""
 "The User is prohibited from uploading, sending, or otherwise storing any "
 "content on the Service portal that may contain software viruses or other "
@@ -1926,7 +1933,7 @@ msgstr ""
 "çalışan içerik yükleyemez. Bu yükümlülüklerin ihlali, Sözleşme’nin esaslı "
 "bir ihlalini teşkil eder."
 
-#: wllegal/templates/legal/documents/tos.html:425
+#: wllegal/templates/legal/documents/tos.html:424
 msgid ""
 "The User particularly agrees to refrain from the following activities while "
 "using the Services, especially through the Services:"
@@ -1934,7 +1941,7 @@ msgstr ""
 "Kullanıcı, Hizmet’leri kullanırken, özellikle de Hizmet’ler aracılığıyla "
 "aşağıdaki faaliyetlerden kaçınacağını özellikle kabul eder:"
 
-#: wllegal/templates/legal/documents/tos.html:429
+#: wllegal/templates/legal/documents/tos.html:428
 msgid ""
 "Disseminating or offering any content that violates applicable laws at the "
 "national, EU, or international level;"
@@ -1942,7 +1949,7 @@ msgstr ""
 "Ulusal, AB veya uluslararası düzeyde geçerli yasaları ihlal eden herhangi "
 "bir içeriği yaymak veya sunmak;"
 
-#: wllegal/templates/legal/documents/tos.html:433
+#: wllegal/templates/legal/documents/tos.html:432
 msgid ""
 "Disseminating or offering any illegally obtained content or content whose "
 "dissemination would be illegal;"
@@ -1950,7 +1957,7 @@ msgstr ""
 "Yasa dışı yollarla elde edilen veya yayılması yasa dışı olan herhangi bir "
 "içeriği yaymak veya sunmak;"
 
-#: wllegal/templates/legal/documents/tos.html:437
+#: wllegal/templates/legal/documents/tos.html:436
 msgid ""
 "Disseminating or offering any pornographic, obscene, or otherwise vulgar "
 "content;"
@@ -1958,7 +1965,7 @@ msgstr ""
 "Herhangi bir pornografik, müstehcen veya başka türlü kaba içeriği yaymak "
 "veya sunmak;"
 
-#: wllegal/templates/legal/documents/tos.html:441
+#: wllegal/templates/legal/documents/tos.html:440
 msgid ""
 "Engaging in any services or activities that are contrary to applicable laws "
 "at the national, EU, or international level;"
@@ -1966,7 +1973,7 @@ msgstr ""
 "Ulusal, AB veya uluslararası düzeyde yürürlükteki yasalara aykırı herhangi "
 "bir hizmet veya faaliyette bulunmak;"
 
-#: wllegal/templates/legal/documents/tos.html:445
+#: wllegal/templates/legal/documents/tos.html:444
 msgid ""
 "Engaging in activities that bypass intellectual property protection elements "
 "(such as cracks, warez, etc.);"
@@ -1974,7 +1981,7 @@ msgstr ""
 "Fikri mülkiyet koruma unsurlarına aykırı faaliyetlerde bulunmak (crack, "
 "warez gibi);"
 
-#: wllegal/templates/legal/documents/tos.html:449
+#: wllegal/templates/legal/documents/tos.html:448
 msgid ""
 "Sending unsolicited commercial messages and other spam or other illegal "
 "harassment of third parties;"
@@ -1982,7 +1989,7 @@ msgstr ""
 "İstenmeyen ticari iletiler ve diğer istenmeyen iletilerin gönderilmesi veya "
 "üçüncü taraflara yönelik diğer yasa dışı tacizler;"
 
-#: wllegal/templates/legal/documents/tos.html:453
+#: wllegal/templates/legal/documents/tos.html:452
 msgid ""
 "Publishing or disseminating any content that may infringe the rights of "
 "third parties, including attacks on such persons, or any offensive, "
@@ -1994,7 +2001,7 @@ msgstr ""
 "haklarını yasalara aykırı veya yasadışı olarak ihlal eden herhangi bir "
 "saldırgan, kaba veya başka şekilde uygunsuz içerik dahil;"
 
-#: wllegal/templates/legal/documents/tos.html:457
+#: wllegal/templates/legal/documents/tos.html:456
 msgid ""
 "Disseminating or offering any content that infringes on third-party "
 "intellectual or industrial property rights;"
@@ -2002,7 +2009,7 @@ msgstr ""
 "Üçüncü tarafların fikri veya sınai mülkiyet haklarını ihlal eden herhangi "
 "bir içeriği yaymak veya sunmak;"
 
-#: wllegal/templates/legal/documents/tos.html:461
+#: wllegal/templates/legal/documents/tos.html:460
 msgid ""
 "Operating or disseminating any tools that may be misused to breach network, "
 "device, or service security;"
@@ -2010,11 +2017,11 @@ msgstr ""
 "Ağ, cihaz veya hizmet güvenliğini ihlal etmek için kötüye kullanılabilecek "
 "herhangi bir aracı çalıştırmak veya yaymak;"
 
-#: wllegal/templates/legal/documents/tos.html:465
+#: wllegal/templates/legal/documents/tos.html:464
 msgid "Overburdening the Provider's or third-party servers;"
 msgstr "Sağlayıcı’nın veya üçüncü tarafların sunucularını aşırı yüklemek;"
 
-#: wllegal/templates/legal/documents/tos.html:469
+#: wllegal/templates/legal/documents/tos.html:468
 msgid ""
 "Engaging in any activities that could harm the Provider, its reputation, or "
 "its assets;"
@@ -2022,7 +2029,7 @@ msgstr ""
 "Sağlayıcıya, itibarına veya varlıklarına zarar verebilecek herhangi bir "
 "faaliyette bulunmak;"
 
-#: wllegal/templates/legal/documents/tos.html:473
+#: wllegal/templates/legal/documents/tos.html:472
 msgid ""
 "Using any means, servers, devices, or elements provided by the Provider in a "
 "manner not expressly agreed upon in these Terms or the Agreement;"
@@ -2031,22 +2038,23 @@ msgstr ""
 "unsuru bu Koşullar’da veya Sözleşme’de açıkça kabul edilmeyen bir şekilde "
 "kullanmak;"
 
-#: wllegal/templates/legal/documents/tos.html:477
+#: wllegal/templates/legal/documents/tos.html:476
 msgid ""
 "Conducting activities that would disclose any content to third parties that:"
-msgstr "Herhangi bir içeriği üçüncü taraflara ifşa edecek faaliyetler yürütmek:"
+msgstr ""
+"Herhangi bir içeriği üçüncü taraflara ifşa edecek faaliyetler yürütmek:"
 
-#: wllegal/templates/legal/documents/tos.html:481
+#: wllegal/templates/legal/documents/tos.html:480
 msgid "Contains prohibited applications and scripts;"
 msgstr "Yasaklanmış uygulamaları ve komut dosyalarını içerir;"
 
-#: wllegal/templates/legal/documents/tos.html:485
+#: wllegal/templates/legal/documents/tos.html:484
 msgid "Overloads database systems or causes malfunction of servers;"
 msgstr ""
 "Veri tabanı sistemlerini aşırı yükler veya sunucuların bozulmasına neden "
 "olur;"
 
-#: wllegal/templates/legal/documents/tos.html:489
+#: wllegal/templates/legal/documents/tos.html:488
 msgid ""
 "Overburdens the infrastructure, connection lines, or hardware of the "
 "Provider or third parties;"
@@ -2054,7 +2062,7 @@ msgstr ""
 "Sağlayıcının veya üçüncü tarafların altyapısını, bağlantı hatlarını veya "
 "donanımını aşırı yükler;"
 
-#: wllegal/templates/legal/documents/tos.html:493
+#: wllegal/templates/legal/documents/tos.html:492
 msgid ""
 "Involves music, sound, image, film, or similar files for which the User "
 "lacks distribution rights;"
@@ -2062,7 +2070,7 @@ msgstr ""
 "Kullanıcı’nın dağıtım haklarına sahip olmadığı müzik, ses, görüntü, film "
 "veya benzer dosyaları içerir;"
 
-#: wllegal/templates/legal/documents/tos.html:497
+#: wllegal/templates/legal/documents/tos.html:496
 msgid ""
 "Threatens the privacy or security of other Internet users or the security of "
 "computer systems (e.g., through viruses, password generators, etc.);"
@@ -2071,7 +2079,7 @@ msgstr ""
 "bilgisayar sistemlerinin güvenliğini tehdit eden (virüsler, parola "
 "oluşturucular vb. yoluyla);"
 
-#: wllegal/templates/legal/documents/tos.html:501
+#: wllegal/templates/legal/documents/tos.html:500
 msgid ""
 "Is part of the provided Service without written permission from the Provider "
 "to share it with third parties;"
@@ -2079,18 +2087,18 @@ msgstr ""
 "Sağlayıcı’nın üçüncü taraflarla paylaşmak için yazılı izni olmadan sağlanan "
 "Hizmet’in bir parçasıdır;"
 
-#: wllegal/templates/legal/documents/tos.html:505
+#: wllegal/templates/legal/documents/tos.html:504
 msgid ""
 "Gives the impression that the User acts on behalf of the Provider without "
 "authorization;"
 msgstr ""
 "Kullanıcının yetkisi olmadan Sağlayıcı adına hareket ettiği izlenimini verir;"
 
-#: wllegal/templates/legal/documents/tos.html:509
+#: wllegal/templates/legal/documents/tos.html:508
 msgid "May harm any third-party rights."
 msgstr "Üçüncü taraf haklarına zarar verebilir."
 
-#: wllegal/templates/legal/documents/tos.html:513
+#: wllegal/templates/legal/documents/tos.html:512
 msgid ""
 "The Provider may, without prior notice, interrupt, limit, or suspend the "
 "provision of Services if it reasonably believes the User is violating the "
@@ -2098,14 +2106,14 @@ msgid ""
 "public morality, ethical principles, or Internet usage rules, or is aiding "
 "in or committing criminal activities."
 msgstr ""
-"Sağlayıcı, Kullanıcı’nın Koşullar’ı, Sözleşme’yi ihlal ettiğine veya Hizmet’"
-"leri yürürlükteki yasalara, genel ahlaka, etik ilkelere veya internet "
+"Sağlayıcı, Kullanıcı’nın Koşullar’ı, Sözleşme’yi ihlal ettiğine veya "
+"Hizmet’leri yürürlükteki yasalara, genel ahlaka, etik ilkelere veya internet "
 "kullanım kurallarına aykırı olarak kullandığına veya suç teşkil eden "
 "faaliyetlere yardım ettiğine veya bunları işlediğine makul bir şekilde "
 "inanırsa, önceden bildirimde bulunmaksızın Hizmet’lerin sağlanmasını "
 "kesintiye uğratabilir, sınırlayabilir veya askıya alabilir."
 
-#: wllegal/templates/legal/documents/tos.html:517
+#: wllegal/templates/legal/documents/tos.html:516
 msgid ""
 "The Provider may also, without prior notice, interrupt, limit, or suspend "
 "the provision of Services if the Services are being misused for unauthorized "
@@ -2113,14 +2121,14 @@ msgid ""
 "invoicing) or excessive usage, particularly through automated software and "
 "bots that overload the Provider’s servers or other technical facilities."
 msgstr ""
-"Sağlayıcı ayrıca, Hizmet’lerin Sağlayıcı’nın haklarına yetkisiz müdahale ("
-"örneğin, kimliğe bürünme, hileli faturalandırma) veya özellikle Sağlayıcı’"
-"nın sunucularına veya diğer teknik olanaklarına aşırı yük bindiren otomatik "
-"yazılımlar ve botlar aracılığıyla aşırı kullanım için kötüye kullanılması "
-"durumunda, önceden bildirimde bulunmaksızın Hizmet’lerin sağlanmasını "
-"kesintiye uğratabilir, sınırlayabilir veya askıya alabilir."
+"Sağlayıcı ayrıca, Hizmet’lerin Sağlayıcı’nın haklarına yetkisiz müdahale "
+"(örneğin, kimliğe bürünme, hileli faturalandırma) veya özellikle "
+"Sağlayıcı’nın sunucularına veya diğer teknik olanaklarına aşırı yük bindiren "
+"otomatik yazılımlar ve botlar aracılığıyla aşırı kullanım için kötüye "
+"kullanılması durumunda, önceden bildirimde bulunmaksızın Hizmet’lerin "
+"sağlanmasını kesintiye uğratabilir, sınırlayabilir veya askıya alabilir."
 
-#: wllegal/templates/legal/documents/tos.html:521
+#: wllegal/templates/legal/documents/tos.html:520
 msgid ""
 "The User expressly agrees that in the event of a justified interruption, "
 "limitation, or suspension of Services by the Provider, the User is solely "
@@ -2133,7 +2141,7 @@ msgstr ""
 "zararlar için Sağlayıcı’dan herhangi bir tazminat talep edemeyeceğini açıkça "
 "kabul eder."
 
-#: wllegal/templates/legal/documents/tos.html:525
+#: wllegal/templates/legal/documents/tos.html:524
 msgid ""
 "To verify the software solution used or audit the licensing of assigned "
 "software resources and content uploaded through the Services, the User "
@@ -2148,7 +2156,7 @@ msgstr ""
 "komut dosyalarının sanal sunucuda kurulmasını ve yürütülmesini "
 "etkinleştirmeyi veya sağlamayı içerir."
 
-#: wllegal/templates/legal/documents/tos.html:529
+#: wllegal/templates/legal/documents/tos.html:528
 msgid ""
 "The User expressly agrees to be responsible for any damage caused to the "
 "Provider, its clients, partners, or third parties. This responsibility "
@@ -2170,11 +2178,11 @@ msgstr ""
 "olarak kabul edilecektir. Bu ceza, Sağlayıcı’nın cezaya ek olarak tazminat "
 "talep etme hakkını etkilemez."
 
-#: wllegal/templates/legal/documents/tos.html:534
+#: wllegal/templates/legal/documents/tos.html:533
 msgid "Termination of the Agreement"
 msgstr "Sözleşmenin Feshi"
 
-#: wllegal/templates/legal/documents/tos.html:538
+#: wllegal/templates/legal/documents/tos.html:537
 msgid ""
 "The contractual relationship may be terminated by withdrawal from the "
 "Agreement, expiration of the agreed term, dissolution of a legal entity "
@@ -2186,7 +2194,7 @@ msgstr ""
 "feshedilmesi, Sözleşme’nin feshi veya Tarafların karşılıklı mutabakatı ile "
 "sona erdirilebilir."
 
-#: wllegal/templates/legal/documents/tos.html:542
+#: wllegal/templates/legal/documents/tos.html:541
 msgid ""
 "The Provider may terminate the Agreement at any time without providing a "
 "reason. The notice period is three months, starting from the first day of "
@@ -2196,15 +2204,15 @@ msgstr ""
 "feshedebilir. Bildirim süresi, bildirimin Kullanıcı’ya iletilmesini takip "
 "eden takvim ayının ilk gününden başlamak üzere üç aydır."
 
-#: wllegal/templates/legal/documents/tos.html:546
+#: wllegal/templates/legal/documents/tos.html:545
 msgid ""
 "The User may terminate the Agreement under the conditions specified in "
 "Section 8.1 of these Terms."
 msgstr ""
-"Kullanıcı, bu Koşullar’ın 8.1 Bölümünde belirtilen şartlar altında Sözleşme’"
-"yi feshedebilir."
+"Kullanıcı, bu Koşullar’ın 8.1 Bölümünde belirtilen şartlar altında "
+"Sözleşme’yi feshedebilir."
 
-#: wllegal/templates/legal/documents/tos.html:550
+#: wllegal/templates/legal/documents/tos.html:549
 msgid ""
 "If the User materially or repeatedly breaches their obligations under these "
 "Terms or the Agreement and fails to remedy the breach within 14 days from "
@@ -2218,7 +2226,7 @@ msgstr ""
 "feshedebilir. Fesih, Kullanıcı'nın fesih bildirimini almasından sonraki gün "
 "geçerli olur."
 
-#: wllegal/templates/legal/documents/tos.html:554
+#: wllegal/templates/legal/documents/tos.html:553
 msgid ""
 "If the User breaches their obligations under these Terms or the Agreement in "
 "a particularly serious manner, the Provider is entitled to immediately "
@@ -2230,7 +2238,7 @@ msgstr ""
 "ihlalin farkına varır varmaz Sözleşme’yi derhal feshetme ve Hizmet sağlamayı "
 "sona erdirme hakkına sahiptir."
 
-#: wllegal/templates/legal/documents/tos.html:558
+#: wllegal/templates/legal/documents/tos.html:557
 msgid ""
 "If the Provider breaches its obligations under these Terms or the Agreement "
 "in a particularly serious manner, the User is entitled to immediately "
@@ -2240,7 +2248,7 @@ msgstr ""
 "ciddi bir şekilde ihlal ederse, Kullanıcı böyle bir ihlalin farkına varır "
 "varmaz Sözleşme’yi derhal feshetme hakkına sahiptir."
 
-#: wllegal/templates/legal/documents/tos.html:562
+#: wllegal/templates/legal/documents/tos.html:561
 msgid ""
 "Neither Party may terminate or otherwise end the Agreement except in cases "
 "explicitly stated in this Section. The Parties exclude, to the maximum "
@@ -2255,11 +2263,11 @@ msgstr ""
 "herhangi birinin bu Anlaşmayı feshetme hakkını mümkün olan en fazla ölçüde "
 "hariç tutar."
 
-#: wllegal/templates/legal/documents/tos.html:566
+#: wllegal/templates/legal/documents/tos.html:565
 msgid "Limitation of Liability"
 msgstr "Sorumluluğun Sınırlandırılması"
 
-#: wllegal/templates/legal/documents/tos.html:570
+#: wllegal/templates/legal/documents/tos.html:569
 msgid ""
 "The Provider is not liable for indirect damages arising from the provision "
 "of the Services, such as lost profits, lost revenues, data loss, financial "
@@ -2275,11 +2283,11 @@ msgstr ""
 "ortaya çıkan zararlardan (Sağlayıcı bu tür zararların olasılığı konusunda "
 "bilgilendirilmiş olsa bile) sorumlu değildir:"
 
-#: wllegal/templates/legal/documents/tos.html:575
+#: wllegal/templates/legal/documents/tos.html:574
 msgid "Use or inability to use the Service;"
 msgstr "Hizmetin kullanılması veya kullanılamaması;"
 
-#: wllegal/templates/legal/documents/tos.html:578
+#: wllegal/templates/legal/documents/tos.html:577
 msgid ""
 "The cost of acquiring substitute goods and services arising from any goods, "
 "data, information, or services purchased or obtained or messages received, "
@@ -2289,7 +2297,7 @@ msgstr ""
 "veya alınan iletilerden veya Hizmet aracılığıyla veya Hizmet’ten yapılan "
 "işlemlerden kaynaklanan ikame mal ve hizmet edinme maliyeti;"
 
-#: wllegal/templates/legal/documents/tos.html:581
+#: wllegal/templates/legal/documents/tos.html:580
 msgid ""
 "Statements or actions of any third party involved in providing the Service, "
 "including any outcomes of third-party solutions or services related to the "
@@ -2299,11 +2307,11 @@ msgstr ""
 "dahil olmak üzere, Hizmet’in sağlanmasında yer alan herhangi bir üçüncü "
 "tarafın ifadeleri veya eylemleri;"
 
-#: wllegal/templates/legal/documents/tos.html:584
+#: wllegal/templates/legal/documents/tos.html:583
 msgid "Any other matters related to the Service."
 msgstr "Hizmet ile ilgili diğer tüm konular."
 
-#: wllegal/templates/legal/documents/tos.html:589
+#: wllegal/templates/legal/documents/tos.html:588
 msgid ""
 "In cases of force majeure, the Parties are entitled to temporarily suspend "
 "their contractual obligations, and any non-performance or delay in "
@@ -2321,7 +2329,7 @@ msgstr ""
 "gereksiz yere engelleyen siyasi durumdaki değişiklikler gibi Çek yasalarına "
 "göre sorumluluğun hariç tutulduğu durumları içerir."
 
-#: wllegal/templates/legal/documents/tos.html:593
+#: wllegal/templates/legal/documents/tos.html:592
 msgid ""
 "By entering into the Agreement, the User acknowledges that, despite the "
 "Provider’s best efforts, there may be temporary unavailability of the "
@@ -2336,7 +2344,7 @@ msgstr ""
 "eder. Bu nedenle Kullanıcı, Hizmet dahilinde depolanan tüm verilerini başka "
 "coğrafi konumlarda yedeklemeyi kabul ve taahhüt eder."
 
-#: wllegal/templates/legal/documents/tos.html:597
+#: wllegal/templates/legal/documents/tos.html:596
 msgid ""
 "The User uses the Service AS IS. Incompatibility with other software, "
 "hardware configurations, or any defects or faults DO NOT ENTITLE the User to "
@@ -2349,11 +2357,11 @@ msgstr ""
 "siparişini iptal etme veya ödenen herhangi bir ücretin iadesini talep etme "
 "HAKKI VERMEZ."
 
-#: wllegal/templates/legal/documents/tos.html:601
+#: wllegal/templates/legal/documents/tos.html:600
 msgid "Personal Data Protection"
 msgstr "Kişisel Veri’lerin Korunması"
 
-#: wllegal/templates/legal/documents/tos.html:605
+#: wllegal/templates/legal/documents/tos.html:604
 #, python-format
 msgid ""
 "The Provider collects data from the User solely for the purpose of providing "
@@ -2369,7 +2377,7 @@ msgstr ""
 "<a href=\"%(privacy_url)s\">Gizlilik İlkesi’nde</a> tanımlandığı gibi isteğe "
 "bağlı ticari iletişimler göndermek amacıyla veri toplar."
 
-#: wllegal/templates/legal/documents/tos.html:609
+#: wllegal/templates/legal/documents/tos.html:608
 msgid ""
 "All communication within the Service is encrypted using the SSL protocol. "
 "The User declares that they consider this encryption method sufficiently "
@@ -2378,7 +2386,7 @@ msgstr ""
 "Hizmet içindeki tüm iletişim SSL iletişim kuralı kullanılarak şifrelenir. "
 "Kullanıcı, bu şifreleme yöntemini yeterince güvenli bulduğunu beyan eder."
 
-#: wllegal/templates/legal/documents/tos.html:613
+#: wllegal/templates/legal/documents/tos.html:612
 #, python-format
 msgid ""
 "The Provider commits not to provide any information submitted by the User "
@@ -2393,7 +2401,7 @@ msgstr ""
 "a> tanımlananlar dışındaki amaçlarla herhangi bir üçüncü tarafa vermemeyi "
 "taahhüt eder."
 
-#: wllegal/templates/legal/documents/tos.html:617
+#: wllegal/templates/legal/documents/tos.html:616
 msgid ""
 "The Provider’s website and web application also use cookies. The Services "
 "exclusively use session cookies from the Provider and never use third-party "
@@ -2408,7 +2416,7 @@ msgstr ""
 "uyarınca açık rızanın gerekli olmadığı işlevsel / teknik tanımlama bilgileri "
 "kullanır."
 
-#: wllegal/templates/legal/documents/tos.html:625
+#: wllegal/templates/legal/documents/tos.html:624
 msgid ""
 "The Parties commit to maintaining the confidentiality of all information "
 "learned during the contractual relationship established by this Agreement."
@@ -2416,7 +2424,7 @@ msgstr ""
 "Taraflar, bu Sözleşme ile kurulan anlaşma ilişkisi sırasında öğrenilen tüm "
 "bilgilerin gizliliğini korumayı taahhüt eder."
 
-#: wllegal/templates/legal/documents/tos.html:629
+#: wllegal/templates/legal/documents/tos.html:628
 msgid ""
 "The User’s rights arising from the Agreement and these Terms cannot be "
 "assigned without the prior written consent of the Provider."
@@ -2424,7 +2432,7 @@ msgstr ""
 "Kullanıcı’nın Sözleşme’den ve bu Koşullar’dan doğan hakları, Sağlayıcı’nın "
 "önceden yazılı izni olmadan devredilemez."
 
-#: wllegal/templates/legal/documents/tos.html:633
+#: wllegal/templates/legal/documents/tos.html:632
 msgid ""
 "For the avoidance of doubt, the Parties explicitly confirm that they are "
 "business entities and that they are entering into this Agreement within the "
@@ -2434,7 +2442,7 @@ msgstr ""
 "Sözleşme’yi ticari faaliyetleri kapsamında akdettiklerini açıkça teyit "
 "ederler."
 
-#: wllegal/templates/legal/documents/tos.html:637
+#: wllegal/templates/legal/documents/tos.html:636
 msgid ""
 "If any provision of this Agreement or these Terms is or becomes invalid, "
 "ineffective, or unenforceable, it shall not affect the validity, "
@@ -2450,7 +2458,7 @@ msgstr ""
 "etkisiz hükmü asıl amacı yansıtan yeni bir hükümle değiştirerek Sözleşme’yi "
 "tadil etmek için her türlü çabayı gösterecektir."
 
-#: wllegal/templates/legal/documents/tos.html:641
+#: wllegal/templates/legal/documents/tos.html:640
 msgid ""
 "These Terms are governed by the law of the Czech Republic, a member of the "
 "European Union. The Parties, however, exclude to the maximum extent possible "
@@ -2483,7 +2491,7 @@ msgstr ""
 "tahkim kararının herhangi bir yargı alanında uygulanmasına itiraz etmemeyi "
 "gayrikabili rücu olarak kabul ederler."
 
-#: wllegal/templates/legal/documents/tos.html:645
+#: wllegal/templates/legal/documents/tos.html:644
 msgid ""
 "The official version of these Terms has been prepared in English and is "
 "considered the only binding version. Any versions of these Terms translated "
@@ -2499,7 +2507,7 @@ msgstr ""
 "tutarsızlık veya çelişki olması durumunda, her konuda İngilizce sürüm "
 "geçerli olacaktır."
 
-#: wllegal/templates/legal/documents/tos.html:649
+#: wllegal/templates/legal/documents/tos.html:648
 msgid "These Terms enter into force on November 1, 2024."
 msgstr "Bu Koşullar 1 Kasım 2024 tarihinde geçerli olacaktır."
 

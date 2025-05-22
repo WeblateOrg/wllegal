@@ -8,9 +8,9 @@
 # frottle <catatan.kungkong@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2024-12-19 19:19+0000\n"
+"POT-Creation-Date: 2025-05-22 11:19+0000\n"
 "PO-Revision-Date: 2025-05-03 08:05+0000\n"
 "Last-Translator: Zahid Rizky Fakhri <zahidrizkyfakhri@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/weblate/legal/"
@@ -39,7 +39,7 @@ msgstr ""
 "terjemahan disediakan demi kenyamanan Anda."
 
 #: wllegal/templates/legal/documents/privacy.html:6
-#: wllegal/templates/legal/documents/tos.html:7
+#: wllegal/templates/legal/documents/tos.html:6
 msgid "View English version"
 msgstr "Lihat versi Bahasa Inggris"
 
@@ -50,13 +50,12 @@ msgid ""
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
-"Kebijakan Privasi ini, selanjutnya disebut sebagai "
-"\"<strong>Kebijakan</strong>\", melengkapi <a href=\"%(terms_url)s\">Syarat "
-"dan Ketentuan Umum</a> Weblate, selanjutnya disebut sebagai "
-"\"<strong>Syarat</strong>\"."
+"Kebijakan Privasi ini, selanjutnya disebut sebagai \"<strong>Kebijakan</"
+"strong>\", melengkapi <a href=\"%(terms_url)s\">Syarat dan Ketentuan Umum</"
+"a> Weblate, selanjutnya disebut sebagai \"<strong>Syarat</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:17
-#: wllegal/templates/legal/documents/tos.html:17
+#: wllegal/templates/legal/documents/tos.html:16
 msgid "Introductory Provisions"
 msgstr "Ketentuan Pendahuluan"
 
@@ -111,8 +110,8 @@ msgstr ""
 "\"<strong>GDPR</strong>\"), Undang-Undang No. 110/2019 Coll., tentang "
 "pemrosesan data pribadi, serta Arahan 2002/58/EC Parlemen Eropa dan Dewan "
 "tanggal 12 Juli 2002 tentang pemrosesan data pribadi dan perlindungan "
-"privasi di sektor komunikasi elektronik (disingkat sebagai "
-"\"<strong>Arahan ePrivasi</strong>\")."
+"privasi di sektor komunikasi elektronik (disingkat sebagai \"<strong>Arahan "
+"ePrivasi</strong>\")."
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -736,13 +735,13 @@ msgid ""
 "authority if the User believes that the Provider is processing personal data "
 "in violation of this Policy or legal regulations."
 msgstr ""
-"mengajukan keluhan langsung ke Kantor Perlindungan Data Pribadi (<a href="
-"\"%(url)s\">%(url)s</a>) atau otoritas perlindungan data nasional terkait "
-"lainnya jika Pengguna yakin bahwa Penyedia memproses data pribadi dengan "
-"melanggar Kebijakan ini atau peraturan hukum."
+"mengajukan keluhan langsung ke Kantor Perlindungan Data Pribadi (<a "
+"href=\"%(url)s\">%(url)s</a>) atau otoritas perlindungan data nasional "
+"terkait lainnya jika Pengguna yakin bahwa Penyedia memproses data pribadi "
+"dengan melanggar Kebijakan ini atau peraturan hukum."
 
 #: wllegal/templates/legal/documents/privacy.html:272
-#: wllegal/templates/legal/documents/tos.html:621
+#: wllegal/templates/legal/documents/tos.html:620
 msgid "Final Provisions"
 msgstr "Ketentuan Akhir"
 
@@ -855,7 +854,7 @@ msgstr "Kami menggunakan kuki untuk memberikan layanan kami."
 msgid "We don’t use any third-party cookies."
 msgstr "Kami tidak menggunakan kuki pihak ketiga mana pun."
 
-#: wllegal/templates/legal/documents/tos.html:6
+#: wllegal/templates/legal/documents/tos.html:5
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
@@ -863,7 +862,7 @@ msgstr ""
 "Dokumen Syarat dan Ketentuan Umum mengikat secara hukum dalam bahasa "
 "Inggris, terjemahan disediakan demi kenyamanan Anda."
 
-#: wllegal/templates/legal/documents/tos.html:12
+#: wllegal/templates/legal/documents/tos.html:11
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
@@ -871,7 +870,7 @@ msgstr ""
 "Hak dan kewajiban Pengguna dan Penyedia yang timbul akibat penggunaan "
 "Layanan diatur dalam Syarat dan Ketentuan Umum ini."
 
-#: wllegal/templates/legal/documents/tos.html:21
+#: wllegal/templates/legal/documents/tos.html:20
 msgid ""
 "These general terms and conditions are an integral part of the service "
 "agreement concluded between the User and the Provider (hereinafter referred "
@@ -887,7 +886,7 @@ msgstr ""
 "penggunaan Layanan dan Produk. Syarat dan ketentuan umum ini mengatur "
 "hubungan kontraktual antara penyedia layanan dan Pengguna."
 
-#: wllegal/templates/legal/documents/tos.html:25
+#: wllegal/templates/legal/documents/tos.html:24
 msgid ""
 "The definitions below have the following meanings for the purposes of these "
 "general terms and conditions:"
@@ -895,29 +894,29 @@ msgstr ""
 "Definisi di bawah ini mempunyai arti sebagai berikut untuk tujuan syarat dan "
 "ketentuan umum ini:"
 
-#: wllegal/templates/legal/documents/tos.html:31
+#: wllegal/templates/legal/documents/tos.html:30
 msgid "Civil Code"
 msgstr "Hukum Perdata"
 
-#: wllegal/templates/legal/documents/tos.html:34
+#: wllegal/templates/legal/documents/tos.html:33
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
 msgstr ""
 "berarti Undang-Undang No. 89/2012 Coll., Kitab Undang-Undang Hukum Perdata, "
 "sebagaimana telah diubah;"
 
-#: wllegal/templates/legal/documents/tos.html:38
+#: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
 msgstr "Pihak-pihak yang mengadakan kontrak"
 
-#: wllegal/templates/legal/documents/tos.html:41
+#: wllegal/templates/legal/documents/tos.html:40
 msgid "jointly refers to the User and the Provider;"
 msgstr "secara bersama-sama mengacu pada Pengguna dan Penyedia;"
 
-#: wllegal/templates/legal/documents/tos.html:45
+#: wllegal/templates/legal/documents/tos.html:44
 msgid "Cookies"
 msgstr "Kuki"
 
-#: wllegal/templates/legal/documents/tos.html:48
+#: wllegal/templates/legal/documents/tos.html:47
 msgid ""
 "means any data sent from the service's web server to the User's computer or "
 "other internet-connected device, which allows the unique identification of "
@@ -931,11 +930,11 @@ msgstr ""
 "Undang No. 480/2004 Coll., tentang Layanan Masyarakat Informasi Tertentu dan "
 "Mengubah Undang-Undang Tertentu, sebagaimana telah diubah;"
 
-#: wllegal/templates/legal/documents/tos.html:52
+#: wllegal/templates/legal/documents/tos.html:51
 msgid "Dedicated Weblate"
 msgstr "Weblate Khusus"
 
-#: wllegal/templates/legal/documents/tos.html:55
+#: wllegal/templates/legal/documents/tos.html:54
 msgid ""
 "means a form of collaboration where the User is the sole user of the Service "
 "in a cloud hosted and provided by the Provider;"
@@ -943,11 +942,11 @@ msgstr ""
 "berarti suatu bentuk kolaborasi di mana Pengguna adalah satu-satunya "
 "pengguna Layanan di cloud yang dihosting dan disediakan oleh Penyedia;"
 
-#: wllegal/templates/legal/documents/tos.html:59
+#: wllegal/templates/legal/documents/tos.html:58
 msgid "GDPR"
 msgstr "GDPR"
 
-#: wllegal/templates/legal/documents/tos.html:62
+#: wllegal/templates/legal/documents/tos.html:61
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
@@ -955,11 +954,11 @@ msgstr ""
 "berarti Peraturan UE No. 679/2016, Peraturan Umum tentang Perlindungan Data "
 "Pribadi;"
 
-#: wllegal/templates/legal/documents/tos.html:66
+#: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
 msgstr "Syarat dan Ketentuan"
 
-#: wllegal/templates/legal/documents/tos.html:69
+#: wllegal/templates/legal/documents/tos.html:68
 msgid ""
 "means these general terms and conditions, which form an integral part of the "
 "Agreement;"
@@ -967,11 +966,11 @@ msgstr ""
 "berarti syarat dan ketentuan umum ini, yang merupakan bagian yang tidak "
 "terpisahkan dari Perjanjian;"
 
-#: wllegal/templates/legal/documents/tos.html:73
+#: wllegal/templates/legal/documents/tos.html:72
 msgid "Hosted String"
 msgstr "String yang dihosting"
 
-#: wllegal/templates/legal/documents/tos.html:76
+#: wllegal/templates/legal/documents/tos.html:75
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
@@ -979,11 +978,11 @@ msgstr ""
 "berarti unit teks yang didefinisikan dalam format terjemahan. Bisa berupa "
 "kata, kalimat, atau paragraf;"
 
-#: wllegal/templates/legal/documents/tos.html:80
+#: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
 msgstr "Hosted Weblate"
 
-#: wllegal/templates/legal/documents/tos.html:83
+#: wllegal/templates/legal/documents/tos.html:82
 msgid ""
 "means a form of collaboration that is purely cloud-based, where the Provider "
 "provides Services to Users on a non-dedicated (i.e., shared by multiple "
@@ -993,11 +992,11 @@ msgstr ""
 "Penyedia menyediakan Layanan kepada Pengguna di cloud non-dedicated (yaitu, "
 "digunakan bersama oleh banyak Pengguna) yang dioperasikan oleh Penyedia;"
 
-#: wllegal/templates/legal/documents/tos.html:87
+#: wllegal/templates/legal/documents/tos.html:86
 msgid "License"
 msgstr "Lisensi"
 
-#: wllegal/templates/legal/documents/tos.html:90
+#: wllegal/templates/legal/documents/tos.html:89
 msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
@@ -1005,24 +1004,28 @@ msgstr ""
 "berarti lisensi non-eksklusif yang diberikan oleh Penyedia kepada Pengguna "
 "untuk penggunaan Layanan;"
 
-#: wllegal/templates/legal/documents/tos.html:94
+#: wllegal/templates/legal/documents/tos.html:93
 msgid "Personal Data"
 msgstr "Data Pribadi"
 
-#: wllegal/templates/legal/documents/tos.html:97
+#: wllegal/templates/legal/documents/tos.html:96
+#, fuzzy
+#| msgid ""
+#| "means personal data as defined in EU Regulation 679/2016, entered by the "
+#| "user into the Service and/or Cookies;"
 msgid ""
-"means personal data as defined in EU Regulation 679/2016, entered by the "
+"means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
 "berarti data pribadi sebagaimana didefinisikan dalam Peraturan UE 679/2016, "
 "yang dimasukkan oleh pengguna ke dalam Layanan dan/atau Kuki;"
 
-#: wllegal/templates/legal/documents/tos.html:101
-#: wllegal/templates/legal/documents/tos.html:236
+#: wllegal/templates/legal/documents/tos.html:100
+#: wllegal/templates/legal/documents/tos.html:235
 msgid "Price"
 msgstr "Harga"
 
-#: wllegal/templates/legal/documents/tos.html:104
+#: wllegal/templates/legal/documents/tos.html:103
 msgid ""
 "the value expressed in money for the provided License in accordance with the "
 "Price List;"
@@ -1030,11 +1033,11 @@ msgstr ""
 "nilai yang dinyatakan dalam uang untuk Lisensi yang diberikan sesuai dengan "
 "Daftar Harga;"
 
-#: wllegal/templates/legal/documents/tos.html:108
+#: wllegal/templates/legal/documents/tos.html:107
 msgid "Price List"
 msgstr "Daftar Harga"
 
-#: wllegal/templates/legal/documents/tos.html:111
+#: wllegal/templates/legal/documents/tos.html:110
 msgid ""
 "means the document or web page that specifies the Price of the Service and/"
 "or Product unless otherwise stated in the Agreement;"
@@ -1042,11 +1045,11 @@ msgstr ""
 "berarti dokumen atau halaman web yang menentukan Harga Layanan dan/atau "
 "Produk kecuali dinyatakan lain dalam Perjanjian;"
 
-#: wllegal/templates/legal/documents/tos.html:115
+#: wllegal/templates/legal/documents/tos.html:114
 msgid "Product"
 msgstr "Produk"
 
-#: wllegal/templates/legal/documents/tos.html:118
+#: wllegal/templates/legal/documents/tos.html:117
 msgid ""
 "means any service or part thereof provided under a certain brand of the "
 "Provider based on its brand usage policy. The User purchases the Product AS "
@@ -1057,11 +1060,11 @@ msgstr ""
 "membeli Produk SEBAGAIMANA ADANYA. Dukungan dan layanan lainnya disediakan "
 "secara terpisah;"
 
-#: wllegal/templates/legal/documents/tos.html:122
+#: wllegal/templates/legal/documents/tos.html:121
 msgid "Provider"
 msgstr "Penyedia"
 
-#: wllegal/templates/legal/documents/tos.html:125
+#: wllegal/templates/legal/documents/tos.html:124
 msgid ""
 "refers to the company <strong>Weblate s.r.o.</strong>, ID No. 21668027, with "
 "registered office at Nábřežní 694, Cvikov II, 471 54 Cvikov, registered in "
@@ -1073,21 +1076,21 @@ msgstr ""
 "dalam Daftar Komersial yang dikelola oleh Pengadilan Daerah di Ústí nad "
 "Labem, berkas no. C 52324, yang dengannya Perjanjian tersebut disepakati;"
 
-#: wllegal/templates/legal/documents/tos.html:129
+#: wllegal/templates/legal/documents/tos.html:128
 msgid "Service"
 msgstr "Layanan"
 
-#: wllegal/templates/legal/documents/tos.html:132
+#: wllegal/templates/legal/documents/tos.html:131
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
 msgstr ""
 "berarti situs web dan layanan berbasis Weblate yang disediakan oleh Penyedia;"
 
-#: wllegal/templates/legal/documents/tos.html:136
+#: wllegal/templates/legal/documents/tos.html:135
 msgid "Self-hosting"
 msgstr "Hosting mandiri"
 
-#: wllegal/templates/legal/documents/tos.html:139
+#: wllegal/templates/legal/documents/tos.html:138
 msgid ""
 "means a form of collaboration where the User is the sole user of the "
 "Service, and this Service is operated directly on the User Server;"
@@ -1095,11 +1098,11 @@ msgstr ""
 "berarti suatu bentuk kolaborasi di mana Pengguna adalah satu-satunya "
 "pengguna Layanan, dan Layanan ini dioperasikan langsung pada Server Pengguna;"
 
-#: wllegal/templates/legal/documents/tos.html:143
+#: wllegal/templates/legal/documents/tos.html:142
 msgid "Support Services"
 msgstr "Layanan Dukungan"
 
-#: wllegal/templates/legal/documents/tos.html:146
+#: wllegal/templates/legal/documents/tos.html:145
 msgid ""
 "means the support provided by the Provider to the User within the Service. "
 "Support Services are governed separately by a separate support service "
@@ -1109,19 +1112,19 @@ msgstr ""
 "Layanan Dukungan diatur secara terpisah oleh perjanjian layanan dukungan "
 "yang terpisah;"
 
-#: wllegal/templates/legal/documents/tos.html:150
+#: wllegal/templates/legal/documents/tos.html:149
 msgid "Translation Memory"
 msgstr "Memori Terjemahan"
 
-#: wllegal/templates/legal/documents/tos.html:153
+#: wllegal/templates/legal/documents/tos.html:152
 msgid "means an optional translation memory service provided on Weblate;"
 msgstr "berarti layanan memori terjemahan opsional yang disediakan di Weblate;"
 
-#: wllegal/templates/legal/documents/tos.html:157
+#: wllegal/templates/legal/documents/tos.html:156
 msgid "User"
 msgstr "Pengguna"
 
-#: wllegal/templates/legal/documents/tos.html:160
+#: wllegal/templates/legal/documents/tos.html:159
 msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
@@ -1129,11 +1132,11 @@ msgstr ""
 "berarti setiap badan hukum atau orang perseorangan selain Penyedia yang "
 "memanfaatkan Layanan;"
 
-#: wllegal/templates/legal/documents/tos.html:164
+#: wllegal/templates/legal/documents/tos.html:163
 msgid "User Account"
 msgstr "Akun Pengguna"
 
-#: wllegal/templates/legal/documents/tos.html:167
+#: wllegal/templates/legal/documents/tos.html:166
 msgid ""
 "means a user account with a unique access code and password in the Hosted "
 "Weblate web interface. Each User Account can be used by only one User;"
@@ -1142,11 +1145,11 @@ msgstr ""
 "Hosted Weblate. Setiap Akun Pengguna hanya dapat digunakan oleh satu "
 "Pengguna;"
 
-#: wllegal/templates/legal/documents/tos.html:171
+#: wllegal/templates/legal/documents/tos.html:170
 msgid "User Server"
 msgstr "Server Pengguna"
 
-#: wllegal/templates/legal/documents/tos.html:174
+#: wllegal/templates/legal/documents/tos.html:173
 msgid ""
 "refers to the server and other hardware equipment not owned, managed, or "
 "controlled by the Provider;"
@@ -1154,26 +1157,26 @@ msgstr ""
 "mengacu pada server dan peralatan perangkat keras lainnya yang tidak "
 "dimiliki, dikelola, atau dikendalikan oleh Penyedia;"
 
-#: wllegal/templates/legal/documents/tos.html:180
+#: wllegal/templates/legal/documents/tos.html:179
 msgid "Methods of Acceptance"
 msgstr "Metode Penerimaan"
 
-#: wllegal/templates/legal/documents/tos.html:184
+#: wllegal/templates/legal/documents/tos.html:183
 msgid "The License is granted to the User based on the concluded Agreement."
 msgstr ""
 "Lisensi diberikan kepada Pengguna berdasarkan Perjanjian yang disepakati."
 
-#: wllegal/templates/legal/documents/tos.html:188
+#: wllegal/templates/legal/documents/tos.html:187
 msgid "These GTC are an integral part of the Agreement."
 msgstr ""
 "Syarat dan Ketentuan ini merupakan bagian yang tidak terpisahkan dari "
 "Perjanjian."
 
-#: wllegal/templates/legal/documents/tos.html:192
+#: wllegal/templates/legal/documents/tos.html:191
 msgid "The Agreement is concluded:"
 msgstr "Kesepakatan ini disepakati pada:"
 
-#: wllegal/templates/legal/documents/tos.html:197
+#: wllegal/templates/legal/documents/tos.html:196
 msgid ""
 "on the day of signing by both parties (especially for all Services offered "
 "with custom settings);"
@@ -1181,7 +1184,7 @@ msgstr ""
 "pada hari penandatanganan oleh kedua belah pihak (khususnya untuk semua "
 "Layanan yang ditawarkan dengan pengaturan khusus);"
 
-#: wllegal/templates/legal/documents/tos.html:200
+#: wllegal/templates/legal/documents/tos.html:199
 msgid ""
 "online through acceptance (confirmation) via the web interface in accordance "
 "with the Price List, with the Agreement becoming effective once the Price "
@@ -1193,14 +1196,15 @@ msgstr ""
 "daring melalui penerimaan (konfirmasi) melalui antarmuka web sesuai dengan "
 "Daftar Harga, dengan Perjanjian mulai berlaku setelah Harga Lisensi telah "
 "dibayarkan sebagaimana mestinya (dalam hal transfer bank, setelah jumlah "
-"yang sesuai dengan Harga Lisensi telah dikreditkan ke rekening bank Penyedia)"
-" untuk jumlah yang dinyatakan dalam periode penagihan pertama oleh Pengguna."
+"yang sesuai dengan Harga Lisensi telah dikreditkan ke rekening bank "
+"Penyedia) untuk jumlah yang dinyatakan dalam periode penagihan pertama oleh "
+"Pengguna."
 
-#: wllegal/templates/legal/documents/tos.html:208
+#: wllegal/templates/legal/documents/tos.html:207
 msgid "Service Provision"
 msgstr "Penyediaan Layanan"
 
-#: wllegal/templates/legal/documents/tos.html:212
+#: wllegal/templates/legal/documents/tos.html:211
 msgid ""
 "The Provider operates the Service at the internet address specified in the "
 "Product specification and its subdomains or on the User's Servers in "
@@ -1211,7 +1215,7 @@ msgstr ""
 "spesifikasi Produk dan subdomainnya atau di Server Pengguna sesuai dengan "
 "Perjanjian dan spesifikasi teknis yang diuraikan dalam spesifikasi Produk."
 
-#: wllegal/templates/legal/documents/tos.html:216
+#: wllegal/templates/legal/documents/tos.html:215
 msgid ""
 "If the Agreement is concluded under Article 2.3(a), the scope of Services is "
 "defined in the Product specification, which is attached to the Agreement. "
@@ -1226,7 +1230,7 @@ msgstr ""
 "dan metode aktivasinya. Spesifikasi Produk yang ditetapkan dengan cara ini "
 "diutamakan daripada bentuk Layanan yang ditawarkan menurut Daftar Harga."
 
-#: wllegal/templates/legal/documents/tos.html:220
+#: wllegal/templates/legal/documents/tos.html:219
 msgid ""
 "The Service is provided in three forms of cooperation: Hosted Weblate, "
 "Dedicated Weblate, and Self-hosting."
@@ -1234,7 +1238,7 @@ msgstr ""
 "Layanan disediakan dalam tiga bentuk kerjasama: Hosted Weblate, Dedicated "
 "Weblate, dan Self-hosting."
 
-#: wllegal/templates/legal/documents/tos.html:224
+#: wllegal/templates/legal/documents/tos.html:223
 msgid ""
 "In accordance with GPLv3, certain aspects of the Service may be provided "
 "either with the assistance of third parties other than the Provider or "
@@ -1253,11 +1257,11 @@ msgstr ""
 "selama penyediaan Layanan. Pihak ketiga ini dapat memproses Data Pribadi "
 "dalam aktivitas mereka sesuai dengan Perjanjian dan GPLv3."
 
-#: wllegal/templates/legal/documents/tos.html:228
+#: wllegal/templates/legal/documents/tos.html:227
 msgid "Service Duration"
 msgstr "Durasi Layanan"
 
-#: wllegal/templates/legal/documents/tos.html:232
+#: wllegal/templates/legal/documents/tos.html:231
 msgid ""
 "Unless otherwise expressly agreed in the Agreement, the Agreement is "
 "concluded for a period corresponding to a subscription model. The "
@@ -1269,7 +1273,7 @@ msgstr ""
 "dapat dibayar bulanan atau tahunan sesuai dengan Pasal 5 Syarat dan "
 "Ketentuan."
 
-#: wllegal/templates/legal/documents/tos.html:240
+#: wllegal/templates/legal/documents/tos.html:239
 msgid ""
 "The price for the Service is determined according to the offer or the Price "
 "List. The User acknowledges and agrees that the Price List may be "
@@ -1287,7 +1291,7 @@ msgstr ""
 "Harga. Harga Layanan terdiri dari item-item terpisah berikut atau "
 "kombinasinya, yang dibayarkan secara berkala setiap bulan/tahunan:"
 
-#: wllegal/templates/legal/documents/tos.html:244
+#: wllegal/templates/legal/documents/tos.html:243
 msgid ""
 "regular price for access to Services, which is also always set for the "
 "relevant time period and based on the specific conditions of the Service, "
@@ -1299,7 +1303,7 @@ msgstr ""
 "dibayar secara bulanan atau tahunan, dengan harga ini bervariasi untuk "
 "berbagai bentuk kolaborasi sesuai dengan Daftar Harga;"
 
-#: wllegal/templates/legal/documents/tos.html:247
+#: wllegal/templates/legal/documents/tos.html:246
 msgid ""
 "regular price for the number of Hosted Strings; this amount is chosen by the "
 "User from the options offered in the Price List or in agreement with the "
@@ -1309,19 +1313,19 @@ msgstr ""
 "Pengguna dari opsi yang ditawarkan dalam Daftar Harga atau sesuai "
 "kesepakatan dengan Penyedia;"
 
-#: wllegal/templates/legal/documents/tos.html:250
+#: wllegal/templates/legal/documents/tos.html:249
 msgid "regular price for Translation Memory;"
 msgstr "harga reguler untuk Memori Terjemahan;"
 
-#: wllegal/templates/legal/documents/tos.html:255
+#: wllegal/templates/legal/documents/tos.html:254
 msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
 msgstr ""
-"(poin a), b), dan c) secara kolektif disebut sebagai "
-"\"<strong>Langganan</strong>\")."
+"(poin a), b), dan c) secara kolektif disebut sebagai \"<strong>Langganan</"
+"strong>\")."
 
-#: wllegal/templates/legal/documents/tos.html:259
+#: wllegal/templates/legal/documents/tos.html:258
 msgid ""
 "To avoid doubt, the Subscription may guarantee either only access to a "
 "specific Product or License and/or a specific package of guaranteed Services."
@@ -1329,7 +1333,7 @@ msgstr ""
 "Untuk menghindari keraguan, Langganan dapat menjamin hanya akses ke Produk "
 "atau Lisensi tertentu dan/atau paket Layanan tertentu yang dijamin."
 
-#: wllegal/templates/legal/documents/tos.html:263
+#: wllegal/templates/legal/documents/tos.html:262
 msgid ""
 "The User is obliged to pay the Price based on the received tax documents "
 "(invoices) issued by the Provider. The Price is paid in advance, and the "
@@ -1341,7 +1345,7 @@ msgstr ""
 "diterbitkan dan dikirimkan kepada Pengguna dalam waktu 5 hari kerja setelah "
 "akhir setiap periode yang relevan."
 
-#: wllegal/templates/legal/documents/tos.html:267
+#: wllegal/templates/legal/documents/tos.html:266
 #, python-format
 msgid ""
 "Payment of the Price may be made by credit card, bank transfer, or "
@@ -1356,7 +1360,7 @@ msgstr ""
 "akan diminta untuk membayar PPN tambahan sebesar 21%%. Biaya balik berlaku "
 "untuk faktur yang diterbitkan untuk bisnis di dalam Uni Eropa."
 
-#: wllegal/templates/legal/documents/tos.html:271
+#: wllegal/templates/legal/documents/tos.html:270
 msgid ""
 "If the User wishes to avoid being charged for the Service in the "
 "Subscription mode, they must cancel the Subscription at least three days "
@@ -1370,7 +1374,7 @@ msgstr ""
 "memverifikasi dengan penerbit kartu prabayar atau bank apakah penagihan "
 "berulang memungkinkan."
 
-#: wllegal/templates/legal/documents/tos.html:275
+#: wllegal/templates/legal/documents/tos.html:274
 msgid ""
 "The User can change their Subscription mode online by logging into their "
 "User Account and making the change or cancelling the Subscription there. If "
@@ -1384,7 +1388,7 @@ msgstr ""
 "sebelum tanggal pembaruan sesuai dengan poin 5.5 di atas, Langganan mereka "
 "akan berhenti pada akhir siklus penagihan saat ini."
 
-#: wllegal/templates/legal/documents/tos.html:279
+#: wllegal/templates/legal/documents/tos.html:278
 msgid ""
 "The Provider does not refund ANY money for Services, Support Services, and/"
 "or any other services provided under the Agreement and these GTC if they "
@@ -1407,7 +1411,7 @@ msgstr ""
 "di muka untuk jangka waktu yang melebihi periode penggunaan sebenarnya, "
 "ketentuan pengembalian uang tersebut akan disetujui secara individual."
 
-#: wllegal/templates/legal/documents/tos.html:283
+#: wllegal/templates/legal/documents/tos.html:282
 msgid ""
 "Prices and Subscription conditions may change unilaterally by the Operator "
 "at any time. The price and conditions valid at the time of the first "
@@ -1427,11 +1431,11 @@ msgstr ""
 "jangka waktu yang wajar sebelum Harga atau ketentuan baru mulai berlaku. "
 "Berdasarkan ketentuan ini, Pengguna berhak untuk membatalkan Berlangganan."
 
-#: wllegal/templates/legal/documents/tos.html:287
+#: wllegal/templates/legal/documents/tos.html:286
 msgid "License Terms"
 msgstr "Persyaratan Lisensi"
 
-#: wllegal/templates/legal/documents/tos.html:291
+#: wllegal/templates/legal/documents/tos.html:290
 #, python-format
 msgid ""
 "The Provider's software and Weblate software extensions are distributed "
@@ -1442,13 +1446,13 @@ msgid ""
 "selected according to the Price List."
 msgstr ""
 "Perangkat lunak Penyedia dan ekstensi perangkat lunak Weblate "
-"didistribusikan di bawah lisensi GNU/GPLv3 (lihat <a href=\"%(url)s\""
-">%(url)s</a>). Pengguna diberikan lisensi non-eksklusif untuk setiap elemen "
-"Layanan berdasarkan ketentuan GTC dalam versi terbaru yang diperbarui pada "
-"saat Lisensi diberikan. Lisensi diberikan sesuai dengan opsi yang dipilih "
-"menurut Daftar Harga."
+"didistribusikan di bawah lisensi GNU/GPLv3 (lihat <a "
+"href=\"%(url)s\">%(url)s</a>). Pengguna diberikan lisensi non-eksklusif "
+"untuk setiap elemen Layanan berdasarkan ketentuan GTC dalam versi terbaru "
+"yang diperbarui pada saat Lisensi diberikan. Lisensi diberikan sesuai dengan "
+"opsi yang dipilih menurut Daftar Harga."
 
-#: wllegal/templates/legal/documents/tos.html:296
+#: wllegal/templates/legal/documents/tos.html:295
 #, python-format
 msgid ""
 "Unless otherwise stated in the Agreement, the license terms of this "
@@ -1464,10 +1468,10 @@ msgstr ""
 "juga dapat dilisensikan berdasarkan lisensi lain. Daftar lengkap lisensi "
 "yang digunakan dalam Perangkat Lunak dan ekstensi perangkat lunak Penyedia "
 "dapat ditemukan dalam kode sumbernya, yang sesuai dengan spesifikasi REUSE "
-"3.0 menurut informasi yang diberikan di situs web Penyedia (lihat <a href="
-"\"%(url)s\">%(url)s</a>)."
+"3.0 menurut informasi yang diberikan di situs web Penyedia (lihat <a "
+"href=\"%(url)s\">%(url)s</a>)."
 
-#: wllegal/templates/legal/documents/tos.html:300
+#: wllegal/templates/legal/documents/tos.html:299
 msgid ""
 "The User acknowledges that all copyright and other intellectual property "
 "rights to the Service belong to the Provider and/or third parties whose "
@@ -1485,7 +1489,7 @@ msgstr ""
 "mendistribusikan Layanan, meskipun Pengguna tidak merilis Layanan secara "
 "publik."
 
-#: wllegal/templates/legal/documents/tos.html:304
+#: wllegal/templates/legal/documents/tos.html:303
 msgid ""
 "For the purpose of exclusive modifications of the Service solely for the "
 "benefit of the User or the creation of means to run these Services, the User "
@@ -1499,7 +1503,7 @@ msgstr ""
 "atau versi lisensi GPL selanjutnya), mereka menerbitkan semua materi yang "
 "hak ciptanya tidak mereka miliki."
 
-#: wllegal/templates/legal/documents/tos.html:308
+#: wllegal/templates/legal/documents/tos.html:307
 msgid ""
 "The License includes updates and/or modifications to the Services made by "
 "the Provider in the future, provided that the Services are supplied based on "
@@ -1515,7 +1519,7 @@ msgstr ""
 "modifikasi ini dirilis. Pengguna mengakui bahwa tidak semua paket Langganan "
 "Self-hosting mencakup pembaruan dan/atau modifikasi Layanan."
 
-#: wllegal/templates/legal/documents/tos.html:312
+#: wllegal/templates/legal/documents/tos.html:311
 msgid ""
 "The User is entitled to use the source code and handle elements protected by "
 "copyright within the limits of GPLv3 (and/or later versions of the GPL "
@@ -1537,11 +1541,11 @@ msgstr ""
 "adanya jaminan tetap utuh, dan Pengguna memberikan semua penerima salinan "
 "kode sumber tersebut dengan salinan lisensi beserta programnya."
 
-#: wllegal/templates/legal/documents/tos.html:316
+#: wllegal/templates/legal/documents/tos.html:315
 msgid "Payment Terms"
 msgstr "Syarat Pembayaran"
 
-#: wllegal/templates/legal/documents/tos.html:320
+#: wllegal/templates/legal/documents/tos.html:319
 msgid ""
 "Invoices will be issued electronically. The User agrees to the electronic "
 "issuance of invoices and to receiving them via electronic means. Invoices "
@@ -1551,7 +1555,7 @@ msgstr ""
 "faktur secara elektronik dan menerimanya melalui sarana elektronik. Faktur "
 "akan diterbitkan dengan tanggal jatuh tempo 14 hari kalender."
 
-#: wllegal/templates/legal/documents/tos.html:324
+#: wllegal/templates/legal/documents/tos.html:323
 msgid ""
 "The billing period is defined as a recurring period (calendar month/year). "
 "Payment is automatically charged through the selected payment method, and "
@@ -1568,7 +1572,7 @@ msgstr ""
 "menerbitkan faktur, dan Pengguna berkewajiban untuk membayar faktur tersebut "
 "dalam tenggat waktu yang sama."
 
-#: wllegal/templates/legal/documents/tos.html:328
+#: wllegal/templates/legal/documents/tos.html:327
 msgid ""
 "In the event of a delay by the User in any payment, the Provider is also "
 "entitled to suspend or limit the provision of the Service until the full "
@@ -1587,7 +1591,7 @@ msgstr ""
 "untuk mengakhiri Perjanjian dengan alasan yang disebutkan dalam Pasal 11 di "
 "bawah ini."
 
-#: wllegal/templates/legal/documents/tos.html:332
+#: wllegal/templates/legal/documents/tos.html:331
 msgid ""
 "By agreeing to the GTC at the time of purchase, the User subscribes to the "
 "future automatic renewal of the Subscription. The Subscription will be "
@@ -1609,7 +1613,7 @@ msgstr ""
 "Langganan bersifat berkelanjutan dan diperpanjang secara otomatis hingga "
 "dibatalkan, atau Akun Pengguna dihentikan."
 
-#: wllegal/templates/legal/documents/tos.html:336
+#: wllegal/templates/legal/documents/tos.html:335
 msgid ""
 "The User acknowledges that in the case of Subscription payment via a payment "
 "gateway, this gateway is provided by <strong>ThePay, a.s.</strong>, with its "
@@ -1626,7 +1630,7 @@ msgstr ""
 "di Brno, Bagian B, Sisipan 8977 (\"<strong>ThePay</strong>\"). Ketentuan "
 "pembayaran Biaya diatur oleh ketentuan kontraktual ThePay yang relevan."
 
-#: wllegal/templates/legal/documents/tos.html:340
+#: wllegal/templates/legal/documents/tos.html:339
 msgid ""
 "Payment card information entered into the payment gateway is not processed "
 "by the Provider, and the Provider is not responsible for the functionality "
@@ -1636,11 +1640,11 @@ msgstr ""
 "diproses oleh Penyedia, dan Penyedia tidak bertanggung jawab atas "
 "fungsionalitas gateway pembayaran ThePay."
 
-#: wllegal/templates/legal/documents/tos.html:344
+#: wllegal/templates/legal/documents/tos.html:343
 msgid "Provider's Rights and Obligations"
 msgstr "Hak dan Kewajiban Penyedia"
 
-#: wllegal/templates/legal/documents/tos.html:348
+#: wllegal/templates/legal/documents/tos.html:347
 msgid ""
 "The Provider is entitled to make any changes to the Service or its scope. In "
 "such a case, the Provider will inform the User through the web interface "
@@ -1688,7 +1692,7 @@ msgstr ""
 "implisit melalui kegagalan untuk menolak) atau mengakhiri Perjanjian dalam "
 "jangka waktu di atas."
 
-#: wllegal/templates/legal/documents/tos.html:352
+#: wllegal/templates/legal/documents/tos.html:351
 msgid ""
 "The Provider undertakes to take all steps within its technical capabilities "
 "to ensure the functionality and availability of the Service. The User "
@@ -1698,7 +1702,7 @@ msgstr ""
 "guna memastikan fungsionalitas dan ketersediaan Layanan. Pengguna mengakui "
 "dan setuju bahwa mereka menggunakan Layanan atas risiko mereka sendiri."
 
-#: wllegal/templates/legal/documents/tos.html:356
+#: wllegal/templates/legal/documents/tos.html:355
 msgid ""
 "The basic system requirements for the proper operation of the Service "
 "include the server environment and defined technical status in the latest "
@@ -1710,7 +1714,7 @@ msgstr ""
 "Penyedia berjanji untuk memenuhi persyaratan ini dan memastikan "
 "pengoperasian Layanan yang tepat melalui tindakannya sendiri."
 
-#: wllegal/templates/legal/documents/tos.html:360
+#: wllegal/templates/legal/documents/tos.html:359
 msgid ""
 "If the User identifies any issue related to the Service's speed, "
 "functionality, or availability, they are obligated to report it to the "
@@ -1730,7 +1734,7 @@ msgstr ""
 "ketersediaan Layanan. Penyedia Layanan tidak bertanggung jawab atas segala "
 "kerusakan yang dialami Pengguna sehubungan dengan kejadian ini."
 
-#: wllegal/templates/legal/documents/tos.html:364
+#: wllegal/templates/legal/documents/tos.html:363
 msgid ""
 "The User acknowledges and agrees that the Provider may temporarily suspend "
 "the provision of the Service for serious reasons, particularly in cases such "
@@ -1753,7 +1757,7 @@ msgstr ""
 "direncanakan, Penyedia berkewajiban untuk memberi tahu Pengguna terlebih "
 "dahulu dalam waktu yang wajar."
 
-#: wllegal/templates/legal/documents/tos.html:368
+#: wllegal/templates/legal/documents/tos.html:367
 msgid ""
 "The Provider agrees not to provide the content of the User's data to third "
 "parties."
@@ -1761,7 +1765,7 @@ msgstr ""
 "Penyedia setuju untuk tidak memberikan konten data Pengguna kepada pihak "
 "ketiga."
 
-#: wllegal/templates/legal/documents/tos.html:372
+#: wllegal/templates/legal/documents/tos.html:371
 msgid ""
 "The contractual parties agree that the Provider does not acquire ownership "
 "of the User's data. The User is solely responsible for the content of the "
@@ -1771,7 +1775,7 @@ msgstr ""
 "kepemilikan atas data Pengguna. Pengguna bertanggung jawab penuh atas konten "
 "data yang disimpan di Server mereka atau server Penyedia."
 
-#: wllegal/templates/legal/documents/tos.html:376
+#: wllegal/templates/legal/documents/tos.html:375
 msgid ""
 "By accepting these Terms, the User acknowledges and agrees that the Provider "
 "is entitled to monitor, using its own resources, whether the User is using "
@@ -1783,11 +1787,11 @@ msgstr ""
 "apakah Pengguna menggunakan Layanan sesuai dengan Perjanjian. Pengguna "
 "berjanji untuk bekerja sama sepenuhnya dengan Penyedia dalam kasus tersebut."
 
-#: wllegal/templates/legal/documents/tos.html:381
+#: wllegal/templates/legal/documents/tos.html:380
 msgid "User’s Rights and Obligations"
 msgstr "Hak dan Kewajiban Pengguna"
 
-#: wllegal/templates/legal/documents/tos.html:385
+#: wllegal/templates/legal/documents/tos.html:384
 msgid ""
 "The User must not use the Service in violation of applicable legal "
 "regulations. The User is also fully responsible for ensuring that any "
@@ -1799,7 +1803,7 @@ msgstr ""
 "memastikan bahwa setiap modifikasi Layanan yang dilakukan olehnya mematuhi "
 "peraturan perundang-undangan yang berlaku."
 
-#: wllegal/templates/legal/documents/tos.html:389
+#: wllegal/templates/legal/documents/tos.html:388
 msgid ""
 "To gain access to the Service, the Provider may require certain "
 "identification details and other information from the User, always only to "
@@ -1824,7 +1828,7 @@ msgstr ""
 "cakupan informasi pribadi yang diwajibkan, tetapi menekankan kebenaran, "
 "keakuratan, dan keberlakuan informasi yang diberikan oleh Pengguna."
 
-#: wllegal/templates/legal/documents/tos.html:393
+#: wllegal/templates/legal/documents/tos.html:392
 msgid ""
 "The User is obligated, upon the Provider's request, to provide the necessary "
 "cooperation in resolving malfunctions or making adjustments to the Service, "
@@ -1838,7 +1842,7 @@ msgstr ""
 "Layanan dalam kasus di mana Penyedia melakukan penghentian sistem karena "
 "alasan yang disebutkan dalam Bagian 8.5."
 
-#: wllegal/templates/legal/documents/tos.html:397
+#: wllegal/templates/legal/documents/tos.html:396
 msgid ""
 "The Provider is entitled to implement security measures to protect the "
 "Service in accordance with this Agreement, and the User is required to "
@@ -1848,7 +1852,7 @@ msgstr ""
 "sesuai dengan Perjanjian ini, dan Pengguna diharuskan untuk mematuhi dan "
 "menghormati langkah-langkah ini."
 
-#: wllegal/templates/legal/documents/tos.html:401
+#: wllegal/templates/legal/documents/tos.html:400
 msgid ""
 "The User is obligated to use the Service in accordance with the licensing "
 "terms specified in Section 6 of this Agreement, ensuring that they do not "
@@ -1858,7 +1862,7 @@ msgstr ""
 "lisensi yang ditentukan dalam Bagian 6 Perjanjian ini, memastikan bahwa "
 "ketentuan tersebut tidak membahayakan fungsionalitas Layanan."
 
-#: wllegal/templates/legal/documents/tos.html:405
+#: wllegal/templates/legal/documents/tos.html:404
 msgid ""
 "According to the Service variant listed in the Price List, the User has the "
 "right to request Support Services from the Provider, as specified in the "
@@ -1868,7 +1872,7 @@ msgstr ""
 "memiliki hak untuk meminta Layanan Dukungan dari Penyedia, sebagaimana "
 "ditentukan dalam Daftar Harga."
 
-#: wllegal/templates/legal/documents/tos.html:409
+#: wllegal/templates/legal/documents/tos.html:408
 msgid ""
 "The User is required to keep access credentials to the Service confidential "
 "and must not engage in any actions that could compromise the security of the "
@@ -1882,7 +1886,7 @@ msgstr ""
 "teknis mereka pada tingkat yang wajar untuk meminimalkan risiko pihak ketiga "
 "menyalahgunakan kredensial akses ke akun Pengguna."
 
-#: wllegal/templates/legal/documents/tos.html:413
+#: wllegal/templates/legal/documents/tos.html:412
 msgid ""
 "If the User breaches any of the obligations specified in this Section, the "
 "Provider bears no responsibility for any damages incurred by the User, and "
@@ -1901,11 +1905,11 @@ msgstr ""
 "karena kebocoran informasi akses, mereka diharuskan untuk melaporkan hal ini "
 "kepada Penyedia."
 
-#: wllegal/templates/legal/documents/tos.html:417
+#: wllegal/templates/legal/documents/tos.html:416
 msgid "Prohibited Conduct"
 msgstr "Perilaku Terlarang"
 
-#: wllegal/templates/legal/documents/tos.html:421
+#: wllegal/templates/legal/documents/tos.html:420
 msgid ""
 "The User is prohibited from uploading, sending, or otherwise storing any "
 "content on the Service portal that may contain software viruses or other "
@@ -1927,7 +1931,7 @@ msgstr ""
 "atau server Penyedia. Pelanggaran terhadap kewajiban ini merupakan "
 "pelanggaran material terhadap Perjanjian."
 
-#: wllegal/templates/legal/documents/tos.html:425
+#: wllegal/templates/legal/documents/tos.html:424
 msgid ""
 "The User particularly agrees to refrain from the following activities while "
 "using the Services, especially through the Services:"
@@ -1935,7 +1939,7 @@ msgstr ""
 "Pengguna secara khusus setuju untuk tidak melakukan aktivitas berikut saat "
 "menggunakan Layanan, khususnya melalui Layanan:"
 
-#: wllegal/templates/legal/documents/tos.html:429
+#: wllegal/templates/legal/documents/tos.html:428
 msgid ""
 "Disseminating or offering any content that violates applicable laws at the "
 "national, EU, or international level;"
@@ -1943,7 +1947,7 @@ msgstr ""
 "Menyebarluaskan atau menawarkan konten apa pun yang melanggar hukum yang "
 "berlaku di tingkat nasional, UE, atau internasional;"
 
-#: wllegal/templates/legal/documents/tos.html:433
+#: wllegal/templates/legal/documents/tos.html:432
 msgid ""
 "Disseminating or offering any illegally obtained content or content whose "
 "dissemination would be illegal;"
@@ -1951,7 +1955,7 @@ msgstr ""
 "Menyebarluaskan atau menawarkan konten yang diperoleh secara ilegal atau "
 "konten yang penyebarannya akan melanggar hukum;"
 
-#: wllegal/templates/legal/documents/tos.html:437
+#: wllegal/templates/legal/documents/tos.html:436
 msgid ""
 "Disseminating or offering any pornographic, obscene, or otherwise vulgar "
 "content;"
@@ -1959,7 +1963,7 @@ msgstr ""
 "Menyebarluaskan atau menawarkan konten pornografi, cabul, atau vulgar "
 "lainnya;"
 
-#: wllegal/templates/legal/documents/tos.html:441
+#: wllegal/templates/legal/documents/tos.html:440
 msgid ""
 "Engaging in any services or activities that are contrary to applicable laws "
 "at the national, EU, or international level;"
@@ -1967,7 +1971,7 @@ msgstr ""
 "Terlibat dalam layanan atau aktivitas apa pun yang bertentangan dengan hukum "
 "yang berlaku di tingkat nasional, UE, atau internasional;"
 
-#: wllegal/templates/legal/documents/tos.html:445
+#: wllegal/templates/legal/documents/tos.html:444
 msgid ""
 "Engaging in activities that bypass intellectual property protection elements "
 "(such as cracks, warez, etc.);"
@@ -1975,7 +1979,7 @@ msgstr ""
 "Terlibat dalam aktivitas yang mengabaikan unsur perlindungan hak kekayaan "
 "intelektual (seperti crack, warez, dan lain-lain);"
 
-#: wllegal/templates/legal/documents/tos.html:449
+#: wllegal/templates/legal/documents/tos.html:448
 msgid ""
 "Sending unsolicited commercial messages and other spam or other illegal "
 "harassment of third parties;"
@@ -1983,7 +1987,7 @@ msgstr ""
 "Mengirim pesan komersial yang tidak diminta dan spam lainnya atau pelecehan "
 "ilegal lainnya terhadap pihak ketiga;"
 
-#: wllegal/templates/legal/documents/tos.html:453
+#: wllegal/templates/legal/documents/tos.html:452
 msgid ""
 "Publishing or disseminating any content that may infringe the rights of "
 "third parties, including attacks on such persons, or any offensive, "
@@ -1995,7 +1999,7 @@ msgstr ""
 "yang menyinggung, tidak sopan, atau tidak pantas lainnya yang secara melawan "
 "hukum atau ilegal melanggar hak pribadi pihak ketiga;"
 
-#: wllegal/templates/legal/documents/tos.html:457
+#: wllegal/templates/legal/documents/tos.html:456
 msgid ""
 "Disseminating or offering any content that infringes on third-party "
 "intellectual or industrial property rights;"
@@ -2003,7 +2007,7 @@ msgstr ""
 "Menyebarluaskan atau menawarkan konten apa pun yang melanggar hak kekayaan "
 "intelektual atau industri pihak ketiga;"
 
-#: wllegal/templates/legal/documents/tos.html:461
+#: wllegal/templates/legal/documents/tos.html:460
 msgid ""
 "Operating or disseminating any tools that may be misused to breach network, "
 "device, or service security;"
@@ -2011,11 +2015,11 @@ msgstr ""
 "Mengoperasikan atau menyebarluaskan alat apa pun yang dapat disalahgunakan "
 "untuk melanggar keamanan jaringan, perangkat, atau layanan;"
 
-#: wllegal/templates/legal/documents/tos.html:465
+#: wllegal/templates/legal/documents/tos.html:464
 msgid "Overburdening the Provider's or third-party servers;"
 msgstr "Membebani server Penyedia atau pihak ketiga;"
 
-#: wllegal/templates/legal/documents/tos.html:469
+#: wllegal/templates/legal/documents/tos.html:468
 msgid ""
 "Engaging in any activities that could harm the Provider, its reputation, or "
 "its assets;"
@@ -2023,7 +2027,7 @@ msgstr ""
 "Terlibat dalam aktivitas apa pun yang dapat merugikan Penyedia, reputasinya, "
 "atau asetnya;"
 
-#: wllegal/templates/legal/documents/tos.html:473
+#: wllegal/templates/legal/documents/tos.html:472
 msgid ""
 "Using any means, servers, devices, or elements provided by the Provider in a "
 "manner not expressly agreed upon in these Terms or the Agreement;"
@@ -2032,22 +2036,22 @@ msgstr ""
 "oleh Penyedia dengan cara yang tidak secara tegas disetujui dalam "
 "Persyaratan ini atau Perjanjian;"
 
-#: wllegal/templates/legal/documents/tos.html:477
+#: wllegal/templates/legal/documents/tos.html:476
 msgid ""
 "Conducting activities that would disclose any content to third parties that:"
 msgstr ""
 "Melakukan aktivitas yang akan mengungkapkan konten apa pun kepada pihak "
 "ketiga yang:"
 
-#: wllegal/templates/legal/documents/tos.html:481
+#: wllegal/templates/legal/documents/tos.html:480
 msgid "Contains prohibited applications and scripts;"
 msgstr "Berisi aplikasi dan skrip terlarang;"
 
-#: wllegal/templates/legal/documents/tos.html:485
+#: wllegal/templates/legal/documents/tos.html:484
 msgid "Overloads database systems or causes malfunction of servers;"
 msgstr "Membebani sistem basis data atau menyebabkan kegagalan fungsi server;"
 
-#: wllegal/templates/legal/documents/tos.html:489
+#: wllegal/templates/legal/documents/tos.html:488
 msgid ""
 "Overburdens the infrastructure, connection lines, or hardware of the "
 "Provider or third parties;"
@@ -2055,7 +2059,7 @@ msgstr ""
 "Membebani infrastruktur, jalur koneksi, atau perangkat keras Penyedia atau "
 "pihak ketiga;"
 
-#: wllegal/templates/legal/documents/tos.html:493
+#: wllegal/templates/legal/documents/tos.html:492
 msgid ""
 "Involves music, sound, image, film, or similar files for which the User "
 "lacks distribution rights;"
@@ -2063,7 +2067,7 @@ msgstr ""
 "Melibatkan musik, suara, gambar, film, atau berkas sejenisnya yang mana "
 "Pengguna tidak memiliki hak distribusi;"
 
-#: wllegal/templates/legal/documents/tos.html:497
+#: wllegal/templates/legal/documents/tos.html:496
 msgid ""
 "Threatens the privacy or security of other Internet users or the security of "
 "computer systems (e.g., through viruses, password generators, etc.);"
@@ -2071,7 +2075,7 @@ msgstr ""
 "Mengancam privasi atau keamanan pengguna Internet lain atau keamanan sistem "
 "komputer (misalnya, melalui virus, generator kata sandi, dll.);"
 
-#: wllegal/templates/legal/documents/tos.html:501
+#: wllegal/templates/legal/documents/tos.html:500
 msgid ""
 "Is part of the provided Service without written permission from the Provider "
 "to share it with third parties;"
@@ -2079,18 +2083,18 @@ msgstr ""
 "Merupakan bagian dari Layanan yang disediakan tanpa izin tertulis dari "
 "Penyedia untuk membagikannya dengan pihak ketiga;"
 
-#: wllegal/templates/legal/documents/tos.html:505
+#: wllegal/templates/legal/documents/tos.html:504
 msgid ""
 "Gives the impression that the User acts on behalf of the Provider without "
 "authorization;"
 msgstr ""
 "Memberikan kesan bahwa Pengguna bertindak atas nama Penyedia tanpa izin;"
 
-#: wllegal/templates/legal/documents/tos.html:509
+#: wllegal/templates/legal/documents/tos.html:508
 msgid "May harm any third-party rights."
 msgstr "Dapat merugikan hak pihak ketiga."
 
-#: wllegal/templates/legal/documents/tos.html:513
+#: wllegal/templates/legal/documents/tos.html:512
 msgid ""
 "The Provider may, without prior notice, interrupt, limit, or suspend the "
 "provision of Services if it reasonably believes the User is violating the "
@@ -2105,7 +2109,7 @@ msgstr ""
 "atau aturan penggunaan Internet, atau membantu atau melakukan kegiatan "
 "kriminal."
 
-#: wllegal/templates/legal/documents/tos.html:517
+#: wllegal/templates/legal/documents/tos.html:516
 msgid ""
 "The Provider may also, without prior notice, interrupt, limit, or suspend "
 "the provision of Services if the Services are being misused for unauthorized "
@@ -2120,7 +2124,7 @@ msgstr ""
 "lunak dan bot otomatis yang membebani server Penyedia atau fasilitas teknis "
 "lainnya."
 
-#: wllegal/templates/legal/documents/tos.html:521
+#: wllegal/templates/legal/documents/tos.html:520
 msgid ""
 "The User expressly agrees that in the event of a justified interruption, "
 "limitation, or suspension of Services by the Provider, the User is solely "
@@ -2132,7 +2136,7 @@ msgstr ""
 "penuh atas segala kerusakan yang terjadi akibat gangguan tersebut dan tidak "
 "dapat menuntut ganti rugi apa pun dari Penyedia atas kerusakan tersebut."
 
-#: wllegal/templates/legal/documents/tos.html:525
+#: wllegal/templates/legal/documents/tos.html:524
 msgid ""
 "To verify the software solution used or audit the licensing of assigned "
 "software resources and content uploaded through the Services, the User "
@@ -2147,7 +2151,7 @@ msgstr ""
 "pelaksanaan alat dan skrip pada server virtual yang memverifikasi dan "
 "memeriksa sumber daya perangkat lunak yang digunakan."
 
-#: wllegal/templates/legal/documents/tos.html:529
+#: wllegal/templates/legal/documents/tos.html:528
 msgid ""
 "The User expressly agrees to be responsible for any damage caused to the "
 "Provider, its clients, partners, or third parties. This responsibility "
@@ -2169,11 +2173,11 @@ msgstr ""
 "satu kali. Denda ini tidak memengaruhi hak Penyedia untuk menuntut ganti "
 "rugi selain denda."
 
-#: wllegal/templates/legal/documents/tos.html:534
+#: wllegal/templates/legal/documents/tos.html:533
 msgid "Termination of the Agreement"
 msgstr "Pemutusan Perjanjian"
 
-#: wllegal/templates/legal/documents/tos.html:538
+#: wllegal/templates/legal/documents/tos.html:537
 msgid ""
 "The contractual relationship may be terminated by withdrawal from the "
 "Agreement, expiration of the agreed term, dissolution of a legal entity "
@@ -2185,7 +2189,7 @@ msgstr ""
 "Penyedia atau Pengguna) dengan likuidasi, penghentian Perjanjian, atau "
 "dengan kesepakatan bersama Para Pihak."
 
-#: wllegal/templates/legal/documents/tos.html:542
+#: wllegal/templates/legal/documents/tos.html:541
 msgid ""
 "The Provider may terminate the Agreement at any time without providing a "
 "reason. The notice period is three months, starting from the first day of "
@@ -2195,7 +2199,7 @@ msgstr ""
 "Periode pemberitahuan adalah tiga bulan, dimulai dari hari pertama bulan "
 "kalender setelah pemberitahuan disampaikan kepada Pengguna."
 
-#: wllegal/templates/legal/documents/tos.html:546
+#: wllegal/templates/legal/documents/tos.html:545
 msgid ""
 "The User may terminate the Agreement under the conditions specified in "
 "Section 8.1 of these Terms."
@@ -2203,7 +2207,7 @@ msgstr ""
 "Pengguna dapat mengakhiri Perjanjian berdasarkan ketentuan yang ditentukan "
 "dalam Bagian 8.1 Persyaratan ini."
 
-#: wllegal/templates/legal/documents/tos.html:550
+#: wllegal/templates/legal/documents/tos.html:549
 msgid ""
 "If the User materially or repeatedly breaches their obligations under these "
 "Terms or the Agreement and fails to remedy the breach within 14 days from "
@@ -2218,7 +2222,7 @@ msgstr ""
 "berlaku efektif sehari setelah Pengguna menerima pemberitahuan penarikan "
 "tersebut."
 
-#: wllegal/templates/legal/documents/tos.html:554
+#: wllegal/templates/legal/documents/tos.html:553
 msgid ""
 "If the User breaches their obligations under these Terms or the Agreement in "
 "a particularly serious manner, the Provider is entitled to immediately "
@@ -2230,7 +2234,7 @@ msgstr ""
 "menarik diri dari Perjanjian ini dan menghentikan penyediaan Layanan segera "
 "setelah pelanggaran tersebut ditemukan."
 
-#: wllegal/templates/legal/documents/tos.html:558
+#: wllegal/templates/legal/documents/tos.html:557
 msgid ""
 "If the Provider breaches its obligations under these Terms or the Agreement "
 "in a particularly serious manner, the User is entitled to immediately "
@@ -2241,7 +2245,7 @@ msgstr ""
 "menarik diri dari Perjanjian ini segera setelah pelanggaran tersebut "
 "ditemukan."
 
-#: wllegal/templates/legal/documents/tos.html:562
+#: wllegal/templates/legal/documents/tos.html:561
 msgid ""
 "Neither Party may terminate or otherwise end the Agreement except in cases "
 "explicitly stated in this Section. The Parties exclude, to the maximum "
@@ -2256,11 +2260,11 @@ msgstr ""
 "1977, 1978, 1979, 2001, 2002, 2003, 2106, 2107, 2110, dan 2111 Kitab Undang-"
 "Undang Hukum Perdata Ceko."
 
-#: wllegal/templates/legal/documents/tos.html:566
+#: wllegal/templates/legal/documents/tos.html:565
 msgid "Limitation of Liability"
 msgstr "Batasan Tanggung Jawab"
 
-#: wllegal/templates/legal/documents/tos.html:570
+#: wllegal/templates/legal/documents/tos.html:569
 msgid ""
 "The Provider is not liable for indirect damages arising from the provision "
 "of the Services, such as lost profits, lost revenues, data loss, financial "
@@ -2277,11 +2281,11 @@ msgstr ""
 "tidak berwujud lainnya (bahkan jika Penyedia telah diberitahu tentang "
 "kemungkinan kerugian tersebut), yang diakibatkan oleh:"
 
-#: wllegal/templates/legal/documents/tos.html:575
+#: wllegal/templates/legal/documents/tos.html:574
 msgid "Use or inability to use the Service;"
 msgstr "Penggunaan atau ketidakmampuan menggunakan Layanan;"
 
-#: wllegal/templates/legal/documents/tos.html:578
+#: wllegal/templates/legal/documents/tos.html:577
 msgid ""
 "The cost of acquiring substitute goods and services arising from any goods, "
 "data, information, or services purchased or obtained or messages received, "
@@ -2291,7 +2295,7 @@ msgstr ""
 "data, informasi, atau jasa yang dibeli atau diperoleh atau pesan yang "
 "diterima, atau transaksi yang dilakukan melalui atau dari Layanan;"
 
-#: wllegal/templates/legal/documents/tos.html:581
+#: wllegal/templates/legal/documents/tos.html:580
 msgid ""
 "Statements or actions of any third party involved in providing the Service, "
 "including any outcomes of third-party solutions or services related to the "
@@ -2301,11 +2305,11 @@ msgstr ""
 "penyediaan Layanan, termasuk hasil solusi atau layanan pihak ketiga yang "
 "terkait dengan Layanan;"
 
-#: wllegal/templates/legal/documents/tos.html:584
+#: wllegal/templates/legal/documents/tos.html:583
 msgid "Any other matters related to the Service."
 msgstr "Hal-hal lain yang terkait dengan Layanan."
 
-#: wllegal/templates/legal/documents/tos.html:589
+#: wllegal/templates/legal/documents/tos.html:588
 msgid ""
 "In cases of force majeure, the Parties are entitled to temporarily suspend "
 "their contractual obligations, and any non-performance or delay in "
@@ -2323,7 +2327,7 @@ msgstr ""
 "perang, atau perubahan situasi politik yang mencegah atau secara tidak wajar "
 "menghalangi pelaksanaan hak dan kewajiban yang timbul dari Perjanjian ini."
 
-#: wllegal/templates/legal/documents/tos.html:593
+#: wllegal/templates/legal/documents/tos.html:592
 msgid ""
 "By entering into the Agreement, the User acknowledges that, despite the "
 "Provider’s best efforts, there may be temporary unavailability of the "
@@ -2339,7 +2343,7 @@ msgstr ""
 "mencadangkan semua data yang tersimpan dalam Layanan di lokasi geografis "
 "lain."
 
-#: wllegal/templates/legal/documents/tos.html:597
+#: wllegal/templates/legal/documents/tos.html:596
 msgid ""
 "The User uses the Service AS IS. Incompatibility with other software, "
 "hardware configurations, or any defects or faults DO NOT ENTITLE the User to "
@@ -2353,11 +2357,11 @@ msgstr ""
 "kecuali jika disetujui secara tegas oleh Para Pihak dalam kasus-kasus "
 "individual."
 
-#: wllegal/templates/legal/documents/tos.html:601
+#: wllegal/templates/legal/documents/tos.html:600
 msgid "Personal Data Protection"
 msgstr "Perlindungan Data Pribadi"
 
-#: wllegal/templates/legal/documents/tos.html:605
+#: wllegal/templates/legal/documents/tos.html:604
 #, python-format
 msgid ""
 "The Provider collects data from the User solely for the purpose of providing "
@@ -2371,10 +2375,10 @@ msgstr ""
 "menyediakan Layanan, meningkatkan kualitasnya, memenuhi kewajiban hukum, dan "
 "dalam kasus tertentu untuk kepentingan sah Penyedia (misalnya, menjaga "
 "keamanan dan integritas server) atau untuk mengirim komunikasi komersial "
-"opsional sebagaimana didefinisikan dalam <a href=\"%(privacy_url)s\""
-">Kebijakan Privasi</a>."
+"opsional sebagaimana didefinisikan dalam <a "
+"href=\"%(privacy_url)s\">Kebijakan Privasi</a>."
 
-#: wllegal/templates/legal/documents/tos.html:609
+#: wllegal/templates/legal/documents/tos.html:608
 msgid ""
 "All communication within the Service is encrypted using the SSL protocol. "
 "The User declares that they consider this encryption method sufficiently "
@@ -2383,7 +2387,7 @@ msgstr ""
 "Semua komunikasi dalam Layanan dienkripsi menggunakan protokol SSL. Pengguna "
 "menyatakan bahwa mereka menganggap metode enkripsi ini cukup aman."
 
-#: wllegal/templates/legal/documents/tos.html:613
+#: wllegal/templates/legal/documents/tos.html:612
 #, python-format
 msgid ""
 "The Provider commits not to provide any information submitted by the User "
@@ -2395,10 +2399,10 @@ msgstr ""
 "Penyedia berkomitmen untuk tidak memberikan informasi apa pun yang "
 "disampaikan oleh Pengguna selama pendaftaran akun Pengguna mereka atau data "
 "pribadi lainnya yang diberikan oleh Pengguna kepada pihak ketiga mana pun "
-"untuk tujuan selain yang ditetapkan dalam Perjanjian ini dan <a href="
-"\"%(privacy_url)s\">Kebijakan Privasi</a>."
+"untuk tujuan selain yang ditetapkan dalam Perjanjian ini dan <a "
+"href=\"%(privacy_url)s\">Kebijakan Privasi</a>."
 
-#: wllegal/templates/legal/documents/tos.html:617
+#: wllegal/templates/legal/documents/tos.html:616
 msgid ""
 "The Provider’s website and web application also use cookies. The Services "
 "exclusively use session cookies from the Provider and never use third-party "
@@ -2412,7 +2416,7 @@ msgstr ""
 "menggunakan kuki fungsional/teknis, yang tidak memerlukan persetujuan "
 "eksplisit berdasarkan undang-undang saat ini."
 
-#: wllegal/templates/legal/documents/tos.html:625
+#: wllegal/templates/legal/documents/tos.html:624
 msgid ""
 "The Parties commit to maintaining the confidentiality of all information "
 "learned during the contractual relationship established by this Agreement."
@@ -2420,7 +2424,7 @@ msgstr ""
 "Para Pihak berkomitmen untuk menjaga kerahasiaan semua informasi yang "
 "diperoleh selama hubungan kontraktual yang ditetapkan dalam Perjanjian ini."
 
-#: wllegal/templates/legal/documents/tos.html:629
+#: wllegal/templates/legal/documents/tos.html:628
 msgid ""
 "The User’s rights arising from the Agreement and these Terms cannot be "
 "assigned without the prior written consent of the Provider."
@@ -2428,7 +2432,7 @@ msgstr ""
 "Hak-hak Pengguna yang timbul dari Perjanjian dan Ketentuan ini tidak dapat "
 "dialihkan tanpa persetujuan tertulis terlebih dahulu dari Penyedia."
 
-#: wllegal/templates/legal/documents/tos.html:633
+#: wllegal/templates/legal/documents/tos.html:632
 msgid ""
 "For the avoidance of doubt, the Parties explicitly confirm that they are "
 "business entities and that they are entering into this Agreement within the "
@@ -2438,7 +2442,7 @@ msgstr ""
 "adalah badan usaha dan bahwa mereka menandatangani Perjanjian ini dalam "
 "lingkup kegiatan usaha mereka."
 
-#: wllegal/templates/legal/documents/tos.html:637
+#: wllegal/templates/legal/documents/tos.html:636
 msgid ""
 "If any provision of this Agreement or these Terms is or becomes invalid, "
 "ineffective, or unenforceable, it shall not affect the validity, "
@@ -2455,7 +2459,7 @@ msgstr ""
 "yang tidak berlaku, tidak dapat diberlakukan, atau tidak efektif tersebut "
 "dengan ketentuan baru yang mencerminkan maksud semula."
 
-#: wllegal/templates/legal/documents/tos.html:641
+#: wllegal/templates/legal/documents/tos.html:640
 msgid ""
 "These Terms are governed by the law of the Czech Republic, a member of the "
 "European Union. The Parties, however, exclude to the maximum extent possible "
@@ -2489,7 +2493,7 @@ msgstr ""
 "secara tidak dapat ditarik kembali setuju untuk tidak menggugat pelaksanaan "
 "putusan arbitrase di yurisdiksi mana pun."
 
-#: wllegal/templates/legal/documents/tos.html:645
+#: wllegal/templates/legal/documents/tos.html:644
 msgid ""
 "The official version of these Terms has been prepared in English and is "
 "considered the only binding version. Any versions of these Terms translated "
@@ -2505,7 +2509,7 @@ msgstr ""
 "perbedaan atau pertentangan antara versi bahasa Inggris dan versi "
 "terjemahan, versi bahasa Inggris akan berlaku dalam semua hal."
 
-#: wllegal/templates/legal/documents/tos.html:649
+#: wllegal/templates/legal/documents/tos.html:648
 msgid "These Terms enter into force on November 1, 2024."
 msgstr "Ketentuan ini mulai berlaku pada tanggal 1 November 2024."
 

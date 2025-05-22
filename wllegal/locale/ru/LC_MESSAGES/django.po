@@ -12,9 +12,9 @@
 # Golubev Alexander <fatzer2@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2024-12-19 19:19+0000\n"
+"POT-Creation-Date: 2025-05-22 11:19+0000\n"
 "PO-Revision-Date: 2025-01-11 12:55+0000\n"
 "Last-Translator: 11zAzu <inga.mishtal@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/weblate/legal/ru/"
@@ -45,7 +45,7 @@ msgstr ""
 "вашего удобства."
 
 #: wllegal/templates/legal/documents/privacy.html:6
-#: wllegal/templates/legal/documents/tos.html:7
+#: wllegal/templates/legal/documents/tos.html:6
 msgid "View English version"
 msgstr "Посмотреть английскую версию"
 
@@ -61,7 +61,7 @@ msgstr ""
 "далее именуемые «<strong>положениями</strong>»."
 
 #: wllegal/templates/legal/documents/privacy.html:17
-#: wllegal/templates/legal/documents/tos.html:17
+#: wllegal/templates/legal/documents/tos.html:16
 msgid "Introductory Provisions"
 msgstr "Вводные положения"
 
@@ -766,7 +766,7 @@ msgstr ""
 "персональные данные в нарушение настоящей Политики или правовых норм."
 
 #: wllegal/templates/legal/documents/privacy.html:272
-#: wllegal/templates/legal/documents/tos.html:621
+#: wllegal/templates/legal/documents/tos.html:620
 msgid "Final Provisions"
 msgstr "Заключительные положения"
 
@@ -883,7 +883,7 @@ msgstr "Мы используем файлы «куки», чтобы предо
 msgid "We don’t use any third-party cookies."
 msgstr "Мы не используем сторонние файлы куки."
 
-#: wllegal/templates/legal/documents/tos.html:6
+#: wllegal/templates/legal/documents/tos.html:5
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
@@ -892,7 +892,7 @@ msgstr ""
 "версия данного документа на английском языке, переводы предоставляются для "
 "вашего удобства."
 
-#: wllegal/templates/legal/documents/tos.html:12
+#: wllegal/templates/legal/documents/tos.html:11
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
@@ -901,7 +901,7 @@ msgstr ""
 "использования Сервиса, регулируются настоящими Общими положениями и "
 "условиями."
 
-#: wllegal/templates/legal/documents/tos.html:21
+#: wllegal/templates/legal/documents/tos.html:20
 msgid ""
 "These general terms and conditions are an integral part of the service "
 "agreement concluded between the User and the Provider (hereinafter referred "
@@ -917,7 +917,7 @@ msgstr ""
 "Продуктов. Настоящие общие положения и условия регулируют договорные "
 "отношения между поставщиком сервисов и Пользователем."
 
-#: wllegal/templates/legal/documents/tos.html:25
+#: wllegal/templates/legal/documents/tos.html:24
 msgid ""
 "The definitions below have the following meanings for the purposes of these "
 "general terms and conditions:"
@@ -925,27 +925,27 @@ msgstr ""
 "Приведённые ниже определения имеют следующие значения для целей настоящих "
 "общих положений и условий:"
 
-#: wllegal/templates/legal/documents/tos.html:31
+#: wllegal/templates/legal/documents/tos.html:30
 msgid "Civil Code"
 msgstr "Гражданский кодекс"
 
-#: wllegal/templates/legal/documents/tos.html:34
+#: wllegal/templates/legal/documents/tos.html:33
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
 msgstr "означает Закон № 89/2012 Св., Гражданский кодекс, с поправками;"
 
-#: wllegal/templates/legal/documents/tos.html:38
+#: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
 msgstr "Договаривающиеся стороны"
 
-#: wllegal/templates/legal/documents/tos.html:41
+#: wllegal/templates/legal/documents/tos.html:40
 msgid "jointly refers to the User and the Provider;"
 msgstr "совместно относится к Пользователю и Поставщику;"
 
-#: wllegal/templates/legal/documents/tos.html:45
+#: wllegal/templates/legal/documents/tos.html:44
 msgid "Cookies"
 msgstr "«Куки»"
 
-#: wllegal/templates/legal/documents/tos.html:48
+#: wllegal/templates/legal/documents/tos.html:47
 msgid ""
 "means any data sent from the service's web server to the User's computer or "
 "other internet-connected device, which allows the unique identification of "
@@ -959,11 +959,11 @@ msgstr ""
 "с разделом 89 Закона № 480/2004 Св. о некоторых услугах информационного "
 "общества и внесении изменений в некоторые законы, с поправками;"
 
-#: wllegal/templates/legal/documents/tos.html:52
+#: wllegal/templates/legal/documents/tos.html:51
 msgid "Dedicated Weblate"
 msgstr "Выделенный Weblate"
 
-#: wllegal/templates/legal/documents/tos.html:55
+#: wllegal/templates/legal/documents/tos.html:54
 msgid ""
 "means a form of collaboration where the User is the sole user of the Service "
 "in a cloud hosted and provided by the Provider;"
@@ -972,11 +972,11 @@ msgstr ""
 "единственным пользователем Сервиса в облаке, размещённом и предоставляемом "
 "Поставщиком;"
 
-#: wllegal/templates/legal/documents/tos.html:59
+#: wllegal/templates/legal/documents/tos.html:58
 msgid "GDPR"
 msgstr "GDPR"
 
-#: wllegal/templates/legal/documents/tos.html:62
+#: wllegal/templates/legal/documents/tos.html:61
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
@@ -984,11 +984,11 @@ msgstr ""
 "означает Постановление ЕС № 679/2016, Общее положение о защите персональных "
 "данных;"
 
-#: wllegal/templates/legal/documents/tos.html:66
+#: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
 msgstr "GTC"
 
-#: wllegal/templates/legal/documents/tos.html:69
+#: wllegal/templates/legal/documents/tos.html:68
 msgid ""
 "means these general terms and conditions, which form an integral part of the "
 "Agreement;"
@@ -996,11 +996,11 @@ msgstr ""
 "означает настоящие общие положения и условия, которые являются неотъемлемой "
 "частью Соглашения;"
 
-#: wllegal/templates/legal/documents/tos.html:73
+#: wllegal/templates/legal/documents/tos.html:72
 msgid "Hosted String"
 msgstr "Размещённая строка"
 
-#: wllegal/templates/legal/documents/tos.html:76
+#: wllegal/templates/legal/documents/tos.html:75
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
@@ -1008,11 +1008,11 @@ msgstr ""
 "означает единицу текста, определённую в формате перевода. Это может быть "
 "слово, предложение или абзац;"
 
-#: wllegal/templates/legal/documents/tos.html:80
+#: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
 msgstr "Хостинг Weblate"
 
-#: wllegal/templates/legal/documents/tos.html:83
+#: wllegal/templates/legal/documents/tos.html:82
 msgid ""
 "means a form of collaboration that is purely cloud-based, where the Provider "
 "provides Services to Users on a non-dedicated (i.e., shared by multiple "
@@ -1023,11 +1023,11 @@ msgstr ""
 "невыделенном (т.е. совместно используемом несколькими Пользователями) "
 "облаке, управляемом Поставщиком;"
 
-#: wllegal/templates/legal/documents/tos.html:87
+#: wllegal/templates/legal/documents/tos.html:86
 msgid "License"
 msgstr "Лицензия"
 
-#: wllegal/templates/legal/documents/tos.html:90
+#: wllegal/templates/legal/documents/tos.html:89
 msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
@@ -1035,24 +1035,28 @@ msgstr ""
 "неисключительная лицензия, выданная Поставщиком Пользователю для пользования "
 "Сервисом;"
 
-#: wllegal/templates/legal/documents/tos.html:94
+#: wllegal/templates/legal/documents/tos.html:93
 msgid "Personal Data"
 msgstr "Персональные данные"
 
-#: wllegal/templates/legal/documents/tos.html:97
+#: wllegal/templates/legal/documents/tos.html:96
+#, fuzzy
+#| msgid ""
+#| "means personal data as defined in EU Regulation 679/2016, entered by the "
+#| "user into the Service and/or Cookies;"
 msgid ""
-"means personal data as defined in EU Regulation 679/2016, entered by the "
+"means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
 "означает персональные данные, как определено в Регламенте ЕС 679/2016, "
 "введённые пользователем в Сервис и/или файлы «куки»;"
 
-#: wllegal/templates/legal/documents/tos.html:101
-#: wllegal/templates/legal/documents/tos.html:236
+#: wllegal/templates/legal/documents/tos.html:100
+#: wllegal/templates/legal/documents/tos.html:235
 msgid "Price"
 msgstr "Цена"
 
-#: wllegal/templates/legal/documents/tos.html:104
+#: wllegal/templates/legal/documents/tos.html:103
 msgid ""
 "the value expressed in money for the provided License in accordance with the "
 "Price List;"
@@ -1060,11 +1064,11 @@ msgstr ""
 "стоимость, выраженная в деньгах, за предоставленную Лицензию в соответствии "
 "с Ценником;"
 
-#: wllegal/templates/legal/documents/tos.html:108
+#: wllegal/templates/legal/documents/tos.html:107
 msgid "Price List"
 msgstr "Ценник"
 
-#: wllegal/templates/legal/documents/tos.html:111
+#: wllegal/templates/legal/documents/tos.html:110
 msgid ""
 "means the document or web page that specifies the Price of the Service and/"
 "or Product unless otherwise stated in the Agreement;"
@@ -1072,11 +1076,11 @@ msgstr ""
 "означает документ или веб-страницу, на которой указана цена Сервиса и/или "
 "Продукта, если иное не указано в Соглашении;"
 
-#: wllegal/templates/legal/documents/tos.html:115
+#: wllegal/templates/legal/documents/tos.html:114
 msgid "Product"
 msgstr "Продукт"
 
-#: wllegal/templates/legal/documents/tos.html:118
+#: wllegal/templates/legal/documents/tos.html:117
 msgid ""
 "means any service or part thereof provided under a certain brand of the "
 "Provider based on its brand usage policy. The User purchases the Product AS "
@@ -1087,11 +1091,11 @@ msgstr ""
 "Пользователь приобретает Продукт КАК ЕСТЬ. Поддержка и другие сервисы "
 "предоставляются отдельно;"
 
-#: wllegal/templates/legal/documents/tos.html:122
+#: wllegal/templates/legal/documents/tos.html:121
 msgid "Provider"
 msgstr "Поставщик"
 
-#: wllegal/templates/legal/documents/tos.html:125
+#: wllegal/templates/legal/documents/tos.html:124
 msgid ""
 "refers to the company <strong>Weblate s.r.o.</strong>, ID No. 21668027, with "
 "registered office at Nábřežní 694, Cvikov II, 471 54 Cvikov, registered in "
@@ -1103,21 +1107,21 @@ msgstr ""
 "зарегистрированной в Торговом реестре, который ведёт Региональный суд в Усти-"
 "над-Лабем, номер файла. C 52324, с которой был заключено Соглашение;"
 
-#: wllegal/templates/legal/documents/tos.html:129
+#: wllegal/templates/legal/documents/tos.html:128
 msgid "Service"
 msgstr "Сервис"
 
-#: wllegal/templates/legal/documents/tos.html:132
+#: wllegal/templates/legal/documents/tos.html:131
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
 msgstr ""
 "означает веб-сайты и сервисы на базе Weblate, предоставляемые Поставщиком;"
 
-#: wllegal/templates/legal/documents/tos.html:136
+#: wllegal/templates/legal/documents/tos.html:135
 msgid "Self-hosting"
 msgstr "Самостоятельный хостинг"
 
-#: wllegal/templates/legal/documents/tos.html:139
+#: wllegal/templates/legal/documents/tos.html:138
 msgid ""
 "means a form of collaboration where the User is the sole user of the "
 "Service, and this Service is operated directly on the User Server;"
@@ -1126,11 +1130,11 @@ msgstr ""
 "единственным пользователем Сервиса, и этот Сервис работает непосредственно "
 "на Сервере Пользователя;"
 
-#: wllegal/templates/legal/documents/tos.html:143
+#: wllegal/templates/legal/documents/tos.html:142
 msgid "Support Services"
 msgstr "Службы поддержки"
 
-#: wllegal/templates/legal/documents/tos.html:146
+#: wllegal/templates/legal/documents/tos.html:145
 msgid ""
 "means the support provided by the Provider to the User within the Service. "
 "Support Services are governed separately by a separate support service "
@@ -1140,20 +1144,20 @@ msgstr ""
 "Сервиса. Службы поддержки регулируются отдельным соглашением об оказании "
 "служб поддержки;"
 
-#: wllegal/templates/legal/documents/tos.html:150
+#: wllegal/templates/legal/documents/tos.html:149
 msgid "Translation Memory"
 msgstr "Память переводов"
 
-#: wllegal/templates/legal/documents/tos.html:153
+#: wllegal/templates/legal/documents/tos.html:152
 msgid "means an optional translation memory service provided on Weblate;"
 msgstr ""
 "означает необязательный сервис памяти переводов, предоставляемый на Weblate;"
 
-#: wllegal/templates/legal/documents/tos.html:157
+#: wllegal/templates/legal/documents/tos.html:156
 msgid "User"
 msgstr "Пользователь"
 
-#: wllegal/templates/legal/documents/tos.html:160
+#: wllegal/templates/legal/documents/tos.html:159
 msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
@@ -1161,11 +1165,11 @@ msgstr ""
 "означает любое юридическое или физическое лицо, не являющееся Поставщиком, "
 "которое использует Сервис;"
 
-#: wllegal/templates/legal/documents/tos.html:164
+#: wllegal/templates/legal/documents/tos.html:163
 msgid "User Account"
 msgstr "Учётная запись пользователя"
 
-#: wllegal/templates/legal/documents/tos.html:167
+#: wllegal/templates/legal/documents/tos.html:166
 msgid ""
 "means a user account with a unique access code and password in the Hosted "
 "Weblate web interface. Each User Account can be used by only one User;"
@@ -1174,11 +1178,11 @@ msgstr ""
 "паролем в веб-интерфейсе Хостинга Weblate. Каждая учётная запись "
 "пользователя может использоваться только одним пользователем;"
 
-#: wllegal/templates/legal/documents/tos.html:171
+#: wllegal/templates/legal/documents/tos.html:170
 msgid "User Server"
 msgstr "Сервер пользователя"
 
-#: wllegal/templates/legal/documents/tos.html:174
+#: wllegal/templates/legal/documents/tos.html:173
 msgid ""
 "refers to the server and other hardware equipment not owned, managed, or "
 "controlled by the Provider;"
@@ -1186,24 +1190,24 @@ msgstr ""
 "относится к серверу и другому аппаратному оборудованию, не принадлежащему, "
 "не управляемому и не контролируемому Поставщиком;"
 
-#: wllegal/templates/legal/documents/tos.html:180
+#: wllegal/templates/legal/documents/tos.html:179
 msgid "Methods of Acceptance"
 msgstr "Способы принятия"
 
-#: wllegal/templates/legal/documents/tos.html:184
+#: wllegal/templates/legal/documents/tos.html:183
 msgid "The License is granted to the User based on the concluded Agreement."
 msgstr ""
 "Лицензия предоставляется Пользователю на основании заключённого Соглашения."
 
-#: wllegal/templates/legal/documents/tos.html:188
+#: wllegal/templates/legal/documents/tos.html:187
 msgid "These GTC are an integral part of the Agreement."
 msgstr "Настоящие GTC являются неотъемлемой частью Соглашения."
 
-#: wllegal/templates/legal/documents/tos.html:192
+#: wllegal/templates/legal/documents/tos.html:191
 msgid "The Agreement is concluded:"
 msgstr "Соглашение заключено:"
 
-#: wllegal/templates/legal/documents/tos.html:197
+#: wllegal/templates/legal/documents/tos.html:196
 msgid ""
 "on the day of signing by both parties (especially for all Services offered "
 "with custom settings);"
@@ -1211,7 +1215,7 @@ msgstr ""
 "в день подписания обеими сторонами (особенно для всех Сервисов, предлагаемых "
 "с пользовательскими настройками);"
 
-#: wllegal/templates/legal/documents/tos.html:200
+#: wllegal/templates/legal/documents/tos.html:199
 msgid ""
 "online through acceptance (confirmation) via the web interface in accordance "
 "with the Price List, with the Agreement becoming effective once the Price "
@@ -1226,11 +1230,11 @@ msgstr ""
 "Лицензии, на банковский счёт Поставщика) стоимости Лицензии в размере, "
 "указанном Пользователем в первом расчётном периоде."
 
-#: wllegal/templates/legal/documents/tos.html:208
+#: wllegal/templates/legal/documents/tos.html:207
 msgid "Service Provision"
 msgstr "Оказание услуг"
 
-#: wllegal/templates/legal/documents/tos.html:212
+#: wllegal/templates/legal/documents/tos.html:211
 msgid ""
 "The Provider operates the Service at the internet address specified in the "
 "Product specification and its subdomains or on the User's Servers in "
@@ -1241,7 +1245,7 @@ msgstr ""
 "Продукта, и его поддоменам или на Серверах Пользователя в соответствии с "
 "Соглашением и техническими условиями, указанными в спецификации Продукта."
 
-#: wllegal/templates/legal/documents/tos.html:216
+#: wllegal/templates/legal/documents/tos.html:215
 msgid ""
 "If the Agreement is concluded under Article 2.3(a), the scope of Services is "
 "defined in the Product specification, which is attached to the Agreement. "
@@ -1252,12 +1256,12 @@ msgid ""
 msgstr ""
 "Если Соглашение заключено в соответствии со Статьёй 2.3(a), объём Сервисов "
 "определяется в Спецификации продукта, которая прилагается к Соглашению. "
-"Спецификация Продукта может дополнительно детализировать объём отдельных "
-"(-суб)сервисов в отношении их содержания и способов активации. Спецификация "
+"Спецификация Продукта может дополнительно детализировать объём отдельных (-"
+"суб)сервисов в отношении их содержания и способов активации. Спецификация "
 "Продукта, определённая таким образом, имеет приоритет над формой Сервиса, "
 "предлагаемым в соответствии с Ценником."
 
-#: wllegal/templates/legal/documents/tos.html:220
+#: wllegal/templates/legal/documents/tos.html:219
 msgid ""
 "The Service is provided in three forms of cooperation: Hosted Weblate, "
 "Dedicated Weblate, and Self-hosting."
@@ -1265,7 +1269,7 @@ msgstr ""
 "Сервис предоставляется в трёх формах сотрудничества: Хостинг Weblate, "
 "Выделенный Weblate и Самостоятельный хостинг."
 
-#: wllegal/templates/legal/documents/tos.html:224
+#: wllegal/templates/legal/documents/tos.html:223
 msgid ""
 "In accordance with GPLv3, certain aspects of the Service may be provided "
 "either with the assistance of third parties other than the Provider or "
@@ -1285,11 +1289,11 @@ msgstr ""
 "могут обрабатывать Персональные данные в рамках своей деятельности в "
 "соответствии с Соглашением и лицензией GPLv3."
 
-#: wllegal/templates/legal/documents/tos.html:228
+#: wllegal/templates/legal/documents/tos.html:227
 msgid "Service Duration"
 msgstr "Длительность сервиса"
 
-#: wllegal/templates/legal/documents/tos.html:232
+#: wllegal/templates/legal/documents/tos.html:231
 msgid ""
 "Unless otherwise expressly agreed in the Agreement, the Agreement is "
 "concluded for a period corresponding to a subscription model. The "
@@ -1300,7 +1304,7 @@ msgstr ""
 "соответствующий модели подписки. Подписка может быть оплачена ежемесячно или "
 "ежегодно в соответствии со статьёй 5 GTC."
 
-#: wllegal/templates/legal/documents/tos.html:240
+#: wllegal/templates/legal/documents/tos.html:239
 msgid ""
 "The price for the Service is determined according to the offer or the Price "
 "List. The User acknowledges and agrees that the Price List may be "
@@ -1318,7 +1322,7 @@ msgstr ""
 "Ценнике. Цена на Сервисы состоит из следующих отдельных пунктов или их "
 "комбинации, которые оплачиваются регулярно ежемесячно/ежегодно:"
 
-#: wllegal/templates/legal/documents/tos.html:244
+#: wllegal/templates/legal/documents/tos.html:243
 msgid ""
 "regular price for access to Services, which is also always set for the "
 "relevant time period and based on the specific conditions of the Service, "
@@ -1330,7 +1334,7 @@ msgstr ""
 "Сервиса, но оплачивается ежемесячно или ежегодно, причём эта цена "
 "варьируется для различных форм сотрудничества в соответствии с Ценником;"
 
-#: wllegal/templates/legal/documents/tos.html:247
+#: wllegal/templates/legal/documents/tos.html:246
 msgid ""
 "regular price for the number of Hosted Strings; this amount is chosen by the "
 "User from the options offered in the Price List or in agreement with the "
@@ -1340,17 +1344,17 @@ msgstr ""
 "Пользователем из предложенных в Ценнике вариантов или по согласованию с "
 "Поставщиком;"
 
-#: wllegal/templates/legal/documents/tos.html:250
+#: wllegal/templates/legal/documents/tos.html:249
 msgid "regular price for Translation Memory;"
 msgstr "обычная цена на Память переводов;"
 
-#: wllegal/templates/legal/documents/tos.html:255
+#: wllegal/templates/legal/documents/tos.html:254
 msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
 msgstr "(пункты а), б) и в) совместно именуются «<strong>Подписка</strong>»)."
 
-#: wllegal/templates/legal/documents/tos.html:259
+#: wllegal/templates/legal/documents/tos.html:258
 msgid ""
 "To avoid doubt, the Subscription may guarantee either only access to a "
 "specific Product or License and/or a specific package of guaranteed Services."
@@ -1359,7 +1363,7 @@ msgstr ""
 "определённому Продукту или Лицензии и/или определённому пакету "
 "гарантированных Сервисов."
 
-#: wllegal/templates/legal/documents/tos.html:263
+#: wllegal/templates/legal/documents/tos.html:262
 msgid ""
 "The User is obliged to pay the Price based on the received tax documents "
 "(invoices) issued by the Provider. The Price is paid in advance, and the "
@@ -1371,7 +1375,7 @@ msgstr ""
 "авансом, а счёт-фактура выставляется и доставляется Пользователю в течение 5 "
 "рабочих дней после окончания каждого соответствующего периода."
 
-#: wllegal/templates/legal/documents/tos.html:267
+#: wllegal/templates/legal/documents/tos.html:266
 #, python-format
 msgid ""
 "Payment of the Price may be made by credit card, bank transfer, or "
@@ -1386,7 +1390,7 @@ msgstr ""
 "должны будут уплатить дополнительный НДС в размере 21%%. Обратный сбор "
 "применяется к счетам, выставленным предприятиям на территории ЕС."
 
-#: wllegal/templates/legal/documents/tos.html:271
+#: wllegal/templates/legal/documents/tos.html:270
 msgid ""
 "If the User wishes to avoid being charged for the Service in the "
 "Subscription mode, they must cancel the Subscription at least three days "
@@ -1400,7 +1404,7 @@ msgstr ""
 "уточнить у эмитента предоплаченной карты или банка, возможно ли выставление "
 "периодических счетов."
 
-#: wllegal/templates/legal/documents/tos.html:275
+#: wllegal/templates/legal/documents/tos.html:274
 msgid ""
 "The User can change their Subscription mode online by logging into their "
 "User Account and making the change or cancelling the Subscription there. If "
@@ -1414,7 +1418,7 @@ msgstr ""
 "соответствии с пунктом 5.5 выше, его Подписка прекращается в конце текущего "
 "расчётного цикла."
 
-#: wllegal/templates/legal/documents/tos.html:279
+#: wllegal/templates/legal/documents/tos.html:278
 msgid ""
 "The Provider does not refund ANY money for Services, Support Services, and/"
 "or any other services provided under the Agreement and these GTC if they "
@@ -1437,7 +1441,7 @@ msgstr ""
 "фактического использования, условия возврата денежных средств оговариваются "
 "индивидуально."
 
-#: wllegal/templates/legal/documents/tos.html:283
+#: wllegal/templates/legal/documents/tos.html:282
 msgid ""
 "Prices and Subscription conditions may change unilaterally by the Operator "
 "at any time. The price and conditions valid at the time of the first "
@@ -1457,11 +1461,11 @@ msgstr ""
 "новых цен или условий. При таких условиях Пользователь имеет право отменить "
 "Подписку."
 
-#: wllegal/templates/legal/documents/tos.html:287
+#: wllegal/templates/legal/documents/tos.html:286
 msgid "License Terms"
 msgstr "Лицензионные условия"
 
-#: wllegal/templates/legal/documents/tos.html:291
+#: wllegal/templates/legal/documents/tos.html:290
 #, python-format
 msgid ""
 "The Provider's software and Weblate software extensions are distributed "
@@ -1479,7 +1483,7 @@ msgstr ""
 "предоставляется в соответствии с вариантом, выбранным в соответствии с "
 "Ценником."
 
-#: wllegal/templates/legal/documents/tos.html:296
+#: wllegal/templates/legal/documents/tos.html:295
 #, python-format
 msgid ""
 "Unless otherwise stated in the Agreement, the license terms of this "
@@ -1498,7 +1502,7 @@ msgstr ""
 "соответствует спецификации REUSE 3.0 в соответствии с информацией, "
 "представленной на сайте Поставщика (см. <a href=\"%(url)s\">%(url)s</a>)."
 
-#: wllegal/templates/legal/documents/tos.html:300
+#: wllegal/templates/legal/documents/tos.html:299
 msgid ""
 "The User acknowledges that all copyright and other intellectual property "
 "rights to the Service belong to the Provider and/or third parties whose "
@@ -1516,7 +1520,7 @@ msgstr ""
 "распространять Сервис, даже если Пользователь не выпускает Сервис в открытый "
 "доступ."
 
-#: wllegal/templates/legal/documents/tos.html:304
+#: wllegal/templates/legal/documents/tos.html:303
 msgid ""
 "For the purpose of exclusive modifications of the Service solely for the "
 "benefit of the User or the creation of means to run these Services, the User "
@@ -1530,7 +1534,7 @@ msgstr ""
 "условиями GPLv3 (и/или более поздних версий лицензии GPL) он публикует все "
 "материалы, авторские права на которые ему не принадлежат."
 
-#: wllegal/templates/legal/documents/tos.html:308
+#: wllegal/templates/legal/documents/tos.html:307
 msgid ""
 "The License includes updates and/or modifications to the Services made by "
 "the Provider in the future, provided that the Services are supplied based on "
@@ -1546,7 +1550,7 @@ msgstr ""
 "и/или модификации. Пользователь признаёт, что не все пакеты Подписки для "
 "самостоятельного хостинга включают обновления и/или модификации Сервисов."
 
-#: wllegal/templates/legal/documents/tos.html:312
+#: wllegal/templates/legal/documents/tos.html:311
 msgid ""
 "The User is entitled to use the source code and handle elements protected by "
 "copyright within the limits of GPLv3 (and/or later versions of the GPL "
@@ -1568,11 +1572,11 @@ msgstr ""
 "нетронутыми, и Пользователь предоставляет всем получателям таких копий "
 "исходного кода копию лицензии вместе с программой."
 
-#: wllegal/templates/legal/documents/tos.html:316
+#: wllegal/templates/legal/documents/tos.html:315
 msgid "Payment Terms"
 msgstr "Платёжные условия"
 
-#: wllegal/templates/legal/documents/tos.html:320
+#: wllegal/templates/legal/documents/tos.html:319
 msgid ""
 "Invoices will be issued electronically. The User agrees to the electronic "
 "issuance of invoices and to receiving them via electronic means. Invoices "
@@ -1583,7 +1587,7 @@ msgstr ""
 "электронной почте. Счета будут выставляться со сроком оплаты 14 календарных "
 "дней."
 
-#: wllegal/templates/legal/documents/tos.html:324
+#: wllegal/templates/legal/documents/tos.html:323
 msgid ""
 "The billing period is defined as a recurring period (calendar month/year). "
 "Payment is automatically charged through the selected payment method, and "
@@ -1599,7 +1603,7 @@ msgstr ""
 "автоматически, Поставщик выставляет счёт, а Пользователь обязан оплатить его "
 "в те же сроки."
 
-#: wllegal/templates/legal/documents/tos.html:328
+#: wllegal/templates/legal/documents/tos.html:327
 msgid ""
 "In the event of a delay by the User in any payment, the Provider is also "
 "entitled to suspend or limit the provision of the Service until the full "
@@ -1618,7 +1622,7 @@ msgstr ""
 "Соглашения, дающим Поставщику право расторгнуть Соглашение по причине, "
 "указанной в статье 11 ниже."
 
-#: wllegal/templates/legal/documents/tos.html:332
+#: wllegal/templates/legal/documents/tos.html:331
 msgid ""
 "By agreeing to the GTC at the time of purchase, the User subscribes to the "
 "future automatic renewal of the Subscription. The Subscription will be "
@@ -1639,7 +1643,7 @@ msgstr ""
 "периода. Подписка является непрерывной и автоматически продлевается до "
 "момента её отмены или прекращения действия Учётной записи Пользователя."
 
-#: wllegal/templates/legal/documents/tos.html:336
+#: wllegal/templates/legal/documents/tos.html:335
 msgid ""
 "The User acknowledges that in the case of Subscription payment via a payment "
 "gateway, this gateway is provided by <strong>ThePay, a.s.</strong>, with its "
@@ -1657,7 +1661,7 @@ msgstr ""
 "Комиссионного вознаграждения регулируются соответствующими договорными "
 "условиями ThePay."
 
-#: wllegal/templates/legal/documents/tos.html:340
+#: wllegal/templates/legal/documents/tos.html:339
 msgid ""
 "Payment card information entered into the payment gateway is not processed "
 "by the Provider, and the Provider is not responsible for the functionality "
@@ -1667,11 +1671,11 @@ msgstr ""
 "Поставщиком, и Поставщик не несёт ответственности за функциональность "
 "платёжного шлюза ThePay."
 
-#: wllegal/templates/legal/documents/tos.html:344
+#: wllegal/templates/legal/documents/tos.html:343
 msgid "Provider's Rights and Obligations"
 msgstr "Права и обязанности поставщика"
 
-#: wllegal/templates/legal/documents/tos.html:348
+#: wllegal/templates/legal/documents/tos.html:347
 msgid ""
 "The Provider is entitled to make any changes to the Service or its scope. In "
 "such a case, the Provider will inform the User through the web interface "
@@ -1701,9 +1705,9 @@ msgstr ""
 "базы, отраслевых стандартов, соответствующих затрат Поставщика, рыночных "
 "обычаев, условий, влияющих на соответствующий рынок, или любых других "
 "изменений, которые могут повлиять на предоставление Сервиса, Поставщик "
-"вправе в любое время изменить, отменить или дополнить настоящие Условия ("
-"именуемые далее «<strong>Изменение</strong>»), уведомив Пользователя о таком "
-"Изменении путём размещения новой редакции настоящих Условий на Сайте и "
+"вправе в любое время изменить, отменить или дополнить настоящие Условия "
+"(именуемые далее «<strong>Изменение</strong>»), уведомив Пользователя о "
+"таком Изменении путём размещения новой редакции настоящих Условий на Сайте и "
 "уведомления Пользователя по электронной почте и через интерфейс, связанный с "
 "предоставляемым Сервисом, не менее чем за 14 дней до вступления в силу "
 "Изменения. Если Пользователь не отреагирует на такое Изменение в течение "
@@ -1719,7 +1723,7 @@ msgstr ""
 "отсутствия возражений), либо расторгнуть Соглашение в течение вышеуказанного "
 "срока."
 
-#: wllegal/templates/legal/documents/tos.html:352
+#: wllegal/templates/legal/documents/tos.html:351
 msgid ""
 "The Provider undertakes to take all steps within its technical capabilities "
 "to ensure the functionality and availability of the Service. The User "
@@ -1730,7 +1734,7 @@ msgstr ""
 "Пользователь признаёт и соглашается с тем, что использует Сервис на свой "
 "страх и риск."
 
-#: wllegal/templates/legal/documents/tos.html:356
+#: wllegal/templates/legal/documents/tos.html:355
 msgid ""
 "The basic system requirements for the proper operation of the Service "
 "include the server environment and defined technical status in the latest "
@@ -1742,7 +1746,7 @@ msgstr ""
 "последней версии. Поставщик обязуется своими действиями выполнять эти "
 "требования и обеспечивать надлежащее функционирование Сервиса."
 
-#: wllegal/templates/legal/documents/tos.html:360
+#: wllegal/templates/legal/documents/tos.html:359
 msgid ""
 "If the User identifies any issue related to the Service's speed, "
 "functionality, or availability, they are obligated to report it to the "
@@ -1762,7 +1766,7 @@ msgstr ""
 "Поставщик не несёт ответственности за любой ущерб, понесённый Пользователем "
 "в связи с этими событиями."
 
-#: wllegal/templates/legal/documents/tos.html:364
+#: wllegal/templates/legal/documents/tos.html:363
 msgid ""
 "The User acknowledges and agrees that the Provider may temporarily suspend "
 "the provision of the Service for serious reasons, particularly in cases such "
@@ -1784,7 +1788,7 @@ msgstr ""
 "Сервиса. В случае плановых отключений Поставщик обязан заблаговременно "
 "информировать Пользователя в разумные сроки."
 
-#: wllegal/templates/legal/documents/tos.html:368
+#: wllegal/templates/legal/documents/tos.html:367
 msgid ""
 "The Provider agrees not to provide the content of the User's data to third "
 "parties."
@@ -1792,7 +1796,7 @@ msgstr ""
 "Поставщик обязуется не предоставлять содержание данных Пользователя третьим "
 "лицам."
 
-#: wllegal/templates/legal/documents/tos.html:372
+#: wllegal/templates/legal/documents/tos.html:371
 msgid ""
 "The contractual parties agree that the Provider does not acquire ownership "
 "of the User's data. The User is solely responsible for the content of the "
@@ -1803,7 +1807,7 @@ msgstr ""
 "ответственность за содержание данных, хранящихся на его сервере или сервере "
 "Поставщика."
 
-#: wllegal/templates/legal/documents/tos.html:376
+#: wllegal/templates/legal/documents/tos.html:375
 msgid ""
 "By accepting these Terms, the User acknowledges and agrees that the Provider "
 "is entitled to monitor, using its own resources, whether the User is using "
@@ -1815,11 +1819,11 @@ msgstr ""
 "использует ли Пользователь Сервис в соответствии с Соглашением. Пользователь "
 "обязуется полностью сотрудничать с Поставщиком в таких случаях."
 
-#: wllegal/templates/legal/documents/tos.html:381
+#: wllegal/templates/legal/documents/tos.html:380
 msgid "User’s Rights and Obligations"
 msgstr "Права и обязанности пользователя"
 
-#: wllegal/templates/legal/documents/tos.html:385
+#: wllegal/templates/legal/documents/tos.html:384
 msgid ""
 "The User must not use the Service in violation of applicable legal "
 "regulations. The User is also fully responsible for ensuring that any "
@@ -1830,7 +1834,7 @@ msgstr ""
 "норм. Пользователь также несёт полную ответственность за то, чтобы любые "
 "изменения, вносимые им в Сервис, соответствовали действующим правовым нормам."
 
-#: wllegal/templates/legal/documents/tos.html:389
+#: wllegal/templates/legal/documents/tos.html:388
 msgid ""
 "To gain access to the Service, the Provider may require certain "
 "identification details and other information from the User, always only to "
@@ -1855,7 +1859,7 @@ msgstr ""
 "требуемой личной информации, но подчёркивает правдивость, точность и "
 "актуальность информации, предоставляемой Пользователем."
 
-#: wllegal/templates/legal/documents/tos.html:393
+#: wllegal/templates/legal/documents/tos.html:392
 msgid ""
 "The User is obligated, upon the Provider's request, to provide the necessary "
 "cooperation in resolving malfunctions or making adjustments to the Service, "
@@ -1869,7 +1873,7 @@ msgstr ""
 "случаях, когда Поставщик проводит системные отключения по причинам, "
 "указанным в разделе 8.5."
 
-#: wllegal/templates/legal/documents/tos.html:397
+#: wllegal/templates/legal/documents/tos.html:396
 msgid ""
 "The Provider is entitled to implement security measures to protect the "
 "Service in accordance with this Agreement, and the User is required to "
@@ -1879,7 +1883,7 @@ msgstr ""
 "соответствии с настоящим Соглашением, а Пользователь обязан соблюдать и "
 "уважать эти меры."
 
-#: wllegal/templates/legal/documents/tos.html:401
+#: wllegal/templates/legal/documents/tos.html:400
 msgid ""
 "The User is obligated to use the Service in accordance with the licensing "
 "terms specified in Section 6 of this Agreement, ensuring that they do not "
@@ -1889,7 +1893,7 @@ msgstr ""
 "условиями, указанными в разделе 6 настоящего Соглашения, обеспечивая при "
 "этом отсутствие угрозы для функциональности Сервиса."
 
-#: wllegal/templates/legal/documents/tos.html:405
+#: wllegal/templates/legal/documents/tos.html:404
 msgid ""
 "According to the Service variant listed in the Price List, the User has the "
 "right to request Support Services from the Provider, as specified in the "
@@ -1898,7 +1902,7 @@ msgstr ""
 "В соответствии с вариантом Службы, указанным в Ценнике, Пользователь имеет "
 "право запросить у Поставщика Службу поддержки, как указано в Ценнике."
 
-#: wllegal/templates/legal/documents/tos.html:409
+#: wllegal/templates/legal/documents/tos.html:408
 msgid ""
 "The User is required to keep access credentials to the Service confidential "
 "and must not engage in any actions that could compromise the security of the "
@@ -1913,7 +1917,7 @@ msgstr ""
 "свести к минимуму риск неправомерного использования третьими лицами учётных "
 "данных доступа к учётной записи Пользователя."
 
-#: wllegal/templates/legal/documents/tos.html:413
+#: wllegal/templates/legal/documents/tos.html:412
 msgid ""
 "If the User breaches any of the obligations specified in this Section, the "
 "Provider bears no responsibility for any damages incurred by the User, and "
@@ -1932,11 +1936,11 @@ msgstr ""
 "лицам в результате утечки информации о доступе, он обязан сообщить об этом "
 "Поставщику."
 
-#: wllegal/templates/legal/documents/tos.html:417
+#: wllegal/templates/legal/documents/tos.html:416
 msgid "Prohibited Conduct"
 msgstr "Запрещённые действия"
 
-#: wllegal/templates/legal/documents/tos.html:421
+#: wllegal/templates/legal/documents/tos.html:420
 msgid ""
 "The User is prohibited from uploading, sending, or otherwise storing any "
 "content on the Service portal that may contain software viruses or other "
@@ -1959,7 +1963,7 @@ msgstr ""
 "Пользователя или серверам Поставщика. Нарушение этих обязательств является "
 "существенным нарушением Соглашения."
 
-#: wllegal/templates/legal/documents/tos.html:425
+#: wllegal/templates/legal/documents/tos.html:424
 msgid ""
 "The User particularly agrees to refrain from the following activities while "
 "using the Services, especially through the Services:"
@@ -1967,7 +1971,7 @@ msgstr ""
 "Пользователь, в частности, соглашается воздерживаться от следующих действий "
 "при использовании Сервисов, особенно через Сервисы:"
 
-#: wllegal/templates/legal/documents/tos.html:429
+#: wllegal/templates/legal/documents/tos.html:428
 msgid ""
 "Disseminating or offering any content that violates applicable laws at the "
 "national, EU, or international level;"
@@ -1975,7 +1979,7 @@ msgstr ""
 "Распространение или предложение любого контента, нарушающего действующее "
 "законодательство на национальном, европейском или международном уровне;"
 
-#: wllegal/templates/legal/documents/tos.html:433
+#: wllegal/templates/legal/documents/tos.html:432
 msgid ""
 "Disseminating or offering any illegally obtained content or content whose "
 "dissemination would be illegal;"
@@ -1983,7 +1987,7 @@ msgstr ""
 "Распространять или предлагать любой незаконно полученный контент или "
 "контент, распространение которого является незаконным;"
 
-#: wllegal/templates/legal/documents/tos.html:437
+#: wllegal/templates/legal/documents/tos.html:436
 msgid ""
 "Disseminating or offering any pornographic, obscene, or otherwise vulgar "
 "content;"
@@ -1991,7 +1995,7 @@ msgstr ""
 "Распространение или предложение любого порнографического, непристойного или "
 "другого вульгарного содержимого;"
 
-#: wllegal/templates/legal/documents/tos.html:441
+#: wllegal/templates/legal/documents/tos.html:440
 msgid ""
 "Engaging in any services or activities that are contrary to applicable laws "
 "at the national, EU, or international level;"
@@ -2000,7 +2004,7 @@ msgstr ""
 "действующему законодательству на национальном, европейском или международном "
 "уровне;"
 
-#: wllegal/templates/legal/documents/tos.html:445
+#: wllegal/templates/legal/documents/tos.html:444
 msgid ""
 "Engaging in activities that bypass intellectual property protection elements "
 "(such as cracks, warez, etc.);"
@@ -2008,7 +2012,7 @@ msgstr ""
 "Заниматься деятельностью, которая обходит элементы защиты интеллектуальной "
 "собственности (например, крэки, варез и т.д.);"
 
-#: wllegal/templates/legal/documents/tos.html:449
+#: wllegal/templates/legal/documents/tos.html:448
 msgid ""
 "Sending unsolicited commercial messages and other spam or other illegal "
 "harassment of third parties;"
@@ -2016,7 +2020,7 @@ msgstr ""
 "Рассылка нежелательных коммерческих сообщений и прочего спама или иное "
 "незаконное преследование третьих лиц;"
 
-#: wllegal/templates/legal/documents/tos.html:453
+#: wllegal/templates/legal/documents/tos.html:452
 msgid ""
 "Publishing or disseminating any content that may infringe the rights of "
 "third parties, including attacks on such persons, or any offensive, "
@@ -2028,7 +2032,7 @@ msgstr ""
 "невежливый или иным образом неуместный контент, который незаконно или "
 "противозаконно нарушает личные права третьих лиц;"
 
-#: wllegal/templates/legal/documents/tos.html:457
+#: wllegal/templates/legal/documents/tos.html:456
 msgid ""
 "Disseminating or offering any content that infringes on third-party "
 "intellectual or industrial property rights;"
@@ -2036,7 +2040,7 @@ msgstr ""
 "Распространять или предлагать любой контент, нарушающий права "
 "интеллектуальной или промышленной собственности третьих лиц;"
 
-#: wllegal/templates/legal/documents/tos.html:461
+#: wllegal/templates/legal/documents/tos.html:460
 msgid ""
 "Operating or disseminating any tools that may be misused to breach network, "
 "device, or service security;"
@@ -2044,11 +2048,11 @@ msgstr ""
 "Использовать или распространять любые инструменты, которые могут быть "
 "использованы для нарушения безопасности сети, устройств или сервисов;"
 
-#: wllegal/templates/legal/documents/tos.html:465
+#: wllegal/templates/legal/documents/tos.html:464
 msgid "Overburdening the Provider's or third-party servers;"
 msgstr "Перегрузка серверов Поставщика или третьих лиц;"
 
-#: wllegal/templates/legal/documents/tos.html:469
+#: wllegal/templates/legal/documents/tos.html:468
 msgid ""
 "Engaging in any activities that could harm the Provider, its reputation, or "
 "its assets;"
@@ -2056,7 +2060,7 @@ msgstr ""
 "Заниматься любой деятельностью, которая может нанести вред Поставщику, его "
 "репутации или его активам;"
 
-#: wllegal/templates/legal/documents/tos.html:473
+#: wllegal/templates/legal/documents/tos.html:472
 msgid ""
 "Using any means, servers, devices, or elements provided by the Provider in a "
 "manner not expressly agreed upon in these Terms or the Agreement;"
@@ -2065,23 +2069,23 @@ msgstr ""
 "предоставляемые Поставщиком, способом, не оговорённым в настоящих Условиях "
 "или Соглашении;"
 
-#: wllegal/templates/legal/documents/tos.html:477
+#: wllegal/templates/legal/documents/tos.html:476
 msgid ""
 "Conducting activities that would disclose any content to third parties that:"
 msgstr ""
 "Осуществление деятельности, в результате которой третьим лицам будет раскрыт "
 "любой контент:"
 
-#: wllegal/templates/legal/documents/tos.html:481
+#: wllegal/templates/legal/documents/tos.html:480
 msgid "Contains prohibited applications and scripts;"
 msgstr "содержащий запрещённые приложения и скрипты;"
 
-#: wllegal/templates/legal/documents/tos.html:485
+#: wllegal/templates/legal/documents/tos.html:484
 msgid "Overloads database systems or causes malfunction of servers;"
 msgstr ""
 "перегружающий системы баз данных или вызывающий сбои в работе серверов;"
 
-#: wllegal/templates/legal/documents/tos.html:489
+#: wllegal/templates/legal/documents/tos.html:488
 msgid ""
 "Overburdens the infrastructure, connection lines, or hardware of the "
 "Provider or third parties;"
@@ -2089,7 +2093,7 @@ msgstr ""
 "перегружающий инфраструктуру, линии связи или аппаратное обеспечение "
 "Поставщика или третьих лиц;"
 
-#: wllegal/templates/legal/documents/tos.html:493
+#: wllegal/templates/legal/documents/tos.html:492
 msgid ""
 "Involves music, sound, image, film, or similar files for which the User "
 "lacks distribution rights;"
@@ -2097,7 +2101,7 @@ msgstr ""
 "включающий в себя музыку, звук, изображения, фильмы или аналогичные файлы, "
 "на распространение которых у Пользователя нет прав;"
 
-#: wllegal/templates/legal/documents/tos.html:497
+#: wllegal/templates/legal/documents/tos.html:496
 msgid ""
 "Threatens the privacy or security of other Internet users or the security of "
 "computer systems (e.g., through viruses, password generators, etc.);"
@@ -2106,7 +2110,7 @@ msgstr ""
 "Интернета или безопасности компьютерных систем (например, с помощью вирусов, "
 "генераторов паролей и т.д.);"
 
-#: wllegal/templates/legal/documents/tos.html:501
+#: wllegal/templates/legal/documents/tos.html:500
 msgid ""
 "Is part of the provided Service without written permission from the Provider "
 "to share it with third parties;"
@@ -2114,7 +2118,7 @@ msgstr ""
 "являющийся частью предоставляемого Сервиса без письменного разрешения "
 "Поставщика на передачу его третьим лицам;"
 
-#: wllegal/templates/legal/documents/tos.html:505
+#: wllegal/templates/legal/documents/tos.html:504
 msgid ""
 "Gives the impression that the User acts on behalf of the Provider without "
 "authorization;"
@@ -2122,11 +2126,11 @@ msgstr ""
 "создающий впечатление, что Пользователь действует от имени Поставщика без "
 "разрешения;"
 
-#: wllegal/templates/legal/documents/tos.html:509
+#: wllegal/templates/legal/documents/tos.html:508
 msgid "May harm any third-party rights."
 msgstr "может навредить правам третьих лиц."
 
-#: wllegal/templates/legal/documents/tos.html:513
+#: wllegal/templates/legal/documents/tos.html:512
 msgid ""
 "The Provider may, without prior notice, interrupt, limit, or suspend the "
 "provision of Services if it reasonably believes the User is violating the "
@@ -2141,7 +2145,7 @@ msgstr ""
 "правил пользования Интернетом, либо оказывает содействие или совершает "
 "преступные действия."
 
-#: wllegal/templates/legal/documents/tos.html:517
+#: wllegal/templates/legal/documents/tos.html:516
 msgid ""
 "The Provider may also, without prior notice, interrupt, limit, or suspend "
 "the provision of Services if the Services are being misused for unauthorized "
@@ -2157,7 +2161,7 @@ msgstr ""
 "автоматизированного программного обеспечения и ботов, которые перегружают "
 "серверы Поставщика или другие технические средства."
 
-#: wllegal/templates/legal/documents/tos.html:521
+#: wllegal/templates/legal/documents/tos.html:520
 msgid ""
 "The User expressly agrees that in the event of a justified interruption, "
 "limitation, or suspension of Services by the Provider, the User is solely "
@@ -2170,7 +2174,7 @@ msgstr ""
 "возникший в результате перерыва, и не может требовать от Поставщика какой-"
 "либо компенсации за такой ущерб."
 
-#: wllegal/templates/legal/documents/tos.html:525
+#: wllegal/templates/legal/documents/tos.html:524
 msgid ""
 "To verify the software solution used or audit the licensing of assigned "
 "software resources and content uploaded through the Services, the User "
@@ -2185,7 +2189,7 @@ msgstr ""
 "скриптов на виртуальном сервере, которые подтверждают и проверяют "
 "используемые программные ресурсы."
 
-#: wllegal/templates/legal/documents/tos.html:529
+#: wllegal/templates/legal/documents/tos.html:528
 msgid ""
 "The User expressly agrees to be responsible for any damage caused to the "
 "Provider, its clients, partners, or third parties. This responsibility "
@@ -2208,11 +2212,11 @@ msgstr ""
 "неустойка не влияет на право Поставщика требовать возмещения убытков в "
 "дополнение к неустойке."
 
-#: wllegal/templates/legal/documents/tos.html:534
+#: wllegal/templates/legal/documents/tos.html:533
 msgid "Termination of the Agreement"
 msgstr "Расторжение Соглашения"
 
-#: wllegal/templates/legal/documents/tos.html:538
+#: wllegal/templates/legal/documents/tos.html:537
 msgid ""
 "The contractual relationship may be terminated by withdrawal from the "
 "Agreement, expiration of the agreed term, dissolution of a legal entity "
@@ -2224,7 +2228,7 @@ msgstr ""
 "так и Пользователя) с ликвидацией, расторжением Соглашения, либо по "
 "взаимному согласию Сторон."
 
-#: wllegal/templates/legal/documents/tos.html:542
+#: wllegal/templates/legal/documents/tos.html:541
 msgid ""
 "The Provider may terminate the Agreement at any time without providing a "
 "reason. The notice period is three months, starting from the first day of "
@@ -2234,7 +2238,7 @@ msgstr ""
 "Срок уведомления составляет три месяца, начиная с первого дня календарного "
 "месяца, следующего за днём вручения уведомления Пользователю."
 
-#: wllegal/templates/legal/documents/tos.html:546
+#: wllegal/templates/legal/documents/tos.html:545
 msgid ""
 "The User may terminate the Agreement under the conditions specified in "
 "Section 8.1 of these Terms."
@@ -2242,7 +2246,7 @@ msgstr ""
 "Пользователь может расторгнуть Соглашение на условиях, указанных в разделе "
 "8.1 настоящих Условий."
 
-#: wllegal/templates/legal/documents/tos.html:550
+#: wllegal/templates/legal/documents/tos.html:549
 msgid ""
 "If the User materially or repeatedly breaches their obligations under these "
 "Terms or the Agreement and fails to remedy the breach within 14 days from "
@@ -2256,7 +2260,7 @@ msgstr ""
 "Соглашения. Отказ вступает в силу на следующий день после получения "
 "Пользователем уведомления об отказе."
 
-#: wllegal/templates/legal/documents/tos.html:554
+#: wllegal/templates/legal/documents/tos.html:553
 msgid ""
 "If the User breaches their obligations under these Terms or the Agreement in "
 "a particularly serious manner, the Provider is entitled to immediately "
@@ -2268,7 +2272,7 @@ msgstr ""
 "отказаться от Соглашения и прекратить предоставление Сервиса с момента "
 "обнаружения такого нарушения."
 
-#: wllegal/templates/legal/documents/tos.html:558
+#: wllegal/templates/legal/documents/tos.html:557
 msgid ""
 "If the Provider breaches its obligations under these Terms or the Agreement "
 "in a particularly serious manner, the User is entitled to immediately "
@@ -2278,7 +2282,7 @@ msgstr ""
 "Соглашению в особо серьёзной форме, Пользователь имеет право немедленно "
 "отказаться от Соглашения, как только обнаружит такое нарушение."
 
-#: wllegal/templates/legal/documents/tos.html:562
+#: wllegal/templates/legal/documents/tos.html:561
 msgid ""
 "Neither Party may terminate or otherwise end the Agreement except in cases "
 "explicitly stated in this Section. The Parties exclude, to the maximum "
@@ -2293,11 +2297,11 @@ msgstr ""
 "1923, 1969, 1977, 1978, 1979, 2001, 2002, 2003, 2106, 2107, 2110 и 2111 "
 "Гражданского кодекса Чехии."
 
-#: wllegal/templates/legal/documents/tos.html:566
+#: wllegal/templates/legal/documents/tos.html:565
 msgid "Limitation of Liability"
 msgstr "Предел ответственности"
 
-#: wllegal/templates/legal/documents/tos.html:570
+#: wllegal/templates/legal/documents/tos.html:569
 msgid ""
 "The Provider is not liable for indirect damages arising from the provision "
 "of the Services, such as lost profits, lost revenues, data loss, financial "
@@ -2314,11 +2318,11 @@ msgstr ""
 "Поставщик был предупреждён о возможности таких убытков), возникающие в "
 "результате:"
 
-#: wllegal/templates/legal/documents/tos.html:575
+#: wllegal/templates/legal/documents/tos.html:574
 msgid "Use or inability to use the Service;"
 msgstr "Использования или невозможности использования Сервиса;"
 
-#: wllegal/templates/legal/documents/tos.html:578
+#: wllegal/templates/legal/documents/tos.html:577
 msgid ""
 "The cost of acquiring substitute goods and services arising from any goods, "
 "data, information, or services purchased or obtained or messages received, "
@@ -2328,7 +2332,7 @@ msgstr ""
 "информацию или услуги, приобретённые или полученные, или сообщения, или "
 "сделки, заключенные через или из Сервиса;"
 
-#: wllegal/templates/legal/documents/tos.html:581
+#: wllegal/templates/legal/documents/tos.html:580
 msgid ""
 "Statements or actions of any third party involved in providing the Service, "
 "including any outcomes of third-party solutions or services related to the "
@@ -2338,11 +2342,11 @@ msgstr ""
 "Сервиса, включая любые результаты решений или услуг третьих лиц, связанных с "
 "Сервисом;"
 
-#: wllegal/templates/legal/documents/tos.html:584
+#: wllegal/templates/legal/documents/tos.html:583
 msgid "Any other matters related to the Service."
 msgstr "Любые другие вопросы, связанные с Сервисом."
 
-#: wllegal/templates/legal/documents/tos.html:589
+#: wllegal/templates/legal/documents/tos.html:588
 msgid ""
 "In cases of force majeure, the Parties are entitled to temporarily suspend "
 "their contractual obligations, and any non-performance or delay in "
@@ -2362,7 +2366,7 @@ msgstr ""
 "или неоправданно затрудняют осуществление прав и обязанностей, вытекающих из "
 "настоящего Соглашения."
 
-#: wllegal/templates/legal/documents/tos.html:593
+#: wllegal/templates/legal/documents/tos.html:592
 msgid ""
 "By entering into the Agreement, the User acknowledges that, despite the "
 "Provider’s best efforts, there may be temporary unavailability of the "
@@ -2378,7 +2382,7 @@ msgstr ""
 "своих данных, хранящихся в рамках Сервиса, в другом географическом месте "
 "(местах)."
 
-#: wllegal/templates/legal/documents/tos.html:597
+#: wllegal/templates/legal/documents/tos.html:596
 msgid ""
 "The User uses the Service AS IS. Incompatibility with other software, "
 "hardware configurations, or any defects or faults DO NOT ENTITLE the User to "
@@ -2391,11 +2395,11 @@ msgstr ""
 "потребовать возврата уплаченных средств, если иное прямо не оговорено "
 "Сторонами в отдельных случаях."
 
-#: wllegal/templates/legal/documents/tos.html:601
+#: wllegal/templates/legal/documents/tos.html:600
 msgid "Personal Data Protection"
 msgstr "Защита персональных данных"
 
-#: wllegal/templates/legal/documents/tos.html:605
+#: wllegal/templates/legal/documents/tos.html:604
 #, python-format
 msgid ""
 "The Provider collects data from the User solely for the purpose of providing "
@@ -2412,7 +2416,7 @@ msgstr ""
 "необязательных коммерческих сообщений, как определено в <a "
 "href=\"%(privacy_url)s\">Политике конфиденциальности</a>."
 
-#: wllegal/templates/legal/documents/tos.html:609
+#: wllegal/templates/legal/documents/tos.html:608
 msgid ""
 "All communication within the Service is encrypted using the SSL protocol. "
 "The User declares that they consider this encryption method sufficiently "
@@ -2422,7 +2426,7 @@ msgstr ""
 "Пользователь заявляет, что считает этот метод шифрования достаточно "
 "безопасным."
 
-#: wllegal/templates/legal/documents/tos.html:613
+#: wllegal/templates/legal/documents/tos.html:612
 #, python-format
 msgid ""
 "The Provider commits not to provide any information submitted by the User "
@@ -2437,7 +2441,7 @@ msgstr ""
 "отличных от определённых в настоящем Соглашении и <a "
 "href=\"%(privacy_url)s\">Политике конфиденциальности</a>."
 
-#: wllegal/templates/legal/documents/tos.html:617
+#: wllegal/templates/legal/documents/tos.html:616
 msgid ""
 "The Provider’s website and web application also use cookies. The Services "
 "exclusively use session cookies from the Provider and never use third-party "
@@ -2452,7 +2456,7 @@ msgstr ""
 "технические файлы «куки», для которых в соответствии с действующим "
 "законодательством не требуется явное согласие."
 
-#: wllegal/templates/legal/documents/tos.html:625
+#: wllegal/templates/legal/documents/tos.html:624
 msgid ""
 "The Parties commit to maintaining the confidentiality of all information "
 "learned during the contractual relationship established by this Agreement."
@@ -2460,7 +2464,7 @@ msgstr ""
 "Стороны обязуются сохранять конфиденциальность всей информации, полученной в "
 "ходе договорных отношений, установленных настоящим Соглашением."
 
-#: wllegal/templates/legal/documents/tos.html:629
+#: wllegal/templates/legal/documents/tos.html:628
 msgid ""
 "The User’s rights arising from the Agreement and these Terms cannot be "
 "assigned without the prior written consent of the Provider."
@@ -2468,7 +2472,7 @@ msgstr ""
 "Права Пользователя, вытекающие из Соглашения и настоящих Условий, не могут "
 "быть переуступлены без предварительного письменного согласия Поставщика."
 
-#: wllegal/templates/legal/documents/tos.html:633
+#: wllegal/templates/legal/documents/tos.html:632
 msgid ""
 "For the avoidance of doubt, the Parties explicitly confirm that they are "
 "business entities and that they are entering into this Agreement within the "
@@ -2478,7 +2482,7 @@ msgstr ""
 "коммерческими организациями и что они заключают настоящее Соглашение в "
 "рамках своей коммерческой деятельности."
 
-#: wllegal/templates/legal/documents/tos.html:637
+#: wllegal/templates/legal/documents/tos.html:636
 msgid ""
 "If any provision of this Agreement or these Terms is or becomes invalid, "
 "ineffective, or unenforceable, it shall not affect the validity, "
@@ -2495,7 +2499,7 @@ msgstr ""
 "заменив недействительное, не имеющее юридической силы или недействующее "
 "положение новым, отражающим первоначальное намерение."
 
-#: wllegal/templates/legal/documents/tos.html:641
+#: wllegal/templates/legal/documents/tos.html:640
 msgid ""
 "These Terms are governed by the law of the Czech Republic, a member of the "
 "European Union. The Parties, however, exclude to the maximum extent possible "
@@ -2529,7 +2533,7 @@ msgstr ""
 "обязательным для Сторон. Стороны безоговорочно соглашаются не оспаривать "
 "исполнение арбитражного решения в любой юрисдикции."
 
-#: wllegal/templates/legal/documents/tos.html:645
+#: wllegal/templates/legal/documents/tos.html:644
 msgid ""
 "The official version of these Terms has been prepared in English and is "
 "considered the only binding version. Any versions of these Terms translated "
@@ -2546,7 +2550,7 @@ msgstr ""
 "или противоречий между английской версией и любой переведённой версией, "
 "английская версия будет иметь преимущественную силу во всех вопросах."
 
-#: wllegal/templates/legal/documents/tos.html:649
+#: wllegal/templates/legal/documents/tos.html:648
 msgid "These Terms enter into force on November 1, 2024."
 msgstr "Настоящие Условия вступают в силу 1 ноября 2024 года."
 
