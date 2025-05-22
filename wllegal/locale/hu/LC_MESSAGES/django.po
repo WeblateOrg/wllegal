@@ -11,10 +11,10 @@
 # Michal Čihař <michal@cihar.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-05-22 11:19+0000\n"
-"PO-Revision-Date: 2025-05-22 03:23+0000\n"
+"PO-Revision-Date: 2025-05-23 12:01+0000\n"
 "Last-Translator: RViktor <rviktor@ivankapal.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/weblate/legal/"
 "hu/>\n"
@@ -1004,17 +1004,13 @@ msgid "Personal Data"
 msgstr "Személyes adatok"
 
 #: wllegal/templates/legal/documents/tos.html:96
-#, fuzzy
-#| msgid ""
-#| "means personal data as defined in EU Regulation 679/2016, entered by the "
-#| "user into the Service and/or Cookies;"
 msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"az EU 679/2016 rendeletében meghatározott személyes adatokat jelenti, "
-"amelyeket a Felhasználó visz be a Szolgáltatásba, illetve amelyek sütik "
-"formájában kerülnek rögzítésre;"
+"az Európai Unió 679/2016. számú rendelete szerint meghatározott személyes "
+"adatot jelent, amelyet a felhasználó a Szolgáltatásba visz be és/vagy amely "
+"a sütik révén kerül rögzítésre;"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
