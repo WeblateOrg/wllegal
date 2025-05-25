@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-05-22 11:19+0000\n"
-"PO-Revision-Date: 2025-05-23 12:01+0000\n"
+"PO-Revision-Date: 2025-05-26 12:53+0000\n"
 "Last-Translator: RViktor <rviktor@ivankapal.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/weblate/legal/"
 "hu/>\n"
@@ -896,7 +896,7 @@ msgstr "Polgári Törvénykönyv"
 #: wllegal/templates/legal/documents/tos.html:33
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
 msgstr ""
-"z 89/2012. sz. törvényt, azaz a hatályos Polgári Törvénykönyvet jelenti;"
+"a 89/2012. sz. törvényt, azaz a hatályos Polgári Törvénykönyvet jelenti;"
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
