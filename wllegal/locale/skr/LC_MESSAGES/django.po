@@ -5,10 +5,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-05-22 11:19+0000\n"
-"PO-Revision-Date: 2025-05-03 08:05+0000\n"
+"PO-Revision-Date: 2025-05-31 10:16+0000\n"
 "Last-Translator: پرویز قادر <mpqadir@gmail.com>\n"
 "Language-Team: Saraiki <https://hosted.weblate.org/projects/weblate/legal/"
 "skr/>\n"
@@ -932,10 +932,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:227
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
-msgstr "خدمت"
+msgstr "خدمت دورانیہ"
 
 #: wllegal/templates/legal/documents/tos.html:231
 msgid ""
@@ -1123,10 +1121,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:315
-#, fuzzy
-#| msgid "Payment processors."
 msgid "Payment Terms"
-msgstr "ادائیگی دے پراسیسر۔"
+msgstr "ادائیگی شرطاں"
 
 #: wllegal/templates/legal/documents/tos.html:319
 msgid ""
