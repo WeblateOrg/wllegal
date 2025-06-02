@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-05-22 11:19+0000\n"
-"PO-Revision-Date: 2025-05-29 16:01+0000\n"
+"PO-Revision-Date: 2025-06-03 00:01+0000\n"
 "Last-Translator: Manuela Silva <mmsrs@sky.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/weblate/legal/"
 "pt/>\n"
@@ -23,19 +23,19 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr "Subcontratados de acordo com o art. 28 RGPD"
+msgstr "Subcontratados de Acordo com o art.º 28 do RGPD"
 
 #: wllegal/templates/legal/documents/contracts.html:11
 msgid "Status as of May 2024."
-msgstr "Situação em maio de 2024."
+msgstr "Estado em maio de 2024."
 
 #: wllegal/templates/legal/documents/privacy.html:5
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
-"O documento da Política de privacidade é juridicamente vinculativo na versão "
-"em inglês. As traduções são fornecidas apenas para a sua conveniência."
+"O documento da «Política de Privacidade» é juridicamente vinculativo na "
+"versão em inglês. As traduções são fornecidas apenas para a sua conveniência."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:6
@@ -53,7 +53,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
 msgid "Introductory Provisions"
-msgstr ""
+msgstr "Provisões Introdutórias"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
@@ -77,6 +77,8 @@ msgid ""
 "in Article 1 of the Terms and which have the same meaning as set out in the "
 "Terms."
 msgstr ""
+"Esta política também utiliza certos termos ou definições que foram definidos "
+"no artigo 1 dos 'Termos' e que têm o mesmo significado definido nos mesmos."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
@@ -116,68 +118,80 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "Âmbito. Propósitos, e Duração do Processamento"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
 msgstr ""
+"O 'Fornecedor' trata os dados pessoais do 'Utilizador' para as seguintes "
+"finalidades:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "cumprimento do 'Contrato' nos termos do artigo 6.º, (1) (b), do RGPD,"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "negociação do 'Contrato' nos termos do artigo 6.º(1) (b), do RGPD,"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
 msgstr ""
+"cumprimento das obrigações legais do 'Fornecedor' nos termos do artigo 6.º "
+"(1) (c), do RGPD,"
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, "
 "and in selected cases also"
 msgstr ""
+"os interesses legítimos do 'Fornecedor' nos termos do artigo 6.º (1) (f) do "
+"RGPD e, nos casos selecionados, também"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
 msgstr ""
+"consentimento concedido pelo 'Utilizador' ao abrigo do artigo 6.º (1) (a) do "
+"RGPD."
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
 msgstr ""
+"O âmbito dos dados pessoais do 'Utilizador' tratados pelo 'Fornecedor' "
+"inclui o seguinte:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr ""
+msgstr "primeiro e último nome,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr ""
+msgstr "a morada do 'Utilizador' (entrega e faturação),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr ""
+msgstr "Id. da Empresa e Id. do Imposto,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, X, and others),"
 msgstr ""
+"apelido(s) (incluindo quaisquer plataformas associadas voluntariamente, tais "
+"como Liberapay, GitHub, X e outras),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr ""
+msgstr "avatar do 'Utilizador',"
 
 #: wllegal/templates/legal/documents/privacy.html:96
 msgid "email address(es),"
-msgstr "endereços de email,"
+msgstr "endereço(s) de correio eletrónico,"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -297,7 +311,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:149
 msgid "Recipients and Processors of Personal Data"
-msgstr "Destinatários e subcontratantes de dados pessoais"
+msgstr "Destinatários e Processadores dos Dados Pessoais"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -370,13 +384,14 @@ msgid ""
 "the Controller is prohibited, or it would be futile) that a request for the "
 "Personal Data has been made to allow the User to object to the disclosure."
 msgstr ""
-"Os dados pessoais podem ser divulgados a terceiros em circunstâncias "
-"limitadas quando o Controlador acreditar de boa-fé que tal é exigido por "
-"lei, como por intimação ou outra ordem judicial ou administrativa. Caso o "
-"Controlador seja obrigado por lei a divulgar os dados pessoais, será feita "
-"uma tentativa de fornecer ao Utilizador um aviso por email (a menos que o "
-"Controlador seja proibido, ou seja, inútil) de que foi feita uma solicitação "
-"de dados pessoais para permitir que o utilizador se oponha à divulgação."
+"Os «Dados Pessoais» podem ser divulgados a terceiros em circunstâncias "
+"limitadas quando o 'Controlador' acreditar de boa-fé que tal é exigido por "
+"lei, como numa citação ou outra ordem judicial ou administrativa. Caso o "
+"'Controlador' seja exigido por lei para divulgar os «Dados Pessoais», será "
+"efetuada uma tentativa de fornecer ao utilizador um aviso prévio por ''e-"
+"mail'' (a menos que o 'Controlador' seja proibido, ou seria inútil) que uma "
+"solicitação para os «Dados Pessoais» tenha sido efetuada para permitir que o "
+"utilizador se oponha à divulgação."
 
 #: wllegal/templates/legal/documents/privacy.html:190
 msgid ""
@@ -468,7 +483,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:236
 msgid "User Rights in Relation to Personal Data"
-msgstr "Direitos do utilizador em relação aos dados pessoais"
+msgstr "Direitos do Utilizador em Relação aos Dados Pessoais"
 
 #: wllegal/templates/legal/documents/privacy.html:240
 #, python-format
@@ -762,16 +777,12 @@ msgid "Personal Data"
 msgstr "Dados Pessoais"
 
 #: wllegal/templates/legal/documents/tos.html:96
-#, fuzzy
-#| msgid ""
-#| "means personal data as defined in EU Regulation 679/2016, entered by the "
-#| "user into the Service and/or Cookies;"
 msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"significa os dados pessoais como definidos pelo Regulamento da UE n.º "
-"679/2016, inserida pelo Utilizador no Serviço e/ou Cookies;"
+"significa que os dados pessoais como definidos pelo Regulamento da UE n.º "
+"679/2016, inserida pelo utilizador no Serviço e/ou Cookies;"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
