@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-05-22 11:19+0000\n"
-"PO-Revision-Date: 2025-05-31 10:16+0000\n"
+"PO-Revision-Date: 2025-06-04 01:01+0000\n"
 "Last-Translator: پرویز قادر <mpqadir@gmail.com>\n"
 "Language-Team: Saraiki <https://hosted.weblate.org/projects/weblate/legal/"
 "skr/>\n"
@@ -24,10 +24,8 @@ msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr ""
 
 #: wllegal/templates/legal/documents/contracts.html:11
-#, fuzzy
-#| msgid "Status as of March 2023."
 msgid "Status as of May 2024."
-msgstr "مارچ ٢٠٢٣ دا سٹیٹس۔"
+msgstr "مئی ٢٠٢٤ دا سٹیٹس۔"
 
 #: wllegal/templates/legal/documents/privacy.html:5
 msgid ""
