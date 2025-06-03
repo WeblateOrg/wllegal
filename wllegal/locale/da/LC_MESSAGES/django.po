@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-05-22 11:19+0000\n"
-"PO-Revision-Date: 2025-06-03 00:04+0000\n"
+"PO-Revision-Date: 2025-06-04 01:01+0000\n"
 "Last-Translator: cat <catsnote@proton.me>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/weblate/legal/da/>"
 "\n"
@@ -354,7 +354,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:149
 msgid "Recipients and Processors of Personal Data"
-msgstr "Modtagere og behandlere af personoplysninger"
+msgstr "Modtagere og Behandlere af Personoplysninger"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -520,7 +520,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:236
 msgid "User Rights in Relation to Personal Data"
-msgstr "Brugerrettigheder i forhold til personoplysninger"
+msgstr "Brugerrettigheder i forhold til Personoplysninger"
 
 #: wllegal/templates/legal/documents/privacy.html:240
 #, python-format
@@ -590,7 +590,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:272
 #: wllegal/templates/legal/documents/tos.html:620
 msgid "Final Provisions"
-msgstr ""
+msgstr "Afsluttende bestemmelser"
 
 #: wllegal/templates/legal/documents/privacy.html:276
 msgid ""
@@ -653,8 +653,8 @@ msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
 msgstr ""
-"Dine oversættelser er foretaget i henhold til den licens, som er angivet ved "
-"hver oversættelse."
+"Dine oversættelser er foretaget under den licens, der er angivet for hver "
+"oversættelse."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid ""
@@ -682,7 +682,7 @@ msgid ""
 "translations are provided for your convenience."
 msgstr ""
 "De Generelle Vilkår og Betingelser er juridisk bindende på engelsk. "
-"Oversættelser leveres blot til din bekvemmelighed."
+"Oversættelser er tilgængelige for din bekvemmelighed."
 
 #: wllegal/templates/legal/documents/tos.html:11
 msgid ""
@@ -701,6 +701,11 @@ msgid ""
 "Services and Products. These general terms and conditions govern the "
 "contractual relationship between the service provider and the User."
 msgstr ""
+"Disse generelle vilkår og betingelser er en integreret del af serviceaftalen "
+"indgået mellem Brugeren og Udbyderen (herefter benævnt "
+"\"<strong>Aftalen</strong>\") og definerer de bindende regler og betingelser "
+"for levering og brug af Tjenester og Produkter. Disse generelle vilkår og "
+"betingelser regulerer kontraktforholdet mellem tjenesteudbyderen og Brugeren."
 
 #: wllegal/templates/legal/documents/tos.html:24
 msgid ""
