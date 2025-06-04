@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-05-22 11:19+0000\n"
-"PO-Revision-Date: 2025-06-04 01:01+0000\n"
+"PO-Revision-Date: 2025-06-05 03:40+0000\n"
 "Last-Translator: cat <catsnote@proton.me>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/weblate/legal/da/>"
 "\n"
@@ -725,11 +725,11 @@ msgstr "betyder lov nr. 89/2012, civillovbog, som ændret;"
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
-msgstr ""
+msgstr "Kontraherende parter"
 
 #: wllegal/templates/legal/documents/tos.html:40
 msgid "jointly refers to the User and the Provider;"
-msgstr ""
+msgstr "henviser samlet til Brugeren og Udbyderen;"
 
 #: wllegal/templates/legal/documents/tos.html:44
 msgid "Cookies"
@@ -743,10 +743,15 @@ msgid ""
 "Coll., on Certain Information Society Services and Amending Certain Acts, as "
 "amended;"
 msgstr ""
+"betyder enhver data, der sendes fra tjenestens webserver til Brugerens "
+"computer eller anden internetforbundet enhed, og som muliggør entydig "
+"identifikation af Brugerens webbrowser i overensstemmelse med § 89 i lov nr. "
+"480/2004 Sb. om visse tjenester i informationssamfundet og om ændring af "
+"visse love, med senere ændringer;"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Dedicated Weblate"
-msgstr ""
+msgstr "Dedikeret Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:54
 msgid ""
@@ -769,19 +774,19 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
-msgstr ""
+msgstr "GVB"
 
 #: wllegal/templates/legal/documents/tos.html:68
 msgid ""
 "means these general terms and conditions, which form an integral part of the "
 "Agreement;"
 msgstr ""
-"betyder disse generelle vilkår og betingelser, som udgør en væsentlig del af "
-"Aftalen;"
+"betyder disse generelle vilkår og betingelser, som udgør en integreret del "
+"af Aftalen;"
 
 #: wllegal/templates/legal/documents/tos.html:72
 msgid "Hosted String"
-msgstr ""
+msgstr "Hostet streng"
 
 #: wllegal/templates/legal/documents/tos.html:75
 msgid ""
@@ -801,6 +806,9 @@ msgid ""
 "provides Services to Users on a non-dedicated (i.e., shared by multiple "
 "Users) cloud operated by the Provider;"
 msgstr ""
+"betyder en samarbejdsform, der udelukkende er cloud-baseret, hvor Udbyderen "
+"leverer tjenester til Brugere på en ikke-dedikeret (dvs. delt af flere "
+"brugere) sky, som drives af Udbyderen;"
 
 #: wllegal/templates/legal/documents/tos.html:86
 msgid "License"
@@ -816,19 +824,15 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:93
 msgid "Personal Data"
-msgstr "Personlige Data"
+msgstr "Personoplysninger"
 
 #: wllegal/templates/legal/documents/tos.html:96
-#, fuzzy
-#| msgid ""
-#| "means personal data as defined in EU Regulation 679/2016, entered by the "
-#| "user into the Service and/or Cookies;"
 msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"betyder personoplysninger i henhold til EU-forordning 679/2016, som Brugeren "
-"har indsat i Tjenesten og/eller Cookies;"
+"betyder personoplysninger som defineret i EU-forordning nr. 679/2016, "
+"indtastet af brugeren i Tjenesten og/eller Cookies;"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
@@ -840,6 +844,8 @@ msgid ""
 "the value expressed in money for the provided License in accordance with the "
 "Price List;"
 msgstr ""
+"værdien udtrykt i penge for den leverede Licens i overensstemmelse med "
+"Prislisten;"
 
 #: wllegal/templates/legal/documents/tos.html:107
 msgid "Price List"
@@ -850,6 +856,8 @@ msgid ""
 "means the document or web page that specifies the Price of the Service and/"
 "or Product unless otherwise stated in the Agreement;"
 msgstr ""
+"betyder det dokument eller den webside, der angiver Prisen på Tjenesten og/"
+"eller Produktet, medmindre andet er angivet i Aftalen;"
 
 #: wllegal/templates/legal/documents/tos.html:114
 msgid "Product"
@@ -861,6 +869,10 @@ msgid ""
 "Provider based on its brand usage policy. The User purchases the Product AS "
 "IS. Support and other services are provided separately;"
 msgstr ""
+"betyder enhver tjeneste eller del deraf, som leveres under en bestemt "
+"mærkevare fra Udbyderen baseret på Udbyderens politik for mærkevarebrug. "
+"Brugeren køber Produktet SOM DET ER. Support og andre tjenester leveres "
+"separat;"
 
 #: wllegal/templates/legal/documents/tos.html:121
 msgid "Provider"
@@ -873,6 +885,10 @@ msgid ""
 "the Commercial Register maintained by the Regional Court in Ústí nad Labem, "
 "file no. C 52324, with which the Agreement was concluded;"
 msgstr ""
+"henviser til selskabet <strong>Weblate s.r.o.</strong>, CVR-nr. 21668027, "
+"med registreret adresse på Nábřežní 694, Cvikov II, 471 54 Cvikov, "
+"registreret i Erhvervsregistret ved Landsretten i Ústí nad Labem, sag nr. C "
+"52324, som Aftalen er indgået med;"
 
 #: wllegal/templates/legal/documents/tos.html:128
 msgid "Service"
@@ -887,13 +903,15 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid "Self-hosting"
-msgstr ""
+msgstr "Selvhosting"
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid ""
 "means a form of collaboration where the User is the sole user of the "
 "Service, and this Service is operated directly on the User Server;"
 msgstr ""
+"betyder en samarbejdsform, hvor Brugeren er den eneste bruger af Tjenesten, "
+"og denne Tjeneste drives direkte på Brugerserveren;"
 
 #: wllegal/templates/legal/documents/tos.html:142
 msgid "Support Services"
@@ -905,6 +923,8 @@ msgid ""
 "Support Services are governed separately by a separate support service "
 "agreement;"
 msgstr ""
+"betyder den support, Udbyderen yder til Brugeren inden for Tjenesten. "
+"Supporttjenester reguleres særskilt af en separat supportaftale;"
 
 #: wllegal/templates/legal/documents/tos.html:149
 msgid "Translation Memory"
@@ -936,6 +956,8 @@ msgid ""
 "means a user account with a unique access code and password in the Hosted "
 "Weblate web interface. Each User Account can be used by only one User;"
 msgstr ""
+"betyder en brugerkonto med en unik kode og adgangskode i Hosted Weblate-"
+"webgrænsefladen. Hver Brugerkonto kan kun anvendes af én Bruger;"
 
 #: wllegal/templates/legal/documents/tos.html:170
 msgid "User Server"
@@ -946,18 +968,20 @@ msgid ""
 "refers to the server and other hardware equipment not owned, managed, or "
 "controlled by the Provider;"
 msgstr ""
+"henviser til serveren og andet hardwareudstyr, som ikke ejes, administreres "
+"eller kontrolleres af Udbyderen;"
 
 #: wllegal/templates/legal/documents/tos.html:179
 msgid "Methods of Acceptance"
-msgstr ""
+msgstr "Acceptmetoder"
 
 #: wllegal/templates/legal/documents/tos.html:183
 msgid "The License is granted to the User based on the concluded Agreement."
-msgstr "Licenses gives til Brugeren baseret på den indgåede Aftale."
+msgstr "Licensen gives til Brugeren baseret på den indgåede Aftale."
 
 #: wllegal/templates/legal/documents/tos.html:187
 msgid "These GTC are an integral part of the Agreement."
-msgstr ""
+msgstr "Disse GVB er en integreret del af Aftalen."
 
 #: wllegal/templates/legal/documents/tos.html:191
 msgid "The Agreement is concluded:"
@@ -968,6 +992,8 @@ msgid ""
 "on the day of signing by both parties (especially for all Services offered "
 "with custom settings);"
 msgstr ""
+"på dagen for underskrivelse af begge parter (især for alle Tjenester, der "
+"tilbydes med tilpassede indstillinger);"
 
 #: wllegal/templates/legal/documents/tos.html:199
 msgid ""
@@ -978,10 +1004,15 @@ msgid ""
 "Provider's bank account) for the amount stated in the first billing period "
 "by the User."
 msgstr ""
+"online ved accept (bekræftelse) via webgrænsefladen i overensstemmelse med "
+"Prislisten, hvor Aftalen træder i kraft, når Prisen for Licensen er betalt "
+"korrekt (ved bankoverførsel, når beløbet svarende til Prisen for Licensen er "
+"indgået på Udbyderens bankkonto) for det beløb, Brugeren har angivet i den "
+"første faktureringsperiode."
 
 #: wllegal/templates/legal/documents/tos.html:207
 msgid "Service Provision"
-msgstr ""
+msgstr "Levering af tjenester"
 
 #: wllegal/templates/legal/documents/tos.html:211
 msgid ""
@@ -990,6 +1021,10 @@ msgid ""
 "accordance with the Agreement and the technical specifications outlined in "
 "the Product specification."
 msgstr ""
+"Udbyderen driver Tjenesten på den internetadresse, der er angivet i "
+"Produktspecifikationen, og dens underdomæner eller på Brugerens Servere i "
+"overensstemmelse med Aftalen og de tekniske specifikationer angivet i "
+"Produktspecifikationen."
 
 #: wllegal/templates/legal/documents/tos.html:215
 msgid ""
@@ -1000,12 +1035,20 @@ msgid ""
 "specification defined in this manner takes precedence over the form of "
 "Service offered according to the Price List."
 msgstr ""
+"Hvis Aftalen indgås i henhold til Artikel 2.3(a), defineres Tjenesternes "
+"omfang i Produktspecifikationen, som er vedlagt Aftalen. "
+"Produktspecifikationen kan desuden uddybe omfanget af de enkelte (under)"
+"tjenester med hensyn til indhold og aktiveringsmetoder. En sådan "
+"Produktspecifikation har forrang frem for den form for Tjeneste, der "
+"tilbydes i henhold til Prislisten."
 
 #: wllegal/templates/legal/documents/tos.html:219
 msgid ""
 "The Service is provided in three forms of cooperation: Hosted Weblate, "
 "Dedicated Weblate, and Self-hosting."
 msgstr ""
+"Tjenesten leveres i tre former for samarbejde: Hosted Weblate, Dedikeret "
+"Weblate og Selvhosting."
 
 #: wllegal/templates/legal/documents/tos.html:223
 msgid ""
@@ -1018,6 +1061,14 @@ msgid ""
 "third parties may process Personal Data within their activities in "
 "accordance with the Agreement and GPLv3."
 msgstr ""
+"I overensstemmelse med GPLv3 kan visse aspekter af Tjenesten leveres enten "
+"med bistand fra tredjeparter, der ikke er Udbyderen, eller direkte af disse "
+"parter. Brugeren anerkender, at disse tredjeparter leverer deres tjenester i "
+"overensstemmelse med denne Aftale og GPLv3-licensen. Brugeren anerkender, at "
+"de tredjeparter, der er involveret i leveringen af Tjenesten, kan ændre sig "
+"i løbet af Tjenestens varighed. Disse tredjeparter kan behandle "
+"Personoplysninger som led i deres aktiviteter i overensstemmelse med Aftalen "
+"og GPLv3."
 
 #: wllegal/templates/legal/documents/tos.html:227
 msgid "Service Duration"
@@ -1030,6 +1081,9 @@ msgid ""
 "subscription can be paid monthly or annually in accordance with Article 5 of "
 "the GTC."
 msgstr ""
+"Medmindre andet udtrykkeligt er aftalt i Aftalen, indgås Aftalen for en "
+"periode svarende til et abonnementsmodel. Abonnementet kan betales månedligt "
+"eller årligt i overensstemmelse med Artikel 5 i GVB."
 
 #: wllegal/templates/legal/documents/tos.html:239
 msgid ""
@@ -1041,6 +1095,13 @@ msgid ""
 "List. The price for Services consists of the following separate items or "
 "their combination, which are paid regularly monthly/annually:"
 msgstr ""
+"Prisen for Tjenesten fastsættes i henhold til tilbuddet eller Prislisten. "
+"Brugeren anerkender og accepterer, at Prislisten ensidigt kan ændres af "
+"Udbyderen på samme måde som disse GVB. Prisen afhænger af den valgte "
+"konfiguration af Tjenesten, og der findes mange varianter, hvori Tjenesten "
+"kan leveres. Disse varianter er anført i Prislisten. Prisen for Tjenester "
+"består af følgende separate poster eller en kombination heraf, som betales "
+"regelmæssigt månedligt/årligt:"
 
 #: wllegal/templates/legal/documents/tos.html:243
 msgid ""
@@ -1049,6 +1110,10 @@ msgid ""
 "but paid monthly or annually, with this price varying for different forms of "
 "collaboration according to the Price List;"
 msgstr ""
+"normalpris for adgang til Tjenester, som altid fastsættes for den relevante "
+"periode og baseres på Tjenestens specifikke betingelser, men betales "
+"månedligt eller årligt, og som varierer afhængigt af samarbejdsformen i "
+"henhold til Prislisten;"
 
 #: wllegal/templates/legal/documents/tos.html:246
 msgid ""
@@ -1056,6 +1121,9 @@ msgid ""
 "User from the options offered in the Price List or in agreement with the "
 "Provider;"
 msgstr ""
+"normalpris for antallet af Hostede Strenge; dette beløb vælges af Brugeren "
+"blandt de muligheder, der tilbydes i Prislisten eller efter aftale med "
+"Udbyderen;"
 
 #: wllegal/templates/legal/documents/tos.html:249
 msgid "regular price for Translation Memory;"
@@ -1066,12 +1134,17 @@ msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
 msgstr ""
+"(punkterne a), b) og c) omtales samlet som \"<strong>Abonnementet</strong>\""
+")."
 
 #: wllegal/templates/legal/documents/tos.html:258
 msgid ""
 "To avoid doubt, the Subscription may guarantee either only access to a "
 "specific Product or License and/or a specific package of guaranteed Services."
 msgstr ""
+"For at undgå tvivl kan Abonnementet omfatte enten alene adgang til et "
+"bestemt Produkt eller en Licens og/eller en specifik pakke af garanterede "
+"Tjenester."
 
 #: wllegal/templates/legal/documents/tos.html:262
 msgid ""
@@ -1080,6 +1153,10 @@ msgid ""
 "invoice is issued and delivered to the User within 5 working days after the "
 "end of each relevant period."
 msgstr ""
+"Brugeren er forpligtet til at betale Prisen på grundlag af de modtagne "
+"skattedokumenter (fakturaer) udstedt af Udbyderen. Prisen betales forud, og "
+"fakturaen udstedes og leveres til Brugeren inden for 5 arbejdsdage efter "
+"afslutningen af hver relevant periode."
 
 #: wllegal/templates/legal/documents/tos.html:266
 #, python-format
@@ -1090,6 +1167,10 @@ msgid ""
 "an additional VAT of 21%%. Reverse charge applies to invoices issued to "
 "businesses within the EU."
 msgstr ""
+"Betaling af Prisen kan ske med kreditkort, bankoverførsel eller "
+"kryptotransaktion. Alle Priser i Prislisten er ekskl. moms. Slutbrugere fra "
+"EU og tjekkiske virksomheder skal betale yderligere 21%% i moms. Omvendt "
+"betalingspligt gælder for fakturaer udstedt til virksomheder inden for EU."
 
 #: wllegal/templates/legal/documents/tos.html:270
 msgid ""
@@ -1099,6 +1180,10 @@ msgid ""
 "verifying with the prepaid card issuer or bank whether recurring billing is "
 "possible."
 msgstr ""
+"Ønsker Brugeren at undgå opkrævning for Tjenesten i Abonnementsform, skal "
+"Abonnementet opsiges senest tre dage før automatisk fornyelse af "
+"Tjenestebrugen. Udbyderen anbefaler at bekræfte hos udstederen af det "
+"forudbetalte kort eller banken, om gentagne betalinger er mulige."
 
 #: wllegal/templates/legal/documents/tos.html:274
 msgid ""
@@ -1108,6 +1193,11 @@ msgid ""
 "date as per point 5.5 above, their Subscription will stop at the end of the "
 "current billing cycle."
 msgstr ""
+"Brugeren kan ændre sin Abonnementsform online ved at logge ind på sin "
+"Brugerkonto og foretage ændringen eller opsige Abonnementet dér. Hvis "
+"Brugeren opsiger sit Abonnement mindst tre dage før fornyelsesdatoen som "
+"angivet i punkt 5.5 ovenfor, ophører Abonnementet ved udgangen af den "
+"aktuelle betalingsperiode."
 
 #: wllegal/templates/legal/documents/tos.html:278
 msgid ""
@@ -1121,6 +1211,15 @@ msgid ""
 "prepaid Services were prepaid for a period exceeding the actual usage "
 "period, the conditions of such a refund will be agreed upon individually."
 msgstr ""
+"Udbyderen refunderer INGEN betalinger for Tjenester, Supporttjenester og/"
+"eller andre ydelser leveret i henhold til Aftalen og disse GVB, hvis de er "
+"leveret før Brugerens opsigelse af disse Tjenester. Annullering af en ordre "
+"efter betaling kan ske efter aftale, hvis den bestilte Tjeneste ikke er "
+"blevet anvendt, og der ikke er gjort forsøg på at downloade den. Hvis der er "
+"forsøgt download, vil der ikke finde nogen forhandling sted, og Brugeren har "
+"ikke ret til refusion, rabat eller anden økonomisk kompensation. Hvis "
+"forudbetalte Tjenester er betalt for en længere periode end den faktiske "
+"brug, aftales betingelserne for en eventuel refusion individuelt."
 
 #: wllegal/templates/legal/documents/tos.html:282
 msgid ""
@@ -1133,6 +1232,13 @@ msgid ""
 "new Price or conditions come into effect. Under these conditions, the User "
 "has the right to cancel the Subscription."
 msgstr ""
+"Operatøren kan til enhver tid ensidigt ændre Priser og Abonnementsvilkår. "
+"Prisen og vilkårene, der var gældende ved første køb eller seneste "
+"Abonnementsfornyelse, forbliver gældende i den pågældende "
+"Abonnementsperiode, men nye priser og vilkår kan gælde ved fornyelser eller "
+"nye Abonnementer. Udbyderen giver Brugeren besked om ændringer i priser "
+"eller abonnementsvilkår i rimelig tid, inden de træder i kraft. Brugeren har "
+"ret til at opsige Abonnementet under disse betingelser."
 
 #: wllegal/templates/legal/documents/tos.html:286
 msgid "License Terms"
@@ -1148,6 +1254,11 @@ msgid ""
 "License is provided. The License is granted in accordance with the option "
 "selected according to the Price List."
 msgstr ""
+"Udbyderens software og Weblates softwareudvidelser distribueres under GNU/"
+"GPLv3-licensen (se <a href=\"%(url)s\">%(url)s</a>). Brugeren tildeles en "
+"ikke-eksklusiv licens til dele af Tjenesten i henhold til de GVB-vilkår, der "
+"er gældende på tidspunktet for Licensens udstedelse. Licensen gives i "
+"overensstemmelse med den valgte løsning ifølge Prislisten."
 
 #: wllegal/templates/legal/documents/tos.html:295
 #, python-format
@@ -1160,6 +1271,12 @@ msgid ""
 "according to the information provided on the Provider's website (see <a "
 "href=\"%(url)s\">%(url)s</a>)."
 msgstr ""
+"Medmindre andet er angivet i Aftalen, er licensvilkårene i denne Aftale "
+"fuldt ud underlagt GPLv3-licensen. Udvalgte dele af Softwaren kan dog være "
+"licenseret under andre licenser. En komplet liste over licenser, der "
+"anvendes i Udbyderens Software og softwareudvidelser, findes i kildekoden, "
+"som er i overensstemmelse med REUSE 3.0-specifikationen ifølge oplysningerne "
+"på Udbyderens hjemmeside (se <a href=\"%(url)s\">%(url)s</a>)."
 
 #: wllegal/templates/legal/documents/tos.html:299
 msgid ""
@@ -1171,6 +1288,12 @@ msgid ""
 "creating, and distributing the Service, even if the User does not publicly "
 "release the Service."
 msgstr ""
+"Brugeren anerkender, at al ophavsret og andre intellektuelle rettigheder til "
+"Tjenesten tilhører Udbyderen og/eller tredjeparter, hvis værker er "
+"indarbejdet i Tjenesten og/eller anvendes sammen med Tjenesten. Brugeren "
+"mister dog ikke retten til at bruge Tjenesten i det omfang, det er tilladt i "
+"henhold til de gældende licenser, herunder at køre, skabe og distribuere "
+"Tjenesten, selv om Brugeren ikke offentliggør Tjenesten."
 
 #: wllegal/templates/legal/documents/tos.html:303
 msgid ""
@@ -1180,6 +1303,11 @@ msgid ""
 "or later versions of the GPL license), they publish all materials to which "
 "they do not own copyright."
 msgstr ""
+"Med henblik på eksklusive ændringer af Tjenesten udelukkende til fordel for "
+"Brugeren eller oprettelsen af midler til at køre disse Tjenester, må "
+"Brugeren kun offentliggøre Tjenesten, hvis de – i overensstemmelse med "
+"vilkårene i GPLv3 (og/eller senere versioner af GPL-licensen) – offentliggør "
+"alt materiale, hvortil de ikke ejer ophavsretten."
 
 #: wllegal/templates/legal/documents/tos.html:307
 msgid ""
