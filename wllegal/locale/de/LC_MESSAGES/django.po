@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-05-22 11:19+0000\n"
-"PO-Revision-Date: 2025-06-05 03:40+0000\n"
+"PO-Revision-Date: 2025-06-08 17:01+0000\n"
 "Last-Translator: VfBFan <drop0815@posteo.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/weblate/legal/de/>"
 "\n"
@@ -183,7 +183,7 @@ msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
 msgstr ""
-"die Erfüllung der rechtlichen Verpflichtungen des Anbieters gemäß Artikel "
+"die Erfüllung der gesetzlichen Verpflichtungen des Anbieters gemäß Artikel "
 "6(1)(c) der DSGVO,"
 
 #: wllegal/templates/legal/documents/privacy.html:68
@@ -196,7 +196,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
-msgstr "die Zustimmung des Benutzers gemäß Artikel 6(1)(a) der DSGVO."
+msgstr "die Einwilligung des Benutzers gemäß Artikel 6(1)(a) der DSGVO."
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
