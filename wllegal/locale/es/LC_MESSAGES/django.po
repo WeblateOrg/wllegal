@@ -8,11 +8,11 @@
 # Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-05-22 11:19+0000\n"
-"PO-Revision-Date: 2025-04-26 15:25+0000\n"
-"Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
+"PO-Revision-Date: 2025-06-10 09:06+0000\n"
+"Last-Translator: Nat A <dontknowhat_na@hotmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/weblate/legal/es/"
 ">\n"
 "Language: es\n"
@@ -214,16 +214,12 @@ msgid "Company ID and Tax ID,"
 msgstr "Identificación de la empresa y número fiscal,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
-#, fuzzy
-#| msgid ""
-#| "nickname(s) (including any voluntarily linked platforms such as "
-#| "Liberapay, GitHub, Xu, and others),"
 msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, X, and others),"
 msgstr ""
 "apodo(s) (incluyendo cualquier plataforma vinculada voluntariamente como "
-"Liberapay, GitHub, Xu y otros),"
+"Liberapay, GitHub, X, y otros),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
@@ -382,6 +378,10 @@ msgid ""
 "proper processing of Personal Data for the purposes defined in Article 2.1 "
 "of this Policy, specifically:"
 msgstr ""
+"En adición al Proveedor, recibirán y procesarán la información personal "
+"basada en esta Política aquellos terceros cuya participación sea necesaria "
+"para el procesamiento de información personal, según los propósitos "
+"definidos en el Artículo 2.1 de esta Política, específicamente:"
 
 #: wllegal/templates/legal/documents/privacy.html:158
 msgid ""
@@ -451,6 +451,12 @@ msgid ""
 "personal data must meet high standards of protection and will always handle "
 "the data within the limits of the GDPR and this Policy."
 msgstr ""
+"El Usuario acepta que el Proveedor puede transferir información personal a "
+"los Procesadores previamente mencionados de ser necesario para cumplir los "
+"propósitos de procesamiento de información. Los procesadores que el "
+"Proveedor utilice para procesar información personal deben cumplir altos "
+"estándares de protección y siempre manejarán la información dentro de los "
+"límites del RGPD y esta Política."
 
 #: wllegal/templates/legal/documents/privacy.html:186
 #, fuzzy
@@ -512,6 +518,11 @@ msgid ""
 "processing of personal data by any third party, even if those third parties "
 "are Processors."
 msgstr ""
+"El Proveedor hará todo esfuerzo para prevenir el procesamiento no autorizado "
+"de información personal por otras personas; sin embargo, no es responsable "
+"ante el Usuario u otros sujetos por cualquier daño causado debido a "
+"procesamiento no autorizado de información personal por terceros, incluso si "
+"esos terceros son Procesadores."
 
 #: wllegal/templates/legal/documents/privacy.html:207
 msgid ""
@@ -539,6 +550,9 @@ msgid ""
 "related to Personal Data that affects the User, they will notify the User of "
 "this fact without undue delay."
 msgstr ""
+"En el suceso de que el Proveedor y/o los Procesadores se enteren de un "
+"riesgo de seguridad relacionado con la Información Personal que afecte al "
+"Usuario, notificarán al Usuario de este hecho sin demoras indebidas."
 
 #: wllegal/templates/legal/documents/privacy.html:219
 msgid ""
@@ -566,6 +580,11 @@ msgid ""
 "never be subject to individual automated decision-making (including "
 "profiling) within the meaning of Article 22 of the GDPR."
 msgstr ""
+"La Información Personal será procesada electrónicamente, incluyendo el uso "
+"de métodos de procesamiento automatizados. Sin embargo, el Usuario u otros "
+"sujetos nunca serán sujetos a tomas de decisiones individuales automatizadas "
+"(incluyendo la elaboración de perfiles) de acuerdo con el Artículo 22 del "
+"RGPD."
 
 #: wllegal/templates/legal/documents/privacy.html:231
 msgid ""
@@ -591,6 +610,13 @@ msgid ""
 "correction, restriction, or deletion) can be automated through this user "
 "account."
 msgstr ""
+"El Usuario puede ejercer sus derechos surgidos del RGPD en cualquier momento "
+"enviando un correo electrónico a <a href=\"mailto:%(address)s\">%(address)s</"
+"a>, al igual que a través de su Cuenta de Usuario, dado que la "
+"implementación de la mayoría de los derechos listados abajo (especialmente "
+"aquellos relacionados con la Información Personal, su corrección, "
+"restricción o eliminación) puede ser automatizada a través de la cuenta de "
+"usuario."
 
 #: wllegal/templates/legal/documents/privacy.html:244
 msgid ""
@@ -599,12 +625,19 @@ msgid ""
 "strong>, unless due to the complexity of the matter it is necessary for the "
 "Provider to extend this period. The User's rights include:"
 msgstr ""
+"El Proveedor hará todo esfuerzo para atender solicitudes con respecto a la "
+"Información Personal del Usuario lo antes posible, pero no después de "
+"<strong>30 días</strong> a menos que, debido a la complejidad del asunto, "
+"sea necesario que el Proveedor extienda este periodo. Los derechos del "
+"Usuario incluyen:"
 
 #: wllegal/templates/legal/documents/privacy.html:249
 msgid ""
 "an explanation of whether and what personal data is being processed and, if "
 "applicable, requesting the Provider to disclose it;"
 msgstr ""
+"una explicación si es que y cuál información personal está siendo procesada, "
+"y de ser aplicable, solicitar al Proveedor que lo divulgue;"
 
 #: wllegal/templates/legal/documents/privacy.html:252
 msgid ""
@@ -682,6 +715,11 @@ msgid ""
 "Policy will be resolved before the competent civil court in the Czech "
 "Republic."
 msgstr ""
+"Todas relaciones legales entre el Proveedor y el Usuario surgidas de esta "
+"Política están gobernadas por las leyes válidas de la República Checa. "
+"Cualquier disputa surgida entre el Proveedor y el Usuario debido a , o en "
+"conexión a esta Política será resuelta ante la corte civil competente en la "
+"República Checa."
 
 #: wllegal/templates/legal/documents/privacy.html:284
 msgid ""
@@ -903,16 +941,12 @@ msgid "Personal Data"
 msgstr "Información personal"
 
 #: wllegal/templates/legal/documents/tos.html:96
-#, fuzzy
-#| msgid ""
-#| "means personal data as defined in EU Regulation 679/2016, entered by the "
-#| "user into the Service and/or Cookies;"
 msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"significa datos personales tal como se definen en el Reglamento (UE) "
-"679/2016, ingresados por el usuario en el Servicio y/o Cookies;"
+"significa información personal tal como se definen en el Reglamento (UE) 679/"
+"2016, ingresados por el usuario en el Servicio y/o Cookies;"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
@@ -1020,7 +1054,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:163
 msgid "User Account"
-msgstr ""
+msgstr "Cuenta del Usuario"
 
 #: wllegal/templates/legal/documents/tos.html:166
 msgid ""
