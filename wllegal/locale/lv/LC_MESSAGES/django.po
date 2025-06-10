@@ -5,10 +5,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-05-22 11:19+0000\n"
-"PO-Revision-Date: 2025-05-08 02:03+0000\n"
+"PO-Revision-Date: 2025-06-10 17:03+0000\n"
 "Last-Translator: \"ℂ𝕠𝕠𝕠𝕝 (𝕘𝕚𝕥𝕙𝕦𝕓.𝕔𝕠𝕞/ℂ𝕠𝕠𝕠𝕝)\" <coool@mail.lv>\n"
 "Language-Team: Latvian <https://hosted.weblate.org/projects/weblate/legal/lv/"
 ">\n"
@@ -605,22 +605,14 @@ msgid "In Prague on November 1, 2024."
 msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:5
-#, fuzzy
-#| msgid ""
-#| "We process private data (such as your e-mail address), those will be "
-#| "discarded from our database as soon as you remove your account."
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"Mēs apstrādājam privātos datus (piemēram, jūsu e-pasta adresi), tie tiks "
-"izdzēsti no mūsu datu bāzes, tiklīdz izdzēsīsit savu kontu."
+"Mēs apstrādājam personīgos datus (piemēram, jūsu e-pasta adresi); tie tiks "
+"izdzēsti no mūsu datubāzes, kad izdzēsīsiet savu kontu."
 
 #: wllegal/templates/legal/documents/summary.html:8
-#, fuzzy
-#| msgid ""
-#| "Your translations are made under license which is specified by each "
-#| "translation."
 msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
