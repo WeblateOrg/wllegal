@@ -5,13 +5,13 @@
 # anonymous <noreply@weblate.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-05-22 11:19+0000\n"
-"PO-Revision-Date: 2025-05-04 16:02+0000\n"
-"Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
-"Language-Team: Greek <https://hosted.weblate.org/projects/weblate/legal/el/"
-">\n"
+"PO-Revision-Date: 2025-06-11 18:04+0000\n"
+"Last-Translator: Jim Kats <jim-kats@hotmail.com>\n"
+"Language-Team: Greek <https://hosted.weblate.org/projects/weblate/legal/el/>"
+"\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -639,16 +639,12 @@ msgid "We don’t use any third-party cookies."
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
-"Το έγγραφο των Όρων χρήσης είναι έγκυρο στα αγγλικά, οι μεταφράσεις "
-"παρέχονται για τη διευκόλυνσή σας."
+"Το έγγραφο των Γενικών Όρων και Προϋποθέσεων είναι έγκυρο στα Αγγλικά, οι "
+"μεταφράσεις παρέχονται για τη διευκόλυνσή σας."
 
 #: wllegal/templates/legal/documents/tos.html:11
 msgid ""
