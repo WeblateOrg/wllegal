@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-05-22 11:19+0000\n"
-"PO-Revision-Date: 2025-05-31 10:45+0000\n"
+"PO-Revision-Date: 2025-06-12 12:03+0000\n"
 "Last-Translator: Zulfar <mzulfar20@gmail.com>\n"
 "Language-Team: Bashkir <https://hosted.weblate.org/projects/weblate/legal/ba/"
 ">\n"
@@ -32,11 +32,13 @@ msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
+"Хосусилыҡ сәйәсәте документының инглиз телендәгеһе юридик көскә эйә, "
+"тәржемәләр һеҙҙең уңайлыҡ өсөн бирелә."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:6
 msgid "View English version"
-msgstr ""
+msgstr "Инглизсә версияһын ҡарарға"
 
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
@@ -614,6 +616,8 @@ msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
+"Дөйөм ҡағиҙәләр һәм шарттар документының инглиз телендәгеһе юридик көскә "
+"эйә, тәржемәләр һеҙҙең уңайлыҡ өсөн бирелә."
 
 #: wllegal/templates/legal/documents/tos.html:11
 msgid ""
@@ -655,7 +659,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:44
 msgid "Cookies"
-msgstr ""
+msgstr "Кукиҙар"
 
 #: wllegal/templates/legal/documents/tos.html:47
 msgid ""
@@ -708,7 +712,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
-msgstr ""
+msgstr "Хостингтағы Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:82
 msgid ""
@@ -719,7 +723,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:86
 msgid "License"
-msgstr ""
+msgstr "Лицензия"
 
 #: wllegal/templates/legal/documents/tos.html:89
 msgid ""
@@ -771,7 +775,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:121
 msgid "Provider"
-msgstr ""
+msgstr "Провайдер"
 
 #: wllegal/templates/legal/documents/tos.html:124
 msgid ""
@@ -783,7 +787,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:128
 msgid "Service"
-msgstr ""
+msgstr "Сервис"
 
 #: wllegal/templates/legal/documents/tos.html:131
 msgid ""
@@ -821,7 +825,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:156
 msgid "User"
-msgstr ""
+msgstr "Ҡулланыусы"
 
 #: wllegal/templates/legal/documents/tos.html:159
 msgid ""
