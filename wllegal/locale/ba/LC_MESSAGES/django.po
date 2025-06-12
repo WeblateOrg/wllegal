@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-05-22 11:19+0000\n"
-"PO-Revision-Date: 2025-06-12 12:03+0000\n"
+"PO-Revision-Date: 2025-06-13 13:04+0000\n"
 "Last-Translator: Zulfar <mzulfar20@gmail.com>\n"
 "Language-Team: Bashkir <https://hosted.weblate.org/projects/weblate/legal/ba/"
 ">\n"
@@ -21,11 +21,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr "GDPR-ҙың 28-се статьяһы буйынса субподрядсылар"
+msgstr "GDPR-ҙың 28-се статьяһына ярашлы субподрядсылар"
 
 #: wllegal/templates/legal/documents/contracts.html:11
 msgid "Status as of May 2024."
-msgstr ""
+msgstr "2024 йылдың майына ҡарата торош."
 
 #: wllegal/templates/legal/documents/privacy.html:5
 msgid ""
@@ -47,11 +47,14 @@ msgid ""
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
+"Был Хосусилыҡ сәйәсәте, артабан – \"<strong>Сәйәсәт</strong>\", Weblate-тың "
+"<a href=\"%(terms_url)s\">Дөйөм ҡағиҙәләрен һәм шарттарын</a>, артабан – "
+"\"<strong>Шарттар</strong>\", тулыландыра."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
 msgid "Introductory Provisions"
-msgstr ""
+msgstr "Инеш положениелар"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
@@ -60,6 +63,10 @@ msgid ""
 "the Commercial Register kept by the Regional Court in Ústí nad Labem, file "
 "No. C 52324, i.e. the \"<strong>Provider</strong>\"."
 msgstr ""
+"Был Сәйәсәт Weblate s.r.o. тарафынан сығарылды, ID No.: 21668027, теркәлгән "
+"офисы: Nábřežní 694, Cvikov II, 471 54 Cvikov, Ústí nad Labem-дағы Төбәк "
+"судында һаҡланған Коммерция реестрында теркәлгән, файл No. C 52324, йәғни "
+"\"<strong>Провайдер</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid ""
@@ -68,6 +75,11 @@ msgid ""
 "the Services, Products, Support Services, as well as when using the Website "
 "and other possible services and related activities."
 msgstr ""
+"Был Сәйәсәт Провайдерҙың Ҡулланыусыларҙың – шәхси мәғлүмәт субъекттары "
+"булараҡ физик шәхестәрҙең – Хеҙмәттәргә, Продукттарға, Ярҙам хеҙмәттәренә "
+"инеү һәм артабан ҡулланыу, шулай уҡ Веб-сайтты һәм башҡа мөмкин булған "
+"хеҙмәттәрҙе һәм бәйле эшмәкәрлектәрҙе ҡулланыу барышында шәхси мәғлүмәттәрен "
+"нисек эшкәртеүен тасуирлай."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid ""
@@ -75,6 +87,9 @@ msgid ""
 "in Article 1 of the Terms and which have the same meaning as set out in the "
 "Terms."
 msgstr ""
+"Был Сәйәсәттә шулай уҡ Шарттарҙың 1-се статьяһында билдәләнгән һәм Шарттарҙа "
+"күрһәтелгән мәғәнәгә эйә булған ҡайһы бер терминдар йәки билдәләмәләр "
+"ҡулланыла."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
@@ -87,6 +102,15 @@ msgid ""
 "personal data and the protection of privacy in the electronic communications "
 "sector (abbreviated as the \"<strong>ePrivacy Directive</strong>\")."
 msgstr ""
+"Шәхси мәғлүмәттәрҙе эшкәрткәндә Провайдер Европа Парламентының һәм Советының "
+"(ЕС) 2016/679 Регламентын, шулай уҡ GDPR булараҡ билдәле булған Шәхси "
+"мәғлүмәттәрҙе яҡлауҙың дөйөм регламентын (артабан беҙ "
+"\"<strong>GDPR</strong>\" ҡыҫҡартмаһын ҡулланасаҡбыҙ), шәхси мәғлүмәттәрҙе "
+"эшкәртеү тураһындағы 110/2019-сы һанлы Ҡанунды, шулай уҡ Европа "
+"Парламентының һәм Советының 2002 йылдың 12 июлендәге электрон элемтә "
+"секторында шәхси мәғлүмәттәрҙе эшкәртеү һәм хосусилыҡты яҡлау тураһындағы "
+"2002/58/EC Директиваһын (ҡыҫҡаса \"<strong>ePrivacy Директиваһы</strong>\") "
+"үтәй."
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -96,6 +120,11 @@ msgid ""
 "registers for the Provider's newsletter and/or when the Provider and the "
 "User conclude the Contract, whichever is the earliest."
 msgstr ""
+"Ҡулланыусыларҙың шәхси мәғлүмәттәрен ысынбарлыҡта эшкәртеү һәр ваҡыт был "
+"Сәйәсәттә ентеклерәк билдәләнгән маҡсаттар һәм шарттар өсөн генә башҡарыла "
+"һәм Ҡулланыусы Веб-сайтҡа ингән, Провайдерҙың яңылыҡтар бюллетененә яҙылған "
+"һәм/йәки Провайдер менән Ҡулланыусы Килешеү төҙөгән ваҡыттан башлана, "
+"ҡайһыһы иртәрәк булһа, шул."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid ""
@@ -104,6 +133,10 @@ msgid ""
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
 msgstr ""
+"Эшкәртеү артабан йә туранан-тура Провайдер тарафынан, һәм/йәки был Сәйәсәткә "
+"ярашлы шәхси мәғлүмәттәрҙе эшкәртеү өсөн Провайдер тарафынан вәкәләт "
+"бирелгән был Сәйәсәттең 3-сө статьяһы мәғәнәһендәге өсөнсө яҡтар тарафынан "
+"башҡарыла."
 
 #: wllegal/templates/legal/documents/privacy.html:45
 msgid ""
@@ -111,71 +144,82 @@ msgid ""
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
+"Әгәр ошо Сәйәсәттә асыҡтан-асыҡ башҡаса ҡаралмаһа, Провайдер GDPR-ҙа "
+"билдәләнгәнсә <strong>мәғлүмәт контролеры</strong>, ә физик шәхес булған "
+"Ҡулланыусылар — мәғлүмәт субъекттары булараҡ эш итә."
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "Эшкәртеүҙең даирәһе, маҡсаттары һәм оҙайлығы"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
 msgstr ""
+"Провайдер Ҡулланыусының шәхси мәғлүмәттәрен түбәндәге маҡсаттарҙа эшкәртә:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "GDPR-ҙың 6(1)(b) статьяһы буйынса Килешеүҙе үтәү,"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
 msgstr ""
+"GDPR-ҙың 6(1)(b) статьяһы буйынса Килешеү тураһында һөйләшеүҙәр алып барыу,"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
-msgstr ""
+msgstr "GDPR-ҙың 6(1)(c) статьяһы буйынса Провайдерҙың юридик бурыстарын үтәү,"
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, "
 "and in selected cases also"
 msgstr ""
+"GDPR-ҙың 6(1)(f) статьяһы буйынса Провайдерҙың законлы мәнфәғәттәре, һәм "
+"һайланған осраҡтарҙа шулай уҡ"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
-msgstr ""
+msgstr "GDPR-ҙың 6(1)(a) статьяһы буйынса Ҡулланыусы биргән ризалыҡ."
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
 msgstr ""
+"Провайдер эшкәрткән Ҡулланыусының шәхси мәғлүмәттәре даирәһенә түбәндәгеләр "
+"инә:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr ""
+msgstr "исем һәм фамилия,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr ""
+msgstr "Ҡулланыусының адресы (килтереү һәм түләү өсөн),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr ""
+msgstr "Компания ID-һы һәм Һалым ID-һы,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, X, and others),"
 msgstr ""
+"ҡушамат(тар) (Liberapay, GitHub, X һәм башҡалар кеүек ирекле бәйләнгән "
+"платформаларҙы индереп),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr ""
+msgstr "Ҡулланыусының аватары,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
 msgid "email address(es),"
-msgstr ""
+msgstr "e-mail адрес(тар)ы,"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -183,15 +227,19 @@ msgid ""
 "openSUSE, and Ubuntu in the event that accounts with these providers are "
 "linked to the User account,"
 msgstr ""
+"Bitbucket, Facebook, Google, LinkedIn, GitHub, GitLab, openSUSE һәм Ubuntu "
+"өсөн идентификаторҙар, әгәр был провайдерҙарҙағы аккаунттар Ҡулланыусы "
+"аккаунтына бәйләнгән булһа,"
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
-msgstr ""
+msgstr "Ҡулланыусы ҡулланған Хеҙмәт һәм Продукт спецификациялары,"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
 msgstr ""
+"Ҡулланыусының команда ағзалары һаны һәм уларҙың ролдәре тураһында мәғлүмәт,"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
@@ -199,35 +247,45 @@ msgid ""
 "Profile), i.e., settings for languages, notifications, if they can identify "
 "the User directly or indirectly,"
 msgstr ""
+"Ҡулланыусы аккаунтының башҡа бөтә көйләүҙәре (шул иҫәптән Профиль тип "
+"аталғаны), йәғни телдәр, хәбәрнамәләр өсөн көйләүҙәр, әгәр улар Ҡулланыусыны "
+"туранан-тура йәки ситләтеп идентификациялай алһа,"
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
-msgstr ""
+msgstr "банк иҫәбе номеры һәм, бәлки, Ҡулланыусының башҡа түләү реквизиттары,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "криптовалюта янсығының адрес(тар)ы,"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
 "other personal data contained in messages sent by the User to the Provider "
 "(especially the subject and other content of the message),"
 msgstr ""
+"Ҡулланыусы Провайдерға ебәргән хәбәрҙәрҙә булған башҡа шәхси мәғлүмәттәр ("
+"бигерәк тә хәбәрҙең темаһы һәм башҡа йөкмәткеһе),"
 
 #: wllegal/templates/legal/documents/privacy.html:120
 msgid ""
 "other personal data contained in communications with the Provider's support,"
 msgstr ""
+"Провайдерҙың ярҙам хеҙмәте менән аралашыуҙа булған башҡа шәхси мәғлүмәттәр,"
 
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
 msgstr ""
+"система мәғлүмәттәре, журналдар һәм Ҡулланыусының IP-адресын индереп, сессия "
+"журналдары,"
 
 #: wllegal/templates/legal/documents/privacy.html:128
 msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
+"бында юғарыла һаналған шәхси мәғлүмәттәрҙең айырым категориялары артабан "
+"бергәләп \"<strong>Шәхси Мәғлүмәттәр</strong>\" тип аталасаҡ."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -240,6 +298,15 @@ msgid ""
 "under the conditions and based on a separate data processing agreement (so-"
 "called processing agreement) concluded between the Provider and the User."
 msgstr ""
+"Ҡайһы бер осраҡтарҙа, Провайдер шулай уҡ <strong>шәхси мәғлүмәттәрҙе "
+"эшкәртеүсе</strong> лә булырға мөмкин, атап әйткәндә, Ҡулланыусы үҙ "
+"маҡсаттары өсөн өсөнсө яҡтарҙың шәхси мәғлүмәттәрен уға биргәндә (мәҫәлән, "
+"айырым команда ағзаларын өҫтәгәндә, Провайдерға икенсе кеше исеменән проект "
+"иғәнә иткәндә һ.б.). Ҡулланыусы тарафынан мөмкин ителгән өсөнсө яҡтарҙың "
+"һайланған Шәхси Мәғлүмәттәрен эшкәртеү был осраҡта Ҡулланыусының күрһәтмәһе "
+"буйынса, Провайдер менән Ҡулланыусы араһында төҙөлгән айырым мәғлүмәт "
+"эшкәртеү килешеүе (эшкәртеү килешеүе тип аталған) шарттарына һәм нигеҙенә "
+"ярашлы башҡарыла."
 
 #: wllegal/templates/legal/documents/privacy.html:136
 msgid ""
@@ -265,6 +332,28 @@ msgid ""
 "the User's instructions unless the Provider has another legal basis for "
 "processing personal data as a controller under Article 2.1 of this Policy."
 msgstr ""
+"Провайдер Шәхси Мәғлүмәттәрҙе Килешеүҙән килеп сыҡҡан бөтә бурыстар "
+"үтәлгәнгә тиклем эшкәртә. Провайдер тарафынан аккаунт ябылған һәм/йәки "
+"Ҡулланыусы тарафынан аккаунт юйылған ваҡытта, түбәндә телгә алынған "
+"һайланған Шәхси Мәғлүмәттәрҙән тыш, Хеҙмәткә индерелгән бөтә Шәхси "
+"Мәғлүмәттәр һәм башҡа мәғлүмәттәр юйыласаҡ; шуға күрә Провайдер Ҡулланыусы "
+"аккаунтын юйғанға тиклем Хеҙмәткә индерелгән бөтә мәғлүмәттәрҙе "
+"<strong>резерв күсермә яһарға</strong> ныҡлы кәңәш итә һәм Ҡулланыусы "
+"аккаунты ябылғандан һуң, хатта ул Провайдер тарафынан законлы рәүештә ябылһа "
+"ла, уларҙың юғалыуы өсөн яуаплы түгел. Иҫәп-фактураларҙа күрһәтелгән Шәхси "
+"Мәғлүмәттәр Провайдер тарафынан кәмендә закондан килеп сыҡҡан законлы һаҡлау "
+"мөҙҙәттәре дауамында, йәғни 10 йыл буйына һаҡлана. Провайдерҙың дәғүәләрен "
+"яҡлау һәм/йәки өсөнсө яҡтарҙың дәғүәләренән яҡланыу өсөн кәрәк булған "
+"осраҡтарҙа (шул иҫәптән дәүләт органдары башлаған теләһә ниндәй суд эштәре), "
+"Провайдер башҡа ҡайһы бер Шәхси Мәғлүмәттәрҙе лә һаҡлай ала, ләкин һәр ваҡыт "
+"айырым дәғүәләрҙең ғәмәлдә булыу мөҙҙәтенә тигеҙ булған максималь осорға һәм/"
+"йәки һайланған суд эштәренең тулыһынса тамамланыуына тиклем. Аныҡ оҙайлыҡты "
+"теүәл билдәләп булмай һәм ул дәғүә төрөнә, уларҙың ғәмәлдә булыу "
+"мөҙҙәттәренә һәм һайланған судтарҙың йәки дәүләт органдарының тиҙлегенә "
+"бәйле. Провайдер Ҡулланыусының мәғлүмәттәрен эшкәртеүсе булараҡ ҡына "
+"эшкәрткән мәғлүмәттәр Ҡулланыусының күрһәтмәләре менән билдәләнгән осорҙа "
+"эшкәртелә, әгәр Провайдерҙың был Сәйәсәттең 2.1 статьяһына ярашлы контролер "
+"булараҡ шәхси мәғлүмәттәрҙе эшкәртеү өсөн икенсе юридик нигеҙе булмаһа."
 
 #: wllegal/templates/legal/documents/privacy.html:140
 #, python-format
@@ -284,6 +373,20 @@ msgid ""
 "consent granted otherwise, by sending a request to <a href=\"mailto:"
 "%(address)s\">%(address)s</a>."
 msgstr ""
+"Провайдер шулай уҡ Ҡулланыусының <strong>ирекле һәм хәбәрҙар</strong> "
+"ризалығы нигеҙендә уның айырым Шәхси мәғлүмәттәрен, атап әйткәндә, электрон "
+"почтаһын, исемен, фамилияһын һәм (ошо маҡсаттар өсөн бирелгән булһа) башҡа "
+"шәхси мәғлүмәттәрен эшкәртә ала. Эшкәртеү <strong>2 йыл</strong> дауамында "
+"һәм/йәки ризалыҡ кире алынғанға тиклем бара. Хеҙмәтте йәки Продуктты (шул "
+"иҫәптән Техник ярҙам хеҙмәттәрен) ҡулланыу ризалыҡ биреүгә <strong>бер ҡасан "
+"да</strong> бәйле түгел. Шулай ҙа, ризалыҡ, ғәҙәттә, әлегә Ҡулланыусы "
+"булмаған мәғлүмәт субъекттарына яңылыҡтар бюллетенен ебәреү, Провайдерҙың "
+"башҡа хеҙмәттәренә бәйле булмаған айырым бонустар йәки бонус материалдарын "
+"биреү һәм/йәки Провайдерға яһалған иғәнәгә бәйле Ҡулланыусының Шәхси "
+"мәғлүмәттәрен башҡаларға тапшырыу өсөн талап ителә. Ризалыҡты теләһә ҡайһы "
+"ваҡытта туранан-тура Ҡулланыусы аккаунты интерфейсында, ә ризалыҡ башҡа ысул "
+"менән бирелгән осраҡта — <a href=\"mailto:%(address)s\">%(address)s</a> "
+"адресына мөрәжәғәт ебәреп кире алырға мөмкин."
 
 #: wllegal/templates/legal/documents/privacy.html:144
 msgid ""
@@ -292,10 +395,13 @@ msgid ""
 "selected Personal Data based on a different legal reason if this legal "
 "reason in favour of the Provider continues to exist."
 msgstr ""
+"Шәхси Мәғлүмәттәрҙе эшкәртеү сәбәбе бөткәс, Провайдер Шәхси Мәғлүмәттәрҙе юҡ "
+"итәсәк. Был, әгәр Провайдер файҙаһына был юридик сәбәп һаҡланһа, һайланған "
+"Шәхси Мәғлүмәттәрҙе икенсе юридик нигеҙҙә артабан эшкәртеүҙе инҡар итмәй."
 
 #: wllegal/templates/legal/documents/privacy.html:149
 msgid "Recipients and Processors of Personal Data"
-msgstr ""
+msgstr "Шәхси Мәғлүмәттәрҙе алыусылар һәм эшкәртеүселәр"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -304,12 +410,18 @@ msgid ""
 "proper processing of Personal Data for the purposes defined in Article 2.1 "
 "of this Policy, specifically:"
 msgstr ""
+"Провайдерҙан тыш, был Сәйәсәт нигеҙендә һайланған өсөнсө яҡтар ҙа шәхси "
+"мәғлүмәттәрҙе ала һәм эшкәртә, уларҙың ҡатнашлығы был Сәйәсәттең 2.1 "
+"статьяһында билдәләнгән маҡсаттар өсөн Шәхси Мәғлүмәттәрҙе тейешенсә "
+"эшкәртеү өсөн кәрәк, атап әйткәндә:"
 
 #: wllegal/templates/legal/documents/privacy.html:158
 msgid ""
 "hosting provider (including web hosting and mail hosting services), "
 "currently this is <strong>Hetzner Online GmbH</strong>;"
 msgstr ""
+"хостинг-провайдер (веб-хостинг һәм почта хостингы хеҙмәттәрен индереп), "
+"әлеге ваҡытта был – <strong>Hetzner Online GmbH</strong>;"
 
 #: wllegal/templates/legal/documents/privacy.html:161
 msgid ""
@@ -317,24 +429,33 @@ msgid ""
 "possibly operators of other services used in connection with the payment of "
 "any payments related to billing;"
 msgstr ""
+"<strong>ThePay.cz, s.r.o.</strong> түләү шлюзы операторҙары һәм, бәлки, "
+"түләүҙәргә бәйле теләһә ниндәй түләүҙәрҙе түләү менән бәйле ҡулланылған "
+"башҡа сервистарҙың операторҙары;"
 
 #: wllegal/templates/legal/documents/privacy.html:164
 msgid ""
 "accounting, legal, and tax advisors of the Provider and possibly other "
 "persons bound by confidentiality under the law;"
 msgstr ""
+"Провайдерҙың бухгалтер, юридик һәм һалым консультанттары һәм, бәлки, закон "
+"буйынса сер һаҡлау бурысы менән бәйле башҡа шәхестәр;"
 
 #: wllegal/templates/legal/documents/privacy.html:167
 msgid ""
 "C-level and other managerial employees employed by or otherwise "
 "collaborating with the Provider;"
 msgstr ""
+"Провайдерҙа эшләүсе йәки уның менән башҡаса хеҙмәттәшлек итеүсе юғары звено "
+"һәм башҡа идара итеүсе хеҙмәткәрҙәр;"
 
 #: wllegal/templates/legal/documents/privacy.html:170
 msgid ""
 "selected contractors of the Provider who are involved in providing services "
 "to Users and who are also bound by confidentiality;"
 msgstr ""
+"Ҡулланыусыларға хеҙмәттәр күрһәтеүҙә ҡатнашҡан һәм шулай уҡ сер һаҡлау "
+"бурысы менән бәйле булған Провайдерҙың һайланған подрядсылары;"
 
 #: wllegal/templates/legal/documents/privacy.html:173
 msgid ""
@@ -342,12 +463,17 @@ msgid ""
 "the Service, Products, Support Services, and/or to ensure any other "
 "activities related to the above;"
 msgstr ""
+"Хеҙмәтте, Продукттарҙы, Ярҙам хеҙмәттәрен тейешенсә күрһәтеү һәм/йәки "
+"юғарыла күрһәтелгәндәргә бәйле башҡa теләһә ниндәй эшмәкәрлекте тәьмин итеү "
+"өсөн ҡатнашлығы кәрәк булған башҡа теләһә ниндәй шәхестәр;"
 
 #: wllegal/templates/legal/documents/privacy.html:178
 msgid ""
 "the persons mentioned in this Article 3.1 are collectively referred to in "
 "this Policy as \"<strong>Processors</strong>\"."
 msgstr ""
+"был 3.1 статьяла телгә алынған шәхестәр был Сәйәсәттә бергәләп "
+"\"<strong>Эшкәртеүселәр</strong>\" тип атала."
 
 #: wllegal/templates/legal/documents/privacy.html:182
 msgid ""
@@ -357,6 +483,12 @@ msgid ""
 "personal data must meet high standards of protection and will always handle "
 "the data within the limits of the GDPR and this Policy."
 msgstr ""
+"Ҡулланыусы, әгәр был юғарыла күрһәтелгән мәғлүмәт эшкәртеү маҡсаттарын үтәү "
+"өсөн кәрәк булһа, Провайдерҙың шәхси мәғлүмәттәрҙе юғарыла телгә алынған "
+"Эшкәртеүселәргә тапшыра алыуы менән ризалаша. Провайдер шәхси мәғлүмәттәрҙе "
+"эшкәртеү өсөн йәлеп иткән Эшкәртеүселәр юғары яҡлау стандарттарына тап "
+"килергә тейеш һәм һәр ваҡыт мәғлүмәттәрҙе GDPR һәм был Сәйәсәт сиктәрендә "
+"эшкәртәсәк."
 
 #: wllegal/templates/legal/documents/privacy.html:186
 msgid ""
@@ -368,12 +500,21 @@ msgid ""
 "the Controller is prohibited, or it would be futile) that a request for the "
 "Personal Data has been made to allow the User to object to the disclosure."
 msgstr ""
+"Шәхси Мәғлүмәттәр, Контролерҙың судҡа саҡырыу ҡағыҙы йәки башҡа суд йәки "
+"административ бойороҡ кеүек закон буйынса талап ителә тип намыҫлы ышанысы "
+"булғанда, сикләнгән осраҡтарҙа өсөнсө яҡтарға асылырға мөмкин. Әгәр "
+"Контролерҙан закон буйынса Шәхси Мәғлүмәттәрҙе асыу талап ителһә, "
+"Ҡулланыусыға асыуға ҡаршы сығыу мөмкинлеген биреү өсөн Шәхси Мәғлүмәттәргә "
+"һорау яһалыуы тураһында e-mail аша алдан хәбәр итеү (әгәр Контролерға "
+"тыйылмаһа йәки был файҙаһыҙ булмаһа) тырышлығы яһаласаҡ."
 
 #: wllegal/templates/legal/documents/privacy.html:190
 msgid ""
 "The processing of Personal Data by selected Processors may be governed by "
 "their own service provision conditions."
 msgstr ""
+"Һайланған Эшкәртеүселәр тарафынан Шәхси Мәғлүмәттәрҙе эшкәртеү уларҙың үҙ "
+"хеҙмәт күрһәтеү шарттары менән көйләнергә мөмкин."
 
 #: wllegal/templates/legal/documents/privacy.html:194
 msgid ""
@@ -382,10 +523,14 @@ msgid ""
 "where the transfer must occur in compliance with the obligations of the "
 "Provider arising from generally binding regulations."
 msgstr ""
+"Шәхси Мәғлүмәттәр, әгәр Провайдер быны закон буйынса, дәүләт органы ҡарары "
+"һөҙөмтәһендә йәки Провайдерҙың дөйөм мотлаҡ ҡағиҙәләрҙән килеп сыҡҡан "
+"бурыстарына ярашлы башҡарырға тейеш булған башҡа осраҡтарҙа ла, тапшырылырға "
+"мөмкин."
 
 #: wllegal/templates/legal/documents/privacy.html:199
 msgid "Common Provisions on Processing"
-msgstr ""
+msgstr "Эшкәртеү тураһында дөйөм положениелар"
 
 #: wllegal/templates/legal/documents/privacy.html:203
 msgid ""
@@ -395,6 +540,11 @@ msgid ""
 "processing of personal data by any third party, even if those third parties "
 "are Processors."
 msgstr ""
+"Провайдер һәр ваҡыт шәхси мәғлүмәттәрҙе башҡа шәхестәр тарафынан рөхсәтһеҙ "
+"эшкәртеүҙе булдырмау өсөн бар көсөн һаласаҡ; әммә ул Ҡулланыусыға йәки башҡа "
+"мәғлүмәт субъекттарына теләһә ниндәй өсөнсө яҡ тарафынан шәхси мәғлүмәттәрҙе "
+"рөхсәтһеҙ эшкәртеү арҡаһында килтерелгән зыян өсөн яуаплы түгел, хатта был "
+"өсөнсө яҡтар Эшкәртеүселәр булһа ла."
 
 #: wllegal/templates/legal/documents/privacy.html:207
 msgid ""
@@ -404,6 +554,12 @@ msgid ""
 "480/2004 Coll. on Certain Information Society Services, if they directly "
 "relate to these Services, Products, and/or Support Services."
 msgstr ""
+"Хеҙмәтте, Продуктты һәм/йәки Ярҙам хеҙмәттәрен күрһәтеүгә бәйле "
+"Ҡулланыусыларға ебәрелгән электрон хаттар, әгәр улар был Хеҙмәттәргә, "
+"Продукттарға һәм/йәки Ярҙам хеҙмәттәренә туранан-тура бәйле булһа, Реклама "
+"тураһындағы 40/1995-се һанлы Ҡанунға һәм Ҡайһы бер мәғлүмәт йәмғиәте "
+"хеҙмәттәре тураһындағы 480/2004-се һанлы Ҡанунға ярашлы һоралмаған коммерция "
+"хәбәрҙәре тип иҫәпләнмәй."
 
 #: wllegal/templates/legal/documents/privacy.html:211
 msgid ""
@@ -415,6 +571,13 @@ msgid ""
 "revoked at any time by clicking on the link found in the footer of such "
 "commercial communication."
 msgstr ""
+"Ләкин, Ҡулланыусы Ҡайһы бер мәғлүмәт йәмғиәте хеҙмәттәре тураһындағы һәм "
+"ҡайһы бер ҡанундарға үҙгәрештәр индереү тураһындағы 480/2004-се һанлы "
+"Ҡанундың 7(2) статьяһы мәғәнәһендә Провайдерҙан Ҡулланыусының электрон "
+"адресына киңерәк коммерция хәбәрҙәрен (мәҫәлән, ситләтелгән маркетинг "
+"осрағында) алыуға асыҡтан-асыҡ һәм <strong>ирекле ризалыҡ</strong> бирә ала. "
+"Был ризалыҡ, әлбиттә, теләһә ниндәй ваҡытта бындай коммерция хәбәренең аҫҡы "
+"өлөшөндә урынлашҡан һылтанмаға баҫып кире алынырға мөмкин."
 
 #: wllegal/templates/legal/documents/privacy.html:215
 msgid ""
@@ -422,6 +585,9 @@ msgid ""
 "related to Personal Data that affects the User, they will notify the User of "
 "this fact without undue delay."
 msgstr ""
+"Әгәр Провайдер һәм/йәки Эшкәртеүселәр Ҡулланыусыға ҡағылышлы Шәхси "
+"Мәғлүмәттәргә бәйле хәүефһеҙлек рискин белһә, улар был факт тураһында "
+"Ҡулланыусыға нигеҙһеҙ тотҡарлыҡһыҙ хәбәр итәсәк."
 
 #: wllegal/templates/legal/documents/privacy.html:219
 msgid ""
@@ -430,6 +596,10 @@ msgid ""
 "other incident leading to loss. However, the Provider is not responsible for "
 "the improper actions of the Processors."
 msgstr ""
+"Мәғлүмәт ағыуы йәки юғалтыуға килтергән башҡа инцидент осрағында, Провайдер "
+"Ҡулланыусыға яуаплы Эшкәртеүселәрҙән компенсация талап итеүҙә ярҙам һәм "
+"юридик булышлыҡ күрһәтәсәк. Ләкин, Провайдер Эшкәртеүселәрҙең ярамаған "
+"ғәмәлдәре өсөн яуаплы түгел."
 
 #: wllegal/templates/legal/documents/privacy.html:223
 msgid ""
@@ -441,6 +611,14 @@ msgid ""
 "the User in the case where they provide the Provider with Personal Data of "
 "data subjects other than this User."
 msgstr ""
+"Ҡулланыусы бының менән бирелгән Шәхси Мәғлүмәттәрҙең дөрөҫ, теүәл булыуын "
+"һәм тик Ҡулланыусыға ғына ҡағылыуын, йәки улар биргән мәғлүмәттәрҙе "
+"ҡулланыуҙың өсөнсө яҡтарҙың хоҡуҡтарын боҙмауын раҫлай. Ҡулланыусы һәр ваҡыт "
+"үҙенең Шәхси Мәғлүмәттәрендәге теләһә ниндәй үҙгәрештәр тураһында "
+"Провайдерға хәбәр итергә бурыслы, шулай итеп тик актуаль һәм тулы "
+"мәғлүмәттәр генә эшкәртеләсәк. Шул уҡ бурыстар, Ҡулланыусы Провайдерға был "
+"Ҡулланыусынан башҡа мәғлүмәт субъекттарының Шәхси Мәғлүмәттәрен биргән "
+"осраҡта ла, Ҡулланыусыға ҡағыла."
 
 #: wllegal/templates/legal/documents/privacy.html:227
 msgid ""
@@ -449,6 +627,11 @@ msgid ""
 "never be subject to individual automated decision-making (including "
 "profiling) within the meaning of Article 22 of the GDPR."
 msgstr ""
+"Шәхси Мәғлүмәттәр электрон рәүештә, шул иҫәптән автоматлаштырылған эшкәртеү "
+"ысулдарын ҡулланып эшкәртеләсәк. Ләкин, Ҡулланыусы йәки башҡа мәғлүмәт "
+"субъекттары бер ҡасан да GDPR-ҙың 22-се статьяһы мәғәнәһендә айырым "
+"автоматлаштырылған ҡарар ҡабул итеүгә (профилләштереүҙе индереп) дусар "
+"ителмәйәсәк."
 
 #: wllegal/templates/legal/documents/privacy.html:231
 msgid ""
@@ -456,10 +639,13 @@ msgid ""
 "the GDPR) may be processed even after all legal grounds for processing the "
 "User's Personal Data have ceased."
 msgstr ""
+"Анонимлаштырылған шәхси мәғлүмәттәр (улар GDPR буйынса шәхси мәғлүмәт тип "
+"иҫәпләнмәй) Ҡулланыусының Шәхси Мәғлүмәттәрен эшкәртеү өсөн бөтә юридик "
+"нигеҙҙәр бөткәндән һуң да эшкәртелергә мөмкин."
 
 #: wllegal/templates/legal/documents/privacy.html:236
 msgid "User Rights in Relation to Personal Data"
-msgstr ""
+msgstr "Ҡулланыусының Шәхси Мәғлүмәттәргә ҡарата хоҡуҡтары"
 
 #: wllegal/templates/legal/documents/privacy.html:240
 #, python-format
@@ -471,6 +657,12 @@ msgid ""
 "correction, restriction, or deletion) can be automated through this user "
 "account."
 msgstr ""
+"Ҡулланыусы GDPR-ҙа ҡаралған хоҡуҡтарын теләһә ҡайһы ваҡытта <a href="
+"\"mailto:%(address)s\">%(address)s</a> адресына электрон хат ебәреп, шулай "
+"уҡ үҙенең Ҡулланыусы аккаунты аша тормошҡа ашыра ала, сөнки түбәндә һаналған "
+"хоҡуҡтарҙың күбеһен (атап әйткәндә, эшкәртелгән бөтә Шәхси мәғлүмәттәргә "
+"инеү, уларҙы төҙәтеү, сикләү йәки юйыу) ошо ҡулланыусы аккаунты аша "
+"автоматлаштырырға мөмкин."
 
 #: wllegal/templates/legal/documents/privacy.html:244
 msgid ""
@@ -479,30 +671,42 @@ msgid ""
 "strong>, unless due to the complexity of the matter it is necessary for the "
 "Provider to extend this period. The User's rights include:"
 msgstr ""
+"Провайдер Ҡулланыусының шәхси мәғлүмәттәренә ҡағылышлы һорауҙарҙы мөмкин "
+"тиклем тиҙерәк, ләкин мәсьәләнең ҡатмарлылығы арҡаһында Провайдерға был "
+"осорҙо оҙайтырға кәрәк булмаһа, <strong>30 көн</strong> эсендә хәл итергә "
+"тырышасаҡ. Ҡулланыусының хоҡуҡтарына инә:"
 
 #: wllegal/templates/legal/documents/privacy.html:249
 msgid ""
 "an explanation of whether and what personal data is being processed and, if "
 "applicable, requesting the Provider to disclose it;"
 msgstr ""
+"шәхси мәғлүмәттәрҙең эшкәртелеү-эшкәртелмәүе һәм ниндәйе эшкәртелеүе "
+"тураһында аңлатма, һәм, мөмкин булһа, Провайдерҙан уны асыуҙы һорау;"
 
 #: wllegal/templates/legal/documents/privacy.html:252
 msgid ""
 "correction of personal data if there is concern that some of it is "
 "inaccurate or missing;"
 msgstr ""
+"шәхси мәғлүмәттәрҙең ҡайһы берҙәренең теүәл булмауы йәки етмәүе тураһында "
+"борсолоу булһа, уларҙы төҙәтеү;"
 
 #: wllegal/templates/legal/documents/privacy.html:255
 msgid ""
 "restriction of processing if there is concern that the Provider is "
 "processing more data than necessary;"
 msgstr ""
+"Провайдерҙың кәрәгенән артыҡ мәғлүмәт эшкәртеүе тураһында борсолоу булһа, "
+"эшкәртеүҙе сикләү;"
 
 #: wllegal/templates/legal/documents/privacy.html:258
 msgid ""
 "deletion of personal data based on the consent of the Provider, provided "
 "that there is no other legal reason for further processing of personal data;"
 msgstr ""
+"Провайдерҙың ризалығы нигеҙендә шәхси мәғлүмәттәрҙе юйыу, әгәр шәхси "
+"мәғлүмәттәрҙе артабан эшкәртеү өсөн икенсе юридик сәбәп булмаһа;"
 
 #: wllegal/templates/legal/documents/privacy.html:261
 msgid ""
@@ -510,12 +714,17 @@ msgid ""
 "on the consent of the Provider or in connection with fulfilling the "
 "Provider's contractual obligations, in a machine-readable format;"
 msgstr ""
+"Провайдерҙың ризалығы нигеҙендә йәки Провайдерҙың контракт бурыстарын үтәүгә "
+"бәйле автоматлаштырылған ысулдар менән эшкәртелгән шәхси мәғлүмәттәрҙең "
+"күсермәһен машина уҡый алырлыҡ форматта биреү;"
 
 #: wllegal/templates/legal/documents/privacy.html:264
 msgid ""
 "temporary freezing of data processing operations for the purposes of the "
 "legitimate interest of the Provider;"
 msgstr ""
+"Провайдерҙың законлы мәнфәғәттәре маҡсатында мәғлүмәт эшкәртеү операцияларын "
+"ваҡытлыса туҡтатып тороу;"
 
 #: wllegal/templates/legal/documents/privacy.html:267
 #, python-format
@@ -525,11 +734,15 @@ msgid ""
 "authority if the User believes that the Provider is processing personal data "
 "in violation of this Policy or legal regulations."
 msgstr ""
+"әгәр Ҡулланыусы Провайдерҙың шәхси мәғлүмәттәрҙе был Сәйәсәтте йәки закон "
+"ҡағиҙәләрен боҙоп эшкәртеүенә ышанһа, туранан-тура Шәхси Мәғлүмәттәрҙе яҡлау "
+"идаралығына (<a href=\"%(url)s\">%(url)s</a>) йәки икенсе тейешле милли "
+"мәғлүмәт яҡлау органына ялыу биреү."
 
 #: wllegal/templates/legal/documents/privacy.html:272
 #: wllegal/templates/legal/documents/tos.html:620
 msgid "Final Provisions"
-msgstr ""
+msgstr "Йомғаҡлау положениелары"
 
 #: wllegal/templates/legal/documents/privacy.html:276
 msgid ""
@@ -540,6 +753,11 @@ msgid ""
 "Policy displayed within the Service, or upon the next first login to their "
 "User Account."
 msgstr ""
+"Провайдер Сәйәсәтте бер яҡлы тәртиптә үҙгәртергә хоҡуҡлы. Сәйәсәттең яңы "
+"редакцияһы Веб-сайтта баҫылып сыҡҡандан һуң көсөнә инә. Үҙгәреш ваҡытында "
+"был Сәйәсәт менән көйләнгән Провайдер менән контракт мөнәсәбәттәре булған "
+"Ҡулланыусы, Хеҙмәт эсендә күрһәтелгән йәки үҙенең Ҡулланыусы Аккаунтына "
+"киләһе беренсе инеүендә Сәйәсәттәге үҙгәреш тураһында хәбәр аласаҡ."
 
 #: wllegal/templates/legal/documents/privacy.html:280
 msgid ""
@@ -549,6 +767,11 @@ msgid ""
 "Policy will be resolved before the competent civil court in the Czech "
 "Republic."
 msgstr ""
+"Был Сәйәсәттән килеп сыҡҡан Провайдер менән Ҡулланыусы араһындағы бөтә "
+"юридик мөнәсәбәттәр ҙә Чех Республикаһының ғәмәлдәге закондары менән "
+"көйләнә. Провайдер менән Ҡулланыусы араһында был Сәйәсәттән йәки уға бәйле "
+"килеп сыҡҡан теләһә ниндәй бәхәстәр Чех Республикаһының компетентлы "
+"гражданлыҡ судында хәл ителәсәк."
 
 #: wllegal/templates/legal/documents/privacy.html:284
 msgid ""
@@ -561,6 +784,14 @@ msgid ""
 "Council (EC) No. 593/2008 of June 17, 2008, on the law applicable to "
 "contractual obligations (Rome I)."
 msgstr ""
+"Әгәр Килешеү менән урынлаштырылған мөнәсәбәттәрҙә халыҡ-ара (сит ил) "
+"элементы булһа, алдағы һөйләмгә ярашлы хоҡуҡ һайлау Ҡулланыусыны – "
+"Ҡулланыусыны, Европа Парламенты һәм Советының 2008 йылдың 17 июнендәге "
+"контракт бурыстарына ҡулланыла торған хоҡуҡ тураһындағы (Рим I) 593/2008-се "
+"һанлы Регламентының 6(1) статьяһы положениеларына ярашлы хоҡуҡ һайлау "
+"булмаған осраҡта ҡулланыласаҡ һәм контракт буйынса тайпылырға мөмкин "
+"булмаған хоҡуҡи тәртип положениелары менән тәьмин ителгән яҡлауҙан мәхрүм "
+"итмәй."
 
 #: wllegal/templates/legal/documents/privacy.html:288
 msgid ""
@@ -570,46 +801,57 @@ msgid ""
 "provision does not affect the validity of the other provisions of this "
 "Policy."
 msgstr ""
+"Әгәр Сәйәсәттең ҡайһы ла булһа положениеһы ғәмәлдә булмаһа йәки көсһөҙ "
+"булһа, йәки шулайға әйләнһә, ғәмәлдә булмаған положениеға мәғәнәһе буйынса "
+"иң яҡын булған положение ғәмәлдә булмаған положениеларҙы алмаштырасаҡ. Бер "
+"положениеның ғәмәлдә булмауы йәки көсһөҙ булыуы был Сәйәсәттең башҡа "
+"положениеларының ғәмәлдә булыуына йоғонто яһамай."
 
 #: wllegal/templates/legal/documents/privacy.html:292
 msgid "This Policy become effective upon their publication on the Website."
-msgstr ""
+msgstr "Был Сәйәсәт Веб-сайтта баҫылып сыҡҡандан һуң көсөнә инә."
 
 #: wllegal/templates/legal/documents/privacy.html:296
 msgid "In Prague on November 1, 2024."
-msgstr ""
+msgstr "Прагала, 2024 йылдың 1 ноябрендә."
 
 #: wllegal/templates/legal/documents/summary.html:5
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
+"Беҙ шәхси мәғлүмәттәрҙе (мәҫәлән, һеҙҙең e-mail адресығыҙҙы) эшкәртәбеҙ; "
+"аккаунтығыҙҙы юйһағыҙ, улар беҙҙең мәғлүмәт базаһынан юйыласаҡ."
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
-msgstr ""
+msgstr "Һеҙҙең тәржемәләрегеҙ һәр тәржемә билдәләгән лицензия аҫтында яһала."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid ""
 "Your name and e-mail address is used in VCS commits, it will stay there "
 "indefinitely."
 msgstr ""
+"Һеҙҙең исемегеҙ һәм e-mail адресығыҙ VCS коммиттарында ҡулланыла, ул унда "
+"сикһеҙ ваҡытҡа ҡаласаҡ."
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
 msgstr ""
+"Исемде һайлау һеҙгә бәйле, ә коммиттар өсөн ҡулланылған e-mail адресты "
+"хосусилығығыҙҙы яҡлау өсөн Weblate системаһы менән битлекләргә мөмкин."
 
 #: wllegal/templates/legal/documents/summary.html:15
 msgid "We use cookies to deliver our services."
-msgstr ""
+msgstr "Беҙ хеҙмәттәребеҙҙе күрһәтеү өсөн кукиҙар ҡулланабыҙ."
 
 #: wllegal/templates/legal/documents/summary.html:16
 msgid "We don’t use any third-party cookies."
-msgstr ""
+msgstr "Беҙ өсөнсө яҡ кукиҙарын ҡулланмайбыҙ."
 
 #: wllegal/templates/legal/documents/tos.html:5
 msgid ""
@@ -624,6 +866,8 @@ msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
 msgstr ""
+"Ҡулланыусы менән Провайдерҙың Хеҙмәтте ҡулланыуҙан килеп сыҡҡан хоҡуҡтары "
+"һәм бурыстары ошо Дөйөм ҡағиҙәләр һәм шарттар менән көйләнә."
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid ""
@@ -634,28 +878,36 @@ msgid ""
 "Services and Products. These general terms and conditions govern the "
 "contractual relationship between the service provider and the User."
 msgstr ""
+"Был дөйөм ҡағиҙәләр һәм шарттар Ҡулланыусы менән Провайдер араһында төҙөлгән "
+"хеҙмәт күрһәтеү килешеүенең (артабан – \"<strong>Килешеү</strong>\") "
+"айырылғыһыҙ өлөшө булып тора һәм Хеҙмәттәр һәм Продукттар күрһәтеү һәм "
+"уларҙы ҡулланыу өсөн мотлаҡ ҡағиҙәләрҙе һәм шарттарҙы билдәләй. Был дөйөм "
+"ҡағиҙәләр һәм шарттар хеҙмәт күрһәтеүсе менән Ҡулланыусы араһындағы контракт "
+"мөнәсәбәттәрен көйләй."
 
 #: wllegal/templates/legal/documents/tos.html:24
 msgid ""
 "The definitions below have the following meanings for the purposes of these "
 "general terms and conditions:"
 msgstr ""
+"Түбәндәге билдәләмәләр был дөйөм ҡағиҙәләр һәм шарттар маҡсатында түбәндәге "
+"мәғәнәләргә эйә:"
 
 #: wllegal/templates/legal/documents/tos.html:30
 msgid "Civil Code"
-msgstr ""
+msgstr "Гражданлыҡ кодексы"
 
 #: wllegal/templates/legal/documents/tos.html:33
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
-msgstr ""
+msgstr "үҙгәрештәр менән 89/2012-се һанлы Ҡанунды, Гражданлыҡ кодексын аңлата;"
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
-msgstr ""
+msgstr "Килешеү яҡтары"
 
 #: wllegal/templates/legal/documents/tos.html:40
 msgid "jointly refers to the User and the Provider;"
-msgstr ""
+msgstr "Ҡулланыусыны һәм Провайдерҙы бергә аңлата;"
 
 #: wllegal/templates/legal/documents/tos.html:44
 msgid "Cookies"
@@ -669,46 +921,60 @@ msgid ""
 "Coll., on Certain Information Society Services and Amending Certain Acts, as "
 "amended;"
 msgstr ""
+"үҙгәрештәр менән Ҡайһы бер мәғлүмәт йәмғиәте хеҙмәттәре һәм ҡайһы бер "
+"ҡанундарға үҙгәрештәр индереү тураһындағы 480/2004-се һанлы Ҡанундың 89-сы "
+"статьяһына ярашлы, Ҡулланыусының веб-браузерын уникаль идентификацияларға "
+"мөмкинлек биргән, хеҙмәттең веб-серверынан Ҡулланыусының компьютерына йәки "
+"интернетҡа тоташҡан башҡа ҡоролмаһына ебәрелгән теләһә ниндәй мәғлүмәтте "
+"аңлата;"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Dedicated Weblate"
-msgstr ""
+msgstr "Айырым Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:54
 msgid ""
 "means a form of collaboration where the User is the sole user of the Service "
 "in a cloud hosted and provided by the Provider;"
 msgstr ""
+"Ҡулланыусының Провайдер хостинглаған һәм биргән болотта Хеҙмәттең берҙән-бер "
+"ҡулланыусыһы булған хеҙмәттәшлек формаһын аңлата;"
 
 #: wllegal/templates/legal/documents/tos.html:58
 msgid "GDPR"
-msgstr ""
+msgstr "GDPR"
 
 #: wllegal/templates/legal/documents/tos.html:61
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
 msgstr ""
+"ЕС-тың 679/2016-сы һанлы Регламентын, Шәхси Мәғлүмәттәрҙе яҡлау тураһындағы "
+"дөйөм регламентты аңлата;"
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
-msgstr ""
+msgstr "ДҠШ"
 
 #: wllegal/templates/legal/documents/tos.html:68
 msgid ""
 "means these general terms and conditions, which form an integral part of the "
 "Agreement;"
 msgstr ""
+"Килешеүҙең айырылғыһыҙ өлөшө булған ошо дөйөм ҡағиҙәләрҙе һәм шарттарҙы "
+"аңлата;"
 
 #: wllegal/templates/legal/documents/tos.html:72
 msgid "Hosted String"
-msgstr ""
+msgstr "Хостингтағы юл"
 
 #: wllegal/templates/legal/documents/tos.html:75
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph;"
 msgstr ""
+"тәржемә форматында билдәләнгән текст берәмеген аңлата. Ул һүҙ, һөйләм йәки "
+"абзац булырға мөмкин;"
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
@@ -720,6 +986,9 @@ msgid ""
 "provides Services to Users on a non-dedicated (i.e., shared by multiple "
 "Users) cloud operated by the Provider;"
 msgstr ""
+"тулыһынса болотҡа нигеҙләнгән хеҙмәттәшлек формаһын аңлата, унда Провайдер "
+"Ҡулланыусыларға үҙе эшләткән айырым булмаған (йәғни, бер нисә Ҡулланыусы "
+"тарафынан уртаҡлашҡан) болотта Хеҙмәттәр күрһәтә;"
 
 #: wllegal/templates/legal/documents/tos.html:86
 msgid "License"
@@ -730,41 +999,48 @@ msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
 msgstr ""
+"Провайдер тарафынан Ҡулланыусыға Хеҙмәтте ҡулланыу өсөн бирелгән эксклюзив "
+"булмаған лицензияны аңлата;"
 
 #: wllegal/templates/legal/documents/tos.html:93
 msgid "Personal Data"
-msgstr ""
+msgstr "Шәхси Мәғлүмәттәр"
 
 #: wllegal/templates/legal/documents/tos.html:96
 msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
+"ЕС-тың 679/2016-сы һанлы Регламентында билдәләнгәнсә, ҡулланыусы тарафынан "
+"Хеҙмәткә һәм/йәки Кукиҙарға индерелгән шәхси мәғлүмәттәрҙе аңлата;"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
 msgid "Price"
-msgstr ""
+msgstr "Хаҡ"
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid ""
 "the value expressed in money for the provided License in accordance with the "
 "Price List;"
 msgstr ""
+"Хаҡтар исемлегенә ярашлы бирелгән Лицензия өсөн аҡсалата сағылған ҡиммәт;"
 
 #: wllegal/templates/legal/documents/tos.html:107
 msgid "Price List"
-msgstr ""
+msgstr "Хаҡтар исемлеге"
 
 #: wllegal/templates/legal/documents/tos.html:110
 msgid ""
 "means the document or web page that specifies the Price of the Service and/"
 "or Product unless otherwise stated in the Agreement;"
 msgstr ""
+"Килешеүҙә башҡаса күрһәтелмәһә, Хеҙмәттең һәм/йәки Продукттың Хаҡын "
+"билдәләгән документты йәки веб-битте аңлата;"
 
 #: wllegal/templates/legal/documents/tos.html:114
 msgid "Product"
-msgstr ""
+msgstr "Продукт"
 
 #: wllegal/templates/legal/documents/tos.html:117
 msgid ""
@@ -772,6 +1048,10 @@ msgid ""
 "Provider based on its brand usage policy. The User purchases the Product AS "
 "IS. Support and other services are provided separately;"
 msgstr ""
+"Провайдерҙың билдәле бер бренды аҫтында уның бренд ҡулланыу сәйәсәтенә "
+"ярашлы күрһәтелгән теләһә ниндәй хеҙмәтте йәки уның өлөшөн аңлата. "
+"Ҡулланыусы Продуктты ШУЛ КИЛЕШ (AS IS) һатып ала. Ярҙам һәм башҡа хеҙмәттәр "
+"айырым күрһәтелә;"
 
 #: wllegal/templates/legal/documents/tos.html:121
 msgid "Provider"
@@ -784,6 +1064,10 @@ msgid ""
 "the Commercial Register maintained by the Regional Court in Ústí nad Labem, "
 "file no. C 52324, with which the Agreement was concluded;"
 msgstr ""
+"Килешеү төҙөлгән <strong>Weblate s.r.o.</strong> компанияһын аңлата, ID No. "
+"21668027, теркәлгән офисы: Nábřežní 694, Cvikov II, 471 54 Cvikov, Ústí nad "
+"Labem-дағы Төбәк судында һаҡланған Коммерция реестрында теркәлгән, файл no. "
+"C 52324;"
 
 #: wllegal/templates/legal/documents/tos.html:128
 msgid "Service"
@@ -793,20 +1077,24 @@ msgstr "Сервис"
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
 msgstr ""
+"Провайдер күрһәткән Weblate-ҡа нигеҙләнгән веб-сайттарҙы һәм хеҙмәттәрҙе "
+"аңлата;"
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid "Self-hosting"
-msgstr ""
+msgstr "Үҙ хостингында"
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid ""
 "means a form of collaboration where the User is the sole user of the "
 "Service, and this Service is operated directly on the User Server;"
 msgstr ""
+"Ҡулланыусының Хеҙмәттең берҙән-бер ҡулланыусыһы булған һәм был Хеҙмәттең "
+"туранан-тура Ҡулланыусы Серверында эшләгән хеҙмәттәшлек формаһын аңлата;"
 
 #: wllegal/templates/legal/documents/tos.html:142
 msgid "Support Services"
-msgstr ""
+msgstr "Ярҙам хеҙмәттәре"
 
 #: wllegal/templates/legal/documents/tos.html:145
 msgid ""
@@ -814,14 +1102,16 @@ msgid ""
 "Support Services are governed separately by a separate support service "
 "agreement;"
 msgstr ""
+"Провайдер тарафынан Ҡулланыусыға Хеҙмәт сиктәрендә күрһәтелгән ярҙамды "
+"аңлата. Ярҙам хеҙмәттәре айырым ярҙам хеҙмәте килешеүе менән айырым көйләнә;"
 
 #: wllegal/templates/legal/documents/tos.html:149
 msgid "Translation Memory"
-msgstr ""
+msgstr "Тәржемә хәтере"
 
 #: wllegal/templates/legal/documents/tos.html:152
 msgid "means an optional translation memory service provided on Weblate;"
-msgstr ""
+msgstr "Weblate-та күрһәтелгән өҫтәмә тәржемә хәтере хеҙмәтен аңлата;"
 
 #: wllegal/templates/legal/documents/tos.html:156
 msgid "User"
@@ -832,48 +1122,57 @@ msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
 msgstr ""
+"Хеҙмәтте файҙаланған Провайдерҙан башҡа теләһә ниндәй юридик шәхесте йәки "
+"физик шәхесте аңлата;"
 
 #: wllegal/templates/legal/documents/tos.html:163
 msgid "User Account"
-msgstr ""
+msgstr "Ҡулланыусы аккаунты"
 
 #: wllegal/templates/legal/documents/tos.html:166
 msgid ""
 "means a user account with a unique access code and password in the Hosted "
 "Weblate web interface. Each User Account can be used by only one User;"
 msgstr ""
+"Хостингтағы Weblate веб-интерфейсында уникаль инеү коды һәм пароле булған "
+"ҡулланыусы аккаунтын аңлата. Һәр Ҡулланыусы Аккаунтын тик бер Ҡулланыусы "
+"ғына ҡуллана ала;"
 
 #: wllegal/templates/legal/documents/tos.html:170
 msgid "User Server"
-msgstr ""
+msgstr "Ҡулланыусы серверы"
 
 #: wllegal/templates/legal/documents/tos.html:173
 msgid ""
 "refers to the server and other hardware equipment not owned, managed, or "
 "controlled by the Provider;"
 msgstr ""
+"Провайдерға ҡарамаған, уның тарафынан идара ителмәгән йәки контролдә "
+"тотолмаған серверҙы һәм башҡа аппарат ҡорамалдарын аңлата;"
 
 #: wllegal/templates/legal/documents/tos.html:179
 msgid "Methods of Acceptance"
-msgstr ""
+msgstr "Ҡабул итеү ысулдары"
 
 #: wllegal/templates/legal/documents/tos.html:183
 msgid "The License is granted to the User based on the concluded Agreement."
-msgstr ""
+msgstr "Лицензия Ҡулланыусыға төҙөлгән Килешеү нигеҙендә бирелә."
 
 #: wllegal/templates/legal/documents/tos.html:187
 msgid "These GTC are an integral part of the Agreement."
-msgstr ""
+msgstr "Был ДҠШ Килешеүҙең айырылғыһыҙ өлөшө булып тора."
 
 #: wllegal/templates/legal/documents/tos.html:191
 msgid "The Agreement is concluded:"
-msgstr ""
+msgstr "Килешеү ошолай төҙөлә:"
 
 #: wllegal/templates/legal/documents/tos.html:196
 msgid ""
 "on the day of signing by both parties (especially for all Services offered "
 "with custom settings);"
 msgstr ""
+"ике яҡ та ҡул ҡуйған көндә (бигерәк тә махсус көйләүҙәр менән тәҡдим ителгән "
+"бөтә Хеҙмәттәр өсөн);"
 
 #: wllegal/templates/legal/documents/tos.html:199
 msgid ""
@@ -884,10 +1183,15 @@ msgid ""
 "Provider's bank account) for the amount stated in the first billing period "
 "by the User."
 msgstr ""
+"онлайн рәүештә веб-интерфейс аша Хаҡтар исемлегенә ярашлы ҡабул итеү (раҫлау)"
+" аша, Килешеү Ҡулланыусы тарафынан беренсе түләү осоронда күрһәтелгән "
+"суммаға Лицензия өсөн Хаҡ тейешенсә түләнгәндән һуң (банк күсереүе "
+"осрағында, Лицензия өсөн Хаҡҡа тап килгән сумма Провайдерҙың банк иҫәбенә "
+"индерелгәс) көсөнә инә."
 
 #: wllegal/templates/legal/documents/tos.html:207
 msgid "Service Provision"
-msgstr ""
+msgstr "Хеҙмәт күрһәтеү"
 
 #: wllegal/templates/legal/documents/tos.html:211
 msgid ""
@@ -896,6 +1200,9 @@ msgid ""
 "accordance with the Agreement and the technical specifications outlined in "
 "the Product specification."
 msgstr ""
+"Провайдер Хеҙмәтте Продукт спецификацияһында күрһәтелгән интернет адресында "
+"һәм уның субдомендарында йәки Ҡулланыусының Серверҙарында Килешеүгә һәм "
+"Продукт спецификацияһында күрһәтелгән техник спецификацияларға ярашлы эшләтә."
 
 #: wllegal/templates/legal/documents/tos.html:215
 msgid ""
@@ -906,12 +1213,20 @@ msgid ""
 "specification defined in this manner takes precedence over the form of "
 "Service offered according to the Price List."
 msgstr ""
+"Әгәр Килешеү 2.3(a) статьяһына ярашлы төҙөлһә, Хеҙмәттәрҙең даирәһе "
+"Килешеүгә ҡушылған Продукт спецификацияһында билдәләнә. Продукт "
+"спецификацияһы айырым (аҫ)хеҙмәттәрҙең йөкмәткеһенә һәм активация ысулдарына "
+"ҡағылышлы даирәһен артабан ентекләй ала. Был ысул менән билдәләнгән Продукт "
+"спецификацияһы Хаҡтар исемлегенә ярашлы тәҡдим ителгән Хеҙмәт формаһынан "
+"өҫтөнлөккә эйә."
 
 #: wllegal/templates/legal/documents/tos.html:219
 msgid ""
 "The Service is provided in three forms of cooperation: Hosted Weblate, "
 "Dedicated Weblate, and Self-hosting."
 msgstr ""
+"Хеҙмәт өс хеҙмәттәшлек формаһында күрһәтелә: Хостингтағы Weblate, Айырым "
+"Weblate һәм Үҙ хостингында."
 
 #: wllegal/templates/legal/documents/tos.html:223
 msgid ""
@@ -924,10 +1239,17 @@ msgid ""
 "third parties may process Personal Data within their activities in "
 "accordance with the Agreement and GPLv3."
 msgstr ""
+"GPLv3-кә ярашлы, Хеҙмәттең ҡайһы бер аспекттары йә Провайдерҙан башҡа өсөнсө "
+"яҡтар ярҙамында, йә туранан-тура был яҡтар тарафынан күрһәтелергә мөмкин. "
+"Ҡулланыусы был өсөнсө яҡтарҙың үҙ хеҙмәттәрен был Килешеүгә һәм GPLv3 "
+"лицензияһына ярашлы күрһәтәсәген таный. Ҡулланыусы Хеҙмәтте күрһәтеүҙә "
+"ҡатнашҡан өсөнсө яҡтарҙың Хеҙмәтте күрһәтеү барышында үҙгәреүен таный. Был "
+"өсөнсө яҡтар үҙ эшмәкәрлектәре сиктәрендә Шәхси Мәғлүмәттәрҙе Килешеүгә һәм "
+"GPLv3-кә ярашлы эшкәртә ала."
 
 #: wllegal/templates/legal/documents/tos.html:227
 msgid "Service Duration"
-msgstr ""
+msgstr "Хеҙмәт оҙайлығы"
 
 #: wllegal/templates/legal/documents/tos.html:231
 msgid ""
@@ -936,6 +1258,9 @@ msgid ""
 "subscription can be paid monthly or annually in accordance with Article 5 of "
 "the GTC."
 msgstr ""
+"Әгәр Килешеүҙә башҡаса асыҡтан-асыҡ килешелмәһә, Килешеү яҙылыу моделенә тап "
+"килгән осорға төҙөлә. Яҙылыуҙы ДҠШ-ның 5-се статьяһына ярашлы ай һайын йәки "
+"йыл һайын түләргә мөмкин."
 
 #: wllegal/templates/legal/documents/tos.html:239
 msgid ""
@@ -947,6 +1272,13 @@ msgid ""
 "List. The price for Services consists of the following separate items or "
 "their combination, which are paid regularly monthly/annually:"
 msgstr ""
+"Хеҙмәт өсөн хаҡ тәҡдимгә йәки Хаҡтар исемлегенә ярашлы билдәләнә. Ҡулланыусы "
+"Хаҡтар исемлегенең Провайдер тарафынан был ДҠШ кеүек үк бер яҡлы тәртиптә "
+"үҙгәртелеүен таный һәм ризалаша. Хаҡ һайланған Хеҙмәт конфигурацияһына "
+"бәйле, һәм Хеҙмәт күрһәтелә алырлыҡ күп варианттар бар. Был варианттар "
+"Хаҡтар исемлегендә һаналған. Хеҙмәттәр өсөн хаҡ түбәндәге айырым пункттарҙан "
+"йәки уларҙың комбинацияһынан тора, улар даими рәүештә ай һайын/йыл һайын "
+"түләнә:"
 
 #: wllegal/templates/legal/documents/tos.html:243
 msgid ""
@@ -955,6 +1287,10 @@ msgid ""
 "but paid monthly or annually, with this price varying for different forms of "
 "collaboration according to the Price List;"
 msgstr ""
+"Хеҙмәттәргә инеү өсөн даими хаҡ, ул шулай уҡ һәр ваҡыт тейешле ваҡыт осорона "
+"һәм Хеҙмәттең үҙенсәлекле шарттарына нигеҙләнеп билдәләнә, ләкин ай һайын "
+"йәки йыл һайын түләнә, һәм был хаҡ Хаҡтар исемлегенә ярашлы төрлө "
+"хеҙмәттәшлек формалары өсөн үҙгәреп тора;"
 
 #: wllegal/templates/legal/documents/tos.html:246
 msgid ""
@@ -962,22 +1298,28 @@ msgid ""
 "User from the options offered in the Price List or in agreement with the "
 "Provider;"
 msgstr ""
+"Хостингтағы юлдар һаны өсөн даими хаҡ; был сумманы Ҡулланыусы Хаҡтар "
+"исемлегендә тәҡдим ителгән варианттарҙан йәки Провайдер менән килешеп һайлай;"
 
 #: wllegal/templates/legal/documents/tos.html:249
 msgid "regular price for Translation Memory;"
-msgstr ""
+msgstr "Тәржемә хәтере өсөн даими хаҡ;"
 
 #: wllegal/templates/legal/documents/tos.html:254
 msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
 msgstr ""
+"(a), b) һәм c) пункттары бергәләп \"<strong>Яҙылыу</strong>\" тип атала)."
 
 #: wllegal/templates/legal/documents/tos.html:258
 msgid ""
 "To avoid doubt, the Subscription may guarantee either only access to a "
 "specific Product or License and/or a specific package of guaranteed Services."
 msgstr ""
+"Шик-шөбһәләрҙе булдырмау өсөн, Яҙылыу йә билдәле бер Продуктҡа йәки "
+"Лицензияға ғына инеүҙе, һәм/йәки гарантияланған Хеҙмәттәрҙең билдәле бер "
+"пакетын гарантиялай ала."
 
 #: wllegal/templates/legal/documents/tos.html:262
 msgid ""
@@ -986,9 +1328,12 @@ msgid ""
 "invoice is issued and delivered to the User within 5 working days after the "
 "end of each relevant period."
 msgstr ""
+"Ҡулланыусы Хаҡты Провайдер сығарған һалым документтары (иҫәп-фактуралар) "
+"нигеҙендә түләргә бурыслы. Хаҡ алдан түләнә, һәм иҫәп-фактура һәр тейешле "
+"осор тамамланғандан һуң 5 эш көнө эсендә сығарыла һәм Ҡулланыусыға тапшырыла."
 
 #: wllegal/templates/legal/documents/tos.html:266
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "Payment of the Price may be made by credit card, bank transfer, or "
 "cryptocurrency transaction. All Prices listed in the Price List exclude VAT. "
@@ -996,6 +1341,11 @@ msgid ""
 "an additional VAT of 21%%. Reverse charge applies to invoices issued to "
 "businesses within the EU."
 msgstr ""
+"Хаҡты түләү кредит картаһы, банк күсереүе йәки криптовалюта транзакцияһы аша "
+"башҡарылырға мөмкин. Хаҡтар исемлегендә күрһәтелгән бөтә Хаҡтарға ла VAT "
+"инмәй. ЕС-тың һуңғы ҡулланыусыларына һәм Чехия бизнес-компанияларына өҫтәмә "
+"21% VAT түләргә кәрәк буласаҡ. ЕС эсендәге бизнестарға бирелгән иҫәп-"
+"фактураларға кире түләү ҡағиҙәһе ҡулланыла."
 
 #: wllegal/templates/legal/documents/tos.html:270
 msgid ""
@@ -1005,6 +1355,10 @@ msgid ""
 "verifying with the prepaid card issuer or bank whether recurring billing is "
 "possible."
 msgstr ""
+"Әгәр Ҡулланыусы Яҙылыу режимында Хеҙмәт өсөн түләүҙән ҡасырға теләһә, улар "
+"Хеҙмәтте ҡулланыуҙы автоматик яңыртыуға кәмендә өс көн ҡалғас Яҙылыуҙы "
+"туҡтатырға тейеш. Провайдер алдан түләнгән картаны сығарыусынан йәки банктан "
+"даими түләүҙәрҙең мөмкин булыу-булмауын тикшерергә кәңәш итә."
 
 #: wllegal/templates/legal/documents/tos.html:274
 msgid ""
@@ -1014,6 +1368,11 @@ msgid ""
 "date as per point 5.5 above, their Subscription will stop at the end of the "
 "current billing cycle."
 msgstr ""
+"Ҡулланыусы үҙенең Яҙылыу режимын онлайн рәүештә үҙенең Ҡулланыусы Аккаунтына "
+"инеп һәм унда үҙгәреш яһап йәки Яҙылыуҙы туҡтатып үҙгәртә ала. Әгәр "
+"Ҡулланыусы үҙенең Яҙылыуын юғарылағы 5.5 пунктына ярашлы яңыртыу датаһына "
+"кәмендә өс көн ҡалғас туҡтатһа, уның Яҙылыуы ағымдағы түләү циклының "
+"аҙағында туҡтаясаҡ."
 
 #: wllegal/templates/legal/documents/tos.html:278
 msgid ""
@@ -1027,6 +1386,16 @@ msgid ""
 "prepaid Services were prepaid for a period exceeding the actual usage "
 "period, the conditions of such a refund will be agreed upon individually."
 msgstr ""
+"Провайдер Килешеү һәм ошо ДҠШ буйынса күрһәтелгән Хеҙмәттәр, Ярҙам "
+"хеҙмәттәре һәм/йәки башҡа хеҙмәттәр өсөн, әгәр улар Ҡулланыусы тарафынан был "
+"Хеҙмәттәр туҡтатылғанға тиклем күрһәтелгән булһа, БЕР НИНДӘЙ ҙә аҡсаны кире "
+"ҡайтармай. Түләүҙән һуң заказды туҡтатыу, әгәр закал ителгән Хеҙмәт "
+"ҡулланылмаған йәки уны күсереп алыу тырышлығы яһалмаған булһа, килешеү "
+"буйынса мөмкин. Әгәр күсереп алыу тырышлығы яһалған булһа, бер ниндәй ҙә "
+"һөйләшеүҙәр булмаясаҡ, һәм Ҡулланыусы бер ниндәй ҙә кире ҡайтарыуҙарға, "
+"ташламаларға йәки башҡа аҡсалата компенсацияға хоҡуҡлы түгел. Әгәр алдан "
+"түләнгән Хеҙмәттәр ысынбарлыҡтағы ҡулланыу осоронан артығыраҡ осорға алдан "
+"түләнгән булһа, бындай кире ҡайтарыу шарттары айырым килешеләсәк."
 
 #: wllegal/templates/legal/documents/tos.html:282
 msgid ""
@@ -1039,10 +1408,17 @@ msgid ""
 "new Price or conditions come into effect. Under these conditions, the User "
 "has the right to cancel the Subscription."
 msgstr ""
+"Хаҡтар һәм Яҙылыу шарттары Оператор тарафынан теләһә ниндәй ваҡытта бер яҡлы "
+"тәртиптә үҙгәртелергә мөмкин. Беренсе һатып алыу йәки һуңғы Яҙылыуҙы яңыртыу "
+"ваҡытында ғәмәлдә булған хаҡ һәм шарттар бирелгән Яҙылыу осоро дауамында "
+"көсөндә ҡала, ләкин яңыртыуҙарға йәки яңы Яҙылыуҙарға яңы хаҡтар һәм шарттар "
+"ҡулланылырға мөмкин. Провайдер яңы Хаҡ йәки шарттар көсөнә ингәнгә тиклем "
+"аҡыллы осорҙа Ҡулланыусыға теләһә ниндәй хаҡ йәки Яҙылыу шарттары үҙгәреүе "
+"тураһында хәбәр итәсәк. Был шарттарҙа Ҡулланыусы Яҙылыуҙы туҡтатырға хоҡуҡлы."
 
 #: wllegal/templates/legal/documents/tos.html:286
 msgid "License Terms"
-msgstr ""
+msgstr "Лицензия шарттары"
 
 #: wllegal/templates/legal/documents/tos.html:290
 #, python-format
@@ -1054,6 +1430,12 @@ msgid ""
 "License is provided. The License is granted in accordance with the option "
 "selected according to the Price List."
 msgstr ""
+"Провайдерҙың программа тәьминәте һәм Weblate программа киңәйтеүҙәре GNU/"
+"GPLv3 лицензияһы буйынса таратыла (ҡарағыҙ <a href=\"%(url)s\">%(url)s</a>). "
+"Ҡулланыусыға Хеҙмәттең теләһә ҡайһы элементтарына монополь булмаған лицензия "
+"Лицензия бирелгән ваҡыттағы GTC-ның (Дөйөм шарттар һәм ҡағиҙәләр) иң яңы "
+"версияһы шарттарына ярашлы бирелә. Лицензия Хаҡтар исемлегенә ярашлы "
+"һайланған вариант нигеҙендә тапшырыла."
 
 #: wllegal/templates/legal/documents/tos.html:295
 #, python-format
@@ -1066,6 +1448,13 @@ msgid ""
 "according to the information provided on the Provider's website (see <a "
 "href=\"%(url)s\">%(url)s</a>)."
 msgstr ""
+"Килешеүҙә башҡаса ҡаралмаһа, ошо Килешеүҙең лицензия шарттары тулыһынса "
+"GPLv3 лицензияһы менән көйләнә. Шулай ҙа, Программа тәьминәтенең айырым "
+"өлөштәре шулай уҡ башҡа лицензиялар буйынса лицензияланырға мөмкин. "
+"Провайдерҙың Программа тәьминәтендә һәм программа киңәйтеүҙәрендә "
+"ҡулланылған лицензияларҙың тулы исемлеген уларҙың сығанаҡ кодында табырға "
+"мөмкин, ул Провайдерҙың веб-сайтында бирелгән мәғлүмәткә ярашлы REUSE 3.0 "
+"спецификацияһына тап килә (ҡарағыҙ <a href=\"%(url)s\">%(url)s</a>)."
 
 #: wllegal/templates/legal/documents/tos.html:299
 msgid ""
@@ -1077,6 +1466,12 @@ msgid ""
 "creating, and distributing the Service, even if the User does not publicly "
 "release the Service."
 msgstr ""
+"Ҡулланыусы Хеҙмәткә ҡарата бөтә авторлыҡ хоҡуҡтарының һәм башҡа "
+"интеллектуаль милек хоҡуҡтарының Провайдерға һәм/йәки Хеҙмәткә индерелгән "
+"һәм/йәки Хеҙмәт менән бергә ҡулланылған эштәре булған өсөнсө яҡтарға ҡарауын "
+"таный. Ләкин, Ҡулланыусы Хеҙмәтте асыҡтан-асыҡ сығармаһа ла, ғәмәлдәге "
+"лицензиялар рөхсәт иткән сиктәрҙә, шул иҫәптән Хеҙмәтте эшләтеү, булдырыу "
+"һәм таратыуҙы индереп, Хеҙмәтте ҡулланыу хоҡуғын юғалтмай."
 
 #: wllegal/templates/legal/documents/tos.html:303
 msgid ""
@@ -1086,6 +1481,10 @@ msgid ""
 "or later versions of the GPL license), they publish all materials to which "
 "they do not own copyright."
 msgstr ""
+"Хеҙмәтте тик Ҡулланыусы файҙаһына эксклюзив үҙгәртеүҙәр йәки был Хеҙмәттәрҙе "
+"эшләтеү сараларын булдырыу маҡсатында, Ҡулланыусы Хеҙмәтте, әгәр GPLv3 "
+"шарттарына (һәм/йәки GPL лицензияһының һуңғыраҡ версияларына) ярашлы, үҙенең "
+"авторлыҡ хоҡуғы булмаған бөтә материалдарҙы баҫтырһа ғына, баҫтыра ала."
 
 #: wllegal/templates/legal/documents/tos.html:307
 msgid ""
@@ -1096,6 +1495,12 @@ msgid ""
 "released. The User acknowledges that not all Self-hosting Subscription "
 "packages include updates and/or modifications to the Services."
 msgstr ""
+"Лицензия Провайдер тарафынан киләсәктә яһалған Хеҙмәттәргә яңыртыуҙарҙы һәм/"
+"йәки үҙгәрештәрҙе үҙ эсенә ала, әгәр Хеҙмәттәр һайланған Яҙылыу нигеҙендә "
+"бирелһә һәм был яңыртыуҙар һәм/йәки үҙгәрештәр сығарылған осор өсөн бөтә "
+"тейешле лицензия һәм башҡа түләүҙәр тулыһынса түләнһә. Ҡулланыусы бөтә Үҙ-"
+"хостинглы Яҙылыу пакеттарының да Хеҙмәттәргә яңыртыуҙарҙы һәм/йәки "
+"үҙгәрештәрҙе үҙ эсенә алмауын таный."
 
 #: wllegal/templates/legal/documents/tos.html:311
 msgid ""
@@ -1109,10 +1514,20 @@ msgid ""
 "intact, and the User provides all recipients of such copies of the source "
 "code with a copy of the license along with the program."
 msgstr ""
+"Ҡулланыусы сығанаҡ кодты ҡулланырға һәм авторлыҡ хоҡуғы менән яҡланған "
+"элементтар менән GPLv3 (һәм/йәки GPL лицензияһының һуңғыраҡ версиялары) "
+"сиктәрендә, шул иҫәптән, ләкин улар менән генә сикләнмәйенсә, күсермәләр "
+"яһарға хоҡуҡлы. Ҡулланыусы бындай күсермәләрҙе, әгәр һәр күсермә күренекле "
+"һәм асыҡ урында Провайдерға һылтанманы һәм гарантияның булмауын үҙ эсенә "
+"алһа, был лицензияға һәм теләһә ниндәй өҫтәмә шарттарға бөтә һылтанмаларҙың "
+"үҙгәрешһеҙ ҡалыуын, һәм гарантияның булмауына бөтә һылтанмаларҙың тейелгеһеҙ "
+"ҡалыуын тәьмин итһә, һәм Ҡулланыусы сығанаҡ кодтың бындай күсермәләренең "
+"бөтә алыусыларына программа менән бергә лицензияның күсермәһен бирһә генә, "
+"тарата ала."
 
 #: wllegal/templates/legal/documents/tos.html:315
 msgid "Payment Terms"
-msgstr ""
+msgstr "Түләү шарттары"
 
 #: wllegal/templates/legal/documents/tos.html:319
 msgid ""
@@ -1120,6 +1535,9 @@ msgid ""
 "issuance of invoices and to receiving them via electronic means. Invoices "
 "will be issued with a due date of 14 calendar days."
 msgstr ""
+"Иҫәп-фактуралар электрон рәүештә сығарыласаҡ. Ҡулланыусы иҫәп-фактураларҙы "
+"электрон сығарыуға һәм уларҙы электрон саралар аша алыуға ризалаша. Иҫәп-"
+"фактуралар 14 календарь көн түләү мөҙҙәте менән сығарыласаҡ."
 
 #: wllegal/templates/legal/documents/tos.html:323
 msgid ""
@@ -1130,6 +1548,12 @@ msgid ""
 "any reason, the Provider will issue an invoice, and the User is obliged to "
 "pay such an invoice within the same deadlines."
 msgstr ""
+"Түләү осоро ҡабатланыусы осор (календарь ай/йыл) итеп билдәләнә. Түләү "
+"һайланған түләү ысулы аша автоматик рәүештә алына, һәм иҫәп-фактура "
+"Провайдер түләүҙе алғандан һуң нигеҙһеҙ тотҡарлыҡһыҙ Ҡулланыусыға ебәрелә. "
+"Әгәр түләү ниндәй ҙә булһа сәбәп менән автоматик рәүештә алына алмаһа, "
+"Провайдер иҫәп-фактура сығара, һәм Ҡулланыусы бындай иҫәп-фактураны шул уҡ "
+"мөҙҙәттәрҙә түләргә бурыслы."
 
 #: wllegal/templates/legal/documents/tos.html:327
 msgid ""
@@ -1141,6 +1565,13 @@ msgid ""
 "a material breach of the Agreement, entitling the Provider to terminate the "
 "Agreement for the reason stated in Article 11 below."
 msgstr ""
+"Ҡулланыусының теләһә ниндәй түләүҙе тотҡарлауы осрағында, Провайдер шулай уҡ "
+"бурыс тулыһынса түләнгәнгә тиклем Хеҙмәтте күрһәтеүҙе туҡтатып торорға йәки "
+"сикләргә хоҡуҡлы. Хеҙмәтте күрһәтеүҙе туҡтатып тороу йәки сикләү ваҡытында, "
+"Ҡулланыусы барыбер тапшырылған һалым документтарына ярашлы Хаҡты түләргә "
+"бурыслы. Ҡулланыусы тарафынан түләүҙәрҙе ҡабатлап тотҡарлау Килешеүҙең етди "
+"боҙолоуы тип иҫәпләнә, был Провайдерға түбәндәге 11-се статьяла күрһәтелгән "
+"сәбәп буйынса Килешеүҙе өҙөргә хоҡуҡ бирә."
 
 #: wllegal/templates/legal/documents/tos.html:331
 msgid ""
@@ -1154,6 +1585,14 @@ msgid ""
 "continuous and automatically renews until it is cancelled, or the User "
 "Account is terminated."
 msgstr ""
+"Һатып алыу ваҡытында ДҠШ-ға ризалашып, Ҡулланыусы киләсәктә Яҙылыуҙы "
+"автоматик яңыртыуға яҙыла. Яҙылыу һәр Яҙылыу осоро аҙағында һатып алыу "
+"ваҡытында һайланған Яҙылыу осорона нигеҙләнеп автоматик рәүештә яңыртыласаҡ. "
+"Һәр түләү осоро башында Яҙылыу яңыртылған Хаҡтар исемлегенә һәм/йәки "
+"Провайдер тарафынан һуңғы түләү осоро тамамланғанға тиклем яһалған айырым "
+"хәбәрнамәгә ярашлы ставка буйынса түләнәсәк. Яҙылыу өҙлөкһөҙ булып тора һәм "
+"ул туҡтатылғанға йәки Ҡулланыусы Аккаунты ябылғанға тиклем автоматик рәүештә "
+"яңыртыла."
 
 #: wllegal/templates/legal/documents/tos.html:335
 msgid ""
@@ -1165,6 +1604,12 @@ msgid ""
 "conditions for the payment of the Fee are governed by the relevant "
 "contractual terms of ThePay."
 msgstr ""
+"Ҡулланыусы түләү шлюзы аша Яҙылыуҙы түләгән осраҡта, был шлюздың "
+"<strong>ThePay, a.s.</strong> тарафынан, уның теркәлгән офисы Masarykovo "
+"náměstí 102/65, 586 01 Jihlava, ID: 281 35 261, Брнолағы Төбәк судында "
+"һаҡланған Коммерция реестрында теркәлгән, B бүлеге, 8977-се яҙма ("
+"\"<strong>ThePay</strong>\") тарафынан бирелеүен таный. Түләү шарттары "
+"ThePay-ҙың тейешле контракт шарттары менән көйләнә."
 
 #: wllegal/templates/legal/documents/tos.html:339
 msgid ""
@@ -1172,10 +1617,13 @@ msgid ""
 "by the Provider, and the Provider is not responsible for the functionality "
 "of ThePay's payment gateway."
 msgstr ""
+"Түләү шлюзына индерелгән түләү картаһы мәғлүмәте Провайдер тарафынан "
+"эшкәртелмәй, һәм Провайдер ThePay-ҙың түләү шлюзының эшсәнлеге өсөн яуаплы "
+"түгел."
 
 #: wllegal/templates/legal/documents/tos.html:343
 msgid "Provider's Rights and Obligations"
-msgstr ""
+msgstr "Провайдерҙың хоҡуҡтары һәм бурыстары"
 
 #: wllegal/templates/legal/documents/tos.html:347
 msgid ""
@@ -1201,6 +1649,27 @@ msgid ""
 "any case, the User may either accept the Change (implicitly through failure "
 "to object) or terminate the Agreement within the above period."
 msgstr ""
+"Провайдер Хеҙмәткә йәки уның даирәһенә теләһә ниндәй үҙгәрештәр индерергә "
+"хоҡуҡлы. Бындай осраҡта Провайдер Ҡулланыусыға күрһәтелгән Хеҙмәткә бәйле "
+"веб-интерфейс аша хәбәр итәсәк. Юридик йәки норматив базала, тармаҡ "
+"стандарттарында, Провайдерҙың бәйле сығымдарында, баҙар ғөрөф-ғәҙәттәрендә, "
+"тейешле баҙарға йоғонто яһаусы шарттарҙа йәки Хеҙмәтте күрһәтеүгә йоғонто "
+"яһарлыҡ башҡа теләһә ниндәй үҙгәрештәр булған осраҡта, Провайдер теләһә "
+"ниндәй ваҡытта был Шарттарҙы үҙгәртә, бөтөрә йәки тулыландыра ала (артабан – "
+"\"<strong>Үҙгәреш</strong>\"). Бының өсөн ул Үҙгәреш тураһында Ҡулланыусыға "
+"был Шарттарҙың үҙгәртелгән версияһын Веб-сайтта урынлаштырып һәм "
+"Ҡулланыусыға электрон почта аша һәм күрһәтелгән Хеҙмәткә бәйле интерфейс "
+"аша, Үҙгәреш көсөнә инергә кәмендә 14 көн ҡалғас, хәбәр итә. Әгәр Ҡулланыусы "
+"юғарыла күрһәтелгән осорҙа бындай Үҙгәрешкә яуап бирмәһә, Ҡулланыусының "
+"Үҙгәреш менән риза булыуы күҙ уңында тотоласаҡ. Хәбәр итеү, әгәр Үҙгәреш "
+"закон, суд ҡарары менән талап ителһә, яңы хеҙмәт өҫтәүгә, булған Хеҙмәткә "
+"өҫтәмә функциялар индереүгә йәки Ҡулланыусының хоҡуҡтарын кәметмәгән йәки "
+"уның бурыстарын арттырмаған башҡа теләһә ниндәй Үҙгәрешкә ҡағылһа, "
+"ҡулланылмай. Бындай осраҡтарҙа Үҙгәреш Ҡулланыусыға алдан хәбәр итмәйенсә "
+"тормошҡа ашырыласаҡ һәм шунда уҡ көсөнә инәсәк. Әгәр Ҡулланыусы юғарыла "
+"күрһәтелгән осорҙа Шарттарҙағы Үҙгәрешкә ҡаршы булһа, улар Килешеүҙе өҙөргә "
+"хоҡуҡлы. Теләһә ниндәй осраҡта, Ҡулланыусы йә Үҙгәреште ҡабул итә ала ("
+"ҡаршылыҡ күрһәтмәү аша), йә юғарыла күрһәтелгән осорҙа Килешеүҙе өҙә ала."
 
 #: wllegal/templates/legal/documents/tos.html:351
 msgid ""
@@ -1208,6 +1677,9 @@ msgid ""
 "to ensure the functionality and availability of the Service. The User "
 "acknowledges and agrees that they use the Service at their own risk."
 msgstr ""
+"Провайдер үҙенең техник мөмкинлектәре сиктәрендә Хеҙмәттең эшсәнлеген һәм "
+"мөмкин булыуын тәьмин итеү өсөн бөтә аҙымдарҙы яһарға йөкләмә ала. "
+"Ҡулланыусы Хеҙмәтте үҙенең хәүефенә ҡулланыуын таный һәм ризалаша."
 
 #: wllegal/templates/legal/documents/tos.html:355
 msgid ""
@@ -1216,6 +1688,10 @@ msgid ""
 "version. The Provider undertakes to fulfil these requirements and ensure the "
 "proper operation of the Service through its own actions."
 msgstr ""
+"Хеҙмәттең тейешенсә эшләүе өсөн төп система талаптарына сервер мөхите һәм "
+"һуңғы версияла билдәләнгән техник статус инә. Провайдер был талаптарҙы "
+"үтәргә һәм үҙ ғәмәлдәре аша Хеҙмәттең тейешенсә эшләүен тәьмин итергә "
+"йөкләмә ала."
 
 #: wllegal/templates/legal/documents/tos.html:359
 msgid ""
@@ -1228,6 +1704,14 @@ msgid ""
 "Provider bears no responsibility for any damages incurred by the User in "
 "connection with these events."
 msgstr ""
+"Әгәр Ҡулланыусы Хеҙмәттең тиҙлегенә, эшсәнлегенә йәки мөмкин булыуына бәйле "
+"ниндәй ҙә булһа проблема асыҡлаһа, улар был турала Провайдерға шунда уҡ "
+"хәбәр итергә бурыслы. Ҡулланыусы Провайдерҙың контроленән тыш булған "
+"ваҡиғаларҙың, мәҫәлән, Ҡулланыусының интернет тоташыуының өҙөлөүе, тәбиғәт "
+"бәлә-ҡазалары, Провайдерҙың техник ҡорамалдарына DOS йәки DNS һөжүмдәре һәм "
+"башҡа факторҙарҙың, Хеҙмәттең эшсәнлегенә йәки мөмкин булыуына йоғонто "
+"яһауын таный. Провайдер был ваҡиғаларға бәйле Ҡулланыусы кисергән зыян өсөн "
+"яуаплылыҡты үҙ өҫтөнә алмай."
 
 #: wllegal/templates/legal/documents/tos.html:363
 msgid ""
@@ -1241,12 +1725,23 @@ msgid ""
 "the Service. In the case of planned outages, the Provider is obligated to "
 "inform the User in advance within a reasonable time."
 msgstr ""
+"Ҡулланыусы Провайдерҙың етди сәбәптәр арҡаһында, атап әйткәндә, "
+"киберһөжүмдәрҙе булдырмау, кәрәк булғанда йәки мөһим өҙөклөктө талап иткән "
+"етди Хеҙмәт боҙолоуы осрағында, Хеҙмәтте күрһәтеүҙе ваҡытлыса туҡтатып "
+"тороуын таный һәм ризалаша. Провайдер өҙөклөк тураһында Ҡулланыусыға мөмкин "
+"тиклем тиҙерәк хәбәр итергә тейеш. Провайдер потенциаль боҙолоуҙарҙы йәки "
+"Хеҙмәттең сикләнгән йәки тулыһынса мөмкин булмауын кәметеү өсөн тейешле "
+"оператив һәм хәүефһеҙлек сараларын тормошҡа ашырырға бурыслы. "
+"Планлаштырылған өҙөклөктәр осрағында Провайдер Ҡулланыусыға алдан аҡыллы "
+"ваҡыт эсендә хәбәр итергә бурыслы."
 
 #: wllegal/templates/legal/documents/tos.html:367
 msgid ""
 "The Provider agrees not to provide the content of the User's data to third "
 "parties."
 msgstr ""
+"Провайдер Ҡулланыусының мәғлүмәттәренең йөкмәткеһен өсөнсө яҡтарға бирмәҫкә "
+"ризалаша."
 
 #: wllegal/templates/legal/documents/tos.html:371
 msgid ""
@@ -1254,6 +1749,9 @@ msgid ""
 "of the User's data. The User is solely responsible for the content of the "
 "data stored on their Server or the Provider's server."
 msgstr ""
+"Килешеү яҡтары Провайдерҙың Ҡулланыусының мәғлүмәттәренә милек хоҡуғын "
+"алмауын килешә. Ҡулланыусы үҙенең Серверында йәки Провайдерҙың серверында "
+"һаҡланған мәғлүмәттәрҙең йөкмәткеһе өсөн тулыһынса яуаплы."
 
 #: wllegal/templates/legal/documents/tos.html:375
 msgid ""
@@ -1262,10 +1760,14 @@ msgid ""
 "the Service in accordance with the Agreement. The User undertakes to fully "
 "cooperate with the Provider in such cases."
 msgstr ""
+"Был Шарттарҙы ҡабул итеп, Ҡулланыусы Провайдерҙың, үҙ ресурстарын ҡулланып, "
+"Ҡулланыусының Хеҙмәтте Килешеүгә ярашлы ҡулланыу-ҡулланмауын күҙәтергә "
+"хоҡуҡлы булыуын таный һәм ризалаша. Ҡулланыусы бындай осраҡтарҙа Провайдер "
+"менән тулыһынса хеҙмәттәшлек итергә йөкләмә ала."
 
 #: wllegal/templates/legal/documents/tos.html:380
 msgid "User’s Rights and Obligations"
-msgstr ""
+msgstr "Ҡулланыусының хоҡуҡтары һәм бурыстары"
 
 #: wllegal/templates/legal/documents/tos.html:384
 msgid ""
@@ -1274,6 +1776,9 @@ msgid ""
 "modifications to the Service made by them are in compliance with applicable "
 "legal regulations."
 msgstr ""
+"Ҡулланыусы Хеҙмәтте ғәмәлдәге хоҡуҡи нормаларҙы боҙоп ҡулланырға тейеш "
+"түгел. Ҡулланыусы шулай уҡ үҙе яһаған Хеҙмәткә теләһә ниндәй үҙгәрештәрҙең "
+"ғәмәлдәге хоҡуҡи нормаларға ярашлы булыуын тәьмин итеү өсөн тулыһынса яуаплы."
 
 #: wllegal/templates/legal/documents/tos.html:388
 msgid ""
@@ -1288,6 +1793,16 @@ msgid ""
 "expand the scope of required personal information but emphasizes the "
 "truthfulness, accuracy, and currency of the information provided by the User."
 msgstr ""
+"Хеҙмәткә инеү өсөн, Провайдер Ҡулланыусынан билдәле бер идентификация "
+"деталдәрен һәм башҡа мәғлүмәттәрҙе талап итә ала, һәр ваҡыт тик форма талап "
+"иткән күләмдә генә. Беҙҙең ҡулланыусыларҙың күбеһенән тик ҡушамат ҡына талап "
+"ителә; әммә, иҫәп-фактура сығарырға кәрәк булһа, өҫтәмә закон буйынса талап "
+"ителгән мәғлүмәт һораласаҡ. Ҡулланыусы закон талап иткәнсә һәр ваҡыт дөрөҫ, "
+"теүәл һәм актуаль мәғлүмәт бирергә бурыслы. Тик ҡушамат ҡына биргән "
+"ҡулланыусылар өсөн был уларҙың өҫтәмә мәғлүмәт бирергә тейешлеген аңлатмай. "
+"Был положение талап ителгән шәхси мәғлүмәттәр даирәһен киңәйтмәй, ә "
+"Ҡулланыусы биргән мәғлүмәттең дөрөҫлөгөн, теүәллеген һәм актуаллеген генә "
+"баҫым яһай."
 
 #: wllegal/templates/legal/documents/tos.html:392
 msgid ""
@@ -1297,6 +1812,11 @@ msgid ""
 "in cases where the Provider performs system outages for the reasons "
 "mentioned in Section 8.5."
 msgstr ""
+"Ҡулланыусы, Провайдерҙың һорауы буйынса, боҙолоуҙарҙы хәл итеүҙә йәки "
+"Хеҙмәткә көйләүҙәр яһауҙа кәрәкле хеҙмәттәшлекте күрһәтергә бурыслы, шул "
+"иҫәптән Провайдер 8.5-се бүлектә күрһәтелгән сәбәптәр арҡаһында система "
+"өҙөклөктәрен башҡарған осраҡтарҙа Хеҙмәтте ҡулланыуҙағы сикләүҙәргә түҙеү "
+"бурысын да индереп."
 
 #: wllegal/templates/legal/documents/tos.html:396
 msgid ""
@@ -1304,6 +1824,9 @@ msgid ""
 "Service in accordance with this Agreement, and the User is required to "
 "comply with and respect these measures."
 msgstr ""
+"Провайдер был Килешеүгә ярашлы Хеҙмәтте яҡлау өсөн хәүефһеҙлек сараларын "
+"тормошҡа ашырырға хоҡуҡлы, һәм Ҡулланыусы был сараларҙы үтәргә һәм хөрмәт "
+"итергә тейеш."
 
 #: wllegal/templates/legal/documents/tos.html:400
 msgid ""
@@ -1311,6 +1834,9 @@ msgid ""
 "terms specified in Section 6 of this Agreement, ensuring that they do not "
 "jeopardize the Service's functionality."
 msgstr ""
+"Ҡулланыусы Хеҙмәтте был Килешеүҙең 6-сы бүлегендә күрһәтелгән лицензия "
+"шарттарына ярашлы ҡулланырға бурыслы, шул уҡ ваҡытта Хеҙмәттең эшсәнлегенә "
+"хәүеф янамауын тәьмин итеп."
 
 #: wllegal/templates/legal/documents/tos.html:404
 msgid ""
@@ -1318,6 +1844,8 @@ msgid ""
 "right to request Support Services from the Provider, as specified in the "
 "Price List."
 msgstr ""
+"Хаҡтар исемлегендә күрһәтелгән Хеҙмәт вариантына ярашлы, Ҡулланыусы Хаҡтар "
+"исемлегендә күрһәтелгәнсә Провайдерҙан Ярҙам хеҙмәттәрен һорарға хоҡуҡлы."
 
 #: wllegal/templates/legal/documents/tos.html:408
 msgid ""
@@ -1327,6 +1855,11 @@ msgid ""
 "reasonable extent to minimize the risk of third parties misusing access "
 "credentials to the User's account."
 msgstr ""
+"Ҡулланыусы Хеҙмәткә инеү мәғлүмәттәрен сер итеп һаҡларға тейеш һәм Хеҙмәттең "
+"хәүефһеҙлегенә зыян килтерерлек теләһә ниндәй ғәмәлдәрҙә ҡатнашмаҫҡа тейеш. "
+"Ҡулланыусы шулай уҡ өсөнсө яҡтарҙың Ҡулланыусы аккаунтына инеү мәғлүмәттәрен "
+"ярамаған маҡсатта ҡулланыу хәүефен кәметеү өсөн үҙенең техник ҡорамалдарын "
+"аҡыллы сиктәрҙә хәүефһеҙләндерергә тейеш."
 
 #: wllegal/templates/legal/documents/tos.html:412
 msgid ""
@@ -1338,10 +1871,17 @@ msgid ""
 "be exposed to third parties due to a leak of access information, they are "
 "required to report this to the Provider."
 msgstr ""
+"Әгәр Ҡулланыусы был Бүлектә күрһәтелгән бурыстарҙың ҡайһыһын да булһа боҙһа, "
+"Провайдер Ҡулланыусы кисергән зыян өсөн яуаплылыҡты үҙ өҫтөнә алмай, һәм "
+"Ҡулланыусы Провайдерға йәки өсөнсө яҡтарға килтерелгән зыян өсөн тулыһынса "
+"яуаплы. Был бурыстарҙы боҙоу шулай уҡ Провайдерға был Килешеүҙе өҙөргә хоҡуҡ "
+"бирә. Әгәр Ҡулланыусы инеү мәғлүмәттәренең ағыуы арҡаһында Хеҙмәткә инеүҙең "
+"өсөнсө яҡтарға асыҡ булыуын белһә, улар был турала Провайдерға хәбәр итергә "
+"тейеш."
 
 #: wllegal/templates/legal/documents/tos.html:416
 msgid "Prohibited Conduct"
-msgstr ""
+msgstr "Тыйлған ғәмәлдәр"
 
 #: wllegal/templates/legal/documents/tos.html:420
 msgid ""
@@ -1355,48 +1895,70 @@ msgid ""
 "another User’s account or the Provider’s servers. Violation of these "
 "obligations constitutes a material breach of the Agreement."
 msgstr ""
+"Ҡулланыусыға Хеҙмәт порталына Провайдерҙың йәки башҡа Ҡулланыусыларҙың "
+"ҡоролмаларының эшсәнлеген юҡ итергә, зыян килтерергә йәки сикләргә мөмкин "
+"булған программа вирустары йәки башҡа файлдар һәм программалар булған теләһә "
+"ниндәй йөкмәткене тейәргә, ебәрергә йәки башҡаса һаҡларға тыйыла. "
+"Ҡулланыусыға шулай уҡ Хеҙмәт порталына эйә булыуы йәки таратыуы законһыҙ "
+"булған, өсөнсө яҡтарҙың авторлыҡ хоҡуҡтарын боҙған, енәйәт эшмәкәрлегенең "
+"өлөшө булған, Хеҙмәт аша спам таратҡан йәки икенсе Ҡулланыусының аккаунтына "
+"йәки Провайдерҙың серверҙарына инергә тырышҡан йөкмәткене тейәргә рөхсәт "
+"ителмәй. Был бурыстарҙы боҙоу Килешеүҙең етди боҙолоуы булып тора."
 
 #: wllegal/templates/legal/documents/tos.html:424
 msgid ""
 "The User particularly agrees to refrain from the following activities while "
 "using the Services, especially through the Services:"
 msgstr ""
+"Ҡулланыусы, бигерәк тә Хеҙмәттәр аша, Хеҙмәттәрҙе ҡулланғанда түбәндәге "
+"ғәмәлдәрҙән тыйылырға ризалаша:"
 
 #: wllegal/templates/legal/documents/tos.html:428
 msgid ""
 "Disseminating or offering any content that violates applicable laws at the "
 "national, EU, or international level;"
 msgstr ""
+"Милли, ЕС йәки халыҡ-ара кимәлдә ғәмәлдәге закондарҙы боҙған теләһә ниндәй "
+"йөкмәткене таратыу йәки тәҡдим итеү;"
 
 #: wllegal/templates/legal/documents/tos.html:432
 msgid ""
 "Disseminating or offering any illegally obtained content or content whose "
 "dissemination would be illegal;"
 msgstr ""
+"Законһыҙ алынған теләһә ниндәй йөкмәткене йәки таратыуы законһыҙ булған "
+"йөкмәткене таратыу йәки тәҡдим итеү;"
 
 #: wllegal/templates/legal/documents/tos.html:436
 msgid ""
 "Disseminating or offering any pornographic, obscene, or otherwise vulgar "
 "content;"
 msgstr ""
+"Порнографик, әхлаҡһыҙ йәки башҡаса тупаҫ йөкмәткене таратыу йәки тәҡдим итеү;"
 
 #: wllegal/templates/legal/documents/tos.html:440
 msgid ""
 "Engaging in any services or activities that are contrary to applicable laws "
 "at the national, EU, or international level;"
 msgstr ""
+"Милли, ЕС йәки халыҡ-ара кимәлдә ғәмәлдәге закондарға ҡаршы килгән теләһә "
+"ниндәй хеҙмәттәрҙә йәки эшмәкәрлектәрҙә ҡатнашыу;"
 
 #: wllegal/templates/legal/documents/tos.html:444
 msgid ""
 "Engaging in activities that bypass intellectual property protection elements "
 "(such as cracks, warez, etc.);"
 msgstr ""
+"Интеллектуаль милекте яҡлау элементтарын урап үтеүсе ғәмәлдәрҙә ҡатнашыу ("
+"мәҫәлән, крэктар, варез һ.б.);"
 
 #: wllegal/templates/legal/documents/tos.html:448
 msgid ""
 "Sending unsolicited commercial messages and other spam or other illegal "
 "harassment of third parties;"
 msgstr ""
+"Һоралмаған коммерция хәбәрҙәрен һәм башҡа спамды ебәреү йәки өсөнсө яҡтарҙы "
+"башҡаса законһыҙ эҙәрлекләү;"
 
 #: wllegal/templates/legal/documents/tos.html:452
 msgid ""
@@ -1405,81 +1967,107 @@ msgid ""
 "impolite, or otherwise inappropriate content that unlawfully or illegally "
 "infringes on the personal rights of third parties;"
 msgstr ""
+"Өсөнсө яҡтарҙың хоҡуҡтарын боҙорға мөмкин булған теләһә ниндәй йөкмәткене "
+"баҫтырыу йәки таратыу, шул иҫәптән бындай шәхестәргә һөжүмдәр, йәки өсөнсө "
+"яҡтарҙың шәхси хоҡуҡтарын законһыҙ йәки хоҡуҡҡа ҡаршы боҙған теләһә ниндәй "
+"мыҫҡыллаусы, әҙәпһеҙ йәки башҡаса ярамаған йөкмәтке;"
 
 #: wllegal/templates/legal/documents/tos.html:456
 msgid ""
 "Disseminating or offering any content that infringes on third-party "
 "intellectual or industrial property rights;"
 msgstr ""
+"Өсөнсө яҡтарҙың интеллектуаль йәки сәнәғәт милке хоҡуҡтарын боҙған теләһә "
+"ниндәй йөкмәткене таратыу йәки тәҡдим итеү;"
 
 #: wllegal/templates/legal/documents/tos.html:460
 msgid ""
 "Operating or disseminating any tools that may be misused to breach network, "
 "device, or service security;"
 msgstr ""
+"Селтәр, ҡоролма йәки сервис хәүефһеҙлеген боҙоу өсөн ярамаған маҡсатта "
+"ҡулланылырға мөмкин булған теләһә ниндәй ҡоралдарҙы эшләтеү йәки таратыу;"
 
 #: wllegal/templates/legal/documents/tos.html:464
 msgid "Overburdening the Provider's or third-party servers;"
-msgstr ""
+msgstr "Провайдерҙың йәки өсөнсө яҡтарҙың серверҙарын артыҡ йөкләү;"
 
 #: wllegal/templates/legal/documents/tos.html:468
 msgid ""
 "Engaging in any activities that could harm the Provider, its reputation, or "
 "its assets;"
 msgstr ""
+"Провайдерға, уның абруйына йәки уның активтарына зыян килтерерлек теләһә "
+"ниндәй эшмәкәрлектәрҙә ҡатнашыу;"
 
 #: wllegal/templates/legal/documents/tos.html:472
 msgid ""
 "Using any means, servers, devices, or elements provided by the Provider in a "
 "manner not expressly agreed upon in these Terms or the Agreement;"
 msgstr ""
+"Провайдер биргән теләһә ниндәй сараларҙы, серверҙарҙы, ҡоролмаларҙы йәки "
+"элементтарҙы был Шарттарҙа йәки Килешеүҙә асыҡтан-асыҡ килешелмәгән ысул "
+"менән ҡулланыу;"
 
 #: wllegal/templates/legal/documents/tos.html:476
 msgid ""
 "Conducting activities that would disclose any content to third parties that:"
-msgstr ""
+msgstr "Өсөнсө яҡтарға түбәндәгеләрҙе асҡан эшмәкәрлек алып барыу:"
 
 #: wllegal/templates/legal/documents/tos.html:480
 msgid "Contains prohibited applications and scripts;"
-msgstr ""
+msgstr "Тыйлған ҡушымталарҙы һәм скрипттарҙы үҙ эсенә ала;"
 
 #: wllegal/templates/legal/documents/tos.html:484
 msgid "Overloads database systems or causes malfunction of servers;"
 msgstr ""
+"Мәғлүмәт базалары системаларын артыҡ йөктәй йәки серверҙарҙың боҙолоуына "
+"килтерә;"
 
 #: wllegal/templates/legal/documents/tos.html:488
 msgid ""
 "Overburdens the infrastructure, connection lines, or hardware of the "
 "Provider or third parties;"
 msgstr ""
+"Провайдерҙың йәки өсөнсө яҡтарҙың инфраструктураһын, тоташыу линияларын йәки "
+"аппарат ҡорамалдарын артыҡ йөктәй;"
 
 #: wllegal/templates/legal/documents/tos.html:492
 msgid ""
 "Involves music, sound, image, film, or similar files for which the User "
 "lacks distribution rights;"
 msgstr ""
+"Ҡулланыусының таратыу хоҡуғы булмаған музыка, тауыш, рәсем, фильм йәки оҡшаш "
+"файлдарҙы үҙ эсенә ала;"
 
 #: wllegal/templates/legal/documents/tos.html:496
 msgid ""
 "Threatens the privacy or security of other Internet users or the security of "
 "computer systems (e.g., through viruses, password generators, etc.);"
 msgstr ""
+"Башҡа интернет ҡулланыусыларының хосусилығына йәки хәүефһеҙлегенә йәки "
+"компьютер системаларының хәүефһеҙлегенә янай (мәҫәлән, вирустар, пароль "
+"генераторҙары аша һ.б.);"
 
 #: wllegal/templates/legal/documents/tos.html:500
 msgid ""
 "Is part of the provided Service without written permission from the Provider "
 "to share it with third parties;"
 msgstr ""
+"Провайдерҙан өсөнсө яҡтар менән уртаҡлашыуға яҙма рөхсәтһеҙ күрһәтелгән "
+"Хеҙмәттең бер өлөшө булып тора;"
 
 #: wllegal/templates/legal/documents/tos.html:504
 msgid ""
 "Gives the impression that the User acts on behalf of the Provider without "
 "authorization;"
 msgstr ""
+"Ҡулланыусының рөхсәтһеҙ Провайдер исеменән эш итеүе тураһында тәьҫорат "
+"тыуҙыра;"
 
 #: wllegal/templates/legal/documents/tos.html:508
 msgid "May harm any third-party rights."
-msgstr ""
+msgstr "Теләһә ниндәй өсөнсө яҡ хоҡуҡтарына зыян килтереүе мөмкин."
 
 #: wllegal/templates/legal/documents/tos.html:512
 msgid ""
@@ -1489,6 +2077,11 @@ msgid ""
 "public morality, ethical principles, or Internet usage rules, or is aiding "
 "in or committing criminal activities."
 msgstr ""
+"Провайдер, әгәр Ҡулланыусының Шарттарҙы, Килешеүҙе боҙоуына йәки Хеҙмәттәрҙе "
+"ғәмәлдәге закондарға, йәмәғәт әхлағына, этик принциптарға йәки интернетты "
+"ҡулланыу ҡағиҙәләренә ҡаршы килеп ҡулланыуына, йәки енәйәт эшмәкәрлегенә "
+"ярҙам итеүенә йәки уны ҡылыуына аҡыллы нигеҙҙә ышанһа, алдан хәбәр итмәйенсә "
+"Хеҙмәттәрҙе күрһәтеүҙе туҡтатып, сикләп йәки туҡтатып тора ала."
 
 #: wllegal/templates/legal/documents/tos.html:516
 msgid ""
@@ -1498,6 +2091,12 @@ msgid ""
 "invoicing) or excessive usage, particularly through automated software and "
 "bots that overload the Provider’s servers or other technical facilities."
 msgstr ""
+"Провайдер шулай уҡ, әгәр Хеҙмәттәр Провайдерҙың хоҡуҡтарына рөхсәтһеҙ "
+"ҡыҫылыу (мәҫәлән, үҙеңде икенсе кеше итеп күрһәтеү, ялған иҫәп-фактуралар "
+"сығарыу) йәки Провайдерҙың серверҙарын йәки башҡа техник сараларын артыҡ "
+"йөктәгән автоматлаштырылған программалар һәм боттар аша артыҡ ҡулланыу өсөн "
+"ярамаған маҡсатта ҡулланылһа, алдан хәбәр итмәйенсә Хеҙмәттәрҙе күрһәтеүҙе "
+"туҡтатып, сикләп йәки туҡтатып тора ала."
 
 #: wllegal/templates/legal/documents/tos.html:520
 msgid ""
@@ -1506,6 +2105,10 @@ msgid ""
 "responsible for any damages resulting from the interruption and cannot claim "
 "any compensation from the Provider for such damages."
 msgstr ""
+"Ҡулланыусы, Провайдер тарафынан Хеҙмәттәрҙе нигеҙле туҡтатыу, сикләү йәки "
+"туҡтатып тороу осрағында, өҙөклөктән килеп сыҡҡан зыян өсөн тулыһынса яуаплы "
+"булыуын һәм бындай зыян өсөн Провайдерҙан бер ниндәй ҙә компенсация талап "
+"итә алмауын асыҡтан-асыҡ ризалаша."
 
 #: wllegal/templates/legal/documents/tos.html:524
 msgid ""
@@ -1515,6 +2118,12 @@ msgid ""
 "or ensuring the installation and execution of tools and scripts on the "
 "virtual server that verify and check the software resources used."
 msgstr ""
+"Ҡулланылған программа сиселешен тикшереү йәки Хеҙмәттәр аша тейәлгән "
+"билдәләнгән программа ресурстарының һәм йөкмәткенең лицензияланыуын аудитлау "
+"өсөн, Ҡулланыусы Провайдерға тулы хеҙмәттәшлек күрһәтергә ризалаша. Был "
+"ҡулланылған программа ресурстарын тикшергән һәм тикшергән виртуаль серверҙа "
+"ҡоралдарҙы һәм скрипттарҙы ҡуйыуҙы һәм эшләтеүҙе мөмкин итеүҙе йәки тәьмин "
+"итеүҙе үҙ эсенә ала."
 
 #: wllegal/templates/legal/documents/tos.html:528
 msgid ""
@@ -1528,10 +2137,19 @@ msgid ""
 "does not affect the Provider’s right to claim damages in addition to the "
 "penalty."
 msgstr ""
+"Ҡулланыусы Провайдерға, уның клиенттарына, партнерҙарына йәки өсөнсө яҡтарға "
+"килтерелгән зыян өсөн яуаплы булырға асыҡтан-асыҡ ризалаша. Был яуаплылыҡ, "
+"атап әйткәндә, был Шарттарҙың 10-сы статьяһы положениеларын боҙған теләһә "
+"ниндәй юридик ғәмәлдәрҙең эҙемтәләрен үҙ эсенә ала. Ҡулланыусы шулай уҡ "
+"Провайдерҙың ярамаған ҡулланыуҙы булдырмау өсөн Хеҙмәт көйләүҙәрен көйләй "
+"алыуына ризалаша. Ҡулланыусы тарафынан боҙоу осрағында, ҡулланылмаған хеҙмәт "
+"осоро кире ҡайтарылмай һәм автоматик рәүештә бер тапҡырлыҡ контракт штрафы "
+"тип иҫәпләнәсәк. Был штраф Провайдерҙың штрафтан тыш зыянды ҡаплатыуҙы талап "
+"итеү хоҡуғына йоғонто яһамай."
 
 #: wllegal/templates/legal/documents/tos.html:533
 msgid "Termination of the Agreement"
-msgstr ""
+msgstr "Килешеүҙе өҙөү"
 
 #: wllegal/templates/legal/documents/tos.html:537
 msgid ""
@@ -1540,6 +2158,9 @@ msgid ""
 "(either the Provider or the User) with liquidation, termination of the "
 "Agreement, or by mutual agreement of the Parties."
 msgstr ""
+"Контракт мөнәсәбәттәре Килешеүҙән сығыу, килешелгән мөҙҙәттең үтеүе, юридик "
+"шәхестең (йә Провайдер, йә Ҡулланыусы) бөтөрөлөүе менән, Килешеүҙе өҙөү йәки "
+"Яҡтарҙың үҙ-ара килешеүе буйынса туҡтатылырға мөмкин."
 
 #: wllegal/templates/legal/documents/tos.html:541
 msgid ""
@@ -1547,12 +2168,17 @@ msgid ""
 "reason. The notice period is three months, starting from the first day of "
 "the calendar month following the delivery of the notice to the User."
 msgstr ""
+"Провайдер Килешеүҙе теләһә ниндәй ваҡытта сәбәбен аңлатмайынса өҙә ала. "
+"Хәбәр итеү мөҙҙәте – өс ай, ул Ҡулланыусыға хәбәрнамәне тапшырғандан һуң "
+"килгән календарь айҙың беренсе көнөнән башлана."
 
 #: wllegal/templates/legal/documents/tos.html:545
 msgid ""
 "The User may terminate the Agreement under the conditions specified in "
 "Section 8.1 of these Terms."
 msgstr ""
+"Ҡулланыусы Килешеүҙе был Шарттарҙың 8.1-се бүлегендә күрһәтелгән шарттарҙа "
+"өҙә ала."
 
 #: wllegal/templates/legal/documents/tos.html:549
 msgid ""
@@ -1562,6 +2188,10 @@ msgid ""
 "Agreement. The withdrawal becomes effective the day after the User receives "
 "the notice of withdrawal."
 msgstr ""
+"Әгәр Ҡулланыусы был Шарттар йәки Килешеү буйынса үҙ бурыстарын етди йәки "
+"ҡабатлап боҙһа һәм боҙоу тураһында хәбәрнамә тапшырылғандан һуң 14 көн "
+"эсендә боҙоуҙо төҙәтмәһә, Провайдер Килешеүҙән сыға ала. Сығыу Ҡулланыусы "
+"сығыу тураһында хәбәрнамәне алғандан һуңғы көндө көсөнә инә."
 
 #: wllegal/templates/legal/documents/tos.html:553
 msgid ""
@@ -1570,6 +2200,9 @@ msgid ""
 "withdraw from the Agreement and terminate the provision of the Service as "
 "soon as such a breach is discovered."
 msgstr ""
+"Әгәр Ҡулланыусы үҙ бурыстарын был Шарттар йәки Килешеү буйынса бигерәк тә "
+"етди рәүештә боҙһа, Провайдер бындай боҙоу асыҡланғандан һуң шунда уҡ "
+"Килешеүҙән сығырға һәм Хеҙмәтте күрһәтеүҙе туҡтатырға хоҡуҡлы."
 
 #: wllegal/templates/legal/documents/tos.html:557
 msgid ""
@@ -1577,6 +2210,9 @@ msgid ""
 "in a particularly serious manner, the User is entitled to immediately "
 "withdraw from the Agreement as soon as such a breach is discovered."
 msgstr ""
+"Әгәр Провайдер үҙ бурыстарын был Шарттар йәки Килешеү буйынса бигерәк тә "
+"етди рәүештә боҙһа, Ҡулланыусы бындай боҙоу асыҡланғандан һуң шунда уҡ "
+"Килешеүҙән сығырға хоҡуҡлы."
 
 #: wllegal/templates/legal/documents/tos.html:561
 msgid ""
@@ -1586,10 +2222,15 @@ msgid ""
 "including the provisions of Sections 1912 (2), 1923, 1969, 1977, 1978, 1979, "
 "2001, 2002, 2003, 2106, 2107, 2110, and 2111 of the Czech Civil Code."
 msgstr ""
+"Бер яҡ та Килешеүҙе был Бүлектә асыҡтан-асыҡ күрһәтелгән осраҡтарҙан тыш өҙә "
+"йәки башҡаса туҡтата алмай. Яҡтар, мөмкин тиклем максималь дәрәжәлә, теләһә "
+"ниндәй Яҡтың был Килешеүҙе өҙөү хоҡуғын, шул иҫәптән Чехия Гражданлыҡ "
+"кодексының 1912 (2), 1923, 1969, 1977, 1978, 1979, 2001, 2002, 2003, 2106, "
+"2107, 2110 һәм 2111-се статьялары положениеларын, инҡар итә."
 
 #: wllegal/templates/legal/documents/tos.html:565
 msgid "Limitation of Liability"
-msgstr ""
+msgstr "Яуаплылыҡты сикләү"
 
 #: wllegal/templates/legal/documents/tos.html:569
 msgid ""
@@ -1600,10 +2241,17 @@ msgid ""
 "other intangible losses (even if the Provider has been advised of the "
 "possibility of such damages), resulting from:"
 msgstr ""
+"Провайдер Хеҙмәттәрҙе күрһәтеүҙән килеп сыҡҡан ситләтелгән зыян өсөн, "
+"мәҫәлән, юғалтылған табыш, юғалтылған килем, мәғлүмәт юғалтыу, финанс "
+"зыяндары йәки теләһә ниндәй ситләтелгән, махсус йәки эҙемтәле зыяндар, шул "
+"иҫәптән өлгөлө йәки язалаусы зыяндар, мәҫәлән, ләкин улар менән генә "
+"сикләнмәйенсә, башҡа матди булмаған юғалтыуҙар өсөн (хатта Провайдерға "
+"бындай зыяндарҙың мөмкин булыуы тураһында хәбәр ителһә лә) яуаплы түгел, "
+"улар түбәндәгеләр һөҙөмтәһендә килеп сыға:"
 
 #: wllegal/templates/legal/documents/tos.html:574
 msgid "Use or inability to use the Service;"
-msgstr ""
+msgstr "Хеҙмәтте ҡулланыу йәки ҡуллана алмау;"
 
 #: wllegal/templates/legal/documents/tos.html:577
 msgid ""
@@ -1611,6 +2259,10 @@ msgid ""
 "data, information, or services purchased or obtained or messages received, "
 "or transactions entered into through or from the Service;"
 msgstr ""
+"Хеҙмәт аша йәки унан һатып алынған йәки алынған теләһә ниндәй тауарҙарҙан, "
+"мәғлүмәттәрҙән, мәғлүмәттәрҙән йәки хеҙмәттәрҙән йәки алынған хәбәрҙәрҙән, "
+"йәки индерелгән транзакцияларҙан килеп сыҡҡан алмаштырыусы тауарҙарҙы һәм "
+"хеҙмәттәрҙе алыу хаҡы;"
 
 #: wllegal/templates/legal/documents/tos.html:580
 msgid ""
@@ -1618,10 +2270,13 @@ msgid ""
 "including any outcomes of third-party solutions or services related to the "
 "Service;"
 msgstr ""
+"Хеҙмәтте күрһәтеүҙә ҡатнашҡан теләһә ниндәй өсөнсө яҡтың белдереүҙәре йәки "
+"ғәмәлдәре, шул иҫәптән Хеҙмәткә бәйле өсөнсө яҡ сиселештәренең йәки "
+"хеҙмәттәренең теләһә ниндәй һөҙөмтәләре;"
 
 #: wllegal/templates/legal/documents/tos.html:583
 msgid "Any other matters related to the Service."
-msgstr ""
+msgstr "Хеҙмәткә бәйле башҡа теләһә ниндәй мәсьәләләр."
 
 #: wllegal/templates/legal/documents/tos.html:588
 msgid ""
@@ -1633,6 +2288,13 @@ msgid ""
 "war, or changes in the political situation that prevent or unduly hinder the "
 "exercise of rights and obligations arising from this Agreement."
 msgstr ""
+"Форс-мажор осраҡтарында Яҡтар үҙҙәренең контракт бурыстарын ваҡытлыса "
+"туҡтатып торорға хоҡуҡлы, һәм был Килешеү менән йөкләтелгән бурыстарҙы "
+"үтәмәү йәки тотҡарлау Килешеүҙе боҙоу тип иҫәпләнмәйәсәк. Форс-мажорға Чехия "
+"законы буйынса яуаплылыҡ инҡар ителгән шарттар, мәҫәлән, тәбиғәт бәлә-"
+"ҡазалары, һуғыш йәки был Килешеүҙән килеп сыҡҡан хоҡуҡтарҙы һәм бурыстарҙы "
+"тормошҡа ашырыуға ҡамасаулаған йәки үтә ауырлаштырған сәйәси хәлдең үҙгәреүе "
+"инә."
 
 #: wllegal/templates/legal/documents/tos.html:592
 msgid ""
@@ -1643,6 +2305,12 @@ msgid ""
 "back up all of their data stored within the Service at another geographical "
 "location(s)."
 msgstr ""
+"Килешеүгә инеп, Ҡулланыусы, Провайдерҙың бар көсөн һалыуына ҡарамаҫтан, "
+"Провайдерҙың контроленән тыш булған шарттар (мәҫәлән, интернет тоташыуының "
+"өҙөлөүе) арҡаһында Хеҙмәттең ваҡытлыса мөмкин булмауы ихтимал икәнлеген "
+"таный. Шуға күрә Ҡулланыусы Хеҙмәт эсендә һаҡланған бөтә мәғлүмәттәренең "
+"резерв күсермәһен икенсе географик урын(дар)ҙа яһарға ризалаша һәм йөкләмә "
+"ала."
 
 #: wllegal/templates/legal/documents/tos.html:596
 msgid ""
@@ -1651,10 +2319,15 @@ msgid ""
 "cancel their order or to request a refund of any fees paid, unless otherwise "
 "expressly agreed between the Parties in individual cases."
 msgstr ""
+"Ҡулланыусы Хеҙмәтте ШУЛ КИЛЕШ (AS IS) ҡуллана. Башҡа программалар, аппарат "
+"конфигурациялары менән ярашмау йәки теләһә ниндәй етешһеҙлектәр йәки "
+"хаталар, әгәр Яҡтар араһында айырым осраҡтарҙа башҡаса асыҡтан-асыҡ "
+"килешелмәһә, Ҡулланыусыға үҙ заказын туҡтатырға йәки түләнгән теләһә ниндәй "
+"түләүҙәрҙе кире ҡайтарыуҙы талап итергә ХОҠУҠ БИРМӘЙ."
 
 #: wllegal/templates/legal/documents/tos.html:600
 msgid "Personal Data Protection"
-msgstr ""
+msgstr "Шәхси Мәғлүмәттәрҙе яҡлау"
 
 #: wllegal/templates/legal/documents/tos.html:604
 #, python-format
@@ -1666,6 +2339,11 @@ msgid ""
 "communications as defined in the <a href=\"%(privacy_url)s\">Privacy Policy</"
 "a>."
 msgstr ""
+"Провайдер Ҡулланыусынан мәғлүмәттәрҙе тик Хеҙмәтте күрһәтеү, уның сифатын "
+"яҡшыртыу, юридик бурыстарҙы үтәү маҡсатында, һәм һайланған осраҡтарҙа "
+"Провайдерҙың законлы мәнфәғәттәре өсөн (мәҫәлән, сервер хәүефһеҙлеген һәм "
+"бөтөнлөгөн һаҡлау) йәки <a href=\"%(privacy_url)s\">Хосусилыҡ сәйәсәтендә</"
+"a> билдәләнгәнсә өҫтәмә коммерция хәбәрҙәрен ебәреү өсөн йыя."
 
 #: wllegal/templates/legal/documents/tos.html:608
 msgid ""
@@ -1673,6 +2351,9 @@ msgid ""
 "The User declares that they consider this encryption method sufficiently "
 "secure."
 msgstr ""
+"Хеҙмәт эсендәге бөтә аралашыу ҙа SSL протоколы ярҙамында шифрлана. "
+"Ҡулланыусы был шифрлау ысулын етерлек дәрәжәлә хәүефһеҙ тип иҫәпләүен "
+"белдерә."
 
 #: wllegal/templates/legal/documents/tos.html:612
 #, python-format
@@ -1683,6 +2364,11 @@ msgid ""
 "defined in this Agreement and the <a href=\"%(privacy_url)s\">Privacy "
 "Policy</a>."
 msgstr ""
+"Провайдер Ҡулланыусы тарафынан уның Ҡулланыусы аккаунтын теркәү ваҡытында "
+"бирелгән теләһә ниндәй мәғлүмәтте йәки Ҡулланыусы биргән башҡа шәхси "
+"мәғлүмәттәрҙе был Килешеүҙә һәм <a href=\"%(privacy_url)s\">Хосусилыҡ "
+"сәйәсәтендә</a> билдәләнгән маҡсаттарҙан тыш теләһә ниндәй өсөнсө яҡҡа "
+"бирмәҫкә йөкләмә ала."
 
 #: wllegal/templates/legal/documents/tos.html:616
 msgid ""
@@ -1692,18 +2378,27 @@ msgid ""
 "technical cookies, for which explicit consent is not required under current "
 "legislation."
 msgstr ""
+"Провайдерҙың веб-сайты һәм веб-ҡушымтаһы шулай уҡ кукиҙар ҡуллана. Хеҙмәттәр "
+"тик Провайдерҙың сессия кукиҙарын ғына ҡуллана һәм бер ҡасан да өсөнсө яҡ "
+"кукиҙарын ҡулланмай. Функционаллек һәм төр буйынса, Провайдер тик "
+"функциональ/техник кукиҙарҙы ғына ҡуллана, улар өсөн ғәмәлдәге ҡануниәт "
+"буйынса асыҡ ризалыҡ талап ителмәй."
 
 #: wllegal/templates/legal/documents/tos.html:624
 msgid ""
 "The Parties commit to maintaining the confidentiality of all information "
 "learned during the contractual relationship established by this Agreement."
 msgstr ""
+"Яҡтар был Килешеү менән урынлаштырылған контракт мөнәсәбәттәре барышында "
+"белгән бөтә мәғлүмәттең серлелеген һаҡларға йөкләмә ала."
 
 #: wllegal/templates/legal/documents/tos.html:628
 msgid ""
 "The User’s rights arising from the Agreement and these Terms cannot be "
 "assigned without the prior written consent of the Provider."
 msgstr ""
+"Килешеүҙән һәм был Шарттарҙан килеп сыҡҡан Ҡулланыусының хоҡуҡтары "
+"Провайдерҙың алдан яҙма ризалығынсыз тапшырыла алмай."
 
 #: wllegal/templates/legal/documents/tos.html:632
 msgid ""
@@ -1711,6 +2406,9 @@ msgid ""
 "business entities and that they are entering into this Agreement within the "
 "scope of their business activities."
 msgstr ""
+"Шик-шөбһәләрҙе булдырмау өсөн, Яҡтар үҙҙәренең бизнес субъекттары булыуын "
+"һәм был Килешеүгә үҙҙәренең бизнес эшмәкәрлеге сиктәрендә инеүен асыҡтан-"
+"асыҡ раҫлай."
 
 #: wllegal/templates/legal/documents/tos.html:636
 msgid ""
@@ -1721,6 +2419,12 @@ msgid ""
 "effort to amend the Agreement by replacing the invalid, unenforceable, or "
 "ineffective provision with a new one that reflects the original intent."
 msgstr ""
+"Әгәр был Килешеүҙең йәки был Шарттарҙың ҡайһы ла булһа положениеһы ғәмәлдә "
+"булмаһа, көсһөҙ булһа йәки үтәлмәҫлек булһа, был Килешеүҙең йәки был "
+"Шарттарҙың ҡалған положениеларының ғәмәлдә булыуына, үтәлеүенә йәки көсөнә "
+"йоғонто яһамай. Бындай осраҡта Яҡтар ғәмәлдә булмаған, үтәлмәҫлек йәки "
+"көсһөҙ положениены оригиналь ниәтте сағылдырған яңыһы менән алмаштырып, "
+"Килешеүгә үҙгәрештәр индереү өсөн бар көсөн һаласаҡ."
 
 #: wllegal/templates/legal/documents/tos.html:640
 msgid ""
@@ -1740,6 +2444,20 @@ msgid ""
 "Parties. The Parties irrevocably agree not to contest the enforcement of the "
 "arbitration award in any jurisdiction."
 msgstr ""
+"Был Шарттар Европа Берләшмәһе ағзаһы булған Чех Республикаһының законы менән "
+"көйләнә. Ләкин, Яҡтар, мөмкин тиклем максималь дәрәжәлә, Чехия Гражданлыҡ "
+"кодексының 1764, 1765, 1793-тән 1795-кә тиклем, 2050, 2389a-нан 2389f-ҡа "
+"тиклем, 2389t һәм 2389u статьялары положениеларын инҡар итә. Килешеүҙе үтәү "
+"йәки аңлатыу менән бәйле килеп сыҡҡан һәм Яҡтар тарафынан тыныс юл менән хәл "
+"ителә алмаған теләһә ниндәй бәхәстәр Чех Республикаһының Иҡтисади палатаһы "
+"һәм Чех Республикаһының Ауыл хужалығы палатаһы ҡарамағындағы Арбитраж "
+"судында был Арбитраж судының Ҡағиҙәләренә ярашлы тәғәйенләнгән өс арбитр "
+"тарафынан тулыһынса хәл ителәсәк. Һәр Яҡ бер арбитр тәғәйенләй, һәм ике "
+"арбитр 30 көн эсендә өсөнсө арбитр тураһында килешәсәк. Әгәр ике арбитр "
+"юғарыла күрһәтелгән осорҙа өсөнсө арбитр тураһында килешә алмаһа, Арбитраж "
+"судының рәйесе өсөнсө арбитрҙы тәғәйенләйәсәк. Арбитраж ҡарары Яҡтар өсөн "
+"тулыһынса һәм мотлаҡ. Яҡтар теләһә ниндәй юрисдикцияла арбитраж ҡарарының "
+"үтәлеүенә ҡаршы сыҡмаҫҡа кире ҡайтарғыһыҙ ризалаша."
 
 #: wllegal/templates/legal/documents/tos.html:644
 msgid ""
@@ -1750,7 +2468,13 @@ msgid ""
 "the English version and any translated version, the English version shall "
 "prevail in all matters."
 msgstr ""
+"Был Шарттарҙың рәсми версияһы инглиз телендә әҙерләнгән һәм берҙән-бер "
+"мотлаҡ версия тип иҫәпләнә. Был Шарттарҙың башҡа телдәргә тәржемә ителгән "
+"теләһә ниндәй версиялары Ҡулланыусының уңайлылығы өсөн генә бирелә һәм "
+"юридик көскә эйә түгел. Инглиз версияһы менән теләһә ниндәй тәржемә ителгән "
+"версия араһында теләһә ниндәй тап килмәүҙәр йәки конфликттар булған осраҡта, "
+"бөтә мәсьәләләрҙә лә инглиз версияһы өҫтөнлөк итәсәк."
 
 #: wllegal/templates/legal/documents/tos.html:648
 msgid "These Terms enter into force on November 1, 2024."
-msgstr ""
+msgstr "Был Шарттар 2024 йылдың 1 ноябрендә көсөнә инә."
