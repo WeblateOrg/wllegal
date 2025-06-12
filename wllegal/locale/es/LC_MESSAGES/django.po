@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-05-22 11:19+0000\n"
-"PO-Revision-Date: 2025-06-10 17:03+0000\n"
+"PO-Revision-Date: 2025-06-13 13:04+0000\n"
 "Last-Translator: eulalio <eulalio@disroot.org>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/weblate/legal/es/"
 ">\n"
@@ -781,6 +781,14 @@ msgid ""
 "Council (EC) No. 593/2008 of June 17, 2008, on the law applicable to "
 "contractual obligations (Rome I)."
 msgstr ""
+"Si la relación establecida por el Contrato contiene un elemento "
+"internacional (extranjero), la elección de la ley según la frase anterior no "
+"priva al Usuario - Consumidor de la protección proporcionada por las "
+"disposiciones del ordenamiento jurídico que no puede contractualmente "
+"desviarse y que se aplicarían en otro caso en ausencia de una elección de la "
+"ley de acuerdo con las disposiciones del artículo 6(1) del Reglamento (CE) "
+"no 593/2008 del Parlamento Europeo y del Consejo, de 17 de junio de 2008, "
+"sobre la ley aplicable a las obligaciones contractuales (Roma I)."
 
 #: wllegal/templates/legal/documents/privacy.html:288
 msgid ""
@@ -915,6 +923,12 @@ msgid ""
 "Coll., on Certain Information Society Services and Amending Certain Acts, as "
 "amended;"
 msgstr ""
+"significa cualquier dato enviado desde el servidor web del servicio al "
+"ordenador del Usuario u otro dispositivo conectado a Internet, que permita "
+"la identificación única del navegador web del Usuario de conformidad con el "
+"artículo 89 de la Ley No. 480/2004 Coll., sobre determinados servicios de la "
+"sociedad de la información y modificación de determinadas leyes, en su "
+"versión modificada;"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Dedicated Weblate"
@@ -925,6 +939,8 @@ msgid ""
 "means a form of collaboration where the User is the sole user of the Service "
 "in a cloud hosted and provided by the Provider;"
 msgstr ""
+"significa una forma de colaboración en la que el Usuario es el único usuario "
+"del Servicio en una nube alojada y proporcionada por el Proveedor;"
 
 #: wllegal/templates/legal/documents/tos.html:58
 msgid "GDPR"
@@ -939,8 +955,9 @@ msgstr ""
 "Protección de Datos Personales;"
 
 #: wllegal/templates/legal/documents/tos.html:65
+#, fuzzy
 msgid "GTC"
-msgstr ""
+msgstr "GTC"
 
 #: wllegal/templates/legal/documents/tos.html:68
 msgid ""
@@ -972,6 +989,9 @@ msgid ""
 "provides Services to Users on a non-dedicated (i.e., shared by multiple "
 "Users) cloud operated by the Provider;"
 msgstr ""
+"significa una forma de colaboración puramente basada en la nube, donde el "
+"Proveedor proporciona Servicios a los Usuarios en una nube no dedicada (es "
+"decir, compartida por varios Usuarios) administrada por el Proveedor;"
 
 #: wllegal/templates/legal/documents/tos.html:86
 msgid "License"
