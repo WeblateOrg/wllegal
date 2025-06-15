@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-05-22 11:19+0000\n"
-"PO-Revision-Date: 2025-06-14 15:01+0000\n"
+"PO-Revision-Date: 2025-06-16 06:51+0000\n"
 "Last-Translator: eulalio <eulalio@disroot.org>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/weblate/legal/es/"
 ">\n"
@@ -1185,7 +1185,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:207
 msgid "Service Provision"
-msgstr ""
+msgstr "prestación de servicios"
 
 #: wllegal/templates/legal/documents/tos.html:211
 msgid ""
@@ -1194,6 +1194,10 @@ msgid ""
 "accordance with the Agreement and the technical specifications outlined in "
 "the Product specification."
 msgstr ""
+"El proveedor opera el Servicio en la dirección de internet concretada en la "
+"especificación del producto y sus subdominios o en los servidores del "
+"usuario de acuerdo con el Acuerdo y las especificaciones técnicas descritas "
+"en la especificación del Producto."
 
 #: wllegal/templates/legal/documents/tos.html:215
 msgid ""
@@ -1204,12 +1208,20 @@ msgid ""
 "specification defined in this manner takes precedence over the form of "
 "Service offered according to the Price List."
 msgstr ""
+"Si el Acuerdo se celebra en virtud del Artículo 2.3(a), el alcance de los "
+"servicios se define en la especificación del Producto, que se adjunta al "
+"Acuerdo. La especificación del Producto podrá detallar más el alcance de los "
+"(sub)servicios individuales en relación con su contenido y métodos de "
+"activación. La especificación del Producto definida de esta manera prevalece "
+"sobre la forma de Servicio ofrecida según la Lista de Precios."
 
 #: wllegal/templates/legal/documents/tos.html:219
 msgid ""
 "The Service is provided in three forms of cooperation: Hosted Weblate, "
 "Dedicated Weblate, and Self-hosting."
 msgstr ""
+"El Servicio se proporciona en tres formas de cooperación: Hosted Weblate, "
+"Dedicated Weblate y Self-hosting."
 
 #: wllegal/templates/legal/documents/tos.html:223
 msgid ""
@@ -1222,6 +1234,14 @@ msgid ""
 "third parties may process Personal Data within their activities in "
 "accordance with the Agreement and GPLv3."
 msgstr ""
+"De acuerdo con la GPLv3, ciertos aspectos del Servicio se pueden "
+"proporcionar por ya sea con la asistencia de terceros que no sean el "
+"Proveedor o directamente por estas partes. El Usuario reconoce que estos "
+"terceros proporcionarán sus servicios de acuerdo con este Contrato y la "
+"licencia GPLv3. El usuario reconoce que los terceros involucrados en la "
+"prestación del Servicio pueden cambiar durante el curso de la prestación del "
+"Servicio. Estos terceros pueden procesar Datos Personales dentro de sus "
+"actividades de acuerdo con el Acuerdo y la GPLv3."
 
 #: wllegal/templates/legal/documents/tos.html:227
 #, fuzzy
