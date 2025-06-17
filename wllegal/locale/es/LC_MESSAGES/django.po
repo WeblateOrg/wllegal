@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-05-22 11:19+0000\n"
-"PO-Revision-Date: 2025-06-17 16:01+0000\n"
+"PO-Revision-Date: 2025-06-18 04:45+0000\n"
 "Last-Translator: eulalio <eulalio@disroot.org>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/weblate/legal/es/"
 ">\n"
@@ -1376,10 +1376,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:286
-#, fuzzy
-#| msgid "License"
 msgid "License Terms"
-msgstr "Licencia"
+msgstr "Términos de la Licencia"
 
 #: wllegal/templates/legal/documents/tos.html:290
 #, python-format
@@ -1391,6 +1389,13 @@ msgid ""
 "License is provided. The License is granted in accordance with the option "
 "selected according to the Price List."
 msgstr ""
+"El software del Proveedor y las extensiones de software de Weblate se "
+"distribuyen bajo la licencia GNU/GPLv3 (ver <a href=\"%(url)s\">%(url)s</a>)"
+". Al Usuario se le otorga una licencia no exclusiva de cualquier elemento "
+"del Servicio bajo los términos de las GTC en su versión actualizada más "
+"reciente en el momento en que se proporciona la Licencia. La Licencia se "
+"otorga de acuerdo con la opción seleccionada de acuerdo con la Lista de "
+"precios."
 
 #: wllegal/templates/legal/documents/tos.html:295
 #, python-format
@@ -1403,6 +1408,14 @@ msgid ""
 "according to the information provided on the Provider's website (see <a "
 "href=\"%(url)s\">%(url)s</a>)."
 msgstr ""
+"A menos que se indique lo contrario en el Acuerdo, los términos de la "
+"licencia de este Acuerdo se rigen en su totalidad por la licencia GPLv3. Sin "
+"embargo, partes seleccionadas del Software también pueden estar bajo otras "
+"licencias. Puede encontrar una lista completa de las licencias utilizadas en "
+"el Software del Proveedor y las extensiones de software en su código fuente, "
+"que corresponde a la especificación REUSE 3.0 de acuerdo con la información "
+"proporcionada en el sitio web del Proveedor (ver <a href=\"%(url)s\""
+">%(url)s</a>)."
 
 #: wllegal/templates/legal/documents/tos.html:299
 msgid ""
@@ -1414,6 +1427,13 @@ msgid ""
 "creating, and distributing the Service, even if the User does not publicly "
 "release the Service."
 msgstr ""
+"El Usuario reconoce que todos los derechos de autor y otros derechos de "
+"propiedad intelectual del Servicio pertenecen al Proveedor y/o a terceros "
+"cuyas obras se han incorporado al Servicio y/o se utilizan conjuntamente con "
+"el Servicio. Sin embargo, el Usuario no pierde el derecho a utilizar el "
+"Servicio en la medida permitida por las licencias aplicables, incluida la "
+"ejecución, creación y distribución del Servicio, incluso si el Usuario no "
+"divulga públicamente el Servicio."
 
 #: wllegal/templates/legal/documents/tos.html:303
 msgid ""
@@ -1423,6 +1443,11 @@ msgid ""
 "or later versions of the GPL license), they publish all materials to which "
 "they do not own copyright."
 msgstr ""
+"Con el propósito de modificaciones exclusivas del Servicio únicamente en "
+"beneficio del Usuario o la creación de medios para ejecutar estos Servicios, "
+"el Usuario puede publicar el Servicio solo si, de acuerdo con los términos "
+"de la GPLv3 (y/o versiones posteriores de la licencia GPL), publica todos "
+"los materiales sobre los que no posee derechos de autor."
 
 #: wllegal/templates/legal/documents/tos.html:307
 msgid ""
