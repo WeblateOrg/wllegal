@@ -7,10 +7,10 @@
 # Vadim Nekhai <vadimnekhai@gmail.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-05-23 12:01+0000\n"
+"PO-Revision-Date: 2025-06-19 09:04+0000\n"
 "Last-Translator: Максим Горпиніч <maksimgorpinic4@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/weblate/legal/"
 "uk/>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.12.1\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -963,16 +963,12 @@ msgid "Hosted String"
 msgstr "Розміщений рядок"
 
 #: wllegal/templates/legal/documents/tos.html:75
-#, fuzzy
-#| msgid ""
-#| "means a text unit defined in the translation format. It can be a word, "
-#| "sentence, or paragraph;"
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph. It is counted separately for each language;"
 msgstr ""
 "означає текстову одиницю, визначену у форматі перекладу. Це може бути слово, "
-"речення або абзац;"
+"речення або абзац. Вона враховується окремо для кожної мови;"
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
