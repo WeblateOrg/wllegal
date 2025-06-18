@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2025-05-22 11:19+0000\n"
+"POT-Creation-Date: 2025-06-18 07:39+0000\n"
 "PO-Revision-Date: 2019-07-22 07:41+0000\n"
 "Last-Translator: Michal Čihař <michal@cihar.com>\n"
 "Language-Team: Klingon <https://hosted.weblate.org/projects/weblate/hosted/"
@@ -702,7 +702,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:75
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
-"sentence, or paragraph;"
+"sentence, or paragraph. It is counted separately for each language;"
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:79

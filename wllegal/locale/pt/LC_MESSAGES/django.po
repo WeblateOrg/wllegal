@@ -7,9 +7,9 @@
 # Manuela Silva <mmsrs@sky.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2025-05-22 11:19+0000\n"
+"POT-Creation-Date: 2025-06-18 07:39+0000\n"
 "PO-Revision-Date: 2025-06-03 00:04+0000\n"
 "Last-Translator: Manuela Silva <mmsrs@sky.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/weblate/legal/"
@@ -742,9 +742,13 @@ msgid "Hosted String"
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:75
+#, fuzzy
+#| msgid ""
+#| "means a text unit defined in the translation format. It can be a word, "
+#| "sentence, or paragraph;"
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
-"sentence, or paragraph;"
+"sentence, or paragraph. It is counted separately for each language;"
 msgstr ""
 "significa uma unidade de texto definida no formato de tradução. Pode ser uma "
 "palavra, frase ou parágrafo;"

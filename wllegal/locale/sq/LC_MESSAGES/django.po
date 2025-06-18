@@ -6,9 +6,9 @@
 # Besnik Bleta <besnik@programeshqip.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2025-05-22 11:19+0000\n"
+"POT-Creation-Date: 2025-06-18 07:39+0000\n"
 "PO-Revision-Date: 2025-05-23 12:01+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/weblate/legal/"
@@ -734,9 +734,13 @@ msgid "Hosted String"
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:75
+#, fuzzy
+#| msgid ""
+#| "means a text unit defined in the translation format. It can be a word, "
+#| "sentence, or paragraph;"
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
-"sentence, or paragraph;"
+"sentence, or paragraph. It is counted separately for each language;"
 msgstr ""
 "do të thotë një njësi teksti e përcaktuar në format përkthimi. Mund të jetë "
 "një fjalë, një togfjalësh ose një paragraf."

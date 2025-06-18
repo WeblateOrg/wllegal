@@ -13,9 +13,9 @@
 # Changpeng Sun <zzjbcn@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2025-05-22 11:19+0000\n"
+"POT-Creation-Date: 2025-06-18 07:39+0000\n"
 "PO-Revision-Date: 2025-05-23 12:01+0000\n"
 "Last-Translator: Sketch6580 <sketch6580@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
@@ -843,9 +843,13 @@ msgid "Hosted String"
 msgstr "托管的字符串"
 
 #: wllegal/templates/legal/documents/tos.html:75
+#, fuzzy
+#| msgid ""
+#| "means a text unit defined in the translation format. It can be a word, "
+#| "sentence, or paragraph;"
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
-"sentence, or paragraph;"
+"sentence, or paragraph. It is counted separately for each language;"
 msgstr "指翻译格式定义的文本单元。可以是单词、句子或段落；"
 
 #: wllegal/templates/legal/documents/tos.html:79
@@ -879,7 +883,8 @@ msgstr "个人数据"
 msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
-msgstr "指用户在服务和/或 Cookie 中输入的欧盟法规第 679/2016 号定义的个人数据；"
+msgstr ""
+"指用户在服务和/或 Cookie 中输入的欧盟法规第 679/2016 号定义的个人数据；"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235

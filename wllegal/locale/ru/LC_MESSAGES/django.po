@@ -12,9 +12,9 @@
 # Golubev Alexander <fatzer2@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2025-05-22 11:19+0000\n"
+"POT-Creation-Date: 2025-06-18 07:39+0000\n"
 "PO-Revision-Date: 2025-05-25 01:33+0000\n"
 "Last-Translator: Сергей <asvmail.as@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/weblate/legal/ru/"
@@ -999,9 +999,13 @@ msgid "Hosted String"
 msgstr "Размещённая строка"
 
 #: wllegal/templates/legal/documents/tos.html:75
+#, fuzzy
+#| msgid ""
+#| "means a text unit defined in the translation format. It can be a word, "
+#| "sentence, or paragraph;"
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
-"sentence, or paragraph;"
+"sentence, or paragraph. It is counted separately for each language;"
 msgstr ""
 "означает единицу текста, определённую в формате перевода. Это может быть "
 "слово, предложение или абзац;"

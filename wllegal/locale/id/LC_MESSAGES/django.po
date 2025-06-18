@@ -8,9 +8,9 @@
 # frottle <catatan.kungkong@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate \n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2025-05-22 11:19+0000\n"
+"POT-Creation-Date: 2025-06-18 07:39+0000\n"
 "PO-Revision-Date: 2025-06-08 17:01+0000\n"
 "Last-Translator: Linerly <linerly@proton.me>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/weblate/legal/"
@@ -971,9 +971,13 @@ msgid "Hosted String"
 msgstr "String yang dihosting"
 
 #: wllegal/templates/legal/documents/tos.html:75
+#, fuzzy
+#| msgid ""
+#| "means a text unit defined in the translation format. It can be a word, "
+#| "sentence, or paragraph;"
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
-"sentence, or paragraph;"
+"sentence, or paragraph. It is counted separately for each language;"
 msgstr ""
 "berarti unit teks yang didefinisikan dalam format terjemahan. Bisa berupa "
 "kata, kalimat, atau paragraf;"
@@ -1013,8 +1017,8 @@ msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"berarti data pribadi sebagaimana didefinisikan dalam Peraturan UE No. 679/"
-"2016, yang dimasukkan oleh pengguna ke dalam Layanan dan/atau Kuki;"
+"berarti data pribadi sebagaimana didefinisikan dalam Peraturan UE No. "
+"679/2016, yang dimasukkan oleh pengguna ke dalam Layanan dan/atau Kuki;"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
