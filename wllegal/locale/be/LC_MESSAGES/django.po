@@ -8,11 +8,11 @@
 # Alex Ky <esthomolupus@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-05-22 11:18+0000\n"
-"Last-Translator: Michal Čihař <michal@weblate.org>\n"
+"PO-Revision-Date: 2025-06-19 09:04+0000\n"
+"Last-Translator: Drugi Sapog <dindrugi@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/weblate/legal/"
 "be/>\n"
 "Language: be\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.12.1\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -657,7 +657,7 @@ msgstr "Грамадзянскі кодэкс"
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
 msgstr ""
 "азначае закон чэшскага грамадзянскага кодэксу Act No. 89/2012 Coll., Civil "
-"Code у апошняй рэдакцыі"
+"Code у апошняй рэдакцыі;"
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
@@ -741,7 +741,7 @@ msgid ""
 "use of the Service;"
 msgstr ""
 "азначае агульную ліцэнзію, выдадзеную пастаўшчыком карыстальніку для "
-"карыстання паслугай"
+"карыстання паслугай;"
 
 #: wllegal/templates/legal/documents/tos.html:93
 msgid "Personal Data"
@@ -805,7 +805,7 @@ msgstr "Сэрвіс"
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
 msgstr ""
-"азначае вэб-сайт і паслугі на аснове Weblate, якія аказваюцца Пастаўшчыком"
+"азначае вэб-сайт і паслугі на аснове Weblate, якія аказваюцца Пастаўшчыком;"
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid "Self-hosting"
@@ -835,7 +835,7 @@ msgstr "Памяць перакладаў"
 #: wllegal/templates/legal/documents/tos.html:152
 msgid "means an optional translation memory service provided on Weblate;"
 msgstr ""
-"азначае дадатковую паслугу памяці перакладаў, якая аказваецца на Weblate"
+"азначае дадатковую паслугу памяці перакладаў, якая аказваецца на Weblate;"
 
 #: wllegal/templates/legal/documents/tos.html:156
 msgid "User"
@@ -847,7 +847,7 @@ msgid ""
 "utilizes the Service;"
 msgstr ""
 "азначае любую юрыдычную або фізічную асобу, акрамя Пастаўшчыка, якая "
-"выкарыстоўвае Паслугу"
+"выкарыстоўвае Паслугу;"
 
 #: wllegal/templates/legal/documents/tos.html:163
 msgid "User Account"
