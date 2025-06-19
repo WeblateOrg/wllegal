@@ -12,13 +12,13 @@
 # iLocIT! <matthiasc@ilocit.de>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-06-18 07:38+0000\n"
+"PO-Revision-Date: 2025-06-19 09:04+0000\n"
 "Last-Translator: VfBFan <drop0815@posteo.de>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/weblate/legal/de/"
-">\n"
+"Language-Team: German <https://hosted.weblate.org/projects/weblate/legal/de/>"
+"\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1029,16 +1029,13 @@ msgid "Hosted String"
 msgstr "Gehostete Zeichenkette"
 
 #: wllegal/templates/legal/documents/tos.html:75
-#, fuzzy
-#| msgid ""
-#| "means a text unit defined in the translation format. It can be a word, "
-#| "sentence, or paragraph;"
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph. It is counted separately for each language;"
 msgstr ""
 "bedeutet eine im Übersetzungsformat definierte Texteinheit. Dies kann ein "
-"Wort, ein Satz oder ein Absatz sein;"
+"Wort, ein Satz oder ein Absatz sein. Sie wird für jede Sprache separat "
+"gezählt;"
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
