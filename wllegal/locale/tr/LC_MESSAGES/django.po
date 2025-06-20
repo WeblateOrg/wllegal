@@ -8,10 +8,10 @@
 # Ali Demirtas <alidemirtas94@gmail.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-05-25 01:33+0000\n"
+"PO-Revision-Date: 2025-06-21 10:12+0000\n"
 "Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/weblate/legal/tr/"
 ">\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -973,16 +973,12 @@ msgid "Hosted String"
 msgstr "Barındırılan Dizge"
 
 #: wllegal/templates/legal/documents/tos.html:75
-#, fuzzy
-#| msgid ""
-#| "means a text unit defined in the translation format. It can be a word, "
-#| "sentence, or paragraph;"
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph. It is counted separately for each language;"
 msgstr ""
 "çeviri biçiminde tanımlanan bir metin birimini ifade eder. Bir sözcük, cümle "
-"veya paragraf olabilir;"
+"veya paragraf olabilir. Her dil için ayrı ayrı sayılır;"
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
