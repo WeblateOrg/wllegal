@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-06-21 10:12+0000\n"
+"PO-Revision-Date: 2025-06-22 06:46+0000\n"
 "Last-Translator: eulalio <eulalio@disroot.org>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/weblate/legal/es/"
 ">\n"
@@ -1802,30 +1802,39 @@ msgid ""
 "Disseminating or offering any content that violates applicable laws at the "
 "national, EU, or international level;"
 msgstr ""
+"Difundir u ofrecer cualquier contenido que infrinja las leyes aplicables a "
+"nivel nacional, de la UE o internacional.;"
 
 #: wllegal/templates/legal/documents/tos.html:432
 msgid ""
 "Disseminating or offering any illegally obtained content or content whose "
 "dissemination would be illegal;"
 msgstr ""
+"Difundir u ofrecer cualquier contenido obtenido ilegalmente o contenido cuya "
+"difusión sería ilegal.;"
 
 #: wllegal/templates/legal/documents/tos.html:436
 msgid ""
 "Disseminating or offering any pornographic, obscene, or otherwise vulgar "
 "content;"
 msgstr ""
+"Difundir u ofrecer contenido pornográfico, obsceno o vulgar de otro modo;"
 
 #: wllegal/templates/legal/documents/tos.html:440
 msgid ""
 "Engaging in any services or activities that are contrary to applicable laws "
 "at the national, EU, or international level;"
 msgstr ""
+"Participar en cualquier servicio o actividad que sea contraria a las leyes "
+"aplicables a nivel nacional, de la UE o internacional.;"
 
 #: wllegal/templates/legal/documents/tos.html:444
 msgid ""
 "Engaging in activities that bypass intellectual property protection elements "
 "(such as cracks, warez, etc.);"
 msgstr ""
+"Participar en actividades que eludan los elementos de protección de la "
+"propiedad intelectual (como cracks, warez, etc.);"
 
 #: wllegal/templates/legal/documents/tos.html:448
 msgid ""
