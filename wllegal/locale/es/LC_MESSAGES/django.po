@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-06-22 06:46+0000\n"
+"PO-Revision-Date: 2025-06-23 07:27+0000\n"
 "Last-Translator: eulalio <eulalio@disroot.org>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/weblate/legal/es/"
 ">\n"
@@ -1871,31 +1871,41 @@ msgid ""
 "Engaging in any activities that could harm the Provider, its reputation, or "
 "its assets;"
 msgstr ""
+"Participar en cualquier actividad que pueda dañar al Proveedor, su "
+"reputación o sus activos;"
 
 #: wllegal/templates/legal/documents/tos.html:472
 msgid ""
 "Using any means, servers, devices, or elements provided by the Provider in a "
 "manner not expressly agreed upon in these Terms or the Agreement;"
 msgstr ""
+"Usar cualquier medio, servidor, dispositivo o elemento proporcionado por el "
+"Proveedor de una manera no expresamente acordada en estos Términos o en el "
+"Acuerdo;"
 
 #: wllegal/templates/legal/documents/tos.html:476
 msgid ""
 "Conducting activities that would disclose any content to third parties that:"
 msgstr ""
+"Llevar a cabo actividades que divulguen cualquier contenido a terceros que:"
 
 #: wllegal/templates/legal/documents/tos.html:480
 msgid "Contains prohibited applications and scripts;"
-msgstr ""
+msgstr "Contiene aplicaciones y scripts prohibidos;"
 
 #: wllegal/templates/legal/documents/tos.html:484
 msgid "Overloads database systems or causes malfunction of servers;"
 msgstr ""
+"Sobrecarga los sistemas de bases de datos o causa un mal funcionamiento de "
+"los servidores.;"
 
 #: wllegal/templates/legal/documents/tos.html:488
 msgid ""
 "Overburdens the infrastructure, connection lines, or hardware of the "
 "Provider or third parties;"
 msgstr ""
+"Sobrecarga la infraestructura, las líneas de conexión o el hardware del "
+"Proveedor o de terceros.;"
 
 #: wllegal/templates/legal/documents/tos.html:492
 msgid ""
