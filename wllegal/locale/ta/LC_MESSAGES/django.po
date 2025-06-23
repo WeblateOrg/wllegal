@@ -5,19 +5,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-06-03 00:04+0000\n"
+"PO-Revision-Date: 2025-06-24 09:01+0000\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
-"Language-Team: Tamil <https://hosted.weblate.org/projects/weblate/legal/ta/"
-">\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/weblate/legal/ta/>"
+"\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -941,16 +941,12 @@ msgid "Hosted String"
 msgstr "புரவலன் செய்யப்பட்ட சரம்"
 
 #: wllegal/templates/legal/documents/tos.html:75
-#, fuzzy
-#| msgid ""
-#| "means a text unit defined in the translation format. It can be a word, "
-#| "sentence, or paragraph;"
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph. It is counted separately for each language;"
 msgstr ""
 "மொழிபெயர்ப்பு வடிவத்தில் வரையறுக்கப்பட்ட உரை அலகு என்று பொருள். இது ஒரு சொல், வாக்கியம் "
-"அல்லது பத்தி இருக்கலாம்;"
+"அல்லது பத்தி இருக்கலாம்.இது ஒவ்வொரு மொழிக்கும் தனித்தனியாகக் கணக்கிடப்படுகிறது;"
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
