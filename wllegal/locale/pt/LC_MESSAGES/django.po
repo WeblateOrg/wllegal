@@ -7,10 +7,10 @@
 # Manuela Silva <mmsrs@sky.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-06-03 00:04+0000\n"
+"PO-Revision-Date: 2025-06-25 11:06+0000\n"
 "Last-Translator: Manuela Silva <mmsrs@sky.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/weblate/legal/"
 "pt/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -187,7 +187,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr "avatar do 'Utilizador',"
+msgstr "Avatar do utilizador,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
 msgid "email address(es),"
@@ -202,12 +202,14 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
-msgstr ""
+msgstr "especificações do Serviço e Produto utilizado pelo 'Utilizador',"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
 msgstr ""
+"informação sobre o número dos membros da equipa do 'Utilizador' e suas "
+"funções,"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
@@ -215,35 +217,47 @@ msgid ""
 "Profile), i.e., settings for languages, notifications, if they can identify "
 "the User directly or indirectly,"
 msgstr ""
+"todas as outras definições do utilizador da conta do 'Utilizador' (incluindo "
+"o chamado Perfil), exemplo, definições para os idiomas, notificações, se "
+"eles poderem identificar o 'Utilizador' diretamente ou indiretamente,"
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
 msgstr ""
+"número da conta bancária e possivelmente outros detalhes de pagamento do "
+"'Utilizador',"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "endereço ou endereços da carteira da criptomoeda,"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
 "other personal data contained in messages sent by the User to the Provider "
 "(especially the subject and other content of the message),"
 msgstr ""
+"outros dados pessoais com as mensagens enviadas pelo 'Utilizador' para o "
+"Fornecedor (especialmente o assunto e outro conteúdo da mensagem),"
 
 #: wllegal/templates/legal/documents/privacy.html:120
 msgid ""
 "other personal data contained in communications with the Provider's support,"
-msgstr ""
+msgstr "outros dados pessoais nas comunicações com o apoio do Fornecedor,"
 
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
 msgstr ""
+"dados do sistema, registos, e registos da sessão, incluindo o endereço de IP "
+"do 'Utilizador',"
 
 #: wllegal/templates/legal/documents/privacy.html:128
 msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
+"onde as categorias individuais dos dados pessoais listadas em cima "
+"continuarão a ser coletivamente referidas como "
+"\"<strong>Dados Pessoais&lt;</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -409,7 +423,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:199
 msgid "Common Provisions on Processing"
-msgstr ""
+msgstr "Provisões Comuns no Processamento"
 
 #: wllegal/templates/legal/documents/privacy.html:203
 msgid ""
@@ -419,6 +433,11 @@ msgid ""
 "processing of personal data by any third party, even if those third parties "
 "are Processors."
 msgstr ""
+"O 'Fornecedor' fará sempre todos os esforços para impedir o processamento "
+"não autorizado dos dados pessoais por outras pessoas; no entanto, não é "
+"responsável perante o 'Utilizador' ou outros titulares de dados por "
+"quaisquer danos causados pelo tratamento não autorizado dos dados pessoais "
+"por terceiros, mesmo que esses terceiros sejam os 'Processadores'."
 
 #: wllegal/templates/legal/documents/privacy.html:207
 msgid ""
@@ -553,7 +572,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:272
 #: wllegal/templates/legal/documents/tos.html:620
 msgid "Final Provisions"
-msgstr ""
+msgstr "Provisões Finais"
 
 #: wllegal/templates/legal/documents/privacy.html:276
 msgid ""
@@ -601,39 +620,41 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:296
 msgid "In Prague on November 1, 2024."
-msgstr ""
+msgstr "Em Praga, no dia 1 de novembro de 2024."
 
 #: wllegal/templates/legal/documents/summary.html:5
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"Nós processamos dados pessoais (tais como o seu endereço de email), que "
-"serão removidos da nossa base de dados se remover a sua conta."
+"Nós processamos os dados pessoais (tal como o seu endereço de correio "
+"eletrónico); esses serão removidos da nossa base de dados se remover a sua "
+"conta."
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
 msgstr ""
-"As suas traduções são feitas sob a licença especificada por cada tradução."
+"As suas traduções são efetuadas sob a licença que é especificada por cada "
+"tradução."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid ""
 "Your name and e-mail address is used in VCS commits, it will stay there "
 "indefinitely."
 msgstr ""
-"O seu nome e endereço de email são utilizados nas submissões de VCS, pelo "
-"que irá ficar lá para sempre."
+"O seu nome e endereço de correio eletrónico são utilizados nas submissões de "
+"VCS, estes irão ficar lá para sempre."
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
 msgstr ""
-"O nome escolhido fica a seu critério. O endereço de email utilizado para as "
-"submissões pode ser ocultado pelo sistema Weblate para proteger a sua "
-"privacidade."
+"O nome escolhido fica ao seu critério e o endereço de correio eletrónico "
+"utilizado para as submissões pode ser mascarado pelo sistema do Weblate para "
+"proteger a sua privacidade."
 
 #: wllegal/templates/legal/documents/summary.html:15
 msgid "We use cookies to deliver our services."
@@ -641,14 +662,14 @@ msgstr "Nós utilizamos ''cookies'' para fornecer os nossos serviços."
 
 #: wllegal/templates/legal/documents/summary.html:16
 msgid "We don’t use any third-party cookies."
-msgstr "Não utilizamos cookies de terceiros."
+msgstr "Nós não utilizamos quaisquer ''cookies'' de terceiros."
 
 #: wllegal/templates/legal/documents/tos.html:5
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
-"O documento dos Termos gerais e condições é legalmente vinculativo em "
+"O documento dos «Termos e Condições Gerais» é legalmente vinculativo em "
 "inglês. As traduções são fornecidas apenas para sua conveniência."
 
 #: wllegal/templates/legal/documents/tos.html:11
@@ -656,9 +677,8 @@ msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
 msgstr ""
-"Os direitos e as obrigações do Utilizador e do Fornecedor resultantes da "
-"utilização do Serviço são geridos por estes Termos gerais de serviço e "
-"condições."
+"Os direitos e as obrigações do 'Utilizador' e do 'Fornecedor' resultantes da "
+"utilização do \"Serviço\" são geridos por estes «Termos e Condições Gerais»."
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid ""
@@ -669,12 +689,20 @@ msgid ""
 "Services and Products. These general terms and conditions govern the "
 "contractual relationship between the service provider and the User."
 msgstr ""
+"Estes termos e condições gerais são parte integrante do contrato de serviço "
+"celebrado entre o 'Utilizador' e o 'Fornecedor' (doravante designado por "
+"\"<strong>Acordo</strong>\") e definem as regras e condições vinculativas "
+"para a provisão dos \"Serviços e Produtos\" e a utilização destes. Os "
+"presentes termos e condições gerais regem a relação contratual entre o "
+"prestador de serviços e o 'Utilizador'."
 
 #: wllegal/templates/legal/documents/tos.html:24
 msgid ""
 "The definitions below have the following meanings for the purposes of these "
 "general terms and conditions:"
 msgstr ""
+"As definições em baixo têm os seguintes significados para os fins destes "
+"termos e condições gerais:"
 
 #: wllegal/templates/legal/documents/tos.html:30
 msgid "Civil Code"
@@ -686,11 +714,11 @@ msgstr "significa Lei n.º 89/2012 do Código Civil, conforme emenda;"
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
-msgstr ""
+msgstr "Partes Contratantes"
 
 #: wllegal/templates/legal/documents/tos.html:40
 msgid "jointly refers to the User and the Provider;"
-msgstr ""
+msgstr "refere-se conjuntamente ao 'Utilizador' e ao 'Fornecedor';"
 
 #: wllegal/templates/legal/documents/tos.html:44
 msgid "Cookies"
@@ -707,13 +735,15 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Dedicated Weblate"
-msgstr ""
+msgstr "Weblate Dedicado"
 
 #: wllegal/templates/legal/documents/tos.html:54
 msgid ""
 "means a form of collaboration where the User is the sole user of the Service "
 "in a cloud hosted and provided by the Provider;"
 msgstr ""
+"significa uma forma de colaboração em que o 'Utilizador' é o único "
+"utilizador do \"Serviço\" numa nuvem hospedada e fornecida pelo 'Fornecedor';"
 
 #: wllegal/templates/legal/documents/tos.html:58
 msgid "GDPR"
@@ -729,29 +759,27 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
-msgstr ""
+msgstr "TCG"
 
 #: wllegal/templates/legal/documents/tos.html:68
 msgid ""
 "means these general terms and conditions, which form an integral part of the "
 "Agreement;"
 msgstr ""
+"significa estes termos e condições gerais, que formam uma parte integral do "
+"\"Acordo\";"
 
 #: wllegal/templates/legal/documents/tos.html:72
 msgid "Hosted String"
-msgstr ""
+msgstr "Cadeia de Carateres Hospedadas"
 
 #: wllegal/templates/legal/documents/tos.html:75
-#, fuzzy
-#| msgid ""
-#| "means a text unit defined in the translation format. It can be a word, "
-#| "sentence, or paragraph;"
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph. It is counted separately for each language;"
 msgstr ""
-"significa uma unidade de texto definida no formato de tradução. Pode ser uma "
-"palavra, frase ou parágrafo;"
+"significa uma unidade de texto definida no formato de tradução. Este pode "
+"ser uma palavra, frase, ou parágrafo. É contado em separado para cada idioma;"
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
