@@ -5,41 +5,35 @@
 # anonymous <noreply@weblate.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-06-11 18:04+0000\n"
+"PO-Revision-Date: 2025-06-28 13:05+0000\n"
 "Last-Translator: Jim Kats <jim-kats@hotmail.com>\n"
-"Language-Team: Greek <https://hosted.weblate.org/projects/weblate/legal/el/"
-">\n"
+"Language-Team: Greek <https://hosted.weblate.org/projects/weblate/legal/el/>"
+"\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "Υπεργολάβοι σύμφωνα με το άρθρο. 28 GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:11
-#, fuzzy
-#| msgid "Status as of October 2020."
 msgid "Status as of May 2024."
-msgstr "Καθεστώς από τον Μάρτιο του 2023."
+msgstr "Καθεστώς από τον Μάϊο του 2024."
 
 #: wllegal/templates/legal/documents/privacy.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
-"Το έγγραφο των Όρων χρήσης είναι έγκυρο στα αγγλικά, οι μεταφράσεις "
-"παρέχονται για τη διευκόλυνσή σας."
+"Το έγγραφο της Πολιτικής Απορρήτου είναι έγκυρο στα αγγλικά, οι μεταφράσεις "
+"παρέχονται για τη διευκόλυνση σας."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:6
@@ -57,7 +51,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
 msgid "Introductory Provisions"
-msgstr ""
+msgstr "Εισαγωγικές Διατάξεις"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
@@ -120,7 +114,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "Πεδίο Εφαρμογής, Σκοποί και Διάρκεια Επεξεργασίας"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
@@ -156,18 +150,20 @@ msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
 msgstr ""
+"Το πεδίο εφαρμογής των προσωπικών δεδομένων του Χρήστη τα οποία γίνονται "
+"επεξεργασία από τον Πάροχο, περιλαμβάνει τα ακόλουθα:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr ""
+msgstr "όνομα και επώνυμο,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr ""
+msgstr "διεύθυνση Χρήστη (παράδοσης και χρέωσης),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr ""
+msgstr "στοιχεία και ΑΦΜ Εταιρείας,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
@@ -177,13 +173,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr ""
+msgstr "άβαταρ Χρήστη,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail address"
 msgid "email address(es),"
-msgstr "Όνομα και διεύθυνση ηλεκτρονικού ταχυδρομείου"
+msgstr "διεύθυνση/διευθύνσεις ηλεκτρονικού ταχυδρομείου,"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -200,6 +194,8 @@ msgstr ""
 msgid ""
 "information about the number of team members of the User and their roles,"
 msgstr ""
+"πληροφορίες για τον αριθμό των μελών της ομάδας του Χρήστη και των ρόλων "
+"τους,"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
@@ -211,10 +207,12 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
 msgstr ""
+"αριθμός τραπεζικού λογαριασμού και ενδεχομένως άλλα στοιχεία πληρωμής του "
+"Χρήστη,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "διεύθυνση ή διευθύνσεις πορτοφολιού κρυπτονομίσματος,"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
@@ -302,10 +300,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:149
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Recipients and Processors of Personal Data"
-msgstr "Πρόσβαση στα Προσωπικά Δεδομένα"
+msgstr "Αποδέκτες και Επεξεργαστές Προσωπικών Δεδομένων"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -468,10 +464,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:236
-#, fuzzy
-#| msgid "Order us to delete your Personal Data"
 msgid "User Rights in Relation to Personal Data"
-msgstr "Να μας διατάξετε να διαγράψουμε τα Προσωπικά σας Δεδομένα"
+msgstr "Δικαιώματα Χρηστών Σχετικά με τα Προσωπικά Δεδομένα"
 
 #: wllegal/templates/legal/documents/privacy.html:240
 #, python-format
@@ -541,7 +535,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:272
 #: wllegal/templates/legal/documents/tos.html:620
 msgid "Final Provisions"
-msgstr ""
+msgstr "Τελικές Διατάξεις"
 
 #: wllegal/templates/legal/documents/privacy.html:276
 msgid ""
@@ -585,35 +579,27 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:292
 msgid "This Policy become effective upon their publication on the Website."
-msgstr ""
+msgstr "Η παρούσα Πολιτική τίθεται σε ισχύ με την δημοσίευση της στον Ιστότοπο."
 
 #: wllegal/templates/legal/documents/privacy.html:296
 msgid "In Prague on November 1, 2024."
-msgstr ""
+msgstr "Στην Πράγα την 1η Νοεμβρίου 2024."
 
 #: wllegal/templates/legal/documents/summary.html:5
-#, fuzzy
-#| msgid ""
-#| "We process private data (such as your e-mail address), those will be "
-#| "discarded from our database as soon as you remove your account."
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"Επεξεργαζόμαστε ιδιωτικά δεδομένα (όπως οι διευθύνσεις σας email), αυτά θα "
-"απορριφθούν από την βάση δεδομένων μας αμέσως μόλις αφαιρέσετε τον "
+"Επεξεργαζόμαστε προσωπικά δεδομένα (όπως τις διευθύνσεις email σας), τα "
+"οποία θα απορριφθούν από την βάση δεδομένων μας αμέσως μόλις αφαιρέσετε τον "
 "λογαριασμό σας."
 
 #: wllegal/templates/legal/documents/summary.html:8
-#, fuzzy
-#| msgid ""
-#| "Your translations are made under license which is specified by each "
-#| "translation."
 msgid ""
 "Your translations are made under the license which is specified by each "
 "translation."
 msgstr ""
-"Οι μεταφράσεις σας γίνονται κάτω από άδεια που καθορίζεται από κάθε "
+"Οι μεταφράσεις σας γίνονται κάτω από την άδεια που καθορίζεται από κάθε "
 "μετάφραση."
 
 #: wllegal/templates/legal/documents/summary.html:11
@@ -670,7 +656,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:30
 msgid "Civil Code"
-msgstr ""
+msgstr "Αστικός Κώδικας"
 
 #: wllegal/templates/legal/documents/tos.html:33
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
@@ -709,39 +695,40 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:58
 msgid "GDPR"
-msgstr ""
+msgstr "ΓΚΠΔ"
 
 #: wllegal/templates/legal/documents/tos.html:61
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
 msgstr ""
+"σημαίνει ο Κανονισμός 679/2016 της ΕΕ, Γενικός Κανονισμός για την Προστασία "
+"Δεδομένων·"
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
-msgstr ""
+msgstr "ΓΟΠ"
 
 #: wllegal/templates/legal/documents/tos.html:68
 msgid ""
 "means these general terms and conditions, which form an integral part of the "
 "Agreement;"
 msgstr ""
+"σημαίνει οι παρόντες γενικοί όροι και προϋποθέσεις, οι οποίοι σχηματίζουν "
+"ένα αναπόσπαστο κομμάτι της Συμφωνίας·"
 
 #: wllegal/templates/legal/documents/tos.html:72
 msgid "Hosted String"
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:75
-#, fuzzy
-#| msgid ""
-#| "means a text unit defined in the translation format. It can be a word, "
-#| "sentence, or paragraph;"
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph. It is counted separately for each language;"
 msgstr ""
 "αποτελεί μια μονάδα κειμένου που έχει καθοριστεί στη μορφή της μετάφρασης. "
-"Μπορεί να είναι μια λέξη, μια πρόταση ή μια παράγραφος·"
+"Μπορεί να είναι μια λέξη, μια πρόταση ή μια παράγραφος. Μετράει ξεχωριστά "
+"για κάθε γλώσσα·"
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
@@ -766,7 +753,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:93
 msgid "Personal Data"
-msgstr "Προσωπικά δεδομένα"
+msgstr "Προσωπικά Δεδομένα"
 
 #: wllegal/templates/legal/documents/tos.html:96
 msgid ""
@@ -777,7 +764,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
 msgid "Price"
-msgstr ""
+msgstr "Κόστος"
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid ""
@@ -787,7 +774,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:107
 msgid "Price List"
-msgstr ""
+msgstr "Τιμοκατάλογος"
 
 #: wllegal/templates/legal/documents/tos.html:110
 msgid ""
@@ -797,7 +784,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:114
 msgid "Product"
-msgstr ""
+msgstr "Προϊόν"
 
 #: wllegal/templates/legal/documents/tos.html:117
 msgid ""
@@ -838,10 +825,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:142
-#, fuzzy
-#| msgid "Service"
 msgid "Support Services"
-msgstr "Υπηρεσία"
+msgstr "Υπηρεσίες Υποστήριξης"
 
 #: wllegal/templates/legal/documents/tos.html:145
 msgid ""
@@ -852,7 +837,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:149
 msgid "Translation Memory"
-msgstr "Μεταφραστική μνήμη"
+msgstr "Μεταφραστική Μνήμη"
 
 #: wllegal/templates/legal/documents/tos.html:152
 msgid "means an optional translation memory service provided on Weblate;"
@@ -870,7 +855,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:163
 msgid "User Account"
-msgstr ""
+msgstr "Λογαριασμός Χρήστη"
 
 #: wllegal/templates/legal/documents/tos.html:166
 msgid ""
@@ -880,7 +865,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:170
 msgid "User Server"
-msgstr ""
+msgstr "Διακομιστής Χρήστη"
 
 #: wllegal/templates/legal/documents/tos.html:173
 msgid ""
@@ -890,7 +875,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:179
 msgid "Methods of Acceptance"
-msgstr ""
+msgstr "Τρόποι Αποδοχής"
 
 #: wllegal/templates/legal/documents/tos.html:183
 msgid "The License is granted to the User based on the concluded Agreement."
@@ -902,7 +887,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:191
 msgid "The Agreement is concluded:"
-msgstr ""
+msgstr "Η Συμφωνία συνάπτεται:"
 
 #: wllegal/templates/legal/documents/tos.html:196
 msgid ""
@@ -922,7 +907,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:207
 msgid "Service Provision"
-msgstr ""
+msgstr "Παροχή Υπηρεσίας"
 
 #: wllegal/templates/legal/documents/tos.html:211
 msgid ""
@@ -961,10 +946,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:227
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
-msgstr "Υπηρεσία"
+msgstr "Διάρκεια Υπηρεσίας"
 
 #: wllegal/templates/legal/documents/tos.html:231
 msgid ""
@@ -1002,13 +985,15 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:249
 msgid "regular price for Translation Memory;"
-msgstr "κανονική τιμή για τη μεταφραστική μνήμη·"
+msgstr "κανονική τιμή για τη Μεταφραστική Μνήμη;"
 
 #: wllegal/templates/legal/documents/tos.html:254
 msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
 msgstr ""
+"(τα σημεία a), b), και c) αναφέρονται συλλογικά ως η "
+"\"<strong>Συνδρομή</strong>\")."
 
 #: wllegal/templates/legal/documents/tos.html:258
 msgid ""
@@ -1078,10 +1063,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:286
-#, fuzzy
-#| msgid "License"
 msgid "License Terms"
-msgstr "Άδεια"
+msgstr "Όροι Άδειας Χρήσης"
 
 #: wllegal/templates/legal/documents/tos.html:290
 #, python-format
@@ -1150,10 +1133,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:315
-#, fuzzy
-#| msgid "Failed to process form!"
 msgid "Payment Terms"
-msgstr "Απέτυχε η προώθηση της φόμρας!"
+msgstr "Όροι Πληρωμής"
 
 #: wllegal/templates/legal/documents/tos.html:319
 msgid ""
@@ -1216,7 +1197,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:343
 msgid "Provider's Rights and Obligations"
-msgstr ""
+msgstr "Δικαιώματα και Υποχρεώσεις Παρόχου"
 
 #: wllegal/templates/legal/documents/tos.html:347
 msgid ""
@@ -1306,7 +1287,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:380
 msgid "User’s Rights and Obligations"
-msgstr ""
+msgstr "Δικαιώματα και Υποχρεώσεις Χρήστη"
 
 #: wllegal/templates/legal/documents/tos.html:384
 msgid ""
@@ -1382,7 +1363,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:416
 msgid "Prohibited Conduct"
-msgstr ""
+msgstr "Απαγορευμένη Συμπεριφορά"
 
 #: wllegal/templates/legal/documents/tos.html:420
 msgid ""
@@ -1572,7 +1553,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:533
 msgid "Termination of the Agreement"
-msgstr ""
+msgstr "Καταγγελία της Συμφωνίας"
 
 #: wllegal/templates/legal/documents/tos.html:537
 msgid ""
@@ -1644,7 +1625,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:574
 msgid "Use or inability to use the Service;"
-msgstr ""
+msgstr "Χρήση ή ανικανότητα χρήσης της Υπηρεσίας·"
 
 #: wllegal/templates/legal/documents/tos.html:577
 msgid ""
@@ -1661,10 +1642,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:583
-#, fuzzy
-#| msgid "means translation project operated on the Service"
 msgid "Any other matters related to the Service."
-msgstr "σημαίνει έργο μετάφρασης που λειτουργεί στην Υπηρεσία"
+msgstr "Οποιαδήποτε άλλα προβλήματα που σχετίζονται με την Υπηρεσία."
 
 #: wllegal/templates/legal/documents/tos.html:588
 msgid ""
@@ -1696,10 +1675,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:600
-#, fuzzy
-#| msgid "The Personal Data retention"
 msgid "Personal Data Protection"
-msgstr "Η διατήρηση προσωπικών δεδομένων"
+msgstr "Προστασία Προσωπικών Δεδομένων"
 
 #: wllegal/templates/legal/documents/tos.html:604
 #, python-format
@@ -1798,7 +1775,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:648
 msgid "These Terms enter into force on November 1, 2024."
-msgstr ""
+msgstr "Οι παρόντες Όροι τίθενται σε ισχύ την 1η Νοεμβρίου 2024."
 
 #, python-format
 #~ msgid ""
