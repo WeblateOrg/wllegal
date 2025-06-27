@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-06-26 18:01+0000\n"
+"PO-Revision-Date: 2025-06-28 13:06+0000\n"
 "Last-Translator: eulalio <eulalio@disroot.org>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/weblate/legal/es/"
 ">\n"
@@ -1810,6 +1810,11 @@ msgid ""
 "in cases where the Provider performs system outages for the reasons "
 "mentioned in Section 8.5."
 msgstr ""
+"El Usuario está obligado, a solicitud del Proveedor, a brindar la "
+"cooperación necesaria para resolver fallas o realizar ajustes en el "
+"Servicio, incluida la obligación de tolerar restricciones en el uso del "
+"Servicio en los casos en que el Proveedor realice interrupciones del sistema "
+"por los motivos mencionados en la Sección 8.5."
 
 #: wllegal/templates/legal/documents/tos.html:396
 msgid ""
@@ -1868,7 +1873,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:416
 msgid "Prohibited Conduct"
-msgstr ""
+msgstr "Conducta Prohibida"
 
 #: wllegal/templates/legal/documents/tos.html:420
 msgid ""
