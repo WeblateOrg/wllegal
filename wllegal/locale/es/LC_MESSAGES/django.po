@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-06-28 13:06+0000\n"
+"PO-Revision-Date: 2025-07-01 20:01+0000\n"
 "Last-Translator: eulalio <eulalio@disroot.org>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/weblate/legal/es/"
 ">\n"
@@ -1887,12 +1887,24 @@ msgid ""
 "another User’s account or the Provider’s servers. Violation of these "
 "obligations constitutes a material breach of the Agreement."
 msgstr ""
+"El Usuario tiene prohibido cargar, enviar o almacenar de otro modo cualquier "
+"contenido en el portal de Servicio que pueda contener virus de software u "
+"otros archivos y programas que puedan destruir, dañar o limitar la "
+"funcionalidad de los dispositivos del Proveedor u otros Usuarios. El Usuario "
+"tampoco está autorizado a cargar contenido en el portal del Servicio que sea "
+"ilegal poseer o distribuir, infrinja los derechos de autor de terceros, "
+"forme parte de actividades delictivas, propague spam a través del Servicio o "
+"intente obtener acceso a la cuenta de otro Usuario o los servidores del "
+"Proveedor. La violación de estas obligaciones constituye un incumplimiento "
+"material del Acuerdo."
 
 #: wllegal/templates/legal/documents/tos.html:424
 msgid ""
 "The User particularly agrees to refrain from the following activities while "
 "using the Services, especially through the Services:"
 msgstr ""
+"El Usuario acepta en particular abstenerse de las siguientes actividades "
+"durante el uso de los Servicios, especialmente a través de los Servicios:"
 
 #: wllegal/templates/legal/documents/tos.html:428
 msgid ""
@@ -1938,6 +1950,8 @@ msgid ""
 "Sending unsolicited commercial messages and other spam or other illegal "
 "harassment of third parties;"
 msgstr ""
+"Envío de mensajes comerciales no solicitados y otro spam u otro acoso ilegal "
+"de terceros;"
 
 #: wllegal/templates/legal/documents/tos.html:452
 msgid ""
@@ -1946,18 +1960,26 @@ msgid ""
 "impolite, or otherwise inappropriate content that unlawfully or illegally "
 "infringes on the personal rights of third parties;"
 msgstr ""
+"Publicar o difundir cualquier contenido que pueda infringir los derechos de "
+"terceros, incluidos los ataques a dichas personas, o cualquier contenido "
+"ofensivo, descortés o inapropiado que infrinja ilegal o ilegalmente los "
+"derechos personales de terceros.;"
 
 #: wllegal/templates/legal/documents/tos.html:456
 msgid ""
 "Disseminating or offering any content that infringes on third-party "
 "intellectual or industrial property rights;"
 msgstr ""
+"Difundir u ofrecer cualquier contenido que infrinja derechos de propiedad "
+"intelectual o industrial de terceros;"
 
 #: wllegal/templates/legal/documents/tos.html:460
 msgid ""
 "Operating or disseminating any tools that may be misused to breach network, "
 "device, or service security;"
 msgstr ""
+"Operar o difundir cualquier herramienta que pueda usarse indebidamente para "
+"violar la seguridad de la red, el dispositivo o el servicio;"
 
 #: wllegal/templates/legal/documents/tos.html:464
 msgid "Overburdening the Provider's or third-party servers;"
@@ -2040,6 +2062,12 @@ msgid ""
 "public morality, ethical principles, or Internet usage rules, or is aiding "
 "in or committing criminal activities."
 msgstr ""
+"El Proveedor puede, sin previo aviso, interrumpir, limitar o suspender la "
+"prestación de los Servicios si cree razonablemente que el Usuario está "
+"violando los Términos, el Acuerdo o utilizando los Servicios de manera "
+"contraria a las leyes aplicables, la moral pública, los principios éticos o "
+"las reglas de uso de Internet, o está ayudando o cometiendo actividades "
+"delictivas."
 
 #: wllegal/templates/legal/documents/tos.html:516
 msgid ""
@@ -2109,7 +2137,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:533
 msgid "Termination of the Agreement"
-msgstr ""
+msgstr "Terminación del Acuerdo"
 
 #: wllegal/templates/legal/documents/tos.html:537
 msgid ""
@@ -2118,6 +2146,10 @@ msgid ""
 "(either the Provider or the User) with liquidation, termination of the "
 "Agreement, or by mutual agreement of the Parties."
 msgstr ""
+"La relación contractual puede rescindirse por desistimiento del Contrato, "
+"vencimiento del plazo acordado, disolución de una entidad jurídica (ya sea "
+"el Proveedor o el Usuario) con liquidación, rescisión del Contrato o por "
+"mutuo acuerdo de las Partes."
 
 #: wllegal/templates/legal/documents/tos.html:541
 msgid ""
@@ -2125,12 +2157,18 @@ msgid ""
 "reason. The notice period is three months, starting from the first day of "
 "the calendar month following the delivery of the notice to the User."
 msgstr ""
+"El Proveedor puede rescindir el Acuerdo en cualquier momento sin "
+"proporcionar una razón. El plazo de preaviso es de tres meses, a contar "
+"desde el primer día del mes natural siguiente a la entrega del aviso al "
+"Usuario."
 
 #: wllegal/templates/legal/documents/tos.html:545
 msgid ""
 "The User may terminate the Agreement under the conditions specified in "
 "Section 8.1 of these Terms."
 msgstr ""
+"El Usuario puede rescindir el Acuerdo en las condiciones especificadas en la "
+"Sección 8.1 de estos Términos."
 
 #: wllegal/templates/legal/documents/tos.html:549
 msgid ""
