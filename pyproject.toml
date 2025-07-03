@@ -41,7 +41,7 @@ license = "GPL-3.0-or-later"
 license-files = ["LICENSE"]
 name = "wllegal"
 requires-python = ">=3.11"
-version = "2025.4"
+version = "2025.5"
 
 [[project.authors]]
 email = "michal@weblate.org"
