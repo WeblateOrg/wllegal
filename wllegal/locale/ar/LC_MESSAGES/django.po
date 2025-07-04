@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-07-04 01:28+0000\n"
+"PO-Revision-Date: 2025-07-05 14:01+0000\n"
 "Last-Translator: Wael Ibrahim <dr.wael.ibrahim@gmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/weblate/legal/ar/>"
 "\n"
@@ -341,10 +341,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:149
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Recipients and Processors of Personal Data"
-msgstr "الوصول إلى البيانات الشخصية"
+msgstr "متلقّو ومعالجات البيانات الشخصية"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
