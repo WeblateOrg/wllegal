@@ -1841,14 +1841,14 @@ msgid ""
 "the Service in accordance with the Agreement. The User undertakes to fully "
 "cooperate with the Provider in such cases."
 msgstr ""
-"El Proveedor se compromete a tomar todas las medidas dentro de sus "
-"capacidades técnicas para garantizar la funcionalidad y disponibilidad del "
-"Servicio. El Usuario reconoce y acepta que utiliza el Servicio bajo su "
-"propio riesgo."
+"Al aceptar estos Términos, el Usuario reconoce y acepta que el Proveedor "
+"tiene derecho a supervisar, utilizando sus propios recursos, si el Usuario "
+"está utilizando el Servicio de acuerdo con el Acuerdo. El Usuario se "
+"compromete a cooperar plenamente con el Proveedor en tales casos."
 
 #: wllegal/templates/legal/documents/tos.html:380
 msgid "User’s Rights and Obligations"
-msgstr ""
+msgstr "Derechos y Obligaciones del Usuario"
 
 #: wllegal/templates/legal/documents/tos.html:384
 msgid ""
@@ -1857,6 +1857,10 @@ msgid ""
 "modifications to the Service made by them are in compliance with applicable "
 "legal regulations."
 msgstr ""
+"El usuario no debe usar el Servicio en violación de las regulaciones legales "
+"aplicables. El usuario también es completamente responsable de asegurar que "
+"cualquier modificación que le haga al Servicio cumpla con las regulaciones "
+"legales aplicables."
 
 #: wllegal/templates/legal/documents/tos.html:388
 msgid ""
@@ -1871,6 +1875,17 @@ msgid ""
 "expand the scope of required personal information but emphasizes the "
 "truthfulness, accuracy, and currency of the information provided by the User."
 msgstr ""
+"Para acceder al Servicio, el Proveedor puede solicitar al Usuario ciertos "
+"detalles de identificación y otra información, siempre solo en la medida "
+"requerida por el formulario. A la mayoría de nuestros usuarios solo se les "
+"pide un apodo; sin embargo, si se necesita emitir una factura, se solicitará "
+"información adicional legalmente requerida. El Usuario está obligado a "
+"proporcionar siempre información veraz, precisa y actualizada según lo exige "
+"la ley. Para los usuarios que solo proporcionan un apodo, esto no significa "
+"que se les exija proporcionar ninguna información adicional. Esta "
+"disposición no amplía el alcance de la información personal requerida, sino "
+"que enfatiza la veracidad, precisión y actualidad de la información "
+"proporcionada por el Usuario."
 
 #: wllegal/templates/legal/documents/tos.html:392
 msgid ""
@@ -1940,6 +1955,14 @@ msgid ""
 "be exposed to third parties due to a leak of access information, they are "
 "required to report this to the Provider."
 msgstr ""
+"Si el Usuario incumple cualquiera de las obligaciones especificadas en esta "
+"Sección, el Proveedor no asume ninguna responsabilidad por los daños "
+"sufridos por el Usuario, y el Usuario es el único responsable de cualquier "
+"daño sufrido por el Proveedor o terceros. El incumplimiento de estas "
+"obligaciones también da derecho al Proveedor a rescindir este Acuerdo. Si el "
+"Usuario se da cuenta de que el acceso al Servicio puede estar expuesto a "
+"terceros debido a una fuga de información de acceso, debe informar de ello "
+"al Proveedor."
 
 #: wllegal/templates/legal/documents/tos.html:416
 msgid "Prohibited Conduct"
@@ -2053,7 +2076,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:464
 msgid "Overburdening the Provider's or third-party servers;"
-msgstr ""
+msgstr "Sobrecargar los servidores del Proveedor o de terceros;"
 
 #: wllegal/templates/legal/documents/tos.html:468
 msgid ""
@@ -2101,28 +2124,37 @@ msgid ""
 "Involves music, sound, image, film, or similar files for which the User "
 "lacks distribution rights;"
 msgstr ""
+"Involucra archivos de música, sonido, imagen, películas o similares para los "
+"cuales el Usuario carece de derechos de distribución;"
 
 #: wllegal/templates/legal/documents/tos.html:496
 msgid ""
 "Threatens the privacy or security of other Internet users or the security of "
 "computer systems (e.g., through viruses, password generators, etc.);"
 msgstr ""
+"Amenaza la privacidad o seguridad de otros usuarios de Internet o la "
+"seguridad de sistemas informáticos (por ejemplo, a través de virus, "
+"generadores de contraseñas, etc.);"
 
 #: wllegal/templates/legal/documents/tos.html:500
 msgid ""
 "Is part of the provided Service without written permission from the Provider "
 "to share it with third parties;"
 msgstr ""
+"Es parte del Servicio proporcionado sin el permiso por escrito del Proveedor "
+"para compartirlo con terceros;"
 
 #: wllegal/templates/legal/documents/tos.html:504
 msgid ""
 "Gives the impression that the User acts on behalf of the Provider without "
 "authorization;"
 msgstr ""
+"Da la impresión de que el Usuario actúa en nombre del Proveedor sin "
+"autorización;"
 
 #: wllegal/templates/legal/documents/tos.html:508
 msgid "May harm any third-party rights."
-msgstr ""
+msgstr "Puede dañar cualquier derecho de terceros."
 
 #: wllegal/templates/legal/documents/tos.html:512
 msgid ""
@@ -2314,7 +2346,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:574
 msgid "Use or inability to use the Service;"
-msgstr ""
+msgstr "Uso o incapacidad de usar el Servicio;"
 
 #: wllegal/templates/legal/documents/tos.html:577
 msgid ""
@@ -2322,6 +2354,9 @@ msgid ""
 "data, information, or services purchased or obtained or messages received, "
 "or transactions entered into through or from the Service;"
 msgstr ""
+"El costo de adquirir bienes y servicios sustitutos que surjan de cualquier "
+"bien, dato, información o servicio comprado u obtenido, o mensajes "
+"recibidos, o transacciones realizadas a través o desde el Servicio;"
 
 #: wllegal/templates/legal/documents/tos.html:580
 msgid ""
@@ -2329,12 +2364,13 @@ msgid ""
 "including any outcomes of third-party solutions or services related to the "
 "Service;"
 msgstr ""
+"Declaraciones o acciones de cualquier tercero involucrado en la provisión "
+"del Servicio, incluyendo cualquier resultado de soluciones o servicios de "
+"terceros relacionados con el Servicio;"
 
 #: wllegal/templates/legal/documents/tos.html:583
-#, fuzzy
-#| msgid "means translation project operated on the Service"
 msgid "Any other matters related to the Service."
-msgstr "significa proyecto de traducción gestionado en el Servicio"
+msgstr "Cualquier otro asunto relacionado al Servicio."
 
 #: wllegal/templates/legal/documents/tos.html:588
 msgid ""
@@ -2399,6 +2435,9 @@ msgid ""
 "communications as defined in the <a href=\"%(privacy_url)s\">Privacy Policy</"
 "a>."
 msgstr ""
+"Statements or actions of any third party involved in providing the Service, "
+"including any outcomes of third-party solutions or services related to the "
+"Service;"
 
 #: wllegal/templates/legal/documents/tos.html:608
 msgid ""
