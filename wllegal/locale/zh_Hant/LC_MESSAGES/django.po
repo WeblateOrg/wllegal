@@ -715,7 +715,7 @@ msgstr "GDPR"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
-msgstr "意指歐盟規章第 679/2016 號法律，個人資料保護一般規則"
+msgstr "意指歐盟規章第 679/2016 號法律，個人資料保護一般規則；"
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
