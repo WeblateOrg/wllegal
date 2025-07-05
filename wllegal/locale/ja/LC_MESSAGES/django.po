@@ -775,7 +775,7 @@ msgstr "個人情報"
 msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
-msgstr "EU 規則番号 第679/2016号に定められた個人情報で、利用者が本サービスまたは "
+msgstr "EU 規則番号第679/2016号に定められた個人情報で、利用者が本サービスまたは "
 "Cookie に書き込んだものです；"
 
 #: wllegal/templates/legal/documents/tos.html:100
