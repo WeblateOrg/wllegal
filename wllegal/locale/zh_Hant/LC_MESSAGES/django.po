@@ -715,7 +715,7 @@ msgstr "GDPR"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
-msgstr "意指歐盟規章第 679/2016 號法律，個人資料保護一般規則；"
+msgstr "意指歐盟法規編號 679/2016，個人資料保護一般規則；"
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
@@ -774,16 +774,11 @@ msgid "Personal Data"
 msgstr "個人資料"
 
 #: wllegal/templates/legal/documents/tos.html:96
-#, fuzzy
-#| msgid ""
-#| "means personal data within the meaning of EU Regulation No. "
-#| "%(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
-msgstr ""
-"指「使用者」在「服務」和或「Cookie」中插入的有關歐盟法規 No. "
-"%(law_679_2016)s 號所指的個人資料"
+msgstr "指「使用者」在「服務」和或「Cookie」中插入的有關歐盟法規 編號 679/2016 "
+"所指的個人資料；"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
