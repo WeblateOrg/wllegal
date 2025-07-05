@@ -7,11 +7,11 @@
 # byStarTW <pan93412@gmail.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-02-16 10:45+0000\n"
-"Last-Translator: hugoalh <hugoalh@users.noreply.hosted.weblate.org>\n"
+"PO-Revision-Date: 2025-07-05 14:02+0000\n"
+"Last-Translator: oxisol <bythethousands@proton.me>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/weblate/legal/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.10\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -673,14 +673,12 @@ msgid "Civil Code"
 msgstr "民法"
 
 #: wllegal/templates/legal/documents/tos.html:33
-#, fuzzy
-#| msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
-msgstr "指民法修訂後的 No. %(law_89_2012)s 號項目"
+msgstr "指民法修訂後的第 89/2012 號項目；"
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
-msgstr ""
+msgstr "締約方"
 
 #: wllegal/templates/legal/documents/tos.html:40
 msgid "jointly refers to the User and the Provider;"
@@ -714,16 +712,10 @@ msgid "GDPR"
 msgstr "GDPR"
 
 #: wllegal/templates/legal/documents/tos.html:61
-#, fuzzy
-#| msgid ""
-#| "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
-#| "Regulation"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
-msgstr ""
-"意指歐盟規章第 %(law_679_2016)s 號法律，即通用資料保護法，General Data "
-"Protection Regulation"
+msgstr "意指歐盟規章第 679/2016 號法律，個人資料保護一般規則"
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
