@@ -12,8 +12,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-06-24 09:01+0000\n"
-"Last-Translator: Eisuke Kawashima <e.kawaschima+weblate@gmail.com>\n"
+"PO-Revision-Date: 2025-07-05 14:02+0000\n"
+"Last-Translator: oxisol <bythethousands@proton.me>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/weblate/legal/"
 "ja/>\n"
 "Language: ja\n"
@@ -675,14 +675,12 @@ msgid "Civil Code"
 msgstr "民法"
 
 #: wllegal/templates/legal/documents/tos.html:33
-#, fuzzy
-#| msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
-msgstr "改正された民法の法令 No. %(law_89_2012)s の項目"
+msgstr "改正された民法の法令 第89/2012 の項目；"
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
-msgstr ""
+msgstr "契約の当事者"
 
 #: wllegal/templates/legal/documents/tos.html:40
 msgid "jointly refers to the User and the Provider;"
@@ -719,7 +717,7 @@ msgstr "GDPR"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
-msgstr "EU 規則 No. 679/2016、一般データ保護規則のことです"
+msgstr "EU 規則 No. 679/2016、個人データ保護の一般規則のことです；"
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
@@ -742,7 +740,7 @@ msgid ""
 msgstr ""
 "翻訳の形式で定義されたテキストの単位のことです。テキストの単位は、単語一つの"
 "場合もあれば、一つの文、一つの段落となる場合があります。言語ごとにカウントさ"
-"れます"
+"れます；"
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
@@ -777,9 +775,8 @@ msgstr "個人情報"
 msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
-msgstr ""
-"EU 規則番号 第 %(law_679_2016)s 号に定められた個人情報で、利用者が本サービス"
-"または Cookie に書き込んだものです"
+msgstr "EU 規則番号 第679/2016号に定められた個人情報で、利用者が本サービスまたは "
+"Cookie に書き込んだものです；"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
