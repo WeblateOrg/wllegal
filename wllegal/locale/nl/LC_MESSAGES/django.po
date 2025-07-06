@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-06-25 11:06+0000\n"
+"PO-Revision-Date: 2025-07-07 10:01+0000\n"
 "Last-Translator: Dick Groskamp <dikgro@yahoo.co.uk>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/weblate/legal/nl/>"
 "\n"
@@ -56,7 +56,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
 msgid "Introductory Provisions"
-msgstr ""
+msgstr "Inleidend voorbehoud"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
@@ -65,6 +65,10 @@ msgid ""
 "the Commercial Register kept by the Regional Court in Ústí nad Labem, file "
 "No. C 52324, i.e. the \"<strong>Provider</strong>\"."
 msgstr ""
+"Dit beleid is uitgegeven door Weblate s.r.o., ID No.: 21668027, kantoor "
+"houdende te Nábřežní 694, Cvikov II, 471 54 Cvikov, geregistreerd in het "
+"Commercial Register dat wordt aangehouden door het Regional Court in Ústí "
+"nad Labem, bestandsnr. C 52324, d.i. de \"<strong>Provider</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid ""
@@ -73,6 +77,11 @@ msgid ""
 "the Services, Products, Support Services, as well as when using the Website "
 "and other possible services and related activities."
 msgstr ""
+"Dit beleid beschrijft hoe de Provider de persoonlijke gegevens van "
+"gebruikers afhandelt als gegevensobjecten - private individuen bij het "
+"verkrijgen van toegang en aansluitend de Services, Products, Support "
+"Services gebruikend, als ook bij het gebruiken van de website en andere "
+"mogelijke services en gerelateerde activiteiten."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid ""
