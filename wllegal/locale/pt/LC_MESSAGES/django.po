@@ -209,7 +209,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
-msgstr "especificações do Serviço e Produto utilizado pelo 'Utilizador',"
+msgstr "especificações do «Serviço e Produto» utilizado pelo 'Utilizador',"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
