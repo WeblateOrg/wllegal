@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-07-07 10:01+0000\n"
+"PO-Revision-Date: 2025-07-08 13:01+0000\n"
 "Last-Translator: Manuela Silva <mmsrs@sky.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/weblate/legal/"
 "pt/>\n"
@@ -341,12 +341,18 @@ msgid ""
 "proper processing of Personal Data for the purposes defined in Article 2.1 "
 "of this Policy, specifically:"
 msgstr ""
+"Em adição ao 'Provedor', as partes terceiras selecionadas também recebem e "
+"processam os dados pessoais com base nesta 'Política', cujo envolvimento é "
+"necessário para o devido processamento dos \"Dados Pessoais\" para os "
+"propósitos definido no artigo 2.1 desta 'Política', especificamente:"
 
 #: wllegal/templates/legal/documents/privacy.html:158
 msgid ""
 "hosting provider (including web hosting and mail hosting services), "
 "currently this is <strong>Hetzner Online GmbH</strong>;"
 msgstr ""
+"provedor de alojamento (incluindo o alojamento da Web e os serviços de "
+"alojamento de correio), atualmente é <strong>Hetzner Online GmbH</strong>;"
 
 #: wllegal/templates/legal/documents/privacy.html:161
 msgid ""
@@ -354,18 +360,26 @@ msgid ""
 "possibly operators of other services used in connection with the payment of "
 "any payments related to billing;"
 msgstr ""
+"operadores do portal de pagamento <strong>ThePay.cz, s.r.o.</strong> e "
+"possivelmente os operadores de outros serviços utilizados em ligação com o "
+"pagamento de quaisquer pagamentos relacionados com a faturação;"
 
 #: wllegal/templates/legal/documents/privacy.html:164
 msgid ""
 "accounting, legal, and tax advisors of the Provider and possibly other "
 "persons bound by confidentiality under the law;"
 msgstr ""
+"contabilidade, legal, e consultores de impostos do 'Fornecedor' e "
+"possivelmente outras pessoas vinculadas pela confidencialidade nos termos da "
+"lei;"
 
 #: wllegal/templates/legal/documents/privacy.html:167
 msgid ""
 "C-level and other managerial employees employed by or otherwise "
 "collaborating with the Provider;"
 msgstr ""
+"C-level e outros funcionários gestores empregados ou que de outra forma "
+"colaboram com o 'Fornecedor';"
 
 #: wllegal/templates/legal/documents/privacy.html:170
 msgid ""
@@ -419,6 +433,8 @@ msgid ""
 "The processing of Personal Data by selected Processors may be governed by "
 "their own service provision conditions."
 msgstr ""
+"O processamento dos \"Dados Pessoais\" pelos 'Processadores'  selecionados "
+"podem ser geridos pelas suas próprias condições de prestação de serviços."
 
 #: wllegal/templates/legal/documents/privacy.html:194
 msgid ""
