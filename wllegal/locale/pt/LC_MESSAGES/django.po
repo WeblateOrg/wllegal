@@ -433,7 +433,7 @@ msgid ""
 "The processing of Personal Data by selected Processors may be governed by "
 "their own service provision conditions."
 msgstr ""
-"O processamento dos \"Dados Pessoais\" pelos 'Processadores'  selecionados "
+"O processamento dos \"Dados Pessoais\" pelos 'Processadores' selecionados "
 "podem ser geridos pelas suas próprias condições de prestação de serviços."
 
 #: wllegal/templates/legal/documents/privacy.html:194
@@ -733,7 +733,7 @@ msgstr "Código Civil"
 
 #: wllegal/templates/legal/documents/tos.html:33
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
-msgstr "significa Lei n.º 89/2012 do Código Civil, conforme emenda;"
+msgstr "significa lei n.º 89/2012 do Código Civil, conforme emenda;"
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
