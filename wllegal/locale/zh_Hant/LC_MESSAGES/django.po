@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-07-05 14:02+0000\n"
-"Last-Translator: oxisol <bythethousands@proton.me>\n"
+"PO-Revision-Date: 2025-07-10 10:47+0000\n"
+"Last-Translator: Yu Ting <yuting930604@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/weblate/legal/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -42,40 +42,55 @@ msgid "View English version"
 msgstr "檢視英文版本"
 
 #: wllegal/templates/legal/documents/privacy.html:12
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "This Privacy Policy, hereinafter referred to as \"<strong>Policy</strong>\", "
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
-msgstr ""
+msgstr "本《隱私政策》（簡稱「政策」）是 Weblate "
+"的《一般條款與條件》（簡稱「條款」）的補充。"
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
+#, fuzzy
 msgid "Introductory Provisions"
-msgstr ""
+msgstr "基本條款"
 
 #: wllegal/templates/legal/documents/privacy.html:21
+#, fuzzy
 msgid ""
 "This Policy has been issued by Weblate s.r.o., ID No.: 21668027, with "
 "registered office at Nábřežní 694, Cvikov II, 471 54 Cvikov, registered in "
 "the Commercial Register kept by the Regional Court in Ústí nad Labem, file "
 "No. C 52324, i.e. the \"<strong>Provider</strong>\"."
 msgstr ""
+"本政策由 Weblate s.r.o. 發布。\n"
+"公司編號：21668027\n"
+"註冊地址：Nábřežní 694, Cvikov II, 471 54 Cvikov\n"
+"登記於"
+"[in the Commercial Register kept by the Regional Court in Ústí nad Labem]"
+"的商業登記冊\n"
+"登記編號為 C 52324，以下簡稱「提供者」。"
 
 #: wllegal/templates/legal/documents/privacy.html:25
+#, fuzzy
 msgid ""
 "This Policy describes how the Provider handles the personal data of Users as "
 "data subjects - private individuals when accessing and subsequently using "
 "the Services, Products, Support Services, as well as when using the Website "
 "and other possible services and related activities."
 msgstr ""
+"此政策說明提供者如何處理「使用者」做為資料主體（個人身分），存取後並使用本服"
+"務、產品、支援服務，以及使用本網站及其他可能提供的服務與相關活動時的個人資訊"
+"。"
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid ""
 "This Policy also uses certain terms or definitions which have been defined "
 "in Article 1 of the Terms and which have the same meaning as set out in the "
 "Terms."
-msgstr ""
+msgstr "此政策也使用某些已於《條款》第一條中定義的術語以及定義，並具有與《條款》中所"
+"載相同之含義。"
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
