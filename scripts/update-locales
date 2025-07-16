@@ -25,7 +25,7 @@ git remote update weblate
 git rebase --onto weblate/main
 
 # Cleanup locale dirs
-find wllegal/locale -name '*.mo' -o -name '*~' -delete
+find wllegal/locale \( -name '*.mo' -o -name '*~' \) -delete
 find wllegal/locale -type d -empty -delete
 
 # Update po files itself
@@ -35,8 +35,8 @@ weblate makemessages --keep-pot -a -i 'data/*' -i 'docs/*' -i 'examples/*' -i 'b
 sed \
     -i \
     -e 's@"Report-Msgid-Bugs-To:.*@"Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\\n"@' \
-    -e 's/"Project-Id-Version:.*/"Project-Id-Version: Hosted Weblate '$version'\\n"/' \
-    wllegal/locale/*/*/*.po wllegal/locale/*.pot \
+    -e 's/"Project-Id-Version:.*/"Project-Id-Version: Hosted Weblate Legal\\n"/' \
+    wllegal/locale/*/*/*.po wllegal/locale/*.pot
 
 # Commit changes
 git add wllegal/locale/*/*/*.po
