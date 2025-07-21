@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-06-28 13:05+0000\n"
+"PO-Revision-Date: 2025-07-22 03:25+0000\n"
 "Last-Translator: Jim Kats <jim-kats@hotmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/weblate/legal/el/>"
 "\n"
@@ -719,7 +719,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:72
 msgid "Hosted String"
-msgstr ""
+msgstr "Φιλοξενούμενη Συβολοσειρά"
 
 #: wllegal/templates/legal/documents/tos.html:75
 msgid ""
