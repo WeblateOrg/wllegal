@@ -4,11 +4,11 @@
 # Michal Čihař <michal@cihar.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2024-11-19 13:40+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-08-02 17:02+0000\n"
+"Last-Translator: Dinh Nguyen <dinhitcom@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/weblate/legal/"
 "vi/>\n"
 "Language: vi\n"
@@ -16,21 +16,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr ""
+"Các bên thầu phụ theo quy định tại Điều 28 của Quy định Bảo vệ Dữ liệu Chung "
+"(GDPR)"
 
 #: wllegal/templates/legal/documents/contracts.html:11
 msgid "Status as of May 2024."
-msgstr ""
+msgstr "Tình hình tính đến tháng 5 năm 2024."
 
 #: wllegal/templates/legal/documents/privacy.html:5
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
+"Tài liệu Chính sách Bảo mật có hiệu lực pháp lý bằng tiếng Anh, các bản dịch "
+"được cung cấp chỉ nhằm mục đích tham khảo."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:6
