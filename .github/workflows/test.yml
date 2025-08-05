@@ -18,7 +18,7 @@ jobs:
 
     services:
       redis:
-        image: redis:8.2.0-alpine@sha256:f240043a0aa5621eee12c371a47f57fbf06fcde10c4080c3dffe3411365e640d
+        image: redis:8.2.0-alpine@sha256:c5c1179319b700a8f0436de4cda3099a0cdda93961042d54cc7ee1181a5a7510
         ports:
         - 6379:6379
       postgres:
