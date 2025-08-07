@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-08-06 14:01+0000\n"
-"Last-Translator: Mickael Marques da mota <mickaelmarquesdamota@gmail.com>\n"
+"PO-Revision-Date: 2025-08-08 12:01+0000\n"
+"Last-Translator: Christian Wia <w9204-gi@yahoo.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/weblate/legal/fr/>"
 "\n"
 "Language: fr\n"
@@ -57,9 +57,8 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
-#, fuzzy
 msgid "Introductory Provisions"
-msgstr "Dispositions Introductives"
+msgstr "Dispositions introductives"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
@@ -208,11 +207,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr "nom et prénom,"
+msgstr "prénom et nom,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr "Adresse de l'Utilisateur (livraison et facturation),"
+msgstr "Adresse de l'utilisateur (livraison et facturation),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
@@ -1633,6 +1632,8 @@ msgid ""
 "Involves music, sound, image, film, or similar files for which the User "
 "lacks distribution rights;"
 msgstr ""
+"Cela comprend la musique, le son, l'image, le film et les fichiers "
+"similaires pour lesquels l'utilisateur n'a pas les droits de distribution ;"
 
 #: wllegal/templates/legal/documents/tos.html:496
 msgid ""
@@ -1654,7 +1655,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:508
 msgid "May harm any third-party rights."
-msgstr ""
+msgstr "Peut porter atteinte aux droits d'une tierce partie."
 
 #: wllegal/templates/legal/documents/tos.html:512
 msgid ""
@@ -1706,7 +1707,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:533
 msgid "Termination of the Agreement"
-msgstr ""
+msgstr "Fin du contrat"
 
 #: wllegal/templates/legal/documents/tos.html:537
 msgid ""
@@ -1778,7 +1779,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:574
 msgid "Use or inability to use the Service;"
-msgstr ""
+msgstr "Utilisation ou incapacité à utiliser le service ;"
 
 #: wllegal/templates/legal/documents/tos.html:577
 msgid ""
@@ -1795,10 +1796,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:583
-#, fuzzy
-#| msgid "means translation project operated on the Service"
 msgid "Any other matters related to the Service."
-msgstr "désigne le projet de traduction géré grâce au Service"
+msgstr "Toutes autres matières relatives au service."
 
 #: wllegal/templates/legal/documents/tos.html:588
 msgid ""
@@ -1830,10 +1829,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:600
-#, fuzzy
-#| msgid "The Personal Data retention"
 msgid "Personal Data Protection"
-msgstr "La conservation des données personnelles"
+msgstr "Protection des données personnelles"
 
 #: wllegal/templates/legal/documents/tos.html:604
 #, python-format
@@ -1931,13 +1928,9 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:648
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 15th May 2023."
 msgid "These Terms enter into force on November 1, 2024."
 msgstr ""
-"Ces Conditions Générales d’Utilisation sont effectives à compter du 5 mai "
-"2023."
+"Ces conditions générales sont effectives à compter du 1er novembre 2024."
 
 #, python-format
 #~ msgid ""
