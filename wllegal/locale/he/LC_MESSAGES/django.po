@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-07-21 07:28+0000\n"
-"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
+"PO-Revision-Date: 2025-08-09 11:38+0000\n"
+"Last-Translator: Avi Markovitz <avi.markovitz@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/weblate/legal/he/>"
 "\n"
 "Language: he\n"
@@ -201,10 +201,8 @@ msgid "User's avatar,"
 msgstr "הדמות של המשתמש,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail address"
 msgid "email address(es),"
-msgstr "שם וכתובת דוא״ל"
+msgstr "כתובות דוא״ל,"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
