@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-06-19 09:04+0000\n"
+"PO-Revision-Date: 2025-08-22 16:02+0000\n"
 "Last-Translator: Drugi Sapog <dindrugi@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/weblate/legal/"
 "be/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.12.1\n"
+"X-Generator: Weblate 5.13\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -1769,7 +1769,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:648
 msgid "These Terms enter into force on November 1, 2024."
-msgstr "Гэтыя ўмовы абслугоўвання набываюць моц з 1 верасня 2017 года."
+msgstr "Гэтыя ўмовы абслугоўвання набываюць моц з 1 лістапада 2024 года."
 
 #, python-format
 #~ msgid ""
