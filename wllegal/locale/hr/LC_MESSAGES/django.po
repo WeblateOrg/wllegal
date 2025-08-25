@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-08-24 00:01+0000\n"
+"PO-Revision-Date: 2025-08-26 03:34+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/weblate/legal/"
 "hr/>\n"
@@ -967,13 +967,12 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:219
-#, fuzzy
 msgid ""
 "The Service is provided in three forms of cooperation: Hosted Weblate, "
 "Dedicated Weblate, and Self-hosting."
 msgstr ""
-"Usluga se pruža u tri oblika suradnje: Hosted Weblate, Dedicated Weblate i "
-"vlastiti hosting."
+"Usluga se pruža u tri oblika suradnje: Hosted Weblate, Namjenski Weblate i "
+"Vlastiti hosting."
 
 #: wllegal/templates/legal/documents/tos.html:223
 msgid ""
