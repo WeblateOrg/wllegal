@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-08-26 03:34+0000\n"
+"PO-Revision-Date: 2025-08-26 13:25+0000\n"
 "Last-Translator: Marija Grineviciute <marijagrine@protonmail.com>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/weblate/legal/"
 "lt/>\n"
@@ -49,8 +49,8 @@ msgid ""
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
 "Ši Privatumo politika, toliau – <strong>Politika</strong>, papildo „Weblate“ "
-"<a href=\"„%(terms_url)s“\">Bendruosius terminus ir sąlygas </a>, toliau – "
-"<strong>Terminai</strong>."
+"<a href=\"„%(terms_url)s“\">Bendrąsias sąlygas </a>, toliau – "
+"<strong>Sąlygos</strong>."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
@@ -76,6 +76,10 @@ msgid ""
 "the Services, Products, Support Services, as well as when using the Website "
 "and other possible services and related activities."
 msgstr ""
+"Šioje Politikoje aprašoma, kaip Teikėjas tvarko Vartotojų, kaip duomenų "
+"subjektų – privačių asmenų, asmens duomenis, kai jie naudojasi Paslaugomis, "
+"Produktais, Palaikymo paslaugomis, taip pat kai naudojasi Svetaine ir "
+"kitomis galimomis paslaugomis bei susijusia veikla."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid ""
@@ -83,6 +87,8 @@ msgid ""
 "in Article 1 of the Terms and which have the same meaning as set out in the "
 "Terms."
 msgstr ""
+"Šioje Politikoje taip pat vartojami tam tikri Sąlygų 1 straipsnyje apibrėžti "
+"terminai arba apibrėžimai, turintys tą pačią reikšmę kaip nurodyta Sąlygose."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
@@ -95,6 +101,13 @@ msgid ""
 "personal data and the protection of privacy in the electronic communications "
 "sector (abbreviated as the \"<strong>ePrivacy Directive</strong>\")."
 msgstr ""
+"Tvarkant asmens duomenis Teikėjas laikosi Europos Parlamento ir Tarybos "
+"Reglamento (ES) Nr. 2016/679, Bendrojo duomenų apsaugos reglamento, dar "
+"žinomo kaip BDAR (toliau – „<strong>GDPR</strong>“), Įstatymo Nr. 110/2019 "
+"rink. dėl asmens duomenų tvarkymo ir 2002 m. liepos 12 d. Europos Parlamento "
+"ir Tarybos Direktyvos 2002/58/EB dėl asmens duomenų tvarkymo ir privatumo "
+"apsaugos elektroninių ryšių sektoriuje (toliau sutrumpinta – „<strong>E. "
+"privatumo direktyva</strong>“."
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -104,6 +117,11 @@ msgid ""
 "registers for the Provider's newsletter and/or when the Provider and the "
 "User conclude the Contract, whichever is the earliest."
 msgstr ""
+"Faktinis Vartotojų asmens duomenų tvarkymas atliekamas tik šioje Politikoje "
+"numatytais tikslais, laikantis joje detaliau apibrėžtų sąlygų, ir prasideda "
+"Vartotojui apsilankius Svetainėje, kai Vartotojas užsiregistruoja Teikėjo "
+"naujienlaiškiui ir (arba) kai tarp Teikėjo ir Vartotojo sudaroma Sutartis, "
+"atsižvelgiant į tai, kas įvyksta pirmiau."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid ""
@@ -112,6 +130,9 @@ msgid ""
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
 msgstr ""
+"Tuomet duomenų tvarkymą tiesiogiai atlieka Teikėjas ir (arba) trečiosios "
+"šalys, kaip nurodyta šios Politikos 3 straipsnyje, kurios yra įgaliotos "
+"Teikėjo tvarkyti asmens duomenis laikantis šios Politikos."
 
 #: wllegal/templates/legal/documents/privacy.html:45
 msgid ""
@@ -119,6 +140,9 @@ msgid ""
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
+"Jei šioje Politikoje aiškiai nenurodyta, Teikėjas yra <strong>duomenų "
+"valdytojas</strong> ir Vartotojai, kurie yra fiziniai asmenys, yra duomenų "
+"subjektai, kurių funkcijos yra apibrėžtos BDAR."
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
@@ -131,61 +155,65 @@ msgstr "Teikėjas tvarko Vartotojo asmens duomenis šiais tikslais:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "vykdyti Sutartį pagal BDAR 6 straipsnio 1 dalies b) punktą,"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "derėtis dėl Sutarties pagal BDAR 6 straipsnio 1 dalies b) punktą,"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
 msgstr ""
+"vykdyti Teikėjo teisinius įsipareigojimus pagal BDAR 6 straipsnio 1 dalies c)"
+" punktą,"
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, "
 "and in selected cases also"
 msgstr ""
+"Teikėjo teisiniams interesams išpildyti pagal BDAR 6 straipsnio 1 dalies f) "
+"punktą ir kai kuriais atvejais taip pat"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
-msgstr ""
+msgstr "dėl Vartotojo sutikimo pagal BDAR 6 straipsnio 1 dalies a) punktą."
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
-msgstr ""
+msgstr "Teikėjo tvarkomų Vartotojo asmens duomenų apimtis:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr "vardą ir pavardę,"
+msgstr "vardas ir pavardė,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr "Vartotojo adresą (skirtą pristatymui ir mokėjimui),"
+msgstr "Vartotojo adresas (skirtas pristatymui ir mokėjimui),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr "Įmonės identifikacinį numerį ir Mokesčių mokėtojo numerį,"
+msgstr "Įmonės identifikacinis numeris ir Mokesčių mokėtojo numeris,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, X, and others),"
 msgstr ""
-"slapyvardį (-ius) (įskaitant paskyrų iš susietų platformų, kaip Liberapay, "
+"slapyvardis (-iai) (įskaitant paskyrų iš susietų platformų, kaip Liberapay, "
 "GitHub, X ir kitų),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr "Vartotojo avatarą,"
+msgstr "Vartotojo avataras,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
 msgid "email address(es),"
-msgstr "elektroninio pašto adresą (-us),"
+msgstr "elektroninio pašto adresas (-ai),"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -193,15 +221,18 @@ msgid ""
 "openSUSE, and Ubuntu in the event that accounts with these providers are "
 "linked to the User account,"
 msgstr ""
+"Bitbucket, Facebook, Google, LinkedIn, GitHub, GitLab, openSUSE ir Ubuntu "
+"identifikatoriai, jei paskyros šių teikėjų svetainėse yra susietos su "
+"Vartotojo paskyra,"
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
-msgstr ""
+msgstr "Vartotojo naudojamos Paslaugos ir Produkto specifikacijos,"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
-msgstr ""
+msgstr "informacija apie Vartotojo komandos narių skaičių ir jų funkcijas,"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
@@ -209,35 +240,44 @@ msgid ""
 "Profile), i.e., settings for languages, notifications, if they can identify "
 "the User directly or indirectly,"
 msgstr ""
+"visi kiti Vartotojo paskyros nustatymai (įskaitant vadinamąjį „Profilį“), t. "
+"y. kalbos ir pranešimų nustatymai, jei pagal juos galima tiesiogiai ar "
+"netiesiogiai identifikuoti Vartotoją,"
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
-msgstr ""
+msgstr "banko sąskaitos numeris ir galimai kitos Vartotojo mokėjimo detalės,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "kriptovaliutų piniginės adresas arba adresai,"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
 "other personal data contained in messages sent by the User to the Provider "
 "(especially the subject and other content of the message),"
 msgstr ""
+"kiti asmens duomenys pranešimuose, kuriuos Vartotojas siunčia Tiekėjui (ypač "
+"pranešimo tema ir kitas turinys),"
 
 #: wllegal/templates/legal/documents/privacy.html:120
 msgid ""
 "other personal data contained in communications with the Provider's support,"
-msgstr ""
+msgstr "kiti asmens duomenys komunikacijoje su Teikėjo palaikymo komanda,"
 
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
 msgstr ""
+"sistemos duomenys, registracijos žurnalai ir seansų prisijungimai, įskaitant "
+"Vartotojo IP adresą,"
 
 #: wllegal/templates/legal/documents/privacy.html:128
 msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
+"kur anksčiau pateiktos individualios asmens duomenų kategorijos toliau bus "
+"kartu vadinamos „<strong>Asmens duomenimis</strong>“."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -1848,11 +1888,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:648
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 15th May 2023."
 msgid "These Terms enter into force on November 1, 2024."
-msgstr "Šios sąlygos įsigalioja 2023 m. gegužės 15 d."
+msgstr "Šios sąlygos įsigalioja 2024 m. lapkričio 1 d."
 
 #, python-format
 #~ msgid ""
