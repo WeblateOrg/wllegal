@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-08-27 14:01+0000\n"
+"PO-Revision-Date: 2025-09-02 11:02+0000\n"
 "Last-Translator: Marija Grineviciute <marijagrine@protonmail.com>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/weblate/legal/"
 "lt/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n==1 ? 0 : n%10>=2 && (n%100<10 || "
 "n%100>=20) ? 1 : n%10==0 || (n%100>10 && n%100<20) ? 2 : 3;\n"
-"X-Generator: Weblate 5.13\n"
+"X-Generator: Weblate 5.13.1-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -64,8 +64,8 @@ msgid ""
 "the Commercial Register kept by the Regional Court in Ústí nad Labem, file "
 "No. C 52324, i.e. the \"<strong>Provider</strong>\"."
 msgstr ""
-"Šią Politiką išleido Weblate s.r.o., ID Nr.: 21668027, registruotos buveinės "
-"adresas Nábřežní 694, Cvikov II, 471 54 Cvikov, įmonė įregistruota "
+"Šią Politiką išleido Weblate s.r.o., įmonės kodas 21668027, registruotos "
+"buveinės adresas Nábřežní 694, Cvikov II, 471 54 Cvikov, įmonė įregistruota "
 "Komercijos registre, kuris yra saugomas Ústí nad Labem Apygardos teisme, "
 "bylos Nr. C 52324, t. y. <strong>Teikėjas</strong>."
 
@@ -502,6 +502,8 @@ msgid ""
 "The processing of Personal Data by selected Processors may be governed by "
 "their own service provision conditions."
 msgstr ""
+"Pasirinktų Tvarkytojų atliekamas asmens duomenų tvarkymas gali būti "
+"reglamentuojamas jų pačių paslaugų teikimo sąlygomis."
 
 #: wllegal/templates/legal/documents/privacy.html:194
 msgid ""
@@ -510,10 +512,14 @@ msgid ""
 "where the transfer must occur in compliance with the obligations of the "
 "Provider arising from generally binding regulations."
 msgstr ""
+"Asmens duomenys taip pat gali būti perduoti, jei Teikėjas privalo tai "
+"padaryti pagal įstatymą, pareikalautas valstybinės institucijos arba kitais "
+"atvejais, kai duomenų perdavimas yra privalomas laikantis Teikėjo "
+"įsipareigojimų, atsirandančių iš visuotinai privalomų teisės aktų."
 
 #: wllegal/templates/legal/documents/privacy.html:199
 msgid "Common Provisions on Processing"
-msgstr ""
+msgstr "Bendrosios nuostatos dėl tvarkymo"
 
 #: wllegal/templates/legal/documents/privacy.html:203
 msgid ""
@@ -523,6 +529,11 @@ msgid ""
 "processing of personal data by any third party, even if those third parties "
 "are Processors."
 msgstr ""
+"Teikėjas visada dės visas pastangas, kad užkirstų kelią kitiems asmenims "
+"atlikti neleistiną asmens duomenų tvarkymą; tačiau jis nėra atsakingas "
+"Vartotojui ar kitiems duomenų subjektams už žalą, kai ji kilo dėl trečiųjų "
+"šalių neleistino asmens duomenų tvarkymo, net jei tos trečiosios šalys yra "
+"Tvarkytojai."
 
 #: wllegal/templates/legal/documents/privacy.html:207
 msgid ""
@@ -532,6 +543,12 @@ msgid ""
 "480/2004 Coll. on Certain Information Society Services, if they directly "
 "relate to these Services, Products, and/or Support Services."
 msgstr ""
+"Pagal Įstatymo Nr. 40/1995 rink. Dėl reklamos ir Teisės akto Nr. 480/2004 "
+"rink. Dėl tam tikrų informacinės visuomenės paslaugų, Vartotojams siunčiami "
+"elektroniniai laiškai, susiję su Paslauga, Produktu ir (arba) Palaikymo "
+"paslaugomis, nelaikomi nepageidaujama komercine komunikacija, jei jie yra "
+"tiesiogiai susiję su šiomis Paslaugomis, Produktais ir (arba) Palaikymo "
+"paslaugomis."
 
 #: wllegal/templates/legal/documents/privacy.html:211
 msgid ""
@@ -543,6 +560,13 @@ msgid ""
 "revoked at any time by clicking on the link found in the footer of such "
 "commercial communication."
 msgstr ""
+"Tačiau Vartotojas gali aiškiai ir <strong>savanoriškai sutikti</strong> "
+"gauti platesnę komercinę komunikaciją (pvz., netiesioginės rinkodaros atveju)"
+" iš Teikėjo Vartotojo elekroninio pašto adresu, kaip apibrėžta Įstatymo Nr. "
+"480/2004 rink. Dėl tam tikrų informacinės visuomenės paslaugų ir tam tikrų "
+"teisės aktų pakeitimo 7(2) skyriuje. Žinoma, šis sutikimas gali būti "
+"atšauktas bet kada paspaudus tokios komercinės komunikacijos poraštėje "
+"esančią nuorodą."
 
 #: wllegal/templates/legal/documents/privacy.html:215
 msgid ""
@@ -550,6 +574,9 @@ msgid ""
 "related to Personal Data that affects the User, they will notify the User of "
 "this fact without undue delay."
 msgstr ""
+"Jei Teikėjas ir (arba) Tvarkytojai sužino apie su Vartotojui įtakos turinčią "
+"Asmens duomenų saugumo riziką, jie praneš Vartotojui apie šį faktą "
+"nepagrįstai nedelsdami."
 
 #: wllegal/templates/legal/documents/privacy.html:219
 msgid ""
@@ -558,6 +585,10 @@ msgid ""
 "other incident leading to loss. However, the Provider is not responsible for "
 "the improper actions of the Processors."
 msgstr ""
+"Teikėjas suteiks Vartotojui paramą ir teisinę pagalbą siekiant kompensacijos "
+"iš atsakingų Tvarkytojų įvykus duomenų saugumo pažeidimui ar kitam "
+"incidentui, dėl kurio prarandami duomenys. Tačiau Teikėjas neatsako už "
+"netinkamus Tvarkytojų veiksmus."
 
 #: wllegal/templates/legal/documents/privacy.html:223
 msgid ""
@@ -569,6 +600,13 @@ msgid ""
 "the User in the case where they provide the Provider with Personal Data of "
 "data subjects other than this User."
 msgstr ""
+"Vartotojas patvirtina, kad pateikti Asmens duomenys yra tikri, tikslūs ir "
+"yra susiję tik su Vartotoju arba kad pateikė duomenis, kurių naudojimas "
+"nepažeidžia trečiųjų šalių teisių. Vartotojas privalo visuomet informuoti "
+"Teikėją apie bet kokius savo Asmens duomenų pokyčius, kad būtų tvarkomi tik "
+"esami ir pilni duomenys. Vartotojui taikomi tie patys įsipareigojimai, kai "
+"jis Teikėjui pateikia kitų duomenų subjektų nei pats Vartotojas Asmens "
+"duomenis."
 
 #: wllegal/templates/legal/documents/privacy.html:227
 msgid ""
@@ -577,6 +615,10 @@ msgid ""
 "never be subject to individual automated decision-making (including "
 "profiling) within the meaning of Article 22 of the GDPR."
 msgstr ""
+"Asmens duomenys bus tvarkomi elektroniškai, įskaitant automatizuotus "
+"tvarkymo metodus. Tačiau Vartotojas arba kiti duomenų subjektai niekada "
+"nebus individualiai automatizuoto sprendimų priėmimo objektai (įskaitant "
+"profiliavimą), kaip apibrėžta BDAR 22 straipsnyje."
 
 #: wllegal/templates/legal/documents/privacy.html:231
 msgid ""
@@ -584,12 +626,13 @@ msgid ""
 "the GDPR) may be processed even after all legal grounds for processing the "
 "User's Personal Data have ceased."
 msgstr ""
+"Nuasmeninti asmens duomenys (kurie nebelaikomi asmens duomenimis pagal BDAR) "
+"gali būti tvarkomi netgi praėjus visam teisiniais pagrindais pagrįsto "
+"Vartotojo Asmens duomenų tvarkymo laikotarpiui."
 
 #: wllegal/templates/legal/documents/privacy.html:236
-#, fuzzy
-#| msgid "Order us to delete your Personal Data"
 msgid "User Rights in Relation to Personal Data"
-msgstr "nurodyti mums ištrinti jūsų Asmeninius duomenis;"
+msgstr "Su asmens duomenimis susiję Vartotojo teisės"
 
 #: wllegal/templates/legal/documents/privacy.html:240
 #, python-format
@@ -601,6 +644,11 @@ msgid ""
 "correction, restriction, or deletion) can be automated through this user "
 "account."
 msgstr ""
+"Vartotojas gali bet kada pasinaudoti BDAR nustatytomis teisėmis susisiekus "
+"el. paštu <a href=\"mailto:%(address)s\">%(address)s</a> bei savo Vartotojo "
+"Paskyroje, kadangi daugumos žemiau išvardytų teisių (ypač prieiga prie visų "
+"tvarkomų Asmens duomenų, jų taisymas, apribojimas arba ištrynimas) "
+"įgyvendinimą galima automatizuoti šioje vartotojo paskyroje."
 
 #: wllegal/templates/legal/documents/privacy.html:244
 msgid ""
@@ -609,30 +657,40 @@ msgid ""
 "strong>, unless due to the complexity of the matter it is necessary for the "
 "Provider to extend this period. The User's rights include:"
 msgstr ""
+"Teikėjas dės visas pastangas, kad kiek įmanoma greičiau atsakytų į užklausas "
+"apie Vartotojo asmens duomenis, bet ne vėliau nei per <strong>30 dienų</"
+"strong>, nebent jei Teikėjui reikėtų pratęsti šį laikotarpį dėl klausimo "
+"sudėtingumo. Vartotojo teisės apima:"
 
 #: wllegal/templates/legal/documents/privacy.html:249
 msgid ""
 "an explanation of whether and what personal data is being processed and, if "
 "applicable, requesting the Provider to disclose it;"
 msgstr ""
+"paaiškinimą apie tai, ar ir kokie asmens duomenys yra tvarkomi ir, jei "
+"taikytina, prašymą, kad Teikėjas juos atskleistų;"
 
 #: wllegal/templates/legal/documents/privacy.html:252
 msgid ""
 "correction of personal data if there is concern that some of it is "
 "inaccurate or missing;"
-msgstr ""
+msgstr "asmens duomenų taisymą, kilus abejonei dėl jų netikslumo ar trūkumo;"
 
 #: wllegal/templates/legal/documents/privacy.html:255
 msgid ""
 "restriction of processing if there is concern that the Provider is "
 "processing more data than necessary;"
 msgstr ""
+"tvarkymo apribojimą, jei yra abejonė, kad Teikėjas tvarko daugiau duomenų "
+"nei reikalinga;"
 
 #: wllegal/templates/legal/documents/privacy.html:258
 msgid ""
 "deletion of personal data based on the consent of the Provider, provided "
 "that there is no other legal reason for further processing of personal data;"
 msgstr ""
+"asmens duomenų ištrynimą remiantis Teikėjo sutikimu su sąlyga, kad nėra "
+"jokios teisinės priežasties tolesniam asmens duomenų tvarkymui;"
 
 #: wllegal/templates/legal/documents/privacy.html:261
 msgid ""
@@ -640,12 +698,17 @@ msgid ""
 "on the consent of the Provider or in connection with fulfilling the "
 "Provider's contractual obligations, in a machine-readable format;"
 msgstr ""
+"automatizuotomis priemonėmis tvarkomų asmens duomenų kopijos išdavimą "
+"remiantis Teikėjo sutikimu ar išpildant Teikėjo sutartinius įsipareigojimus, "
+"kompiuteriu skaitomu elektroniniu formatu;"
 
 #: wllegal/templates/legal/documents/privacy.html:264
 msgid ""
 "temporary freezing of data processing operations for the purposes of the "
 "legitimate interest of the Provider;"
 msgstr ""
+"laikiną duomenų tvarkymo operacijų, atliekamų Teikėjo teisėtų interesų "
+"tikslais, įšaldymą;"
 
 #: wllegal/templates/legal/documents/privacy.html:267
 #, python-format
@@ -655,11 +718,15 @@ msgid ""
 "authority if the User believes that the Provider is processing personal data "
 "in violation of this Policy or legal regulations."
 msgstr ""
+"skundo pareiškimą tiesiogiai Asmens duomenų apsaugos tarnybai (<a href="
+"\"%(url)s\">%(url)s</a>) arba kitai atitinkamai nacionalinei duomenų "
+"apsaugos įstaigai, jei Vartotojas mano, kad Teikėjas tvarkydamas asmens "
+"duomenis pažeidžia šią Politiką arba teisės aktus."
 
 #: wllegal/templates/legal/documents/privacy.html:272
 #: wllegal/templates/legal/documents/tos.html:620
 msgid "Final Provisions"
-msgstr ""
+msgstr "Baigiamosios nuostatos"
 
 #: wllegal/templates/legal/documents/privacy.html:276
 msgid ""
@@ -670,6 +737,11 @@ msgid ""
 "Policy displayed within the Service, or upon the next first login to their "
 "User Account."
 msgstr ""
+"Teikėjas turi teisę vienašališkai keisti šią Politiką. Nauja Politikos "
+"formuluotė įsigalioja po jos paskelbimo Svetainėje. Vartotojas, turintis "
+"sutartinius santykius su Teikėju, kuris Politikos pakeitimo metu vadovaujasi "
+"ja, gaus pranešimą apie Politikos pakeitimą, matomą Paslaugoje arba sekantį "
+"kartą prisijungus prie Vartotojo Paskyros."
 
 #: wllegal/templates/legal/documents/privacy.html:280
 msgid ""
@@ -679,6 +751,11 @@ msgid ""
 "Policy will be resolved before the competent civil court in the Czech "
 "Republic."
 msgstr ""
+"Visi teisiniai santykiai tarp Teikėjo ir Vartotojo, atsirandantys iš šios "
+"Politikos, yra reglamentuojami galiojančių Čekijos Respublikos įstatymų. "
+"Visi tarp Teikėjo ir Vartotojo kylantys ginčai dėl šios Politikos arba "
+"susiję su ja bus sprendžiami kompetentingame civiliniame teisme Čekijos "
+"Respublikoje."
 
 #: wllegal/templates/legal/documents/privacy.html:284
 msgid ""
@@ -691,6 +768,13 @@ msgid ""
 "Council (EC) No. 593/2008 of June 17, 2008, on the law applicable to "
 "contractual obligations (Rome I)."
 msgstr ""
+"Jei Sutartyje nustatytame santykyje yra tarptautinis (užsienio) elementas, "
+"teisės pasirinkimas pagal ankstesnį sakinį neatima iš Vartotojo – Pirkėjo "
+"apsaugos, numatytos teisinės tvarkos nuostatose, nuo kurių negalima nukrypti "
+"pagal sutartį ir kurios būtų taikomos, jei teisės pasirinkimas nebūtų "
+"numatytas pagal 2008 m. birželio 17 d. Europos Parlamento ir Tarybos "
+"reglamento (EB) Nr. 593/2008 dėl sutartinėms prievolėms taikytinos teisės ("
+"Roma I) 6 straipsnio 1 dalies nuostatas."
 
 #: wllegal/templates/legal/documents/privacy.html:288
 msgid ""
@@ -700,14 +784,18 @@ msgid ""
 "provision does not affect the validity of the other provisions of this "
 "Policy."
 msgstr ""
+"Jei kuri nors iš Politikos nuostatų negalioja arba neveiksminga arba tampa "
+"tokia, nuostata, kurios reikšmė yra artimiausia negaliojančiai nuostatai, "
+"pakeis negaliojančias nuostatas. Vienos nuostatos negaliojimas arba "
+"neveiksmingumas neturi įtakos kitų šios Politikos nuostatų galiojimui."
 
 #: wllegal/templates/legal/documents/privacy.html:292
 msgid "This Policy become effective upon their publication on the Website."
-msgstr ""
+msgstr "Ši Politika įsigalioja ją paskelbus Svetainėje."
 
 #: wllegal/templates/legal/documents/privacy.html:296
 msgid "In Prague on November 1, 2024."
-msgstr ""
+msgstr "Praha, 2024 m. lapkričio 1 d."
 
 #: wllegal/templates/legal/documents/summary.html:5
 msgid ""
@@ -751,28 +839,20 @@ msgid "We don’t use any third-party cookies."
 msgstr "Nenaudojame jokių trečiųjų šalių slapukų."
 
 #: wllegal/templates/legal/documents/tos.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
-"Paslaugų sąlygų dokumentas yra autoritetingas anglų kalba. Vertimai "
-"pateikiami jūsų patogumui."
+"Bendrųjų sąlygų dokumentas yra teisiškai įpareigojantis anglų kalba. "
+"Vertimai pateikiami jūsų patogumui."
 
 #: wllegal/templates/legal/documents/tos.html:11
-#, fuzzy
-#| msgid ""
-#| "The rights and obligations of the User and the Provider resulting from "
-#| "the use of the Service are governed by these Terms of Service."
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
 msgstr ""
-"Naudotojo ir Teikėjo teises ir pareigas, atsirandančias naudojantis "
-"Paslauga, reglamentuoja šios Paslaugų sąlygos."
+"Vartotojo ir Teikėjo teises ir pareigas, atsirandančias naudojantis "
+"Paslauga, reglamentuoja šios Bendrosios sąlygos."
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid ""
@@ -783,31 +863,33 @@ msgid ""
 "Services and Products. These general terms and conditions govern the "
 "contractual relationship between the service provider and the User."
 msgstr ""
+"Šios Bendrosios sąlygos yra neatsiejama paslaugos sutarties (toliau – "
+"„<strong>Sutartis</strong>“), sudarytos tarp Vartotojo ir Teikėjo, dalis ir "
+"apibrėžia įpareigojančias Paslaugų ir Produktų teikimo bei Paslaugų ir "
+"Produktų naudojimo taisykles ir sąlygas. Šiomis bendrosiomis sąlygomis "
+"reglamentuojamas sutartinis santykis tarp paslaugos teikėjo ir Vartotojo."
 
 #: wllegal/templates/legal/documents/tos.html:24
 msgid ""
 "The definitions below have the following meanings for the purposes of these "
 "general terms and conditions:"
-msgstr ""
+msgstr "Toliau pateiktos sąvokos šiose bendrosiose sąlygose turi tokią reikšmę:"
 
 #: wllegal/templates/legal/documents/tos.html:30
 msgid "Civil Code"
 msgstr "Civilinis kodeksas"
 
 #: wllegal/templates/legal/documents/tos.html:33
-#, fuzzy
-#| msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
-msgstr ""
-"reiškia Civilinio kodekso Įstatymą nr. %(law_89_2012)s Kolek., su pakeitimais"
+msgstr "Įstatymo Nr. 89/2012 rink. Civilinis kodas su pakeitimais;"
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
-msgstr ""
+msgstr "Susitariančiosios šalys"
 
 #: wllegal/templates/legal/documents/tos.html:40
 msgid "jointly refers to the User and the Provider;"
-msgstr ""
+msgstr "bendrai nurodo Vartotoją ir Teikėją;"
 
 #: wllegal/templates/legal/documents/tos.html:44
 msgid "Cookies"
@@ -821,52 +903,55 @@ msgid ""
 "Coll., on Certain Information Society Services and Amending Certain Acts, as "
 "amended;"
 msgstr ""
+"visi duomenys, siunčiami iš paslaugos svetainės serverio į Vartotojo "
+"kompiuterį arba kitą prie interneto prijungtą įrenginį, kuris leidžia "
+"unikalią Vartotojo naršyklės identifikaciją pagal Įstatymo Nr. 480/2004 "
+"rink. Dėl tam tikrų informacinės visuomenės paslaugų ir tam tikrų teisės "
+"aktų pakeitimo 89 skyriuje;"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Dedicated Weblate"
-msgstr ""
+msgstr "„Dedicated Weblate“"
 
 #: wllegal/templates/legal/documents/tos.html:54
 msgid ""
 "means a form of collaboration where the User is the sole user of the Service "
 "in a cloud hosted and provided by the Provider;"
 msgstr ""
+"bendradarbiavimo forma, kai Vartotojas yra vienintelis Paslaugos naudotojas "
+"debesyje, kurio priegloba ir teikimu rūpinasi Teikėjas;"
 
 #: wllegal/templates/legal/documents/tos.html:58
 msgid "GDPR"
 msgstr "BDAR"
 
 #: wllegal/templates/legal/documents/tos.html:61
-#, fuzzy
-#| msgid ""
-#| "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
-#| "Regulation"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
-msgstr ""
-"reiškia ES reglamentą nr. %(law_679_2016)s, Bendrasis duomenų apsaugos "
-"reglamentas"
+msgstr "ES Reglamento Nr. 679/2016, Bendrasis duomenų apsaugos reglamentas;"
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
-msgstr ""
+msgstr "BS"
 
 #: wllegal/templates/legal/documents/tos.html:68
 msgid ""
 "means these general terms and conditions, which form an integral part of the "
 "Agreement;"
-msgstr ""
+msgstr "šios bendrosios sąlygos, kurios yra neatsiejama Sutarties dalis;"
 
 #: wllegal/templates/legal/documents/tos.html:72
 msgid "Hosted String"
-msgstr ""
+msgstr "Priglobiama eilutė"
 
 #: wllegal/templates/legal/documents/tos.html:75
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph. It is counted separately for each language;"
 msgstr ""
+"vertimo formate apibrėžtas teksto vienetas. Tai gali būti žodis, sakinys "
+"arba pastraipa. Skaičiuojama kiekvienai kalbai atskirai;"
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
@@ -878,63 +963,61 @@ msgid ""
 "provides Services to Users on a non-dedicated (i.e., shared by multiple "
 "Users) cloud operated by the Provider;"
 msgstr ""
+"grynai debesų pagrindu paremta bendradarbiavimo forma, kai Teikėjas teikia "
+"Vartotojams paslaugas nededikuotame debesyje (t. y. dalijamasi tarp daugelio "
+"Vartotojų), kurį eksploatuoja Teikėjas;"
 
 #: wllegal/templates/legal/documents/tos.html:86
 msgid "License"
 msgstr "Licencija"
 
 #: wllegal/templates/legal/documents/tos.html:89
-#, fuzzy
-#| msgid ""
-#| "means non-exclusive license granted by the Provider to the User for use "
-#| "of the Service"
 msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
 msgstr ""
-"reiškia neišskirtinę licenciją, kurią Teikėjas suteikia Naudotojui naudotis "
-"Paslauga"
+"neišskirtinė Paslaugos naudojimo licencija, kurią Teikėjas suteikia "
+"Vartotojui;"
 
 #: wllegal/templates/legal/documents/tos.html:93
 msgid "Personal Data"
-msgstr "Asmeniniai duomenys"
+msgstr "Asmens duomenys"
 
 #: wllegal/templates/legal/documents/tos.html:96
-#, fuzzy
-#| msgid ""
-#| "means personal data within the meaning of EU Regulation No. "
-#| "%(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"reiškia asmeninius duomenis, kaip apibrėžta ES Reglamente nr. "
-"%(law_679_2016)s, kuriuos Naudotojas įterpia į Paslaugą ir (arba) slapukus"
+"asmens duomenys, kaip apibrėžta ES Reglamente Nr. 679/2016, kuriuos "
+"Vartotojas įveda į Paslaugą ir (arba) slapukus;"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
 msgid "Price"
-msgstr ""
+msgstr "Kaina"
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid ""
 "the value expressed in money for the provided License in accordance with the "
 "Price List;"
 msgstr ""
+"pinigine forma išreikšta vertė už suteikiamą Licenciją remiantis Kainoraščiu;"
 
 #: wllegal/templates/legal/documents/tos.html:107
 msgid "Price List"
-msgstr ""
+msgstr "Kainoraštis"
 
 #: wllegal/templates/legal/documents/tos.html:110
 msgid ""
 "means the document or web page that specifies the Price of the Service and/"
 "or Product unless otherwise stated in the Agreement;"
 msgstr ""
+"Paslaugos ir (arba) Produkto Kainą nurodantis dokumentas arba svetainės "
+"puslapis, jei Sutartyje nenustatyta kitaip;"
 
 #: wllegal/templates/legal/documents/tos.html:114
 msgid "Product"
-msgstr ""
+msgstr "Produktas"
 
 #: wllegal/templates/legal/documents/tos.html:117
 msgid ""
@@ -942,6 +1025,10 @@ msgid ""
 "Provider based on its brand usage policy. The User purchases the Product AS "
 "IS. Support and other services are provided separately;"
 msgstr ""
+"bet kuri paslauga arba jos dalis, teikiama naudojant tam tikrą Teikėjo "
+"prekės ženklą, kuri remiasi jo prekės ženklo naudojimo politika. Vartotojas "
+"perka Produktą tokį, KOKS JIS YRA. Palaikymas ir kitos paslaugos teikiamas "
+"atskirai;"
 
 #: wllegal/templates/legal/documents/tos.html:121
 msgid "Provider"
@@ -954,35 +1041,35 @@ msgid ""
 "the Commercial Register maintained by the Regional Court in Ústí nad Labem, "
 "file no. C 52324, with which the Agreement was concluded;"
 msgstr ""
+"<strong>Weblate s.r.o.</strong> įmonė, įmonės kodas 21668027, registruotos "
+"buveinės adresas Nábřežní 694, Cvikov II, 471 54 Cvikov, įregistruota "
+"Komercijos registre, kuris yra saugomas Ústí nad Labem Apygardos teisme, "
+"bylos Nr. C 52324, su kuria buvo sudaryta Sutartis;"
 
 #: wllegal/templates/legal/documents/tos.html:128
 msgid "Service"
 msgstr "Paslauga"
 
 #: wllegal/templates/legal/documents/tos.html:131
-#, fuzzy
-#| msgid ""
-#| "means the website and services based on Weblate operated by the Provider"
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
-msgstr ""
-"reiškia interneto svetainę ir „Weblate“ paslaugas, kurias valdo Teikėjas"
+msgstr "Teikėjo svetainės ir paslaugos, veikiančios „Weblate“ pagrindu;"
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid "Self-hosting"
-msgstr ""
+msgstr "Savarankiška priegloba"
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid ""
 "means a form of collaboration where the User is the sole user of the "
 "Service, and this Service is operated directly on the User Server;"
 msgstr ""
+"bendradarbiavimo forma, kai Vartotojas yra vienintelis Paslaugos naudotojas "
+"ir ši Paslauga veikia tiesiogiai Vartotojo Serveryje;"
 
 #: wllegal/templates/legal/documents/tos.html:142
-#, fuzzy
-#| msgid "Service"
 msgid "Support Services"
-msgstr "Paslauga"
+msgstr "Palaikymo paslaugos"
 
 #: wllegal/templates/legal/documents/tos.html:145
 msgid ""
@@ -990,78 +1077,77 @@ msgid ""
 "Support Services are governed separately by a separate support service "
 "agreement;"
 msgstr ""
+"Teikėjo suteikiamas Paslaugos palaikymas Vartotojui. Palaikymo paslaugos "
+"reglamentuojamos atskirai, remiantis atskira palaikymo paslaugų sutartimi;"
 
 #: wllegal/templates/legal/documents/tos.html:149
 msgid "Translation Memory"
 msgstr "Vertimo atmintis"
 
 #: wllegal/templates/legal/documents/tos.html:152
-#, fuzzy
-#| msgid ""
-#| "means the optional translation memory service provided within Weblate"
 msgid "means an optional translation memory service provided on Weblate;"
-msgstr ""
-"reiškia pasirinktinę vertimo atminties paslaugą, teikiamą per „Weblate“"
+msgstr "pasirinktinė „Weblate“ teikiama vertimo atminties paslauga;"
 
 #: wllegal/templates/legal/documents/tos.html:156
 msgid "User"
-msgstr "Naudotojas"
+msgstr "Vartotojas"
 
 #: wllegal/templates/legal/documents/tos.html:159
-#, fuzzy
-#| msgid ""
-#| "means any legal entity or an individual other than the Provider, who is "
-#| "using the Service"
 msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
 msgstr ""
-"reiškia bet kurį juridinį ar fizinį asmenį, išskyrus Teikėją, kuris "
-"naudojasi Paslauga"
+"bet kuris Paslauga besinaudojantis juridinis arba fizinis asmuo, išskyrus "
+"Teikėją;"
 
 #: wllegal/templates/legal/documents/tos.html:163
 msgid "User Account"
-msgstr ""
+msgstr "Vartotojo paskyra"
 
 #: wllegal/templates/legal/documents/tos.html:166
 msgid ""
 "means a user account with a unique access code and password in the Hosted "
 "Weblate web interface. Each User Account can be used by only one User;"
 msgstr ""
+"vartotojo paskyra, turinti unikalų prieigos kodą ir slaptažodį „Hosted "
+"Weblate“ svetainės sąsajoje. Kiekviena Vartotojo paskyra gali būti naudojama "
+"tik vieno Vartotojo;"
 
 #: wllegal/templates/legal/documents/tos.html:170
 msgid "User Server"
-msgstr ""
+msgstr "Vartotojo serveris"
 
 #: wllegal/templates/legal/documents/tos.html:173
 msgid ""
 "refers to the server and other hardware equipment not owned, managed, or "
 "controlled by the Provider;"
 msgstr ""
+"serveris ir kiti techninės įrangos įrenginiai, kurie nepriklauso, nėra "
+"valdomi ar kontroliuojami Teikėjo;"
 
 #: wllegal/templates/legal/documents/tos.html:179
 msgid "Methods of Acceptance"
-msgstr ""
+msgstr "Sutikimo būdai"
 
 #: wllegal/templates/legal/documents/tos.html:183
 msgid "The License is granted to the User based on the concluded Agreement."
-msgstr ""
+msgstr "Licencija Vartotojui suteikiama sudarytos Sutarties pagrindu."
 
 #: wllegal/templates/legal/documents/tos.html:187
 msgid "These GTC are an integral part of the Agreement."
-msgstr ""
+msgstr "Šios BS yra neatsiejama Sutarties dalis."
 
 #: wllegal/templates/legal/documents/tos.html:191
-#, fuzzy
-#| msgid "License Agreement Conclusion"
 msgid "The Agreement is concluded:"
-msgstr "Licencijos sutarties sudarymas"
+msgstr "Sutartis yra sudaryta:"
 
 #: wllegal/templates/legal/documents/tos.html:196
 msgid ""
 "on the day of signing by both parties (especially for all Services offered "
 "with custom settings);"
 msgstr ""
+"abiejų šalių pasirašymo dieną (ypač visos Paslaugos, siūlomos su tinkintais "
+"nustatymais);"
 
 #: wllegal/templates/legal/documents/tos.html:199
 msgid ""
@@ -1075,7 +1161,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:207
 msgid "Service Provision"
-msgstr ""
+msgstr "Paslaugos teikimas"
 
 #: wllegal/templates/legal/documents/tos.html:211
 msgid ""
@@ -1114,10 +1200,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:227
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
-msgstr "Paslauga"
+msgstr "Paslaugos trukmė"
 
 #: wllegal/templates/legal/documents/tos.html:231
 msgid ""
@@ -1233,10 +1317,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:286
-#, fuzzy
-#| msgid "License"
 msgid "License Terms"
-msgstr "Licencija"
+msgstr "Licencijos sąlygos"
 
 #: wllegal/templates/legal/documents/tos.html:290
 #, python-format
@@ -1306,7 +1388,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:315
 msgid "Payment Terms"
-msgstr ""
+msgstr "Mokėjimo sąlygos"
 
 #: wllegal/templates/legal/documents/tos.html:319
 msgid ""
@@ -1369,7 +1451,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:343
 msgid "Provider's Rights and Obligations"
-msgstr ""
+msgstr "Teikėjo teisės ir pareigos"
 
 #: wllegal/templates/legal/documents/tos.html:347
 msgid ""
@@ -1459,7 +1541,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:380
 msgid "User’s Rights and Obligations"
-msgstr ""
+msgstr "Vartotojo teisės ir pareigos"
 
 #: wllegal/templates/legal/documents/tos.html:384
 msgid ""
@@ -1535,7 +1617,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:416
 msgid "Prohibited Conduct"
-msgstr ""
+msgstr "Draudžiamas elgesys"
 
 #: wllegal/templates/legal/documents/tos.html:420
 msgid ""
@@ -1725,7 +1807,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:533
 msgid "Termination of the Agreement"
-msgstr ""
+msgstr "Sutarties nutraukimas"
 
 #: wllegal/templates/legal/documents/tos.html:537
 msgid ""
@@ -1783,7 +1865,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:565
 msgid "Limitation of Liability"
-msgstr ""
+msgstr "Atsakomybės ribojimas"
 
 #: wllegal/templates/legal/documents/tos.html:569
 msgid ""
@@ -1849,10 +1931,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:600
-#, fuzzy
-#| msgid "The Personal Data retention"
 msgid "Personal Data Protection"
-msgstr "Asmeninių duomenų saugojimas"
+msgstr "Asmens duomenų apsauga"
 
 #: wllegal/templates/legal/documents/tos.html:604
 #, python-format
