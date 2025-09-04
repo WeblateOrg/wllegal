@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-09-03 12:02+0000\n"
+"PO-Revision-Date: 2025-09-04 11:55+0000\n"
 "Last-Translator: Marija Grineviciute <marijagrine@protonmail.com>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/weblate/legal/"
 "lt/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n==1 ? 0 : n%10>=2 && (n%100<10 || "
 "n%100>=20) ? 1 : n%10==0 || (n%100>10 && n%100<20) ? 2 : 3;\n"
-"X-Generator: Weblate 5.13.1-dev\n"
+"X-Generator: Weblate 5.13.1-rc\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -1213,6 +1213,12 @@ msgid ""
 "third parties may process Personal Data within their activities in "
 "accordance with the Agreement and GPLv3."
 msgstr ""
+"Pagal GPLv3 tam tikri Paslaugos elementai gali būti teikiami tiesiogiai "
+"trečiųjų šalių arba su jų pagalba. Vartotojas sutinka, kad šios trečiosios "
+"šalys teiks savo paslaugas laikantis šios Sutarties ir GPLv3 licencijos. "
+"Vartotojas sutinka, kad trečiosios šalys, dalyvaujančios Paslaugos teikime, "
+"gali keistis Paslaugos teikimo metu. Šios trečiosios šalys gali tvarkyti "
+"Asmens duomenis vykdydamos savo veiklą atsižvelgdamos į Sutartį ir GPLv3."
 
 #: wllegal/templates/legal/documents/tos.html:227
 msgid "Service Duration"
@@ -1225,6 +1231,9 @@ msgid ""
 "subscription can be paid monthly or annually in accordance with Article 5 of "
 "the GTC."
 msgstr ""
+"Jei nėra aiškiai susitarta kitaip, Sutartis sudaroma prenumeratos modelio "
+"numatytam laikotarpiui. Prenumerata gali būti apmokama kas mėnesį arba kas "
+"metus laikantis BS 5 straipsnio."
 
 #: wllegal/templates/legal/documents/tos.html:239
 msgid ""
@@ -1236,6 +1245,13 @@ msgid ""
 "List. The price for Services consists of the following separate items or "
 "their combination, which are paid regularly monthly/annually:"
 msgstr ""
+"Paslaugos kaina nustatoma pagal pasiūlymą arba Kainoraštį. Vartotojas "
+"pritaria ir sutinka, kad Teikėjas gali vienašališkai pakeisti Kainoraštį, "
+"lygiai kaip ir šias BS. Kaina priklauso nuo pasirinktos Paslaugos "
+"konfigūracijos ir yra daug variantų, kaip Paslauga gali būti teikiama. Šie "
+"variantai yra išvardyti Kainoraštyje. Paslaugų kainą sudaro sekantys atskiri "
+"elementai arba jų kombinacija, kurie yra apmokami reguliariai kartą per "
+"mėnesį ar metus:"
 
 #: wllegal/templates/legal/documents/tos.html:243
 msgid ""
@@ -1244,6 +1260,10 @@ msgid ""
 "but paid monthly or annually, with this price varying for different forms of "
 "collaboration according to the Price List;"
 msgstr ""
+"įprasta prieigos prie Paslaugos kaina, kuri taip pat visada nustatoma "
+"atitinkamam laikotarpiui ir yra paremta konkrečiomis Paslaugos sąlygomis, "
+"bet apmokama kas mėnesį arba kas metus, ir pagal Kainoraštį gali varijuoti "
+"skirtingoms bendradarbiavimo formoms;"
 
 #: wllegal/templates/legal/documents/tos.html:246
 msgid ""
@@ -1251,24 +1271,27 @@ msgid ""
 "User from the options offered in the Price List or in agreement with the "
 "Provider;"
 msgstr ""
+"įprasta kaina už Priglobiamas eilutes; šią sumą pasirenka Vartotojas iš "
+"Kainoraštyje siūlomų variantų arba susitarus su Teikėju;"
 
 #: wllegal/templates/legal/documents/tos.html:249
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "Vertimo atmintis"
+msgstr "įprasta Vertimo atminties kaina;"
 
 #: wllegal/templates/legal/documents/tos.html:254
 msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
-msgstr ""
+msgstr "(a, b ir c punktai bendrai vadinami „<strong>Prenumerata</strong>“)."
 
 #: wllegal/templates/legal/documents/tos.html:258
 msgid ""
 "To avoid doubt, the Subscription may guarantee either only access to a "
 "specific Product or License and/or a specific package of guaranteed Services."
 msgstr ""
+"Siekiant išvengti abejonių, Prenumerata gali garantuoti arba tik prieigą "
+"prie konkretaus Produkto arba Licencijos ir (arba) konkretaus garantuotų "
+"Paslaugų paketo."
 
 #: wllegal/templates/legal/documents/tos.html:262
 msgid ""
@@ -1277,6 +1300,10 @@ msgid ""
 "invoice is issued and delivered to the User within 5 working days after the "
 "end of each relevant period."
 msgstr ""
+"Vartotojas privalo sumokėti Kainą, nustatytą gautuose mokesčių dokumentuose ("
+"sąskaitose faktūrose), kuriuos išduoda Teikėjas. Kaina apmokama iš anksto, o "
+"sąskaita faktūra išduodama ir pristatoma Vartotojui per 5 darbo dienas "
+"kiekvieno atitinkamo laikotarpio pabaigoje."
 
 #: wllegal/templates/legal/documents/tos.html:266
 #, python-format
@@ -1287,6 +1314,10 @@ msgid ""
 "an additional VAT of 21%%. Reverse charge applies to invoices issued to "
 "businesses within the EU."
 msgstr ""
+"Kainą galima apmokėti kreditine kortele, banko pavedimu arba kriptovaliuta. "
+"Visos kainoraštyje pateiktos Kainos yra be PVM. Galutiniai vartotojai iš ES "
+"ir Čekijos verslo įmonių turės apmokėti papildomą 21 %% PVM. ES esantiems "
+"verslams išduotose sąskaitose faktūrose taikomas atvirkštinis apmokestinimas."
 
 #: wllegal/templates/legal/documents/tos.html:270
 msgid ""
@@ -1296,6 +1327,10 @@ msgid ""
 "verifying with the prepaid card issuer or bank whether recurring billing is "
 "possible."
 msgstr ""
+"Vartotojui nenorint mokėti už Paslaugą Prenumeratos būdu, būtina atšaukti "
+"Prenumeratą bent tris dienas prieš automatinį Paslaugos naudojimo "
+"atnaujinimą. Teikėjas rekomenduoja pasitikslinti su išankstinio mokėjimo "
+"kortelės išdavėju arba banku, ar pasikartojantis mokėjimas yra įmanomas."
 
 #: wllegal/templates/legal/documents/tos.html:274
 msgid ""
@@ -1305,6 +1340,10 @@ msgid ""
 "date as per point 5.5 above, their Subscription will stop at the end of the "
 "current billing cycle."
 msgstr ""
+"Vartotojas gali keisti savo Prenumeratą internetu, prisijungęs prie "
+"Vartotojo paskyros ir ją pakeisdamas arba atšaukdamas. Jei Vartotojas "
+"atšaukia savo Prenumeratą bent tris dienas prieš atnaujinimo datą pagal 5.5 "
+"punktą, jo Prenumerata nustos galioti pasibaigus esamo mokėjimo laikotarpiui."
 
 #: wllegal/templates/legal/documents/tos.html:278
 msgid ""
