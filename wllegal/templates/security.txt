@@ -1,27 +1,28 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-Contact: https://hackerone.com/weblate
 Contact: mailto:security@weblate.org
-Encryption: https://cihar.com/.well-known/openpgpkey/hu/wmxth3chu9jfxdxywj1skpmhsj311mzm
-Encryption: https://keybase.io/nijel
+Contact: https://github.com/WeblateOrg/weblate/security/advisories/new
+Contact: https://hackerone.com/weblate
+Encryption: https://weblate.org/.well-known/openpgpkey/hu/t5s8ztdbon8yzntexy6oz5y48etqsnbb
 Policy: https://docs.weblate.org/en/latest/security/issues.html
-Acknowledgments: https://hackerone.com/weblate/thanks
+Acknowledgments: https://github.com/WeblateOrg/weblate/security/advisories
 Canonical: https://weblate.org/.well-known/security.txt
 Preferred-Languages: en,cs
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEh+Zzr4P2w6DDRMjD9KoinU1YwkUFAl9fX/4ACgkQ9KoinU1Y
-wkXP8g/7BqzDWuwF7CF6zT2wZVjht9Zy6oUu++0uqqx7n+J/CNRfSp43/Il6+/P3
-pX32Z5OsgsAnfVs/l0NK7tZMBVegXHg+A/lnhipcAhFhXBaLiAauz+12P7ZaSil/
-MgVxcEHkIUACqViJ+ysACfTGCNKRCTkPPsjLgRhHkkKUnsL9zAGk0TnHuwIx/pJQ
-hl5Eei3wE9w01yZx8WVorIOsCyOF2CPx6N6u+YJK2aOvC2o9ZFLww4q5osY6B/n0
-uiZ/8/eXo7Q7MmdCN0f/GlxpKBHIsvySBMkAAXUiQ6YDjLhjoPcQyTSwFMI9oD7v
-Gf4shT1sqtDCgyU9F/BlAXCktN2fLOWYEPrfEicUoG/QyRr86s5RbkGLsDGYacNy
-BFkyvCXDi232v3gjocPxb8fJps5luyDcXHRXl0zBFETpYBGtKkI1Uxp9XsPmF3HN
-5rBIwYMg7hXhjzPRnUALWlCnozsQMGNv5ITgjZJo5dzoXyqLJ1ivrSAm5r2hFEo0
-e+qfF9+3P9kA5BxuCrpv/yUsIBW8v7gyuQiXDCG2zK6Znp9a7BnihGXjRWwWp5iN
-R7qz6sURceIyK1pvGpno0wKleDub6Mjk07ZyMsRSURMBSqWk45laGy07QHkr8KEL
-iF6J7txvsKl1csBfLnahUh5/U/E1rVblAD6B80SHmc8YvO5w5S0=
-=HUoF
+iQJJBAEBCAAzFiEEjqduQwl2MyPC49WgxHKfI4qA6pMFAmi+i2cVHHNlY3VyaXR5
+QHdlYmxhdGUub3JnAAoJEMRynyOKgOqTADYP/A7LIF2gqq6xyLEvsI5SL/vg3lYx
+/rOj0joD//TRCwpGonam3fTBcD4b7iESRctC9nPy0Ho31npQhMftTK2W5Yf4G9yK
+7ga4VKX38f0vfr/LsER/bSnAl8VeJQiDqrvLolvsUFwzu8F0V80KTLGJZ9xkMPOh
+iKLKIprcnX5yxgKyyuiU1BdR5RGDYb+MOrIMPeJKo3JCDMHHGa9HBJpj++ZgmLM/
+tNxagiXxxp0hNmErvTCt0AUjPRidUfJkYF34Lqx7GP89V4JtnUNUlPU0aDKgUxkP
+zF0OvRKJ1EpGTMQ+gqoKkRxXGML7a12zzBYoR8Fm7VwBvpaH5KX36cYr1lLryaLr
+oJP4lab7tDTxL8nH3uj5wmEACqPTArd7Uo4XD03EUEzQRrLbXFywgkIsximzZAGl
+L8qXkYMlqFGizI1bNyDuPNpXr4FxXJbDnuXmDa1LpnH+tqRKhmXUS5K4m1I1XhCn
+3WejYX2KL/UDDULodrj5dG9egwKEYyUoYSwzTJax+7WgWnIaDDWOTcd70ko6thsj
+6gmQZ1iM7rX3SCPrY14rfOcgfZW2E6OXuJNW/ilkhNY/XHJtX+EMZdP+2UuZKq2u
+eKmTGE4ybhqM45/zIcLQG7CTaAU/86ueheKXLupmUtqPeezKBkD+SxBaEJnQ99s4
+wjggZU6oKwta1djP
+=Mfby
 -----END PGP SIGNATURE-----
