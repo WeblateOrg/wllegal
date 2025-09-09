@@ -48,7 +48,7 @@ Sources are available at <https://github.com/WeblateOrg/wllegal>.
 Usage
 -----
 
-Include the module in the `INSTALLED_APPS`, it has tbe placed prior to other
+Include the module in the `INSTALLED_APPS`, it has to be placed prior to other
 Weblate modules to override it's templates:
 
 .. code-block:: python
