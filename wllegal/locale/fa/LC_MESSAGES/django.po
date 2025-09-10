@@ -4,11 +4,11 @@
 # Michal Čihař <michal@cihar.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2023-11-27 21:22+0000\n"
-"Last-Translator: Danial Behzadi <dani.behzi@ubuntu.com>\n"
+"PO-Revision-Date: 2025-09-11 19:01+0000\n"
+"Last-Translator: not public <weblate@unbox.at>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/weblate/legal/fa/"
 ">\n"
 "Language: fa\n"
@@ -16,15 +16,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.3-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr ""
 
 #: wllegal/templates/legal/documents/contracts.html:11
-#, fuzzy
-#| msgid "Status as of March 2023."
 msgid "Status as of May 2024."
 msgstr "وضعیت از مارس ۲۰۲۳."
 
@@ -33,11 +31,13 @@ msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
+"سند سیاست حفظ حریم خصوصی به زبان انگلیسی است، ترجمه برای راحتی شما ارائه می "
+"شود."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:6
 msgid "View English version"
-msgstr "دیدن نگارش انگلیسی"
+msgstr "دیدن نسخه انگلیسی"
 
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
@@ -50,7 +50,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
 msgid "Introductory Provisions"
-msgstr ""
+msgstr "مقررات مقدماتی"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
@@ -74,6 +74,8 @@ msgid ""
 "in Article 1 of the Terms and which have the same meaning as set out in the "
 "Terms."
 msgstr ""
+"این خط مشی همچنین از اصطلاحات یا تعاریف خاصی استفاده می کند که در ماده 1 از "
+"شرایط تعریف شده اند و همان معنایی را دارند که در شرایط مشخص شده است."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
@@ -86,6 +88,14 @@ msgid ""
 "personal data and the protection of privacy in the electronic communications "
 "sector (abbreviated as the \"<strong>ePrivacy Directive</strong>\")."
 msgstr ""
+"در پردازش اطلاعات شخصی، ارائه دهنده مطابق با مقررات (EU) 2016/679 پارلمان "
+"اروپا و شورای، مقررات حفاظت از داده های عمومی، همچنین به عنوان GDPR (ما پس "
+"از آن از استفاده از اختصار \"<strong>GDPR GDPR</strong>قانون شماره 110 / "
+"2019 Coll، در پردازش اطلاعات شخصی، و همچنین دستورالعمل 2002 / 58 / EC "
+"پارلمان اروپا و شورای 12 ژوئیه 2002 در مورد پردازش اطلاعات شخصی و حفاظت از "
+"حریم خصوصی در بخش ارتباطات الکترونیکی (به عنوان \"به عنوان \"شورای 12 ژوئیه "
+"2002 در مورد پردازش داده های شخصی و حفاظت از حریم خصوصی در بخش ارتباطات "
+"الکترونیکی\" (برگردان شده است).<strong>دستورالعمل ePrivacy</strong>\")."
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -95,6 +105,10 @@ msgid ""
 "registers for the Provider's newsletter and/or when the Provider and the "
 "User conclude the Contract, whichever is the earliest."
 msgstr ""
+"پردازش واقعی اطلاعات شخصی کاربران همیشه فقط برای اهداف و تحت شرایط تعریف شده "
+"در جزئیات بیشتر در این خط مشی انجام می شود و در لحظه ای که کاربر از وب سایت "
+"بازدید می کند، زمانی که کاربر ثبت نام برای خبرنامه ارائه دهنده و / یا زمانی "
+"که ارائه دهنده و کاربر نتیجه قرارداد، هر کدام اول است."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid ""
@@ -103,6 +117,9 @@ msgid ""
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
 msgstr ""
+"سپس پردازش به طور مستقیم توسط ارائه دهنده و / یا توسط اشخاص ثالث در معنای "
+"ماده 3 از این خط مشی که توسط ارائه دهنده مجاز به پردازش اطلاعات شخصی مطابق "
+"با خط مشی."
 
 #: wllegal/templates/legal/documents/privacy.html:45
 msgid ""
@@ -110,73 +127,78 @@ msgid ""
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
+"مگر اینکه به طور صریح در این خط مشی بیان شود، ارائه دهنده به عنوان یک عمل می "
+"کند. <strong>کنترل داده ها</strong> و کاربران که افراد طبیعی هستند به عنوان "
+"موضوعات داده عمل می کنند زیرا این نقش ها در GDPR تعریف می شوند."
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "محدوده، اهداف و مدت زمان پردازش"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
-msgstr ""
+msgstr "ارائه دهنده اطلاعات شخصی کاربر را برای اهداف زیر پردازش می کند:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "انجام قرارداد تحت ماده 6 (1) (b) GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "مذاکره در مورد قرارداد تحت ماده 6 (1) (b) GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
-msgstr ""
+msgstr "انجام تعهدات حقوقی ارائه دهنده تحت ماده 6 (1) (c) GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, "
 "and in selected cases also"
 msgstr ""
+"منافع قانونی ارائه دهنده تحت ماده 6 (1) (f) GDPR و در موارد انتخاب شده نیز"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
-msgstr ""
+msgstr "موافقت توسط کاربر تحت ماده 6 (1) (a) GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
 msgstr ""
+"دامنه اطلاعات شخصی کاربر پردازش شده توسط ارائه دهنده شامل موارد زیر است:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr ""
+msgstr "نام و نام خانوادگی،"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr ""
+msgstr "آدرس کاربر (تحویل و صورتحساب),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr ""
+msgstr "شناسه شرکت و شناسه مالیاتی،"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, X, and others),"
 msgstr ""
+"نام مستعار (از جمله هر سیستم عامل به طور داوطلبانه مرتبط مانند Liberapay، "
+"GitHub، X و دیگران),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr ""
+msgstr "آواتار کاربر،"
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail address"
 msgid "email address(es),"
-msgstr "نام و نشانی رایانامه"
+msgstr "نشانی ایمیل (ها),"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -184,15 +206,17 @@ msgid ""
 "openSUSE, and Ubuntu in the event that accounts with these providers are "
 "linked to the User account,"
 msgstr ""
+"شناسه های Bitbucket، فیس بوک، گوگل، LinkedIn، GitHub، GitLab، OpenSUSE و "
+"Ubuntu در صورتی که حساب با این ارائه دهندگان مرتبط با حساب کاربری باشد،"
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
-msgstr ""
+msgstr "مشخصات خدمات و محصول مورد استفاده توسط کاربر،"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
-msgstr ""
+msgstr "اطلاعات مربوط به تعداد اعضای تیم کاربر و نقش آنها,"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
