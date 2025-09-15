@@ -21,11 +21,7 @@ class LegalTestCase(TestCase):
 
     def test_security(self) -> None:
         response = self.client.get("/security.txt")
-        self.assertContains(
-            response, "https://github.com/WeblateOrg/weblate/security/advisories"
-        )
-
-    def test_well_known_security(self) -> None:
+        self.assertRedirects(response, "/.well-known/security.txt")
         response = self.client.get("/.well-known/security.txt")
         self.assertContains(
             response, "https://github.com/WeblateOrg/weblate/security/advisories"
