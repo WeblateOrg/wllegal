@@ -5,11 +5,11 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2024-11-19 13:40+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-09-30 16:52+0000\n"
+"Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: Icelandic <https://hosted.weblate.org/projects/weblate/legal/"
 "is/>\n"
 "Language: is\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -661,12 +661,10 @@ msgid "Civil Code"
 msgstr "Lög um réttarfar í einkamálum"
 
 #: wllegal/templates/legal/documents/tos.html:33
-#, fuzzy
-#| msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
 msgstr ""
-"merkir Act No. %(law_89_2012)s Coll., Lög um réttarfar í einkamálum, með "
-"viðaukum"
+"merkir Act No. 89/2012 Coll., Civil Code (Lög um réttarfar í einkamálum), "
+"með viðaukum;"
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
@@ -704,16 +702,12 @@ msgid "GDPR"
 msgstr "GDPR"
 
 #: wllegal/templates/legal/documents/tos.html:61
-#, fuzzy
-#| msgid ""
-#| "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
-#| "Regulation"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
 msgstr ""
-"merkir reglugerð Evrópusambandsins um almenna gagnavernd nr. "
-"%(law_679_2016)s, einnig þekkt sem GDPR (general data protection regulation)"
+"merkir reglugerð Evrópusambandsins um almenna gagnavernd nr. 679/2016, "
+"einnig þekkt sem GDPR (general data protection regulation);"
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
@@ -893,10 +887,8 @@ msgid "These GTC are an integral part of the Agreement."
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:191
-#, fuzzy
-#| msgid "License Agreement Conclusion"
 msgid "The Agreement is concluded:"
-msgstr "Niðurstaða notkunarskilmála"
+msgstr "Niðurstaða skilmálanna:"
 
 #: wllegal/templates/legal/documents/tos.html:196
 msgid ""
@@ -995,10 +987,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:249
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "Þýðingaminni"
+msgstr "almennt verð fyrir þýðingaminni;"
 
 #: wllegal/templates/legal/documents/tos.html:254
 msgid ""
@@ -1146,10 +1136,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:315
-#, fuzzy
-#| msgid "Payment processors."
 msgid "Payment Terms"
-msgstr "Greiðslumiðlanir."
+msgstr "Greiðslukvaðir"
 
 #: wllegal/templates/legal/documents/tos.html:319
 msgid ""
@@ -1657,10 +1645,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:583
-#, fuzzy
-#| msgid "means translation project operated on the Service"
 msgid "Any other matters related to the Service."
-msgstr "merkir það þýðingarverkefni sem keyrt er á þjónustunni"
+msgstr "Öll önnur mál sem tengjast þjónustunni."
 
 #: wllegal/templates/legal/documents/tos.html:588
 msgid ""
