@@ -16,8 +16,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-07-05 14:02+0000\n"
-"Last-Translator: oxisol <bythethousands@proton.me>\n"
+"PO-Revision-Date: 2025-10-21 08:28+0000\n"
+"Last-Translator: Sketch6580 <sketch6580@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/weblate/legal/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -203,7 +203,7 @@ msgstr "用户头像、"
 
 #: wllegal/templates/legal/documents/privacy.html:96
 msgid "email address(es),"
-msgstr "电子邮箱地址、"
+msgstr "电子邮件地址、"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -334,14 +334,14 @@ msgid ""
 "consent granted otherwise, by sending a request to <a href=\"mailto:"
 "%(address)s\">%(address)s</a>."
 msgstr ""
-"基于用户<strong>自愿和了解情况</strong>的同意，提供者也可以处理选定的用户个人"
-"数据，尤其是电子邮箱、名字、姓氏及其他任何个人数据（如果出于这些目的而提"
-"供）。处理期限为<strong>2 年</strong>和/或者直至同意被撤销。提供同意<strong>"
-"决不</strong>是使用服务或产品（包括支持服务）的条件。但对发送新闻简报到尚不是"
-"用户的数据主体，提供与提供商的其他服务无关的选定 bonus 或 bonus 材料和/或披露"
-"与向提供商捐款有关的用户个人数据，用户同意通常是必需的。可在任何时候直接在用"
-"户账户界面撤销同意，对于其他授予的同意，可以发送请求到<a href=\"mailto:"
-"%(address)s\">%(address)s</a>。"
+"提供者也可以基于用户<strong>自愿且知情</strong>的同意处理用户的特定个人数据，"
+"特别是电子邮件地址、名字、姓氏以及任何其他个人数据（如果出于这些目的而提供）"
+"。处理期限为 <strong>2 年</strong>和/或者直至同意被撤销。<strong>决不</strong"
+">以用户提供同意作为使用服务或产品（包括支持服务）的条件。然而，对于向尚未成为"
+"用户的数据主体发送新闻通讯、提供与提供者其他服务无关的额外福利或附加资源、和/"
+"或披露与向提供者捐款相关的用户个人数据等情况，通常需要获得同意。可随时在用户"
+"账户界面撤销同意，如果同意是以其他方式授予的，可以发送请求到 <a href="
+"\"mailto:%(address)s\">%(address)s</a> 进行撤销。"
 
 #: wllegal/templates/legal/documents/privacy.html:144
 msgid ""
@@ -711,9 +711,8 @@ msgstr "2024年11月1日于布拉格。"
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
-msgstr ""
-"我们处理个人数据（如您的电子邮箱地址），如您删除账号，相关内容会从我们的数据"
-"库中被扔掉。"
+msgstr "我们处理个人数据（如您的电子邮件地址），如果您删除账号，这些数据将从我们的数"
+"据库中清除。"
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
@@ -725,17 +724,14 @@ msgstr "您的译文在每个翻译项目指定的许可证下进行。"
 msgid ""
 "Your name and e-mail address is used in VCS commits, it will stay there "
 "indefinitely."
-msgstr ""
-"在版本控制系统提交（VCS commits）中会使用您的姓名及电子邮箱地址，它将不限期保"
-"存。"
+msgstr "您的名称和电子邮件地址将用于版本控制系统提交，这些信息将被永久保留。"
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid ""
 "Chosen name is up to you and the e-mail address used for commits can be "
 "masked by Weblate system to protect your privacy."
-msgstr ""
-"所选名称由您决定，还可以借助 Weblate 系统隐藏用于提交翻译的电子邮箱地址以保护"
-"您的隐私。"
+msgstr "所选名称由您决定，还可以通过 Weblate 系统隐藏用于提交的电子邮件地址以保护您的"
+"隐私。"
 
 #: wllegal/templates/legal/documents/summary.html:15
 msgid "We use cookies to deliver our services."
@@ -794,7 +790,7 @@ msgstr "指用户和提供者；"
 
 #: wllegal/templates/legal/documents/tos.html:44
 msgid "Cookies"
-msgstr "Cookies"
+msgstr "Cookie"
 
 #: wllegal/templates/legal/documents/tos.html:47
 msgid ""
