@@ -5,11 +5,11 @@
 # anonymous <noreply@weblate.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-03-13 11:19+0000\n"
-"Last-Translator: Vinko Kastelic <vinko.kastelic@gmail.com>\n"
+"PO-Revision-Date: 2025-10-23 10:02+0000\n"
+"Last-Translator: Žiga Deisinger <ziga@deisinger.si>\n"
 "Language-Team: Slovenian <https://hosted.weblate.org/projects/weblate/legal/"
 "sl/>\n"
 "Language: sl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
 "n%100==4 ? 2 : 3;\n"
-"X-Generator: Weblate 5.10.3\n"
+"X-Generator: Weblate 5.14.1-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -26,18 +26,20 @@ msgstr "Podizvajalci v skladu s 3. čl. 28 GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:11
 msgid "Status as of May 2024."
-msgstr ""
+msgstr "Stanje od maja 2024."
 
 #: wllegal/templates/legal/documents/privacy.html:5
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
+"Pravilnik o zasebnosti je pravno zavezujoč v angleščini, prevodi so na voljo "
+"za vaše lažje razumevanje."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:6
 msgid "View English version"
-msgstr ""
+msgstr "Ogled angleške različice"
 
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
@@ -46,11 +48,14 @@ msgid ""
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
+"Pravilnik o zasebnosti, v nadaljevanju \"<strong>Pravilnik</strong>\", "
+"dopolnjuje <a href=\"%(terms_url)s\">splošne pogoje poslovanja</a> podjetja "
+"Weblate, v nadaljevanju \"<strong>pogoji poslovanja</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
 msgid "Introductory Provisions"
-msgstr ""
+msgstr "Uvodne določbe"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
