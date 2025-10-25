@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-07-07 10:01+0000\n"
+"PO-Revision-Date: 2025-10-25 12:02+0000\n"
 "Last-Translator: Dick Groskamp <dikgro@yahoo.co.uk>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/weblate/legal/nl/>"
 "\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.14.1-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -89,6 +89,9 @@ msgid ""
 "in Article 1 of the Terms and which have the same meaning as set out in the "
 "Terms."
 msgstr ""
+"Dit beleid gebruikt ook bepaalde termen of definities die zijn gedefinieerd "
+"in Artikel 1 van de Terms en die dezelfde betekenis hebben als uitgelegd in "
+"de Terms."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
@@ -101,6 +104,15 @@ msgid ""
 "personal data and the protection of privacy in the electronic communications "
 "sector (abbreviated as the \"<strong>ePrivacy Directive</strong>\")."
 msgstr ""
+"Bij het verwerken van persoonlijke gegevens voldoet de provider aan "
+"Regulation (EU) 2016/679 van het Europese parlement en van de Commissie, de "
+"General Data Protection Regulation, ook wel bekend als de GDPR "
+"(we zullen hierna de afkorting \"<strong>GDPR</strong>\" gebruiken), Act No. "
+"110/2019 Coll., voor de verwerking van persoonlijke gegevens, als ook "
+"Directive 2002/58/EC van het Europese parlement en van de Commissie van 12 "
+"juli 2002 betreffende het verwerken van persoonlijke gegeven en het "
+"beschermen van de privacy in elektronische communicatiesector "
+"(afgekort als de \"<strong>ePrivacy Directive</strong>\")."
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -110,6 +122,12 @@ msgid ""
 "registers for the Provider's newsletter and/or when the Provider and the "
 "User conclude the Contract, whichever is the earliest."
 msgstr ""
+"De feitelijke verwerking van persoonlijke gegevens van de gebruiker vinden "
+"altijd slechts plaats voor de doelen en onder de voorwaarden die meer in "
+"detail zijn gedefinieerd in dit beleid en begint op het moment dat de "
+"gebruiker de website bezoekt, als de gebruiker zich registreert voor de "
+"nieuwsbrief van de provider en/of als de provider en de gebruiker het "
+"Contract afsluiten, in die zin dat wat als eerste heeft plaatsgevonden."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid ""
@@ -118,6 +136,10 @@ msgid ""
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
 msgstr ""
+"De verwerking wordt dan uitgevoerd ofwel direct door de provider en/of door "
+"derde partijen binnen de betekenis van Artikel 3 van dit beleid, die zijn "
+"geautoriseerd door de provider om persoonlijke gegevens conform dit beleid "
+"te verwerken."
 
 #: wllegal/templates/legal/documents/privacy.html:45
 msgid ""
@@ -125,67 +147,82 @@ msgid ""
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
+"Tenzij uitdrukkelijk anders in dit beleid vermeld, treedt de provider op als "
+"een <strong>gegevensbeheerder</strong> en gebruikers, die natuurlijke "
+"personen zijn, treden op als onderwerp voor gegevens, zoals deze rollen zijn "
+"gedefinieerd in de GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "Bereik, doelen en duur van de verwerking"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
 msgstr ""
+"De provider verwerkt de persoonlijke gegevens van de gebruiker voor de "
+"volgende doelen:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "ter vervulling van het Contract onder Artikel 6(1)(b) van de GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "onderhandeling over het Contract onder Article 6(1)(b) van de GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
 msgstr ""
+"vervulling van de wettelijke verplichtingen van de provider onder Artikel 6"
+"(1)(c) van de GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, "
 "and in selected cases also"
 msgstr ""
+"de gerechtvaardigde belangen van de Provider onder Artikel 6(1)(f) van de "
+"GDPR, en in geselecteerde gevallen ook"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
 msgstr ""
+"instemming verleend door de gebruiker onder Artikel 6(1)(a) van de GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
 msgstr ""
+"Het bereik van de verwerkte persoonlijke gegevens van de gebruiker omvatten "
+"ook het volgende:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr ""
+msgstr "voor- en achternaam,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr ""
+msgstr "adres van de gebruiker (aflevering en facturering)"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr ""
+msgstr "ID van bedrijf en ID belasting,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, X, and others),"
 msgstr ""
+"bijna(a)m(en) (inclusief eventuele vrijwillig gekoppelde platformen, zoals "
+"Liberapay, GitHub, X en andere),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr ""
+msgstr "avatar van de gebruiker,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
 msgid "email address(es),"
@@ -197,15 +234,20 @@ msgid ""
 "openSUSE, and Ubuntu in the event that accounts with these providers are "
 "linked to the User account,"
 msgstr ""
+"identificaties voor Bitbucket, Facebook, Google, LinkedIn, GitHub, GitLab, "
+"openSUSE en Ubuntu in de gevallen dat accounts bij deze providers zijn "
+"gekoppeld aan het account van de gebruiker,"
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
 msgstr ""
+"specificaties van de Service en het Product dat door de gebruiker wordt "
+"gebruikt,"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
-msgstr ""
+msgstr "informatie over het aantal teamleden van de gebruiker en hun rollen,"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
@@ -213,35 +255,50 @@ msgid ""
 "Profile), i.e., settings for languages, notifications, if they can identify "
 "the User directly or indirectly,"
 msgstr ""
+"alle andere gebruikersinstellingen van het gebruikersaccount "
+"(inclusief het zogenoemde Profiel), d.i. instellingen voor talen, "
+"notificaties, als ze de gebruiker direct of indirect kunnen identificeren,"
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
 msgstr ""
+"bankrekeningnummer en mogelijke andere details voor betalingen van de "
+"gebruiker,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "adres of adressen van wallet(s) voor cryptocurrency,"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
 "other personal data contained in messages sent by the User to the Provider "
 "(especially the subject and other content of the message),"
 msgstr ""
+"andere persoonlijke gegevens die zijn opgenomen in berichten die door de "
+"gebruiker zijn verzonden aan de provider "
+"(speciaal het onderwerp en andere inhoud van het bericht),"
 
 #: wllegal/templates/legal/documents/privacy.html:120
 msgid ""
 "other personal data contained in communications with the Provider's support,"
 msgstr ""
+"andere persoonlijke gegevens die zijn opgenomen in communicatie met de "
+"ondersteuning van de provider,"
 
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
 msgstr ""
+"logs van systeemgegevens en sessielogs, inclusief het IP-adres van de "
+"gebruiker,"
 
 #: wllegal/templates/legal/documents/privacy.html:128
 msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
+"naar de individuele categorieën van persoonlijke gegevens, zoals hierboven "
+"vermeld, zal in het vervolg collectief worden verwezen als "
+"\"<strong>Persoonlijke gegevens</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -254,6 +311,17 @@ msgid ""
 "under the conditions and based on a separate data processing agreement (so-"
 "called processing agreement) concluded between the Provider and the User."
 msgstr ""
+"In bepaalde gevallen kan de provider <strong>ook een verwerker van "
+"persoonlijke gegevens zijn</strong>, namelijk als persoonlijke gegevens van "
+"derde partijen aan hem wordt verschaft door de gebruiker voor hun eigen "
+"doelen (bijv. in het geval van het toevoegen van individuele teamleden, "
+"doneren van een project aan de provider ten behoeve van een andere persoon, "
+"etc.). Het verwerken van geselecteerde persoonlijke gegevens van derde "
+"partijen die toegankelijk zijn gemaakt door de gebruiker vindt in dat geval "
+"plaats naar aanwijzingen van de gebruiker, onder de voorwaarden en gebaseerd "
+"op een afzonderlijke overeenkomst voor de verwerking van gegevens "
+"(zogenaamde verwerkingsovereenkomst), afgesloten tussen de provider en de "
+"gebruiker."
 
 #: wllegal/templates/legal/documents/privacy.html:136
 msgid ""
@@ -279,6 +347,32 @@ msgid ""
 "the User's instructions unless the Provider has another legal basis for "
 "processing personal data as a controller under Article 2.1 of this Policy."
 msgstr ""
+"De provider verwerkt persoonlijke gegevens tot alle verplichtingen, die "
+"voortkomen uit het contract, zijn vervuld. Op het moment van sluiten van het "
+"account door de provider en/of annuleren van het account door de gebruiker, "
+"zullen alle persoonlijke gegevens en andere gegevens, die zijn ingevoerd in "
+"de service, worden verwijderd, behalve de hieronder vermelde geselecteerde "
+"persoonlijke gegevens; de provider <strong>raadt daarom sterk aan back-ups "
+"te maken</strong> van alle gegevens die in de service zijn ingevoerd, "
+"voordat het gebruikersaccount wordt geannuleerd en is niet verantwoordelijk "
+"voor hun verlies nadat het gebruikersaccount is gesloten, zelfs niet als het "
+"rechtmatig door de provider is gesloten. Persoonlijke gegevens die zijn "
+"aangegeven op rekeningen wordt door de provider behouden voor ten minste de "
+"wettelijke bewaarperioden die voortkomen uit de wet, d.i. voor een periode "
+"van 10 jaar. In gevallen waar dit nodig is voor het verdedigen van claims "
+"van de provider en/of ter verdediging tegen claims van derde partijen "
+"(inclusief eventuele zaken die zijn geïnitieerd door openbare autoriteiten), "
+"kan de provider ook enkele andere persoonlijke gegevens behouden, maar "
+"altijd slechts voor een maximale periode die gelijk is aan de bewaarperiode "
+"voor individuele claims en/of tot de uiteindelijke conclusie van "
+"geselecteerde zaken. De specifieke duur kan niet precies worden gedefinieerd "
+"en varieert, overeenkomstig het type claim, hun bewaarperioden en de "
+"snelheid van geselecteerde rechtbanken of openbare autoriteiten. Gegevens "
+"die de provider slechts verwerkt als verwerker van de gegevens van de "
+"gebruiker wordt verwerkt voor de periode die door de gebruiker is "
+"gespecificeerd, tenzij de provider een andere wettelijke basis heeft voor "
+"het verwerken van persoonlijke gegevens als een controller onder Artikel 2.1 "
+"van dit beleid."
 
 #: wllegal/templates/legal/documents/privacy.html:140
 #, python-format
@@ -298,6 +392,23 @@ msgid ""
 "consent granted otherwise, by sending a request to <a href=\"mailto:"
 "%(address)s\">%(address)s</a>."
 msgstr ""
+"De provider kan ook geselecteerde persoonlijke gegevens van de gebruiker "
+"verwerken, in het bijzonder e-mail, voornaam, achternaam en elk ander "
+"persoonlijk gegeven (indien voor dit doel opgegeven), gebaseerd op de "
+"<strong>vrijwillige en geïnformeerde</strong> instemming van de gebruiker. "
+"Verwerking kan voor een periode van <strong>2 jaar</strong> en/of totdat de "
+"instemming wordt ingetrokken. Het gebruiken van de service of het product "
+"(inclusief services voor ondersteuning) is <strong>nooit</strong> "
+"afhankelijk van het verlenen van instemming. Instemming is, echter, "
+"gewoonlijk vereist voor het toezenden van nieuwsbrieven aan onderwerpen van "
+"gegevens die nog geen gebruikers zijn, of voor het verschaffen van "
+"geselecteerde bonussen of bonusmaterialen die niet zijn gekoppeld aan andere "
+"services van de provider en/of voor het onthullen van de persoonlijke "
+"gegevens van de gebruiker in verband met een donatie aan de provider. "
+"Intrekken kan op elk moment direct in de gebruikersinterface van het "
+"gebruikersaccount en, in het geval van op andere wijze verleende instemming, "
+"door een verzoek te zenden aan <a href=\"mailto:%(address)s\">%(address)"
+"s</a>."
 
 #: wllegal/templates/legal/documents/privacy.html:144
 msgid ""
@@ -306,6 +417,11 @@ msgid ""
 "selected Personal Data based on a different legal reason if this legal "
 "reason in favour of the Provider continues to exist."
 msgstr ""
+"Als de reden voor het verwerken van de persoonlijke gegevens is vervallen, "
+"zal de provider de persoonlijke gegevens vernietigen. Dat sluit niet het "
+"verder verwerken van geselecteerde persoonlijke gegevens uit, gebaseerd op "
+"het feit of een andere wettelijke reden ten faveure van de Provider bestaat "
+"om dit voort te zetten."
 
 #: wllegal/templates/legal/documents/privacy.html:149
 msgid "Recipients and Processors of Personal Data"
@@ -318,12 +434,19 @@ msgid ""
 "proper processing of Personal Data for the purposes defined in Article 2.1 "
 "of this Policy, specifically:"
 msgstr ""
+"In aanvulling op de provider ontvangen en verwerken geselecteerde derde "
+"partijen ook persoonlijke gegevens, gebaseerd op dit beleid, waarvoor hun "
+"betrokkenheid noodzakelijk is voor de juiste verwerking van persoonlijke "
+"gegevens voor de doelen die zijn gedefinieerd in Artikel 2.1 van dit beleid, "
+"specifiek:"
 
 #: wllegal/templates/legal/documents/privacy.html:158
 msgid ""
 "hosting provider (including web hosting and mail hosting services), "
 "currently this is <strong>Hetzner Online GmbH</strong>;"
 msgstr ""
+"hosting provider (inclusief services voor webhosting en mailhosting), "
+"momenteel is dit <strong>Hetzner Online GmbH</strong>;"
 
 #: wllegal/templates/legal/documents/privacy.html:161
 msgid ""
@@ -331,24 +454,34 @@ msgid ""
 "possibly operators of other services used in connection with the payment of "
 "any payments related to billing;"
 msgstr ""
+"operatoren van de betalingsgateway <strong>ThePay.cz, s.r.o.</strong> en "
+"mogelijke operatoren van andere services die worden gebruikt in verband met "
+"betalingen van en betalingen gerelateerd aan factureren;"
 
 #: wllegal/templates/legal/documents/privacy.html:164
 msgid ""
 "accounting, legal, and tax advisors of the Provider and possibly other "
 "persons bound by confidentiality under the law;"
 msgstr ""
+"accountants, wettelijke en belastingadviseurs van de provider en mogelijke "
+"andere personen die, volgens de wet, zijn gebonden aan vertrouwelijkheid;"
 
 #: wllegal/templates/legal/documents/privacy.html:167
 msgid ""
 "C-level and other managerial employees employed by or otherwise "
 "collaborating with the Provider;"
 msgstr ""
+"C-niveau en andere werknemers van het management die werken bij of "
+"anderszins samenwerken met de provider;"
 
 #: wllegal/templates/legal/documents/privacy.html:170
 msgid ""
 "selected contractors of the Provider who are involved in providing services "
 "to Users and who are also bound by confidentiality;"
 msgstr ""
+"geselecteerde aannemers van de provider die zijn betrokken bij het "
+"verschaffen van services aan gebruikers en die ook zijn gebonden aan "
+"vertrouwelijkheid;"
 
 #: wllegal/templates/legal/documents/privacy.html:173
 msgid ""
@@ -356,12 +489,18 @@ msgid ""
 "the Service, Products, Support Services, and/or to ensure any other "
 "activities related to the above;"
 msgstr ""
+"alle andere personen waarvoor hun betrokkenheid noodzakelijk is voor het op "
+"de juiste wijze verschaffen van de service, producten, services voor "
+"ondersteuning en/of om alle andere activiteiten, gerelateerd aan "
+"bovenstaande, te verzekeren;"
 
 #: wllegal/templates/legal/documents/privacy.html:178
 msgid ""
 "the persons mentioned in this Article 3.1 are collectively referred to in "
 "this Policy as \"<strong>Processors</strong>\"."
 msgstr ""
+"naar de personen die zijn vermeld in dit Artikel 3.1 wordt collectief in dit "
+"beleid verwezen als \"<strong>Verwerkers</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:182
 msgid ""
@@ -371,6 +510,12 @@ msgid ""
 "personal data must meet high standards of protection and will always handle "
 "the data within the limits of the GDPR and this Policy."
 msgstr ""
+"De gebruiker stemt ermee in dat de provider persoonlijke gegevens aan de "
+"hiervoor genoemde verwerkers mag overdragen als dat noodzakelijk is om de "
+"bovenstaande doelen voor het verwerken van gegevens te vervullen. De "
+"verwerkers die de provider aanneemt voor het verwerken van persoonlijke "
+"gegevens moeten voldoen aan hoge standaarden voor beveiliging en zullen de "
+"gegevens altijd afhandelen binnen de grenzen van de GDPR en dit beleid."
 
 #: wllegal/templates/legal/documents/privacy.html:186
 msgid ""
@@ -397,6 +542,9 @@ msgid ""
 "The processing of Personal Data by selected Processors may be governed by "
 "their own service provision conditions."
 msgstr ""
+"Het verwerken van persoonlijke gegevens door geselecteerde verwerkers kan "
+"zijn onderworpen aan hun eigen voorwaarden voor het verschaffen van de "
+"service."
 
 #: wllegal/templates/legal/documents/privacy.html:194
 msgid ""
@@ -405,10 +553,15 @@ msgid ""
 "where the transfer must occur in compliance with the obligations of the "
 "Provider arising from generally binding regulations."
 msgstr ""
+"Persoonlijke gegevens kunnen ook worden overgedragen als de provider dat bij "
+"wet verplicht is, als resultaat van een beslissing van een openbare "
+"autoriteit, of in andere gevallen, waarbij de overdracht moet voldoen aan de "
+"verplichtingen van de provider die voortkomen uit algemeen verbindende "
+"regels."
 
 #: wllegal/templates/legal/documents/privacy.html:199
 msgid "Common Provisions on Processing"
-msgstr ""
+msgstr "Algemene voorwaarden voor verwerken"
 
 #: wllegal/templates/legal/documents/privacy.html:203
 msgid ""
@@ -418,6 +571,12 @@ msgid ""
 "processing of personal data by any third party, even if those third parties "
 "are Processors."
 msgstr ""
+"De provider zal altijd elke inspanning verrichten om niet-geautoriseerd "
+"verwerken van persoonlijke gegevens door andere personen te voorkomen; hij "
+"is echter niet aansprakelijk door de gebruiker of andere onderwerpen van "
+"gegevens voor schade die is veroorzaakt door niet-geautoriseerd verwerken "
+"van persoonlijke gegevens door een derde partij, zelfs niet als deze derde "
+"partijen verwerkers zijn."
 
 #: wllegal/templates/legal/documents/privacy.html:207
 msgid ""
@@ -427,6 +586,12 @@ msgid ""
 "480/2004 Coll. on Certain Information Society Services, if they directly "
 "relate to these Services, Products, and/or Support Services."
 msgstr ""
+"E-mails, verzonden aan gebruikers in verband met het verschaffen van de "
+"service, het product en/of services voor ondersteuning worden niet beschouwd "
+"als niet gewenste commerciële communicaties onder Act No. 40/1995 Coll. on "
+"Advertising en Act No. 480/2004 Coll. on Certain Information Society "
+"Services, als zij direct betrekking hebben op deze services, producten en/of "
+"services voor ondersteuning."
 
 #: wllegal/templates/legal/documents/privacy.html:211
 msgid ""
@@ -438,6 +603,14 @@ msgid ""
 "revoked at any time by clicking on the link found in the footer of such "
 "commercial communication."
 msgstr ""
+"De gebruiker kan echter, expliciet en <strong>vrijwillig instemmen</strong>, "
+"binnen de betekenis van Section 7(2) of Act No. 480/2004 Coll. on Certain "
+"Information Society Services en bepaalde acties wijzigen, om bredere "
+"commerciële communicaties te ontvangen "
+"(bijv. in het geval van indirecte marketing) vanuit de provider aan het "
+"elektronische adres van de gebruiker. Deze instemming kan, natuurlijk, op "
+"elk moment worden ingetrokken door te klikken op de link in de voettekst van "
+"dergelijke commerciële communicatie."
 
 #: wllegal/templates/legal/documents/privacy.html:215
 msgid ""
@@ -445,6 +618,10 @@ msgid ""
 "related to Personal Data that affects the User, they will notify the User of "
 "this fact without undue delay."
 msgstr ""
+"In het geval dat de provider en/of verwerkers kennis krijgen van een "
+"beveiligingsrisico voor de persoonlijke gegevens, dat betrekking heeft op de "
+"gebruiker, zullen ze de gebruiker zonder onnodige vertraging van dit feit in "
+"kennis stellen."
 
 #: wllegal/templates/legal/documents/privacy.html:219
 msgid ""
@@ -453,6 +630,11 @@ msgid ""
 "other incident leading to loss. However, the Provider is not responsible for "
 "the improper actions of the Processors."
 msgstr ""
+"De provider zal de gebruiker de assistentie en wettelijke hulp verschaffen "
+"voor het verkrijgen van compensatie van de verantwoordelijke verwerkers in "
+"het geval van een inbreuk op de gegevens of ander incident dat tot verlies "
+"leidt. Echter, de provider is niet verantwoordelijk voor de onjuiste acties "
+"van de verwerkers."
 
 #: wllegal/templates/legal/documents/privacy.html:223
 msgid ""
@@ -464,6 +646,14 @@ msgid ""
 "the User in the case where they provide the Provider with Personal Data of "
 "data subjects other than this User."
 msgstr ""
+"De gebruiker bevestigt hierbij dat de verschafte persoonlijke gegevens waar, "
+"nauwkeurig, zijn en slechts betrekking hebben op de gebruiker, of dat ze "
+"gegevens hebben verschaft die geen inbreuk pleegt op de rechten van derde "
+"partijen. De gebruiker is verplicht om altijd de provider te informeren over "
+"enig wijziging van hun persoonlijke gegevens, zodat alleen huidige en "
+"volledige gegevens worden verwerkt. Dezelfde verplichtingen gelden voor de "
+"gebruiker als ze de provider persoonlijke gegevens verschaffen van andere "
+"onderwerpen van gegevens dan deze gebruiker."
 
 #: wllegal/templates/legal/documents/privacy.html:227
 msgid ""
@@ -472,6 +662,11 @@ msgid ""
 "never be subject to individual automated decision-making (including "
 "profiling) within the meaning of Article 22 of the GDPR."
 msgstr ""
+"Persoonlijke gegevens zullen elektronisch worden verwerkt, inclusief het "
+"gebruik van geautomatiseerde verwerkingsmethoden. Echter, de gebruiker of "
+"andere onderwerpen van gegevens zullen nooit onderwerp zijn van individueel "
+"geautomatiseerde beslissingen (inclusief profileren) binnen de betekenis van "
+"Artikel 22 van de GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:231
 msgid ""
@@ -479,6 +674,10 @@ msgid ""
 "the GDPR) may be processed even after all legal grounds for processing the "
 "User's Personal Data have ceased."
 msgstr ""
+"Geanonimiseerde persoonlijke gegevens "
+"(die niet langer als persoonlijke gegevens onder de GDPR worden beschouwd) "
+"mogen worden verwerkt, zelfs nadat alle wettelijke gronden voor het "
+"verwerken van de persoonlijke gegevens van de gebruiker zijn verlopen."
 
 #: wllegal/templates/legal/documents/privacy.html:236
 msgid "User Rights in Relation to Personal Data"
@@ -494,6 +693,12 @@ msgid ""
 "correction, restriction, or deletion) can be automated through this user "
 "account."
 msgstr ""
+"De gebruiker kan op elk moment zijn rechten, die voortkomen uit de GDPR, "
+"uitoefenen door een e-mail te sturen naar <a href=\"mailto:%(address)s\">%"
+"(address)s</a>, als ook via zijn gebruikersaccount, omdat de implementatie "
+"van de meeste hieronder vermelde rechten (speciaal die met toegang tot alle "
+"verwerkte persoonlijke gegevens, hun correctie, beperking of verwijdering) "
+"kan worden geautomatiseerd via dit gebruikersaccount."
 
 #: wllegal/templates/legal/documents/privacy.html:244
 msgid ""
@@ -502,30 +707,44 @@ msgid ""
 "strong>, unless due to the complexity of the matter it is necessary for the "
 "Provider to extend this period. The User's rights include:"
 msgstr ""
+"De provider zal elke inspanning leveren om verzoeken met betrekking tot de "
+"persoonlijke gegevens van de gebruiker zo snel mogelijk aan te pakken, maar "
+"niet later dan binnen <strong>30 dagen</strong>, tenzij het wegens de "
+"complexiteit van de materie voor de provider noodzakelijk is om deze periode "
+"te verlengen. De rechten van de gebruiker omvatten:"
 
 #: wllegal/templates/legal/documents/privacy.html:249
 msgid ""
 "an explanation of whether and what personal data is being processed and, if "
 "applicable, requesting the Provider to disclose it;"
 msgstr ""
+"een uitleg over of en welke persoonlijke gegevens worden verwerkt en, indien "
+"van toepassing, de provider verzoeken die te onthullen;"
 
 #: wllegal/templates/legal/documents/privacy.html:252
 msgid ""
 "correction of personal data if there is concern that some of it is "
 "inaccurate or missing;"
 msgstr ""
+"correctie van persoonlijke gegevens als er zorgen zijn dat sommige ervan "
+"niet nauwkeurig zijn of ontbreken;"
 
 #: wllegal/templates/legal/documents/privacy.html:255
 msgid ""
 "restriction of processing if there is concern that the Provider is "
 "processing more data than necessary;"
 msgstr ""
+"restrictie van de verwerking als er zorgen zijn dat de provider meer "
+"gegevens verwerkt dan noodzakelijk is;"
 
 #: wllegal/templates/legal/documents/privacy.html:258
 msgid ""
 "deletion of personal data based on the consent of the Provider, provided "
 "that there is no other legal reason for further processing of personal data;"
 msgstr ""
+"verwijdering van persoonlijke gegevens, gebaseerd op de instemming van de "
+"provider, vooropgesteld dat er geen andere wettelijke reden is voor het "
+"verder verwerken van persoonlijke gegevens;"
 
 #: wllegal/templates/legal/documents/privacy.html:261
 msgid ""
@@ -533,12 +752,18 @@ msgid ""
 "on the consent of the Provider or in connection with fulfilling the "
 "Provider's contractual obligations, in a machine-readable format;"
 msgstr ""
+"verstrekken van een kopie van de verwerkte persoonlijke gegevens via "
+"geautomatiseerde weg, gebaseerd op de instemming van de provider of in "
+"verband met het vervullen van de contractuele verplichtingen van de "
+"provider, in door machines te lezen indeling;"
 
 #: wllegal/templates/legal/documents/privacy.html:264
 msgid ""
 "temporary freezing of data processing operations for the purposes of the "
 "legitimate interest of the Provider;"
 msgstr ""
+"tijdelijk bevriezen van bewerkingen aan persoonlijke gegevens ten behoeve "
+"van het gerechtvaardigde belang van de provider;"
 
 #: wllegal/templates/legal/documents/privacy.html:267
 #, python-format
@@ -548,11 +773,16 @@ msgid ""
 "authority if the User believes that the Provider is processing personal data "
 "in violation of this Policy or legal regulations."
 msgstr ""
+"indienen van een klacht, direct bij Office for Personal Data Protection "
+"(<a href=\"%(url)s\">%(url)s</a>) of een andere relevante nationale "
+"autoriteit voor de bescherming van persoonlijke gegevens als de gebruiker "
+"van mening is dat de provider persoonlijke gegevens verwerkt in strijd met "
+"dit beleid of wettelijke regels."
 
 #: wllegal/templates/legal/documents/privacy.html:272
 #: wllegal/templates/legal/documents/tos.html:620
 msgid "Final Provisions"
-msgstr ""
+msgstr "Finale bepalingen"
 
 #: wllegal/templates/legal/documents/privacy.html:276
 msgid ""
@@ -563,6 +793,12 @@ msgid ""
 "Policy displayed within the Service, or upon the next first login to their "
 "User Account."
 msgstr ""
+"De provider heeft het recht om eenzijdig het beleid te wijzigen. De nieuwe "
+"bewoordingen in het beleid worden van kracht na publicatie op de website. De "
+"gebruiker, die een contractuele relatie met de provider heeft die is "
+"onderworpen aan dit beleid ten tijde van de wijziging, zal een notificatie "
+"van de wijziging in het beleid ontvangen, weergegeven in de service, of de "
+"eerstvolgende keer dat wordt ingelogd op het gebruikersaccount."
 
 #: wllegal/templates/legal/documents/privacy.html:280
 msgid ""
@@ -572,6 +808,11 @@ msgid ""
 "Policy will be resolved before the competent civil court in the Czech "
 "Republic."
 msgstr ""
+"Alle wettelijke relaties tussen de provider en de gebruiker komen voort uit "
+"dit beleid en zijn onderworpen aan de geldige wetten van de Tsjechische "
+"Republiek. Elk conflict dat optreedt tussen de provider en de gebruiker "
+"vanuit of in verband met dit beleid zal worden opgelost voor de competente "
+"burgerlijke rechter in de Tsjechische Republiek."
 
 #: wllegal/templates/legal/documents/privacy.html:284
 msgid ""
@@ -584,6 +825,14 @@ msgid ""
 "Council (EC) No. 593/2008 of June 17, 2008, on the law applicable to "
 "contractual obligations (Rome I)."
 msgstr ""
+"Als de relatie, van kracht door het contract een internationaal (buitenlands)"
+" element bevat, onthoud de keuze van wet volgens de voorgaande zin niet de "
+"gebruiker – klant van de bescherming die wordt verschaft door bepalingen van "
+"de wettelijke orde die niet contractueel daarvan kunnen worden afgeleid en "
+"die anders van toepassing zouden zijn bij afwezigheid van de keuze voor wet "
+"overeenkomstig de bepalingen van Artikel 6(1) van de Regulation of the "
+"European Parliament and Council (EC) No. 593/2008 van 17 juni 2008, over de "
+"van toepassing zijnde wet voor contractuele verplichtingen (Rome I)."
 
 #: wllegal/templates/legal/documents/privacy.html:288
 msgid ""
@@ -593,14 +842,19 @@ msgid ""
 "provision does not affect the validity of the other provisions of this "
 "Policy."
 msgstr ""
+"Als enige bepaling van het beleid ongeldig of niet langer van toepassing is, "
+"of dat wordt, zal de bepaling met de betekenis die het dichtst bij de "
+"ongeldige bepaling ligt de ongeldige bepaling vervangen. De ongeldigheid of "
+"inefficiëntie van een bepaling beïnvloedt niet de geldigheid van andere "
+"bepalingen in dit beleid."
 
 #: wllegal/templates/legal/documents/privacy.html:292
 msgid "This Policy become effective upon their publication on the Website."
-msgstr ""
+msgstr "Dit beleid wordt van toepassing bij publicatie ervan op de website."
 
 #: wllegal/templates/legal/documents/privacy.html:296
 msgid "In Prague on November 1, 2024."
-msgstr ""
+msgstr "In Praag op 1 november 2024."
 
 #: wllegal/templates/legal/documents/summary.html:5
 msgid ""
@@ -668,12 +922,22 @@ msgid ""
 "Services and Products. These general terms and conditions govern the "
 "contractual relationship between the service provider and the User."
 msgstr ""
+"Deze algemene bepalingen en voorwaarden maken integraal deel uit van de "
+"service-overeenkomst die is overeengekomen tussen de gebruiker en de "
+"provider "
+"(waarnaar hierna wordt verwezen als de \"<strong>Overeenkomst</strong>\") en "
+"de bindende regels en voorwaarden definieert voor het verschaffen van de "
+"services en producten en het gebruiken van de services en de producten. Deze "
+"algemene termen voorwaarden bepalen de contractuele relatie tussen de "
+"serviceprovider en de gebruiker."
 
 #: wllegal/templates/legal/documents/tos.html:24
 msgid ""
 "The definitions below have the following meanings for the purposes of these "
 "general terms and conditions:"
 msgstr ""
+"De definities hieronder hebben de volgende betekenis voor het doel van deze "
+"algemene bepalingen en voorwaarden:"
 
 #: wllegal/templates/legal/documents/tos.html:30
 msgid "Civil Code"
@@ -685,11 +949,11 @@ msgstr "betekent Act No. 89/2012 Coll., Civil Code, zoals gewijzigd;"
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
-msgstr ""
+msgstr "Partijen in het contract"
 
 #: wllegal/templates/legal/documents/tos.html:40
 msgid "jointly refers to the User and the Provider;"
-msgstr ""
+msgstr "verwijst gezamenlijk naar de gebruiker en de provider;"
 
 #: wllegal/templates/legal/documents/tos.html:44
 msgid "Cookies"
@@ -703,16 +967,23 @@ msgid ""
 "Coll., on Certain Information Society Services and Amending Certain Acts, as "
 "amended;"
 msgstr ""
+"betekent alle gegevens die worden verzonden van de webserver van de service "
+"naar de computer van de gebruiker of ander met internet verbonden apparaat, "
+"dat de unieke identificatie mogelijk maakt van de webbrowser van de "
+"gebruiker overeenkomstig Section 89 of Act No. 480/2004 Coll., on Certain "
+"Information Society Services and Amending Certain Acts, zoals van toepassing;"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Dedicated Weblate"
-msgstr ""
+msgstr "Toegewezen Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:54
 msgid ""
 "means a form of collaboration where the User is the sole user of the Service "
 "in a cloud hosted and provided by the Provider;"
 msgstr ""
+"betekent een vorm van samenwerking waarbij de gebruiker de enige gebruiker "
+"is van de in de cloud gehoste service die is verschaft door de provider;"
 
 #: wllegal/templates/legal/documents/tos.html:58
 msgid "GDPR"
@@ -728,17 +999,19 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
-msgstr ""
+msgstr "GTC"
 
 #: wllegal/templates/legal/documents/tos.html:68
 msgid ""
 "means these general terms and conditions, which form an integral part of the "
 "Agreement;"
 msgstr ""
+"betekent deze algemene bepalingen en voorwaarden, die een integraal deel "
+"vormen van de overeenkomst;"
 
 #: wllegal/templates/legal/documents/tos.html:72
 msgid "Hosted String"
-msgstr ""
+msgstr "Gehoste tekenreeks"
 
 #: wllegal/templates/legal/documents/tos.html:75
 msgid ""
@@ -759,6 +1032,9 @@ msgid ""
 "provides Services to Users on a non-dedicated (i.e., shared by multiple "
 "Users) cloud operated by the Provider;"
 msgstr ""
+"betekent een vorm van samenwerking die puur op de cloud is gebaseerd, "
+"waarbij de provider services aan gebruikers verschaft op een niet-toegewezen "
+"cloud (d.i. gedeeld door meerdere gebruikers), beheerd door de provider;"
 
 #: wllegal/templates/legal/documents/tos.html:86
 msgid "License"
@@ -787,27 +1063,31 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
 msgid "Price"
-msgstr ""
+msgstr "Prijs"
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid ""
 "the value expressed in money for the provided License in accordance with the "
 "Price List;"
 msgstr ""
+"de waarde, uitgedrukt in geld, voor de verschafte licentie overeenkomstig de "
+"prijslijst;"
 
 #: wllegal/templates/legal/documents/tos.html:107
 msgid "Price List"
-msgstr ""
+msgstr "Prijslijst"
 
 #: wllegal/templates/legal/documents/tos.html:110
 msgid ""
 "means the document or web page that specifies the Price of the Service and/"
 "or Product unless otherwise stated in the Agreement;"
 msgstr ""
+"betekent het document of webpagina die de prijs voor de service en/of "
+"product specificeert, tenzij anders vermeld in de overeenkomst;"
 
 #: wllegal/templates/legal/documents/tos.html:114
 msgid "Product"
-msgstr ""
+msgstr "Product"
 
 #: wllegal/templates/legal/documents/tos.html:117
 msgid ""
@@ -815,6 +1095,10 @@ msgid ""
 "Provider based on its brand usage policy. The User purchases the Product AS "
 "IS. Support and other services are provided separately;"
 msgstr ""
+"betekent elke service of deel daarvan dat is verschaft onder een bepaald "
+"merk van de provider, gebaseerd op het beleid voor gebruik van zijn merk. De "
+"gebruiker koopt het product ZOALS HET IS. Ondersteuning en andere services "
+"worden afzonderlijk verschaft;"
 
 #: wllegal/templates/legal/documents/tos.html:121
 msgid "Provider"
@@ -827,6 +1111,10 @@ msgid ""
 "the Commercial Register maintained by the Regional Court in Ústí nad Labem, "
 "file no. C 52324, with which the Agreement was concluded;"
 msgstr ""
+"verwijst naar het bedrijf <strong>Weblate s.r.o.</strong>, ID No. 21668027, "
+"gevestigd te Nábřežní 694, Cvikov II, 471 54 Cvikov, geregistreerd in het "
+"Commerciële register onderhouden door de regionale rechtbank in Ústí nad "
+"Labem, file no. C 52324, waarin de overeenkomst werd vastgelegd;"
 
 #: wllegal/templates/legal/documents/tos.html:128
 msgid "Service"
@@ -841,13 +1129,16 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid "Self-hosting"
-msgstr ""
+msgstr "Zelf hosten"
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid ""
 "means a form of collaboration where the User is the sole user of the "
 "Service, and this Service is operated directly on the User Server;"
 msgstr ""
+"betekent een vorm van samenwerking waarbij de gebruiker de enige gebruiker "
+"van de service is en deze service direct wordt uitgevoerd op de server van "
+"de gebruiker;"
 
 #: wllegal/templates/legal/documents/tos.html:142
 msgid "Support Services"
@@ -859,6 +1150,9 @@ msgid ""
 "Support Services are governed separately by a separate support service "
 "agreement;"
 msgstr ""
+"betekent de ondersteuning die door de provider aan de gebruiker wordt "
+"verschaft binnen de service. Services voor ondersteuning zijn onderworpen "
+"aan een afzonderlijke overeenkomst voor ondersteuning voor de service;"
 
 #: wllegal/templates/legal/documents/tos.html:149
 msgid "Translation Memory"
@@ -883,35 +1177,42 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:163
 msgid "User Account"
-msgstr ""
+msgstr "Gebruikersaccount"
 
 #: wllegal/templates/legal/documents/tos.html:166
 msgid ""
 "means a user account with a unique access code and password in the Hosted "
 "Weblate web interface. Each User Account can be used by only one User;"
 msgstr ""
+"betekent een gebruikersaccount met een unieke toegangscode en wachtwoord in "
+"de webinterface Hosted Weblate. Elk gebruikersaccount kan slechts gebruikt "
+"worden door een gebruiker;"
 
 #: wllegal/templates/legal/documents/tos.html:170
 msgid "User Server"
-msgstr ""
+msgstr "Server gebruiker"
 
 #: wllegal/templates/legal/documents/tos.html:173
 msgid ""
 "refers to the server and other hardware equipment not owned, managed, or "
 "controlled by the Provider;"
 msgstr ""
+"verwijst naar de server en ander hardwareapparaten, niet toebehorende, "
+"beheerd of aangestuurd door de provider;"
 
 #: wllegal/templates/legal/documents/tos.html:179
 msgid "Methods of Acceptance"
-msgstr ""
+msgstr "Methoden voor acceptatie"
 
 #: wllegal/templates/legal/documents/tos.html:183
 msgid "The License is granted to the User based on the concluded Agreement."
 msgstr ""
+"De licentie wordt toegekend aan de gebruiker, op basis van de vastgelegde "
+"overeenkomst."
 
 #: wllegal/templates/legal/documents/tos.html:187
 msgid "These GTC are an integral part of the Agreement."
-msgstr ""
+msgstr "Deze GTC zijn een integraal deel van de overeenkomst."
 
 #: wllegal/templates/legal/documents/tos.html:191
 msgid "The Agreement is concluded:"
@@ -922,6 +1223,8 @@ msgid ""
 "on the day of signing by both parties (especially for all Services offered "
 "with custom settings);"
 msgstr ""
+"op de dag van ondertekening door beide partijen (speciaal ten aanzien van "
+"alle services die worden aangeboden met aangepaste instellingen);"
 
 #: wllegal/templates/legal/documents/tos.html:199
 msgid ""
@@ -932,10 +1235,16 @@ msgid ""
 "Provider's bank account) for the amount stated in the first billing period "
 "by the User."
 msgstr ""
+"online door acceptatie (bevestiging) via de webinterface, overeenkomstig de "
+"prijslijst, waarbij de overeenkomst van kracht wordt als de prijs voor de "
+"licentie volledig betaald is door de gebruiker (in het geval van een "
+"bankoverschrijving, als het bedrag dat overeenkomt met de prijs voor de "
+"licentie is gecrediteerd aan de bankrekening van de provider) voor het "
+"bedrag dat is vermeld voor de eerste periode voor facturatie."
 
 #: wllegal/templates/legal/documents/tos.html:207
 msgid "Service Provision"
-msgstr ""
+msgstr "Verschaffen service"
 
 #: wllegal/templates/legal/documents/tos.html:211
 msgid ""
@@ -944,6 +1253,10 @@ msgid ""
 "accordance with the Agreement and the technical specifications outlined in "
 "the Product specification."
 msgstr ""
+"De provider stelt de service ter beschikking op het internetadres dat is "
+"gespecificeerd in de productspecificatie en de subdomeinen ervan of op de "
+"servers van de gebruiker, overeenkomstig de overeenkomst en de technische "
+"specificaties die zijn opgenomen in de productspecificatie."
 
 #: wllegal/templates/legal/documents/tos.html:215
 msgid ""
@@ -954,12 +1267,20 @@ msgid ""
 "specification defined in this manner takes precedence over the form of "
 "Service offered according to the Price List."
 msgstr ""
+"Als de overeenkomst is vastgelegd onder Artikel 2.3(a), wordt het bereik van "
+"de services gedefinieerd in de productspecificatie, die bij de overeenkomst "
+"is gevoegd. De productspecificatie kan verder de details uitwerken van het "
+"bereik van individuele (sub)services met betrekking tot hun inhoud en "
+"activatiemethoden. De op deze manier gedefinieerde productspecificatie heeft "
+"voorrang boven de vorm van service aangeboden overeenkomstig de prijslijst."
 
 #: wllegal/templates/legal/documents/tos.html:219
 msgid ""
 "The Service is provided in three forms of cooperation: Hosted Weblate, "
 "Dedicated Weblate, and Self-hosting."
 msgstr ""
+"De service wordt verschaft in drie vormen van samenwerking: Hosted Weblate, "
+"toegewezen Weblate en Zelf hosten."
 
 #: wllegal/templates/legal/documents/tos.html:223
 msgid ""
@@ -972,6 +1293,15 @@ msgid ""
 "third parties may process Personal Data within their activities in "
 "accordance with the Agreement and GPLv3."
 msgstr ""
+"Overeenkomstig de GPLv3 kunnen bepaalde aspecten van de service worden "
+"verschaft, ofwel met assistentie van derde partijen anders dan de provider "
+"of direct door deze partijen. De gebruiker begrijpt dat deze derde partijen "
+"hun services zullen verschaffen overeenkomstig deze overeenkomst en de "
+"licentie GPLv3. De gebruiker begrijpt dat betrokken derde partijen voor het "
+"verschaffen van de service gedurende het verschaffen van de service zouden "
+"kunnen wijzigen. Deze derde partijen zouden binnen hun activiteiten "
+"persoonlijke gegevens kunnen verwerken overeenkomstig de overeenkomst en de "
+"licentie GPLv3."
 
 #: wllegal/templates/legal/documents/tos.html:227
 msgid "Service Duration"
@@ -984,6 +1314,10 @@ msgid ""
 "subscription can be paid monthly or annually in accordance with Article 5 of "
 "the GTC."
 msgstr ""
+"Tenzij uitdrukkelijk overeengekomen in de overeenkomst, wordt de "
+"overeenkomst vastgelegd voor een periode die overeenkomt met een "
+"abonnementsmodel. Het abonnement mag maandelijks of jaarlijks worden "
+"betaald, overeenkomstig Artikel 5 van de GTC."
 
 #: wllegal/templates/legal/documents/tos.html:239
 msgid ""
@@ -995,6 +1329,14 @@ msgid ""
 "List. The price for Services consists of the following separate items or "
 "their combination, which are paid regularly monthly/annually:"
 msgstr ""
+"De prijs voor de service wordt bepaald overeenkomstig de offerte of de "
+"prijslijst. De gebruiker begrijpt en gaat ermee akkoord dat de prijslijst "
+"eenzijdig gewijzigd kan worden door de provider, op dezelfde manier als deze "
+"GTC. De prijs is afhankelijk van de gekozen configuratie van de service en "
+"er zijn vele varianten waarin de service kan worden verschaft. Deze "
+"varianten zijn vermeld in de prijslijst. De prijs voor services bestaat uit "
+"de volgende afzonderlijke items of een combinatie daarvan, die normaal "
+"gesproken maandelijks/jaarlijks worden betaald:"
 
 #: wllegal/templates/legal/documents/tos.html:243
 msgid ""
@@ -1003,6 +1345,10 @@ msgid ""
 "but paid monthly or annually, with this price varying for different forms of "
 "collaboration according to the Price List;"
 msgstr ""
+"normale prijs voor toegang tot de services, die ook is ingesteld voor de "
+"relevante tijdsperiode en is gebaseerd op de specifieke voorwaarden van de "
+"service, maar maandelijks of jaarlijks betaald, waarbij deze prijs varieert "
+"voor verschillende vormen van samenwerking, overeenkomstig de prijslijst;"
 
 #: wllegal/templates/legal/documents/tos.html:246
 msgid ""
@@ -1010,6 +1356,9 @@ msgid ""
 "User from the options offered in the Price List or in agreement with the "
 "Provider;"
 msgstr ""
+"normale prijs voor het aantal Gehoste tekenreeksen; deze hoeveelheid wordt "
+"door de gebruiker gekozen uit de opties die worden aangeboden in de "
+"prijslijst of in overeenstemming met de provider;"
 
 #: wllegal/templates/legal/documents/tos.html:249
 msgid "regular price for Translation Memory;"
@@ -1020,12 +1369,17 @@ msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
 msgstr ""
+"(naar punten a), b) en c) wordt collectief verwezen als het "
+"\"<strong>Abonnement</strong>\")."
 
 #: wllegal/templates/legal/documents/tos.html:258
 msgid ""
 "To avoid doubt, the Subscription may guarantee either only access to a "
 "specific Product or License and/or a specific package of guaranteed Services."
 msgstr ""
+"Om verwarring te voorkomen kan het abonnement ofwel slechts toegang tot een "
+"specifiek product of licentie garanderen en/of een specifiek pakket van "
+"gegarandeerde services."
 
 #: wllegal/templates/legal/documents/tos.html:262
 msgid ""
@@ -1034,6 +1388,11 @@ msgid ""
 "invoice is issued and delivered to the User within 5 working days after the "
 "end of each relevant period."
 msgstr ""
+"De gebruiker is verplicht om de prijs te betalen die is gebaseerd op de "
+"ontvangen belastingdocumenten (facturen) uitgegeven door de provider. De "
+"prijs moet vooraf worden betaald en de factuur wordt uitgegeven en "
+"afgeleverd aan de gebruiker binnen 5 werkdagen na het einde van elke "
+"relevante periode."
 
 #: wllegal/templates/legal/documents/tos.html:266
 #, python-format
@@ -1044,6 +1403,11 @@ msgid ""
 "an additional VAT of 21%%. Reverse charge applies to invoices issued to "
 "businesses within the EU."
 msgstr ""
+"Betalen van de prijs mag per creditcard, bankoverschrijving of transactie "
+"met cryptocurrency. Alle vermelde prijzen in de prijslijst zijn exclusief "
+"BTW. Eindgebruikers van EU en Tsjechische zakelijke bedrijven zijn verplicht "
+"een aanvullende BTW te betalen van 21%%. Teruggave is van toepassing voor "
+"facturen die zijn uitgegeven voor bedrijven binnen de EU."
 
 #: wllegal/templates/legal/documents/tos.html:270
 msgid ""
@@ -1053,6 +1417,11 @@ msgid ""
 "verifying with the prepaid card issuer or bank whether recurring billing is "
 "possible."
 msgstr ""
+"Als de gebruiker wil voorkomen dat hij wordt belast voor de service in de "
+"modus Abonnement, moet hij het abonnement ten minste drie dagen voor het "
+"automatisch vernieuwen van het gebruiken van de service annuleren. De "
+"provider raadt aan om te verifiëren, bij de uitgever van de prepaidcard of "
+"bank, of herhaald factureren mogelijk is."
 
 #: wllegal/templates/legal/documents/tos.html:274
 msgid ""
@@ -1062,6 +1431,11 @@ msgid ""
 "date as per point 5.5 above, their Subscription will stop at the end of the "
 "current billing cycle."
 msgstr ""
+"De gebruiker kan de modus Abonnement online wijzigen door in te loggen op "
+"zijn gebruikersaccount en de wijziging of het annuleren van het abonnement "
+"daar te doen. Als de gebruiker zijn abonnement ten minste drie dagen voor de "
+"vernieuwingsdatum annuleert, zoals vermeld in punt 5.5 hierboven, zal het "
+"abonnement stoppen aan het einde van de huidige factuurcyclus."
 
 #: wllegal/templates/legal/documents/tos.html:278
 msgid ""
@@ -1075,6 +1449,17 @@ msgid ""
 "prepaid Services were prepaid for a period exceeding the actual usage "
 "period, the conditions of such a refund will be agreed upon individually."
 msgstr ""
+"De provider geeft GEEN geld terug voor services, services voor ondersteuning "
+"en/of enige andere onder de overeenkomst en deze GTC verschafte service als "
+"zij werden verschaft voor het annuleren van deze services door de gebruiker. "
+"Annuleren van bestellingen na betalen is mogelijk overeen te komen als de "
+"bestelde service niet is gebruikt of er geen poging is gedaan om te "
+"downloaden. Als een poging is gedaan om te downloaden, zal er niet worden "
+"onderhandeld en de gebruiker kan geen aanspraak maken op teruggave, "
+"kortingen of andere geldelijke compensatie. Als prepaid-services vooraf "
+"werden betaald voor een periode die de periode van het feitelijke gebruik "
+"overschrijdt, zullen de voorwaarden voor een dergelijke teruggave op "
+"individuele basis worden bepaald."
 
 #: wllegal/templates/legal/documents/tos.html:282
 msgid ""
@@ -1087,6 +1472,15 @@ msgid ""
 "new Price or conditions come into effect. Under these conditions, the User "
 "has the right to cancel the Subscription."
 msgstr ""
+"Prijzen en voorwaarden voor abonnementen kunnen eenzijdig op elk moment door "
+"de operator wijzigen. De geldige prijs en voorwaarden ten tijde van de "
+"eerste aankoop of de laatste vernieuwing van het abonnement behouden hun "
+"waarde voor de duur van de opgegeven periode van het abonnement, maar nieuwe "
+"prijzen en voorwaarden zouden van toepassing kunnen zijn op vernieuwingen of "
+"nieuwe abonnementen. De provider zal de gebruiker in kennis stellen, binnen "
+"een redelijke termijn, van wijzigingen in prijs of abonnementen, voordat de "
+"nieuwe prijs of voorwaarden van kracht worden. Onder deze voorwaarden heeft "
+"de gebruiker het recht om het abonnement te annuleren."
 
 #: wllegal/templates/legal/documents/tos.html:286
 msgid "License Terms"
@@ -1102,6 +1496,12 @@ msgid ""
 "License is provided. The License is granted in accordance with the option "
 "selected according to the Price List."
 msgstr ""
+"De providers software en Weblate software-uitbreidingen worden "
+"gedistribueerd onder de licentie GNU/GPLv3 (bekijk <a href=\"%(url)s\">%(url)"
+"s</a>). De gebruiker wordt een niet-exclusieve licentie verstrekt voor alle "
+"elementen van de service onder de bepalingen van de GTC in hun meeste recent "
+"geüpdatet versie ten tijde waarvan de licentie is verschaft. De licentie "
+"wordt verstrekt overeenkomstig de overeenkomstig de prijslijst gekozen optie."
 
 #: wllegal/templates/legal/documents/tos.html:295
 #, python-format
@@ -1114,6 +1514,14 @@ msgid ""
 "according to the information provided on the Provider's website (see <a "
 "href=\"%(url)s\">%(url)s</a>)."
 msgstr ""
+"Tenzij anders vermeld in de overeenkomst zijn de bepalingen voor de licentie "
+"van deze overeenkomst volledig onderworpen aan de licentie GPLv3. "
+"Geselecteerde delen van de software zouden echter ook kunnen zijn "
+"gelicenseerd onder andere licenties. Een volledige lijst met in de providers "
+"software en software-uitbreidingen gebruikte licenties is te vinden in hun "
+"broncode, die correspondeert met de specificatie REUSE 3.0, overeenkomstig "
+"de verschafte informatie op de website van de provider "
+"(bekijk <a href=\"%(url)s\">%(url)s</a>)."
 
 #: wllegal/templates/legal/documents/tos.html:299
 msgid ""
@@ -1125,6 +1533,13 @@ msgid ""
 "creating, and distributing the Service, even if the User does not publicly "
 "release the Service."
 msgstr ""
+"De gebruiker begrijpt dat alle auteursrechten en andere intellectuele "
+"eigendomsrechten voor de service toebehoren aan de provider en/of derde "
+"partijen waarvan de werken zijn verwerkt in de service en/of gezamenlijk "
+"worden gebruikt met de service. De gebruiker verliest echter niet het recht "
+"om de service te gebruiken tot het bereik dat wordt toegestaan door de van "
+"toepassing zijnde licenties, inclusief uitvoeren, maken en distribueren van "
+"de service, zelfs als de gebruiker de service niet publiekelijk uitgeeft."
 
 #: wllegal/templates/legal/documents/tos.html:303
 msgid ""
@@ -1134,6 +1549,11 @@ msgid ""
 "or later versions of the GPL license), they publish all materials to which "
 "they do not own copyright."
 msgstr ""
+"Voor het doel van exclusieve aanpassingen van de service, uitsluitend ten "
+"behoeve van de gebruiker, of het maken van manieren om deze service uit te "
+"voeren, mag de gebruiker de service alleen publiceren als, overeenkomstig de "
+"bepalingen van de GPLv3 (en/of latere versies van de licentie GPL), alle "
+"materiaal publiceert waarvan hij niet de auteursrechten heeft."
 
 #: wllegal/templates/legal/documents/tos.html:307
 msgid ""
@@ -1144,6 +1564,13 @@ msgid ""
 "released. The User acknowledges that not all Self-hosting Subscription "
 "packages include updates and/or modifications to the Services."
 msgstr ""
+"De licentie omvat ook updates en/of aanpassingen aan de services, in de "
+"toekomst gemaakt door de provider, vooropgesteld dat de services zijn "
+"verschaft gebaseerd op het geselecteerde abonnement en alle relevante "
+"licentie- en andere kosten volledig zijn betaald voor de periode waarin deze "
+"updates en/of aanpassingen worden uitgegeven. De gebruiker begrijpt dat niet "
+"alle pakketten voor abonnementen van Zelf hosten updates en/of aanpassingen "
+"voor de services bevatten."
 
 #: wllegal/templates/legal/documents/tos.html:311
 msgid ""
@@ -1157,6 +1584,17 @@ msgid ""
 "intact, and the User provides all recipients of such copies of the source "
 "code with a copy of the license along with the program."
 msgstr ""
+"De gebruiker heeft het recht om de broncode te gebruiken en elementen te "
+"behandelen die worden beschermd door auteursrechten binnen de grenzen van "
+"GPLv3 (en/of latere versies van de licentie GPL), inclusief, maar niet "
+"beperkt tot, het maken van kopieën. De gebruiker mag dergelijke kopieën "
+"slechts distribueren als elke kopie een verwijzing bevat naar de provider en "
+"de afwezigheid van garantie op een prominente en zichtbare plaats, ervoor "
+"zorgt dat alle verwijzingen naar deze licentie en enige aanvullende "
+"voorwaarden ongewijzigd blijven, en dat alle verwijzingen naar de "
+"afwezigheid van garantie intact blijven, en de gebruiker alle ontvangers van "
+"dergelijke kopieën van de broncode met een kopie van de licentie, samen met "
+"het programma, verschaft."
 
 #: wllegal/templates/legal/documents/tos.html:315
 msgid "Payment Terms"
@@ -1168,6 +1606,10 @@ msgid ""
 "issuance of invoices and to receiving them via electronic means. Invoices "
 "will be issued with a due date of 14 calendar days."
 msgstr ""
+"Facturen zullen elektronisch worden uitgegeven. De gebruiker gaat akkoord "
+"met het elektronisch uitgeven van facturen en ze via elektronische weg te "
+"ontvangen. Facturen zullen worden uitgegeven met een vervaldatum van 14 "
+"kalenderdagen."
 
 #: wllegal/templates/legal/documents/tos.html:323
 msgid ""
@@ -1178,6 +1620,13 @@ msgid ""
 "any reason, the Provider will issue an invoice, and the User is obliged to "
 "pay such an invoice within the same deadlines."
 msgstr ""
+"De factureerperiode wordt gedefinieerd als een terugkerende periode "
+"(kalendermaand/jaar). Betaling wordt automatisch in rekening gebracht via de "
+"geselecteerde manier van betalen en de factuur wordt, zonder onnodige "
+"vertraging, aan de gebruiker verzonden nadat de provider de betaling heeft "
+"ontvangen. Als de betaling om wat voor reden dan ook niet automatisch kan "
+"worden verricht, zal de provider een factuur uitgeven en de gebruiker is "
+"verplicht een dergelijke factuur binnen dezelfde tijdsgrenzen te betalen."
 
 #: wllegal/templates/legal/documents/tos.html:327
 msgid ""
@@ -1189,6 +1638,15 @@ msgid ""
 "a material breach of the Agreement, entitling the Provider to terminate the "
 "Agreement for the reason stated in Article 11 below."
 msgstr ""
+"In het geval van een vertraging door de gebruiker bij enige betaling, heeft "
+"de provider ook het recht om het verschaffen van de service op te schorten "
+"of te beperken, totdat de schuld volledig is voldaan. Gedurende de "
+"opschorting of beperking van het verschaffen van de service, is de gebruiker "
+"nog steeds verplicht de prijs te betalen overeenkomstig de aangeleverde "
+"belastingdocumenten. Herhaalde vertragingen in betalingen door de gebruiker "
+"worden beschouwd als het niet nakomen van de overeenkomst, wat de provider "
+"het recht geeft de overeenkomst te beëindigen wegens de reden die is vermeld "
+"in Artikel 11 hieronder."
 
 #: wllegal/templates/legal/documents/tos.html:331
 msgid ""
@@ -1202,6 +1660,17 @@ msgid ""
 "continuous and automatically renews until it is cancelled, or the User "
 "Account is terminated."
 msgstr ""
+"Door akkoord te gaan met deze GTC op het moment van de aankoop, abonneert de "
+"gebruiker zich voor het in de toekomst automatisch vernieuwen van het "
+"abonnement. Het abonnement zal automatisch worden vernieuwd aan het einde "
+"van elke abonnementsperiode, gebaseerd op de abonnementsperiode die werd "
+"gekozen op het moment van aankoop. Aan het begin van elke factureerperiode, "
+"zal het abonnement in rekening worden gebracht voor de kosten die "
+"overeenkomen met de bijgewerkte prijslijst en/of overeenkomstig een "
+"afzonderlijke kennisgeving door de provider, gemaakt voor het einde van de "
+"laatste factureerperiode. Het abonnement is doorlopend en wordt automatisch "
+"vernieuwd, totdat het wordt geannuleerd, of als het gebruikersaccount wordt "
+"beëindigd."
 
 #: wllegal/templates/legal/documents/tos.html:335
 msgid ""
@@ -1213,6 +1682,14 @@ msgid ""
 "conditions for the payment of the Fee are governed by the relevant "
 "contractual terms of ThePay."
 msgstr ""
+"De gebruiker begrijpt dat in het geval van een betaling van het abonnement "
+"via een betalings-gateway, die gateway wordt verschaft door <strong>ThePay, "
+"a.s.</strong>, waarvan het kantoor is gevestigd op Masarykovo náměstí 102/"
+"65, 586 01 Jihlava, ID: 281 35 261, geregistreerd in het Commerciële "
+"register dat wordt onderhouden door de Regionale rechtbank in Brno, Section "
+"B, Insert 8977 (\"<strong>ThePay</strong>\"). De voorwaarden voor het "
+"betalen van de kosten zijn onderworpen aan de relevante contractuele "
+"bepalingen van ThePay."
 
 #: wllegal/templates/legal/documents/tos.html:339
 msgid ""
@@ -1220,10 +1697,13 @@ msgid ""
 "by the Provider, and the Provider is not responsible for the functionality "
 "of ThePay's payment gateway."
 msgstr ""
+"Informatie over de betaalkaart, die wordt ingevoerd in de betalings-gateway, "
+"wordt niet verwerkt door de provider en de provider is niet verantwoordelijk "
+"voor het functioneren van de betalings-gateway van ThePay."
 
 #: wllegal/templates/legal/documents/tos.html:343
 msgid "Provider's Rights and Obligations"
-msgstr ""
+msgstr "Rechten en verplichtingen van de provider"
 
 #: wllegal/templates/legal/documents/tos.html:347
 msgid ""
@@ -1249,6 +1729,32 @@ msgid ""
 "any case, the User may either accept the Change (implicitly through failure "
 "to object) or terminate the Agreement within the above period."
 msgstr ""
+"De provider heeft het recht wijzigingen aan te brengen in de service of het "
+"bereik ervan. In dergelijke gevallen zal de provider de gebruiker informeren "
+"via de webinterface die is gerelateerd aan de verschafte service. In het "
+"geval van wijzigingen in het wettelijke of regelgevende framewerk, industrie "
+"standaarden, de aan de provider gerelateerde kosten, markt aanpassingen, "
+"voorwaarden die de relevante markt beïnvloeden, of alle andere wijzigingen "
+"die invloed kunnen hebben op het verschaffen van de service, kan de provider "
+"op elk moment deze bepalingen aanpassen, annuleren of aanvullingen maken "
+"(waarnaar wordt verwezen als \"<strong>Wijziging</strong>\") door de "
+"gebruiker in kennis te stellen van een dergelijke wijziging door de "
+"gereviseerde versie van deze bepalingen te posten op de website en de "
+"gebruiker via e-mail en door de aan de verschafte service gerelateerde "
+"interface in kennis te stellen, ten minste 14 dagen voordat de wijziging "
+"ingaat. Als de gebruiker niet reageert op een dergelijke wijziging binnen de "
+"hierboven vermelde periode, zal worden aangenomen dat de gebruiker akkoord "
+"gaat met de wijziging. In kennis stellen is niet van toepassing als de "
+"wijziging is vereist door de wet, een bevel van een rechtbank, het instellen "
+"van een nieuwe service betreft, extra mogelijkheden voor de bestaande "
+"service, of enige andere wijziging die niet de rechten van de gebruiker "
+"beperkt of hun verplichtingen vergroot. In dergelijke gevallen zal de "
+"wijziging worden uitgevoerd zonder voorafgaand in kennis stellen van de "
+"gebruiker en zal die onmiddellijk ingaan. Als de gebruiker bezwaar maakt "
+"tegen de wijzigingen in de bepalingen binnen bovenstaande periode, hebben "
+"zij het recht de overeenkomst te beëindigen. In elk geval kan de gebruiker "
+"de wijziging ofwel accepteren (impliciet door het niet maken van bezwaar) of "
+"de overeenkomst binnen bovenstaande periode beëindigen."
 
 #: wllegal/templates/legal/documents/tos.html:351
 msgid ""
@@ -1256,6 +1762,10 @@ msgid ""
 "to ensure the functionality and availability of the Service. The User "
 "acknowledges and agrees that they use the Service at their own risk."
 msgstr ""
+"De provider moet alle stappen verrichten binnen zijn technische "
+"mogelijkheden om het functioneren en beschikbaar zijn van de service te "
+"verzekeren. De gebruiker begrijpt en erkent dat ze de service voor eigen "
+"risico gebruiken."
 
 #: wllegal/templates/legal/documents/tos.html:355
 msgid ""
@@ -1264,6 +1774,10 @@ msgid ""
 "version. The Provider undertakes to fulfil these requirements and ensure the "
 "proper operation of the Service through its own actions."
 msgstr ""
+"De basis systeemvereisten voor een juiste werking van de service omvatten de "
+"serveromgeving en gedefinieerde technische status in de laatste versie. De "
+"provider zorgt ervoor deze vereisten te vervullen en zorgt voor een juiste "
+"werking van de service met zijn eigen acties."
 
 #: wllegal/templates/legal/documents/tos.html:359
 msgid ""
@@ -1276,6 +1790,15 @@ msgid ""
 "Provider bears no responsibility for any damages incurred by the User in "
 "connection with these events."
 msgstr ""
+"Als de gebruiker een probleem identificeert dat is gerelateerd aan de "
+"snelheid, functionaliteit of beschikbaarheid van de service, zijn ze "
+"verplicht dat onmiddellijk bij de provider te melden. De gebruiker begrijpt "
+"dat gebeurtenissen buiten de controle van de provider, zoals het niet werken "
+"van de internetverbinding van een gebruiker, natuurrampen, DOS- of DNS-"
+"aanvallen op de technische apparatuur van de provider en andere factoren, de "
+"functionaliteit of beschikbaarheid van de service zouden kunnen beïnvloeden. "
+"De provider draagt geen verantwoordelijkheid voor enige schade die bij de "
+"gebruiker optreedt ten gevolge van deze gebeurtenissen."
 
 #: wllegal/templates/legal/documents/tos.html:363
 msgid ""
@@ -1289,12 +1812,25 @@ msgid ""
 "the Service. In the case of planned outages, the Provider is obligated to "
 "inform the User in advance within a reasonable time."
 msgstr ""
+"De gebruiker begrijpt en gaat ermee akkoord dat de provider tijdelijk het "
+"verschaffen van de service om ernstige redenen zou kunnen opschorten, in het "
+"bijzonder in het geval van het voorkomen van cyberaanvallen, indien "
+"noodzakelijk, of in het geval van ernstig falen van de service dat een "
+"essentieel stilleggen vereist. De provider moet de gebruiker, zo snel als "
+"mogelijk is, van de onderbreking in kennis stellen. De provider is verplicht "
+"toepasselijke operationele en beveiligingsmaatregelen te implementeren om "
+"potentieel falen te minimaliseren van de beperkte of volledige "
+"onbeschikbaarheid van de service. In het geval van gepland stilleggen is de "
+"provider verplicht de gebruiker, binnen een redelijke termijn, vooraf te "
+"informeren."
 
 #: wllegal/templates/legal/documents/tos.html:367
 msgid ""
 "The Provider agrees not to provide the content of the User's data to third "
 "parties."
 msgstr ""
+"De provider gaat ermee akkoord om de inhoud van de gegevens van de gebruiker "
+"niet te verschaffen aan derde partijen."
 
 #: wllegal/templates/legal/documents/tos.html:371
 msgid ""
@@ -1302,6 +1838,10 @@ msgid ""
 "of the User's data. The User is solely responsible for the content of the "
 "data stored on their Server or the Provider's server."
 msgstr ""
+"De contractuele partijen gaan ermee akkoord dat de provider geen eigendom "
+"verkrijgt van de gegevens van de gebruiker. Uitsluitend de gebruiker is "
+"verantwoordelijk voor de inhoud van de gegevens die zijn opgeslagen op hun "
+"server of de server van de provider."
 
 #: wllegal/templates/legal/documents/tos.html:375
 msgid ""
@@ -1310,10 +1850,15 @@ msgid ""
 "the Service in accordance with the Agreement. The User undertakes to fully "
 "cooperate with the Provider in such cases."
 msgstr ""
+"Door het accepteren van deze bepalingen begrijpt de gebruiker en gaat ermee "
+"akkoord dat de provider het recht heeft, met zijn eigen bronnen, te "
+"monitoren of de gebruiker de gebruiker de service in overeenstemming met de "
+"overeenkomst gebruikt. De gebruiker zorgt er in dergelijke gevallen voor "
+"volledig mee te werken met de provider."
 
 #: wllegal/templates/legal/documents/tos.html:380
 msgid "User’s Rights and Obligations"
-msgstr ""
+msgstr "Rechten en verplichtingen van de gebruiker"
 
 #: wllegal/templates/legal/documents/tos.html:384
 msgid ""
@@ -1322,6 +1867,10 @@ msgid ""
 "modifications to the Service made by them are in compliance with applicable "
 "legal regulations."
 msgstr ""
+"De gebruiker mag de service niet gebruiken in strijd met van toepassing "
+"zijnde wettelijke vereisten. De gebruiker is ook volledig verantwoordelijk "
+"om ervoor te zorgen dat door hen gemaakt aanpassingen aan de service voldoen "
+"aan de van toepassing zijnde wettelijke vereisten."
 
 #: wllegal/templates/legal/documents/tos.html:388
 msgid ""
@@ -1336,6 +1885,18 @@ msgid ""
 "expand the scope of required personal information but emphasizes the "
 "truthfulness, accuracy, and currency of the information provided by the User."
 msgstr ""
+"Teneinde toegang te verkrijgen tot de service kan de provider bepaalde "
+"details ter identificatie en andere informatie van de gebruiker verlangen, "
+"altijd slechts tot de hoogte die wordt gevraagd in het formulier. De meest "
+"van onze gebruikers zijn alleen verplicht een bijnaam op te geven; echter, "
+"als een factuur moet worden uitgegeven zal aanvullende, wettelijk vereiste, "
+"informatie worden gevraagd. De gebruiker is verplicht om altijd naar "
+"waarheid, nauwkeurig en up-to-date informatie te verschaffen, zoals vereist "
+"door de wet. Voor gebruikers die alleen een bijnaam opgeven, betekent dat "
+"niet dat zij verplicht zijn enige aanvullende informatie op te geven. Deze "
+"voorwaarde breidt niet het bereik van de vereiste persoonlijke informatie "
+"uit, maar benadrukt de waarheid, nauwkeurigheid en actualiteit van de door "
+"de gebruiker opgegeven informatie."
 
 #: wllegal/templates/legal/documents/tos.html:392
 msgid ""
@@ -1345,6 +1906,11 @@ msgid ""
 "in cases where the Provider performs system outages for the reasons "
 "mentioned in Section 8.5."
 msgstr ""
+"De gebruiker is verplicht, op verzoek van de provider, om de noodzakelijke "
+"medewerking te verlenen voor het oplossen van falen of aanpassingen maken "
+"aan de service, inclusief de verplichting om beperkingen in het gebruik van "
+"de service te tolereren in gevallen waarin de Provider het systeem stillegt "
+"om redenen die zijn vermeld in sectie 8.5."
 
 #: wllegal/templates/legal/documents/tos.html:396
 msgid ""
@@ -1352,6 +1918,9 @@ msgid ""
 "Service in accordance with this Agreement, and the User is required to "
 "comply with and respect these measures."
 msgstr ""
+"De provider heeft het recht om beveiligingsmaatregelen te implementeren om "
+"de service te beschermen, overeenkomstig deze overeenkomst en de gebruiker "
+"is verplicht om te voldoen aan deze maatregelen en ze te respecteren."
 
 #: wllegal/templates/legal/documents/tos.html:400
 msgid ""
@@ -1359,6 +1928,10 @@ msgid ""
 "terms specified in Section 6 of this Agreement, ensuring that they do not "
 "jeopardize the Service's functionality."
 msgstr ""
+"De gebruiker is verplicht de service te gebruiken overeenkomstig de "
+"bepalingen van de licentie, gespecificeerd in sectie 6 van deze "
+"overeenkomst, ervoor zorgende dat ze niet de functionaliteit van de service "
+"in gevaar brengen."
 
 #: wllegal/templates/legal/documents/tos.html:404
 msgid ""
@@ -1366,6 +1939,9 @@ msgid ""
 "right to request Support Services from the Provider, as specified in the "
 "Price List."
 msgstr ""
+"Overeenkomstig de variant van de service die is vermeld in de prijslijst, "
+"heeft de gebruiker het recht om ondersteuning voor de services te vragen van "
+"de provider, zoals gespecificeerd in de prijslijst."
 
 #: wllegal/templates/legal/documents/tos.html:408
 msgid ""
@@ -1375,6 +1951,12 @@ msgid ""
 "reasonable extent to minimize the risk of third parties misusing access "
 "credentials to the User's account."
 msgstr ""
+"De gebruiker is verplicht toegangsgegevens voor de service vertrouwelijk te "
+"houden en zou niet deel moeten nemen aan acties die de veiligheid van de "
+"service in gevaar zouden kunnen brengen. Van de gebruiker wordt ook geëist "
+"dat ze hun technische apparatuur beveiligen tot een redelijk niveau, om het "
+"risico te minimaliseren dat derde partijen toegangsgegevens voor het account "
+"van de gebruiker misbruiken."
 
 #: wllegal/templates/legal/documents/tos.html:412
 msgid ""
@@ -1386,10 +1968,18 @@ msgid ""
 "be exposed to third parties due to a leak of access information, they are "
 "required to report this to the Provider."
 msgstr ""
+"Als de gebruiker zich niet houdt aan een van de verplichtingen die in deze "
+"sectie zijn gespecificeerd, draagt de provider geen verantwoordelijkheid "
+"voor enige schade die bij de gebruiker optreedt, en de gebruiker is zelf "
+"verantwoordelijk voor schade die optreedt bij de provider of derde partijen. "
+"Niet voldoen aan deze verplichtingen geeft de provider ook het recht om de "
+"overeenkomst te beëindigen. Als de gebruiker zich ervan bewust wordt dat de "
+"service zou kunnen zijn blootgesteld aan derde partijen wegens het lekken "
+"van toegangsinformatie, is men verplicht dat te melden bij de provider."
 
 #: wllegal/templates/legal/documents/tos.html:416
 msgid "Prohibited Conduct"
-msgstr ""
+msgstr "Niet toegestaan gedrag"
 
 #: wllegal/templates/legal/documents/tos.html:420
 msgid ""
@@ -1403,48 +1993,75 @@ msgid ""
 "another User’s account or the Provider’s servers. Violation of these "
 "obligations constitutes a material breach of the Agreement."
 msgstr ""
+"Het is de gebruiker verboden enige inhoud te uploaden, verzenden, of "
+"anderszins op te slaan in het portaal van de service die softwarevirussen of "
+"andere bestanden en programma's zouden kunnen bevatten die de "
+"functionaliteit van de apparatuur van de provider of de gebruiker zouden "
+"kunnen vernielen, beschadigen of beperken. De gebruiker is ook niet "
+"geautoriseerd om inhoud te uploaden naar het portaal van de service dat "
+"illegaal is om te bezitten of te distribueren, inbreuk maakt op "
+"auteursrechten van derde partijen, deel uitmaakt van criminele activiteiten, "
+"spam verspreiden via de service, of pogingen doen om toegang te verkrijgen "
+"tot het gebruikersaccount van een ander of de servers van de provider. "
+"Overtreding van deze verplichting levert een ernstige inbreuk op de "
+"overeenkomst op."
 
 #: wllegal/templates/legal/documents/tos.html:424
 msgid ""
 "The User particularly agrees to refrain from the following activities while "
 "using the Services, especially through the Services:"
 msgstr ""
+"De gebruiker gaat er in het bijzonder mee akkoord om zich te onthouden van "
+"de volgende activiteiten tijdens het gebruiken van de services, speciaal via "
+"de services:"
 
 #: wllegal/templates/legal/documents/tos.html:428
 msgid ""
 "Disseminating or offering any content that violates applicable laws at the "
 "national, EU, or international level;"
 msgstr ""
+"Opdelen of aanbieden van enige inhoud die in strijd is met van toepassing "
+"zijnde wetgeving op nationaal, EU of internationaal niveau;"
 
 #: wllegal/templates/legal/documents/tos.html:432
 msgid ""
 "Disseminating or offering any illegally obtained content or content whose "
 "dissemination would be illegal;"
 msgstr ""
+"Opdelen of aanbieden van enige illegaal verkregen inhoud of inhoud waarvan "
+"het opdelen illegaal zou zijn;"
 
 #: wllegal/templates/legal/documents/tos.html:436
 msgid ""
 "Disseminating or offering any pornographic, obscene, or otherwise vulgar "
 "content;"
 msgstr ""
+"Opdelen of aanbieden van enige pornografische, obscene of anderszins "
+"vulgaire inhoud;"
 
 #: wllegal/templates/legal/documents/tos.html:440
 msgid ""
 "Engaging in any services or activities that are contrary to applicable laws "
 "at the national, EU, or international level;"
 msgstr ""
+"Deelnemen aan enige services of activiteiten die tegengesteld zijn aan de "
+"van toepassing zijnde wetgeving op nationaal, EU of internationaal niveau;"
 
 #: wllegal/templates/legal/documents/tos.html:444
 msgid ""
 "Engaging in activities that bypass intellectual property protection elements "
 "(such as cracks, warez, etc.);"
 msgstr ""
+"Deelnemen aan activiteiten die elementen van het beschermen van "
+"intellectuele eigendomsrechten omzeilen (zoals cracks, warez, etc.);"
 
 #: wllegal/templates/legal/documents/tos.html:448
 msgid ""
 "Sending unsolicited commercial messages and other spam or other illegal "
 "harassment of third parties;"
 msgstr ""
+"Verzenden van niet gewenste commerciële berichten en andere spam of ander "
+"illegaal lastigvallen van derde partijen;"
 
 #: wllegal/templates/legal/documents/tos.html:452
 msgid ""
@@ -1453,81 +2070,111 @@ msgid ""
 "impolite, or otherwise inappropriate content that unlawfully or illegally "
 "infringes on the personal rights of third parties;"
 msgstr ""
+"Publiceren of opdelen van enige inhoud die een inbreuk zouden kunnen zijn op "
+"rechten van derde partijen, inclusief aanvallen op dergelijke personen, of "
+"enige offensieve, onbeleefde, of anderszins ongewenste inhoud die "
+"onwettelijk of illegaal inbreuk maakt op de persoonlijke rechten van derde "
+"partijen;"
 
 #: wllegal/templates/legal/documents/tos.html:456
 msgid ""
 "Disseminating or offering any content that infringes on third-party "
 "intellectual or industrial property rights;"
 msgstr ""
+"Opdelen of aanbieden van enige inhoud die inbreuk maakt op intellectuele of "
+"industriële eigendomsrechten van derde partijen;"
 
 #: wllegal/templates/legal/documents/tos.html:460
 msgid ""
 "Operating or disseminating any tools that may be misused to breach network, "
 "device, or service security;"
 msgstr ""
+"Programma's te gebruiken of op te delen die kunnen worden misbruikt om in te "
+"breken op de beveiliging van het netwerk, apparaat of beveiliging van de "
+"service;"
 
 #: wllegal/templates/legal/documents/tos.html:464
 msgid "Overburdening the Provider's or third-party servers;"
-msgstr ""
+msgstr "Overbelasten van de servers van de provider of derde partijen;"
 
 #: wllegal/templates/legal/documents/tos.html:468
 msgid ""
 "Engaging in any activities that could harm the Provider, its reputation, or "
 "its assets;"
 msgstr ""
+"Deelnemen aan elke activiteit die de provider, zijn reputatie of zijn "
+"eigendommen zouden kunnen schaden;"
 
 #: wllegal/templates/legal/documents/tos.html:472
 msgid ""
 "Using any means, servers, devices, or elements provided by the Provider in a "
 "manner not expressly agreed upon in these Terms or the Agreement;"
 msgstr ""
+"Gebruiken van enig materiaal, servers, apparaten of elementen, verschaft "
+"door de provider, op ene manier waarmee niet uitdrukkelijk is ingestemd in "
+"de bepalingen van de overeenkomst;"
 
 #: wllegal/templates/legal/documents/tos.html:476
 msgid ""
 "Conducting activities that would disclose any content to third parties that:"
 msgstr ""
+"Uitvoeren van activiteiten die enige inhoud zouden kunnen onthullen aan "
+"derde partijen die:"
 
 #: wllegal/templates/legal/documents/tos.html:480
 msgid "Contains prohibited applications and scripts;"
-msgstr ""
+msgstr "Verboden toepassingen en scripts bevatten;"
 
 #: wllegal/templates/legal/documents/tos.html:484
 msgid "Overloads database systems or causes malfunction of servers;"
 msgstr ""
+"Databasesystemen overbelasten of ervoor zorgen dat servers niet goed "
+"functioneren;"
 
 #: wllegal/templates/legal/documents/tos.html:488
 msgid ""
 "Overburdens the infrastructure, connection lines, or hardware of the "
 "Provider or third parties;"
 msgstr ""
+"De infrastructuur, verbindingslijnen of hardware van de provider of derde "
+"partijen overbelasten;"
 
 #: wllegal/templates/legal/documents/tos.html:492
 msgid ""
 "Involves music, sound, image, film, or similar files for which the User "
 "lacks distribution rights;"
 msgstr ""
+"Muziek, geluid, afbeelding, film of soortgelijke bestanden betreft waarvoor "
+"de gebruiker de rechten voor distributie niet heeft;"
 
 #: wllegal/templates/legal/documents/tos.html:496
 msgid ""
 "Threatens the privacy or security of other Internet users or the security of "
 "computer systems (e.g., through viruses, password generators, etc.);"
 msgstr ""
+"De privacy of veiligheid van andere internetgebruikers bedreigt of de "
+"veiligheid van computersystemen "
+"(bijv. met virussen, wachtwoordgenerators, etc.);"
 
 #: wllegal/templates/legal/documents/tos.html:500
 msgid ""
 "Is part of the provided Service without written permission from the Provider "
 "to share it with third parties;"
 msgstr ""
+"Deel uitmaakt van de verschafte service zonder schriftelijke toestemming van "
+"de provider om die te mogen delen met derde partijen;"
 
 #: wllegal/templates/legal/documents/tos.html:504
 msgid ""
 "Gives the impression that the User acts on behalf of the Provider without "
 "authorization;"
 msgstr ""
+"De indruk wekt dat de gebruiker optreedt ten behoeve van de provider, zonder "
+"autorisatie;"
 
 #: wllegal/templates/legal/documents/tos.html:508
 msgid "May harm any third-party rights."
-msgstr ""
+msgstr "Enig recht van derde partijen zou kunnen schaden."
 
 #: wllegal/templates/legal/documents/tos.html:512
 msgid ""
@@ -1537,6 +2184,12 @@ msgid ""
 "public morality, ethical principles, or Internet usage rules, or is aiding "
 "in or committing criminal activities."
 msgstr ""
+"De provider kan, zonder voorafgaande notificatie, het verschaffen van de "
+"service onderbreken, beperken of opschorten als die in redelijkheid van "
+"mening is dat de gebruiker de bepalingen, de overeenkomst overtreedt, of de "
+"service gebruikt tegengesteld aan van toepassing zijnde wetten, publieke "
+"moraal, ethische principes, of regels voor het gebruiken van internet, of "
+"behulpzaam is bij het plegen van criminele activiteiten."
 
 #: wllegal/templates/legal/documents/tos.html:516
 msgid ""
@@ -1546,6 +2199,12 @@ msgid ""
 "invoicing) or excessive usage, particularly through automated software and "
 "bots that overload the Provider’s servers or other technical facilities."
 msgstr ""
+"De provider kan ook, zonder voorafgaande notificatie, het verschaffen van de "
+"service onderbreken, beperken of opschorten als de services worden misbruikt "
+"voor niet geautoriseerde inmenging in de rechten van de provider "
+"(bijv. valse identiteit, frauduleuze facturen) of excessief gebruik, in het "
+"bijzonder door geautomatiseerde software en bots die de servers van de "
+"provider of andere technische faciliteiten overbelasten."
 
 #: wllegal/templates/legal/documents/tos.html:520
 msgid ""
@@ -1554,6 +2213,11 @@ msgid ""
 "responsible for any damages resulting from the interruption and cannot claim "
 "any compensation from the Provider for such damages."
 msgstr ""
+"De gebruiker gaat er nadrukkelijk mee akkoord dat, in het geval van een "
+"gerechtvaardigde onderbreking, beperking of opschorting van services door de "
+"provider, de gebruiker zelf volledig verantwoordelijk is voor elke schade "
+"die voortvloeit uit de onderbreking en kan geen compensatie van de provider "
+"verzoeken voor dergelijke schades."
 
 #: wllegal/templates/legal/documents/tos.html:524
 msgid ""
@@ -1563,6 +2227,12 @@ msgid ""
 "or ensuring the installation and execution of tools and scripts on the "
 "virtual server that verify and check the software resources used."
 msgstr ""
+"De gebruiker gaat ermee akkoord, om de gebruikte softwareoplossing of om het "
+"licenseren van de toegewezen softwarebronnen en met de services geüploade "
+"inhoud na te gaan, om volledige medewerking te verlenen aan de provider. Dit "
+"is inclusief het inschakelen van, of mogelijk maken van, het installeren en "
+"uitvoeren van programma's en scripts op de virtuele server die de gebruikte "
+"softwarebronnen verifiëren en controleren."
 
 #: wllegal/templates/legal/documents/tos.html:528
 msgid ""
@@ -1576,10 +2246,21 @@ msgid ""
 "does not affect the Provider’s right to claim damages in addition to the "
 "penalty."
 msgstr ""
+"Ge gebruiker gaat er nadrukkelijk mee akkoord verantwoordelijk te zijn voor "
+"enige schade die is veroorzaakt bij de provider, diens cliënten, partners of "
+"derde partijen. Deze verantwoordelijkheid omvat in het bijzonder de "
+"consequenties van wettelijke acties die een overtreding zijn van de "
+"voorwaarden van Artikel 10 van deze bepalingen. De gebruiker gaat er ook mee "
+"akkoord dat de provider de instellingen van de service kan aanpassen om "
+"misbruik te voorkomen. In het geval van inbreuk door de gebruiker, zal de "
+"niet gebruikte serviceperiode niet worden teruggegeven en zal automatisch "
+"worden beschouwd als een eenmalige contractuele straf. Deze straf heeft geen "
+"invloed op het recht van de provider om schade te claimen in aanvulling op "
+"de straf."
 
 #: wllegal/templates/legal/documents/tos.html:533
 msgid "Termination of the Agreement"
-msgstr ""
+msgstr "Beëindiging van de overeenkomst"
 
 #: wllegal/templates/legal/documents/tos.html:537
 msgid ""
@@ -1588,6 +2269,10 @@ msgid ""
 "(either the Provider or the User) with liquidation, termination of the "
 "Agreement, or by mutual agreement of the Parties."
 msgstr ""
+"De contractuele relatie kan worden beëindigd door terugtrekken uit de "
+"overeenkomst, vervallen van de overeengekomen bepalingen, opheffen van een "
+"wettelijke entiteit (ofwel de provider of de gebruiker) door liquidatie, "
+"beëindiging van de overeenkomst of met instemming van beide partijen."
 
 #: wllegal/templates/legal/documents/tos.html:541
 msgid ""
@@ -1595,12 +2280,17 @@ msgid ""
 "reason. The notice period is three months, starting from the first day of "
 "the calendar month following the delivery of the notice to the User."
 msgstr ""
+"De provider kan de overeenkomst op elk moment beëindigen, zonder opgaaf van "
+"redenen. De opzegtermijn is drie maanden, beginnend op de eerste dag van de "
+"kalendermaand die volgt op het afleveren van de notificatie aan de gebruiker."
 
 #: wllegal/templates/legal/documents/tos.html:545
 msgid ""
 "The User may terminate the Agreement under the conditions specified in "
 "Section 8.1 of these Terms."
 msgstr ""
+"De gebruiker kan de overeenkomst beëindigen onder de voorwaarden die zijn "
+"gespecificeerd in sectie 8.1 van deze bepalingen."
 
 #: wllegal/templates/legal/documents/tos.html:549
 msgid ""
@@ -1610,6 +2300,12 @@ msgid ""
 "Agreement. The withdrawal becomes effective the day after the User receives "
 "the notice of withdrawal."
 msgstr ""
+"Als de gebruiker in grove mate of herhaaldelijk niet voldoet aan zijn "
+"verplichtingen onder de bepalingen van of de overeenkomst en de inbreuk net "
+"binnen 14 dagen vanaf het afleveren van ene notificatie over de inbreuk "
+"herstelt, kan de provider zich terugtrekken uit de overeenkomst. Het "
+"terugtrekken wordt effectief op de dag nadat de gebruiker de notificatie van "
+"het terugtrekken ontvangt."
 
 #: wllegal/templates/legal/documents/tos.html:553
 msgid ""
@@ -1618,6 +2314,11 @@ msgid ""
 "withdraw from the Agreement and terminate the provision of the Service as "
 "soon as such a breach is discovered."
 msgstr ""
+"Als de gebruiker op een bijzonder grove manier inbreuk pleegt op zijn "
+"verplichtingen onder deze bepalingen of de overeenkomst, heeft de provider "
+"het recht om zich onmiddellijk terug te trekken uit de overeenkomst en het "
+"verschaffen van de service te beëindigen, zodra een dergelijke inbreuk wordt "
+"vastgesteld."
 
 #: wllegal/templates/legal/documents/tos.html:557
 msgid ""
@@ -1625,6 +2326,10 @@ msgid ""
 "in a particularly serious manner, the User is entitled to immediately "
 "withdraw from the Agreement as soon as such a breach is discovered."
 msgstr ""
+"Als de provider op een bijzonder grove manier inbreuk pleegt op zijn "
+"verplichtingen onder deze bepalingen of de overeenkomst, heeft de gebruiker "
+"het recht om zich onmiddellijk terug te trekken uit de overeenkomst, zodra "
+"de inbreuk wordt vastgesteld."
 
 #: wllegal/templates/legal/documents/tos.html:561
 msgid ""
@@ -1634,10 +2339,16 @@ msgid ""
 "including the provisions of Sections 1912 (2), 1923, 1969, 1977, 1978, 1979, "
 "2001, 2002, 2003, 2106, 2107, 2110, and 2111 of the Czech Civil Code."
 msgstr ""
+"Geen partij kan de overeenkomst beëindigen of op andere wijze eindigen, "
+"behalve in de gevallen die expliciet zijn vermeld in deze sectie. De "
+"partijen sluiten het recht uit, tot het maximaal mogelijke bereik, van elke "
+"partij om deze overeenkomst te beëindigen, inclusief de voorwaarden van "
+"secties 1912 (2), 1923, 1969, 1977, 1978, 1979, 2001, 2002, 2003, 2106, "
+"2107, 2110 en 2111 van het Tsjechische Burgerlijke Wetboek."
 
 #: wllegal/templates/legal/documents/tos.html:565
 msgid "Limitation of Liability"
-msgstr ""
+msgstr "Beperken van aansprakelijkheid"
 
 #: wllegal/templates/legal/documents/tos.html:569
 msgid ""
@@ -1648,10 +2359,17 @@ msgid ""
 "other intangible losses (even if the Provider has been advised of the "
 "possibility of such damages), resulting from:"
 msgstr ""
+"De provider is niet aansprakelijk voor indirecte schade die voortkomt uit "
+"het verschaffen van de services, zoals verlies aan winst, verlies aan "
+"opbrengsten, gegevensverlies, financiële schades, of enige indirecte, "
+"speciale, of gevolgschades, inclusief buitengewone of repressieve schades, "
+"zoals, maar niet beperkt tot, schades voor andere immateriële verliezen ("
+"zelfs als de provider in kennis is gesteld van de mogelijkheid van "
+"dergelijke schades), die voortkomen uit:"
 
 #: wllegal/templates/legal/documents/tos.html:574
 msgid "Use or inability to use the Service;"
-msgstr ""
+msgstr "Gebruiken van of niet kunnen gebruiken van de service;"
 
 #: wllegal/templates/legal/documents/tos.html:577
 msgid ""
@@ -1659,6 +2377,10 @@ msgid ""
 "data, information, or services purchased or obtained or messages received, "
 "or transactions entered into through or from the Service;"
 msgstr ""
+"De kosten voor vervangende goederen en services die voortkomen uit enig "
+"goed, gegevens, informatie, of aangekochte services of verkregen of "
+"ontvangen berichten, of transacties die zijn ingevoerd in of vanuit de "
+"service;"
 
 #: wllegal/templates/legal/documents/tos.html:580
 msgid ""
@@ -1759,6 +2481,9 @@ msgid ""
 "business entities and that they are entering into this Agreement within the "
 "scope of their business activities."
 msgstr ""
+"Teneinde twijfel te voorkomen bevestigen partijen expliciet dat ze zakelijke "
+"entiteiten zijn en dat zij deze overeenkomst afsluiten binnen het bereik van "
+"hun zakelijke activiteiten."
 
 #: wllegal/templates/legal/documents/tos.html:636
 msgid ""
