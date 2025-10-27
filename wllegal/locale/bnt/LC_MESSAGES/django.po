@@ -1,0 +1,1750 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Hosted Weblate\n"
+"Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
+"POT-Creation-Date: 2025-06-18 07:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: bnt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: wllegal/templates/legal/documents/contracts.html:3
+msgid "Subcontractors in Accordance with Art. 28 GDPR"
+msgstr ""
+
+#: wllegal/templates/legal/documents/contracts.html:11
+msgid "Status as of May 2024."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:5
+msgid ""
+"The Privacy Policy document is legally-binding in English, translations are "
+"provided for your convenience."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:6
+#: wllegal/templates/legal/documents/tos.html:6
+msgid "View English version"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:12
+#, python-format
+msgid ""
+"This Privacy Policy, hereinafter referred to as \"<strong>Policy</strong>\", "
+"supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
+"Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:17
+#: wllegal/templates/legal/documents/tos.html:16
+msgid "Introductory Provisions"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:21
+msgid ""
+"This Policy has been issued by Weblate s.r.o., ID No.: 21668027, with "
+"registered office at Nábřežní 694, Cvikov II, 471 54 Cvikov, registered in "
+"the Commercial Register kept by the Regional Court in Ústí nad Labem, file "
+"No. C 52324, i.e. the \"<strong>Provider</strong>\"."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:25
+msgid ""
+"This Policy describes how the Provider handles the personal data of Users as "
+"data subjects - private individuals when accessing and subsequently using "
+"the Services, Products, Support Services, as well as when using the Website "
+"and other possible services and related activities."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:29
+msgid ""
+"This Policy also uses certain terms or definitions which have been defined "
+"in Article 1 of the Terms and which have the same meaning as set out in the "
+"Terms."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:33
+msgid ""
+"In processing personal data, the Provider complies with Regulation (EU) "
+"2016/679 of the European Parliament and of the Council, the General Data "
+"Protection Regulation, also known as the GDPR (we will hereinafter use the "
+"abbreviation \"<strong>GDPR</strong>\"), Act No. 110/2019 Coll., on the "
+"processing of personal data, as well as Directive 2002/58/EC of the European "
+"Parliament and of the Council of 12 July 2002 concerning the processing of "
+"personal data and the protection of privacy in the electronic communications "
+"sector (abbreviated as the \"<strong>ePrivacy Directive</strong>\")."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:37
+msgid ""
+"The actual processing of Users' personal data is always carried out only for "
+"the purposes and under the conditions defined in more detail in this Policy "
+"and begins at the moment when the User visits the Website, when the User "
+"registers for the Provider's newsletter and/or when the Provider and the "
+"User conclude the Contract, whichever is the earliest."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:41
+msgid ""
+"The processing is then carried out either directly by the Provider and/or by "
+"third parties within the meaning of Article 3 of this Policy who have been "
+"authorised by the Provider to process personal data in accordance with this "
+"Policy."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:45
+msgid ""
+"Unless expressly stated otherwise in this Policy, the Provider acts as "
+"a <strong>data controller</strong> and Users who are natural persons act as "
+"data subjects as these roles are defined in the GDPR."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:50
+msgid "Scope, Purposes, and Duration of Processing"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:54
+msgid ""
+"The Provider processes the User's personal data for the following purposes:"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:59
+msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:62
+msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:65
+msgid ""
+"fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
+"GDPR,"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:68
+msgid ""
+"the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, "
+"and in selected cases also"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:71
+msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:76
+msgid ""
+"The scope of the User's personal data processed by the Provider includes the "
+"following:"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:81
+msgid "first and last name,"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:84
+msgid "User's address (delivery and billing),"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:87
+msgid "Company ID and Tax ID,"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:90
+msgid ""
+"nickname(s) (including any voluntarily linked platforms such as Liberapay, "
+"GitHub, X, and others),"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:93
+msgid "User's avatar,"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:96
+msgid "email address(es),"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:99
+msgid ""
+"identifiers for Bitbucket, Facebook, Google, LinkedIn, GitHub, GitLab, "
+"openSUSE, and Ubuntu in the event that accounts with these providers are "
+"linked to the User account,"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:102
+msgid "specifications of the Service and Product used by the User,"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:105
+msgid ""
+"information about the number of team members of the User and their roles,"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:108
+msgid ""
+"all other user settings of the User account (including the so-called "
+"Profile), i.e., settings for languages, notifications, if they can identify "
+"the User directly or indirectly,"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:111
+msgid "bank account number and possibly other payment details of the User,"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:114
+msgid "cryptocurrency wallet address or addresses,"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:117
+msgid ""
+"other personal data contained in messages sent by the User to the Provider "
+"(especially the subject and other content of the message),"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:120
+msgid ""
+"other personal data contained in communications with the Provider's support,"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:123
+msgid "system data, logs, and session logs including the User's IP address,"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:128
+msgid ""
+"where the individual categories of personal data listed above will continue "
+"to be collectively referred to as \"<strong>Personal Data</strong>\"."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:132
+msgid ""
+"In certain cases, the Provider <strong>may also be a processor of personal "
+"data</strong>, namely when personal data of third parties is provided to it "
+"by the User for their own purposes (e.g., in the case of adding individual "
+"team members, donating a project to the Provider on behalf of another "
+"person, etc.). The processing of selected Personal Data of third parties "
+"made accessible by the User occurs in this case at the User's direction, "
+"under the conditions and based on a separate data processing agreement (so-"
+"called processing agreement) concluded between the Provider and the User."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:136
+msgid ""
+"The Provider processes Personal Data until all obligations arising from the "
+"Contract are fulfilled. At the moment of account closure by the Provider and/"
+"or account cancellation by the User, all Personal Data and other data "
+"entered into the Service will be deleted, except for selected Personal Data "
+"mentioned below; the Provider therefore <strong>strongly recommends backing "
+"up</strong> all data entered into the Service before cancelling the User "
+"account and is not responsible for their loss after the User account is "
+"closed, even if it is rightfully closed by the Provider. Personal Data "
+"indicated on invoices is retained by the Provider for at least the statutory "
+"retention periods arising from the law, i.e., for a period of 10 years. In "
+"cases where it is necessary for the defence of the Provider's claims and/or "
+"for defence against claims from third parties (including any proceedings "
+"initiated by public authorities), the Provider may also retain some other "
+"Personal Data, but always for a maximum period equal to the limitation "
+"period for individual claims and/or until the final conclusion of selected "
+"proceedings. The specific duration cannot be precisely defined and varies "
+"according to the type of claim, their limitation periods, and the pace of "
+"selected courts or public authorities. Data that the Provider processes only "
+"as a processor of the User's data is processed for the period specified by "
+"the User's instructions unless the Provider has another legal basis for "
+"processing personal data as a controller under Article 2.1 of this Policy."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:140
+#, python-format
+msgid ""
+"The Provider may also process selected Personal Data of the User, "
+"particularly email, first name, last name, and any other personal data (if "
+"provided for these purposes) based on the <strong>voluntary and informed</"
+"strong> consent of the User. Processing occurs for a period of <strong>2 "
+"years</strong> and/or until the consent is revoked. The use of the Service "
+"or Product (including Support Services) is <strong>never</strong> "
+"conditioned on the provision of consent. Consent is, however, typically "
+"required for sending newsletters to data subjects who are not yet Users, or "
+"for providing selected bonuses or bonus materials not linked to other "
+"services of the Provider and/or for the disclosure of the User's Personal "
+"Data in connection with a donation made to the Provider. Revocation can be "
+"made at any time directly in the User account interface and, in the case of "
+"consent granted otherwise, by sending a request to <a href=\"mailto:"
+"%(address)s\">%(address)s</a>."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:144
+msgid ""
+"Once the reason for processing Personal Data has passed, the Provider will "
+"destroy the Personal Data. This does not exclude the further processing of "
+"selected Personal Data based on a different legal reason if this legal "
+"reason in favour of the Provider continues to exist."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:149
+msgid "Recipients and Processors of Personal Data"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:153
+msgid ""
+"In addition to the Provider, selected third parties also receive and process "
+"personal data based on this Policy, whose involvement is necessary for the "
+"proper processing of Personal Data for the purposes defined in Article 2.1 "
+"of this Policy, specifically:"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:158
+msgid ""
+"hosting provider (including web hosting and mail hosting services), "
+"currently this is <strong>Hetzner Online GmbH</strong>;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:161
+msgid ""
+"operators of the payment gateway <strong>ThePay.cz, s.r.o.</strong> and "
+"possibly operators of other services used in connection with the payment of "
+"any payments related to billing;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:164
+msgid ""
+"accounting, legal, and tax advisors of the Provider and possibly other "
+"persons bound by confidentiality under the law;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:167
+msgid ""
+"C-level and other managerial employees employed by or otherwise "
+"collaborating with the Provider;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:170
+msgid ""
+"selected contractors of the Provider who are involved in providing services "
+"to Users and who are also bound by confidentiality;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:173
+msgid ""
+"any other persons whose involvement is necessary for the proper provision of "
+"the Service, Products, Support Services, and/or to ensure any other "
+"activities related to the above;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:178
+msgid ""
+"the persons mentioned in this Article 3.1 are collectively referred to in "
+"this Policy as \"<strong>Processors</strong>\"."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:182
+msgid ""
+"The User agrees that the Provider may transfer personal data to the "
+"aforementioned Processors if this is necessary to fulfil the above purposes "
+"of data processing. The Processors that the Provider engages for processing "
+"personal data must meet high standards of protection and will always handle "
+"the data within the limits of the GDPR and this Policy."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:186
+msgid ""
+"The Personal Data might be disclosed to third parties in limited "
+"circumstances when the Controller has a good faith belief it is required by "
+"law, such as under a subpoena or other judicial or administrative order. In "
+"case the Controller is required by law to disclose the Personal Data, an "
+"attempt will be made to provide the User with prior notice by e-mail (unless "
+"the Controller is prohibited, or it would be futile) that a request for the "
+"Personal Data has been made to allow the User to object to the disclosure."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:190
+msgid ""
+"The processing of Personal Data by selected Processors may be governed by "
+"their own service provision conditions."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:194
+msgid ""
+"Personal Data may also be transferred if the Provider is obliged to do so by "
+"law, as a result of a decision by a public authority, or in other cases "
+"where the transfer must occur in compliance with the obligations of the "
+"Provider arising from generally binding regulations."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:199
+msgid "Common Provisions on Processing"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:203
+msgid ""
+"The Provider will always make every effort to prevent unauthorized "
+"processing of personal data by other persons; however, it is not liable to "
+"the User or other data subjects for any damages caused by unauthorized "
+"processing of personal data by any third party, even if those third parties "
+"are Processors."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:207
+msgid ""
+"Emails sent to Users in connection with the provision of the Service, "
+"Product, and/or Support Services are not considered unsolicited commercial "
+"communications under Act No. 40/1995 Coll. on Advertising and Act No. "
+"480/2004 Coll. on Certain Information Society Services, if they directly "
+"relate to these Services, Products, and/or Support Services."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:211
+msgid ""
+"The User may, however, explicitly and <strong>voluntarily consent</strong>, "
+"within the meaning of Section 7(2) of Act No. 480/2004 Coll. on Certain "
+"Information Society Services and amending certain acts, to receive broader "
+"commercial communications (e.g., in the case of indirect marketing) from the "
+"Provider at the User's electronic address. This consent can, of course, be "
+"revoked at any time by clicking on the link found in the footer of such "
+"commercial communication."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:215
+msgid ""
+"In the event that the Provider and/or Processors learn of a security risk "
+"related to Personal Data that affects the User, they will notify the User of "
+"this fact without undue delay."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:219
+msgid ""
+"The Provider will provide the User with assistance and legal help in seeking "
+"compensation from responsible Processors in the event of a data breach or "
+"other incident leading to loss. However, the Provider is not responsible for "
+"the improper actions of the Processors."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:223
+msgid ""
+"The User hereby confirms that the provided Personal Data is true, accurate, "
+"and relates solely to the User, or that they have provided data the use of "
+"which does not violate the rights of third parties. The User is obliged to "
+"always inform the Provider of any changes to their Personal Data so that "
+"only current and complete data is processed. The same obligations apply to "
+"the User in the case where they provide the Provider with Personal Data of "
+"data subjects other than this User."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:227
+msgid ""
+"Personal Data will be processed electronically, including the use of "
+"automated processing methods. However, the User or other data subjects will "
+"never be subject to individual automated decision-making (including "
+"profiling) within the meaning of Article 22 of the GDPR."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:231
+msgid ""
+"Anonymized personal data (which are no longer considered personal data under "
+"the GDPR) may be processed even after all legal grounds for processing the "
+"User's Personal Data have ceased."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:236
+msgid "User Rights in Relation to Personal Data"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:240
+#, python-format
+msgid ""
+"The User can exercise their rights arising from the GDPR at any time by "
+"sending an email to <a href=\"mailto:%(address)s\">%(address)s</a>, as well "
+"as through their User Account, since the implementation of most of the "
+"rights listed below (especially access to all processed Personal Data, their "
+"correction, restriction, or deletion) can be automated through this user "
+"account."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:244
+msgid ""
+"The Provider will make every effort to address requests regarding the User's "
+"personal data as soon as possible, but no later than within <strong>30 days</"
+"strong>, unless due to the complexity of the matter it is necessary for the "
+"Provider to extend this period. The User's rights include:"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:249
+msgid ""
+"an explanation of whether and what personal data is being processed and, if "
+"applicable, requesting the Provider to disclose it;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:252
+msgid ""
+"correction of personal data if there is concern that some of it is "
+"inaccurate or missing;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:255
+msgid ""
+"restriction of processing if there is concern that the Provider is "
+"processing more data than necessary;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:258
+msgid ""
+"deletion of personal data based on the consent of the Provider, provided "
+"that there is no other legal reason for further processing of personal data;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:261
+msgid ""
+"issuance of a copy of the personal data processed by automated means based "
+"on the consent of the Provider or in connection with fulfilling the "
+"Provider's contractual obligations, in a machine-readable format;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:264
+msgid ""
+"temporary freezing of data processing operations for the purposes of the "
+"legitimate interest of the Provider;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:267
+#, python-format
+msgid ""
+"filing a complaint directly with the Office for Personal Data Protection (<a "
+"href=\"%(url)s\">%(url)s</a>) or another relevant national data protection "
+"authority if the User believes that the Provider is processing personal data "
+"in violation of this Policy or legal regulations."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:272
+#: wllegal/templates/legal/documents/tos.html:620
+msgid "Final Provisions"
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:276
+msgid ""
+"The Provider is entitled to unilaterally change the Policy. The new wording "
+"of the Policy becomes effective upon publication on the Website. The User, "
+"who has a contractual relationship with the Provider governed by this Policy "
+"at the time of the change, will receive a notification of the change in the "
+"Policy displayed within the Service, or upon the next first login to their "
+"User Account."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:280
+msgid ""
+"All legal relationships between the Provider and the User arising from this "
+"Policy are governed by the valid laws of the Czech Republic. Any disputes "
+"arising between the Provider and the User from or in connection with this "
+"Policy will be resolved before the competent civil court in the Czech "
+"Republic."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:284
+msgid ""
+"If the relationship established by the Contract contains an international "
+"(foreign) element, the choice of law according to the previous sentence does "
+"not deprive the User – Consumer of the protection provided by provisions of "
+"the legal order that cannot be contractually deviated from and which would "
+"otherwise apply in the absence of a choice of law in accordance with the "
+"provisions of Article 6(1) of the Regulation of the European Parliament and "
+"Council (EC) No. 593/2008 of June 17, 2008, on the law applicable to "
+"contractual obligations (Rome I)."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:288
+msgid ""
+"If any provision of the Policy is invalid or ineffective, or becomes so, the "
+"provision with meaning most closely approximates the invalid provision will "
+"replace the invalid provisions. The invalidity or ineffectiveness of one "
+"provision does not affect the validity of the other provisions of this "
+"Policy."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:292
+msgid "This Policy become effective upon their publication on the Website."
+msgstr ""
+
+#: wllegal/templates/legal/documents/privacy.html:296
+msgid "In Prague on November 1, 2024."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:5
+msgid ""
+"We process personal data (such as your e-mail address); those will be "
+"discarded from our database if you remove your account."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:8
+msgid ""
+"Your translations are made under the license which is specified by each "
+"translation."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:11
+msgid ""
+"Your name and e-mail address is used in VCS commits, it will stay there "
+"indefinitely."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:12
+msgid ""
+"Chosen name is up to you and the e-mail address used for commits can be "
+"masked by Weblate system to protect your privacy."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:15
+msgid "We use cookies to deliver our services."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:16
+msgid "We don’t use any third-party cookies."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:5
+msgid ""
+"The General Terms and Conditions document is legally-binding in English, "
+"translations are provided for your convenience."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:11
+msgid ""
+"The rights and obligations of the User and the Provider resulting from the "
+"use of the Service are governed by these General Terms and Conditions."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:20
+msgid ""
+"These general terms and conditions are an integral part of the service "
+"agreement concluded between the User and the Provider (hereinafter referred "
+"to as the \"<strong>Agreement</strong>\") and define the binding rules and "
+"conditions for the provision of Services and Products and the use of "
+"Services and Products. These general terms and conditions govern the "
+"contractual relationship between the service provider and the User."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:24
+msgid ""
+"The definitions below have the following meanings for the purposes of these "
+"general terms and conditions:"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:30
+msgid "Civil Code"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:33
+msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:37
+msgid "Contracting Parties"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:40
+msgid "jointly refers to the User and the Provider;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:44
+msgid "Cookies"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:47
+msgid ""
+"means any data sent from the service's web server to the User's computer or "
+"other internet-connected device, which allows the unique identification of "
+"the User's web browser in accordance with Section 89 of Act No. 480/2004 "
+"Coll., on Certain Information Society Services and Amending Certain Acts, as "
+"amended;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:51
+msgid "Dedicated Weblate"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:54
+msgid ""
+"means a form of collaboration where the User is the sole user of the Service "
+"in a cloud hosted and provided by the Provider;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:58
+msgid "GDPR"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:61
+msgid ""
+"means EU Regulation No. 679/2016, General Regulation on Personal Data "
+"Protection;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:65
+msgid "GTC"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:68
+msgid ""
+"means these general terms and conditions, which form an integral part of the "
+"Agreement;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:72
+msgid "Hosted String"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:75
+msgid ""
+"means a text unit defined in the translation format. It can be a word, "
+"sentence, or paragraph. It is counted separately for each language;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:79
+msgid "Hosted Weblate"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:82
+msgid ""
+"means a form of collaboration that is purely cloud-based, where the Provider "
+"provides Services to Users on a non-dedicated (i.e., shared by multiple "
+"Users) cloud operated by the Provider;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:86
+msgid "License"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:89
+msgid ""
+"means the non-exclusive license granted by the Provider to the User for the "
+"use of the Service;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:93
+msgid "Personal Data"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:96
+msgid ""
+"means personal data as defined in EU Regulation No. 679/2016, entered by the "
+"user into the Service and/or Cookies;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:100
+#: wllegal/templates/legal/documents/tos.html:235
+msgid "Price"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:103
+msgid ""
+"the value expressed in money for the provided License in accordance with the "
+"Price List;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:107
+msgid "Price List"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:110
+msgid ""
+"means the document or web page that specifies the Price of the Service and/"
+"or Product unless otherwise stated in the Agreement;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:114
+msgid "Product"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:117
+msgid ""
+"means any service or part thereof provided under a certain brand of the "
+"Provider based on its brand usage policy. The User purchases the Product AS "
+"IS. Support and other services are provided separately;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:121
+msgid "Provider"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:124
+msgid ""
+"refers to the company <strong>Weblate s.r.o.</strong>, ID No. 21668027, with "
+"registered office at Nábřežní 694, Cvikov II, 471 54 Cvikov, registered in "
+"the Commercial Register maintained by the Regional Court in Ústí nad Labem, "
+"file no. C 52324, with which the Agreement was concluded;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:128
+msgid "Service"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:131
+msgid ""
+"means the websites and services based on Weblate provided by the Provider;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:135
+msgid "Self-hosting"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:138
+msgid ""
+"means a form of collaboration where the User is the sole user of the "
+"Service, and this Service is operated directly on the User Server;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:142
+msgid "Support Services"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:145
+msgid ""
+"means the support provided by the Provider to the User within the Service. "
+"Support Services are governed separately by a separate support service "
+"agreement;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:149
+msgid "Translation Memory"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:152
+msgid "means an optional translation memory service provided on Weblate;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:156
+msgid "User"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:159
+msgid ""
+"means any legal entity or natural person other than the Provider that "
+"utilizes the Service;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:163
+msgid "User Account"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:166
+msgid ""
+"means a user account with a unique access code and password in the Hosted "
+"Weblate web interface. Each User Account can be used by only one User;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:170
+msgid "User Server"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:173
+msgid ""
+"refers to the server and other hardware equipment not owned, managed, or "
+"controlled by the Provider;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:179
+msgid "Methods of Acceptance"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:183
+msgid "The License is granted to the User based on the concluded Agreement."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:187
+msgid "These GTC are an integral part of the Agreement."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:191
+msgid "The Agreement is concluded:"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:196
+msgid ""
+"on the day of signing by both parties (especially for all Services offered "
+"with custom settings);"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:199
+msgid ""
+"online through acceptance (confirmation) via the web interface in accordance "
+"with the Price List, with the Agreement becoming effective once the Price "
+"for the License has been duly paid (in the case of a bank transfer, once the "
+"amount corresponding to the Price for the License has been credited to the "
+"Provider's bank account) for the amount stated in the first billing period "
+"by the User."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:207
+msgid "Service Provision"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:211
+msgid ""
+"The Provider operates the Service at the internet address specified in the "
+"Product specification and its subdomains or on the User's Servers in "
+"accordance with the Agreement and the technical specifications outlined in "
+"the Product specification."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:215
+msgid ""
+"If the Agreement is concluded under Article 2.3(a), the scope of Services is "
+"defined in the Product specification, which is attached to the Agreement. "
+"The Product specification may further detail the scope of individual "
+"(sub)services regarding their content and activation methods. The Product "
+"specification defined in this manner takes precedence over the form of "
+"Service offered according to the Price List."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:219
+msgid ""
+"The Service is provided in three forms of cooperation: Hosted Weblate, "
+"Dedicated Weblate, and Self-hosting."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:223
+msgid ""
+"In accordance with GPLv3, certain aspects of the Service may be provided "
+"either with the assistance of third parties other than the Provider or "
+"directly by these parties. The User acknowledges that these third parties "
+"will provide their services in accordance with this Agreement and the GPLv3 "
+"license. The User acknowledges that third parties involved in the provision "
+"of the Service may change over the course of the Service's provision. These "
+"third parties may process Personal Data within their activities in "
+"accordance with the Agreement and GPLv3."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:227
+msgid "Service Duration"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:231
+msgid ""
+"Unless otherwise expressly agreed in the Agreement, the Agreement is "
+"concluded for a period corresponding to a subscription model. The "
+"subscription can be paid monthly or annually in accordance with Article 5 of "
+"the GTC."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:239
+msgid ""
+"The price for the Service is determined according to the offer or the Price "
+"List. The User acknowledges and agrees that the Price List may be "
+"unilaterally changed by the Provider in the same way as these GTC. The price "
+"depends on the chosen Service configuration, and there are many variants in "
+"which the Service can be provided. These variants are listed in the Price "
+"List. The price for Services consists of the following separate items or "
+"their combination, which are paid regularly monthly/annually:"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:243
+msgid ""
+"regular price for access to Services, which is also always set for the "
+"relevant time period and based on the specific conditions of the Service, "
+"but paid monthly or annually, with this price varying for different forms of "
+"collaboration according to the Price List;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:246
+msgid ""
+"regular price for the number of Hosted Strings; this amount is chosen by the "
+"User from the options offered in the Price List or in agreement with the "
+"Provider;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:249
+msgid "regular price for Translation Memory;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:254
+msgid ""
+"(points a), b), and c) are collectively referred to as the "
+"\"<strong>Subscription</strong>\")."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:258
+msgid ""
+"To avoid doubt, the Subscription may guarantee either only access to a "
+"specific Product or License and/or a specific package of guaranteed Services."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:262
+msgid ""
+"The User is obliged to pay the Price based on the received tax documents "
+"(invoices) issued by the Provider. The Price is paid in advance, and the "
+"invoice is issued and delivered to the User within 5 working days after the "
+"end of each relevant period."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:266
+#, python-format
+msgid ""
+"Payment of the Price may be made by credit card, bank transfer, or "
+"cryptocurrency transaction. All Prices listed in the Price List exclude VAT. "
+"End users from the EU and Czech business companies will be required to pay "
+"an additional VAT of 21%%. Reverse charge applies to invoices issued to "
+"businesses within the EU."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:270
+msgid ""
+"If the User wishes to avoid being charged for the Service in the "
+"Subscription mode, they must cancel the Subscription at least three days "
+"before the automatic renewal of the Service usage. The Provider recommends "
+"verifying with the prepaid card issuer or bank whether recurring billing is "
+"possible."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:274
+msgid ""
+"The User can change their Subscription mode online by logging into their "
+"User Account and making the change or cancelling the Subscription there. If "
+"the User cancels their Subscription at least three days before the renewal "
+"date as per point 5.5 above, their Subscription will stop at the end of the "
+"current billing cycle."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:278
+msgid ""
+"The Provider does not refund ANY money for Services, Support Services, and/"
+"or any other services provided under the Agreement and these GTC if they "
+"were provided before the cancellation of these Services by the User. Order "
+"cancellation after payment is possible by agreement if the ordered Service "
+"has not been used or no attempt to download it has been made. If a download "
+"attempt has been made, no negotiation will occur, and the User is not "
+"entitled to any refunds, discounts, or other monetary compensation. If "
+"prepaid Services were prepaid for a period exceeding the actual usage "
+"period, the conditions of such a refund will be agreed upon individually."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:282
+msgid ""
+"Prices and Subscription conditions may change unilaterally by the Operator "
+"at any time. The price and conditions valid at the time of the first "
+"purchase or the last Subscription renewal remain in effect for the duration "
+"of the given Subscription period, but new prices and conditions may apply to "
+"renewals or new Subscriptions. The Provider will notify the User of any "
+"price or Subscription condition changes in a reasonable period before the "
+"new Price or conditions come into effect. Under these conditions, the User "
+"has the right to cancel the Subscription."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:286
+msgid "License Terms"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:290
+#, python-format
+msgid ""
+"The Provider's software and Weblate software extensions are distributed "
+"under the GNU/GPLv3 license (see <a href=\"%(url)s\">%(url)s</a>). The User "
+"is granted a non-exclusive license to any elements of the Service under the "
+"terms of the GTC in their most recently updated version at the time the "
+"License is provided. The License is granted in accordance with the option "
+"selected according to the Price List."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:295
+#, python-format
+msgid ""
+"Unless otherwise stated in the Agreement, the license terms of this "
+"Agreement are fully governed by the GPLv3 license. However, selected parts "
+"of the Software may also be licensed under other licenses. A complete list "
+"of licenses used in the Provider's Software and software extensions can be "
+"found in their source code, which corresponds to the REUSE 3.0 specification "
+"according to the information provided on the Provider's website (see <a "
+"href=\"%(url)s\">%(url)s</a>)."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:299
+msgid ""
+"The User acknowledges that all copyright and other intellectual property "
+"rights to the Service belong to the Provider and/or third parties whose "
+"works have been incorporated into the Service and/or are used jointly with "
+"the Service. However, the User does not lose the right to use the Service to "
+"the extent permitted by the applicable licenses, including running, "
+"creating, and distributing the Service, even if the User does not publicly "
+"release the Service."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:303
+msgid ""
+"For the purpose of exclusive modifications of the Service solely for the "
+"benefit of the User or the creation of means to run these Services, the User "
+"may publish the Service only if, in accordance with the terms of GPLv3 (and/"
+"or later versions of the GPL license), they publish all materials to which "
+"they do not own copyright."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:307
+msgid ""
+"The License includes updates and/or modifications to the Services made by "
+"the Provider in the future, provided that the Services are supplied based on "
+"the selected Subscription and all relevant license and other fees are fully "
+"paid for the period in which these updates and/or modifications are "
+"released. The User acknowledges that not all Self-hosting Subscription "
+"packages include updates and/or modifications to the Services."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:311
+msgid ""
+"The User is entitled to use the source code and handle elements protected by "
+"copyright within the limits of GPLv3 (and/or later versions of the GPL "
+"license), including, but not limited to, making copies. The User may "
+"distribute such copies only if each copy includes a reference to the "
+"Provider and the absence of warranty in a prominent and visible place, "
+"ensuring that all references to this license and any additional conditions "
+"remain unchanged, and that all references to the absence of warranty remain "
+"intact, and the User provides all recipients of such copies of the source "
+"code with a copy of the license along with the program."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:315
+msgid "Payment Terms"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:319
+msgid ""
+"Invoices will be issued electronically. The User agrees to the electronic "
+"issuance of invoices and to receiving them via electronic means. Invoices "
+"will be issued with a due date of 14 calendar days."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:323
+msgid ""
+"The billing period is defined as a recurring period (calendar month/year). "
+"Payment is automatically charged through the selected payment method, and "
+"the invoice is sent to the User without undue delay after the Provider has "
+"received the payment. If the payment cannot be automatically deducted for "
+"any reason, the Provider will issue an invoice, and the User is obliged to "
+"pay such an invoice within the same deadlines."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:327
+msgid ""
+"In the event of a delay by the User in any payment, the Provider is also "
+"entitled to suspend or limit the provision of the Service until the full "
+"payment of the debt. During the suspension or limitation of the provision of "
+"the Service, the User is still obliged to pay the Price according to the "
+"delivered tax documents. Repeated payment delays by the User are considered "
+"a material breach of the Agreement, entitling the Provider to terminate the "
+"Agreement for the reason stated in Article 11 below."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:331
+msgid ""
+"By agreeing to the GTC at the time of purchase, the User subscribes to the "
+"future automatic renewal of the Subscription. The Subscription will be "
+"automatically renewed at the end of each Subscription period based on the "
+"Subscription period chosen at the time of purchase. At the beginning of each "
+"billing period, the Subscription will be charged at the rate according to "
+"the updated Price List and/or according to a separate notice made by the "
+"Provider before the end of the last billing period. The Subscription is "
+"continuous and automatically renews until it is cancelled, or the User "
+"Account is terminated."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:335
+msgid ""
+"The User acknowledges that in the case of Subscription payment via a payment "
+"gateway, this gateway is provided by <strong>ThePay, a.s.</strong>, with its "
+"registered office at Masarykovo náměstí 102/65, 586 01 Jihlava, ID: 281 35 "
+"261, registered in the Commercial Register maintained by the Regional Court "
+"in Brno, Section B, Insert 8977 (\"<strong>ThePay</strong>\"). The "
+"conditions for the payment of the Fee are governed by the relevant "
+"contractual terms of ThePay."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:339
+msgid ""
+"Payment card information entered into the payment gateway is not processed "
+"by the Provider, and the Provider is not responsible for the functionality "
+"of ThePay's payment gateway."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:343
+msgid "Provider's Rights and Obligations"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:347
+msgid ""
+"The Provider is entitled to make any changes to the Service or its scope. In "
+"such a case, the Provider will inform the User through the web interface "
+"related to the provided Service. In the event of changes in the legal or "
+"regulatory framework, industry standards, the Provider's related costs, "
+"market customs, conditions affecting the relevant market, or any other "
+"changes that may impact the provision of the Service, the Provider may at "
+"any time amend, cancel, or supplement these Terms (referred to as "
+"\"<strong>Change</strong>\") by notifying the User of such Change by posting "
+"the revised version of these Terms on the Website and notifying the User via "
+"email and through the interface related to the provided Service, at least 14 "
+"days before the Change takes effect. If the User does not respond to such "
+"Change within the above-mentioned period, it will be assumed that the User "
+"agrees with the Change. Notification does not apply if the Change is "
+"required by law, a court order, concerns the addition of a new service, "
+"additional features to the existing Service, or any other Change that does "
+"not reduce the User's rights or increase their obligations. In such cases, "
+"the Change will be implemented without prior notice to the User and will "
+"take effect immediately. If the User objects to the Change in the Terms "
+"within the above period, they are entitled to terminate the Agreement. In "
+"any case, the User may either accept the Change (implicitly through failure "
+"to object) or terminate the Agreement within the above period."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:351
+msgid ""
+"The Provider undertakes to take all steps within its technical capabilities "
+"to ensure the functionality and availability of the Service. The User "
+"acknowledges and agrees that they use the Service at their own risk."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:355
+msgid ""
+"The basic system requirements for the proper operation of the Service "
+"include the server environment and defined technical status in the latest "
+"version. The Provider undertakes to fulfil these requirements and ensure the "
+"proper operation of the Service through its own actions."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:359
+msgid ""
+"If the User identifies any issue related to the Service's speed, "
+"functionality, or availability, they are obligated to report it to the "
+"Provider immediately. The User acknowledges that events beyond the "
+"Provider's control, such as a User's internet connection failure, natural "
+"disasters, DOS or DNS attacks on the Provider's technical equipment, and "
+"other factors, may impact the Service's functionality or availability. The "
+"Provider bears no responsibility for any damages incurred by the User in "
+"connection with these events."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:363
+msgid ""
+"The User acknowledges and agrees that the Provider may temporarily suspend "
+"the provision of the Service for serious reasons, particularly in cases such "
+"as preventing cyberattacks, when necessary, or in the event of a serious "
+"Service malfunction that requires an essential outage. The Provider must "
+"notify the User of the interruption as soon as possible. The Provider is "
+"obligated to implement appropriate operational and security measures to "
+"minimize potential malfunctions or the limited or complete unavailability of "
+"the Service. In the case of planned outages, the Provider is obligated to "
+"inform the User in advance within a reasonable time."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:367
+msgid ""
+"The Provider agrees not to provide the content of the User's data to third "
+"parties."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:371
+msgid ""
+"The contractual parties agree that the Provider does not acquire ownership "
+"of the User's data. The User is solely responsible for the content of the "
+"data stored on their Server or the Provider's server."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:375
+msgid ""
+"By accepting these Terms, the User acknowledges and agrees that the Provider "
+"is entitled to monitor, using its own resources, whether the User is using "
+"the Service in accordance with the Agreement. The User undertakes to fully "
+"cooperate with the Provider in such cases."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:380
+msgid "User’s Rights and Obligations"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:384
+msgid ""
+"The User must not use the Service in violation of applicable legal "
+"regulations. The User is also fully responsible for ensuring that any "
+"modifications to the Service made by them are in compliance with applicable "
+"legal regulations."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:388
+msgid ""
+"To gain access to the Service, the Provider may require certain "
+"identification details and other information from the User, always only to "
+"the extent required by the form. Most of our users are only required to "
+"provide a nickname; however, if an invoice needs to be issued, additional "
+"legally required information will be requested. The User is obligated to "
+"always provide truthful, accurate, and up-to-date information as required by "
+"law. For users who only provide a nickname, this does not mean they are "
+"required to provide any additional information. This provision does not "
+"expand the scope of required personal information but emphasizes the "
+"truthfulness, accuracy, and currency of the information provided by the User."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:392
+msgid ""
+"The User is obligated, upon the Provider's request, to provide the necessary "
+"cooperation in resolving malfunctions or making adjustments to the Service, "
+"including the obligation to tolerate restrictions on the use of the Service "
+"in cases where the Provider performs system outages for the reasons "
+"mentioned in Section 8.5."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:396
+msgid ""
+"The Provider is entitled to implement security measures to protect the "
+"Service in accordance with this Agreement, and the User is required to "
+"comply with and respect these measures."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:400
+msgid ""
+"The User is obligated to use the Service in accordance with the licensing "
+"terms specified in Section 6 of this Agreement, ensuring that they do not "
+"jeopardize the Service's functionality."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:404
+msgid ""
+"According to the Service variant listed in the Price List, the User has the "
+"right to request Support Services from the Provider, as specified in the "
+"Price List."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:408
+msgid ""
+"The User is required to keep access credentials to the Service confidential "
+"and must not engage in any actions that could compromise the security of the "
+"Service. The User is also required to secure their technical equipment to a "
+"reasonable extent to minimize the risk of third parties misusing access "
+"credentials to the User's account."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:412
+msgid ""
+"If the User breaches any of the obligations specified in this Section, the "
+"Provider bears no responsibility for any damages incurred by the User, and "
+"the User is solely responsible for any damages incurred by the Provider or "
+"third parties. Breaching these obligations also entitles the Provider to "
+"terminate this Agreement. If the User becomes aware that Service access may "
+"be exposed to third parties due to a leak of access information, they are "
+"required to report this to the Provider."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:416
+msgid "Prohibited Conduct"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:420
+msgid ""
+"The User is prohibited from uploading, sending, or otherwise storing any "
+"content on the Service portal that may contain software viruses or other "
+"files and programs that could destroy, damage, or limit the functionality of "
+"the Provider's or other Users' devices. The User is also not authorized to "
+"upload content to the Service portal that is illegal to possess or "
+"distribute, infringes on third-party copyrights, is part of criminal "
+"activities, spreads spam through the Service, or attempts to gain access to "
+"another User’s account or the Provider’s servers. Violation of these "
+"obligations constitutes a material breach of the Agreement."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:424
+msgid ""
+"The User particularly agrees to refrain from the following activities while "
+"using the Services, especially through the Services:"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:428
+msgid ""
+"Disseminating or offering any content that violates applicable laws at the "
+"national, EU, or international level;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:432
+msgid ""
+"Disseminating or offering any illegally obtained content or content whose "
+"dissemination would be illegal;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:436
+msgid ""
+"Disseminating or offering any pornographic, obscene, or otherwise vulgar "
+"content;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:440
+msgid ""
+"Engaging in any services or activities that are contrary to applicable laws "
+"at the national, EU, or international level;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:444
+msgid ""
+"Engaging in activities that bypass intellectual property protection elements "
+"(such as cracks, warez, etc.);"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:448
+msgid ""
+"Sending unsolicited commercial messages and other spam or other illegal "
+"harassment of third parties;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:452
+msgid ""
+"Publishing or disseminating any content that may infringe the rights of "
+"third parties, including attacks on such persons, or any offensive, "
+"impolite, or otherwise inappropriate content that unlawfully or illegally "
+"infringes on the personal rights of third parties;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:456
+msgid ""
+"Disseminating or offering any content that infringes on third-party "
+"intellectual or industrial property rights;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:460
+msgid ""
+"Operating or disseminating any tools that may be misused to breach network, "
+"device, or service security;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:464
+msgid "Overburdening the Provider's or third-party servers;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:468
+msgid ""
+"Engaging in any activities that could harm the Provider, its reputation, or "
+"its assets;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:472
+msgid ""
+"Using any means, servers, devices, or elements provided by the Provider in a "
+"manner not expressly agreed upon in these Terms or the Agreement;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:476
+msgid ""
+"Conducting activities that would disclose any content to third parties that:"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:480
+msgid "Contains prohibited applications and scripts;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:484
+msgid "Overloads database systems or causes malfunction of servers;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:488
+msgid ""
+"Overburdens the infrastructure, connection lines, or hardware of the "
+"Provider or third parties;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:492
+msgid ""
+"Involves music, sound, image, film, or similar files for which the User "
+"lacks distribution rights;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:496
+msgid ""
+"Threatens the privacy or security of other Internet users or the security of "
+"computer systems (e.g., through viruses, password generators, etc.);"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:500
+msgid ""
+"Is part of the provided Service without written permission from the Provider "
+"to share it with third parties;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:504
+msgid ""
+"Gives the impression that the User acts on behalf of the Provider without "
+"authorization;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:508
+msgid "May harm any third-party rights."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:512
+msgid ""
+"The Provider may, without prior notice, interrupt, limit, or suspend the "
+"provision of Services if it reasonably believes the User is violating the "
+"Terms, the Agreement, or using the Services contrary to applicable laws, "
+"public morality, ethical principles, or Internet usage rules, or is aiding "
+"in or committing criminal activities."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:516
+msgid ""
+"The Provider may also, without prior notice, interrupt, limit, or suspend "
+"the provision of Services if the Services are being misused for unauthorized "
+"interference with the Provider’s rights (e.g., impersonation, fraudulent "
+"invoicing) or excessive usage, particularly through automated software and "
+"bots that overload the Provider’s servers or other technical facilities."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:520
+msgid ""
+"The User expressly agrees that in the event of a justified interruption, "
+"limitation, or suspension of Services by the Provider, the User is solely "
+"responsible for any damages resulting from the interruption and cannot claim "
+"any compensation from the Provider for such damages."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:524
+msgid ""
+"To verify the software solution used or audit the licensing of assigned "
+"software resources and content uploaded through the Services, the User "
+"agrees to provide full cooperation to the Provider. This includes enabling "
+"or ensuring the installation and execution of tools and scripts on the "
+"virtual server that verify and check the software resources used."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:528
+msgid ""
+"The User expressly agrees to be responsible for any damage caused to the "
+"Provider, its clients, partners, or third parties. This responsibility "
+"particularly includes the consequences of any legal actions that violate the "
+"provisions of Article 10 of these Terms. The User also agrees that the "
+"Provider may adjust the Service settings to prevent misuse. In case of "
+"breach by the User, the unused service period will not be refunded and will "
+"automatically be considered a one-time contractual penalty. This penalty "
+"does not affect the Provider’s right to claim damages in addition to the "
+"penalty."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:533
+msgid "Termination of the Agreement"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:537
+msgid ""
+"The contractual relationship may be terminated by withdrawal from the "
+"Agreement, expiration of the agreed term, dissolution of a legal entity "
+"(either the Provider or the User) with liquidation, termination of the "
+"Agreement, or by mutual agreement of the Parties."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:541
+msgid ""
+"The Provider may terminate the Agreement at any time without providing a "
+"reason. The notice period is three months, starting from the first day of "
+"the calendar month following the delivery of the notice to the User."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:545
+msgid ""
+"The User may terminate the Agreement under the conditions specified in "
+"Section 8.1 of these Terms."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:549
+msgid ""
+"If the User materially or repeatedly breaches their obligations under these "
+"Terms or the Agreement and fails to remedy the breach within 14 days from "
+"the delivery of a notice of the breach, the Provider may withdraw from the "
+"Agreement. The withdrawal becomes effective the day after the User receives "
+"the notice of withdrawal."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:553
+msgid ""
+"If the User breaches their obligations under these Terms or the Agreement in "
+"a particularly serious manner, the Provider is entitled to immediately "
+"withdraw from the Agreement and terminate the provision of the Service as "
+"soon as such a breach is discovered."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:557
+msgid ""
+"If the Provider breaches its obligations under these Terms or the Agreement "
+"in a particularly serious manner, the User is entitled to immediately "
+"withdraw from the Agreement as soon as such a breach is discovered."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:561
+msgid ""
+"Neither Party may terminate or otherwise end the Agreement except in cases "
+"explicitly stated in this Section. The Parties exclude, to the maximum "
+"extent possible, the right of either Party to terminate this Agreement, "
+"including the provisions of Sections 1912 (2), 1923, 1969, 1977, 1978, 1979, "
+"2001, 2002, 2003, 2106, 2107, 2110, and 2111 of the Czech Civil Code."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:565
+msgid "Limitation of Liability"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:569
+msgid ""
+"The Provider is not liable for indirect damages arising from the provision "
+"of the Services, such as lost profits, lost revenues, data loss, financial "
+"damages, or any indirect, special, or consequential damages, including "
+"exemplary or punitive damages, such as, but not limited to, damages for "
+"other intangible losses (even if the Provider has been advised of the "
+"possibility of such damages), resulting from:"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:574
+msgid "Use or inability to use the Service;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:577
+msgid ""
+"The cost of acquiring substitute goods and services arising from any goods, "
+"data, information, or services purchased or obtained or messages received, "
+"or transactions entered into through or from the Service;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:580
+msgid ""
+"Statements or actions of any third party involved in providing the Service, "
+"including any outcomes of third-party solutions or services related to the "
+"Service;"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:583
+msgid "Any other matters related to the Service."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:588
+msgid ""
+"In cases of force majeure, the Parties are entitled to temporarily suspend "
+"their contractual obligations, and any non-performance or delay in "
+"fulfilling the obligations imposed by this Agreement will not be considered "
+"a breach of the Agreement. Force majeure includes circumstances under which "
+"liability is excluded according to Czech law, such as natural disasters, "
+"war, or changes in the political situation that prevent or unduly hinder the "
+"exercise of rights and obligations arising from this Agreement."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:592
+msgid ""
+"By entering into the Agreement, the User acknowledges that, despite the "
+"Provider’s best efforts, there may be temporary unavailability of the "
+"Service due to circumstances beyond the Provider’s control (e.g., an "
+"internet connection outage). Therefore, the User agrees and undertakes to "
+"back up all of their data stored within the Service at another geographical "
+"location(s)."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:596
+msgid ""
+"The User uses the Service AS IS. Incompatibility with other software, "
+"hardware configurations, or any defects or faults DO NOT ENTITLE the User to "
+"cancel their order or to request a refund of any fees paid, unless otherwise "
+"expressly agreed between the Parties in individual cases."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:600
+msgid "Personal Data Protection"
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:604
+#, python-format
+msgid ""
+"The Provider collects data from the User solely for the purpose of providing "
+"the Service, improving its quality, fulfilling legal obligations, and in "
+"selected cases for the Provider's legitimate interests (e.g., maintaining "
+"server security and integrity) or for sending optional commercial "
+"communications as defined in the <a href=\"%(privacy_url)s\">Privacy Policy</"
+"a>."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:608
+msgid ""
+"All communication within the Service is encrypted using the SSL protocol. "
+"The User declares that they consider this encryption method sufficiently "
+"secure."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:612
+#, python-format
+msgid ""
+"The Provider commits not to provide any information submitted by the User "
+"during the registration of their User account or any other personal data "
+"provided by the User to any third party for purposes other than those "
+"defined in this Agreement and the <a href=\"%(privacy_url)s\">Privacy "
+"Policy</a>."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:616
+msgid ""
+"The Provider’s website and web application also use cookies. The Services "
+"exclusively use session cookies from the Provider and never use third-party "
+"cookies. Regarding functionality and type, the Provider only uses functional/"
+"technical cookies, for which explicit consent is not required under current "
+"legislation."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:624
+msgid ""
+"The Parties commit to maintaining the confidentiality of all information "
+"learned during the contractual relationship established by this Agreement."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:628
+msgid ""
+"The User’s rights arising from the Agreement and these Terms cannot be "
+"assigned without the prior written consent of the Provider."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:632
+msgid ""
+"For the avoidance of doubt, the Parties explicitly confirm that they are "
+"business entities and that they are entering into this Agreement within the "
+"scope of their business activities."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:636
+msgid ""
+"If any provision of this Agreement or these Terms is or becomes invalid, "
+"ineffective, or unenforceable, it shall not affect the validity, "
+"enforceability, or effectiveness of the remaining provisions of the "
+"Agreement or these Terms. In such a case, the Parties shall exert every "
+"effort to amend the Agreement by replacing the invalid, unenforceable, or "
+"ineffective provision with a new one that reflects the original intent."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:640
+msgid ""
+"These Terms are governed by the law of the Czech Republic, a member of the "
+"European Union. The Parties, however, exclude to the maximum extent possible "
+"the provisions of Sections 1764, 1765, 1793 to 1795, 2050, 2389a to 2389f, "
+"2389t, and 2389u of the Czech Civil Code. Any disputes arising in connection "
+"with the performance or interpretation of the Agreement that cannot be "
+"resolved amicably by the Parties shall be finally settled by arbitration at "
+"the Arbitration Court of the Economic Chamber of the Czech Republic and the "
+"Agricultural Chamber of the Czech Republic by three arbitrators appointed in "
+"accordance with the Rules of this Arbitration Court. Each Party appoints one "
+"arbitrator, and the two arbitrators will agree on the third arbitrator "
+"within 30 days. If the two arbitrators fail to agree on the third arbitrator "
+"within the above period, the chairman of the Arbitration Court will appoint "
+"the third arbitrator. The arbitration award is final and binding for the "
+"Parties. The Parties irrevocably agree not to contest the enforcement of the "
+"arbitration award in any jurisdiction."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:644
+msgid ""
+"The official version of these Terms has been prepared in English and is "
+"considered the only binding version. Any versions of these Terms translated "
+"into other languages are provided solely for the convenience of the User and "
+"have no legal force. In the event of any discrepancies or conflicts between "
+"the English version and any translated version, the English version shall "
+"prevail in all matters."
+msgstr ""
+
+#: wllegal/templates/legal/documents/tos.html:648
+msgid "These Terms enter into force on November 1, 2024."
+msgstr ""
