@@ -5,10 +5,10 @@
 # Mattias Münster <mattiasmun@gmail.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-01-07 18:15+0000\n"
+"PO-Revision-Date: 2025-11-09 11:51+0000\n"
 "Last-Translator: Joel A <joeax910@student.liu.se>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/weblate/legal/sv/"
 ">\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -476,10 +476,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:236
-#, fuzzy
-#| msgid "Order us to delete your Personal Data"
 msgid "User Rights in Relation to Personal Data"
-msgstr "Beordra oss att radera dina personuppgifter"
+msgstr "Användarens rättigheter avseende personuppgifter"
 
 #: wllegal/templates/legal/documents/privacy.html:240
 #, python-format
