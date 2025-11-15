@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-06-18 07:39+0000\n"
-"PO-Revision-Date: 2025-07-10 10:47+0000\n"
-"Last-Translator: Yu Ting <yuting930604@gmail.com>\n"
+"PO-Revision-Date: 2025-11-16 02:11+0000\n"
+"Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/weblate/legal/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -42,47 +42,42 @@ msgid "View English version"
 msgstr "檢視英文版本"
 
 #: wllegal/templates/legal/documents/privacy.html:12
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "This Privacy Policy, hereinafter referred to as \"<strong>Policy</strong>\", "
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
-msgstr "本《隱私政策》（簡稱「政策」）是 Weblate "
-"的《一般條款與條件》（簡稱「條款」）的補充。"
+msgstr ""
+"本隱私權政策（下稱「<strong>政策</strong>」）係對 Weblate 的《<a href="
+"\"%(terms_url)s\">一般條款與條件</a>》（下稱「<strong>條款</strong>」）之補充"
+"。"
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
-#, fuzzy
 msgid "Introductory Provisions"
-msgstr "基本條款"
+msgstr "導論條款"
 
 #: wllegal/templates/legal/documents/privacy.html:21
-#, fuzzy
 msgid ""
 "This Policy has been issued by Weblate s.r.o., ID No.: 21668027, with "
 "registered office at Nábřežní 694, Cvikov II, 471 54 Cvikov, registered in "
 "the Commercial Register kept by the Regional Court in Ústí nad Labem, file "
 "No. C 52324, i.e. the \"<strong>Provider</strong>\"."
 msgstr ""
-"本政策由 Weblate s.r.o. 發布。\n"
-"公司編號：21668027\n"
-"註冊地址：Nábřežní 694, Cvikov II, 471 54 Cvikov\n"
-"登記於"
-"[in the Commercial Register kept by the Regional Court in Ústí nad Labem]"
-"的商業登記冊\n"
-"登記編號為 C 52324，以下簡稱「提供者」。"
+"本政策係由 Weblate s.r.o.（ID ：21668027，註冊地址：Nábřežní 694, Cvikov II, "
+"471 54 Cvikov，登記於烏斯季州地方法院商業名冊，案號 C 52324，下稱「<strong>提"
+"供者</strong>」）所發布。"
 
 #: wllegal/templates/legal/documents/privacy.html:25
-#, fuzzy
 msgid ""
 "This Policy describes how the Provider handles the personal data of Users as "
 "data subjects - private individuals when accessing and subsequently using "
 "the Services, Products, Support Services, as well as when using the Website "
 "and other possible services and related activities."
 msgstr ""
-"此政策說明提供者如何處理「使用者」做為資料主體（個人身分），存取後並使用本服"
-"務、產品、支援服務，以及使用本網站及其他可能提供的服務與相關活動時的個人資訊"
-"。"
+"本政策旨在說明提供者如何處理以「個人」身份存取及後續使用「服務」、「產品」、"
+"「支援服務」，以及使用「網站」和其他可能服務及相關活動的「使用者」之個人資料"
+"（作為資料主體）。"
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid ""
@@ -103,6 +98,11 @@ msgid ""
 "personal data and the protection of privacy in the electronic communications "
 "sector (abbreviated as the \"<strong>ePrivacy Directive</strong>\")."
 msgstr ""
+"在處理個人資料時，提供者遵守《歐盟議會及理事會第 2016/679 號條例》（即《一般"
+"資料保護條例》，簡稱「<strong>GDPR</strong>」）、捷克《第 110/2019 號個人資料"
+"處理法》修訂版，以及《歐盟議會及理事會 2002 年 7 月 12 日關於在電子通訊領域處"
+"理個人資料和保護隱私的第 2002/58/EC 號指令》（簡稱「<strong>ePrivacy 指令</st"
+"rong>」）。"
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -112,6 +112,9 @@ msgid ""
 "registers for the Provider's newsletter and/or when the Provider and the "
 "User conclude the Contract, whichever is the earliest."
 msgstr ""
+"使用者個人資料的實際處理，將始終僅為本政策中詳述的目的及條件而進行，並在使用"
+"者造訪本網站、註冊提供者的電子報和/或提供者與使用者簽訂本合約時（以最早發生者"
+"為準）開始。"
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid ""
@@ -119,7 +122,8 @@ msgid ""
 "third parties within the meaning of Article 3 of this Policy who have been "
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
-msgstr ""
+msgstr "後續的資料處理將由提供者直接執行和/或由本政策第 3 條所指、經提供者授權依本政"
+"策處理個人資料的第三方執行。"
 
 #: wllegal/templates/legal/documents/privacy.html:45
 msgid ""
