@@ -29,7 +29,7 @@ find wllegal/locale \( -name '*.mo' -o -name '*~' \) -delete
 find wllegal/locale -type d -empty -delete
 
 # Update po files itself
-weblate makemessages --keep-pot -a -i 'data/*' -i 'docs/*' -i 'examples/*' -i 'build/*'
+django-admin makemessages --keep-pot -a -i 'data/*' -i 'docs/*' -i 'examples/*' -i 'build/*'
 
 # Fix Report-Msgid-Bugs-To as it gets removed
 sed \
