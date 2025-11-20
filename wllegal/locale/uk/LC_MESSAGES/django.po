@@ -7,9 +7,9 @@
 # Vadim Nekhai <vadimnekhai@gmail.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2025-06-18 07:39+0000\n"
+"POT-Creation-Date: 2025-11-20 14:42+0000\n"
 "PO-Revision-Date: 2025-06-19 09:04+0000\n"
 "Last-Translator: Максим Горпиніч <maksimgorpinic4@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/weblate/legal/"
@@ -822,33 +822,46 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
-"Your translations are made under the license which is specified by each "
-"translation."
+"By registering, you agree that your name and username will be visible "
+"publicly as long as your account exists."
 msgstr ""
-"Ваші переклади зроблені на умовах ліцензії, яка вказана на кожен переклад."
 
 #: wllegal/templates/legal/documents/summary.html:11
+#, fuzzy
+#| msgid ""
+#| "Your name and e-mail address is used in VCS commits, it will stay there "
+#| "indefinitely."
 msgid ""
-"Your name and e-mail address is used in VCS commits, it will stay there "
-"indefinitely."
+"Your name and e-mail can be used in version control system commits to author "
+"the changes you made; they can be stored there indefinitely."
 msgstr ""
 "Ваше ім'я та адреса електронної пошти використовуються у поданнях VCS. Вони "
 "залишаться там назавжди."
 
 #: wllegal/templates/legal/documents/summary.html:12
+#, fuzzy
+#| msgid ""
+#| "Chosen name is up to you and the e-mail address used for commits can be "
+#| "masked by Weblate system to protect your privacy."
 msgid ""
-"Chosen name is up to you and the e-mail address used for commits can be "
-"masked by Weblate system to protect your privacy."
+"Name choice is yours, and the e-mail address used for commits can be masked "
+"by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
 "Вибране ім'я є вашою особистою справою, а адресу електронної пошти, яка "
 "використовується для внесків, може бути замасковано системою Weblate з метою "
 "захисту ваших конфіденційних даних."
 
 #: wllegal/templates/legal/documents/summary.html:15
+msgid ""
+"You provide your contribution under the license defined by each project you "
+"contributed to."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:18
 msgid "We use cookies to deliver our services."
 msgstr "Ми використовуємо реп'яшки, щоб доставити наші послуги."
 
-#: wllegal/templates/legal/documents/summary.html:16
+#: wllegal/templates/legal/documents/summary.html:19
 msgid "We don’t use any third-party cookies."
 msgstr "Ми не використовуємо жодних сторонніх кук."
 
@@ -2470,6 +2483,12 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:648
 msgid "These Terms enter into force on November 1, 2024."
 msgstr "Ці Умови набирають чинності з 1 листопада 2024 року."
+
+#~ msgid ""
+#~ "Your translations are made under the license which is specified by each "
+#~ "translation."
+#~ msgstr ""
+#~ "Ваші переклади зроблені на умовах ліцензії, яка вказана на кожен переклад."
 
 #, python-format
 #~ msgid ""

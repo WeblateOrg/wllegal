@@ -8,9 +8,9 @@
 # Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2025-06-18 07:39+0000\n"
+"POT-Creation-Date: 2025-11-20 14:42+0000\n"
 "PO-Revision-Date: 2025-11-18 19:51+0000\n"
 "Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/weblate/legal/es/"
@@ -852,34 +852,46 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
-"Your translations are made under the license which is specified by each "
-"translation."
+"By registering, you agree that your name and username will be visible "
+"publicly as long as your account exists."
 msgstr ""
-"Tus traducciones se realizan bajo la licencia que se especifica en cada "
-"traducción."
 
 #: wllegal/templates/legal/documents/summary.html:11
+#, fuzzy
+#| msgid ""
+#| "Your name and e-mail address is used in VCS commits, it will stay there "
+#| "indefinitely."
 msgid ""
-"Your name and e-mail address is used in VCS commits, it will stay there "
-"indefinitely."
+"Your name and e-mail can be used in version control system commits to author "
+"the changes you made; they can be stored there indefinitely."
 msgstr ""
 "Su nombre y dirección de correo electrónico se utilizan en las consignas de "
 "los sistemas de control de versiones, y permanecerán allí indefinidamente."
 
 #: wllegal/templates/legal/documents/summary.html:12
+#, fuzzy
+#| msgid ""
+#| "Chosen name is up to you and the e-mail address used for commits can be "
+#| "masked by Weblate system to protect your privacy."
 msgid ""
-"Chosen name is up to you and the e-mail address used for commits can be "
-"masked by Weblate system to protect your privacy."
+"Name choice is yours, and the e-mail address used for commits can be masked "
+"by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
 "El nombre elegido depende de ti y la dirección de correo electrónico "
 "utilizada para los comentarios puede ser enmascarada por el sistema de "
 "Weblate para proteger tu privacidad."
 
 #: wllegal/templates/legal/documents/summary.html:15
+msgid ""
+"You provide your contribution under the license defined by each project you "
+"contributed to."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:18
 msgid "We use cookies to deliver our services."
 msgstr "Utilizamos cookies para ofrecer nuestros servicios."
 
-#: wllegal/templates/legal/documents/summary.html:16
+#: wllegal/templates/legal/documents/summary.html:19
 msgid "We don’t use any third-party cookies."
 msgstr "No utilizamos cookies de terceros."
 
@@ -1664,12 +1676,12 @@ msgid ""
 "contractual terms of ThePay."
 msgstr ""
 "El Usuario reconoce que, en el caso del pago de la Suscripción a través de "
-"una pasarela de pago, esta pasarela es proporcionada por <strong>ThePay, "
-"a.s.</strong>, con domicilio social en Masarykovo náměstí 102/65, 586 01 "
+"una pasarela de pago, esta pasarela es proporcionada por <strong>ThePay, a.s."
+"</strong>, con domicilio social en Masarykovo náměstí 102/65, 586 01 "
 "Jihlava, ID: 281 35 261, inscrita en el Registro Mercantil mantenido por el "
-"Tribunal Regional de Brno, sección B, Inserto 8977 ("
-"\"<strong>ThePay</strong>\"). Las condiciones para el pago de la Tarifa se "
-"rigen por los términos contractuales relevantes del Pago."
+"Tribunal Regional de Brno, sección B, Inserto 8977 (\"<strong>ThePay</"
+"strong>\"). Las condiciones para el pago de la Tarifa se rigen por los "
+"términos contractuales relevantes del Pago."
 
 #: wllegal/templates/legal/documents/tos.html:339
 msgid ""
@@ -2462,8 +2474,8 @@ msgstr ""
 "El Proveedor se compromete a no proporcionar ninguna información enviada por "
 "el Usuario durante el registro de su cuenta de Usuario ni ningún otro dato "
 "personal proporcionado por el Usuario a terceros para fines distintos a los "
-"definidos en este Acuerdo y la <a href=\"%(privacy_url)s\">Privacy "
-"Policy</a>."
+"definidos en este Acuerdo y la <a href=\"%(privacy_url)s\">Privacy Policy</"
+"a>."
 
 #: wllegal/templates/legal/documents/tos.html:616
 msgid ""
@@ -2571,6 +2583,13 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:648
 msgid "These Terms enter into force on November 1, 2024."
 msgstr "Estas Condiciones entran en vigor el 1 de noviembre de 2024."
+
+#~ msgid ""
+#~ "Your translations are made under the license which is specified by each "
+#~ "translation."
+#~ msgstr ""
+#~ "Tus traducciones se realizan bajo la licencia que se especifica en cada "
+#~ "traducción."
 
 #, python-format
 #~ msgid ""

@@ -5,9 +5,9 @@
 # Michal Čihař <michal@cihar.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2025-06-18 07:39+0000\n"
+"POT-Creation-Date: 2025-11-20 14:42+0000\n"
 "PO-Revision-Date: 2025-02-19 14:19+0000\n"
 "Last-Translator: GREEN MONSTER <racovitavvalentin@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/weblate/legal/"
@@ -648,33 +648,45 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
-"Your translations are made under the license which is specified by each "
-"translation."
+"By registering, you agree that your name and username will be visible "
+"publicly as long as your account exists."
 msgstr ""
-"Traducerile tale sunt realizate sub licența specificată pentru fiecare "
-"traducere."
 
 #: wllegal/templates/legal/documents/summary.html:11
+#, fuzzy
+#| msgid ""
+#| "Your name and e-mail address is used in VCS commits, it will stay there "
+#| "indefinitely."
 msgid ""
-"Your name and e-mail address is used in VCS commits, it will stay there "
-"indefinitely."
+"Your name and e-mail can be used in version control system commits to author "
+"the changes you made; they can be stored there indefinitely."
 msgstr ""
 "Numele și adresa ta de e-mail sunt folosite în comiteri ale SCV și vor "
 "rămâne acolo pe termen nelimitat."
 
 #: wllegal/templates/legal/documents/summary.html:12
+#, fuzzy
+#| msgid ""
+#| "Chosen name is up to you and the e-mail address used for commits can be "
+#| "masked by Weblate system to protect your privacy."
 msgid ""
-"Chosen name is up to you and the e-mail address used for commits can be "
-"masked by Weblate system to protect your privacy."
+"Name choice is yours, and the e-mail address used for commits can be masked "
+"by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
 "Numele ales depinde de tine, iar adresa de e-mail utilizată pentru comiteri "
 "poate fi mascată de sistemul Weblate pentru a-ți proteja confidențialitatea."
 
 #: wllegal/templates/legal/documents/summary.html:15
+msgid ""
+"You provide your contribution under the license defined by each project you "
+"contributed to."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:18
 msgid "We use cookies to deliver our services."
 msgstr "Utilizăm cookie-uri pentru a ne furniza serviciile."
 
-#: wllegal/templates/legal/documents/summary.html:16
+#: wllegal/templates/legal/documents/summary.html:19
 msgid "We don’t use any third-party cookies."
 msgstr "Nu folosim niciun cookie de la terți."
 
@@ -828,14 +840,14 @@ msgstr "Date personale"
 #: wllegal/templates/legal/documents/tos.html:96
 #, fuzzy
 #| msgid ""
-#| "means personal data within the meaning of EU Regulation No. "
-#| "%(law_679_2016)s inserted by the User into the Service and/or Cookies"
+#| "means personal data within the meaning of EU Regulation No. %"
+#| "(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"înseamnă datele cu caracter personal în sensul Regulamentului UE nr. "
-"%(law_679_2016)s introduse de către Utilizator în Serviciu și/sau Cookie-uri"
+"înseamnă datele cu caracter personal în sensul Regulamentului UE nr. %"
+"(law_679_2016)s introduse de către Utilizator în Serviciu și/sau Cookie-uri"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
@@ -1887,6 +1899,13 @@ msgid "These Terms enter into force on November 1, 2024."
 msgstr ""
 "Acești Termeni și condiții de utilizare intră în vigoare la data de 15 mai "
 "2023."
+
+#~ msgid ""
+#~ "Your translations are made under the license which is specified by each "
+#~ "translation."
+#~ msgstr ""
+#~ "Traducerile tale sunt realizate sub licența specificată pentru fiecare "
+#~ "traducere."
 
 #, python-format
 #~ msgid ""

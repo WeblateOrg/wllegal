@@ -6,9 +6,9 @@
 # anonymous <noreply@weblate.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2025-06-18 07:39+0000\n"
+"POT-Creation-Date: 2025-11-20 14:42+0000\n"
 "PO-Revision-Date: 2025-09-08 19:22+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/weblate/legal/"
@@ -609,32 +609,45 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
-"Your translations are made under the license which is specified by each "
-"translation."
+"By registering, you agree that your name and username will be visible "
+"publicly as long as your account exists."
 msgstr ""
-"Tvoji se prijevodi izrađuju pod licencom koja je određena za svaki prijevod."
 
 #: wllegal/templates/legal/documents/summary.html:11
+#, fuzzy
+#| msgid ""
+#| "Your name and e-mail address is used in VCS commits, it will stay there "
+#| "indefinitely."
 msgid ""
-"Your name and e-mail address is used in VCS commits, it will stay there "
-"indefinitely."
+"Your name and e-mail can be used in version control system commits to author "
+"the changes you made; they can be stored there indefinitely."
 msgstr ""
 "Tvoje ime i e-adresa koriste se za izmjene u sustavu za kontrolu verzija. "
 "Tamo će ostati zauvijek."
 
 #: wllegal/templates/legal/documents/summary.html:12
+#, fuzzy
+#| msgid ""
+#| "Chosen name is up to you and the e-mail address used for commits can be "
+#| "masked by Weblate system to protect your privacy."
 msgid ""
-"Chosen name is up to you and the e-mail address used for commits can be "
-"masked by Weblate system to protect your privacy."
+"Name choice is yours, and the e-mail address used for commits can be masked "
+"by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
 "Odaberi ime proizvoljno. E-mail adresa koja se koristi za promjene se može "
 "maskirati pomoću Weblate sustava za zaštitu tvoje privatnosti."
 
 #: wllegal/templates/legal/documents/summary.html:15
+msgid ""
+"You provide your contribution under the license defined by each project you "
+"contributed to."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:18
 msgid "We use cookies to deliver our services."
 msgstr "Koristimo kolačiće za dostavljanje naših usluga."
 
-#: wllegal/templates/legal/documents/summary.html:16
+#: wllegal/templates/legal/documents/summary.html:19
 msgid "We don’t use any third-party cookies."
 msgstr "Ne koristimo kolačiće trećih strana."
 
@@ -664,11 +677,10 @@ msgid ""
 "contractual relationship between the service provider and the User."
 msgstr ""
 "Ovi Opći uvjeti poslovanja su sastavni dio ugovora o usluzi sklopljenog "
-"između Korisnika i Pružatelja usluge (u daljnjem tekstu "
-"„<strong>Ugovor</strong>“) te definiraju obvezujuća pravila i uvjete za "
-"pružanje usluga i proizvoda te za korištenje usluga i proizvoda. Ovi opći "
-"uvjeti poslovanja uređuju ugovorni odnos između Pružatelja usluge i "
-"Korisnika."
+"između Korisnika i Pružatelja usluge (u daljnjem tekstu „<strong>Ugovor</"
+"strong>“) te definiraju obvezujuća pravila i uvjete za pružanje usluga i "
+"proizvoda te za korištenje usluga i proizvoda. Ovi opći uvjeti poslovanja "
+"uređuju ugovorni odnos između Pružatelja usluge i Korisnika."
 
 #: wllegal/templates/legal/documents/tos.html:24
 msgid ""
@@ -1825,6 +1837,13 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:648
 msgid "These Terms enter into force on November 1, 2024."
 msgstr "Ovi uvjeti stupaju na snagu 1. studenoga 2024."
+
+#~ msgid ""
+#~ "Your translations are made under the license which is specified by each "
+#~ "translation."
+#~ msgstr ""
+#~ "Tvoji se prijevodi izrađuju pod licencom koja je određena za svaki "
+#~ "prijevod."
 
 #, python-format
 #~ msgid ""

@@ -9,9 +9,9 @@
 # amano <amano.hajime@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2025-06-18 07:39+0000\n"
+"POT-Creation-Date: 2025-11-20 14:42+0000\n"
 "PO-Revision-Date: 2025-08-01 06:02+0000\n"
 "Last-Translator: 奈須厚志郎 <20211161118@arakawa-city.ed.jp>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/weblate/legal/"
@@ -65,9 +65,9 @@ msgid ""
 "No. C 52324, i.e. the \"<strong>Provider</strong>\"."
 msgstr ""
 "このポリシーは、Weblate s.r.o. (ID 番号: 21668027、登録事務所: Nábřežní 694, "
-"Cvikov II, 471 54 Cvikov) によって発行され、Ústí nad Labem "
-"の地方裁判所が保管する商業登記簿に登録され、ファイル番号 C 52324 "
-"で登録されている、「<strong>プロバイダー</strong>」です。"
+"Cvikov II, 471 54 Cvikov) によって発行され、Ústí nad Labem の地方裁判所が保管"
+"する商業登記簿に登録され、ファイル番号 C 52324 で登録されている、「<strong>プ"
+"ロバイダー</strong>」です。"
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid ""
@@ -76,20 +76,19 @@ msgid ""
 "the Services, Products, Support Services, as well as when using the Website "
 "and other possible services and related activities."
 msgstr ""
-"本ポリシーは、サービス、製品、サポート サービスにアクセスして使用する場合、"
-"また Web "
-"サイトやその他のサービスや関連アクティビティを使用する場合に、データ主体（個"
-"人）としてのユーザーの個人データをプロバイダーがどのように取り扱うかを説明し"
-"ています。"
+"本ポリシーは、サービス、製品、サポート サービスにアクセスして使用する場合、ま"
+"た Web サイトやその他のサービスや関連アクティビティを使用する場合に、データ主"
+"体（個人）としてのユーザーの個人データをプロバイダーがどのように取り扱うかを"
+"説明しています。"
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid ""
 "This Policy also uses certain terms or definitions which have been defined "
 "in Article 1 of the Terms and which have the same meaning as set out in the "
 "Terms."
-msgstr "本ポリシーでは、利用規約の第 1 "
-"条に定義され、利用規約に規定されているものと同じ意味を持つ特定の用語または定"
-"義も使用します。"
+msgstr ""
+"本ポリシーでは、利用規約の第 1 条に定義され、利用規約に規定されているものと同"
+"じ意味を持つ特定の用語または定義も使用します。"
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
@@ -103,11 +102,10 @@ msgid ""
 "sector (abbreviated as the \"<strong>ePrivacy Directive</strong>\")."
 msgstr ""
 "プロバイダーは、個人データの処理にあたり、欧州議会および理事会の規則 (EU) "
-"2016/679、一般データ保護規則 (GDPR) "
-"(以下、「GDPR」の略称を使用します)、個人データの処理に関する法律第110/2019 "
-"Coll.、および2002年7月12日の欧州議会および理事会の指令2002/58/EC "
-"(電子通信分野における個人データの処理およびプライバシーの保護に関する指令「e"
-"プライバシー指令」と略称します) を遵守します。"
+"2016/679、一般データ保護規則 (GDPR) (以下、「GDPR」の略称を使用します)、個人"
+"データの処理に関する法律第110/2019 Coll.、および2002年7月12日の欧州議会および"
+"理事会の指令2002/58/EC (電子通信分野における個人データの処理およびプライバ"
+"シーの保護に関する指令「eプライバシー指令」と略称します) を遵守します。"
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -129,9 +127,9 @@ msgid ""
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
 msgstr ""
-"その後、処理はプロバイダによって直接実行されるか、または本ポリシーの第 3 "
-"条の意味における、プロバイダによって本ポリシーに従って個人データを処理する権"
-"限を与えられた第三者によって実行されます。"
+"その後、処理はプロバイダによって直接実行されるか、または本ポリシーの第 3 条の"
+"意味における、プロバイダによって本ポリシーに従って個人データを処理する権限を"
+"与えられた第三者によって実行されます。"
 
 #: wllegal/templates/legal/documents/privacy.html:45
 msgid ""
@@ -139,9 +137,9 @@ msgid ""
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
-"本ポリシーに明示的に記載されていない限り、プロバイダーは "
-"<strong>データ管理者</strong> 自然人であるユーザーは、GDPR "
-"で定義されている役割に従ってデータ主体として機能します。"
+"本ポリシーに明示的に記載されていない限り、プロバイダーは <strong>データ管理者"
+"</strong> 自然人であるユーザーは、GDPR で定義されている役割に従ってデータ主体"
+"として機能します。"
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
@@ -632,32 +630,46 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
-"Your translations are made under the license which is specified by each "
-"translation."
-msgstr "あなたの翻訳は、各翻訳で指定されているライセンスに基づいて行われます。"
+"By registering, you agree that your name and username will be visible "
+"publicly as long as your account exists."
+msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:11
+#, fuzzy
+#| msgid ""
+#| "Your name and e-mail address is used in VCS commits, it will stay there "
+#| "indefinitely."
 msgid ""
-"Your name and e-mail address is used in VCS commits, it will stay there "
-"indefinitely."
+"Your name and e-mail can be used in version control system commits to author "
+"the changes you made; they can be stored there indefinitely."
 msgstr ""
 "あなたの名前とメールアドレスは、VCS のコミットにおいて使用されます。保管に期"
 "限はありません。"
 
 #: wllegal/templates/legal/documents/summary.html:12
+#, fuzzy
+#| msgid ""
+#| "Chosen name is up to you and the e-mail address used for commits can be "
+#| "masked by Weblate system to protect your privacy."
 msgid ""
-"Chosen name is up to you and the e-mail address used for commits can be "
-"masked by Weblate system to protect your privacy."
+"Name choice is yours, and the e-mail address used for commits can be masked "
+"by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
 "使用する名前の選択権はお客様にあります。コミットに使用されるメールアドレス"
 "は、プライバシーを保護するために Weblate のシステムによって隠ぺいすることがで"
 "きます。"
 
 #: wllegal/templates/legal/documents/summary.html:15
+msgid ""
+"You provide your contribution under the license defined by each project you "
+"contributed to."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:18
 msgid "We use cookies to deliver our services."
 msgstr "サービスの提供のために Cookie を使用します。"
 
-#: wllegal/templates/legal/documents/summary.html:16
+#: wllegal/templates/legal/documents/summary.html:19
 msgid "We don’t use any third-party cookies."
 msgstr "サードパーティの Cookie は使用していません。"
 
@@ -788,7 +800,8 @@ msgstr "ライセンス"
 msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
-msgstr "本サービスを利用するために提供者が利用者に付与した非独占的ライセンスです"
+msgstr ""
+"本サービスを利用するために提供者が利用者に付与した非独占的ライセンスです"
 
 #: wllegal/templates/legal/documents/tos.html:93
 msgid "Personal Data"
@@ -797,12 +810,13 @@ msgstr "個人情報"
 #: wllegal/templates/legal/documents/tos.html:96
 #, fuzzy
 #| msgid ""
-#| "means personal data within the meaning of EU Regulation No. "
-#| "%(law_679_2016)s inserted by the User into the Service and/or Cookies"
+#| "means personal data within the meaning of EU Regulation No. %"
+#| "(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
-msgstr "EU 規則番号第679/2016号に定められた個人情報で、利用者が本サービスまたは "
+msgstr ""
+"EU 規則番号第679/2016号に定められた個人情報で、利用者が本サービスまたは "
 "Cookie に書き込んだものです；"
 
 #: wllegal/templates/legal/documents/tos.html:100
@@ -1818,6 +1832,12 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:648
 msgid "These Terms enter into force on November 1, 2024."
 msgstr "これらの利用規約は2024年11月1日に発効します。"
+
+#~ msgid ""
+#~ "Your translations are made under the license which is specified by each "
+#~ "translation."
+#~ msgstr ""
+#~ "あなたの翻訳は、各翻訳で指定されているライセンスに基づいて行われます。"
 
 #, python-format
 #~ msgid ""

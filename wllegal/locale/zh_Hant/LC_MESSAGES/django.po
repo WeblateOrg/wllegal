@@ -7,9 +7,9 @@
 # byStarTW <pan93412@gmail.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2025-06-18 07:39+0000\n"
+"POT-Creation-Date: 2025-11-20 14:42+0000\n"
 "PO-Revision-Date: 2025-11-16 02:11+0000\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
@@ -48,9 +48,9 @@ msgid ""
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
-"本隱私權政策（下稱「<strong>政策</strong>」）係對 Weblate 的《<a href="
-"\"%(terms_url)s\">一般條款與條件</a>》（下稱「<strong>條款</strong>」）之補充"
-"。"
+"本隱私權政策（下稱「<strong>政策</strong>」）係對 Weblate 的《<a "
+"href=\"%(terms_url)s\">一般條款與條件</a>》（下稱「<strong>條款</strong>」）"
+"之補充。"
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
@@ -84,7 +84,8 @@ msgid ""
 "This Policy also uses certain terms or definitions which have been defined "
 "in Article 1 of the Terms and which have the same meaning as set out in the "
 "Terms."
-msgstr "此政策也使用某些已於《條款》第一條中定義的術語以及定義，並具有與《條款》中所"
+msgstr ""
+"此政策也使用某些已於《條款》第一條中定義的術語以及定義，並具有與《條款》中所"
 "載相同之含義。"
 
 #: wllegal/templates/legal/documents/privacy.html:33
@@ -101,8 +102,8 @@ msgstr ""
 "在處理個人資料時，提供者遵守《歐盟議會及理事會第 2016/679 號條例》（即《一般"
 "資料保護條例》，簡稱「<strong>GDPR</strong>」）、捷克《第 110/2019 號個人資料"
 "處理法》修訂版，以及《歐盟議會及理事會 2002 年 7 月 12 日關於在電子通訊領域處"
-"理個人資料和保護隱私的第 2002/58/EC 號指令》（簡稱「<strong>ePrivacy 指令</st"
-"rong>」）。"
+"理個人資料和保護隱私的第 2002/58/EC 號指令》（簡稱「<strong>ePrivacy 指令</"
+"strong>」）。"
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -122,7 +123,8 @@ msgid ""
 "third parties within the meaning of Article 3 of this Policy who have been "
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
-msgstr "後續的資料處理將由提供者直接執行和/或由本政策第 3 條所指、經提供者授權依本政"
+msgstr ""
+"後續的資料處理將由提供者直接執行和/或由本政策第 3 條所指、經提供者授權依本政"
 "策處理個人資料的第三方執行。"
 
 #: wllegal/templates/legal/documents/privacy.html:45
@@ -625,29 +627,43 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
-"Your translations are made under the license which is specified by each "
-"translation."
-msgstr "您的翻譯所採用的授權方式由各個翻譯專案指定。"
+"By registering, you agree that your name and username will be visible "
+"publicly as long as your account exists."
+msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:11
+#, fuzzy
+#| msgid ""
+#| "Your name and e-mail address is used in VCS commits, it will stay there "
+#| "indefinitely."
 msgid ""
-"Your name and e-mail address is used in VCS commits, it will stay there "
-"indefinitely."
+"Your name and e-mail can be used in version control system commits to author "
+"the changes you made; they can be stored there indefinitely."
 msgstr "您的名稱與電子郵件位址會在 VCS 送交動作中使用，它會無限期留在該處。"
 
 #: wllegal/templates/legal/documents/summary.html:12
+#, fuzzy
+#| msgid ""
+#| "Chosen name is up to you and the e-mail address used for commits can be "
+#| "masked by Weblate system to protect your privacy."
 msgid ""
-"Chosen name is up to you and the e-mail address used for commits can be "
-"masked by Weblate system to protect your privacy."
+"Name choice is yours, and the e-mail address used for commits can be masked "
+"by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
 "你可以自行選擇名稱，且用來送交的電子郵件地址可透過 Weblate 系統進行隱藏，以確"
 "保你的隱私安全。"
 
 #: wllegal/templates/legal/documents/summary.html:15
+msgid ""
+"You provide your contribution under the license defined by each project you "
+"contributed to."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:18
 msgid "We use cookies to deliver our services."
 msgstr "我們使用 Cookie 遞送我們的服務。"
 
-#: wllegal/templates/legal/documents/summary.html:16
+#: wllegal/templates/legal/documents/summary.html:19
 msgid "We don’t use any third-party cookies."
 msgstr "我們不使用任何第三方的 cookie。"
 
@@ -796,8 +812,9 @@ msgstr "個人資料"
 msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
-msgstr "指「使用者」在「服務」和或「Cookie」中插入的有關歐盟法規 編號 679/2016 "
-"所指的個人資料；"
+msgstr ""
+"指「使用者」在「服務」和或「Cookie」中插入的有關歐盟法規 編號 679/2016 所指的"
+"個人資料；"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
@@ -1841,6 +1858,11 @@ msgstr ""
 #| "These Terms of Service shall come into force and effect on 15th May 2023."
 msgid "These Terms enter into force on November 1, 2024."
 msgstr "這些「服務條款」應在2023 年 3 月 15 日實施並生效。"
+
+#~ msgid ""
+#~ "Your translations are made under the license which is specified by each "
+#~ "translation."
+#~ msgstr "您的翻譯所採用的授權方式由各個翻譯專案指定。"
 
 #, python-format
 #~ msgid ""

@@ -1,9 +1,9 @@
 # anonymous <noreply@weblate.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate \n"
+"Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2025-06-18 07:39+0000\n"
+"POT-Creation-Date: 2025-11-20 14:42+0000\n"
 "PO-Revision-Date: 2025-05-15 01:16+0000\n"
 "Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/weblate/legal/kab/"
@@ -600,34 +600,40 @@ msgstr ""
 "taffa-nneɣ n yisefka ticki tekkseḍ amiḍan-ik."
 
 #: wllegal/templates/legal/documents/summary.html:8
-#, fuzzy
-#| msgid ""
-#| "Your translations are made under license which is specified by each "
-#| "translation."
 msgid ""
-"Your translations are made under the license which is specified by each "
-"translation."
-msgstr "Tisuqilin-ik ad ilin s turagt ara d-yettwammlen deg yal asenfaṛ."
+"By registering, you agree that your name and username will be visible "
+"publicly as long as your account exists."
+msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:11
+#, fuzzy
+#| msgid ""
+#| "Your name and e-mail address is used in VCS commits, it will stay there "
+#| "indefinitely."
 msgid ""
-"Your name and e-mail address is used in VCS commits, it will stay there "
-"indefinitely."
+"Your name and e-mail can be used in version control system commits to author "
+"the changes you made; they can be stored there indefinitely."
 msgstr ""
 "Isem-ik d tansa-ik n yimayl ad ttwasqedcen deg teṛcivt n unagraw n usefrek n "
 "yileqman, s wudem imezgi."
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid ""
-"Chosen name is up to you and the e-mail address used for commits can be "
-"masked by Weblate system to protect your privacy."
+"Name choice is yours, and the e-mail address used for commits can be masked "
+"by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:15
+msgid ""
+"You provide your contribution under the license defined by each project you "
+"contributed to."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:18
 msgid "We use cookies to deliver our services."
 msgstr "NSeqdac inagan n tuqqna akken ad d-nmudd imeẓla."
 
-#: wllegal/templates/legal/documents/summary.html:16
+#: wllegal/templates/legal/documents/summary.html:19
 msgid "We don’t use any third-party cookies."
 msgstr ""
 
@@ -779,8 +785,8 @@ msgstr "Isefka udmawanen"
 #: wllegal/templates/legal/documents/tos.html:96
 #, fuzzy
 #| msgid ""
-#| "means personal data within the meaning of EU Regulation No. "
-#| "%(law_679_2016)s inserted by the User into the Service and/or Cookies"
+#| "means personal data within the meaning of EU Regulation No. %"
+#| "(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
@@ -1833,6 +1839,15 @@ msgstr ""
 #| "2017."
 msgid "These Terms enter into force on November 1, 2024."
 msgstr "Tiwtili-a n useqdec teddunt seg 1 n Ctember 2017."
+
+#, fuzzy
+#~| msgid ""
+#~| "Your translations are made under license which is specified by each "
+#~| "translation."
+#~ msgid ""
+#~ "Your translations are made under the license which is specified by each "
+#~ "translation."
+#~ msgstr "Tisuqilin-ik ad ilin s turagt ara d-yettwammlen deg yal asenfaṛ."
 
 #, python-format
 #~ msgid ""

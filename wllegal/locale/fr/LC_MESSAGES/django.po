@@ -8,13 +8,13 @@
 # Localisation Lab <ao@localizationlab.org>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2025-06-18 07:39+0000\n"
+"POT-Creation-Date: 2025-11-20 14:42+0000\n"
 "PO-Revision-Date: 2025-09-11 19:02+0000\n"
 "Last-Translator: Laurent FAVOLE <lfavole@users.noreply.hosted.weblate.org>\n"
-"Language-Team: French <https://hosted.weblate.org/projects/weblate/legal/fr/>"
-"\n"
+"Language-Team: French <https://hosted.weblate.org/projects/weblate/legal/fr/"
+">\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -110,13 +110,13 @@ msgid ""
 msgstr ""
 "Lors du traitement des données personnelles, le Fournisseur se conforme au "
 "Règlement (UE) 2016/679 du Parlement européen et du Conseil, le Règlement "
-"général sur la protection des données, également connu sous le nom de RGPD ("
-"nous utiliserons ci-après l’abréviation « <strong>RGPD</strong> »), à la Loi "
-"n° 110/2019 Coll., sur le traitement des données personnelles, ainsi qu’à la "
-"Directive 2002/58/CE du Parlement européen et du Conseil du 12 juillet 2002 "
-"relative au traitement des données personnelles et à la protection de la vie "
-"privée dans le secteur des communications électroniques (abrégée en « "
-"<strong>Directive ePrivacy</strong> »)."
+"général sur la protection des données, également connu sous le nom de RGPD "
+"(nous utiliserons ci-après l’abréviation « <strong>RGPD</strong> »), à la "
+"Loi n° 110/2019 Coll., sur le traitement des données personnelles, ainsi "
+"qu’à la Directive 2002/58/CE du Parlement européen et du Conseil du 12 "
+"juillet 2002 relative au traitement des données personnelles et à la "
+"protection de la vie privée dans le secteur des communications électroniques "
+"(abrégée en « <strong>Directive ePrivacy</strong> »)."
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -689,34 +689,46 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
-"Your translations are made under the license which is specified by each "
-"translation."
+"By registering, you agree that your name and username will be visible "
+"publicly as long as your account exists."
 msgstr ""
-"Vos traductions sont soumises à une licence qui est précisée pour chacun des "
-"projets."
 
 #: wllegal/templates/legal/documents/summary.html:11
+#, fuzzy
+#| msgid ""
+#| "Your name and e-mail address is used in VCS commits, it will stay there "
+#| "indefinitely."
 msgid ""
-"Your name and e-mail address is used in VCS commits, it will stay there "
-"indefinitely."
+"Your name and e-mail can be used in version control system commits to author "
+"the changes you made; they can be stored there indefinitely."
 msgstr ""
 "Votre nom et votre adresse courriel sont utilisés dans les archivages du "
 "système de contrôle de versions, de façon permanente."
 
 #: wllegal/templates/legal/documents/summary.html:12
+#, fuzzy
+#| msgid ""
+#| "Chosen name is up to you and the e-mail address used for commits can be "
+#| "masked by Weblate system to protect your privacy."
 msgid ""
-"Chosen name is up to you and the e-mail address used for commits can be "
-"masked by Weblate system to protect your privacy."
+"Name choice is yours, and the e-mail address used for commits can be masked "
+"by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
 "Le nom est choisi par vous et l’adresse courriel utilisée pour vos "
 "contributions peut être masquée par le système Weblate pour protéger votre "
 "vie privée."
 
 #: wllegal/templates/legal/documents/summary.html:15
+msgid ""
+"You provide your contribution under the license defined by each project you "
+"contributed to."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:18
 msgid "We use cookies to deliver our services."
 msgstr "Nous utilisons des cookies pour fournir nos services."
 
-#: wllegal/templates/legal/documents/summary.html:16
+#: wllegal/templates/legal/documents/summary.html:19
 msgid "We don’t use any third-party cookies."
 msgstr "Nous n’utilisons pas de témoins de connexion tiers."
 
@@ -877,14 +889,14 @@ msgstr "Données personnelles"
 #: wllegal/templates/legal/documents/tos.html:96
 #, fuzzy
 #| msgid ""
-#| "means personal data within the meaning of EU Regulation No. "
-#| "%(law_679_2016)s inserted by the User into the Service and/or Cookies"
+#| "means personal data within the meaning of EU Regulation No. %"
+#| "(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"désigne les données personnelles au sens de la régulation EU "
-"n° %(law_679_2016)s, fournies par l’Utilisateur dans le Service et/ou les "
+"désigne les données personnelles au sens de la régulation EU n° %"
+"(law_679_2016)s, fournies par l’Utilisateur dans le Service et/ou les "
 "témoins de connexion"
 
 #: wllegal/templates/legal/documents/tos.html:100
@@ -1930,6 +1942,13 @@ msgstr ""
 msgid "These Terms enter into force on November 1, 2024."
 msgstr ""
 "Ces conditions générales sont effectives à compter du 1er novembre 2024."
+
+#~ msgid ""
+#~ "Your translations are made under the license which is specified by each "
+#~ "translation."
+#~ msgstr ""
+#~ "Vos traductions sont soumises à une licence qui est précisée pour chacun "
+#~ "des projets."
 
 #, python-format
 #~ msgid ""

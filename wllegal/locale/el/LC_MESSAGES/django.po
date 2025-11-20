@@ -5,13 +5,13 @@
 # anonymous <noreply@weblate.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2025-06-18 07:39+0000\n"
+"POT-Creation-Date: 2025-11-20 14:42+0000\n"
 "PO-Revision-Date: 2025-08-12 10:25+0000\n"
 "Last-Translator: Λευθέρης Τρόμπακας <lefteristrompakas@gmail.com>\n"
-"Language-Team: Greek <https://hosted.weblate.org/projects/weblate/legal/el/>"
-"\n"
+"Language-Team: Greek <https://hosted.weblate.org/projects/weblate/legal/el/"
+">\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -582,7 +582,8 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:292
 msgid "This Policy become effective upon their publication on the Website."
-msgstr "Η παρούσα Πολιτική τίθεται σε ισχύ με την δημοσίευση της στον Ιστότοπο."
+msgstr ""
+"Η παρούσα Πολιτική τίθεται σε ισχύ με την δημοσίευση της στον Ιστότοπο."
 
 #: wllegal/templates/legal/documents/privacy.html:296
 msgid "In Prague on November 1, 2024."
@@ -599,31 +600,39 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
-"Your translations are made under the license which is specified by each "
-"translation."
+"By registering, you agree that your name and username will be visible "
+"publicly as long as your account exists."
 msgstr ""
-"Οι μεταφράσεις σας γίνονται κάτω από την άδεια που καθορίζεται από κάθε "
-"μετάφραση."
 
 #: wllegal/templates/legal/documents/summary.html:11
+#, fuzzy
+#| msgid ""
+#| "Your name and e-mail address is used in VCS commits, it will stay there "
+#| "indefinitely."
 msgid ""
-"Your name and e-mail address is used in VCS commits, it will stay there "
-"indefinitely."
+"Your name and e-mail can be used in version control system commits to author "
+"the changes you made; they can be stored there indefinitely."
 msgstr ""
 "Το όνομα και η διεύθυνση email σας, χρησιμοποιούνται σε VCS commits, θα "
 "παραμείνουν εκεί επ' αόριστο."
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid ""
-"Chosen name is up to you and the e-mail address used for commits can be "
-"masked by Weblate system to protect your privacy."
+"Name choice is yours, and the e-mail address used for commits can be masked "
+"by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:15
+msgid ""
+"You provide your contribution under the license defined by each project you "
+"contributed to."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:18
 msgid "We use cookies to deliver our services."
 msgstr "Χρησιμοποιούμε cookies για να παραδώσουμε τις υπηρεσίες μας."
 
-#: wllegal/templates/legal/documents/summary.html:16
+#: wllegal/templates/legal/documents/summary.html:19
 msgid "We don’t use any third-party cookies."
 msgstr ""
 
@@ -995,8 +1004,8 @@ msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
 msgstr ""
-"(τα σημεία a), b), και c) αναφέρονται συλλογικά ως η "
-"\"<strong>Συνδρομή</strong>\")."
+"(τα σημεία a), b), και c) αναφέρονται συλλογικά ως η \"<strong>Συνδρομή</"
+"strong>\")."
 
 #: wllegal/templates/legal/documents/tos.html:258
 msgid ""
@@ -1779,6 +1788,13 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:648
 msgid "These Terms enter into force on November 1, 2024."
 msgstr "Οι παρόντες Όροι τίθενται σε ισχύ την 1η Νοεμβρίου 2024."
+
+#~ msgid ""
+#~ "Your translations are made under the license which is specified by each "
+#~ "translation."
+#~ msgstr ""
+#~ "Οι μεταφράσεις σας γίνονται κάτω από την άδεια που καθορίζεται από κάθε "
+#~ "μετάφραση."
 
 #, python-format
 #~ msgid ""

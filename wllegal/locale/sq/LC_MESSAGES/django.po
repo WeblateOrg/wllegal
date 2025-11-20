@@ -6,9 +6,9 @@
 # Besnik Bleta <besnik@programeshqip.org>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2025-06-18 07:39+0000\n"
+"POT-Creation-Date: 2025-11-20 14:42+0000\n"
 "PO-Revision-Date: 2025-11-11 08:51+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/weblate/legal/"
@@ -605,33 +605,46 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
-"Your translations are made under the license which is specified by each "
-"translation."
+"By registering, you agree that your name and username will be visible "
+"publicly as long as your account exists."
 msgstr ""
-"Përkthimet tuaja bëhen sipas licencës që përcaktohet nga secili përkthim."
 
 #: wllegal/templates/legal/documents/summary.html:11
+#, fuzzy
+#| msgid ""
+#| "Your name and e-mail address is used in VCS commits, it will stay there "
+#| "indefinitely."
 msgid ""
-"Your name and e-mail address is used in VCS commits, it will stay there "
-"indefinitely."
+"Your name and e-mail can be used in version control system commits to author "
+"the changes you made; they can be stored there indefinitely."
 msgstr ""
 "Emri dhe adresa juaj email përdoren gjatë parashtrimesh VCS, do të mbeten "
 "atje për një kohë të papërcaktuar."
 
 #: wllegal/templates/legal/documents/summary.html:12
+#, fuzzy
+#| msgid ""
+#| "Chosen name is up to you and the e-mail address used for commits can be "
+#| "masked by Weblate system to protect your privacy."
 msgid ""
-"Chosen name is up to you and the e-mail address used for commits can be "
-"masked by Weblate system to protect your privacy."
+"Name choice is yours, and the e-mail address used for commits can be masked "
+"by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
 "Emri i zgjedhur është në dorën tuaj dhe adresa email e përdorur për "
 "depozitime mund të maskohet nga sistemi Weblate, për të mbrojtur privatësinë "
 "tuaj."
 
 #: wllegal/templates/legal/documents/summary.html:15
+msgid ""
+"You provide your contribution under the license defined by each project you "
+"contributed to."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:18
 msgid "We use cookies to deliver our services."
 msgstr "Që të ofrojmë shërbimet tona, përdorim &lt;em&gt;cookies&lt;/em&gt;."
 
-#: wllegal/templates/legal/documents/summary.html:16
+#: wllegal/templates/legal/documents/summary.html:19
 msgid "We don’t use any third-party cookies."
 msgstr "Nuk përdorim ndonjë “cookie” palësh të treta."
 
@@ -1800,6 +1813,12 @@ msgstr ""
 msgid "These Terms enter into force on November 1, 2024."
 msgstr "Këto Kushte hyjnë në fuqi më 1 nëntor 2024."
 
+#~ msgid ""
+#~ "Your translations are made under the license which is specified by each "
+#~ "translation."
+#~ msgstr ""
+#~ "Përkthimet tuaja bëhen sipas licencës që përcaktohet nga secili përkthim."
+
 #, python-format
 #~ msgid ""
 #~ "We comply with the Regulation No. %(law_679_2016)s, the General Data "
@@ -2119,9 +2138,9 @@ msgstr "Këto Kushte hyjnë në fuqi më 1 nëntor 2024."
 #~ "means in the Provider’s use."
 #~ msgstr ""
 #~ "Përdoruesi bie dakord të përdorë Shërbimin vetëm në një mënyrë që nuk "
-#~ "rrezikon mjetet teknike &lt;em&gt;software&lt;/em&gt; dhe/ose &lt;em&gt;"
-#~ "hardware&lt;/em&gt; të Furnizuesit të Shërbimit dhe/ose mjete të tilla në "
-#~ "përdorim të Furnizuesit të Shërbimit."
+#~ "rrezikon mjetet teknike &lt;em&gt;software&lt;/em&gt; dhe/ose "
+#~ "&lt;em&gt;hardware&lt;/em&gt; të Furnizuesit të Shërbimit dhe/ose mjete "
+#~ "të tilla në përdorim të Furnizuesit të Shërbimit."
 
 #~ msgid ""
 #~ "The User agrees to refrain from use of the Service in bad faith and/or "

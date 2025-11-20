@@ -13,9 +13,9 @@
 # Changpeng Sun <zzjbcn@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2025-06-18 07:39+0000\n"
+"POT-Creation-Date: 2025-11-20 14:42+0000\n"
 "PO-Revision-Date: 2025-10-21 08:28+0000\n"
 "Last-Translator: Sketch6580 <sketch6580@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
@@ -335,13 +335,13 @@ msgid ""
 "%(address)s\">%(address)s</a>."
 msgstr ""
 "提供者也可以基于用户<strong>自愿且知情</strong>的同意处理用户的特定个人数据，"
-"特别是电子邮件地址、名字、姓氏以及任何其他个人数据（如果出于这些目的而提供）"
-"。处理期限为 <strong>2 年</strong>和/或者直至同意被撤销。<strong>决不</strong"
-">以用户提供同意作为使用服务或产品（包括支持服务）的条件。然而，对于向尚未成为"
-"用户的数据主体发送新闻通讯、提供与提供者其他服务无关的额外福利或附加资源、和/"
-"或披露与向提供者捐款相关的用户个人数据等情况，通常需要获得同意。可随时在用户"
-"账户界面撤销同意，如果同意是以其他方式授予的，可以发送请求到 <a href="
-"\"mailto:%(address)s\">%(address)s</a> 进行撤销。"
+"特别是电子邮件地址、名字、姓氏以及任何其他个人数据（如果出于这些目的而提"
+"供）。处理期限为 <strong>2 年</strong>和/或者直至同意被撤销。<strong>决不</"
+"strong>以用户提供同意作为使用服务或产品（包括支持服务）的条件。然而，对于向尚"
+"未成为用户的数据主体发送新闻通讯、提供与提供者其他服务无关的额外福利或附加资"
+"源、和/或披露与向提供者捐款相关的用户个人数据等情况，通常需要获得同意。可随时"
+"在用户账户界面撤销同意，如果同意是以其他方式授予的，可以发送请求到 <a "
+"href=\"mailto:%(address)s\">%(address)s</a> 进行撤销。"
 
 #: wllegal/templates/legal/documents/privacy.html:144
 msgid ""
@@ -711,33 +711,49 @@ msgstr "2024年11月1日于布拉格。"
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
-msgstr "我们处理个人数据（如您的电子邮件地址），如果您删除账号，这些数据将从我们的数"
+msgstr ""
+"我们处理个人数据（如您的电子邮件地址），如果您删除账号，这些数据将从我们的数"
 "据库中清除。"
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
-"Your translations are made under the license which is specified by each "
-"translation."
-msgstr "您的译文在每个翻译项目指定的许可证下进行。"
+"By registering, you agree that your name and username will be visible "
+"publicly as long as your account exists."
+msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:11
+#, fuzzy
+#| msgid ""
+#| "Your name and e-mail address is used in VCS commits, it will stay there "
+#| "indefinitely."
 msgid ""
-"Your name and e-mail address is used in VCS commits, it will stay there "
-"indefinitely."
+"Your name and e-mail can be used in version control system commits to author "
+"the changes you made; they can be stored there indefinitely."
 msgstr "您的名称和电子邮件地址将用于版本控制系统提交，这些信息将被永久保留。"
 
 #: wllegal/templates/legal/documents/summary.html:12
+#, fuzzy
+#| msgid ""
+#| "Chosen name is up to you and the e-mail address used for commits can be "
+#| "masked by Weblate system to protect your privacy."
 msgid ""
-"Chosen name is up to you and the e-mail address used for commits can be "
-"masked by Weblate system to protect your privacy."
-msgstr "所选名称由您决定，还可以通过 Weblate 系统隐藏用于提交的电子邮件地址以保护您的"
+"Name choice is yours, and the e-mail address used for commits can be masked "
+"by Weblate to protect your privacy. You can enable this in your profile."
+msgstr ""
+"所选名称由您决定，还可以通过 Weblate 系统隐藏用于提交的电子邮件地址以保护您的"
 "隐私。"
 
 #: wllegal/templates/legal/documents/summary.html:15
+msgid ""
+"You provide your contribution under the license defined by each project you "
+"contributed to."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:18
 msgid "We use cookies to deliver our services."
 msgstr "我们使用 cookie 以提供服务。"
 
-#: wllegal/templates/legal/documents/summary.html:16
+#: wllegal/templates/legal/documents/summary.html:19
 msgid "We don’t use any third-party cookies."
 msgstr "我们不使用任何第三方 cookies。"
 
@@ -2113,6 +2129,11 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:648
 msgid "These Terms enter into force on November 1, 2024."
 msgstr "这些条款于 2024 年11 月 1 日起生效。"
+
+#~ msgid ""
+#~ "Your translations are made under the license which is specified by each "
+#~ "translation."
+#~ msgstr "您的译文在每个翻译项目指定的许可证下进行。"
 
 #, python-format
 #~ msgid ""

@@ -5,13 +5,13 @@
 # ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2018.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2025-06-18 07:39+0000\n"
+"POT-Creation-Date: 2025-11-20 14:42+0000\n"
 "PO-Revision-Date: 2025-08-09 11:38+0000\n"
 "Last-Translator: Avi Markovitz <avi.markovitz@gmail.com>\n"
-"Language-Team: Hebrew <https://hosted.weblate.org/projects/weblate/legal/he/>"
-"\n"
+"Language-Team: Hebrew <https://hosted.weblate.org/projects/weblate/legal/he/"
+">\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -101,9 +101,9 @@ msgid ""
 msgstr ""
 "בעיבוד נתונים אישיים, הספק מציית לתקנה (EU) 2016/679 של הפרלמנט האירופי "
 "והמועצה, תקנת הגנת המידע הכללית, הידועה גם בשם GDPR (להלן נשתמש בקיצור "
-"\"<strong>GDPR</strong>\"), חוק מס' 110/2019 Coll., על עיבוד הנתונים "
-"האישיים/002 של המועצה האירופית/EC, כמו גם ההנחיה האירופית/82 של המועצה. 12 "
-"ביולי 2002 בנושא עיבוד נתונים אישיים והגנת הפרטיות במגזר התקשורת האלקטרונית "
+"\"<strong>GDPR</strong>\"), חוק מס' 110/2019 Coll., על עיבוד הנתונים האישיים/"
+"002 של המועצה האירופית/EC, כמו גם ההנחיה האירופית/82 של המועצה. 12 ביולי "
+"2002 בנושא עיבוד נתונים אישיים והגנת הפרטיות במגזר התקשורת האלקטרונית "
 "(בקיצור \"<strong>הנחיית הפרטיות האלקטרונית</strong>\")."
 
 #: wllegal/templates/legal/documents/privacy.html:37
@@ -630,31 +630,45 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
-"Your translations are made under the license which is specified by each "
-"translation."
-msgstr "התרגומים שלך כפופים לרישיונות שצוינו בידי מיזם התרגום עצמו."
+"By registering, you agree that your name and username will be visible "
+"publicly as long as your account exists."
+msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:11
+#, fuzzy
+#| msgid ""
+#| "Your name and e-mail address is used in VCS commits, it will stay there "
+#| "indefinitely."
 msgid ""
-"Your name and e-mail address is used in VCS commits, it will stay there "
-"indefinitely."
+"Your name and e-mail can be used in version control system commits to author "
+"the changes you made; they can be stored there indefinitely."
 msgstr ""
 "נעשה שימוש בשמך ובכתובת הדוא״ל שלך בהגשות למערכת בקרת גרסאות הקוד, אלו "
 "יישארו שם לנצח."
 
 #: wllegal/templates/legal/documents/summary.html:12
+#, fuzzy
+#| msgid ""
+#| "Chosen name is up to you and the e-mail address used for commits can be "
+#| "masked by Weblate system to protect your privacy."
 msgid ""
-"Chosen name is up to you and the e-mail address used for commits can be "
-"masked by Weblate system to protect your privacy."
+"Name choice is yours, and the e-mail address used for commits can be masked "
+"by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
 "השם הנבחר הוא לבחירתך ואת כתובת הדוא״ל שבשימוש Weblate יכול למסך כדי להגן על "
 "הפרטיות שלך."
 
 #: wllegal/templates/legal/documents/summary.html:15
+msgid ""
+"You provide your contribution under the license defined by each project you "
+"contributed to."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:18
 msgid "We use cookies to deliver our services."
 msgstr "אנו משתמשים בעוגיות כדי להגיש את השירותים שלנו."
 
-#: wllegal/templates/legal/documents/summary.html:16
+#: wllegal/templates/legal/documents/summary.html:19
 msgid "We don’t use any third-party cookies."
 msgstr "איננו משתמשים בעוגיות מצד־שלישי."
 
@@ -1857,6 +1871,11 @@ msgstr ""
 #| "These Terms of Service shall come into force and effect on 15th May 2023."
 msgid "These Terms enter into force on November 1, 2024."
 msgstr "תנאי השירות האלו ייכנסו לתוקף משפטי ב־15 במאי 2023."
+
+#~ msgid ""
+#~ "Your translations are made under the license which is specified by each "
+#~ "translation."
+#~ msgstr "התרגומים שלך כפופים לרישיונות שצוינו בידי מיזם התרגום עצמו."
 
 #, python-format
 #~ msgid ""

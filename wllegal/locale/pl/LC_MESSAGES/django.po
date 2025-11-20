@@ -6,13 +6,13 @@
 # Stanisław Krukowski <pet209a1@riseup.net>, 2018.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2025-06-18 07:39+0000\n"
+"POT-Creation-Date: 2025-11-20 14:42+0000\n"
 "PO-Revision-Date: 2025-06-28 13:06+0000\n"
 "Last-Translator: WaldiS <sto@tutanota.de>\n"
-"Language-Team: Polish <https://hosted.weblate.org/projects/weblate/legal/pl/>"
-"\n"
+"Language-Team: Polish <https://hosted.weblate.org/projects/weblate/legal/pl/"
+">\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -379,8 +379,8 @@ msgstr ""
 "<strong>nazwisko</strong> oraz wszelkie inne dane osobowe (jeśli zostały "
 "podane w tych celach), na podstawie <strong>dobrowolnej i świadomej</strong> "
 "zgody Użytkownika. Przetwarzanie odbywa się przez okres <strong>2 lat</"
-"strong> i/lub do momentu cofnięcia zgody. Korzystanie z Usługi lub Produktu ("
-"w tym Usług Wsparcia) <strong>nigdy</strong> nie jest uzależnione od "
+"strong> i/lub do momentu cofnięcia zgody. Korzystanie z Usługi lub Produktu "
+"(w tym Usług Wsparcia) <strong>nigdy</strong> nie jest uzależnione od "
 "wyrażenia zgody. Zgoda jest jednak zazwyczaj wymagana do wysyłki "
 "newsletterów do osób, które nie są jeszcze Użytkownikami, do udostępnienia "
 "wybranych bonusów lub materiałów bonusowych niezwiązanych z innymi usługami "
@@ -747,33 +747,45 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
-"Your translations are made under the license which is specified by each "
-"translation."
+"By registering, you agree that your name and username will be visible "
+"publicly as long as your account exists."
 msgstr ""
-"Twoje tłumaczenia są wykonywane na licencji określonej przy każdym "
-"tłumaczeniu."
 
 #: wllegal/templates/legal/documents/summary.html:11
+#, fuzzy
+#| msgid ""
+#| "Your name and e-mail address is used in VCS commits, it will stay there "
+#| "indefinitely."
 msgid ""
-"Your name and e-mail address is used in VCS commits, it will stay there "
-"indefinitely."
+"Your name and e-mail can be used in version control system commits to author "
+"the changes you made; they can be stored there indefinitely."
 msgstr ""
 "Twoje imię, nazwisko i adres e-mail są używane w commitach na VCS i "
 "pozostaną tam na stałe."
 
 #: wllegal/templates/legal/documents/summary.html:12
+#, fuzzy
+#| msgid ""
+#| "Chosen name is up to you and the e-mail address used for commits can be "
+#| "masked by Weblate system to protect your privacy."
 msgid ""
-"Chosen name is up to you and the e-mail address used for commits can be "
-"masked by Weblate system to protect your privacy."
+"Name choice is yours, and the e-mail address used for commits can be masked "
+"by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
 "Wybrana nazwa zależy od ciebie, a adres e-mail używany do commitów może być "
 "maskowany przez system Weblate w celu ochrony twojej prywatności."
 
 #: wllegal/templates/legal/documents/summary.html:15
+msgid ""
+"You provide your contribution under the license defined by each project you "
+"contributed to."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:18
 msgid "We use cookies to deliver our services."
 msgstr "Używamy ciasteczek do świadczenia naszych usług."
 
-#: wllegal/templates/legal/documents/summary.html:16
+#: wllegal/templates/legal/documents/summary.html:19
 msgid "We don’t use any third-party cookies."
 msgstr "Nie używamy żadnych ciasteczek stron zewnętrznych."
 
@@ -2002,6 +2014,13 @@ msgstr ""
 msgid "These Terms enter into force on November 1, 2024."
 msgstr ""
 "Niniejsze Warunki świadczenia usług wchodzą w życie z dniem 1 listopada 2024."
+
+#~ msgid ""
+#~ "Your translations are made under the license which is specified by each "
+#~ "translation."
+#~ msgstr ""
+#~ "Twoje tłumaczenia są wykonywane na licencji określonej przy każdym "
+#~ "tłumaczeniu."
 
 #, python-format
 #~ msgid ""

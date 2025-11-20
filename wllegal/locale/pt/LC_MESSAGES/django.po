@@ -7,9 +7,9 @@
 # Manuela Silva <mmsrs@sky.com>, 2019, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2025-06-18 07:39+0000\n"
+"POT-Creation-Date: 2025-11-20 14:42+0000\n"
 "PO-Revision-Date: 2025-07-08 13:01+0000\n"
 "Last-Translator: Manuela Silva <mmsrs@sky.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/weblate/legal/"
@@ -49,10 +49,9 @@ msgid ""
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
-"Esta «Política de Privacidade», a seguir designada por "
-"\"<strong>Política</strong>\", suplementa as <a href=\"%(terms_url)s\">«"
-"Condições e Termos Gerais»</a> do Weblate, a seguir referido como "
-"\"<strong>Termos</strong>\"."
+"Esta «Política de Privacidade», a seguir designada por \"<strong>Política</"
+"strong>\", suplementa as <a href=\"%(terms_url)s\">«Condições e Termos "
+"Gerais»</a> do Weblate, a seguir referido como \"<strong>Termos</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
@@ -263,8 +262,8 @@ msgid ""
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
 "onde as categorias individuais dos dados pessoais listadas em cima "
-"continuarão a ser coletivamente referidas como "
-"\"<strong>Dados Pessoais&lt;</strong>\"."
+"continuarão a ser coletivamente referidas como \"<strong>Dados Pessoais&lt;</"
+"strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -656,34 +655,46 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
-"Your translations are made under the license which is specified by each "
-"translation."
+"By registering, you agree that your name and username will be visible "
+"publicly as long as your account exists."
 msgstr ""
-"As suas traduções são efetuadas sob a licença que é especificada por cada "
-"tradução."
 
 #: wllegal/templates/legal/documents/summary.html:11
+#, fuzzy
+#| msgid ""
+#| "Your name and e-mail address is used in VCS commits, it will stay there "
+#| "indefinitely."
 msgid ""
-"Your name and e-mail address is used in VCS commits, it will stay there "
-"indefinitely."
+"Your name and e-mail can be used in version control system commits to author "
+"the changes you made; they can be stored there indefinitely."
 msgstr ""
 "O seu nome e endereço de correio eletrónico são utilizados nas submissões de "
 "VCS, estes irão ficar lá para sempre."
 
 #: wllegal/templates/legal/documents/summary.html:12
+#, fuzzy
+#| msgid ""
+#| "Chosen name is up to you and the e-mail address used for commits can be "
+#| "masked by Weblate system to protect your privacy."
 msgid ""
-"Chosen name is up to you and the e-mail address used for commits can be "
-"masked by Weblate system to protect your privacy."
+"Name choice is yours, and the e-mail address used for commits can be masked "
+"by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
 "O nome escolhido fica ao seu critério e o endereço de correio eletrónico "
 "utilizado para as submissões pode ser mascarado pelo sistema do Weblate para "
 "proteger a sua privacidade."
 
 #: wllegal/templates/legal/documents/summary.html:15
+msgid ""
+"You provide your contribution under the license defined by each project you "
+"contributed to."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:18
 msgid "We use cookies to deliver our services."
 msgstr "Nós utilizamos ''cookies'' para fornecer os nossos serviços."
 
-#: wllegal/templates/legal/documents/summary.html:16
+#: wllegal/templates/legal/documents/summary.html:19
 msgid "We don’t use any third-party cookies."
 msgstr "Nós não utilizamos quaisquer ''cookies'' de terceiros."
 
@@ -1857,6 +1868,13 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:648
 msgid "These Terms enter into force on November 1, 2024."
 msgstr "Estes termos entrarão em vigor a partir de 1 de novembro de 2024."
+
+#~ msgid ""
+#~ "Your translations are made under the license which is specified by each "
+#~ "translation."
+#~ msgstr ""
+#~ "As suas traduções são efetuadas sob a licença que é especificada por cada "
+#~ "tradução."
 
 #, python-format
 #~ msgid ""

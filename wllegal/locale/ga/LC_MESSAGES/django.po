@@ -5,19 +5,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Hosted Weblate\n"
+"Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2025-06-18 07:39+0000\n"
+"POT-Creation-Date: 2025-11-20 14:42+0000\n"
 "PO-Revision-Date: 2025-06-21 10:12+0000\n"
 "Last-Translator: Aindriú Mac Giolla Eoin <aindriu80@gmail.com>\n"
-"Language-Team: Irish <https://hosted.weblate.org/projects/weblate/legal/ga/>"
-"\n"
+"Language-Team: Irish <https://hosted.weblate.org/projects/weblate/legal/ga/"
+">\n"
 "Language: ga\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :("
-"n>6 && n<11) ? 3 : 4;\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :"
+"(n>6 && n<11) ? 3 : 4;\n"
 "X-Generator: Weblate 5.13-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
@@ -841,34 +841,46 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
-"Your translations are made under the license which is specified by each "
-"translation."
+"By registering, you agree that your name and username will be visible "
+"publicly as long as your account exists."
 msgstr ""
-"Déantar do chuid aistriúcháin faoin gceadúnas atá sonraithe ag gach "
-"aistriúchán."
 
 #: wllegal/templates/legal/documents/summary.html:11
+#, fuzzy
+#| msgid ""
+#| "Your name and e-mail address is used in VCS commits, it will stay there "
+#| "indefinitely."
 msgid ""
-"Your name and e-mail address is used in VCS commits, it will stay there "
-"indefinitely."
+"Your name and e-mail can be used in version control system commits to author "
+"the changes you made; they can be stored there indefinitely."
 msgstr ""
 "Úsáidtear d’ainm agus do sheoladh r-phoist i ngeallta VCS, fanfaidh sé ann "
 "ar feadh tréimhse éiginnte."
 
 #: wllegal/templates/legal/documents/summary.html:12
+#, fuzzy
+#| msgid ""
+#| "Chosen name is up to you and the e-mail address used for commits can be "
+#| "masked by Weblate system to protect your privacy."
 msgid ""
-"Chosen name is up to you and the e-mail address used for commits can be "
-"masked by Weblate system to protect your privacy."
+"Name choice is yours, and the e-mail address used for commits can be masked "
+"by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
 "Is fút féin atá an t-ainm roghnaithe agus is féidir an seoladh r-phoist a "
 "úsáidtear le haghaidh gealltanais a cheilt trí chóras Weblate chun do "
 "phríobháideachas a chosaint."
 
 #: wllegal/templates/legal/documents/summary.html:15
+msgid ""
+"You provide your contribution under the license defined by each project you "
+"contributed to."
+msgstr ""
+
+#: wllegal/templates/legal/documents/summary.html:18
 msgid "We use cookies to deliver our services."
 msgstr "Bainimid úsáid as fianáin chun ár seirbhísí a sheachadadh."
 
-#: wllegal/templates/legal/documents/summary.html:16
+#: wllegal/templates/legal/documents/summary.html:19
 msgid "We don’t use any third-party cookies."
 msgstr "Ní úsáidimid aon fhianán tríú páirtí."
 
@@ -2551,6 +2563,13 @@ msgstr ""
 msgid "These Terms enter into force on November 1, 2024."
 msgstr "Tiocfaidh na Téarmaí seo i bhfeidhm an 1 Samhain, 2024."
 
+#~ msgid ""
+#~ "Your translations are made under the license which is specified by each "
+#~ "translation."
+#~ msgstr ""
+#~ "Déantar do chuid aistriúcháin faoin gceadúnas atá sonraithe ag gach "
+#~ "aistriúchán."
+
 #, python-format
 #~ msgid ""
 #~ "We comply with the Regulation No. %(law_679_2016)s, the General Data "
@@ -2608,8 +2627,8 @@ msgstr "Tiocfaidh na Téarmaí seo i bhfeidhm an 1 Samhain, 2024."
 #~ "These are logged in case of important changes to your account (e.g. "
 #~ "password change) to allow diagnosis in case your account is stolen."
 #~ msgstr ""
-#~ "Déantar iad seo a logáil i gcás athruithe tábhachtacha ar do chuntas (m."
-#~ "sh. athrú pasfhocail) chun diagnóis a cheadú i gcás go ngoidtear do "
+#~ "Déantar iad seo a logáil i gcás athruithe tábhachtacha ar do chuntas "
+#~ "(m.sh. athrú pasfhocail) chun diagnóis a cheadú i gcás go ngoidtear do "
 #~ "chuntas."
 
 #~ msgid "Billing info"
