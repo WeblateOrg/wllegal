@@ -17,7 +17,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
 "PO-Revision-Date: 2025-11-21 14:53+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: 大王叫我来巡山 "
+"<hamburger2048@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/weblate/legal/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -722,26 +723,18 @@ msgid ""
 msgstr "注册即表示您同意，只要您的账户存在，您的名称和用户名将被公开可见。"
 
 #: wllegal/templates/legal/documents/summary.html:11
-#, fuzzy
-#| msgid ""
-#| "Your name and e-mail address is used in VCS commits, it will stay there "
-#| "indefinitely."
 msgid ""
 "Your name and e-mail can be used in version control system commits to author "
 "the changes you made; they can be stored there indefinitely."
-msgstr "您的名称和电子邮件地址将用于版本控制系统提交，这些信息将被永久保留。"
+msgstr "您的姓名和电子邮件地址可用于版本控制系统提交，确定更改由谁所做；它们可能被无"
+"限期地存储在那里。"
 
 #: wllegal/templates/legal/documents/summary.html:12
-#, fuzzy
-#| msgid ""
-#| "Chosen name is up to you and the e-mail address used for commits can be "
-#| "masked by Weblate system to protect your privacy."
 msgid ""
 "Name choice is yours, and the e-mail address used for commits can be masked "
 "by Weblate to protect your privacy. You can enable this in your profile."
-msgstr ""
-"所选名称由您决定，还可以通过 Weblate 系统隐藏用于提交的电子邮件地址以保护您的"
-"隐私。"
+msgstr "名称由您自行选择，用于提交的电子邮件地址可由 Weblate 隐藏，以保护您的隐私。您"
+"可以在个人资料中启用此功能。"
 
 #: wllegal/templates/legal/documents/summary.html:15
 msgid ""
