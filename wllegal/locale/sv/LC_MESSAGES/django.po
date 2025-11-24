@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2025-11-09 11:51+0000\n"
-"Last-Translator: Joel A <joeax910@student.liu.se>\n"
+"PO-Revision-Date: 2025-11-24 17:51+0000\n"
+"Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/weblate/legal/sv/"
 ">\n"
 "Language: sv\n"
@@ -47,11 +47,14 @@ msgid ""
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
+"Denna integritetspolicy, hädanefter kallad \"<strong>policyn</strong>\", "
+"kompletterar Weblates <a href=\"%(terms_url)s\">allmänna villkor</a>, "
+"hädanefter kallade \"<strong>villkoren</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
 msgid "Introductory Provisions"
-msgstr ""
+msgstr "Inledande bestämmelser"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
@@ -60,6 +63,10 @@ msgid ""
 "the Commercial Register kept by the Regional Court in Ústí nad Labem, file "
 "No. C 52324, i.e. the \"<strong>Provider</strong>\"."
 msgstr ""
+"Denna policy har utfärdats av Weblate s.r.o., ID-nr: 21668027, med säte på "
+"Nábřežní 694, Cvikov II, 471 54 Cvikov, registrerat i handelsregistret som "
+"förs av regionaldomstolen i Ústí nad Labem, ärendenummer C 52324, "
+"dvs.<strong>”leverantören</strong>”."
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid ""
@@ -68,6 +75,10 @@ msgid ""
 "the Services, Products, Support Services, as well as when using the Website "
 "and other possible services and related activities."
 msgstr ""
+"Denna policy beskriver hur leverantören hanterar personuppgifter om "
+"användare som registrerade – privatpersoner – när de får tillgång till och "
+"därefter använder tjänsterna, produkterna, supporttjänsterna, samt när de "
+"använder webbplatsen och andra möjliga tjänster och relaterade aktiviteter."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid ""
@@ -75,6 +86,9 @@ msgid ""
 "in Article 1 of the Terms and which have the same meaning as set out in the "
 "Terms."
 msgstr ""
+"Denna policy använder också vissa termer eller definitioner som har "
+"definierats i artikel 1 i villkoren och som har samma betydelse som anges i "
+"villkoren."
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
@@ -87,6 +101,15 @@ msgid ""
 "personal data and the protection of privacy in the electronic communications "
 "sector (abbreviated as the \"<strong>ePrivacy Directive</strong>\")."
 msgstr ""
+"Vid behandling av personuppgifter följer leverantören Europaparlamentets och "
+"rådets förordning (EU) 2016/679, den allmänna dataskyddsförordningen, även "
+"känd som GDPR "
+"(vi kommer hädanefter att använda förkortningen \"<strong>GDPR</strong>\"), "
+"lag nr 110/2019 Coll. om behandling av personuppgifter samt "
+"Europaparlamentets och rådets direktiv 2002/58/EG av den 12 juli 2002 om "
+"behandling av personuppgifter och integritetsskydd inom sektorn för "
+"elektronisk kommunikation "
+"(förkortat<strong>”e-integritetsdirektivet”</strong>)."
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -96,6 +119,11 @@ msgid ""
 "registers for the Provider's newsletter and/or when the Provider and the "
 "User conclude the Contract, whichever is the earliest."
 msgstr ""
+"Den faktiska behandlingen av användarnas personuppgifter sker alltid endast "
+"för de ändamål och under de villkor som definieras mer detaljerat i denna "
+"policy och inleds i det ögonblick då användaren besöker webbplatsen, "
+"registrerar sig för leverantörens nyhetsbrev och/eller när leverantören och "
+"användaren ingår avtalet, beroende på vilket som inträffar först."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid ""
@@ -104,6 +132,9 @@ msgid ""
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
 msgstr ""
+"Behandlingen utförs sedan antingen direkt av leverantören och/eller av "
+"tredje part i enlighet med artikel 3 i denna policy, som har fått tillstånd "
+"av leverantören att behandla personuppgifter i enlighet med denna policy."
 
 #: wllegal/templates/legal/documents/privacy.html:45
 msgid ""
@@ -111,67 +142,78 @@ msgid ""
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
+"Om inte annat uttryckligen anges i denna policy, agerar leverantören "
+"som<strong>personuppgiftsansvarig</strong>och användare som är fysiska "
+"personer agerar som registrerade, enligt definitionerna i GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "Omfattning, syfte och varaktighet av behandlingen"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
 msgstr ""
+"Leverantören behandlar användarens personuppgifter för följande ändamål:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "uppfyllande av avtalet enligt artikel 6.1 b i GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "förhandla om avtalet enligt artikel 6.1 b i GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
 msgstr ""
+"uppfylla leverantörens rättsliga skyldigheter enligt artikel 6.1 c i GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, "
 "and in selected cases also"
 msgstr ""
+"leverantörens berättigade intressen enligt artikel 6.1 f i GDPR, och i "
+"utvalda fall även"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
-msgstr ""
+msgstr "samtycke som användaren har gett enligt artikel 6.1 a i GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
 msgstr ""
+"Omfattningen av användarens personuppgifter som behandlas av leverantören "
+"omfattar följande:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr ""
+msgstr "förnamn och efternamn,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr ""
+msgstr "Användarens adress (leverans och fakturering),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr ""
+msgstr "Företags-ID och skatte-ID,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, X, and others),"
 msgstr ""
+"smeknamn (inklusive eventuella frivilligt länkade plattformar såsom "
+"Liberapay, GitHub, X och andra),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr ""
+msgstr "Användarens avatar,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
 msgid "email address(es),"
@@ -183,15 +225,18 @@ msgid ""
 "openSUSE, and Ubuntu in the event that accounts with these providers are "
 "linked to the User account,"
 msgstr ""
+"identifierare för Bitbucket, Facebook, Google, LinkedIn, GitHub, GitLab, "
+"openSUSE och Ubuntu i händelse av att konton hos dessa leverantörer är "
+"kopplade till användarkontot,"
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
-msgstr ""
+msgstr "specifikationer för den tjänst och produkt som användaren använder,"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
-msgstr ""
+msgstr "information om antalet teammedlemmar hos användaren och deras roller,"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
@@ -199,35 +244,43 @@ msgid ""
 "Profile), i.e., settings for languages, notifications, if they can identify "
 "the User directly or indirectly,"
 msgstr ""
+"alla andra användarinställningar för användarkontot "
+"(inklusive den så kallade profilen), dvs. inställningar för språk, "
+"aviseringar, om de kan identifiera användaren direkt eller indirekt,"
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
-msgstr ""
+msgstr "bankkontonummer och eventuellt andra betalningsuppgifter om användaren,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "kryptovalutaplånboksadress eller adresser,"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
 "other personal data contained in messages sent by the User to the Provider "
 "(especially the subject and other content of the message),"
 msgstr ""
+"andra personuppgifter som ingår i meddelanden som användaren skickar till "
+"leverantören (särskilt ämnet och annat innehåll i meddelandet),"
 
 #: wllegal/templates/legal/documents/privacy.html:120
 msgid ""
 "other personal data contained in communications with the Provider's support,"
 msgstr ""
+"andra personuppgifter som ingår i kommunikation med leverantörens support,"
 
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
-msgstr ""
+msgstr "systemdata, loggar och sessionsloggar inklusive användarens IP-adress,"
 
 #: wllegal/templates/legal/documents/privacy.html:128
 msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
+"där de enskilda kategorierna av personuppgifter som anges ovan kommer att "
+"fortsätta att kallas \"<strong>personuppgifter</strong>\" i sammantaget."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -240,6 +293,15 @@ msgid ""
 "under the conditions and based on a separate data processing agreement (so-"
 "called processing agreement) concluded between the Provider and the User."
 msgstr ""
+"I vissa fall <strong>kan</strong> leverantören <strong>också vara en "
+"personuppgiftsbiträde</strong>, nämligen när personuppgifter om tredje part "
+"tillhandahålls av användaren för egna ändamål (t.ex. vid tillägg av enskilda "
+"teammedlemmar, donation av ett projekt till leverantören på uppdrag av en "
+"annan person etc.). Behandlingen av utvalda personuppgifter från tredje part "
+"som gjorts tillgängliga av användaren sker i detta fall på användarens "
+"uppdrag, enligt villkoren och på grundval av ett separat "
+"databehandlingsavtal (så kallat behandlingsavtal) som ingåtts mellan "
+"leverantören och användaren."
 
 #: wllegal/templates/legal/documents/privacy.html:136
 msgid ""
@@ -265,6 +327,30 @@ msgid ""
 "the User's instructions unless the Provider has another legal basis for "
 "processing personal data as a controller under Article 2.1 of this Policy."
 msgstr ""
+"Leverantören behandlar personuppgifter tills alla skyldigheter som följer av "
+"avtalet har fullgjorts. När leverantören stänger kontot och/eller användaren "
+"avslutar kontot raderas alla personuppgifter och andra uppgifter som har "
+"matats in i tjänsten, med undantag för vissa personuppgifter som anges "
+"nedan. Leverantören <strong>rekommenderar</strong> därför <strong>starkt "
+"att</strong> alla uppgifter som har matats in i tjänsten "
+"<strong>säkerhetskopieras</strong> innan användarkontot avslutas och "
+"ansvarar inte för förlust av dessa uppgifter efter att användarkontot har "
+"stängts, även om det har stängts på rätt sätt av leverantören. "
+"Personuppgifter som anges på fakturor behålls av leverantören under minst "
+"den lagstadgade lagringstiden, dvs. under en period av 10 år. I fall där det "
+"är nödvändigt för att försvara leverantörens anspråk och/eller för att "
+"försvara sig mot anspråk från tredje part "
+"(inklusive eventuella förfaranden som inletts av offentliga myndigheter) kan "
+"leverantören också behålla vissa andra personuppgifter, men alltid under en "
+"maximal period som motsvarar preskriptionstiden för enskilda anspråk och/"
+"eller tills det slutliga avgörandet av utvalda förfaranden. Den specifika "
+"varaktigheten kan inte definieras exakt och varierar beroende på typen av "
+"anspråk, deras preskriptionstider och takten hos utvalda domstolar eller "
+"offentliga myndigheter. Uppgifter som leverantören endast behandlar som "
+"personuppgiftsbiträde för användarens uppgifter behandlas under den period "
+"som anges i användarens instruktioner, såvida inte leverantören har en annan "
+"rättslig grund för att behandla personuppgifter som personuppgiftsansvarig "
+"enligt artikel 2.1 i denna policy."
 
 #: wllegal/templates/legal/documents/privacy.html:140
 #, python-format
@@ -284,6 +370,21 @@ msgid ""
 "consent granted otherwise, by sending a request to <a href=\"mailto:"
 "%(address)s\">%(address)s</a>."
 msgstr ""
+"Leverantören kan också behandla utvalda personuppgifter om användaren, "
+"särskilt e-postadress, förnamn, efternamn och andra personuppgifter "
+"(om sådana lämnats för dessa ändamål) på grundval av användarens "
+"<strong>frivilliga och informerade</strong> samtycke. Behandlingen sker "
+"under en period av <strong>två år</strong> och/eller tills samtycket "
+"återkallas. Användningen av tjänsten eller produkten "
+"(inklusive supporttjänster) är <strong>aldrig</strong> villkorad av att "
+"samtycke lämnas. Samtycke krävs dock vanligtvis för att skicka nyhetsbrev "
+"till registrerade som ännu inte är användare, eller för att tillhandahålla "
+"utvalda bonusar eller bonusmaterial som inte är kopplade till leverantörens "
+"andra tjänster och/eller för att lämna ut användarens personuppgifter i "
+"samband med en donation till leverantören. Återkallandet kan göras när som "
+"helst direkt i användarkontots gränssnitt och, i fall av samtycke som "
+"beviljats på annat sätt, genom att skicka en begäran till<a href="
+"\"mailto:%(address)s\">%(address)s</a>."
 
 #: wllegal/templates/legal/documents/privacy.html:144
 msgid ""
@@ -292,12 +393,15 @@ msgid ""
 "selected Personal Data based on a different legal reason if this legal "
 "reason in favour of the Provider continues to exist."
 msgstr ""
+"När skälet för behandlingen av personuppgifter har upphört kommer "
+"leverantören att förstöra personuppgifterna. Detta utesluter inte vidare "
+"behandling av utvalda personuppgifter på grundval av ett annat rättsligt "
+"skäl, om detta rättsliga skäl till förmån för leverantören fortsätter att "
+"föreligga."
 
 #: wllegal/templates/legal/documents/privacy.html:149
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Recipients and Processors of Personal Data"
-msgstr "Åtkomst till persondata"
+msgstr "Mottagare och behandlare av personuppgifter"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -306,12 +410,18 @@ msgid ""
 "proper processing of Personal Data for the purposes defined in Article 2.1 "
 "of this Policy, specifically:"
 msgstr ""
+"Förutom leverantören mottar och behandlar även utvalda tredje parter "
+"personuppgifter i enlighet med denna policy, vars medverkan är nödvändig för "
+"korrekt behandling av personuppgifter för de ändamål som definieras i "
+"artikel 2.1 i denna policy, närmare bestämt:"
 
 #: wllegal/templates/legal/documents/privacy.html:158
 msgid ""
 "hosting provider (including web hosting and mail hosting services), "
 "currently this is <strong>Hetzner Online GmbH</strong>;"
 msgstr ""
+"webbhotellleverantör (inklusive webbhotell- och e-posthotellstjänster), för "
+"närvarande <strong>Hetzner Online GmbH</strong>;"
 
 #: wllegal/templates/legal/documents/privacy.html:161
 msgid ""
@@ -319,24 +429,33 @@ msgid ""
 "possibly operators of other services used in connection with the payment of "
 "any payments related to billing;"
 msgstr ""
+"operatörer av betalningsgatewayen <strong>ThePay.cz, s.r.o.</strong> och "
+"eventuellt operatörer av andra tjänster som används i samband med betalning "
+"av fakturering;"
 
 #: wllegal/templates/legal/documents/privacy.html:164
 msgid ""
 "accounting, legal, and tax advisors of the Provider and possibly other "
 "persons bound by confidentiality under the law;"
 msgstr ""
+"leverantörens redovisnings-, juridiska och skatterådgivare samt eventuellt "
+"andra personer som är bundna av sekretess enligt lag;"
 
 #: wllegal/templates/legal/documents/privacy.html:167
 msgid ""
 "C-level and other managerial employees employed by or otherwise "
 "collaborating with the Provider;"
 msgstr ""
+"C-nivå och andra chefer som är anställda av eller på annat sätt samarbetar "
+"med leverantören;"
 
 #: wllegal/templates/legal/documents/privacy.html:170
 msgid ""
 "selected contractors of the Provider who are involved in providing services "
 "to Users and who are also bound by confidentiality;"
 msgstr ""
+"utvalda uppdragstagare till leverantören som är involverade i att "
+"tillhandahålla tjänster till användare och som också är bundna av sekretess;"
 
 #: wllegal/templates/legal/documents/privacy.html:173
 msgid ""
@@ -344,12 +463,17 @@ msgid ""
 "the Service, Products, Support Services, and/or to ensure any other "
 "activities related to the above;"
 msgstr ""
+"alla andra personer vars medverkan är nödvändig för att tjänsten, "
+"produkterna, supporttjänsterna och/eller andra aktiviteter relaterade till "
+"ovanstående ska kunna tillhandahållas på ett korrekt sätt;"
 
 #: wllegal/templates/legal/documents/privacy.html:178
 msgid ""
 "the persons mentioned in this Article 3.1 are collectively referred to in "
 "this Policy as \"<strong>Processors</strong>\"."
 msgstr ""
+"de personer som nämns i denna artikel 3.1 benämns gemensamt i denna policy "
+"som \"<strong>personuppgiftsbiträden</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:182
 msgid ""
@@ -359,16 +483,14 @@ msgid ""
 "personal data must meet high standards of protection and will always handle "
 "the data within the limits of the GDPR and this Policy."
 msgstr ""
+"Användaren samtycker till att leverantören får överföra personuppgifter till "
+"ovannämnda personuppgiftsbiträden om detta är nödvändigt för att uppfylla "
+"ovanstående syften med personuppgiftsbehandlingen. De personuppgiftsbiträden "
+"som leverantören anlitar för behandling av personuppgifter måste uppfylla "
+"höga skyddskrav och kommer alltid att hantera uppgifterna inom ramen för "
+"GDPR och denna policy."
 
 #: wllegal/templates/legal/documents/privacy.html:186
-#, fuzzy
-#| msgid ""
-#| "In case the Controller is required by law to disclose the Personal Data, "
-#| "an attempt will be made to provide the User with prior notice by e-mail "
-#| "(unless the Controller is prohibited, or it would be futile) that a "
-#| "request for the Personal Data has been made to allow the User to object "
-#| "to the disclosure. If the User does not challenge the disclosure request, "
-#| "the Controller may be legally required to turn over the Personal Data."
 msgid ""
 "The Personal Data might be disclosed to third parties in limited "
 "circumstances when the Controller has a good faith belief it is required by "
@@ -378,20 +500,22 @@ msgid ""
 "the Controller is prohibited, or it would be futile) that a request for the "
 "Personal Data has been made to allow the User to object to the disclosure."
 msgstr ""
-"Om den personuppgiftsansvarige enligt lag är skyldig att avslöja "
-"personuppgifterna, kommer ett försök att göras för att ge användaren "
-"förhandsmeddelande via mejl (såvida inte den personuppgiftsansvarige är "
-"förbjuden, eller det skulle vara meningslöst) om en begäran om "
-"personuppgifterna har gjorts för att användaren ska kunna invända mot "
-"utlämnandet. Om Användaren inte ifrågasätter begäran om utlämnande kan den "
-"personuppgiftsansvarige vara juridiskt skyldig att lämna över "
-"Personuppgifterna."
+"Personuppgifterna kan lämnas ut till tredje part under begränsade "
+"omständigheter när den registeransvarige i god tro anser att det krävs "
+"enligt lag, till exempel vid en stämning eller annan rättslig eller "
+"administrativ order. Om den registeransvarige enligt lag är skyldig att "
+"lämna ut personuppgifterna kommer ett försök att göras att i förväg meddela "
+"användaren via e-post (om inte den registeransvarige är förbjuden att göra "
+"detta eller om det skulle vara meningslöst) att en begäran om "
+"personuppgifterna har gjorts, så att användaren kan invända mot utlämnandet."
 
 #: wllegal/templates/legal/documents/privacy.html:190
 msgid ""
 "The processing of Personal Data by selected Processors may be governed by "
 "their own service provision conditions."
 msgstr ""
+"Behandlingen av personuppgifter av utvalda personuppgiftsbiträden kan "
+"regleras av deras egna villkor för tillhandahållande av tjänster."
 
 #: wllegal/templates/legal/documents/privacy.html:194
 msgid ""
@@ -400,10 +524,14 @@ msgid ""
 "where the transfer must occur in compliance with the obligations of the "
 "Provider arising from generally binding regulations."
 msgstr ""
+"Personuppgifter kan också överföras om leverantören är skyldig att göra det "
+"enligt lag, till följd av ett beslut av en offentlig myndighet eller i andra "
+"fall där överföringen måste ske i enlighet med leverantörens skyldigheter "
+"som följer av allmänt bindande bestämmelser."
 
 #: wllegal/templates/legal/documents/privacy.html:199
 msgid "Common Provisions on Processing"
-msgstr ""
+msgstr "Gemensamma bestämmelser om behandling"
 
 #: wllegal/templates/legal/documents/privacy.html:203
 msgid ""
@@ -413,6 +541,11 @@ msgid ""
 "processing of personal data by any third party, even if those third parties "
 "are Processors."
 msgstr ""
+"Leverantören kommer alltid att göra sitt yttersta för att förhindra obehörig "
+"behandling av personuppgifter av andra personer. Leverantören är dock inte "
+"ansvarig gentemot användaren eller andra registrerade för skador som orsakas "
+"av obehörig behandling av personuppgifter av tredje part, även om dessa "
+"tredje parter är personuppgiftsbiträden."
 
 #: wllegal/templates/legal/documents/privacy.html:207
 msgid ""
@@ -422,6 +555,12 @@ msgid ""
 "480/2004 Coll. on Certain Information Society Services, if they directly "
 "relate to these Services, Products, and/or Support Services."
 msgstr ""
+"E-postmeddelanden som skickas till användare i samband med "
+"tillhandahållandet av tjänsten, produkten och/eller supporttjänsterna "
+"betraktas inte som oönskad kommersiell kommunikation enligt lag nr 40/1995 "
+"Coll. om reklam och lag nr 480/2004 Coll. om vissa "
+"informationssamhällstjänster, om de direkt avser dessa tjänster, produkter "
+"och/eller supporttjänster."
 
 #: wllegal/templates/legal/documents/privacy.html:211
 msgid ""
@@ -433,6 +572,14 @@ msgid ""
 "revoked at any time by clicking on the link found in the footer of such "
 "commercial communication."
 msgstr ""
+"Användaren kan dock uttryckligen och <strong>frivilligt</strong>, i enlighet "
+"med avsnitt 7(2) i lag nr 480/2004 Coll. om vissa "
+"informationssamhällstjänster och ändring av vissa lagar, <strong>samtycka "
+"till</strong> att ta emot mer omfattande kommersiell kommunikation "
+"(t.ex. i fallet med indirekt marknadsföring) från leverantören till "
+"användarens elektroniska adress. Detta samtycke kan naturligtvis återkallas "
+"när som helst genom att klicka på länken i sidfoten i sådan kommersiell "
+"kommunikation."
 
 #: wllegal/templates/legal/documents/privacy.html:215
 msgid ""
@@ -440,6 +587,9 @@ msgid ""
 "related to Personal Data that affects the User, they will notify the User of "
 "this fact without undue delay."
 msgstr ""
+"Om leverantören och/eller personuppgiftsbiträdena får kännedom om en "
+"säkerhetsrisk relaterad till personuppgifter som påverkar användaren, kommer "
+"de att underrätta användaren om detta utan onödigt dröjsmål."
 
 #: wllegal/templates/legal/documents/privacy.html:219
 msgid ""
@@ -448,6 +598,10 @@ msgid ""
 "other incident leading to loss. However, the Provider is not responsible for "
 "the improper actions of the Processors."
 msgstr ""
+"Leverantören kommer att ge användaren assistans och juridisk hjälp vid "
+"ansökan om ersättning från ansvariga personuppgiftsbiträden i händelse av "
+"ett dataintrång eller annan incident som leder till förlust. Leverantören "
+"ansvarar dock inte för personuppgiftsbiträdens olämpliga handlingar."
 
 #: wllegal/templates/legal/documents/privacy.html:223
 msgid ""
@@ -459,6 +613,14 @@ msgid ""
 "the User in the case where they provide the Provider with Personal Data of "
 "data subjects other than this User."
 msgstr ""
+"Användaren bekräftar härmed att de tillhandahållna personuppgifterna är "
+"sanna, korrekta och endast avser användaren, eller att de har "
+"tillhandahållit uppgifter vars användning inte kränker tredje parts "
+"rättigheter. Användaren är skyldig att alltid informera leverantören om "
+"eventuella ändringar av sina personuppgifter så att endast aktuella och "
+"fullständiga uppgifter behandlas. Samma skyldigheter gäller för användaren i "
+"de fall då denne tillhandahåller leverantören personuppgifter om andra "
+"registrerade än denna användare."
 
 #: wllegal/templates/legal/documents/privacy.html:227
 msgid ""
@@ -467,6 +629,10 @@ msgid ""
 "never be subject to individual automated decision-making (including "
 "profiling) within the meaning of Article 22 of the GDPR."
 msgstr ""
+"Personuppgifter kommer att behandlas elektroniskt, inklusive användning av "
+"automatiserade behandlingsmetoder. Användaren eller andra registrerade "
+"kommer dock aldrig att bli föremål för individuella automatiserade beslut "
+"(inklusive profilering) i den mening som avses i artikel 22 i GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:231
 msgid ""
@@ -474,6 +640,10 @@ msgid ""
 "the GDPR) may be processed even after all legal grounds for processing the "
 "User's Personal Data have ceased."
 msgstr ""
+"Anonymiserade personuppgifter "
+"(som inte längre betraktas som personuppgifter enligt GDPR) får behandlas "
+"även efter det att alla rättsliga grunder för behandling av användarens "
+"personuppgifter har upphört."
 
 #: wllegal/templates/legal/documents/privacy.html:236
 msgid "User Rights in Relation to Personal Data"
@@ -489,6 +659,12 @@ msgid ""
 "correction, restriction, or deletion) can be automated through this user "
 "account."
 msgstr ""
+"Användaren kan när som helst utöva sina rättigheter enligt GDPR genom att "
+"skicka ett e-postmeddelande till<a href=\"mailto:%(address)s\">%(address)s</"
+"a> eller via sitt användarkonto, eftersom de flesta av de rättigheter som "
+"anges nedan (särskilt tillgång till alla behandlade personuppgifter, "
+"rättelse, begränsning eller radering) kan automatiseras via detta "
+"användarkonto."
 
 #: wllegal/templates/legal/documents/privacy.html:244
 msgid ""
@@ -497,30 +673,44 @@ msgid ""
 "strong>, unless due to the complexity of the matter it is necessary for the "
 "Provider to extend this period. The User's rights include:"
 msgstr ""
+"Leverantören kommer att göra allt för att behandla förfrågningar angående "
+"användarens personuppgifter så snart som möjligt, dock senast inom "
+"<strong>30 dagar</strong>, såvida inte komplexiteten i ärendet gör det "
+"nödvändigt för leverantören att förlänga denna period. Användarens "
+"rättigheter omfattar:"
 
 #: wllegal/templates/legal/documents/privacy.html:249
 msgid ""
 "an explanation of whether and what personal data is being processed and, if "
 "applicable, requesting the Provider to disclose it;"
 msgstr ""
+"en förklaring om huruvida och vilka personuppgifter som behandlas och, i "
+"förekommande fall, begära att leverantören lämnar ut dem;"
 
 #: wllegal/templates/legal/documents/privacy.html:252
 msgid ""
 "correction of personal data if there is concern that some of it is "
 "inaccurate or missing;"
 msgstr ""
+"korrigering av personuppgifter om det finns anledning att tro att vissa "
+"uppgifter är felaktiga eller saknas;"
 
 #: wllegal/templates/legal/documents/privacy.html:255
 msgid ""
 "restriction of processing if there is concern that the Provider is "
 "processing more data than necessary;"
 msgstr ""
+"begränsning av behandlingen om det finns anledning att tro att leverantören "
+"behandlar mer data än nödvändigt;"
 
 #: wllegal/templates/legal/documents/privacy.html:258
 msgid ""
 "deletion of personal data based on the consent of the Provider, provided "
 "that there is no other legal reason for further processing of personal data;"
 msgstr ""
+"radering av personuppgifter baserat på leverantörens samtycke, förutsatt att "
+"det inte finns någon annan rättslig grund för vidare behandling av "
+"personuppgifter;"
 
 #: wllegal/templates/legal/documents/privacy.html:261
 msgid ""
@@ -528,12 +718,17 @@ msgid ""
 "on the consent of the Provider or in connection with fulfilling the "
 "Provider's contractual obligations, in a machine-readable format;"
 msgstr ""
+"utfärdande av en kopia av de personuppgifter som behandlas automatiskt på "
+"grundval av leverantörens samtycke eller i samband med fullgörandet av "
+"leverantörens avtalsenliga skyldigheter, i ett maskinläsbart format;"
 
 #: wllegal/templates/legal/documents/privacy.html:264
 msgid ""
 "temporary freezing of data processing operations for the purposes of the "
 "legitimate interest of the Provider;"
 msgstr ""
+"tillfällig frysning av databehandling för leverantörens berättigade "
+"intressen;"
 
 #: wllegal/templates/legal/documents/privacy.html:267
 #, python-format
@@ -543,11 +738,15 @@ msgid ""
 "authority if the User believes that the Provider is processing personal data "
 "in violation of this Policy or legal regulations."
 msgstr ""
+"lämna in ett klagomål direkt till myndigheten för skydd av personuppgifter "
+"(<a href=\"%(url)s\">%(url)s)</a> eller annan relevant nationell "
+"dataskyddsmyndighet om användaren anser att leverantören behandlar "
+"personuppgifter i strid med denna policy eller lagstadgade bestämmelser."
 
 #: wllegal/templates/legal/documents/privacy.html:272
 #: wllegal/templates/legal/documents/tos.html:620
 msgid "Final Provisions"
-msgstr ""
+msgstr "Slutbestämmelser"
 
 #: wllegal/templates/legal/documents/privacy.html:276
 msgid ""
@@ -558,6 +757,12 @@ msgid ""
 "Policy displayed within the Service, or upon the next first login to their "
 "User Account."
 msgstr ""
+"Leverantören har rätt att ensidigt ändra policyn. Den nya formuleringen av "
+"policyn träder i kraft vid publicering på webbplatsen. Användaren, som har "
+"ett avtalsförhållande med leverantören som regleras av denna policy vid "
+"tidpunkten för ändringen, kommer att få ett meddelande om ändringen i "
+"policyn som visas inom tjänsten eller vid nästa inloggning på sitt "
+"användarkonto."
 
 #: wllegal/templates/legal/documents/privacy.html:280
 msgid ""
@@ -567,6 +772,11 @@ msgid ""
 "Policy will be resolved before the competent civil court in the Czech "
 "Republic."
 msgstr ""
+"Alla rättsliga förhållanden mellan leverantören och användaren som uppstår "
+"till följd av denna policy regleras av gällande lagstiftning i Tjeckien. "
+"Eventuella tvister mellan leverantören och användaren som uppstår till följd "
+"av eller i samband med denna policy ska lösas av behörig civil domstol i "
+"Tjeckien."
 
 #: wllegal/templates/legal/documents/privacy.html:284
 msgid ""
@@ -579,6 +789,13 @@ msgid ""
 "Council (EC) No. 593/2008 of June 17, 2008, on the law applicable to "
 "contractual obligations (Rome I)."
 msgstr ""
+"Om det förhållande som upprättas genom avtalet innehåller ett "
+"internationellt (utländskt) inslag, berövar inte valet av lag enligt "
+"föregående mening användaren – Konsumenten från det skydd som ges av "
+"bestämmelser i den rättsordning som inte kan avvikas från i avtalet och som "
+"annars skulle gälla i avsaknad av ett lagval i enlighet med bestämmelserna i "
+"artikel 6.1 i Europaparlamentets och rådets förordning (EG) nr 593/2008 av "
+"den 17 juni 2008 om tillämplig lag för avtalsförpliktelser (Rom I)."
 
 #: wllegal/templates/legal/documents/privacy.html:288
 msgid ""
@@ -588,14 +805,19 @@ msgid ""
 "provision does not affect the validity of the other provisions of this "
 "Policy."
 msgstr ""
+"Om någon bestämmelse i policyn är ogiltig eller verkningslös, eller blir "
+"det, ska den bestämmelse som mest liknar den ogiltiga bestämmelsen ersätta "
+"den ogiltiga bestämmelsen. Ogiltigheten eller verkningslösheten hos en "
+"bestämmelse påverkar inte giltigheten hos de övriga bestämmelserna i denna "
+"policy."
 
 #: wllegal/templates/legal/documents/privacy.html:292
 msgid "This Policy become effective upon their publication on the Website."
-msgstr ""
+msgstr "Denna policy träder i kraft vid publiceringen på webbplatsen."
 
 #: wllegal/templates/legal/documents/privacy.html:296
 msgid "In Prague on November 1, 2024."
-msgstr ""
+msgstr "I Prag den 1 november 2024."
 
 #: wllegal/templates/legal/documents/summary.html:5
 msgid ""
@@ -610,36 +832,33 @@ msgid ""
 "By registering, you agree that your name and username will be visible "
 "publicly as long as your account exists."
 msgstr ""
+"Genom att registrera dig samtycker du till att ditt namn och användarnamn "
+"kommer att vara synliga för allmänheten så länge ditt konto finns."
 
 #: wllegal/templates/legal/documents/summary.html:11
-#, fuzzy
-#| msgid ""
-#| "Your name and e-mail address is used in VCS commits, it will stay there "
-#| "indefinitely."
 msgid ""
 "Your name and e-mail can be used in version control system commits to author "
 "the changes you made; they can be stored there indefinitely."
 msgstr ""
-"Ditt namn och din e-postadress används i VCS-åtaganden, den kommer att "
-"stanna där på obestämd tid."
+"Ditt namn och din e-postadress kan användas i versionshanteringssystemets "
+"commit för att ange vem som gjort ändringarna; de kan lagras där på obestämd "
+"tid."
 
 #: wllegal/templates/legal/documents/summary.html:12
-#, fuzzy
-#| msgid ""
-#| "Chosen name is up to you and the e-mail address used for commits can be "
-#| "masked by Weblate system to protect your privacy."
 msgid ""
 "Name choice is yours, and the e-mail address used for commits can be masked "
 "by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
-"Valet av namn är upp till dig och den mejladress som används för åtaganden "
-"kan maskeras av Weblate-systemet för att skydda din integritet."
+"Namnvalet är ditt, och den e-postadress som används för commit kan maskeras "
+"av Weblate för att skydda din integritet. Du kan aktivera detta i din profil."
 
 #: wllegal/templates/legal/documents/summary.html:15
 msgid ""
 "You provide your contribution under the license defined by each project you "
 "contributed to."
 msgstr ""
+"Du tillhandahåller ditt bidrag enligt den licens som definieras av varje "
+"projekt du bidragit till."
 
 #: wllegal/templates/legal/documents/summary.html:18
 msgid "We use cookies to deliver our services."
@@ -659,16 +878,12 @@ msgstr ""
 "bekvämlighet."
 
 #: wllegal/templates/legal/documents/tos.html:11
-#, fuzzy
-#| msgid ""
-#| "The rights and obligations of the User and the Provider resulting from "
-#| "the use of the Service are governed by these Terms of Service."
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
 msgstr ""
-"Rättigheter och skyldigheter för användaren och leverantören som följer av "
-"användningen av tjänsten styrs av dessa användarvillkor."
+"Användarens och leverantörens rättigheter och skyldigheter som följer av "
+"användningen av tjänsten regleras av dessa allmänna villkor."
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid ""
@@ -679,31 +894,34 @@ msgid ""
 "Services and Products. These general terms and conditions govern the "
 "contractual relationship between the service provider and the User."
 msgstr ""
+"Dessa allmänna villkor är en integrerad del av det serviceavtal som ingåtts "
+"mellan användaren och leverantören "
+"(nedan kallat \"<strong>avtalet</strong>\") och definierar de bindande "
+"reglerna och villkoren för tillhandahållandet av tjänster och produkter samt "
+"användningen av tjänster och produkter. Dessa allmänna villkor reglerar "
+"avtalsförhållandet mellan tjänsteleverantören och användaren."
 
 #: wllegal/templates/legal/documents/tos.html:24
 msgid ""
 "The definitions below have the following meanings for the purposes of these "
 "general terms and conditions:"
-msgstr ""
+msgstr "Definitionerna nedan har följande innebörd i dessa allmänna villkor:"
 
 #: wllegal/templates/legal/documents/tos.html:30
 msgid "Civil Code"
 msgstr "Civilkod"
 
 #: wllegal/templates/legal/documents/tos.html:33
-#, fuzzy
-#| msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
-msgstr ""
-"betyder artikel nummer %(law_89_2012)s i civilkoden, såsom i senaste ändring"
+msgstr "avser lag nr 89/2012 Coll., civillagen, i dess ändrade lydelse;"
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
-msgstr ""
+msgstr "Avtalsparter"
 
 #: wllegal/templates/legal/documents/tos.html:40
 msgid "jointly refers to the User and the Provider;"
-msgstr ""
+msgstr "avser gemensamt Användaren och Leverantören;"
 
 #: wllegal/templates/legal/documents/tos.html:44
 msgid "Cookies"
@@ -717,60 +935,57 @@ msgid ""
 "Coll., on Certain Information Society Services and Amending Certain Acts, as "
 "amended;"
 msgstr ""
+"avser alla data som skickas från tjänstens webbserver till användarens dator "
+"eller annan internetansluten enhet, vilket möjliggör unik identifiering av "
+"användarens webbläsare i enlighet med § 89 i lag nr 480/2004 Coll., om vissa "
+"informationssamhällstjänster och ändring av vissa lagar, i dess ändrade "
+"lydelse;"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Dedicated Weblate"
-msgstr ""
+msgstr "Dedikerad Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:54
 msgid ""
 "means a form of collaboration where the User is the sole user of the Service "
 "in a cloud hosted and provided by the Provider;"
 msgstr ""
+"avser en form av samarbete där Användaren är den enda användaren av Tjänsten "
+"i ett moln som hostas och tillhandahålls av Leverantören;"
 
 #: wllegal/templates/legal/documents/tos.html:58
 msgid "GDPR"
 msgstr "GDPR"
 
 #: wllegal/templates/legal/documents/tos.html:61
-#, fuzzy
-#| msgid ""
-#| "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
-#| "Regulation"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
 msgstr ""
-"avser EU:s förordning nr. %(law_679_2016)s, den allmänna "
-"dataskyddsförordningen"
+"avser EU-förordning nr 679/2016, allmän förordning om skydd av "
+"personuppgifter;"
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
-msgstr ""
+msgstr "Allmänna villkor"
 
 #: wllegal/templates/legal/documents/tos.html:68
 msgid ""
 "means these general terms and conditions, which form an integral part of the "
 "Agreement;"
-msgstr ""
+msgstr "betyder dessa allmänna villkor, som utgör en integrerad del av Avtalet;"
 
 #: wllegal/templates/legal/documents/tos.html:72
 msgid "Hosted String"
-msgstr ""
+msgstr "Värdsträng"
 
 #: wllegal/templates/legal/documents/tos.html:75
-#, fuzzy
-#| msgid ""
-#| "Pricing is based on the number of source strings and target languages. "
-#| "The source string is a text unit defined in a translation format, it can "
-#| "be a word, sentence or paragraph."
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph. It is counted separately for each language;"
 msgstr ""
-"Prissättning baseras på antalet källsträngar och språk. Källsträngen är en "
-"textenhet definierad i ett översättningsformat, det kan vara ett ord, en "
-"mening eller ett stycke."
+"betyder en textdel som definieras i översättningsformatet. Det kan vara ett "
+"ord, en mening eller ett stycke. Det räknas separat för varje språk;"
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
@@ -782,63 +997,62 @@ msgid ""
 "provides Services to Users on a non-dedicated (i.e., shared by multiple "
 "Users) cloud operated by the Provider;"
 msgstr ""
+"avser en form av samarbete som är helt molnbaserad, där leverantören "
+"tillhandahåller tjänster till användare på ett icke-dedikerat "
+"(dvs. delat av flera användare) moln som drivs av leverantören;"
 
 #: wllegal/templates/legal/documents/tos.html:86
 msgid "License"
 msgstr "Licens"
 
 #: wllegal/templates/legal/documents/tos.html:89
-#, fuzzy
-#| msgid ""
-#| "means non-exclusive license granted by the Provider to the User for use "
-#| "of the Service"
 msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
 msgstr ""
-"innebär icke-exklusiv licens som beviljats av leverantören till användaren "
-"för användning av tjänsten"
+"avser den icke-exklusiva licens som leverantören beviljar användaren för "
+"användning av tjänsten;"
 
 #: wllegal/templates/legal/documents/tos.html:93
 msgid "Personal Data"
 msgstr "Personuppgifter"
 
 #: wllegal/templates/legal/documents/tos.html:96
-#, fuzzy
-#| msgid ""
-#| "means personal data within the meaning of EU Regulation No. %"
-#| "(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"betyder personuppgifter i den mening som avses i EU-förordningen nr %"
-"(law_679_2016)s som införts av användaren i tjänsten och/eller kakor"
+"avser personuppgifter enligt definitionen i EU-förordning nr 679/2016, som "
+"användaren har angett i Tjänsten och/eller Cookies;"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
 msgid "Price"
-msgstr ""
+msgstr "Pris"
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid ""
 "the value expressed in money for the provided License in accordance with the "
 "Price List;"
 msgstr ""
+"det värde som uttrycks i pengar för den tillhandahållna licensen i enlighet "
+"med prislistan;"
 
 #: wllegal/templates/legal/documents/tos.html:107
 msgid "Price List"
-msgstr ""
+msgstr "Prislista"
 
 #: wllegal/templates/legal/documents/tos.html:110
 msgid ""
 "means the document or web page that specifies the Price of the Service and/"
 "or Product unless otherwise stated in the Agreement;"
 msgstr ""
+"avser det dokument eller den webbsida som anger priset för tjänsten och/"
+"eller produkten, om inte annat anges i avtalet;"
 
 #: wllegal/templates/legal/documents/tos.html:114
 msgid "Product"
-msgstr ""
+msgstr "Produkt"
 
 #: wllegal/templates/legal/documents/tos.html:117
 msgid ""
@@ -846,6 +1060,10 @@ msgid ""
 "Provider based on its brand usage policy. The User purchases the Product AS "
 "IS. Support and other services are provided separately;"
 msgstr ""
+"avser alla tjänster eller delar därav som tillhandahålls under ett visst "
+"varumärke av leverantören i enlighet med dess varumärkesanvändningspolicy. "
+"Användaren köper produkten i befintligt skick. Support och andra tjänster "
+"tillhandahålls separat;"
 
 #: wllegal/templates/legal/documents/tos.html:121
 msgid "Provider"
@@ -858,36 +1076,37 @@ msgid ""
 "the Commercial Register maintained by the Regional Court in Ústí nad Labem, "
 "file no. C 52324, with which the Agreement was concluded;"
 msgstr ""
+"avser företaget <strong>Weblate s.r.o.</strong>, ID-nr 21668027, med säte på "
+"Nábřežní 694, Cvikov II, 471 54 Cvikov, registrerat i handelsregistret som "
+"förs av regionaldomstolen i Ústí nad Labem, ärendenummer C 52324, med vilket "
+"avtalet ingicks;"
 
 #: wllegal/templates/legal/documents/tos.html:128
 msgid "Service"
 msgstr "Tjänst"
 
 #: wllegal/templates/legal/documents/tos.html:131
-#, fuzzy
-#| msgid ""
-#| "means the website and services based on Weblate operated by the Provider"
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
 msgstr ""
-"avser webbplatsen och tjänsterna baserade på Weblate som drivs av "
-"leverantören"
+"avser webbplatser och tjänster baserade på Weblate som tillhandahålls av "
+"leverantören;"
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid "Self-hosting"
-msgstr ""
+msgstr "Självhosting"
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid ""
 "means a form of collaboration where the User is the sole user of the "
 "Service, and this Service is operated directly on the User Server;"
 msgstr ""
+"betyder en form av samarbete där användaren är den enda användaren av "
+"tjänsten och denna tjänst drivs direkt på användarens server;"
 
 #: wllegal/templates/legal/documents/tos.html:142
-#, fuzzy
-#| msgid "Service"
 msgid "Support Services"
-msgstr "Tjänst"
+msgstr "Supporttjänster"
 
 #: wllegal/templates/legal/documents/tos.html:145
 msgid ""
@@ -895,78 +1114,78 @@ msgid ""
 "Support Services are governed separately by a separate support service "
 "agreement;"
 msgstr ""
+"avser det stöd som leverantören tillhandahåller användaren inom ramen för "
+"tjänsten. Supporttjänster regleras separat i ett separat supportavtal;"
 
 #: wllegal/templates/legal/documents/tos.html:149
 msgid "Translation Memory"
 msgstr "Översättningsminne"
 
 #: wllegal/templates/legal/documents/tos.html:152
-#, fuzzy
-#| msgid ""
-#| "means the optional translation memory service provided within Weblate"
 msgid "means an optional translation memory service provided on Weblate;"
 msgstr ""
-"betyder valfri översättningsminnestjänst som tillhandahålls inom Weblate"
+"betyder en valfri översättningsminnestjänst som tillhandahålls på Weblate;"
 
 #: wllegal/templates/legal/documents/tos.html:156
 msgid "User"
 msgstr "Användare"
 
 #: wllegal/templates/legal/documents/tos.html:159
-#, fuzzy
-#| msgid ""
-#| "means any legal entity or an individual other than the Provider, who is "
-#| "using the Service"
 msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
 msgstr ""
-"betyder varje juridisk person eller någon annan än leverantören som använder "
-"tjänsten"
+"avser alla juridiska eller fysiska personer utom leverantören som använder "
+"tjänsten;"
 
 #: wllegal/templates/legal/documents/tos.html:163
 msgid "User Account"
-msgstr ""
+msgstr "Användarkonto"
 
 #: wllegal/templates/legal/documents/tos.html:166
 msgid ""
 "means a user account with a unique access code and password in the Hosted "
 "Weblate web interface. Each User Account can be used by only one User;"
 msgstr ""
+"betyder ett användarkonto med en unik åtkomstkod och ett lösenord i det "
+"webbaserade gränssnittet Hosted Weblate. Varje användarkonto kan endast "
+"användas av en användare;"
 
 #: wllegal/templates/legal/documents/tos.html:170
 msgid "User Server"
-msgstr ""
+msgstr "Användarserver"
 
 #: wllegal/templates/legal/documents/tos.html:173
 msgid ""
 "refers to the server and other hardware equipment not owned, managed, or "
 "controlled by the Provider;"
 msgstr ""
+"avser server och annan hårdvaruutrustning som inte ägs, förvaltas eller "
+"kontrolleras av leverantören;"
 
 #: wllegal/templates/legal/documents/tos.html:179
 msgid "Methods of Acceptance"
-msgstr ""
+msgstr "Metoder för godkännande"
 
 #: wllegal/templates/legal/documents/tos.html:183
 msgid "The License is granted to the User based on the concluded Agreement."
-msgstr ""
+msgstr "Licensen beviljas användaren på grundval av det ingångna avtalet."
 
 #: wllegal/templates/legal/documents/tos.html:187
 msgid "These GTC are an integral part of the Agreement."
-msgstr ""
+msgstr "Dessa allmänna villkor är en integrerad del av avtalet."
 
 #: wllegal/templates/legal/documents/tos.html:191
-#, fuzzy
-#| msgid "License Agreement Conclusion"
 msgid "The Agreement is concluded:"
-msgstr "Licensavtalets slutsats"
+msgstr "Avtalet ingås:"
 
 #: wllegal/templates/legal/documents/tos.html:196
 msgid ""
 "on the day of signing by both parties (especially for all Services offered "
 "with custom settings);"
 msgstr ""
+"på dagen för undertecknandet av båda parter "
+"(särskilt för alla tjänster som erbjuds med anpassade inställningar);"
 
 #: wllegal/templates/legal/documents/tos.html:199
 msgid ""
@@ -977,10 +1196,15 @@ msgid ""
 "Provider's bank account) for the amount stated in the first billing period "
 "by the User."
 msgstr ""
+"online genom godkännande (bekräftelse) via webbgränssnittet i enlighet med "
+"prislistan, varvid avtalet träder i kraft när priset för licensen har "
+"betalats (vid banköverföring, när beloppet motsvarande priset för licensen "
+"har krediterats leverantörens bankkonto) för det belopp som anges i den "
+"första faktureringsperioden av användaren."
 
 #: wllegal/templates/legal/documents/tos.html:207
 msgid "Service Provision"
-msgstr ""
+msgstr "Tillhandahållande av tjänster"
 
 #: wllegal/templates/legal/documents/tos.html:211
 msgid ""
@@ -989,6 +1213,10 @@ msgid ""
 "accordance with the Agreement and the technical specifications outlined in "
 "the Product specification."
 msgstr ""
+"Leverantören driver Tjänsten på den internetadress som anges i "
+"Produktspecifikationen och dess underdomäner eller på Användarens servrar i "
+"enlighet med Avtalet och de tekniska specifikationer som anges i "
+"Produktspecifikationen."
 
 #: wllegal/templates/legal/documents/tos.html:215
 msgid ""
@@ -999,12 +1227,20 @@ msgid ""
 "specification defined in this manner takes precedence over the form of "
 "Service offered according to the Price List."
 msgstr ""
+"Om avtalet ingås enligt artikel 2.3(a) definieras tjänsternas omfattning i "
+"produktspecifikationen, som bifogas avtalet. Produktspecifikationen kan "
+"innehålla ytterligare detaljer om omfattningen av enskilda (del)tjänster vad "
+"gäller deras innehåll och aktiveringsmetoder. Den produktspecifikation som "
+"definieras på detta sätt har företräde framför den form av tjänst som "
+"erbjuds enligt prislistan."
 
 #: wllegal/templates/legal/documents/tos.html:219
 msgid ""
 "The Service is provided in three forms of cooperation: Hosted Weblate, "
 "Dedicated Weblate, and Self-hosting."
 msgstr ""
+"Tjänsten tillhandahålls i tre former av samarbete: Hosted Weblate, Dedicated "
+"Weblate och Self-hosting."
 
 #: wllegal/templates/legal/documents/tos.html:223
 msgid ""
@@ -1017,12 +1253,18 @@ msgid ""
 "third parties may process Personal Data within their activities in "
 "accordance with the Agreement and GPLv3."
 msgstr ""
+"I enlighet med GPLv3 kan vissa aspekter av Tjänsten tillhandahållas antingen "
+"med hjälp av andra tredje parter än Leverantören eller direkt av dessa "
+"parter. Användaren erkänner att dessa tredje parter kommer att "
+"tillhandahålla sina tjänster i enlighet med detta avtal och GPLv3-licensen. "
+"Användaren erkänner att tredje parter som är involverade i "
+"tillhandahållandet av Tjänsten kan komma att ändras under Tjänstens "
+"tillhandahållande. Dessa tredje parter kan behandla Personuppgifter inom "
+"ramen för sin verksamhet i enlighet med Avtalet och GPLv3."
 
 #: wllegal/templates/legal/documents/tos.html:227
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
-msgstr "Tjänst"
+msgstr "Varaktighet"
 
 #: wllegal/templates/legal/documents/tos.html:231
 msgid ""
@@ -1031,6 +1273,9 @@ msgid ""
 "subscription can be paid monthly or annually in accordance with Article 5 of "
 "the GTC."
 msgstr ""
+"Om inte annat uttryckligen avtalats i avtalet, ingås avtalet för en period "
+"som motsvarar en prenumerationsmodell. Prenumerationen kan betalas månadsvis "
+"eller årsvis i enlighet med artikel 5 i de allmänna villkoren."
 
 #: wllegal/templates/legal/documents/tos.html:239
 msgid ""
@@ -1042,6 +1287,13 @@ msgid ""
 "List. The price for Services consists of the following separate items or "
 "their combination, which are paid regularly monthly/annually:"
 msgstr ""
+"Priset för Tjänsten fastställs enligt erbjudandet eller Prislistan. "
+"Användaren bekräftar och samtycker till att Prislistan kan ändras ensidigt "
+"av Leverantören på samma sätt som dessa Allmänna Villkor. Priset beror på "
+"den valda Tjänstekonfigurationen, och det finns många varianter i vilka "
+"Tjänsten kan tillhandahållas. Dessa varianter anges i Prislistan. Priset för "
+"Tjänsterna består av följande separata poster eller en kombination av dessa, "
+"som betalas regelbundet varje månad/år:"
 
 #: wllegal/templates/legal/documents/tos.html:243
 msgid ""
@@ -1050,6 +1302,10 @@ msgid ""
 "but paid monthly or annually, with this price varying for different forms of "
 "collaboration according to the Price List;"
 msgstr ""
+"ordinarie pris för tillgång till tjänsterna, som också alltid fastställs för "
+"den relevanta tidsperioden och baseras på de specifika villkoren för "
+"tjänsten, men betalas månadsvis eller årsvis, där detta pris varierar för "
+"olika former av samarbete enligt prislistan;"
 
 #: wllegal/templates/legal/documents/tos.html:246
 msgid ""
@@ -1057,24 +1313,30 @@ msgid ""
 "User from the options offered in the Price List or in agreement with the "
 "Provider;"
 msgstr ""
+"ordinarie pris för antalet Hosted Strings; detta belopp väljs av Användaren "
+"bland de alternativ som erbjuds i prislistan eller i överenskommelse med "
+"Leverantören;"
 
 #: wllegal/templates/legal/documents/tos.html:249
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "Översättningsminne"
+msgstr "ordinarie pris för översättningsminne;"
 
 #: wllegal/templates/legal/documents/tos.html:254
 msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
 msgstr ""
+"(punkterna a), b) och c) kallas gemensamt för "
+"\"<strong>Prenumerationen</strong>\")."
 
 #: wllegal/templates/legal/documents/tos.html:258
 msgid ""
 "To avoid doubt, the Subscription may guarantee either only access to a "
 "specific Product or License and/or a specific package of guaranteed Services."
 msgstr ""
+"För att undvika tvivel kan prenumerationen garantera antingen endast "
+"tillgång till en specifik produkt eller licens och/eller ett specifikt paket "
+"med garanterade tjänster."
 
 #: wllegal/templates/legal/documents/tos.html:262
 msgid ""
@@ -1083,6 +1345,10 @@ msgid ""
 "invoice is issued and delivered to the User within 5 working days after the "
 "end of each relevant period."
 msgstr ""
+"Användaren är skyldig att betala priset baserat på de mottagna "
+"skattedokumenten (fakturor) som utfärdats av leverantören. Priset betalas i "
+"förskott och fakturan utfärdas och levereras till användaren inom 5 "
+"arbetsdagar efter slutet av varje relevant period."
 
 #: wllegal/templates/legal/documents/tos.html:266
 #, python-format
@@ -1093,6 +1359,11 @@ msgid ""
 "an additional VAT of 21%%. Reverse charge applies to invoices issued to "
 "businesses within the EU."
 msgstr ""
+"Betalning av priset kan ske med kreditkort, banköverföring eller "
+"kryptovaluta. Alla priser som anges i prislistan är exklusive moms. "
+"Slutanvändare från EU och tjeckiska företag måste betala en extra moms på 21 "
+"%%. Omvänd skattskyldighet gäller för fakturor som utfärdas till företag "
+"inom EU."
 
 #: wllegal/templates/legal/documents/tos.html:270
 msgid ""
@@ -1102,6 +1373,11 @@ msgid ""
 "verifying with the prepaid card issuer or bank whether recurring billing is "
 "possible."
 msgstr ""
+"Om användaren vill undvika att debiteras för tjänsten i prenumerationsläget "
+"måste denne säga upp prenumerationen minst tre dagar före den automatiska "
+"förnyelsen av tjänsten. Leverantören rekommenderar att man kontrollerar med "
+"utfärdaren av det förbetalda kortet eller banken om återkommande fakturering "
+"är möjlig."
 
 #: wllegal/templates/legal/documents/tos.html:274
 msgid ""
@@ -1111,6 +1387,11 @@ msgid ""
 "date as per point 5.5 above, their Subscription will stop at the end of the "
 "current billing cycle."
 msgstr ""
+"Användaren kan ändra sitt prenumerationsläge online genom att logga in på "
+"sitt användarkonto och göra ändringen eller säga upp prenumerationen där. Om "
+"användaren säger upp sin prenumeration minst tre dagar före förnyelsedatumet "
+"enligt punkt 5.5 ovan, upphör prenumerationen vid slutet av den aktuella "
+"faktureringsperioden."
 
 #: wllegal/templates/legal/documents/tos.html:278
 msgid ""
@@ -1124,6 +1405,17 @@ msgid ""
 "prepaid Services were prepaid for a period exceeding the actual usage "
 "period, the conditions of such a refund will be agreed upon individually."
 msgstr ""
+"Leverantören återbetalar INGA pengar för tjänster, supporttjänster och/eller "
+"andra tjänster som tillhandahålls enligt avtalet och dessa allmänna villkor "
+"om de tillhandahölls innan användaren avbeställde dessa tjänster. "
+"Avbeställning efter betalning är möjlig efter överenskommelse om den "
+"beställda tjänsten inte har använts eller om inget försök har gjorts att "
+"ladda ner den. Om ett försök till nedladdning har gjorts kommer ingen "
+"förhandling att äga rum och användaren har inte rätt till någon "
+"återbetalning, rabatt eller annan ekonomisk ersättning. Om förbetalda "
+"tjänster har förbetalats för en period som överstiger den faktiska "
+"användningsperioden kommer villkoren för en sådan återbetalning att avtalas "
+"individuellt."
 
 #: wllegal/templates/legal/documents/tos.html:282
 msgid ""
@@ -1136,12 +1428,18 @@ msgid ""
 "new Price or conditions come into effect. Under these conditions, the User "
 "has the right to cancel the Subscription."
 msgstr ""
+"Priser och prenumerationsvillkor kan ändras ensidigt av operatören när som "
+"helst. Det pris och de villkor som gällde vid det första köpet eller den "
+"senaste prenumerationsförnyelsen gäller under hela den aktuella "
+"prenumerationsperioden, men nya priser och villkor kan gälla för förnyelser "
+"eller nya prenumerationer. Leverantören kommer att meddela användaren om "
+"eventuella pris- eller prenumerationsvillkorsändringar inom en rimlig tid "
+"innan det nya priset eller de nya villkoren träder i kraft. Under dessa "
+"villkor har användaren rätt att säga upp prenumerationen."
 
 #: wllegal/templates/legal/documents/tos.html:286
-#, fuzzy
-#| msgid "License"
 msgid "License Terms"
-msgstr "Licens"
+msgstr "Licensvillkor"
 
 #: wllegal/templates/legal/documents/tos.html:290
 #, python-format
@@ -1153,6 +1451,12 @@ msgid ""
 "License is provided. The License is granted in accordance with the option "
 "selected according to the Price List."
 msgstr ""
+"Leverantörens programvara och Weblate-programtillägg distribueras under GNU/"
+"GPLv3-licensen (se<a href=\"%(url)s\">%(url)s)</a>. Användaren beviljas en "
+"icke-exklusiv licens för alla delar av Tjänsten enligt villkoren i de "
+"allmänna villkoren i deras senast uppdaterade version vid den tidpunkt då "
+"Licensen tillhandahålls. Licensen beviljas i enlighet med det alternativ som "
+"valts enligt prislistan."
 
 #: wllegal/templates/legal/documents/tos.html:295
 #, python-format
@@ -1165,6 +1469,12 @@ msgid ""
 "according to the information provided on the Provider's website (see <a "
 "href=\"%(url)s\">%(url)s</a>)."
 msgstr ""
+"Om inte annat anges i avtalet regleras licensvillkoren i detta avtal helt av "
+"GPLv3-licensen. Vissa delar av programvaran kan dock också licensieras under "
+"andra licenser. En fullständig lista över licenser som används i "
+"leverantörens programvara och programvarutillägg finns i deras källkod, som "
+"motsvarar REUSE 3.0-specifikationen enligt informationen på leverantörens "
+"webbplats (se<a href=\"%(url)s\">%(url)s)</a>."
 
 #: wllegal/templates/legal/documents/tos.html:299
 msgid ""
@@ -1176,6 +1486,12 @@ msgid ""
 "creating, and distributing the Service, even if the User does not publicly "
 "release the Service."
 msgstr ""
+"Användaren erkänner att alla upphovsrättigheter och andra immateriella "
+"rättigheter till Tjänsten tillhör Leverantören och/eller tredje part vars "
+"verk har införlivats i Tjänsten och/eller används tillsammans med Tjänsten. "
+"Användaren förlorar dock inte rätten att använda Tjänsten i den utsträckning "
+"som tillåts av tillämpliga licenser, inklusive att köra, skapa och "
+"distribuera Tjänsten, även om Användaren inte offentliggör Tjänsten."
 
 #: wllegal/templates/legal/documents/tos.html:303
 msgid ""
@@ -1185,6 +1501,11 @@ msgid ""
 "or later versions of the GPL license), they publish all materials to which "
 "they do not own copyright."
 msgstr ""
+"I syfte att göra exklusiva modifieringar av Tjänsten enbart till förmån för "
+"Användaren eller för att skapa medel för att driva dessa Tjänster, får "
+"Användaren publicera Tjänsten endast om denne, i enlighet med villkoren i "
+"GPLv3 (och/eller senare versioner av GPL-licensen), publicerar allt material "
+"som denne inte äger upphovsrätten till."
 
 #: wllegal/templates/legal/documents/tos.html:307
 msgid ""
@@ -1195,6 +1516,13 @@ msgid ""
 "released. The User acknowledges that not all Self-hosting Subscription "
 "packages include updates and/or modifications to the Services."
 msgstr ""
+"Licensen omfattar uppdateringar och/eller modifieringar av Tjänsterna som "
+"görs av Leverantören i framtiden, förutsatt att Tjänsterna tillhandahålls "
+"baserat på det valda Abonnemanget och att alla relevanta licensavgifter och "
+"andra avgifter är fullt betalda för den period under vilken dessa "
+"uppdateringar och/eller modifieringar släpps. Användaren är medveten om att "
+"inte alla självhostade Abonnemangspaket omfattar uppdateringar och/eller "
+"modifieringar av Tjänsterna."
 
 #: wllegal/templates/legal/documents/tos.html:311
 msgid ""
@@ -1208,12 +1536,20 @@ msgid ""
 "intact, and the User provides all recipients of such copies of the source "
 "code with a copy of the license along with the program."
 msgstr ""
+"Användaren har rätt att använda källkoden och hantera element som skyddas av "
+"upphovsrätt inom ramen för GPLv3 (och/eller senare versioner av GPL-licensen)"
+", inklusive, men inte begränsat till, att göra kopior. Användaren får "
+"distribuera sådana kopior endast om varje kopia innehåller en hänvisning "
+"till leverantören och information om avsaknaden av garanti på en "
+"framträdande och synlig plats, säkerställer att alla hänvisningar till denna "
+"licens och eventuella ytterligare villkor förblir oförändrade, att alla "
+"hänvisningar till avsaknaden av garanti förblir intakta, och att användaren "
+"förser alla mottagare av sådana kopior av källkoden med en kopia av licensen "
+"tillsammans med programmet."
 
 #: wllegal/templates/legal/documents/tos.html:315
-#, fuzzy
-#| msgid "Payment error"
 msgid "Payment Terms"
-msgstr "Betalningsfel"
+msgstr "Betalningsvillkor"
 
 #: wllegal/templates/legal/documents/tos.html:319
 msgid ""
@@ -1221,6 +1557,9 @@ msgid ""
 "issuance of invoices and to receiving them via electronic means. Invoices "
 "will be issued with a due date of 14 calendar days."
 msgstr ""
+"Fakturor kommer att utfärdas elektroniskt. Användaren samtycker till "
+"elektronisk utfärdande av fakturor och till att ta emot dem via elektroniska "
+"medel. Fakturor kommer att utfärdas med en förfallodag på 14 kalenderdagar."
 
 #: wllegal/templates/legal/documents/tos.html:323
 msgid ""
@@ -1231,6 +1570,12 @@ msgid ""
 "any reason, the Provider will issue an invoice, and the User is obliged to "
 "pay such an invoice within the same deadlines."
 msgstr ""
+"Faktureringsperioden definieras som en återkommande period (kalendermånad/år)"
+". Betalningen debiteras automatiskt via den valda betalningsmetoden och "
+"fakturan skickas till användaren utan onödigt dröjsmål efter att "
+"leverantören har mottagit betalningen. Om betalningen av någon anledning "
+"inte kan dras automatiskt, kommer leverantören att utfärda en faktura och "
+"användaren är skyldig att betala denna faktura inom samma tidsfrister."
 
 #: wllegal/templates/legal/documents/tos.html:327
 msgid ""
@@ -1242,6 +1587,13 @@ msgid ""
 "a material breach of the Agreement, entitling the Provider to terminate the "
 "Agreement for the reason stated in Article 11 below."
 msgstr ""
+"Om användaren försenar någon betalning har leverantören också rätt att "
+"avbryta eller begränsa tillhandahållandet av tjänsten tills skulden är fullt "
+"betald. Under avbrottet eller begränsningen av tillhandahållandet av "
+"tjänsten är användaren fortfarande skyldig att betala priset enligt de "
+"levererade skattedokumenten. Upprepade betalningsförseningar från användaren "
+"anses vara ett väsentligt brott mot avtalet, vilket ger leverantören rätt "
+"att säga upp avtalet av det skäl som anges i artikel 11 nedan."
 
 #: wllegal/templates/legal/documents/tos.html:331
 msgid ""
@@ -1255,6 +1607,14 @@ msgid ""
 "continuous and automatically renews until it is cancelled, or the User "
 "Account is terminated."
 msgstr ""
+"Genom att godkänna de allmänna villkoren vid köptillfället samtycker "
+"användaren till att prenumerationen förnyas automatiskt i framtiden. "
+"Prenumerationen förnyas automatiskt i slutet av varje prenumerationsperiod "
+"baserat på den prenumerationsperiod som valts vid köptillfället. I början av "
+"varje faktureringsperiod debiteras prenumerationen enligt den uppdaterade "
+"prislistan och/eller enligt ett separat meddelande från leverantören före "
+"slutet av den senaste faktureringsperioden. Prenumerationen är kontinuerlig "
+"och förnyas automatiskt tills den sägs upp eller användarkontot avslutas."
 
 #: wllegal/templates/legal/documents/tos.html:335
 msgid ""
@@ -1266,6 +1626,12 @@ msgid ""
 "conditions for the payment of the Fee are governed by the relevant "
 "contractual terms of ThePay."
 msgstr ""
+"Användaren bekräftar att vid betalning av prenumerationen via en "
+"betalningsgateway tillhandahålls denna gateway av <strong>ThePay, a.s.</"
+"strong>, med säte på Masarykovo náměstí 102/65, 586 01 Jihlava, ID: 281 35 "
+"261, registrerat i handelsregistret som förs av regionaldomstolen i Brno, "
+"avsnitt B, Insert 8977 (\"<strong>ThePay</strong>\"). Villkoren för "
+"betalning av avgiften regleras av ThePays relevanta avtalsvillkor."
 
 #: wllegal/templates/legal/documents/tos.html:339
 msgid ""
@@ -1273,10 +1639,13 @@ msgid ""
 "by the Provider, and the Provider is not responsible for the functionality "
 "of ThePay's payment gateway."
 msgstr ""
+"Betalkortsinformation som anges i betalningsgatewayen behandlas inte av "
+"leverantören, och leverantören ansvarar inte för funktionaliteten hos "
+"ThePays betalningsgateway."
 
 #: wllegal/templates/legal/documents/tos.html:343
 msgid "Provider's Rights and Obligations"
-msgstr ""
+msgstr "Leverantörens rättigheter och skyldigheter"
 
 #: wllegal/templates/legal/documents/tos.html:347
 msgid ""
@@ -1302,6 +1671,29 @@ msgid ""
 "any case, the User may either accept the Change (implicitly through failure "
 "to object) or terminate the Agreement within the above period."
 msgstr ""
+"Leverantören har rätt att göra ändringar i Tjänsten eller dess omfattning. I "
+"sådant fall kommer Leverantören att informera Användaren via "
+"webbgränssnittet för den tillhandahållna Tjänsten. I händelse av "
+"förändringar i det rättsliga eller reglerande ramverket, branschstandarder, "
+"Leverantörens relaterade kostnader, marknadsseder, förhållanden som påverkar "
+"den relevanta marknaden eller andra förändringar som kan påverka "
+"tillhandahållandet av Tjänsten, kan leverantören när som helst ändra, "
+"upphäva eller komplettera dessa villkor "
+"(nedan kallat<strong>”ändring”</strong>) genom att meddela användaren om "
+"sådan ändring genom att publicera den reviderade versionen av dessa villkor "
+"på webbplatsen och meddela användaren via e-post och via gränssnittet för "
+"den tillhandahållna tjänsten, minst 14 dagar innan ändringen träder i kraft. "
+"Om användaren inte svarar på sådan ändring inom ovannämnda period, antas det "
+"att användaren samtycker till ändringen. Meddelande gäller inte om ändringen "
+"krävs enligt lag, domstolsbeslut, avser tillägg av en ny tjänst, ytterligare "
+"funktioner till den befintliga tjänsten eller någon annan ändring som inte "
+"minskar användarens rättigheter eller ökar deras skyldigheter. I sådana fall "
+"kommer ändringen att genomföras utan föregående meddelande till användaren "
+"och träda i kraft omedelbart. Om användaren invänder mot ändringen av "
+"villkoren inom ovanstående period har denne rätt att säga upp avtalet. I "
+"alla fall kan användaren antingen acceptera ändringen "
+"(implicit genom att inte invända) eller säga upp avtalet inom ovanstående "
+"period."
 
 #: wllegal/templates/legal/documents/tos.html:351
 msgid ""
@@ -1309,6 +1701,10 @@ msgid ""
 "to ensure the functionality and availability of the Service. The User "
 "acknowledges and agrees that they use the Service at their own risk."
 msgstr ""
+"Leverantören åtar sig att vidta alla åtgärder inom ramen för sina tekniska "
+"möjligheter för att säkerställa tjänstens funktionalitet och tillgänglighet. "
+"Användaren bekräftar och samtycker till att han eller hon använder tjänsten "
+"på egen risk."
 
 #: wllegal/templates/legal/documents/tos.html:355
 msgid ""
@@ -1317,6 +1713,10 @@ msgid ""
 "version. The Provider undertakes to fulfil these requirements and ensure the "
 "proper operation of the Service through its own actions."
 msgstr ""
+"De grundläggande systemkraven för att Tjänsten ska fungera korrekt omfattar "
+"servermiljön och definierad teknisk status i den senaste versionen. "
+"Leverantören åtar sig att uppfylla dessa krav och säkerställa att Tjänsten "
+"fungerar korrekt genom egna åtgärder."
 
 #: wllegal/templates/legal/documents/tos.html:359
 msgid ""
@@ -1329,6 +1729,14 @@ msgid ""
 "Provider bears no responsibility for any damages incurred by the User in "
 "connection with these events."
 msgstr ""
+"Om användaren upptäcker något problem relaterat till tjänstens hastighet, "
+"funktionalitet eller tillgänglighet är denne skyldig att omedelbart "
+"rapportera detta till leverantören. Användaren är medveten om att händelser "
+"utanför leverantörens kontroll, såsom fel på användarens internetanslutning, "
+"naturkatastrofer, DOS- eller DNS-attacker mot leverantörens tekniska "
+"utrustning och andra faktorer, kan påverka tjänstens funktionalitet eller "
+"tillgänglighet. Leverantören ansvarar inte för några skador som användaren "
+"åsamkas i samband med dessa händelser."
 
 #: wllegal/templates/legal/documents/tos.html:363
 msgid ""
@@ -1342,12 +1750,23 @@ msgid ""
 "the Service. In the case of planned outages, the Provider is obligated to "
 "inform the User in advance within a reasonable time."
 msgstr ""
+"Användaren erkänner och samtycker till att leverantören tillfälligt kan "
+"avbryta tillhandahållandet av tjänsten av allvarliga skäl, särskilt i fall "
+"som förebyggande av cyberattacker, när det är nödvändigt, eller i händelse "
+"av ett allvarligt fel i tjänsten som kräver ett nödvändigt avbrott. "
+"Leverantören måste meddela användaren om avbrottet så snart som möjligt. "
+"Leverantören är skyldig att vidta lämpliga drifts- och säkerhetsåtgärder för "
+"att minimera potentiella funktionsstörningar eller begränsad eller "
+"fullständig otillgänglighet av tjänsten. Vid planerade avbrott är "
+"leverantören skyldig att informera användaren i förväg inom rimlig tid."
 
 #: wllegal/templates/legal/documents/tos.html:367
 msgid ""
 "The Provider agrees not to provide the content of the User's data to third "
 "parties."
 msgstr ""
+"Leverantören förbinder sig att inte lämna ut innehållet i användarens data "
+"till tredje part."
 
 #: wllegal/templates/legal/documents/tos.html:371
 msgid ""
@@ -1355,6 +1774,9 @@ msgid ""
 "of the User's data. The User is solely responsible for the content of the "
 "data stored on their Server or the Provider's server."
 msgstr ""
+"Avtalsparterna är överens om att leverantören inte förvärvar äganderätten "
+"till användarens data. Användaren är ensam ansvarig för innehållet i de data "
+"som lagras på sin server eller leverantörens server."
 
 #: wllegal/templates/legal/documents/tos.html:375
 msgid ""
@@ -1363,10 +1785,14 @@ msgid ""
 "the Service in accordance with the Agreement. The User undertakes to fully "
 "cooperate with the Provider in such cases."
 msgstr ""
+"Genom att acceptera dessa villkor erkänner och samtycker användaren till att "
+"leverantören har rätt att med egna resurser övervaka om användaren använder "
+"tjänsten i enlighet med avtalet. Användaren förbinder sig att samarbeta "
+"fullt ut med leverantören i sådana fall."
 
 #: wllegal/templates/legal/documents/tos.html:380
 msgid "User’s Rights and Obligations"
-msgstr ""
+msgstr "Användarens rättigheter och skyldigheter"
 
 #: wllegal/templates/legal/documents/tos.html:384
 msgid ""
@@ -1375,6 +1801,9 @@ msgid ""
 "modifications to the Service made by them are in compliance with applicable "
 "legal regulations."
 msgstr ""
+"Användaren får inte använda Tjänsten i strid med gällande lagar och regler. "
+"Användaren är också fullt ansvarig för att säkerställa att alla ändringar av "
+"Tjänsten som görs av dem är i enlighet med gällande lagar och regler."
 
 #: wllegal/templates/legal/documents/tos.html:388
 msgid ""
@@ -1389,6 +1818,17 @@ msgid ""
 "expand the scope of required personal information but emphasizes the "
 "truthfulness, accuracy, and currency of the information provided by the User."
 msgstr ""
+"För att få tillgång till Tjänsten kan Leverantören kräva vissa "
+"identifieringsuppgifter och annan information från Användaren, alltid endast "
+"i den utsträckning som krävs i formuläret. De flesta av våra användare "
+"behöver endast ange ett smeknamn, men om en faktura behöver utfärdas kommer "
+"ytterligare information som krävs enligt lag att begäras. Användaren är "
+"skyldig att alltid tillhandahålla sanningsenlig, korrekt och aktuell "
+"information enligt lag. För användare som endast anger ett smeknamn innebär "
+"detta inte att de måste lämna ytterligare information. Denna bestämmelse "
+"utvidgar inte omfattningen av den personliga information som krävs, utan "
+"betonar sanningsenligheten, noggrannheten och aktualiteten hos den "
+"information som användaren lämnar."
 
 #: wllegal/templates/legal/documents/tos.html:392
 msgid ""
@@ -1398,6 +1838,11 @@ msgid ""
 "in cases where the Provider performs system outages for the reasons "
 "mentioned in Section 8.5."
 msgstr ""
+"Användaren är skyldig att, på leverantörens begäran, samarbeta i den "
+"utsträckning som krävs för att lösa fel eller göra justeringar av tjänsten, "
+"inklusive skyldigheten att tolerera begränsningar i användningen av tjänsten "
+"i fall där leverantören utför systemavbrott av de skäl som anges i avsnitt "
+"8.5."
 
 #: wllegal/templates/legal/documents/tos.html:396
 msgid ""
@@ -1405,6 +1850,9 @@ msgid ""
 "Service in accordance with this Agreement, and the User is required to "
 "comply with and respect these measures."
 msgstr ""
+"Leverantören har rätt att vidta säkerhetsåtgärder för att skydda Tjänsten i "
+"enlighet med detta Avtal, och Användaren är skyldig att följa och respektera "
+"dessa åtgärder."
 
 #: wllegal/templates/legal/documents/tos.html:400
 msgid ""
@@ -1412,6 +1860,9 @@ msgid ""
 "terms specified in Section 6 of this Agreement, ensuring that they do not "
 "jeopardize the Service's functionality."
 msgstr ""
+"Användaren är skyldig att använda Tjänsten i enlighet med licensvillkoren "
+"som anges i avsnitt 6 i detta Avtal och säkerställa att dessa inte äventyrar "
+"Tjänstens funktionalitet."
 
 #: wllegal/templates/legal/documents/tos.html:404
 msgid ""
@@ -1419,6 +1870,8 @@ msgid ""
 "right to request Support Services from the Provider, as specified in the "
 "Price List."
 msgstr ""
+"Enligt den tjänstevariant som anges i prislistan har användaren rätt att "
+"begära supporttjänster från leverantören, enligt vad som anges i prislistan."
 
 #: wllegal/templates/legal/documents/tos.html:408
 msgid ""
@@ -1428,6 +1881,11 @@ msgid ""
 "reasonable extent to minimize the risk of third parties misusing access "
 "credentials to the User's account."
 msgstr ""
+"Användaren är skyldig att hålla inloggningsuppgifterna till Tjänsten "
+"konfidentiella och får inte vidta några åtgärder som kan äventyra Tjänstens "
+"säkerhet. Användaren är också skyldig att i rimlig utsträckning säkra sin "
+"tekniska utrustning för att minimera risken för att tredje part missbrukar "
+"inloggningsuppgifterna till Användarens konto."
 
 #: wllegal/templates/legal/documents/tos.html:412
 msgid ""
@@ -1439,10 +1897,18 @@ msgid ""
 "be exposed to third parties due to a leak of access information, they are "
 "required to report this to the Provider."
 msgstr ""
+"Om användaren bryter mot någon av de skyldigheter som anges i detta avsnitt, "
+"bär leverantören inget ansvar för eventuella skador som användaren åsamkas, "
+"och användaren är ensam ansvarig för eventuella skador som leverantören "
+"eller tredje part åsamkas. Brott mot dessa skyldigheter ger också "
+"leverantören rätt att säga upp detta avtal. Om användaren blir medveten om "
+"att tillgången till tjänsten kan exponeras för tredje part på grund av ett "
+"läckage av åtkomstinformation, är användaren skyldig att rapportera detta "
+"till leverantören."
 
 #: wllegal/templates/legal/documents/tos.html:416
 msgid "Prohibited Conduct"
-msgstr ""
+msgstr "Förbjudet beteende"
 
 #: wllegal/templates/legal/documents/tos.html:420
 msgid ""
@@ -1456,48 +1922,71 @@ msgid ""
 "another User’s account or the Provider’s servers. Violation of these "
 "obligations constitutes a material breach of the Agreement."
 msgstr ""
+"Användaren får inte ladda upp, skicka eller på annat sätt lagra innehåll på "
+"tjänsteportalen som kan innehålla datavirus eller andra filer och program "
+"som kan förstöra, skada eller begränsa funktionaliteten hos leverantörens "
+"eller andra användares enheter. Användaren har inte heller rätt att ladda "
+"upp innehåll till tjänsteportalen som är olagligt att inneha eller "
+"distribuera, som kränker tredje parts upphovsrätt, som är en del av "
+"kriminell verksamhet, som sprider skräppost via tjänsten eller som försöker "
+"få tillgång till en annan användares konto eller leverantörens servrar. "
+"Brott mot dessa skyldigheter utgör ett väsentligt brott mot avtalet."
 
 #: wllegal/templates/legal/documents/tos.html:424
 msgid ""
 "The User particularly agrees to refrain from the following activities while "
 "using the Services, especially through the Services:"
 msgstr ""
+"Användaren samtycker särskilt till att avstå från följande aktiviteter när "
+"han eller hon använder Tjänsterna, särskilt genom Tjänsterna:"
 
 #: wllegal/templates/legal/documents/tos.html:428
 msgid ""
 "Disseminating or offering any content that violates applicable laws at the "
 "national, EU, or international level;"
 msgstr ""
+"Sprida eller erbjuda innehåll som bryter mot gällande lagar på nationell, EU-"
+" eller internationell nivå;"
 
 #: wllegal/templates/legal/documents/tos.html:432
 msgid ""
 "Disseminating or offering any illegally obtained content or content whose "
 "dissemination would be illegal;"
 msgstr ""
+"Sprida eller erbjuda innehåll som erhållits på olaglig väg eller innehåll "
+"vars spridning skulle vara olaglig;"
 
 #: wllegal/templates/legal/documents/tos.html:436
 msgid ""
 "Disseminating or offering any pornographic, obscene, or otherwise vulgar "
 "content;"
 msgstr ""
+"Sprida eller erbjuda pornografiskt, obscent eller på annat sätt vulgärt "
+"innehåll;"
 
 #: wllegal/templates/legal/documents/tos.html:440
 msgid ""
 "Engaging in any services or activities that are contrary to applicable laws "
 "at the national, EU, or international level;"
 msgstr ""
+"Att delta i tjänster eller aktiviteter som strider mot tillämpliga lagar på "
+"nationell, EU- eller internationell nivå;"
 
 #: wllegal/templates/legal/documents/tos.html:444
 msgid ""
 "Engaging in activities that bypass intellectual property protection elements "
 "(such as cracks, warez, etc.);"
 msgstr ""
+"Att delta i aktiviteter som kringgår skyddet för immateriella rättigheter "
+"(såsom crackar, warez etc.);"
 
 #: wllegal/templates/legal/documents/tos.html:448
 msgid ""
 "Sending unsolicited commercial messages and other spam or other illegal "
 "harassment of third parties;"
 msgstr ""
+"Skicka oönskade kommersiella meddelanden och annan skräppost eller annan "
+"olaglig trakassering av tredje part;"
 
 #: wllegal/templates/legal/documents/tos.html:452
 msgid ""
@@ -1506,81 +1995,103 @@ msgid ""
 "impolite, or otherwise inappropriate content that unlawfully or illegally "
 "infringes on the personal rights of third parties;"
 msgstr ""
+"Publicera eller sprida innehåll som kan kränka tredje parts rättigheter, "
+"inklusive attacker mot sådana personer, eller innehåll som är stötande, "
+"ohövligt eller på annat sätt olämpligt och som olagligt eller otillbörligt "
+"kränker tredje parts personliga rättigheter;"
 
 #: wllegal/templates/legal/documents/tos.html:456
 msgid ""
 "Disseminating or offering any content that infringes on third-party "
 "intellectual or industrial property rights;"
 msgstr ""
+"Sprida eller erbjuda innehåll som kränker tredje parts immateriella eller "
+"industriella rättigheter;"
 
 #: wllegal/templates/legal/documents/tos.html:460
 msgid ""
 "Operating or disseminating any tools that may be misused to breach network, "
 "device, or service security;"
 msgstr ""
+"Använda eller sprida verktyg som kan missbrukas för att bryta mot säkerheten "
+"för nätverk, enheter eller tjänster;"
 
 #: wllegal/templates/legal/documents/tos.html:464
 msgid "Overburdening the Provider's or third-party servers;"
-msgstr ""
+msgstr "Överbelastning av leverantörens eller tredje parts servrar;"
 
 #: wllegal/templates/legal/documents/tos.html:468
 msgid ""
 "Engaging in any activities that could harm the Provider, its reputation, or "
 "its assets;"
 msgstr ""
+"Att delta i aktiviteter som kan skada leverantören, dess rykte eller dess "
+"tillgångar;"
 
 #: wllegal/templates/legal/documents/tos.html:472
 msgid ""
 "Using any means, servers, devices, or elements provided by the Provider in a "
 "manner not expressly agreed upon in these Terms or the Agreement;"
 msgstr ""
+"Använda alla medel, servrar, enheter eller element som tillhandahålls av "
+"leverantören på ett sätt som inte uttryckligen överenskommits i dessa "
+"villkor eller avtalet;"
 
 #: wllegal/templates/legal/documents/tos.html:476
 msgid ""
 "Conducting activities that would disclose any content to third parties that:"
-msgstr ""
+msgstr "Genomföra aktiviteter som skulle avslöja innehåll för tredje part som:"
 
 #: wllegal/templates/legal/documents/tos.html:480
 msgid "Contains prohibited applications and scripts;"
-msgstr ""
+msgstr "Innehåller förbjudna applikationer och skript;"
 
 #: wllegal/templates/legal/documents/tos.html:484
 msgid "Overloads database systems or causes malfunction of servers;"
-msgstr ""
+msgstr "Överbelastar databassystem eller orsakar funktionsfel på servrar;"
 
 #: wllegal/templates/legal/documents/tos.html:488
 msgid ""
 "Overburdens the infrastructure, connection lines, or hardware of the "
 "Provider or third parties;"
 msgstr ""
+"Överbelastar leverantörens eller tredje parts infrastruktur, "
+"anslutningslinjer eller hårdvara;"
 
 #: wllegal/templates/legal/documents/tos.html:492
 msgid ""
 "Involves music, sound, image, film, or similar files for which the User "
 "lacks distribution rights;"
 msgstr ""
+"Innebär musik, ljud, bild, film eller liknande filer för vilka användaren "
+"saknar distributionsrättigheter;"
 
 #: wllegal/templates/legal/documents/tos.html:496
 msgid ""
 "Threatens the privacy or security of other Internet users or the security of "
 "computer systems (e.g., through viruses, password generators, etc.);"
 msgstr ""
+"Hotar andra internetanvändares integritet eller säkerhet eller datasystemens "
+"säkerhet (t.ex. genom virus, lösenordsgeneratorer etc.);"
 
 #: wllegal/templates/legal/documents/tos.html:500
 msgid ""
 "Is part of the provided Service without written permission from the Provider "
 "to share it with third parties;"
 msgstr ""
+"Är en del av den tillhandahållna tjänsten utan skriftligt tillstånd från "
+"leverantören att dela den med tredje part;"
 
 #: wllegal/templates/legal/documents/tos.html:504
 msgid ""
 "Gives the impression that the User acts on behalf of the Provider without "
 "authorization;"
 msgstr ""
+"Ger intryck av att användaren agerar på leverantörens vägnar utan tillstånd;"
 
 #: wllegal/templates/legal/documents/tos.html:508
 msgid "May harm any third-party rights."
-msgstr ""
+msgstr "Kan skada tredje parts rättigheter."
 
 #: wllegal/templates/legal/documents/tos.html:512
 msgid ""
@@ -1590,6 +2101,11 @@ msgid ""
 "public morality, ethical principles, or Internet usage rules, or is aiding "
 "in or committing criminal activities."
 msgstr ""
+"Leverantören kan utan föregående meddelande avbryta, begränsa eller upphäva "
+"tillhandahållandet av Tjänsterna om den har rimliga skäl att tro att "
+"Användaren bryter mot Villkoren, Avtalet eller använder Tjänsterna i strid "
+"med tillämpliga lagar, allmän moral, etiska principer eller regler för "
+"internetanvändning, eller medverkar till eller begår brottsliga handlingar."
 
 #: wllegal/templates/legal/documents/tos.html:516
 msgid ""
@@ -1599,6 +2115,12 @@ msgid ""
 "invoicing) or excessive usage, particularly through automated software and "
 "bots that overload the Provider’s servers or other technical facilities."
 msgstr ""
+"Leverantören kan också, utan föregående meddelande, avbryta, begränsa eller "
+"upphäva tillhandahållandet av tjänsterna om tjänsterna missbrukas för "
+"otillåten inblandning i leverantörens rättigheter "
+"(t.ex. identitetsstöld, bedräglig fakturering) eller överdriven användning, "
+"särskilt genom automatiserad programvara och bots som överbelastar "
+"leverantörens servrar eller andra tekniska anläggningar."
 
 #: wllegal/templates/legal/documents/tos.html:520
 msgid ""
@@ -1607,6 +2129,11 @@ msgid ""
 "responsible for any damages resulting from the interruption and cannot claim "
 "any compensation from the Provider for such damages."
 msgstr ""
+"Användaren samtycker uttryckligen till att i händelse av ett berättigat "
+"avbrott, begränsning eller upphävande av Tjänsterna från Leverantörens sida, "
+"är Användaren ensam ansvarig för eventuella skador som uppstår till följd av "
+"avbrottet och kan inte kräva någon ersättning från Leverantören för sådana "
+"skador."
 
 #: wllegal/templates/legal/documents/tos.html:524
 msgid ""
@@ -1616,6 +2143,12 @@ msgid ""
 "or ensuring the installation and execution of tools and scripts on the "
 "virtual server that verify and check the software resources used."
 msgstr ""
+"För att verifiera den använda mjukvarulösningen eller granska licensieringen "
+"av tilldelade mjukvaruresurser och innehåll som laddats upp via Tjänsterna, "
+"samtycker Användaren till att samarbeta fullt ut med Leverantören. Detta "
+"inkluderar att möjliggöra eller säkerställa installation och körning av "
+"verktyg och skript på den virtuella servern som verifierar och kontrollerar "
+"de använda mjukvaruresurserna."
 
 #: wllegal/templates/legal/documents/tos.html:528
 msgid ""
@@ -1629,10 +2162,19 @@ msgid ""
 "does not affect the Provider’s right to claim damages in addition to the "
 "penalty."
 msgstr ""
+"Användaren samtycker uttryckligen till att vara ansvarig för alla skador som "
+"orsakas leverantören, dess kunder, partners eller tredje part. Detta ansvar "
+"omfattar särskilt konsekvenserna av alla rättsliga åtgärder som bryter mot "
+"bestämmelserna i artikel 10 i dessa villkor. Användaren samtycker också till "
+"att leverantören får justera tjänstens inställningar för att förhindra "
+"missbruk. Vid överträdelse från användarens sida återbetalas inte den "
+"outnyttjade tjänsteperioden och betraktas automatiskt som en "
+"engångsstraffavgift. Denna straffavgift påverkar inte leverantörens rätt att "
+"kräva skadestånd utöver straffavgiften."
 
 #: wllegal/templates/legal/documents/tos.html:533
 msgid "Termination of the Agreement"
-msgstr ""
+msgstr "Uppsägning av avtalet"
 
 #: wllegal/templates/legal/documents/tos.html:537
 msgid ""
@@ -1641,6 +2183,10 @@ msgid ""
 "(either the Provider or the User) with liquidation, termination of the "
 "Agreement, or by mutual agreement of the Parties."
 msgstr ""
+"Avtalsförhållandet kan sägas upp genom att avtalet sägs upp, den "
+"överenskomna avtalstiden löper ut, en juridisk person "
+"(antingen leverantören eller användaren) upplöses med likvidation, avtalet "
+"sägs upp eller genom ömsesidig överenskommelse mellan parterna."
 
 #: wllegal/templates/legal/documents/tos.html:541
 msgid ""
@@ -1648,12 +2194,17 @@ msgid ""
 "reason. The notice period is three months, starting from the first day of "
 "the calendar month following the delivery of the notice to the User."
 msgstr ""
+"Leverantören kan säga upp avtalet när som helst utan att ange någon "
+"anledning. Uppsägningstiden är tre månader, räknat från den första dagen i "
+"den kalendermånad som följer efter det att uppsägningen delgivits användaren."
 
 #: wllegal/templates/legal/documents/tos.html:545
 msgid ""
 "The User may terminate the Agreement under the conditions specified in "
 "Section 8.1 of these Terms."
 msgstr ""
+"Användaren kan säga upp Avtalet enligt villkoren som anges i avsnitt 8.1 i "
+"dessa Villkor."
 
 #: wllegal/templates/legal/documents/tos.html:549
 msgid ""
@@ -1663,6 +2214,11 @@ msgid ""
 "Agreement. The withdrawal becomes effective the day after the User receives "
 "the notice of withdrawal."
 msgstr ""
+"Om Användaren väsentligt eller upprepade gånger bryter mot sina skyldigheter "
+"enligt dessa Villkor eller Avtalet och inte åtgärdar överträdelsen inom 14 "
+"dagar från leveransen av ett meddelande om överträdelsen, kan Leverantören "
+"säga upp Avtalet. Uppsägningen träder i kraft dagen efter att Användaren "
+"mottagit meddelandet om uppsägningen."
 
 #: wllegal/templates/legal/documents/tos.html:553
 msgid ""
@@ -1671,6 +2227,10 @@ msgid ""
 "withdraw from the Agreement and terminate the provision of the Service as "
 "soon as such a breach is discovered."
 msgstr ""
+"Om Användaren bryter mot sina skyldigheter enligt dessa Villkor eller "
+"Avtalet på ett särskilt allvarligt sätt, har Leverantören rätt att "
+"omedelbart säga upp Avtalet och avsluta tillhandahållandet av Tjänsten så "
+"snart ett sådant brott upptäcks."
 
 #: wllegal/templates/legal/documents/tos.html:557
 msgid ""
@@ -1678,6 +2238,9 @@ msgid ""
 "in a particularly serious manner, the User is entitled to immediately "
 "withdraw from the Agreement as soon as such a breach is discovered."
 msgstr ""
+"Om leverantören bryter mot sina skyldigheter enligt dessa villkor eller "
+"avtalet på ett särskilt allvarligt sätt, har användaren rätt att omedelbart "
+"säga upp avtalet så snart en sådan överträdelse upptäcks."
 
 #: wllegal/templates/legal/documents/tos.html:561
 msgid ""
@@ -1687,10 +2250,16 @@ msgid ""
 "including the provisions of Sections 1912 (2), 1923, 1969, 1977, 1978, 1979, "
 "2001, 2002, 2003, 2106, 2107, 2110, and 2111 of the Czech Civil Code."
 msgstr ""
+"Ingen av parterna får säga upp eller på annat sätt avsluta avtalet, utom i "
+"de fall som uttryckligen anges i detta avsnitt. Parterna utesluter, i "
+"största möjliga utsträckning, rätten för någon av parterna att säga upp "
+"detta avtal, inklusive bestämmelserna i avsnitten 1912 (2), 1923, 1969, "
+"1977, 1978, 1979, 2001, 2002, 2003, 2106, 2107, 2110 och 2111 i den "
+"tjeckiska civillagen."
 
 #: wllegal/templates/legal/documents/tos.html:565
 msgid "Limitation of Liability"
-msgstr ""
+msgstr "Ansvarsbegränsning"
 
 #: wllegal/templates/legal/documents/tos.html:569
 msgid ""
@@ -1701,10 +2270,17 @@ msgid ""
 "other intangible losses (even if the Provider has been advised of the "
 "possibility of such damages), resulting from:"
 msgstr ""
+"Leverantören ansvarar inte för indirekta skador som uppstår till följd av "
+"tillhandahållandet av Tjänsterna, såsom utebliven vinst, förlorade intäkter, "
+"dataförlust, ekonomiska skador eller indirekta, särskilda eller följdskador, "
+"inklusive exemplariska eller straffrättsliga skadestånd, såsom, men inte "
+"begränsat till, skadestånd för andra immateriella förluster "
+"(även om Leverantören har informerats om möjligheten till sådana skador), "
+"som uppstår till följd av:"
 
 #: wllegal/templates/legal/documents/tos.html:574
 msgid "Use or inability to use the Service;"
-msgstr ""
+msgstr "Användning eller oförmåga att använda Tjänsten;"
 
 #: wllegal/templates/legal/documents/tos.html:577
 msgid ""
@@ -1712,6 +2288,10 @@ msgid ""
 "data, information, or services purchased or obtained or messages received, "
 "or transactions entered into through or from the Service;"
 msgstr ""
+"Kostnaden för att anskaffa ersättningsvaror och -tjänster som uppstår till "
+"följd av varor, data, information eller tjänster som köpts eller erhållits, "
+"meddelanden som mottagits eller transaktioner som ingåtts via eller från "
+"Tjänsten;"
 
 #: wllegal/templates/legal/documents/tos.html:580
 msgid ""
@@ -1719,12 +2299,13 @@ msgid ""
 "including any outcomes of third-party solutions or services related to the "
 "Service;"
 msgstr ""
+"Uttalanden eller handlingar från tredje part som är involverad i "
+"tillhandahållandet av Tjänsten, inklusive resultat av tredjepartslösningar "
+"eller tjänster relaterade till Tjänsten;"
 
 #: wllegal/templates/legal/documents/tos.html:583
-#, fuzzy
-#| msgid "means translation project operated on the Service"
 msgid "Any other matters related to the Service."
-msgstr "betyder översättningsprojekt som drivs på Tjänsten"
+msgstr "Alla andra frågor som rör Tjänsten."
 
 #: wllegal/templates/legal/documents/tos.html:588
 msgid ""
@@ -1736,6 +2317,13 @@ msgid ""
 "war, or changes in the political situation that prevent or unduly hinder the "
 "exercise of rights and obligations arising from this Agreement."
 msgstr ""
+"I fall av force majeure har parterna rätt att tillfälligt upphäva sina "
+"avtalsenliga skyldigheter, och underlåtenhet eller försening i fullgörandet "
+"av skyldigheterna enligt detta avtal ska inte anses utgöra ett avtalsbrott. "
+"Force majeure omfattar omständigheter under vilka ansvar är uteslutet enligt "
+"tjeckisk lag, såsom naturkatastrofer, krig eller förändringar i den "
+"politiska situationen som förhindrar eller på ett otillbörligt sätt hindrar "
+"utövandet av rättigheter och skyldigheter som följer av detta avtal."
 
 #: wllegal/templates/legal/documents/tos.html:592
 msgid ""
@@ -1746,6 +2334,12 @@ msgid ""
 "back up all of their data stored within the Service at another geographical "
 "location(s)."
 msgstr ""
+"Genom att ingå Avtalet erkänner Användaren att, trots Leverantörens bästa "
+"ansträngningar, Tjänsten tillfälligt kan vara otillgänglig på grund av "
+"omständigheter utanför Leverantörens kontroll "
+"(t.ex. ett avbrott i internetanslutningen). Användaren samtycker därför till "
+"och åtar sig att säkerhetskopiera alla sina data som lagras inom Tjänsten på "
+"en eller flera andra geografiska platser."
 
 #: wllegal/templates/legal/documents/tos.html:596
 msgid ""
@@ -1754,12 +2348,15 @@ msgid ""
 "cancel their order or to request a refund of any fees paid, unless otherwise "
 "expressly agreed between the Parties in individual cases."
 msgstr ""
+"Användaren använder Tjänsten I BEFINTLIGT SKICK. Inkompatibilitet med annan "
+"programvara, hårdvarukonfigurationer eller eventuella defekter eller fel GER "
+"INTE Användaren rätt att avbryta sin beställning eller begära återbetalning "
+"av erlagda avgifter, såvida inte annat uttryckligen överenskommits mellan "
+"Parterna i enskilda fall."
 
 #: wllegal/templates/legal/documents/tos.html:600
-#, fuzzy
-#| msgid "The Personal Data retention"
 msgid "Personal Data Protection"
-msgstr "Lagringen av personuppgifter"
+msgstr "Skydd av personuppgifter"
 
 #: wllegal/templates/legal/documents/tos.html:604
 #, python-format
@@ -1771,6 +2368,12 @@ msgid ""
 "communications as defined in the <a href=\"%(privacy_url)s\">Privacy Policy</"
 "a>."
 msgstr ""
+"Leverantören samlar in uppgifter från användaren enbart i syfte att "
+"tillhandahålla tjänsten, förbättra dess kvalitet, uppfylla lagliga "
+"skyldigheter och i utvalda fall för leverantörens legitima intressen "
+"(t.ex. upprätthålla serversäkerhet och integritet) eller för att skicka "
+"valfria kommersiella meddelanden enligt definitionen i <a href="
+"\"%(privacy_url)s\">sekretesspolicyn</a>."
 
 #: wllegal/templates/legal/documents/tos.html:608
 msgid ""
@@ -1778,6 +2381,9 @@ msgid ""
 "The User declares that they consider this encryption method sufficiently "
 "secure."
 msgstr ""
+"All kommunikation inom Tjänsten krypteras med hjälp av SSL-protokollet. "
+"Användaren förklarar att han/hon anser att denna krypteringsmetod är "
+"tillräckligt säker."
 
 #: wllegal/templates/legal/documents/tos.html:612
 #, python-format
@@ -1788,6 +2394,11 @@ msgid ""
 "defined in this Agreement and the <a href=\"%(privacy_url)s\">Privacy "
 "Policy</a>."
 msgstr ""
+"Leverantören förbinder sig att inte lämna ut någon information som "
+"användaren lämnat vid registreringen av sitt användarkonto eller andra "
+"personuppgifter som användaren lämnat till någon tredje part för andra "
+"ändamål än de som anges i detta avtal och <a href=\"%(privacy_url)s\">i "
+"sekretesspolicyn</a>."
 
 #: wllegal/templates/legal/documents/tos.html:616
 msgid ""
@@ -1797,18 +2408,28 @@ msgid ""
 "technical cookies, for which explicit consent is not required under current "
 "legislation."
 msgstr ""
+"Leverantörens webbplats och webbapplikation använder också cookies. "
+"Tjänsterna använder uteslutande sessionscookies från leverantören och "
+"använder aldrig cookies från tredje part. När det gäller funktionalitet och "
+"typ använder leverantören endast funktionella/tekniska cookies, för vilka "
+"uttryckligt samtycke inte krävs enligt gällande lagstiftning."
 
 #: wllegal/templates/legal/documents/tos.html:624
 msgid ""
 "The Parties commit to maintaining the confidentiality of all information "
 "learned during the contractual relationship established by this Agreement."
 msgstr ""
+"Parterna förbinder sig att upprätthålla sekretessen för all information som "
+"de får kännedom om under det avtalsförhållande som upprättas genom detta "
+"avtal."
 
 #: wllegal/templates/legal/documents/tos.html:628
 msgid ""
 "The User’s rights arising from the Agreement and these Terms cannot be "
 "assigned without the prior written consent of the Provider."
 msgstr ""
+"Användarens rättigheter som följer av Avtalet och dessa Villkor kan inte "
+"överlåtas utan Leverantörens föregående skriftliga medgivande."
 
 #: wllegal/templates/legal/documents/tos.html:632
 msgid ""
@@ -1816,6 +2437,9 @@ msgid ""
 "business entities and that they are entering into this Agreement within the "
 "scope of their business activities."
 msgstr ""
+"För att undvika tvivel bekräftar parterna uttryckligen att de är "
+"affärsenheter och att de ingår detta avtal inom ramen för sin "
+"affärsverksamhet."
 
 #: wllegal/templates/legal/documents/tos.html:636
 msgid ""
@@ -1826,6 +2450,13 @@ msgid ""
 "effort to amend the Agreement by replacing the invalid, unenforceable, or "
 "ineffective provision with a new one that reflects the original intent."
 msgstr ""
+"Om någon bestämmelse i detta avtal eller dessa villkor är eller blir "
+"ogiltig, verkningslös eller icke verkställbar, ska detta inte påverka "
+"giltigheten, verkställbarheten eller verkan av övriga bestämmelser i avtalet "
+"eller dessa villkor. I sådant fall ska parterna göra sitt yttersta för att "
+"ändra avtalet genom att ersätta den ogiltiga, icke verkställbara eller "
+"verkningslösa bestämmelsen med en ny som återspeglar den ursprungliga "
+"avsikten."
 
 #: wllegal/templates/legal/documents/tos.html:640
 msgid ""
@@ -1845,6 +2476,21 @@ msgid ""
 "Parties. The Parties irrevocably agree not to contest the enforcement of the "
 "arbitration award in any jurisdiction."
 msgstr ""
+"Dessa villkor regleras av lagen i Tjeckien, som är medlem i Europeiska "
+"unionen. Parterna utesluter dock i största möjliga utsträckning "
+"bestämmelserna i avsnitten 1764, 1765, 1793 till 1795, 2050, 2389a till "
+"2389f, 2389t och 2389u i den tjeckiska civillagen. Alla tvister som uppstår "
+"i samband med fullgörandet eller tolkningen av avtalet och som inte kan "
+"lösas i godo mellan parterna ska slutgiltigt avgöras genom skiljedom vid "
+"skiljedomstolen vid Tjeckiens ekonomiska kammare och Tjeckiens "
+"jordbrukskammare av tre skiljemän som utses i enlighet med denna "
+"skiljedomstols regler. Varje part utser en skiljeman, och de två "
+"skiljemännen kommer överens om den tredje skiljemannen inom 30 dagar. Om de "
+"två skiljemännen inte kan enas om den tredje skiljemannen inom ovanstående "
+"period, utser skiljedomstolens ordförande den tredje skiljemannen. "
+"Skiljedomen är slutgiltig och bindande för parterna. Parterna är "
+"oåterkalleligen överens om att inte bestrida verkställigheten av skiljedomen "
+"i någon jurisdiktion."
 
 #: wllegal/templates/legal/documents/tos.html:644
 msgid ""
@@ -1855,14 +2501,16 @@ msgid ""
 "the English version and any translated version, the English version shall "
 "prevail in all matters."
 msgstr ""
+"Den officiella versionen av dessa villkor har upprättats på engelska och "
+"anses vara den enda bindande versionen. Alla versioner av dessa villkor som "
+"översatts till andra språk tillhandahålls enbart för användarens "
+"bekvämlighet och har ingen rättslig verkan. I händelse av avvikelser eller "
+"konflikter mellan den engelska versionen och någon översatt version ska den "
+"engelska versionen ha företräde i alla frågor."
 
 #: wllegal/templates/legal/documents/tos.html:648
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 15th May 2023."
 msgid "These Terms enter into force on November 1, 2024."
-msgstr ""
-"Dessa användarvillkor träder i kraft och gäller från och med den 15 maj 2023."
+msgstr "Dessa villkor träder i kraft den 1 november 2024."
 
 #~ msgid ""
 #~ "Your translations are made under the license which is specified by each "
