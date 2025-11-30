@@ -9,22 +9,21 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2025-11-21 14:53+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-12-01 18:00+0000\n"
+"Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/weblate/legal/"
 "hr/>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural="
-"(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? "
-"1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Weblate 5.15-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr "Podugovarači sukladno čl. 28 GDPR-a"
+msgstr "Podugovarači u skladu sa člankom 28 GDPR-a"
 
 #: wllegal/templates/legal/documents/contracts.html:11
 msgid "Status as of May 2024."
@@ -35,7 +34,7 @@ msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
-"Dokument „Politika privatnosti” mjerodavan je na engleskom jeziku, za lakše "
+"Dokument „Politika privatnosti” je mjerodavan na engleskom jeziku, za lakše "
 "razumijevanje nude se prijevodi."
 
 #: wllegal/templates/legal/documents/privacy.html:6
@@ -50,9 +49,9 @@ msgid ""
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
-"Ova Politika privatnosti (u nastavku teksta: Politika) nadopunjuje <a "
-"href=\"%(terms_url)s\">Opće uvjete poslovanja</a> Weblate-a (u nastavku "
-"teksta: Uvjeti)."
+"Ova Politika privatnosti (u nastavku teksta: <strong>„Politika”</strong>) "
+"nadopunjuje <a href=\"%(terms_url)s\">Opće uvjete poslovanja</a> Weblate-a "
+"(u nastavku teksta: <strong>„Uvjeti”</strong>)."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
@@ -238,7 +237,7 @@ msgid ""
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
 "gdje će se pojedinačne kategorije gore navedenih osobnih podataka nadalje "
-"navoditi pod zajedničkim nazivom „<strong>Osobni podatci</strong>“."
+"navoditi pod zajedničkim nazivom <strong>„Osobni podatci“</strong>."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -360,7 +359,7 @@ msgid ""
 "this Policy as \"<strong>Processors</strong>\"."
 msgstr ""
 "u ovom članku 3.1 spomenute osobe se u ovoj Politici zajednički nazivaju "
-"„<strong>Obrađivači</strong>”."
+"<strong>„Obrađivači”</strong>."
 
 #: wllegal/templates/legal/documents/privacy.html:182
 msgid ""
@@ -617,27 +616,20 @@ msgstr ""
 "sve dok tvoj račun postoji."
 
 #: wllegal/templates/legal/documents/summary.html:11
-#, fuzzy
-#| msgid ""
-#| "Your name and e-mail address is used in VCS commits, it will stay there "
-#| "indefinitely."
 msgid ""
 "Your name and e-mail can be used in version control system commits to author "
 "the changes you made; they can be stored there indefinitely."
 msgstr ""
-"Tvoje ime i e-adresa koriste se za izmjene u sustavu za kontrolu verzija. "
-"Tamo će ostati zauvijek."
+"Tvoje ime i e-mail adresa se mogu koristiti u commitovima sustava za "
+"kontrolu verzija kako bi se autorizirale tvoje promjene; tamo se mogu "
+"spremiti neograničeno dugo."
 
 #: wllegal/templates/legal/documents/summary.html:12
-#, fuzzy
-#| msgid ""
-#| "Chosen name is up to you and the e-mail address used for commits can be "
-#| "masked by Weblate system to protect your privacy."
 msgid ""
 "Name choice is yours, and the e-mail address used for commits can be masked "
 "by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
-"Odaberi ime proizvoljno. E-mail adresa koja se koristi za promjene se može "
+"Izbor imena ovosi otebi. E-mail adresa koja se koristi za promjene se može "
 "maskirati pomoću Weblate sustava za zaštitu tvoje privatnosti."
 
 #: wllegal/templates/legal/documents/summary.html:15
@@ -670,7 +662,7 @@ msgid ""
 "use of the Service are governed by these General Terms and Conditions."
 msgstr ""
 "Prava i obveze Korisnika i Pružatelja usluga koji proizlaze iz korištenja "
-"usluge su uređeni ovim općim uvjetima poslovanja."
+"usluge su uređeni ovim Općim uvjetima poslovanja."
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid ""
@@ -682,10 +674,10 @@ msgid ""
 "contractual relationship between the service provider and the User."
 msgstr ""
 "Ovi Opći uvjeti poslovanja su sastavni dio ugovora o usluzi sklopljenog "
-"između Korisnika i Pružatelja usluge (u daljnjem tekstu „<strong>Ugovor</"
-"strong>“) te definiraju obvezujuća pravila i uvjete za pružanje usluga i "
-"proizvoda te za korištenje usluga i proizvoda. Ovi opći uvjeti poslovanja "
-"uređuju ugovorni odnos između Pružatelja usluge i Korisnika."
+"između Korisnika i Pružatelja usluge (u daljnjem tekstu <strong>„Ugovor“</"
+"strong>) te definiraju obvezujuća pravila i uvjete za pružanje usluga i "
+"proizvoda te za korištenje Usluga i Oroizvoda. Ovi Opći uvjeti poslovanja "
+"uređuju ugovorni odnos između pružatelja usluge i Korisnika."
 
 #: wllegal/templates/legal/documents/tos.html:24
 msgid ""
@@ -755,7 +747,7 @@ msgstr "Opći uvjeti poslovanja"
 msgid ""
 "means these general terms and conditions, which form an integral part of the "
 "Agreement;"
-msgstr "znači ovi opći uvjeti poslovanja koji su sastavni dio ugovora;"
+msgstr "znači ovi opći uvjeti poslovanja, koji su sastavni dio ugovora;"
 
 #: wllegal/templates/legal/documents/tos.html:72
 msgid "Hosted String"
@@ -1059,7 +1051,7 @@ msgstr "standardna cijena za prevodilačku memoriju;"
 msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
-msgstr "(točke a), b) i c) zajedno se nazivaju „<strong>Pretplata</strong>”)."
+msgstr "(točke a), b) i c) se zajedno nazivaju <strong>„Pretplata”</strong>)."
 
 #: wllegal/templates/legal/documents/tos.html:258
 msgid ""
@@ -1641,6 +1633,8 @@ msgid ""
 "The User may terminate the Agreement under the conditions specified in "
 "Section 8.1 of these Terms."
 msgstr ""
+"Korisnik može raskinuti Ugovor pod uvjetima navedenima u članku 8.1 ovih "
+"Uvjeta."
 
 #: wllegal/templates/legal/documents/tos.html:549
 msgid ""
