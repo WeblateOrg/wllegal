@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2025-11-28 12:00+0000\n"
+"PO-Revision-Date: 2025-12-01 18:00+0000\n"
 "Last-Translator: \"S-G.\" <grimaitres@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/weblate/legal/fr/>"
 "\n"
@@ -487,23 +487,35 @@ msgstr ""
 "Prestataire ou les autres collaborants avec lui;"
 
 #: wllegal/templates/legal/documents/privacy.html:170
+#, fuzzy
 msgid ""
 "selected contractors of the Provider who are involved in providing services "
 "to Users and who are also bound by confidentiality;"
 msgstr ""
+"les sous-traitants sélectionnés du Fournisseur qui sont impliqués dans la "
+"prestation de services aux Utilisateurs et qui sont également liés par la "
+"confidentialité;"
 
 #: wllegal/templates/legal/documents/privacy.html:173
+#, fuzzy
 msgid ""
 "any other persons whose involvement is necessary for the proper provision of "
 "the Service, Products, Support Services, and/or to ensure any other "
 "activities related to the above;"
 msgstr ""
+"toute autre personne dont la participation est nécessaire à la bonne "
+"fourniture du Service, des Produits, des Services d'assistance, et/ou pour "
+"assurer toute autre activité liée à ce qui précède;"
 
 #: wllegal/templates/legal/documents/privacy.html:178
+#, fuzzy
 msgid ""
 "the persons mentioned in this Article 3.1 are collectively referred to in "
 "this Policy as \"<strong>Processors</strong>\"."
 msgstr ""
+"les personnes mentionnées au présent Article 3.1 sont collectivement "
+"désignées dans la présente Politique par le terme \"<strong>Sous-traitants</"
+"strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:182
 msgid ""
