@@ -8,17 +8,17 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2025-08-09 11:38+0000\n"
-"Last-Translator: Avi Markovitz <avi.markovitz@gmail.com>\n"
-"Language-Team: Hebrew <https://hosted.weblate.org/projects/weblate/legal/he/"
-">\n"
+"PO-Revision-Date: 2025-12-03 18:00+0000\n"
+"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
+"Language-Team: Hebrew <https://hosted.weblate.org/projects/weblate/legal/he/>"
+"\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -618,7 +618,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:296
 msgid "In Prague on November 1, 2024."
-msgstr ""
+msgstr "בפראג ב־1 בנומבר, 2024."
 
 #: wllegal/templates/legal/documents/summary.html:5
 msgid ""
@@ -647,16 +647,12 @@ msgstr ""
 "יישארו שם לנצח."
 
 #: wllegal/templates/legal/documents/summary.html:12
-#, fuzzy
-#| msgid ""
-#| "Chosen name is up to you and the e-mail address used for commits can be "
-#| "masked by Weblate system to protect your privacy."
 msgid ""
 "Name choice is yours, and the e-mail address used for commits can be masked "
 "by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
-"השם הנבחר הוא לבחירתך ואת כתובת הדוא״ל שבשימוש Weblate יכול למסך כדי להגן על "
-"הפרטיות שלך."
+"השם הנבחר הוא לבחירתך ואת כתובת הדוא״ל שמשמשת לקיבועים Weblate יכול למסך כדי "
+"להגן על הפרטיות שלך. אפשר להפעיל את זה בפרופיל שלך."
 
 #: wllegal/templates/legal/documents/summary.html:15
 msgid ""
