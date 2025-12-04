@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2025-12-03 18:00+0000\n"
+"PO-Revision-Date: 2025-12-04 08:20+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/weblate/legal/he/>"
 "\n"
@@ -633,6 +633,8 @@ msgid ""
 "By registering, you agree that your name and username will be visible "
 "publicly as long as your account exists."
 msgstr ""
+"עצם הרישום מהווה את הסכמתך לכך שהשם ושם המשתמש שלך יהיו חשופים לציבור כל עוד "
+"החשבון שלך קיים."
 
 #: wllegal/templates/legal/documents/summary.html:11
 #, fuzzy
