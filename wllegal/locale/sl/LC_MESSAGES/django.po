@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2025-12-03 18:00+0000\n"
+"PO-Revision-Date: 2025-12-06 10:00+0000\n"
 "Last-Translator: Gašper Pintar <pintargasper1@gmail.com>\n"
 "Language-Team: Slovenian <https://hosted.weblate.org/projects/weblate/legal/"
 "sl/>\n"
@@ -76,6 +76,11 @@ msgid ""
 "the Services, Products, Support Services, as well as when using the Website "
 "and other possible services and related activities."
 msgstr ""
+"Ta politika opisuje, kako ponudnik ravna z osebnimi podatki uporabnikov kot "
+"posameznikov, na katere se nanašajo osebni podatki – zasebnikov, pri dostopu "
+"do storitev, izdelkov, podpornih storitev in njihovi poznejši uporabi, kot "
+"tudi pri uporabi spletnega mesta in drugih morebitnih storitev in z njimi "
+"povezanih dejavnosti."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid ""
@@ -97,6 +102,13 @@ msgid ""
 "personal data and the protection of privacy in the electronic communications "
 "sector (abbreviated as the \"<strong>ePrivacy Directive</strong>\")."
 msgstr ""
+"Pri obdelavi osebnih podatkov ponudnik ravna v skladu z Uredbo (EU) 2016/679 "
+"Evropskega parlamenta in Sveta, Splošno uredbo o varstvu podatkov, znano "
+"tudi kot GDPR (v nadaljevanju bomo uporabljali kratico \"<strong>GDPR</"
+"strong>\"), Zakonom št. 110/2019 Zb. o obdelavi osebnih podatkov ter "
+"Direktivo 2002/58/EC Evropskega parlamenta in Sveta z dne 12. julija 2002 o "
+"obdelavi osebnih podatkov in varstvu zasebnosti v sektorju elektronskih "
+"komunikacij (okrajšano \"<strong>Direktiva o e-zasebnosti</strong>\")."
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -106,6 +118,11 @@ msgid ""
 "registers for the Provider's newsletter and/or when the Provider and the "
 "User conclude the Contract, whichever is the earliest."
 msgstr ""
+"Dejanska obdelava osebnih podatkov uporabnikov se vedno izvaja le za namene "
+"in pod pogoji, ki so podrobneje opredeljeni v tej Politiki, in se začne v "
+"trenutku, ko uporabnik obišče spletno mesto, ko se uporabnik prijavi na "
+"ponudnikovo e-novice in/ali ko ponudnik in uporabnik skleneta pogodbo, kar "
+"nastopi prej."
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid ""
@@ -114,6 +131,9 @@ msgid ""
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
 msgstr ""
+"Obdelavo nato izvaja neposredno ponudnik in/ali tretje osebe v smislu 3. "
+"člena te politike, ki jih je ponudnik pooblastil za obdelavo osebnih "
+"podatkov v skladu s to politiko."
 
 #: wllegal/templates/legal/documents/privacy.html:45
 msgid ""
@@ -121,73 +141,82 @@ msgid ""
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
+"Razen če je v tej politiki izrecno navedeno drugače, ponudnik deluje kot "
+"<strong>upravljavec podatkov</strong> , uporabniki, ki so fizične osebe, pa "
+"kot posamezniki, na katere se nanašajo osebni podatki, kot so te vloge "
+"opredeljene v GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "Obseg, nameni in trajanje obdelave"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
-msgstr ""
+msgstr "Ponudnik obdeluje osebne podatke uporabnika za naslednje namene:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "izpolnjevanje pogodbe v skladu s členom 6(1)(b) GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "pogajanja o pogodbi v skladu s členom 6(1)(b) GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
 msgstr ""
+"izpolnjevanje zakonskih obveznosti ponudnika v skladu s členom 6(1)(c) GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, "
 "and in selected cases also"
 msgstr ""
+"legitimni interesi ponudnika v skladu s členom 6(1)(f) GDPR in v izbranih "
+"primerih tudi"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
-msgstr ""
+msgstr "soglasje, ki ga je uporabnik podal v skladu s členom 6(1)(a) GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
 msgstr ""
+"Obseg osebnih podatkov uporabnika, ki jih obdeluje ponudnik, vključuje "
+"naslednje:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr ""
+msgstr "ime in priimek,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr ""
+msgstr "Naslov uporabnika (za dostavo in izstavitev računa),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr ""
+msgstr "ID podjetja in davčna številka,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, X, and others),"
 msgstr ""
+"vzdevek(-ki) (vključno s prostovoljno povezanimi platformami, kot so "
+"Liberapay, GitHub, X in druge),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr ""
+msgstr "Avatar uporabnika"
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Name and e-mail"
 msgid "email address(es),"
-msgstr "Ime in e-pošta"
+msgstr "e-poštni naslov(i),"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -195,15 +224,18 @@ msgid ""
 "openSUSE, and Ubuntu in the event that accounts with these providers are "
 "linked to the User account,"
 msgstr ""
+"identifikatorji za Bitbucket, Facebook, Google, LinkedIn, GitHub, GitLab, "
+"openSUSE in Ubuntu v primeru, da so računi pri teh ponudnikih povezani z "
+"uporabniškim računom,"
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
-msgstr ""
+msgstr "specifikacije storitve in izdelka, ki ga uporablja uporabnik,"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
-msgstr ""
+msgstr "informacije o številu članov ekipe uporabnika in njihovih vlogah,"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
@@ -211,35 +243,45 @@ msgid ""
 "Profile), i.e., settings for languages, notifications, if they can identify "
 "the User directly or indirectly,"
 msgstr ""
+"vse druge uporabniške nastavitve uporabniškega računa (vključno s tako "
+"imenovanim profilom), tj. nastavitve za jezike, obvestila, če lahko "
+"neposredno ali posredno identificirajo uporabnika,"
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
 msgstr ""
+"številka bančnega računa in morebiti drugi podatki o plačilu Uporabnika,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "naslov ali naslovi denarnice za kriptovalute,"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
 "other personal data contained in messages sent by the User to the Provider "
 "(especially the subject and other content of the message),"
 msgstr ""
+"drugi osebni podatki, ki jih vsebujejo sporočila, ki jih uporabnik pošlje "
+"ponudniku (zlasti zadeva in druga vsebina sporočila),"
 
 #: wllegal/templates/legal/documents/privacy.html:120
 msgid ""
 "other personal data contained in communications with the Provider's support,"
-msgstr ""
+msgstr "drugi osebni podatki, ki jih vsebuje komunikacija s podporo ponudnika,"
 
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
 msgstr ""
+"sistemski podatki, dnevniki in dnevniki sej, vključno z uporabnikovim IP-"
+"naslovom,"
 
 #: wllegal/templates/legal/documents/privacy.html:128
 msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
+"kjer se bodo posamezne kategorije osebnih podatkov, navedene zgoraj, še "
+"naprej skupno imenovale `<strong>Osebni podatki</strong>`."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -252,6 +294,14 @@ msgid ""
 "under the conditions and based on a separate data processing agreement (so-"
 "called processing agreement) concluded between the Provider and the User."
 msgstr ""
+"V določenih primerih je ponudnik <strong>lahko tudi obdelovalec osebnih "
+"podatkov</strong>, in sicer kadar mu uporabnik posreduje osebne podatke "
+"tretjih oseb za lastne namene (npr. v primeru dodajanja posameznih članov "
+"ekipe, donacije projekta ponudniku v imenu druge osebe itd.). Obdelava "
+"izbranih osebnih podatkov tretjih oseb, do katerih uporabnik omogoči dostop, "
+"se v tem primeru izvaja po navodilih uporabnika, pod pogoji in na podlagi "
+"ločene pogodbe o obdelavi podatkov (t. i. pogodbe o obdelavi), sklenjene med "
+"ponudnikom in uporabnikom."
 
 #: wllegal/templates/legal/documents/privacy.html:136
 msgid ""
@@ -277,6 +327,26 @@ msgid ""
 "the User's instructions unless the Provider has another legal basis for "
 "processing personal data as a controller under Article 2.1 of this Policy."
 msgstr ""
+"Ponudnik obdeluje osebne podatke, dokler niso izpolnjene vse obveznosti, ki "
+"izhajajo iz pogodbe. V trenutku zaprtja računa s strani ponudnika in/ali "
+"preklica računa s strani uporabnika bodo vsi osebni podatki in drugi "
+"podatki, vneseni v storitev, izbrisani, razen izbranih spodaj navedenih "
+"osebnih podatkov; ponudnik zato <strong>močno priporoča</strong> varnostno "
+"kopiranje vseh podatkov, vnesenih v storitev, pred preklicem uporabniškega "
+"računa in ne odgovarja za njihovo izgubo po zaprtju uporabniškega računa, "
+"tudi če ga ponudnik upravičeno zapre. Osebne podatke, navedene na računih, "
+"ponudnik hrani vsaj v zakonsko določenem roku hrambe, tj. 10 let. V "
+"primerih, ko je to potrebno za obrambo ponudnikovih zahtevkov in/ali za "
+"obrambo pred zahtevki tretjih oseb (vključno s postopki, ki jih sprožijo "
+"javni organi), lahko ponudnik hrani tudi nekatere druge osebne podatke, "
+"vendar vedno za najdaljše obdobje, ki je enako zastaralnemu roku za "
+"posamezne zahtevke in/ali do končnega zaključka izbranih postopkov. "
+"Natančnega trajanja ni mogoče natančno opredeliti in se razlikuje glede na "
+"vrsto zahtevka, njihove zastaralne roke in hitrost izbranih sodišč ali "
+"javnih organov. Podatki, ki jih ponudnik obdeluje le kot obdelovalec "
+"uporabnikovih podatkov, se obdelujejo za obdobje, določeno v uporabnikovih "
+"navodilih, razen če ima ponudnik drugo pravno podlago za obdelavo osebnih "
+"podatkov kot upravljavec v skladu s členom 2.1 te politike."
 
 #: wllegal/templates/legal/documents/privacy.html:140
 #, python-format
@@ -296,6 +366,19 @@ msgid ""
 "consent granted otherwise, by sending a request to <a href=\"mailto:"
 "%(address)s\">%(address)s</a>."
 msgstr ""
+"Ponudnik lahko obdeluje tudi izbrane osebne podatke uporabnika, zlasti e-"
+"pošto, ime, priimek in vse druge osebne podatke (če so posredovani za te "
+"namene) na podlagi <strong>prostovoljnega in informiranega</strong> soglasja "
+"uporabnika. Obdelava poteka za obdobje <strong>2 let</strong> in/ali do "
+"preklica soglasja. Uporaba storitve ali izdelka (vključno s podpornimi "
+"storitvami) <strong>nikoli</strong> ni pogojena s podajo soglasja. Soglasje "
+"pa je običajno potrebno za pošiljanje glasil posameznikom, na katere se "
+"nanašajo osebni podatki, ki še niso uporabniki, ali za zagotavljanje "
+"izbranih bonusov ali bonus gradiv, ki niso povezana z drugimi storitvami "
+"ponudnika, in/ali za razkritje osebnih podatkov uporabnika v povezavi z "
+"donacijo ponudniku. Preklic je možen kadar koli neposredno v vmesniku "
+"uporabniškega računa in v primeru drugačnega soglasja s pošiljanjem zahteve "
+"na <a href=\"mailto:%(address)s\">%(address)s</a>."
 
 #: wllegal/templates/legal/documents/privacy.html:144
 msgid ""
@@ -304,12 +387,14 @@ msgid ""
 "selected Personal Data based on a different legal reason if this legal "
 "reason in favour of the Provider continues to exist."
 msgstr ""
+"Ko razlog za obdelavo osebnih podatkov preneha, bo ponudnik osebne podatke "
+"uničil. To ne izključuje nadaljnje obdelave izbranih osebnih podatkov na "
+"podlagi drugega pravnega razloga, če ta pravni razlog v korist ponudnika še "
+"vedno obstaja."
 
 #: wllegal/templates/legal/documents/privacy.html:149
-#, fuzzy
-#| msgid "Allow changes in the local repository"
 msgid "Recipients and Processors of Personal Data"
-msgstr "Dovoli spremembe v lokalni shrambi"
+msgstr "Prejemniki in obdelovalci osebnih podatkov"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -318,12 +403,18 @@ msgid ""
 "proper processing of Personal Data for the purposes defined in Article 2.1 "
 "of this Policy, specifically:"
 msgstr ""
+"Poleg ponudnika osebne podatke na podlagi te politike prejemajo in "
+"obdelujejo tudi izbrane tretje osebe, katerih sodelovanje je nujno za "
+"pravilno obdelavo osebnih podatkov za namene, opredeljene v členu 2.1 te "
+"politike, in sicer:"
 
 #: wllegal/templates/legal/documents/privacy.html:158
 msgid ""
 "hosting provider (including web hosting and mail hosting services), "
 "currently this is <strong>Hetzner Online GmbH</strong>;"
 msgstr ""
+"ponudnik gostovanja (vključno s storitvami spletnega gostovanja in "
+"gostovanja pošte), trenutno je to <strong>Hetzner Online GmbH</strong>;"
 
 #: wllegal/templates/legal/documents/privacy.html:161
 msgid ""
@@ -331,24 +422,33 @@ msgid ""
 "possibly operators of other services used in connection with the payment of "
 "any payments related to billing;"
 msgstr ""
+"upravljavci plačilnega prehoda <strong>ThePay.cz, s.r.o.</strong> in "
+"morebiti upravljavci drugih storitev, ki se uporabljajo v povezavi s plačili "
+"kakršnih koli plačil, povezanih z obračunavanjem;"
 
 #: wllegal/templates/legal/documents/privacy.html:164
 msgid ""
 "accounting, legal, and tax advisors of the Provider and possibly other "
 "persons bound by confidentiality under the law;"
 msgstr ""
+"računovodski, pravni in davčni svetovalci ponudnika ter morebitne druge "
+"osebe, ki jih zakon zavezuje k molčečnosti;"
 
 #: wllegal/templates/legal/documents/privacy.html:167
 msgid ""
 "C-level and other managerial employees employed by or otherwise "
 "collaborating with the Provider;"
 msgstr ""
+"Vodstveni delavci in drugi ključni zaposleni, ki so zaposleni pri ponudniku "
+"ali na kakršen koli način sodelujejo z njim;"
 
 #: wllegal/templates/legal/documents/privacy.html:170
 msgid ""
 "selected contractors of the Provider who are involved in providing services "
 "to Users and who are also bound by confidentiality;"
 msgstr ""
+"izbrani izvajalci ponudnika, ki sodelujejo pri zagotavljanju storitev "
+"uporabnikom in so prav tako zavezani k molčečnosti;"
 
 #: wllegal/templates/legal/documents/privacy.html:173
 msgid ""
