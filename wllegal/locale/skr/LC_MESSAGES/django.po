@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2025-06-04 01:01+0000\n"
+"PO-Revision-Date: 2025-12-09 14:00+0000\n"
 "Last-Translator: پرویز قادر <mpqadir@gmail.com>\n"
 "Language-Team: Saraiki <https://hosted.weblate.org/projects/weblate/legal/"
 "skr/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -159,7 +159,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr ""
+msgstr "کمپنی آئی ڈی تے ٹیکس آئی ڈی،"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
@@ -657,7 +657,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
-msgstr ""
+msgstr "ٹھیکیدار پارٹیاں"
 
 #: wllegal/templates/legal/documents/tos.html:40
 msgid "jointly refers to the User and the Provider;"
@@ -678,7 +678,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Dedicated Weblate"
-msgstr ""
+msgstr "شیدائی Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:54
 msgid ""
@@ -698,7 +698,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
-msgstr ""
+msgstr "جی ٹی سی"
 
 #: wllegal/templates/legal/documents/tos.html:68
 msgid ""
@@ -811,10 +811,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:142
-#, fuzzy
-#| msgid "Service"
 msgid "Support Services"
-msgstr "خدمت"
+msgstr "حمائت خدمتاں"
 
 #: wllegal/templates/legal/documents/tos.html:145
 msgid ""
