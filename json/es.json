@@ -5,8 +5,8 @@
   "580c807df3faaff0": "El servidor Weblate está en mantenimiento",
   "dd688904278968c2": "Distribuido en virtud de la GNU GPL v3+",
   "f1755fb51ebbc26a": "Estado del servicio",
-  "f3e2fd9f17199fd9": "Ha realizado demasiadas solicitudes demasiado rápido. Por favor, inténtelo de nuevo más tarde.",
+  "f3e2fd9f17199fd9": "Ha realizado demasiadas solicitudes muy rápido. Inténtelo de nuevo más tarde.",
   "cefd423328bbabae": "Límite de solicitudes",
-  "404c9a7eb09bf5cf": "Límite de las solicitudes en Weblate",
+  "404c9a7eb09bf5cf": "Límite de solicitudes en Weblate",
   "20deef135140c70": "Licencia GNU GPL v3+"
 }
