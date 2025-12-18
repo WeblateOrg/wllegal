@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2025-12-09 14:00+0000\n"
+"PO-Revision-Date: 2025-12-18 19:10+0000\n"
 "Last-Translator: VfBFan <drop0815@posteo.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/weblate/legal/de/>"
 "\n"
@@ -24,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.15.1-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -1167,7 +1167,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:142
 msgid "Support Services"
-msgstr "Unterstützungsdienste"
+msgstr "Support-Dienstleistungen"
 
 #: wllegal/templates/legal/documents/tos.html:145
 msgid ""
@@ -1175,9 +1175,9 @@ msgid ""
 "Support Services are governed separately by a separate support service "
 "agreement;"
 msgstr ""
-"bezeichnet die Unterstützung, die der Anbieter dem Benutzer im Rahmen des "
-"Dienstes anbietet. Die Unterstützung der Dienste wird in einem separaten "
-"Vertrag über die Unterstützungsdienste geregelt;"
+"bezieht sich auf den Support, den der Anbieter dem Benutzer im Rahmen der "
+"Dienstleistung anbietet. Der Support für die Dienstleistungen wird durch "
+"einen separaten Vertrag für Supportleistungen geregelt;"
 
 #: wllegal/templates/legal/documents/tos.html:149
 msgid "Translation Memory"
