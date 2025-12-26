@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2025-12-22 15:00+0000\n"
+"PO-Revision-Date: 2025-12-27 10:00+0000\n"
 "Last-Translator: Mickaël Binos <mickaelbinos@outlook.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/weblate/legal/fr/>"
 "\n"
@@ -807,6 +807,12 @@ msgid ""
 "Policy displayed within the Service, or upon the next first login to their "
 "User Account."
 msgstr ""
+"Le Prestataire est en droit de modifier unilatéralement la Politique. La "
+"nouvelle version de la Politique entre en vigueur dès sa publication sur le "
+"Site Web. L'Utilisateur, lié par contrat au Prestataire et régi par la "
+"présente Politique au moment de la modification, recevra une notification de "
+"cette modification soit via le Service, soit lors de sa première connexion à "
+"son Compte Utilisateur."
 
 #: wllegal/templates/legal/documents/privacy.html:280
 msgid ""
@@ -816,6 +822,11 @@ msgid ""
 "Policy will be resolved before the competent civil court in the Czech "
 "Republic."
 msgstr ""
+"Toutes les relations juridiques entre le Prestataire et l'Utilisateur "
+"découlant de la présente Politique sont régies par le droit tchèque en "
+"vigueur. Tout litige entre le Prestataire et l'Utilisateur relatif à la "
+"présente Politique sera soumis à la juridiction civile compétente de "
+"République tchèque."
 
 #: wllegal/templates/legal/documents/privacy.html:284
 msgid ""
@@ -828,6 +839,14 @@ msgid ""
 "Council (EC) No. 593/2008 of June 17, 2008, on the law applicable to "
 "contractual obligations (Rome I)."
 msgstr ""
+"Si la relation établie par le Contrat comporte un élément international "
+"(étranger), le choix de la loi applicable conformément à la phrase "
+"précédente ne prive pas l’Utilisateur-Consommateur de la protection offerte "
+"par les dispositions de l’ordre juridique auxquelles il ne peut être dérogé "
+"contractuellement et qui seraient autrement applicables en l’absence de "
+"choix de loi conformément aux dispositions de l’article 6, paragraphe 1, du "
+"règlement (CE) n° 593/2008 du Parlement européen et du Conseil du 17 juin "
+"2008 relatif à la loi applicable aux obligations contractuelles (Rome I)."
 
 #: wllegal/templates/legal/documents/privacy.html:288
 msgid ""
@@ -837,14 +856,20 @@ msgid ""
 "provision does not affect the validity of the other provisions of this "
 "Policy."
 msgstr ""
+"Si une disposition quelconque de la Politique est ou devient invalide ou "
+"inefficace, la disposition dont le sens se rapproche le plus de celui de la "
+"disposition invalide la remplacera. L’invalidité ou l’inefficacité d’une "
+"disposition n’affecte pas la validité des autres dispositions de la présente "
+"Politique."
 
 #: wllegal/templates/legal/documents/privacy.html:292
 msgid "This Policy become effective upon their publication on the Website."
 msgstr ""
+"La présente politique entre en vigueur dès sa publication sur le site Web."
 
 #: wllegal/templates/legal/documents/privacy.html:296
 msgid "In Prague on November 1, 2024."
-msgstr ""
+msgstr "À Prague, le 1er novembre 2024."
 
 #: wllegal/templates/legal/documents/summary.html:5
 msgid ""
@@ -935,12 +960,19 @@ msgid ""
 "Services and Products. These general terms and conditions govern the "
 "contractual relationship between the service provider and the User."
 msgstr ""
+"Les présentes conditions générales font partie intégrante du contrat de "
+"service conclu entre l’Utilisateur et le Prestataire (ci-après dénommé le « "
+"Contrat ») et définissent les règles et conditions applicables à la "
+"fourniture et à l’utilisation des Services et Produits. Elles régissent la "
+"relation contractuelle entre le prestataire et l’Utilisateur."
 
 #: wllegal/templates/legal/documents/tos.html:24
 msgid ""
 "The definitions below have the following meanings for the purposes of these "
 "general terms and conditions:"
 msgstr ""
+"Aux fins des présentes conditions générales, les définitions ci-dessous ont "
+"la signification suivante :"
 
 #: wllegal/templates/legal/documents/tos.html:30
 msgid "Civil Code"
@@ -954,11 +986,11 @@ msgstr "désigne la loi n° %(law_89_2012)s du Code civil, telle que modifiée"
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
-msgstr ""
+msgstr "Parties contractantes"
 
 #: wllegal/templates/legal/documents/tos.html:40
 msgid "jointly refers to the User and the Provider;"
-msgstr ""
+msgstr "désigne conjointement l'Utilisateur et le Fournisseur ;"
 
 #: wllegal/templates/legal/documents/tos.html:44
 msgid "Cookies"
@@ -972,16 +1004,24 @@ msgid ""
 "Coll., on Certain Information Society Services and Amending Certain Acts, as "
 "amended;"
 msgstr ""
+"désigne toutes les données envoyées par le serveur web du service à "
+"l'ordinateur ou à tout autre appareil connecté à Internet de l'utilisateur, "
+"permettant l'identification unique du navigateur web de l'utilisateur "
+"conformément à l'article 89 de la loi n° 480/2004 Coll., relative à certains "
+"services de la société de l'information et modifiant certaines lois, telle "
+"que modifiée ;"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Dedicated Weblate"
-msgstr ""
+msgstr "Weblate dédié"
 
 #: wllegal/templates/legal/documents/tos.html:54
 msgid ""
 "means a form of collaboration where the User is the sole user of the Service "
 "in a cloud hosted and provided by the Provider;"
 msgstr ""
+"désigne une forme de collaboration où l'Utilisateur est le seul utilisateur "
+"du Service dans un cloud hébergé et fourni par le Fournisseur ;"
 
 #: wllegal/templates/legal/documents/tos.html:58
 msgid "GDPR"
@@ -1008,10 +1048,12 @@ msgid ""
 "means these general terms and conditions, which form an integral part of the "
 "Agreement;"
 msgstr ""
+"désigne les présentes conditions générales, qui font partie intégrante du "
+"Contrat ;"
 
 #: wllegal/templates/legal/documents/tos.html:72
 msgid "Hosted String"
-msgstr ""
+msgstr "Chaîne hébergée"
 
 #: wllegal/templates/legal/documents/tos.html:75
 #, fuzzy
@@ -1037,6 +1079,10 @@ msgid ""
 "provides Services to Users on a non-dedicated (i.e., shared by multiple "
 "Users) cloud operated by the Provider;"
 msgstr ""
+"désigne une forme de collaboration entièrement basée sur le cloud, où le "
+"fournisseur fournit des services aux utilisateurs sur un cloud non dédié "
+"(c'est-à-dire partagé par plusieurs utilisateurs) exploité par le "
+"fournisseur ;"
 
 #: wllegal/templates/legal/documents/tos.html:86
 msgid "License"
@@ -1081,16 +1127,20 @@ msgid ""
 "the value expressed in money for the provided License in accordance with the "
 "Price List;"
 msgstr ""
+"la valeur exprimée en argent de la licence fournie conformément à la liste "
+"de prix ;"
 
 #: wllegal/templates/legal/documents/tos.html:107
 msgid "Price List"
-msgstr ""
+msgstr "Liste de prix"
 
 #: wllegal/templates/legal/documents/tos.html:110
 msgid ""
 "means the document or web page that specifies the Price of the Service and/"
 "or Product unless otherwise stated in the Agreement;"
 msgstr ""
+"désigne le document ou la page Web qui précise le prix du service et/ou du "
+"produit, sauf indication contraire dans le contrat ;"
 
 #: wllegal/templates/legal/documents/tos.html:114
 msgid "Product"
@@ -1102,6 +1152,10 @@ msgid ""
 "Provider based on its brand usage policy. The User purchases the Product AS "
 "IS. Support and other services are provided separately;"
 msgstr ""
+"désigne tout service ou partie de service fourni sous une marque spécifique "
+"du Fournisseur, conformément à sa politique d'utilisation de la marque. "
+"L'Utilisateur achète le Produit « tel quel ». L'assistance et les autres "
+"services sont fournis séparément ;"
 
 #: wllegal/templates/legal/documents/tos.html:121
 msgid "Provider"
@@ -1114,6 +1168,11 @@ msgid ""
 "the Commercial Register maintained by the Regional Court in Ústí nad Labem, "
 "file no. C 52324, with which the Agreement was concluded;"
 msgstr ""
+"fait référence à la société <strong>Weblate s.r.o.</strong>, numéro "
+"d'identification 21668027, dont le siège social est situé à Nábřežní 694, "
+"Cvikov II, 471 54 Cvikov, enregistrée au registre du commerce tenu par le "
+"tribunal régional d'Ústí nad Labem, dossier n° C 52324, avec laquelle "
+"l'accord a été conclu ;"
 
 #: wllegal/templates/legal/documents/tos.html:128
 msgid "Service"
@@ -1138,6 +1197,9 @@ msgid ""
 "means a form of collaboration where the User is the sole user of the "
 "Service, and this Service is operated directly on the User Server;"
 msgstr ""
+"désigne une forme de collaboration où l'Utilisateur est le seul utilisateur "
+"du Service, et ce Service est exploité directement sur le serveur de "
+"l'Utilisateur ;"
 
 #: wllegal/templates/legal/documents/tos.html:142
 #, fuzzy
@@ -1151,6 +1213,9 @@ msgid ""
 "Support Services are governed separately by a separate support service "
 "agreement;"
 msgstr ""
+"désigne le support fourni par le Fournisseur à l'Utilisateur dans le cadre "
+"du Service. Les Services de Support sont régis séparément par un contrat de "
+"service de support distinct ;"
 
 #: wllegal/templates/legal/documents/tos.html:149
 msgid "Translation Memory"
@@ -1182,35 +1247,40 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:163
 msgid "User Account"
-msgstr ""
+msgstr "Compte utilisateur"
 
 #: wllegal/templates/legal/documents/tos.html:166
 msgid ""
 "means a user account with a unique access code and password in the Hosted "
 "Weblate web interface. Each User Account can be used by only one User;"
 msgstr ""
+"désigne un compte utilisateur doté d'un code d'accès et d'un mot de passe "
+"uniques dans l'interface web Hosted Weblate. Chaque compte utilisateur ne "
+"peut être utilisé que par un seul utilisateur ;"
 
 #: wllegal/templates/legal/documents/tos.html:170
 msgid "User Server"
-msgstr ""
+msgstr "Serveur utilisateur"
 
 #: wllegal/templates/legal/documents/tos.html:173
 msgid ""
 "refers to the server and other hardware equipment not owned, managed, or "
 "controlled by the Provider;"
 msgstr ""
+"désigne le serveur et les autres équipements matériels qui ne sont ni "
+"détenus, ni gérés, ni contrôlés par le Fournisseur ;"
 
 #: wllegal/templates/legal/documents/tos.html:179
 msgid "Methods of Acceptance"
-msgstr ""
+msgstr "Méthodes d'acceptation"
 
 #: wllegal/templates/legal/documents/tos.html:183
 msgid "The License is granted to the User based on the concluded Agreement."
-msgstr ""
+msgstr "La licence est accordée à l'utilisateur sur la base du contrat conclu."
 
 #: wllegal/templates/legal/documents/tos.html:187
 msgid "These GTC are an integral part of the Agreement."
-msgstr ""
+msgstr "Ces CGV font partie intégrante du Contrat."
 
 #: wllegal/templates/legal/documents/tos.html:191
 #, fuzzy
@@ -1223,6 +1293,8 @@ msgid ""
 "on the day of signing by both parties (especially for all Services offered "
 "with custom settings);"
 msgstr ""
+"le jour de la signature par les deux parties (en particulier pour tous les "
+"Services proposés avec des paramètres personnalisés) ;"
 
 #: wllegal/templates/legal/documents/tos.html:199
 msgid ""
@@ -1233,10 +1305,16 @@ msgid ""
 "Provider's bank account) for the amount stated in the first billing period "
 "by the User."
 msgstr ""
+"en ligne par acceptation (confirmation) via l'interface web conformément à "
+"la liste de prix, le contrat prenant effet une fois que le prix de la "
+"licence a été dûment payé (en cas de virement bancaire, une fois que le "
+"montant correspondant au prix de la licence a été crédité sur le compte "
+"bancaire du fournisseur) pour le montant indiqué dans la première période de "
+"facturation par l'utilisateur."
 
 #: wllegal/templates/legal/documents/tos.html:207
 msgid "Service Provision"
-msgstr ""
+msgstr "Prestation de services"
 
 #: wllegal/templates/legal/documents/tos.html:211
 msgid ""
@@ -1245,6 +1323,10 @@ msgid ""
 "accordance with the Agreement and the technical specifications outlined in "
 "the Product specification."
 msgstr ""
+"Le Fournisseur exploite le Service à l'adresse internet spécifiée dans les "
+"spécifications du Produit et ses sous-domaines ou sur les serveurs de "
+"l'Utilisateur conformément au Contrat et aux spécifications techniques "
+"décrites dans les spécifications du Produit."
 
 #: wllegal/templates/legal/documents/tos.html:215
 msgid ""
@@ -1255,12 +1337,20 @@ msgid ""
 "specification defined in this manner takes precedence over the form of "
 "Service offered according to the Price List."
 msgstr ""
+"Si le contrat est conclu conformément à l'article 2.3(a), l'étendue des "
+"services est définie dans le cahier des charges du produit, annexé au "
+"contrat. Ce cahier des charges peut préciser l'étendue de chaque (sous-)"
+"service, notamment son contenu et ses modalités d'activation. Le cahier des "
+"charges ainsi défini prévaut sur la forme du service proposé conformément au "
+"tarif."
 
 #: wllegal/templates/legal/documents/tos.html:219
 msgid ""
 "The Service is provided in three forms of cooperation: Hosted Weblate, "
 "Dedicated Weblate, and Self-hosting."
 msgstr ""
+"Le service est proposé sous trois formes de coopération : Weblate hébergé, "
+"Weblate dédié et auto-hébergement."
 
 #: wllegal/templates/legal/documents/tos.html:223
 msgid ""
@@ -1273,6 +1363,14 @@ msgid ""
 "third parties may process Personal Data within their activities in "
 "accordance with the Agreement and GPLv3."
 msgstr ""
+"Conformément à la licence GPLv3, certains aspects du Service peuvent être "
+"fournis soit avec l'aide de tiers autres que le Fournisseur, soit "
+"directement par ces tiers. L'Utilisateur reconnaît que ces tiers fourniront "
+"leurs services conformément au présent Contrat et à la licence GPLv3. "
+"L'Utilisateur reconnaît également que les tiers intervenant dans la "
+"fourniture du Service peuvent changer au cours de celle-ci. Ces tiers "
+"peuvent traiter des Données Personnelles dans le cadre de leurs activités, "
+"conformément au Contrat et à la licence GPLv3."
 
 #: wllegal/templates/legal/documents/tos.html:227
 #, fuzzy
@@ -1287,6 +1385,9 @@ msgid ""
 "subscription can be paid monthly or annually in accordance with Article 5 of "
 "the GTC."
 msgstr ""
+"Sauf stipulation contraire expresse dans le Contrat, celui-ci est conclu "
+"pour une durée correspondant à un modèle d'abonnement. L'abonnement peut "
+"être payé mensuellement ou annuellement conformément à l'article 5 des CGV."
 
 #: wllegal/templates/legal/documents/tos.html:239
 msgid ""
@@ -1298,6 +1399,13 @@ msgid ""
 "List. The price for Services consists of the following separate items or "
 "their combination, which are paid regularly monthly/annually:"
 msgstr ""
+"Le prix du Service est déterminé conformément à l'offre ou à la Liste de "
+"prix. L'Utilisateur reconnaît et accepte que la Liste de prix puisse être "
+"modifiée unilatéralement par le Prestataire, de la même manière que les "
+"présentes CGV. Le prix dépend de la configuration du Service choisie, et "
+"plusieurs options sont disponibles. Ces options sont détaillées dans la "
+"Liste de prix. Le prix des Services comprend les éléments suivants, "
+"individuellement ou combinés, payables mensuellement ou annuellement :"
 
 #: wllegal/templates/legal/documents/tos.html:243
 msgid ""
@@ -1306,6 +1414,10 @@ msgid ""
 "but paid monthly or annually, with this price varying for different forms of "
 "collaboration according to the Price List;"
 msgstr ""
+"prix régulier d’accès aux Services, qui est également toujours fixé pour la "
+"période concernée et basé sur les conditions spécifiques du Service, mais "
+"payé mensuellement ou annuellement, ce prix variant selon les différentes "
+"formes de collaboration conformément à la Liste de prix ;"
 
 #: wllegal/templates/legal/documents/tos.html:246
 msgid ""
@@ -1313,6 +1425,9 @@ msgid ""
 "User from the options offered in the Price List or in agreement with the "
 "Provider;"
 msgstr ""
+"prix régulier pour le nombre de chaînes hébergées ; ce nombre est choisi par "
+"l’utilisateur parmi les options proposées dans la liste de prix ou en accord "
+"avec le fournisseur ;"
 
 #: wllegal/templates/legal/documents/tos.html:249
 #, fuzzy
@@ -1325,12 +1440,17 @@ msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
 msgstr ""
+"(points a), b) et c) sont collectivement appelés « <strong>Abonnement</"
+"strong> »."
 
 #: wllegal/templates/legal/documents/tos.html:258
 msgid ""
 "To avoid doubt, the Subscription may guarantee either only access to a "
 "specific Product or License and/or a specific package of guaranteed Services."
 msgstr ""
+"Afin d’éviter toute ambiguïté, l’abonnement peut garantir soit uniquement "
+"l’accès à un Produit ou une Licence spécifique et/ou à un ensemble "
+"spécifique de Services garantis."
 
 #: wllegal/templates/legal/documents/tos.html:262
 msgid ""
