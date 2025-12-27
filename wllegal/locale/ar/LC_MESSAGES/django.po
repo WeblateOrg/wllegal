@@ -10,17 +10,17 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2025-07-09 20:01+0000\n"
-"Last-Translator: Wael Ibrahim <dr.wael.ibrahim@gmail.com>\n"
-"Language-Team: Arabic <https://hosted.weblate.org/projects/weblate/legal/ar/"
-">\n"
+"PO-Revision-Date: 2025-12-28 19:00+0000\n"
+"Last-Translator: Basheer Radman <ba2014sheer@gmail.com>\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/weblate/legal/ar/>"
+"\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -266,17 +266,20 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:120
 msgid ""
 "other personal data contained in communications with the Provider's support,"
-msgstr ""
+msgstr "البيانات الشخصية الأخرى الواردة في المراسلات مع فريق دعم المزود،"
 
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
 msgstr ""
+"بيانات النظام، والسجلات، وسجلات الجلسات بما في ذلك عنوان IP الخاص بالمستخدم،"
 
 #: wllegal/templates/legal/documents/privacy.html:128
 msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
+"حيث ستستمر الإشارة إلى الفئات الفردية للبيانات الشخصية المذكورة أعلاه بشكل "
+"جماعي باسم \"<strong>البيانات الشخصية</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -289,6 +292,12 @@ msgid ""
 "under the conditions and based on a separate data processing agreement (so-"
 "called processing agreement) concluded between the Provider and the User."
 msgstr ""
+"في بعض الحالات، قد يكون المزود معالجًا للبيانات الشخصية، لا سيما عندما يقدم "
+"المستخدم بيانات شخصية لأطراف ثالثة لأغراضه الخاصة (مثل إضافة أعضاء فريق، أو "
+"التبرع بمشروع للمزود نيابةً عن شخص آخر، وما إلى ذلك). تتم معالجة البيانات "
+"الشخصية المختارة للأطراف الثالثة التي يتيحها المستخدم في هذه الحالة بتوجيه منه"
+"، وفقًا لشروط اتفاقية معالجة بيانات منفصلة (تُسمى اتفاقية المعالجة) مُبرمة بين "
+"المزود والمستخدم."
 
 #: wllegal/templates/legal/documents/privacy.html:136
 msgid ""
