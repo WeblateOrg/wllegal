@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2025-12-03 18:00+0000\n"
+"PO-Revision-Date: 2025-12-31 12:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/weblate/legal/"
 "hr/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -56,7 +56,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
 msgid "Introductory Provisions"
-msgstr ""
+msgstr "Uvodne odredbe"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
