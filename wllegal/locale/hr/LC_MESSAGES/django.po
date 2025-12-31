@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2025-12-31 12:01+0000\n"
+"PO-Revision-Date: 2026-01-01 15:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/weblate/legal/"
 "hr/>\n"
@@ -160,29 +160,31 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr ""
+msgstr "ime i prezime,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr ""
+msgstr "korisnička adresa (dostava i naplata),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr ""
+msgstr "identifikacijski broj poduzeća i porezni broj,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, X, and others),"
 msgstr ""
+"nadimci (uključujući sve dobrovoljno povezane platforme kao što su "
+"Liberapay, GitHub, X i druge),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr "Avatar korisnika,"
+msgstr "avatar korisnika,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
 msgid "email address(es),"
-msgstr "e-mail adresa(e),"
+msgstr "e-mail adrese,"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -190,15 +192,18 @@ msgid ""
 "openSUSE, and Ubuntu in the event that accounts with these providers are "
 "linked to the User account,"
 msgstr ""
+"identifikatori za Bitbucket, Facebook, Google, LinkedIn, GitHub, GitLab, "
+"openSUSE i Ubuntu u slučaju da su računi kod ovih pružatelja usluga povezani "
+"s korisničkim računom,"
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
-msgstr ""
+msgstr "specifikacije Usluge i Proizvoda koje Korisnik koristi,"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
-msgstr ""
+msgstr "informacije o broju članova tima Korisnika i njihovim ulogama,"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
@@ -206,25 +211,31 @@ msgid ""
 "Profile), i.e., settings for languages, notifications, if they can identify "
 "the User directly or indirectly,"
 msgstr ""
+"sve ostale korisničke postavke korisničkog računa (uključujući tzv. Profil), "
+"tj. postavke za jezike, obavijesti, ako one mogu izravno ili neizravno "
+"identificirati Korisnika,"
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
-msgstr "broj bankovnog računa i eventualno druge podatke plaćanja Korisnika,"
+msgstr "broj bankovnog računa i eventualno druge korisničke podatke o plaćanju,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "adrese kriptovalutnog novčanika ili adrese,"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
 "other personal data contained in messages sent by the User to the Provider "
 "(especially the subject and other content of the message),"
 msgstr ""
+"ostali osobni podaci sadržani u porukama koje je Korisnik poslao Pružatelju "
+"usluga (posebno predmet i ostali sadržaj poruke),"
 
 #: wllegal/templates/legal/documents/privacy.html:120
 msgid ""
 "other personal data contained in communications with the Provider's support,"
 msgstr ""
+"ostali osobni podaci sadržani u komunikaciji s podrškom pružatelja usluga,"
 
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
