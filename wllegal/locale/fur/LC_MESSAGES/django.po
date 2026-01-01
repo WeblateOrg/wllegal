@@ -9,16 +9,16 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2019-12-04 18:50+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
-"Language-Team: Friulian <https://hosted.weblate.org/projects/weblate/hosted/"
+"PO-Revision-Date: 2026-01-02 22:01+0000\n"
+"Last-Translator: adecorte <adecorte@gmail.com>\n"
+"Language-Team: Friulian <https://hosted.weblate.org/projects/weblate/legal/"
 "fur/>\n"
 "Language: fur\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.10-dev\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -967,10 +967,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:249
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "Memorie di traduzion"
+msgstr "presit normâl pe memorie di traduzion;"
 
 #: wllegal/templates/legal/documents/tos.html:254
 msgid ""
