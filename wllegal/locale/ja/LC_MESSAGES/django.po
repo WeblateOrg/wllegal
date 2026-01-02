@@ -12,8 +12,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2025-12-06 10:00+0000\n"
-"Last-Translator: Mikenu Takeru <mikenu-jp@users.noreply.hosted.weblate.org>\n"
+"PO-Revision-Date: 2026-01-02 22:01+0000\n"
+"Last-Translator: Kyotaro Iijima <kyotaro.eyes@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/weblate/legal/"
 "ja/>\n"
 "Language: ja\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -637,29 +637,20 @@ msgstr ""
 "公開されることに同意したものとみなされます。"
 
 #: wllegal/templates/legal/documents/summary.html:11
-#, fuzzy
-#| msgid ""
-#| "Your name and e-mail address is used in VCS commits, it will stay there "
-#| "indefinitely."
 msgid ""
 "Your name and e-mail can be used in version control system commits to author "
 "the changes you made; they can be stored there indefinitely."
 msgstr ""
-"あなたの名前とメールアドレスは、VCS のコミットにおいて使用されます。保管に期"
-"限はありません。"
+"あなたの名前とメールアドレスは、バージョン管理システムに変更履歴が翻訳者情報"
+"と記録されます。保管に期限はありません。"
 
 #: wllegal/templates/legal/documents/summary.html:12
-#, fuzzy
-#| msgid ""
-#| "Chosen name is up to you and the e-mail address used for commits can be "
-#| "masked by Weblate system to protect your privacy."
 msgid ""
 "Name choice is yours, and the e-mail address used for commits can be masked "
 "by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
-"使用する名前の選択権はお客様にあります。コミットに使用されるメールアドレス"
-"は、プライバシーを保護するために Weblate のシステムによって隠ぺいすることがで"
-"きます。"
+"名前は自由に設定でき、記録用メールアドレスは Weblate により匿名化できます。匿"
+"名化はプロフィールで設定します。"
 
 #: wllegal/templates/legal/documents/summary.html:15
 msgid ""
