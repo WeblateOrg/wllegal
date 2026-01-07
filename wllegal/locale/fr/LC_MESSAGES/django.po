@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2026-01-04 23:01+0000\n"
+"PO-Revision-Date: 2026-01-08 20:01+0000\n"
 "Last-Translator: Mickaël Binos <mickaelbinos@outlook.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/weblate/legal/fr/>"
 "\n"
@@ -328,7 +328,6 @@ msgstr ""
 "le Prestataire et l'Utilisateur."
 
 #: wllegal/templates/legal/documents/privacy.html:136
-#, fuzzy
 msgid ""
 "The Provider processes Personal Data until all obligations arising from the "
 "Contract are fulfilled. At the moment of account closure by the Provider and/"
@@ -352,35 +351,34 @@ msgid ""
 "the User's instructions unless the Provider has another legal basis for "
 "processing personal data as a controller under Article 2.1 of this Policy."
 msgstr ""
-"Le Prestataire traite les Données Personnelles jusqu’à l’exécution de toutes "
-"les obligations découlant du Contrat. Au moment de la fermeture du compte "
-"par le Prestataire et/ou de l’annulation du compte par l’Utilisateur, toutes "
-"les Données Personnelles ainsi que les autres données saisies dans le "
-"Service seront supprimées, à l’exception des Données Personnelles "
-"spécifiques mentionnées ci‑après ; le Prestataire <strong>recommande donc "
-"vivement de sauvegarder</strong> toutes les données saisies dans le Service "
-"avant la suppression du compte Utilisateur et n’est pas responsable de leur "
-"perte après la fermeture du compte, même si celle‑ci est effectuée "
-"légitimement par le Prestataire. Les Données Personnelles figurant sur les "
-"factures sont conservées par le Prestataire pendant au moins les délais "
-"légaux de conservation prévus par la loi, soit une durée de 10 ans. Dans les "
-"cas où cela est nécessaire pour la défense des droits du Prestataire et/ou "
-"pour la défense contre des réclamations de tiers "
-"(y compris toute procédure engagée par des autorités publiques), le "
-"Prestataire peut également conserver certaines autres Données Personnelles, "
-"mais toujours pour une durée maximale correspondant au délai de prescription "
-"des réclamations concernées et/ou jusqu’à la conclusion définitive des "
-"procédures en question. La durée exacte ne peut être précisément définie et "
-"varie selon le type de réclamation, leurs délais de prescription et le "
-"rythme des juridictions ou autorités publiques concernées. Les données que "
-"le Prestataire traite uniquement en tant que sous‑traitant des données de l’"
-"Utilisateur sont traitées pendant la période spécifiée par les instructions "
-"de l’Utilisateur, sauf si le Prestataire dispose d’une autre base légale "
-"pour traiter les données personnelles en tant que responsable de traitement "
-"conformément à l’Article 2.1 de la présente Politique."
+"Le Prestataire traite les Données Personnelles jusqu'à l'exécution complète "
+"de toutes les obligations contractuelles. Lors de la clôture du compte par "
+"le Prestataire et/ou de la suppression du compte par l'Utilisateur, toutes "
+"les Données Personnelles et autres données saisies dans le Service seront "
+"effacées, à l'exception des Données Personnelles sélectionnées mentionnées "
+"ci-dessous. Le Prestataire recommande donc vivement de sauvegarder toutes "
+"les données saisies dans le Service avant de supprimer le compte Utilisateur "
+"et décline toute responsabilité en cas de perte de ces données après la "
+"clôture du compte, même si celle-ci est légitime. Les Données Personnelles "
+"figurant sur les factures sont conservées par le Prestataire pendant au "
+"moins les délais légaux de conservation, soit 10 ans. Dans les cas où cela "
+"est nécessaire à la défense des droits du Prestataire et/ou à la défense "
+"contre les réclamations de tiers (y compris toute procédure engagée par les "
+"autorités publiques), le Prestataire peut également conserver d'autres "
+"Données Personnelles, mais toujours pour une durée maximale égale au délai "
+"de prescription applicable aux actions individuelles et/ou jusqu'à la "
+"conclusion définitive des procédures concernées. La durée précise ne peut "
+"être définie avec exactitude et varie selon le type de réclamation, ses "
+"délais de prescription et la rapidité des tribunaux ou autorités publiques "
+"compétents. Les données que le Prestataire traite uniquement en tant que "
+"sous-traitant des données de l'Utilisateur sont conservées pendant la durée "
+"spécifiée par les instructions de ce dernier, sauf si le Prestataire dispose "
+"d'une autre base légale pour traiter les données à caractère personnel en "
+"tant que responsable du traitement, conformément à l'article 2.1 de la "
+"présente Politique."
 
 #: wllegal/templates/legal/documents/privacy.html:140
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "The Provider may also process selected Personal Data of the User, "
 "particularly email, first name, last name, and any other personal data (if "
@@ -397,23 +395,22 @@ msgid ""
 "consent granted otherwise, by sending a request to <a href=\"mailto:"
 "%(address)s\">%(address)s</a>."
 msgstr ""
-"Le Prestataire peut également traiter certaines Données Personnelles de l’"
-"Utilisateur, en particulier l’adresse e‑mail, le prénom, le nom de famille, "
-"ainsi que toute autre donnée personnelle (si elle est fournie à ces fins), "
-"sur la base du consentement <strong>volontaire et éclairé</strong> de l’"
-"Utilisateur. Le traitement a lieu pendant une durée de <strong>2 ans</"
-"strong> et/ou jusqu’à la révocation du consentement. L’utilisation du "
-"Service ou du Produit (y compris les Services d’assistance) n’est "
-"<strong>jamais</strong> conditionnée à la fourniture de ce consentement. Le "
-"consentement est toutefois généralement requis pour l’envoi de newsletters "
-"aux personnes concernées qui ne sont pas encore Utilisateurs, ou pour la "
-"fourniture de certains bonus ou matériels complémentaires non liés à d’"
-"autres services du Prestataire et/ou pour la communication des Données "
-"Personnelles de l’Utilisateur dans le cadre d’un don effectué au "
-"Prestataire. La révocation peut être effectuée à tout moment directement "
-"dans l’interface du compte Utilisateur et, dans le cas d’un consentement "
-"accordé autrement, en envoyant une demande à <a href=\"mailto:%(address)s\">%"
-"(address)s</a>."
+"Le Prestataire peut également traiter certaines Données Personnelles de "
+"l'Utilisateur, notamment son adresse électronique, son prénom, son nom et "
+"toute autre donnée personnelle (si elle est fournie à ces fins), sur la base "
+"du <strong>consentement libre et éclairé</strong> de l'Utilisateur. Ce "
+"traitement est effectué pendant une durée de <strong>2 ans</strong> et/ou "
+"jusqu'au retrait du consentement. L'utilisation du Service ou du Produit (y "
+"compris les Services d'Assistance) n'est <strong>jamais</strong> subordonnée "
+"à l'obtention du consentement. Le consentement est toutefois généralement "
+"requis pour l'envoi de newsletters aux personnes concernées qui ne sont pas "
+"encore Utilisateurs, pour la fourniture de bonus ou de documents "
+"promotionnels non liés à d'autres services du Prestataire et/ou pour la "
+"divulgation des Données Personnelles de l'Utilisateur dans le cadre d'un don "
+"effectué au Prestataire. Le consentement peut être retiré à tout moment "
+"directement depuis l'interface du compte Utilisateur et, dans le cas d'un "
+"consentement accordé autrement, en envoyant une demande à <a href=\"mailto:%"
+"(address)s\">%(address)s</a>."
 
 #: wllegal/templates/legal/documents/privacy.html:144
 msgid ""
@@ -433,7 +430,6 @@ msgid "Recipients and Processors of Personal Data"
 msgstr "Destinataires et opérateurs des Données Personnelles"
 
 #: wllegal/templates/legal/documents/privacy.html:153
-#, fuzzy
 msgid ""
 "In addition to the Provider, selected third parties also receive and process "
 "personal data based on this Policy, whose involvement is necessary for the "
@@ -443,8 +439,8 @@ msgstr ""
 "Outre le Prestataire, certains tiers sélectionnés reçoivent et traitent "
 "également des données personnelles conformément à la présente Politique, "
 "leur intervention étant nécessaire au bon traitement des Données "
-"Personnelles pour les finalités définies à l’Article 2.1 de la présente "
-"Politique, à savoir:"
+"Personnelles aux fins définies à l’article 2.1 de la présente Politique, et "
+"plus précisément :"
 
 #: wllegal/templates/legal/documents/privacy.html:158
 msgid ""
@@ -455,65 +451,58 @@ msgstr ""
 "<strong>Hetzner Online GmbH</strong>;"
 
 #: wllegal/templates/legal/documents/privacy.html:161
-#, fuzzy
 msgid ""
 "operators of the payment gateway <strong>ThePay.cz, s.r.o.</strong> and "
 "possibly operators of other services used in connection with the payment of "
 "any payments related to billing;"
 msgstr ""
-"les exploitants de la passerelle de paiement <strong>ThePay.cz, s.r.o.</"
-"strong> et éventuellement les exploitants d’autres services utilisés en lien "
-"avec le règlement de tout paiement relatif à la facturation;"
+"opérateurs de la passerelle de paiement <strong>ThePay.cz, s.r.o.</strong> "
+"et éventuellement opérateurs d'autres services utilisés dans le cadre du "
+"paiement de tout paiement lié à la facturation ;"
 
 #: wllegal/templates/legal/documents/privacy.html:164
-#, fuzzy
 msgid ""
 "accounting, legal, and tax advisors of the Provider and possibly other "
 "persons bound by confidentiality under the law;"
 msgstr ""
-"les conseillers comptables, juridiques et fiscaux du Prestataire et "
-"éventuellement d’autres personnes tenues au secret professionnel en vertu de "
-"la loi;"
+"les conseillers comptables, juridiques et fiscaux du fournisseur et "
+"éventuellement d'autres personnes tenues à la confidentialité en vertu de la "
+"loi ;"
 
 #: wllegal/templates/legal/documents/privacy.html:167
-#, fuzzy
 msgid ""
 "C-level and other managerial employees employed by or otherwise "
 "collaborating with the Provider;"
 msgstr ""
-"les dirigeants de niveau C ainsi que les autres cadres employés par le "
-"Prestataire ou les autres collaborants avec lui;"
+"Cadres dirigeants et autres employés de direction employés par le "
+"fournisseur ou collaborant autrement avec celui-ci ;"
 
 #: wllegal/templates/legal/documents/privacy.html:170
-#, fuzzy
 msgid ""
 "selected contractors of the Provider who are involved in providing services "
 "to Users and who are also bound by confidentiality;"
 msgstr ""
-"les sous-traitants sélectionnés du Fournisseur qui sont impliqués dans la "
-"prestation de services aux Utilisateurs et qui sont également liés par la "
-"confidentialité;"
+"des sous-traitants sélectionnés du Fournisseur qui participent à la "
+"prestation de services aux Utilisateurs et qui sont également tenus à la "
+"confidentialité ;"
 
 #: wllegal/templates/legal/documents/privacy.html:173
-#, fuzzy
 msgid ""
 "any other persons whose involvement is necessary for the proper provision of "
 "the Service, Products, Support Services, and/or to ensure any other "
 "activities related to the above;"
 msgstr ""
-"toute autre personne dont la participation est nécessaire à la bonne "
-"fourniture du Service, des Produits, des Services d'assistance, et/ou pour "
-"assurer toute autre activité liée à ce qui précède;"
+"toute autre personne dont l’implication est nécessaire à la bonne fourniture "
+"du Service, des Produits, des Services de Support et/ou pour assurer toute "
+"autre activité liée à ce qui précède ;"
 
 #: wllegal/templates/legal/documents/privacy.html:178
-#, fuzzy
 msgid ""
 "the persons mentioned in this Article 3.1 are collectively referred to in "
 "this Policy as \"<strong>Processors</strong>\"."
 msgstr ""
-"les personnes mentionnées au présent Article 3.1 sont collectivement "
-"désignées dans la présente Politique par le terme \"<strong>Sous-traitants</"
-"strong>\"."
+"les personnes mentionnées dans le présent article 3.1 sont collectivement "
+"appelées dans la présente politique « <strong>Sous-traitants</strong> »."
 
 #: wllegal/templates/legal/documents/privacy.html:182
 msgid ""
@@ -532,14 +521,6 @@ msgstr ""
 "la présente Politique."
 
 #: wllegal/templates/legal/documents/privacy.html:186
-#, fuzzy
-#| msgid ""
-#| "In case the Controller is required by law to disclose the Personal Data, "
-#| "an attempt will be made to provide the User with prior notice by e-mail "
-#| "(unless the Controller is prohibited, or it would be futile) that a "
-#| "request for the Personal Data has been made to allow the User to object "
-#| "to the disclosure. If the User does not challenge the disclosure request, "
-#| "the Controller may be legally required to turn over the Personal Data."
 msgid ""
 "The Personal Data might be disclosed to third parties in limited "
 "circumstances when the Controller has a good faith belief it is required by "
@@ -549,13 +530,13 @@ msgid ""
 "the Controller is prohibited, or it would be futile) that a request for the "
 "Personal Data has been made to allow the User to object to the disclosure."
 msgstr ""
-"Si le contrôleur est tenu par la loi de divulguer les données personnelles, "
-"il s’efforcera d’informer l’utilisateur au préalable par courrier "
-"électronique (à moins que le contrôleur n’en ait l’interdiction ou que cela "
-"soit futile) qu’une demande de données personnelles a été faite pour "
-"permettre à l’utilisateur de s’opposer à la divulgation. Si l’utilisateur ne "
-"conteste pas la demande de divulgation, le responsable du traitement peut "
-"être légalement tenu de communiquer les données personnelles."
+"Les données personnelles peuvent être communiquées à des tiers dans des "
+"circonstances limitées, lorsque le responsable du traitement estime de bonne "
+"foi que la loi l'exige, par exemple en vertu d'une citation à comparaître ou "
+"de toute autre injonction judiciaire ou administrative. Dans ce cas, le "
+"responsable du traitement s'efforcera d'en informer préalablement "
+"l'utilisateur par courriel (sauf si cela est interdit ou s'il s'avère "
+"inutile) afin de lui permettre de s'opposer à cette communication."
 
 #: wllegal/templates/legal/documents/privacy.html:190
 msgid ""
@@ -889,29 +870,23 @@ msgstr ""
 "seront visibles publiquement tant que votre compte existera."
 
 #: wllegal/templates/legal/documents/summary.html:11
-#, fuzzy
-#| msgid ""
-#| "Your name and e-mail address is used in VCS commits, it will stay there "
-#| "indefinitely."
 msgid ""
 "Your name and e-mail can be used in version control system commits to author "
 "the changes you made; they can be stored there indefinitely."
 msgstr ""
-"Votre nom et votre adresse courriel sont utilisés dans les archivages du "
-"système de contrôle de versions, de façon permanente."
+"Votre nom et votre adresse électronique peuvent être utilisés dans les "
+"enregistrements du système de contrôle de version pour authentifier les "
+"modifications que vous avez apportées ; ils peuvent y être stockés "
+"indéfiniment."
 
 #: wllegal/templates/legal/documents/summary.html:12
-#, fuzzy
-#| msgid ""
-#| "Chosen name is up to you and the e-mail address used for commits can be "
-#| "masked by Weblate system to protect your privacy."
 msgid ""
 "Name choice is yours, and the e-mail address used for commits can be masked "
 "by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
-"Le nom est choisi par vous et l’adresse courriel utilisée pour vos "
-"contributions peut être masquée par le système Weblate pour protéger votre "
-"vie privée."
+"Vous êtes libre de choisir votre nom, et l'adresse e-mail utilisée pour vos "
+"contributions peut être masquée par Weblate afin de protéger votre vie "
+"privée. Vous pouvez activer cette option dans votre profil."
 
 #: wllegal/templates/legal/documents/summary.html:15
 msgid ""
@@ -939,17 +914,12 @@ msgstr ""
 "commodité."
 
 #: wllegal/templates/legal/documents/tos.html:11
-#, fuzzy
-#| msgid ""
-#| "The rights and obligations of the User and the Provider resulting from "
-#| "the use of the Service are governed by these Terms of Service."
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
 msgstr ""
-"Les droits et obligations de l’Utilisateur et du Prestataire résultant de "
-"l’utilisation du Service sont régis par les présentes Conditions "
-"d’Utilisation."
+"Les droits et obligations de l'Utilisateur et du Prestataire découlant de "
+"l'utilisation du Service sont régis par les présentes Conditions Générales."
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid ""
@@ -979,10 +949,8 @@ msgid "Civil Code"
 msgstr "Code civil"
 
 #: wllegal/templates/legal/documents/tos.html:33
-#, fuzzy
-#| msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
-msgstr "désigne la loi n° %(law_89_2012)s du Code civil, telle que modifiée"
+msgstr "désigne la loi n° 89/2012 Coll., Code civil, telle que modifiée ;"
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
@@ -1028,16 +996,12 @@ msgid "GDPR"
 msgstr "RGPD"
 
 #: wllegal/templates/legal/documents/tos.html:61
-#, fuzzy
-#| msgid ""
-#| "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
-#| "Regulation"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
 msgstr ""
-"désigne le règlement EU nᵒ %(law_679_2016)s, le Règlement Général sur la "
-"Protection des Données"
+"désigne le règlement (UE) n° 679/2016, règlement général sur la protection "
+"des données à caractère personnel ;"
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
@@ -1056,18 +1020,13 @@ msgid "Hosted String"
 msgstr "Chaîne hébergée"
 
 #: wllegal/templates/legal/documents/tos.html:75
-#, fuzzy
-#| msgid ""
-#| "Pricing is based on the number of source strings and target languages. "
-#| "The source string is a text unit defined in a translation format, it can "
-#| "be a word, sentence or paragraph."
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph. It is counted separately for each language;"
 msgstr ""
-"Le prix est basé sur le nombre de chaînes sources et de langues cibles. La "
-"chaîne source est une unité de texte définie dans un format de traduction. "
-"Il peut s’agir d’un mot, d’une phrase ou d’un paragraphe."
+"désigne une unité de texte définie dans le format de traduction. Il peut "
+"s'agir d'un mot, d'une phrase ou d'un paragraphe. Elle est comptabilisée "
+"séparément pour chaque langue ;"
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
@@ -1089,33 +1048,25 @@ msgid "License"
 msgstr "Licence"
 
 #: wllegal/templates/legal/documents/tos.html:89
-#, fuzzy
-#| msgid ""
-#| "means non-exclusive license granted by the Provider to the User for use "
-#| "of the Service"
 msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
 msgstr ""
 "désigne la licence non exclusive accordée par le Fournisseur à l’Utilisateur "
-"pour l’utilisation du Service"
+"pour l’utilisation du Service ;"
 
 #: wllegal/templates/legal/documents/tos.html:93
 msgid "Personal Data"
 msgstr "Données personnelles"
 
 #: wllegal/templates/legal/documents/tos.html:96
-#, fuzzy
-#| msgid ""
-#| "means personal data within the meaning of EU Regulation No. %"
-#| "(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"désigne les données personnelles au sens de la régulation EU n° %"
-"(law_679_2016)s, fournies par l’Utilisateur dans le Service et/ou les "
-"témoins de connexion"
+"désigne les données à caractère personnel telles que définies dans le "
+"règlement (UE) n° 679/2016, saisies par l’utilisateur dans le Service et/ou "
+"les cookies ;"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
@@ -1179,14 +1130,11 @@ msgid "Service"
 msgstr "Service"
 
 #: wllegal/templates/legal/documents/tos.html:131
-#, fuzzy
-#| msgid ""
-#| "means the website and services based on Weblate operated by the Provider"
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
 msgstr ""
-"désigne le site web et les services basés sur Weblate et gérés par le "
-"Fournisseur"
+"désigne les sites web et les services basés sur Weblate fournis par le "
+"Fournisseur ;"
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid "Self-hosting"
@@ -1202,10 +1150,8 @@ msgstr ""
 "l'Utilisateur ;"
 
 #: wllegal/templates/legal/documents/tos.html:142
-#, fuzzy
-#| msgid "Service"
 msgid "Support Services"
-msgstr "Service"
+msgstr "Services de soutien"
 
 #: wllegal/templates/legal/documents/tos.html:145
 msgid ""
@@ -1222,28 +1168,21 @@ msgid "Translation Memory"
 msgstr "Mémoire de traduction"
 
 #: wllegal/templates/legal/documents/tos.html:152
-#, fuzzy
-#| msgid ""
-#| "means the optional translation memory service provided within Weblate"
 msgid "means an optional translation memory service provided on Weblate;"
 msgstr ""
-"désigne le mémoire de traduction fourni de manière optionnelle avec Weblate"
+"désigne un service de mémoire de traduction optionnel fourni sur Weblate ;"
 
 #: wllegal/templates/legal/documents/tos.html:156
 msgid "User"
 msgstr "Utilisateur"
 
 #: wllegal/templates/legal/documents/tos.html:159
-#, fuzzy
-#| msgid ""
-#| "means any legal entity or an individual other than the Provider, who is "
-#| "using the Service"
 msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
 msgstr ""
-"désigne toute personne morale ou physique, autre que le Fournisseur, qui "
-"utilise le Service"
+"désigne toute entité juridique ou personne physique autre que le Fournisseur "
+"qui utilise le Service ;"
 
 #: wllegal/templates/legal/documents/tos.html:163
 msgid "User Account"
@@ -1283,10 +1222,8 @@ msgid "These GTC are an integral part of the Agreement."
 msgstr "Ces CGV font partie intégrante du Contrat."
 
 #: wllegal/templates/legal/documents/tos.html:191
-#, fuzzy
-#| msgid "License Agreement Conclusion"
 msgid "The Agreement is concluded:"
-msgstr "Accord sur le contrat de licence"
+msgstr "L'accord est conclu :"
 
 #: wllegal/templates/legal/documents/tos.html:196
 msgid ""
@@ -1373,10 +1310,8 @@ msgstr ""
 "conformément au Contrat et à la licence GPLv3."
 
 #: wllegal/templates/legal/documents/tos.html:227
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
-msgstr "Service"
+msgstr "Durée du service"
 
 #: wllegal/templates/legal/documents/tos.html:231
 msgid ""
@@ -1430,10 +1365,8 @@ msgstr ""
 "avec le fournisseur ;"
 
 #: wllegal/templates/legal/documents/tos.html:249
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "Mémoire de traduction"
+msgstr "prix normal pour la mémoire de traduction ;"
 
 #: wllegal/templates/legal/documents/tos.html:254
 msgid ""
@@ -1553,10 +1486,8 @@ msgstr ""
 "abonnement."
 
 #: wllegal/templates/legal/documents/tos.html:286
-#, fuzzy
-#| msgid "License"
 msgid "License Terms"
-msgstr "Licence"
+msgstr "Conditions de licence"
 
 #: wllegal/templates/legal/documents/tos.html:290
 #, python-format
@@ -1667,10 +1598,8 @@ msgstr ""
 "de ces copies du code source une copie de la licence avec le programme."
 
 #: wllegal/templates/legal/documents/tos.html:315
-#, fuzzy
-#| msgid "Payment error"
 msgid "Payment Terms"
-msgstr "Erreur lors du paiement"
+msgstr "Conditions de paiement"
 
 #: wllegal/templates/legal/documents/tos.html:319
 msgid ""
