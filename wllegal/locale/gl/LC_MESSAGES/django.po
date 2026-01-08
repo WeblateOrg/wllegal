@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2024-12-21 09:05+0000\n"
+"PO-Revision-Date: 2026-01-08 20:01+0000\n"
 "Last-Translator: \"Miguel A. Bouzada\" <mbouzada@gmail.com>\n"
 "Language-Team: Galician <https://hosted.weblate.org/projects/weblate/legal/"
 "gl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10-dev\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -33,8 +33,8 @@ msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
-"O documento en inglés da Directiva de privacidade é xuridicamente "
-"vinculante, as traducións fornécense para a súa comodidade."
+"O documento de Directiva de privacidade é legalmente vinculante en inglés, "
+"as traducións ofrécense para a súa comodidade."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:6
@@ -649,7 +649,7 @@ msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
-"O documento en inglés das Condicións Xerais é xuridicamente vinculante, as "
+"O documento de Condicións xerais é legalmente vinculante en inglés, as "
 "traducións fornécense para a súa comodidade."
 
 #: wllegal/templates/legal/documents/tos.html:11
