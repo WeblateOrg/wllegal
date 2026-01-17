@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2025-02-19 14:19+0000\n"
-"Last-Translator: GREEN MONSTER <racovitavvalentin@gmail.com>\n"
+"PO-Revision-Date: 2026-01-17 22:01+0000\n"
+"Last-Translator: CRISTIAN ANDREI <cristianvdr@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/weblate/legal/"
 "ro/>\n"
 "Language: ro\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10.1-dev\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -27,10 +27,8 @@ msgstr ""
 "privind protecția datelor)"
 
 #: wllegal/templates/legal/documents/contracts.html:11
-#, fuzzy
-#| msgid "Status as of March 2023."
 msgid "Status as of May 2024."
-msgstr "Situația din martie 2023."
+msgstr "Situația din martie 2024."
 
 #: wllegal/templates/legal/documents/privacy.html:5
 msgid ""
@@ -152,7 +150,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "Domeniu, scopuri și durata procesării"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
@@ -191,7 +189,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr ""
+msgstr "Prenume și nume de familie,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
