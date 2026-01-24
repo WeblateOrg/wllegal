@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2026-01-12 23:01+0000\n"
+"PO-Revision-Date: 2026-01-25 06:41+0000\n"
 "Last-Translator: Anusuk Sangubon <jaideejung007@gmail.com>\n"
 "Language-Team: Thai <https://hosted.weblate.org/projects/weblate/legal/th/>\n"
 "Language: th\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.15.2-dev\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -32,11 +32,13 @@ msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
+"เอกสารนโยบายความเป็นส่วนตัวมีผลผูกพันทางกฎหมายในฉบับภาษาอังกฤษ คำแปลมีไว้เพื่อความสะดวกขอ"
+"งคุณเท่านั้น"
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:6
 msgid "View English version"
-msgstr ""
+msgstr "ดูเวอร์ชันภาษาอังกฤษ"
 
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
@@ -620,6 +622,8 @@ msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
+"เอกสารข้อกำหนดและเงื่อนไขทั่วไปมีผลผูกพันทางกฎหมายในฉบับภาษาอังกฤษ คำแปลมีไว้เพื่อความสะดวก"
+"ของคุณเท่านั้น"
 
 #: wllegal/templates/legal/documents/tos.html:11
 msgid ""
