@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2025-08-12 10:25+0000\n"
-"Last-Translator: Λευθέρης Τρόμπακας <lefteristrompakas@gmail.com>\n"
-"Language-Team: Greek <https://hosted.weblate.org/projects/weblate/legal/el/"
-">\n"
+"PO-Revision-Date: 2026-02-01 17:02+0000\n"
+"Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
+"Language-Team: Greek <https://hosted.weblate.org/projects/weblate/legal/el/>"
+"\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -828,7 +828,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid "Self-hosting"
-msgstr ""
+msgstr "Αυτοφιλοξενία"
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid ""
