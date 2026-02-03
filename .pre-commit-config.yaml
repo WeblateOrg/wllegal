@@ -99,3 +99,4 @@ ci:
   autoupdate_schedule: quarterly
   skip:
   - reuse
+  - kingfisher-auto
