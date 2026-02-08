@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2025-11-21 14:52+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-09 12:09+0000\n"
+"Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/weblate/legal/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -19,22 +19,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr "轉包商遵守《通用資料保護法》第28條之細則"
+msgstr "依據《一般資料保護規則》（GDPR）第 28 條之轉包商"
 
 #: wllegal/templates/legal/documents/contracts.html:11
 msgid "Status as of May 2024."
-msgstr "截至 2024 年 5 月的狀態。"
+msgstr "2024 年 5 月版。"
 
 #: wllegal/templates/legal/documents/privacy.html:5
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
-msgstr ""
-"「隱私權政策」文件的英文版有法律約束力，翻譯是為了您的方便而提供給您查閱。"
+msgstr "本「隱私權政策」文件以英文版本具法律拘束力，翻譯版本僅供便利參考之用。"
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:6
@@ -48,14 +47,14 @@ msgid ""
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
-"本隱私權政策（下稱「<strong>政策</strong>」）係對 Weblate 的《<a "
-"href=\"%(terms_url)s\">一般條款與條件</a>》（下稱「<strong>條款</strong>」）"
-"之補充。"
+"本隱私權政策（下稱「<strong>本政策</strong>」）係 Weblate《<a href=\"%"
+"(terms_url)s\">一般條款與條件</a>》（下稱「<strong>本條款</strong>」）之補充"
+"。"
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
 msgid "Introductory Provisions"
-msgstr "導論條款"
+msgstr "總則"
 
 #: wllegal/templates/legal/documents/privacy.html:21
 msgid ""
@@ -64,9 +63,9 @@ msgid ""
 "the Commercial Register kept by the Regional Court in Ústí nad Labem, file "
 "No. C 52324, i.e. the \"<strong>Provider</strong>\"."
 msgstr ""
-"本政策係由 Weblate s.r.o.（ID ：21668027，註冊地址：Nábřežní 694, Cvikov II, "
-"471 54 Cvikov，登記於烏斯季州地方法院商業名冊，案號 C 52324，下稱「<strong>提"
-"供者</strong>」）所發布。"
+"本政策由 Weblate s.r.o. 發布（統一編號：21668027，註冊地址：Nábřežní 694, "
+"Cvikov II, 471 54 Cvikov，登記於烏斯季（Ústí nad Labem）地方法院商事登記處，"
+"案號 C 52324，即「<strong>提供者</strong>」）。"
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid ""
@@ -75,9 +74,9 @@ msgid ""
 "the Services, Products, Support Services, as well as when using the Website "
 "and other possible services and related activities."
 msgstr ""
-"本政策旨在說明提供者如何處理以「個人」身份存取及後續使用「服務」、「產品」、"
-"「支援服務」，以及使用「網站」和其他可能服務及相關活動的「使用者」之個人資料"
-"（作為資料主體）。"
+"本政策旨在說明提供者如何處理「使用者」作為資料當事人（即自然人）之個人資料。"
+"適用範圍涵蓋使用者存取及後續使用「服務」、「產品」、「支援服務」，以及使用「"
+"網站」與其他可能之服務及相關活動。"
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid ""
@@ -85,8 +84,8 @@ msgid ""
 "in Article 1 of the Terms and which have the same meaning as set out in the "
 "Terms."
 msgstr ""
-"此政策也使用某些已於《條款》第一條中定義的術語以及定義，並具有與《條款》中所"
-"載相同之含義。"
+"本政策所使用之特定術語或定義，如已於《本條款》第一條中定義者，其含義與《本條"
+"款》所載相同。"
 
 #: wllegal/templates/legal/documents/privacy.html:33
 msgid ""
@@ -99,11 +98,10 @@ msgid ""
 "personal data and the protection of privacy in the electronic communications "
 "sector (abbreviated as the \"<strong>ePrivacy Directive</strong>\")."
 msgstr ""
-"在處理個人資料時，提供者遵守《歐盟議會及理事會第 2016/679 號條例》（即《一般"
-"資料保護條例》，簡稱「<strong>GDPR</strong>」）、捷克《第 110/2019 號個人資料"
-"處理法》修訂版，以及《歐盟議會及理事會 2002 年 7 月 12 日關於在電子通訊領域處"
-"理個人資料和保護隱私的第 2002/58/EC 號指令》（簡稱「<strong>ePrivacy 指令</"
-"strong>」）。"
+"提供者在處理個人資料時，遵循歐洲議會及理事會第 2016/679 號規則（即《一般資料"
+"保護規則》，簡稱「<strong>GDPR</strong>」）、第 110/2019 Coll. 號法案《個人資"
+"料處理法》，以及歐洲議會及理事會 2002 年 7 月 12 日關於電子通訊領域個人資料處"
+"理及隱私保護之第 2002/58/EC 號指令（簡稱「<strong>電子隱私指令</strong>」）。"
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -113,9 +111,9 @@ msgid ""
 "registers for the Provider's newsletter and/or when the Provider and the "
 "User conclude the Contract, whichever is the earliest."
 msgstr ""
-"使用者個人資料的實際處理，將始終僅為本政策中詳述的目的及條件而進行，並在使用"
-"者造訪本網站、註冊提供者的電子報和/或提供者與使用者簽訂本合約時（以最早發生者"
-"為準）開始。"
+"使用者個人資料之實際處理，悉依本政策詳述之目的及條件進行。處理始於使用者造訪"
+"本網站、註冊訂閱提供者之電子報，和/或提供者與使用者締結本契約之時（以最早發生"
+"者為準）。"
 
 #: wllegal/templates/legal/documents/privacy.html:41
 msgid ""
@@ -124,8 +122,8 @@ msgid ""
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
 msgstr ""
-"後續的資料處理將由提供者直接執行和/或由本政策第 3 條所指、經提供者授權依本政"
-"策處理個人資料的第三方執行。"
+"後續處理將由提供者直接執行，和/或由本政策第 3 條所指、經提供者授權依本政策處"
+"理個人資料之第三方執行。"
 
 #: wllegal/templates/legal/documents/privacy.html:45
 msgid ""
@@ -133,71 +131,74 @@ msgid ""
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
+"除本政策另有明文規定外，提供者係擔任<strong>資料控管者</strong>（Data "
+"Controller）之角色，而身為自然人之使用者則為資料當事人（Data Subject），上述"
+"角色定義悉依 <strong>GDPR</strong> 之規定。"
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "處理之範圍、目的及期間"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
-msgstr ""
+msgstr "提供者基於下列目的處理使用者之個人資料："
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "依據 GDPR 第 6(1)(b) 條履行契約；"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "依據 GDPR 第 6(1)(b) 條進行契約協商；"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
-msgstr ""
+msgstr "依據 GDPR 第 6(1)(c) 條履行提供者之法律義務；"
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, "
 "and in selected cases also"
-msgstr ""
+msgstr "依據 GDPR 第 6(1)(f) 條維護提供者之正當利益；以及在特定情況下，"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
-msgstr ""
+msgstr "依據 GDPR 第 6(1)(a) 條經使用者同意。"
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
-msgstr ""
+msgstr "提供者處理使用者個人資料之範圍包含："
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr ""
+msgstr "姓名；"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr ""
+msgstr "使用者地址（送貨及帳單地址）；"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr ""
+msgstr "公司統編及稅籍編號；"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, X, and others),"
-msgstr ""
+msgstr "暱稱（包含任何自願連結之平台，如 Liberapay、GitHub、X 等）；"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr "使用者的頭像，"
+msgstr "使用者頭貼；"
 
 #: wllegal/templates/legal/documents/privacy.html:96
 msgid "email address(es),"
-msgstr "電子郵件地址，"
+msgstr "電子郵件地址；"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -205,15 +206,17 @@ msgid ""
 "openSUSE, and Ubuntu in the event that accounts with these providers are "
 "linked to the User account,"
 msgstr ""
+"若使用者帳號與 Bitbucket、Facebook、Google、LinkedIn、GitHub、GitLab、"
+"openSUSE 及 Ubuntu 等提供者之帳號連結，則包含該等識別碼；"
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
-msgstr ""
+msgstr "使用者所使用之服務及產品規格；"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
-msgstr ""
+msgstr "使用者團隊成員數量及其角色之資訊；"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
@@ -221,35 +224,37 @@ msgid ""
 "Profile), i.e., settings for languages, notifications, if they can identify "
 "the User directly or indirectly,"
 msgstr ""
+"使用者帳號之所有其他設定（含所謂「個人檔案」），即語言、通知等設定，若該等設"
+"定可直接或間接識別使用者；"
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
-msgstr ""
+msgstr "使用者之銀行帳號及其他可能之付款詳細資訊；"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "加密貨幣錢包地址；"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
 "other personal data contained in messages sent by the User to the Provider "
 "(especially the subject and other content of the message),"
-msgstr ""
+msgstr "使用者發送予提供者之訊息中所含之其他個人資料（尤指主旨及訊息內容）；"
 
 #: wllegal/templates/legal/documents/privacy.html:120
 msgid ""
 "other personal data contained in communications with the Provider's support,"
-msgstr ""
+msgstr "與提供者支援部門通訊內容中所含之其他個人資料；"
 
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
-msgstr ""
+msgstr "系統資料、日誌及工作階段日誌，包含使用者之 IP 位址；"
 
 #: wllegal/templates/legal/documents/privacy.html:128
 msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
-msgstr ""
+msgstr "上述各類個人資料，以下統稱為「<strong>個人資料</strong>」。"
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -262,6 +267,11 @@ msgid ""
 "under the conditions and based on a separate data processing agreement (so-"
 "called processing agreement) concluded between the Provider and the User."
 msgstr ""
+"在特定情況下，提供者<strong>亦可能成為個人資料處理者</strong>，即當使用者基於"
+"自身目的提供第三方之個人資料予提供者時（例如：新增個別團隊成員、代表他人捐贈"
+"專案予提供者等）。在此情形下，處理使用者所提供之特定第三方個人資料，係依據使"
+"用者之指示、在特定條件下，並基於提供者與使用者間另行簽訂之資料處理協議（即所"
+"謂「處理協議」）進行。"
 
 #: wllegal/templates/legal/documents/privacy.html:136
 msgid ""
@@ -287,6 +297,17 @@ msgid ""
 "the User's instructions unless the Provider has another legal basis for "
 "processing personal data as a controller under Article 2.1 of this Policy."
 msgstr ""
+"提供者處理個人資料之期間，至契約所生之一切義務履行完畢為止。當提供者關閉帳號"
+"和/或使用者註銷帳號時，輸入至本服務之所有個人資料及其他資料將被刪除，但下述特"
+"定個人資料除外；因此，提供者<strong>強烈建議</strong>使用者在註銷帳號前備份所"
+"有輸入至本服務之資料。帳號關閉後（即使係由提供者正當關閉），提供者對其資料遺"
+"失概不負責。發票上所載之個人資料，提供者將保留至少法定保存期間，即 10 年。若"
+"為防禦提供者之權利主張和/或防禦第三方之主張（包含主管機關發起之任何程序）所必"
+"要，提供者亦得保留部分其他個人資料，但保留期間最長不超過個別請求權之時效期間"
+"和/或至特定程序終結為止。具體期間無法精確定義，將視請求權類型、其時效期間以及"
+"特定法院或主管機關之進度而定。提供者僅作為使用者資料處理者而處理之資料，其處"
+"理期間依使用者之指示而定，除非提供者依據本政策第 2.1 條，另有作為控管者處理該"
+"個人資料之法律依據。"
 
 #: wllegal/templates/legal/documents/privacy.html:140
 #, python-format
@@ -306,6 +327,14 @@ msgid ""
 "consent granted otherwise, by sending a request to <a href=\"mailto:"
 "%(address)s\">%(address)s</a>."
 msgstr ""
+"基於使用者<strong>自願且知情</strong>之同意，提供者亦得處理使用者之特定個人資"
+"料，特別是電子郵件、名字、姓氏及其他個人資料（若係為此目的而提供）。處理期間"
+"為 <strong>2 年</strong>和/或至同意撤回為止。使用本服務或產品（含支援服務"
+"）<strong>絕不</strong>以提供此項同意為條件。然而，向尚未成為使用者之資料當事"
+"人發送電子報、提供未與提供者其他服務連結之特定額外獎勵或附加資料，和/或因捐贈"
+"予提供者而需揭露使用者個人資料時，通常需要此項同意。撤回同意可隨時透過使用者"
+"帳號介面直接進行；若以其他方式給予同意者，則可發送請求至 <a href=\"mailto:%"
+"(address)s\">%(address)s</a>。"
 
 #: wllegal/templates/legal/documents/privacy.html:144
 msgid ""
@@ -314,12 +343,12 @@ msgid ""
 "selected Personal Data based on a different legal reason if this legal "
 "reason in favour of the Provider continues to exist."
 msgstr ""
+"一旦處理個人資料之原因消滅，提供者將銷毀該個人資料。若有利於提供者之其他法律"
+"原因持續存在，此不排除基於該不同法律原因進一步處理特定個人資料。"
 
 #: wllegal/templates/legal/documents/privacy.html:149
-#, fuzzy
-#| msgid "Access to the Personal Data"
 msgid "Recipients and Processors of Personal Data"
-msgstr "存取「個人資料」"
+msgstr "個人資料之接收者與處理者"
 
 #: wllegal/templates/legal/documents/privacy.html:153
 msgid ""
@@ -328,12 +357,16 @@ msgid ""
 "proper processing of Personal Data for the purposes defined in Article 2.1 "
 "of this Policy, specifically:"
 msgstr ""
+"除提供者外，特定第三方亦依據本政策接收並處理個人資料，其參與對於實現本政策第 "
+"2.1 條定義之目的與個人資料之適當處理係屬必要，具體包含："
 
 #: wllegal/templates/legal/documents/privacy.html:158
 msgid ""
 "hosting provider (including web hosting and mail hosting services), "
 "currently this is <strong>Hetzner Online GmbH</strong>;"
 msgstr ""
+"主機服務提供者（包含網站代管及郵件代管服務），目前為 <strong>Hetzner Online "
+"GmbH</strong>；"
 
 #: wllegal/templates/legal/documents/privacy.html:161
 msgid ""
@@ -341,24 +374,26 @@ msgid ""
 "possibly operators of other services used in connection with the payment of "
 "any payments related to billing;"
 msgstr ""
+"支付閘道營運商 <strong>ThePay.cz, s.r.o.</strong>，以及可能用於處理帳單相關款"
+"項之其他服務營運商；"
 
 #: wllegal/templates/legal/documents/privacy.html:164
 msgid ""
 "accounting, legal, and tax advisors of the Provider and possibly other "
 "persons bound by confidentiality under the law;"
-msgstr ""
+msgstr "提供者之會計、法律及稅務顧問，以及其他依法負有保密義務之人員；"
 
 #: wllegal/templates/legal/documents/privacy.html:167
 msgid ""
 "C-level and other managerial employees employed by or otherwise "
 "collaborating with the Provider;"
-msgstr ""
+msgstr "受僱於提供者或以其他方式與提供者合作之高階管理人員（C-level）及其他管理人員；"
 
 #: wllegal/templates/legal/documents/privacy.html:170
 msgid ""
 "selected contractors of the Provider who are involved in providing services "
 "to Users and who are also bound by confidentiality;"
-msgstr ""
+msgstr "參與向使用者提供服務且同樣受保密義務約束之提供者特定承包商；"
 
 #: wllegal/templates/legal/documents/privacy.html:173
 msgid ""
@@ -366,12 +401,14 @@ msgid ""
 "the Service, Products, Support Services, and/or to ensure any other "
 "activities related to the above;"
 msgstr ""
+"任何其他為適當提供本服務、產品、支援服務，和/或確保與上述相關之任何其他活動所"
+"必需參與之人員；"
 
 #: wllegal/templates/legal/documents/privacy.html:178
 msgid ""
 "the persons mentioned in this Article 3.1 are collectively referred to in "
 "this Policy as \"<strong>Processors</strong>\"."
-msgstr ""
+msgstr "本政策第 3.1 條所述之人員，於本政策中統稱為「<strong>處理者</strong>」。"
 
 #: wllegal/templates/legal/documents/privacy.html:182
 msgid ""
@@ -381,16 +418,11 @@ msgid ""
 "personal data must meet high standards of protection and will always handle "
 "the data within the limits of the GDPR and this Policy."
 msgstr ""
+"使用者同意，若為履行上述資料處理目的所必要，提供者得將個人資料傳輸予前述處理"
+"者。提供者委任處理個人資料之處理者必須符合高標準之保護要求，並始終在 GDPR 及"
+"本政策之限制範圍內處理資料。"
 
 #: wllegal/templates/legal/documents/privacy.html:186
-#, fuzzy
-#| msgid ""
-#| "In case the Controller is required by law to disclose the Personal Data, "
-#| "an attempt will be made to provide the User with prior notice by e-mail "
-#| "(unless the Controller is prohibited, or it would be futile) that a "
-#| "request for the Personal Data has been made to allow the User to object "
-#| "to the disclosure. If the User does not challenge the disclosure request, "
-#| "the Controller may be legally required to turn over the Personal Data."
 msgid ""
 "The Personal Data might be disclosed to third parties in limited "
 "circumstances when the Controller has a good faith belief it is required by "
@@ -400,16 +432,16 @@ msgid ""
 "the Controller is prohibited, or it would be futile) that a request for the "
 "Personal Data has been made to allow the User to object to the disclosure."
 msgstr ""
-"若資料控制者需要因法律規定而揭露個人資料，會試圖提前透過電子郵件通知使用者"
-"（除非資料控制者被禁止，或是這種通知無效），目的是讓使用者有機會反對這次的資"
-"料揭露。如果使用者並未提出反對，資料控制者可能會因法律的要求，而不得不將個人"
-"資料交出。"
+"在有限情況下，當控管者善意確信法律要求揭露時（例如依據傳票或其他司法或行政命"
+"令），個人資料可能會揭露予第三方。若控管者依法必須揭露個人資料，將嘗試透過電"
+"子郵件向使用者發出事前通知（除非控管者被禁止通知，或通知顯無實益），告知已有"
+"人請求該個人資料，以便使用者對該揭露提出異議。"
 
 #: wllegal/templates/legal/documents/privacy.html:190
 msgid ""
 "The processing of Personal Data by selected Processors may be governed by "
 "their own service provision conditions."
-msgstr ""
+msgstr "特定處理者對個人資料之處理，可能受其自身服務條款之規範。"
 
 #: wllegal/templates/legal/documents/privacy.html:194
 msgid ""
@@ -418,10 +450,12 @@ msgid ""
 "where the transfer must occur in compliance with the obligations of the "
 "Provider arising from generally binding regulations."
 msgstr ""
+"若提供者依法令規定、公權力機關之決定，或其他為遵守一般具拘束力法規所生之義務"
+"而必須傳輸時，個人資料亦可能被傳輸。"
 
 #: wllegal/templates/legal/documents/privacy.html:199
 msgid "Common Provisions on Processing"
-msgstr ""
+msgstr "處理之一般條款"
 
 #: wllegal/templates/legal/documents/privacy.html:203
 msgid ""
@@ -431,6 +465,9 @@ msgid ""
 "processing of personal data by any third party, even if those third parties "
 "are Processors."
 msgstr ""
+"提供者將始終盡最大努力防止他人未經授權處理個人資料；然而，對於任何第三方未經"
+"授權處理個人資料所致之損害，提供者對使用者或其他資料當事人不負賠償責任，即使"
+"該第三方為處理者亦同。"
 
 #: wllegal/templates/legal/documents/privacy.html:207
 msgid ""
@@ -440,6 +477,9 @@ msgid ""
 "480/2004 Coll. on Certain Information Society Services, if they directly "
 "relate to these Services, Products, and/or Support Services."
 msgstr ""
+"若電子郵件與本服務、產品和/或支援服務直接相關，則發送予使用者之該等郵件不被視"
+"為《第 40/1995 Coll. 號廣告法》及《第 480/2004 Coll. 號特定資訊社會服務法》所"
+"稱之未經請求之商業通訊（垃圾郵件）。"
 
 #: wllegal/templates/legal/documents/privacy.html:211
 msgid ""
@@ -451,6 +491,10 @@ msgid ""
 "revoked at any time by clicking on the link found in the footer of such "
 "commercial communication."
 msgstr ""
+"然而，使用者可依據《第 480/2004 Coll. 號特定資訊社會服務法及部分法案修正案》"
+"第 7(2) 條之意旨，明確且<strong>自願同意</strong>在其電子地址接收來自提供者之"
+"更廣泛商業通訊（例如間接行銷）。當然，此項同意可隨時透過點選此類商業通訊頁尾"
+"之連結予以撤回。"
 
 #: wllegal/templates/legal/documents/privacy.html:215
 msgid ""
@@ -458,6 +502,8 @@ msgid ""
 "related to Personal Data that affects the User, they will notify the User of "
 "this fact without undue delay."
 msgstr ""
+"若提供者和/或處理者知悉涉及使用者個人資料之安全風險，將無不當遲延通知使用者該"
+"事實。"
 
 #: wllegal/templates/legal/documents/privacy.html:219
 msgid ""
@@ -466,6 +512,8 @@ msgid ""
 "other incident leading to loss. However, the Provider is not responsible for "
 "the improper actions of the Processors."
 msgstr ""
+"若發生資料外洩或其他導致損失之事件，提供者將提供使用者協助及法律援助，以向應"
+"負責之處理者請求賠償。惟提供者對處理者之不當行為概不負責。"
 
 #: wllegal/templates/legal/documents/privacy.html:223
 msgid ""
@@ -477,6 +525,10 @@ msgid ""
 "the User in the case where they provide the Provider with Personal Data of "
 "data subjects other than this User."
 msgstr ""
+"使用者茲此確認，所提供之個人資料真實、準確且僅與使用者本人相關，或其提供資料"
+"之使用並未侵害第三方之權利。使用者有義務隨時通知提供者其個人資料之變更，以確"
+"保僅處理最新且完整之資料。若使用者提供除本使用者以外之資料當事人之個人資料予"
+"提供者，亦適用相同義務。"
 
 #: wllegal/templates/legal/documents/privacy.html:227
 msgid ""
@@ -485,6 +537,8 @@ msgid ""
 "never be subject to individual automated decision-making (including "
 "profiling) within the meaning of Article 22 of the GDPR."
 msgstr ""
+"個人資料將以電子方式處理，包含使用自動化處理方法。然而，依據 GDPR 第 22 條之"
+"意旨，使用者或其他資料當事人絕不會受制於個別自動化決策（包含剖析）。"
 
 #: wllegal/templates/legal/documents/privacy.html:231
 msgid ""
@@ -492,12 +546,12 @@ msgid ""
 "the GDPR) may be processed even after all legal grounds for processing the "
 "User's Personal Data have ceased."
 msgstr ""
+"匿名化之個人資料（依 GDPR 已不再視為個人資料），即使處理使用者個人資料之所有"
+"法律依據皆已消滅，仍得予以處理。"
 
 #: wllegal/templates/legal/documents/privacy.html:236
-#, fuzzy
-#| msgid "Order us to delete your Personal Data"
 msgid "User Rights in Relation to Personal Data"
-msgstr "請我們刪除您的「個人資料」"
+msgstr "使用者關於個人資料之權利"
 
 #: wllegal/templates/legal/documents/privacy.html:240
 #, python-format
@@ -509,6 +563,10 @@ msgid ""
 "correction, restriction, or deletion) can be automated through this user "
 "account."
 msgstr ""
+"使用者可隨時透過發送電子郵件至 <a href=\"mailto:%(address)s\">%(address)s</"
+"a> 行使其源自 GDPR 之權利，亦可透過其使用者帳號行使，因下列大部分權利之實施（"
+"特別是存取所有已處理之個人資料、其更正、限制處理或刪除）皆可透過該使用者帳號"
+"自動化進行。"
 
 #: wllegal/templates/legal/documents/privacy.html:244
 msgid ""
@@ -517,30 +575,32 @@ msgid ""
 "strong>, unless due to the complexity of the matter it is necessary for the "
 "Provider to extend this period. The User's rights include:"
 msgstr ""
+"提供者將盡最大努力儘速處理關於使用者個人資料之請求，最遲不超過 <strong>30 "
+"天</strong>，除非因事項複雜而有必要延長此期間。使用者之權利包含："
 
 #: wllegal/templates/legal/documents/privacy.html:249
 msgid ""
 "an explanation of whether and what personal data is being processed and, if "
 "applicable, requesting the Provider to disclose it;"
-msgstr ""
+msgstr "解釋是否正在處理個人資料及處理何種資料，如適用，並請求提供者揭露之；"
 
 #: wllegal/templates/legal/documents/privacy.html:252
 msgid ""
 "correction of personal data if there is concern that some of it is "
 "inaccurate or missing;"
-msgstr ""
+msgstr "若對資料之準確性或完整性有疑慮，請求更正個人資料；"
 
 #: wllegal/templates/legal/documents/privacy.html:255
 msgid ""
 "restriction of processing if there is concern that the Provider is "
 "processing more data than necessary;"
-msgstr ""
+msgstr "若對提供者處理超出必要範圍之資料有疑慮，請求限制處理；"
 
 #: wllegal/templates/legal/documents/privacy.html:258
 msgid ""
 "deletion of personal data based on the consent of the Provider, provided "
 "that there is no other legal reason for further processing of personal data;"
-msgstr ""
+msgstr "基於提供者之同意刪除個人資料，前提是無其他法律理由需繼續處理該個人資料；"
 
 #: wllegal/templates/legal/documents/privacy.html:261
 msgid ""
@@ -548,12 +608,14 @@ msgid ""
 "on the consent of the Provider or in connection with fulfilling the "
 "Provider's contractual obligations, in a machine-readable format;"
 msgstr ""
+"針對基於提供者同意或為履行提供者契約義務而以自動化方式處理之個人資料，請求核"
+"發機器可讀格式之副本；"
 
 #: wllegal/templates/legal/documents/privacy.html:264
 msgid ""
 "temporary freezing of data processing operations for the purposes of the "
 "legitimate interest of the Provider;"
-msgstr ""
+msgstr "為提供者正當利益之目的，暫時凍結資料處理作業；"
 
 #: wllegal/templates/legal/documents/privacy.html:267
 #, python-format
@@ -563,11 +625,13 @@ msgid ""
 "authority if the User believes that the Provider is processing personal data "
 "in violation of this Policy or legal regulations."
 msgstr ""
+"若使用者認為提供者處理個人資料違反本政策或法律規範，可直接向個人資料保護局"
+"（<a href=\"%(url)s\">%(url)s</a>）或其他相關國家資料保護主管機關提出申訴。"
 
 #: wllegal/templates/legal/documents/privacy.html:272
 #: wllegal/templates/legal/documents/tos.html:620
 msgid "Final Provisions"
-msgstr ""
+msgstr "附則"
 
 #: wllegal/templates/legal/documents/privacy.html:276
 msgid ""
@@ -578,6 +642,9 @@ msgid ""
 "Policy displayed within the Service, or upon the next first login to their "
 "User Account."
 msgstr ""
+"提供者有權單方修改本政策。新版政策內容於網站公布時生效。於變更時與提供者存有"
+"受本政策規範之契約關係的使用者，將在服務內或下次首次登入使用者帳號時收到政策"
+"變更之通知。"
 
 #: wllegal/templates/legal/documents/privacy.html:280
 msgid ""
@@ -587,6 +654,9 @@ msgid ""
 "Policy will be resolved before the competent civil court in the Czech "
 "Republic."
 msgstr ""
+"提供者與使用者間因本政策所生之所有法律關係，均受捷克共和國有效法律管轄。提供"
+"者與使用者間因本政策或與其相關所生之任何爭議，將由捷克共和國有管轄權之民事法"
+"院解決。"
 
 #: wllegal/templates/legal/documents/privacy.html:284
 msgid ""
@@ -599,6 +669,10 @@ msgid ""
 "Council (EC) No. 593/2008 of June 17, 2008, on the law applicable to "
 "contractual obligations (Rome I)."
 msgstr ""
+"若契約建立之關係包含涉外（外國）因素，前句之法律選擇不得剝奪使用者（即消費者"
+"）依據相關法律秩序規定所應享有之保護，該等規定係契約不得排除適用，且在缺乏法"
+"律選擇時原應適用者。此係依據 2008 年 6 月 17 日歐洲議會及理事會關於契約義務準"
+"據法之第 593/2008 號規則（羅馬條例 Ⅰ）第 6(1) 條之規定。"
 
 #: wllegal/templates/legal/documents/privacy.html:288
 msgid ""
@@ -608,84 +682,72 @@ msgid ""
 "provision does not affect the validity of the other provisions of this "
 "Policy."
 msgstr ""
+"若本政策之任何條款無效或不生效力，或嗣後變為無效或不生效力，將由意義最接近該"
+"無效條款之條款取代之。單一條款之無效或不生效力，不影響本政策其他條款之效力。"
 
 #: wllegal/templates/legal/documents/privacy.html:292
 msgid "This Policy become effective upon their publication on the Website."
-msgstr ""
+msgstr "本政策於網站公布時生效。"
 
 #: wllegal/templates/legal/documents/privacy.html:296
 msgid "In Prague on November 1, 2024."
-msgstr ""
+msgstr "於布拉格，2024 年 11 月 1 日。"
 
 #: wllegal/templates/legal/documents/summary.html:5
 msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"我們會經手個人資料（例如您的電子郵件位址），您移除帳號之後相關資料就會從我們"
-"的資料庫中除去。"
+"我們會處理個人資料（例如您的電子郵件地址）；若您移除帳號，相關資料將從我們的"
+"資料庫中刪除。"
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
 "By registering, you agree that your name and username will be visible "
 "publicly as long as your account exists."
-msgstr "註冊即代表您同意在帳號存在期間，您的姓名和使用者名稱將公開顯示。"
+msgstr "註冊即代表您同意在帳號存續期間，您的姓名和使用者名稱將公開顯示。"
 
 #: wllegal/templates/legal/documents/summary.html:11
-#, fuzzy
-#| msgid ""
-#| "Your name and e-mail address is used in VCS commits, it will stay there "
-#| "indefinitely."
 msgid ""
 "Your name and e-mail can be used in version control system commits to author "
 "the changes you made; they can be stored there indefinitely."
-msgstr "您的名稱與電子郵件位址會在 VCS 送交動作中使用，它會無限期留在該處。"
+msgstr ""
+"您的姓名和電子郵件可能會用於版本控制系統的提交記錄中，以標示您所做的變更；這"
+"些資料可能會被永久儲存。"
 
 #: wllegal/templates/legal/documents/summary.html:12
-#, fuzzy
-#| msgid ""
-#| "Chosen name is up to you and the e-mail address used for commits can be "
-#| "masked by Weblate system to protect your privacy."
 msgid ""
 "Name choice is yours, and the e-mail address used for commits can be masked "
 "by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
-"你可以自行選擇名稱，且用來送交的電子郵件地址可透過 Weblate 系統進行隱藏，以確"
-"保你的隱私安全。"
+"姓名的選擇權在您，且 Weblate 可遮蔽用於提交的電子郵件地址以保護您的隱私。您可"
+"以在個人檔案中啟用此功能。"
 
 #: wllegal/templates/legal/documents/summary.html:15
 msgid ""
 "You provide your contribution under the license defined by each project you "
 "contributed to."
-msgstr "您所提供的貢獻，均依循您貢獻的各別專案所訂定的授權條款。"
+msgstr "您所提供之貢獻，均依循您所貢獻之個別專案所訂定之授權條款。"
 
 #: wllegal/templates/legal/documents/summary.html:18
 msgid "We use cookies to deliver our services."
-msgstr "我們使用 Cookie 遞送我們的服務。"
+msgstr "我們使用 Cookie 提供服務。"
 
 #: wllegal/templates/legal/documents/summary.html:19
 msgid "We don’t use any third-party cookies."
-msgstr "我們不使用任何第三方的 cookie。"
+msgstr "我們不使用任何第三方 Cookie。"
 
 #: wllegal/templates/legal/documents/tos.html:5
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
-msgstr ""
-"「一般條款與條件」文件的英文版有法律約束力，翻譯是為了您的方便而提供給您查"
-"閱。"
+msgstr "本《一般條款與條件》文件以英文版本具法律拘束力，翻譯版本僅供便利參考之用。"
 
 #: wllegal/templates/legal/documents/tos.html:11
-#, fuzzy
-#| msgid ""
-#| "The rights and obligations of the User and the Provider resulting from "
-#| "the use of the Service are governed by these Terms of Service."
 msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
-msgstr ""
-"「使用者」與「供應商」因服務之使用而衍生的權利和義務關係，受到下列「服務條"
-"款」約束。"
+msgstr "使用者與提供者因使用本服務所生之權利與義務，悉依本《一般條款與條件》規範。"
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid ""
@@ -696,20 +758,23 @@ msgid ""
 "Services and Products. These general terms and conditions govern the "
 "contractual relationship between the service provider and the User."
 msgstr ""
+"本一般條款與條件為使用者與提供者間所締結服務協議（下稱「<strong>本協議</"
+"strong>」）為不可分割之一部分，並定義提供服務與產品及使用服務與產品之具拘束力"
+"規則與條件。本一般條款與條件規範服務提供者與使用者間之契約關係。"
 
 #: wllegal/templates/legal/documents/tos.html:24
 msgid ""
 "The definitions below have the following meanings for the purposes of these "
 "general terms and conditions:"
-msgstr ""
+msgstr "就本一般條款與條件之目的而言，下列定義具有以下含義："
 
 #: wllegal/templates/legal/documents/tos.html:30
 msgid "Civil Code"
-msgstr "民法"
+msgstr "民法典"
 
 #: wllegal/templates/legal/documents/tos.html:33
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
-msgstr "指民法修訂後的第 89/2012 號項目；"
+msgstr "指《第 89/2012 Coll. 號法案民法典》及其修訂；"
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
@@ -717,7 +782,7 @@ msgstr "締約方"
 
 #: wllegal/templates/legal/documents/tos.html:40
 msgid "jointly refers to the User and the Provider;"
-msgstr ""
+msgstr "統稱使用者與提供者；"
 
 #: wllegal/templates/legal/documents/tos.html:44
 msgid "Cookies"
@@ -731,16 +796,19 @@ msgid ""
 "Coll., on Certain Information Society Services and Amending Certain Acts, as "
 "amended;"
 msgstr ""
+"指從服務網站伺服器發送至使用者電腦或其他連網裝置之任何資料，該資料允許依據修"
+"訂後之《第 480/2004 Coll. 號特定資訊社會服務法及部分法案修正案》第 89 條唯一"
+"識別使用者之網頁瀏覽器；"
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Dedicated Weblate"
-msgstr ""
+msgstr "專用 Weblate（Dedicated Weblate）"
 
 #: wllegal/templates/legal/documents/tos.html:54
 msgid ""
 "means a form of collaboration where the User is the sole user of the Service "
 "in a cloud hosted and provided by the Provider;"
-msgstr ""
+msgstr "指一種合作形式，其中使用者為提供者託管並提供之雲端服務中之唯一使用者；"
 
 #: wllegal/templates/legal/documents/tos.html:58
 msgid "GDPR"
@@ -750,38 +818,31 @@ msgstr "GDPR"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
-msgstr "意指歐盟法規編號 679/2016，個人資料保護一般規則；"
+msgstr "指歐盟第 2016/679 號規則《一般資料保護規則》；"
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
-msgstr ""
+msgstr "本條款"
 
 #: wllegal/templates/legal/documents/tos.html:68
 msgid ""
 "means these general terms and conditions, which form an integral part of the "
 "Agreement;"
-msgstr ""
+msgstr "指本一般條款與條件，其為本協議不可分割之一部分；"
 
 #: wllegal/templates/legal/documents/tos.html:72
 msgid "Hosted String"
-msgstr ""
+msgstr "託管字串"
 
 #: wllegal/templates/legal/documents/tos.html:75
-#, fuzzy
-#| msgid ""
-#| "Pricing is based on the number of source strings and target languages. "
-#| "The source string is a text unit defined in a translation format, it can "
-#| "be a word, sentence or paragraph."
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph. It is counted separately for each language;"
-msgstr ""
-"價格根據來源字串數以及目標語言數計算。來源字串是指定義在翻譯格式中的文字單"
-"位，可以是一個單字、一個句子，或是一個段落。"
+msgstr "指翻譯格式中定義之文字單位。可為單字、句子或段落。每種語言分開計算；"
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
-msgstr "託管的 Weblate"
+msgstr "託管 Weblate (Hosted Weblate)"
 
 #: wllegal/templates/legal/documents/tos.html:82
 msgid ""
@@ -789,20 +850,18 @@ msgid ""
 "provides Services to Users on a non-dedicated (i.e., shared by multiple "
 "Users) cloud operated by the Provider;"
 msgstr ""
+"指一種純雲端基礎之合作形式，其中提供者於其營運之非專用（即多位使用者共享）雲"
+"端上向使用者提供服務；"
 
 #: wllegal/templates/legal/documents/tos.html:86
 msgid "License"
 msgstr "授權"
 
 #: wllegal/templates/legal/documents/tos.html:89
-#, fuzzy
-#| msgid ""
-#| "means non-exclusive license granted by the Provider to the User for use "
-#| "of the Service"
 msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
-msgstr "指「供應商」提供給「使用者」使用該「服務」的非獨佔性授權"
+msgstr "指提供者授與使用者使用本服務之非專屬授權；"
 
 #: wllegal/templates/legal/documents/tos.html:93
 msgid "Personal Data"
@@ -813,8 +872,8 @@ msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"指「使用者」在「服務」和或「Cookie」中插入的有關歐盟法規 編號 679/2016 所指的"
-"個人資料；"
+"指使用者輸入至本服務和/或 Cookie 中，符合歐盟第 2016/679 號規則定義之個人資料"
+"；"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
@@ -825,17 +884,17 @@ msgstr "價格"
 msgid ""
 "the value expressed in money for the provided License in accordance with the "
 "Price List;"
-msgstr ""
+msgstr "依據價目表為所提供之授權以金錢表示之價值；"
 
 #: wllegal/templates/legal/documents/tos.html:107
 msgid "Price List"
-msgstr ""
+msgstr "價目表"
 
 #: wllegal/templates/legal/documents/tos.html:110
 msgid ""
 "means the document or web page that specifies the Price of the Service and/"
 "or Product unless otherwise stated in the Agreement;"
-msgstr ""
+msgstr "指載明服務和/或產品價格之文件或網頁，除非本協議另有規定；"
 
 #: wllegal/templates/legal/documents/tos.html:114
 msgid "Product"
@@ -847,10 +906,12 @@ msgid ""
 "Provider based on its brand usage policy. The User purchases the Product AS "
 "IS. Support and other services are provided separately;"
 msgstr ""
+"指依據提供者品牌使用政策，以提供者特定品牌提供之任何服務或其部分。使用者係依"
+"「現狀」購買本產品。支援及其他服務另行提供；"
 
 #: wllegal/templates/legal/documents/tos.html:121
 msgid "Provider"
-msgstr "供應商"
+msgstr "提供者"
 
 #: wllegal/templates/legal/documents/tos.html:124
 msgid ""
@@ -859,18 +920,18 @@ msgid ""
 "the Commercial Register maintained by the Regional Court in Ústí nad Labem, "
 "file no. C 52324, with which the Agreement was concluded;"
 msgstr ""
+"指 <strong>Weblate s.r.o.</strong> 公司（統一編號：21668027，註冊地址："
+"Nábřežní 694, Cvikov II, 471 54 Cvikov，登記於烏斯季（Ústí nad Labem）區域法"
+"院商事登記處，案號 C 52324），即與使用者締結本協議之對象；"
 
 #: wllegal/templates/legal/documents/tos.html:128
 msgid "Service"
 msgstr "服務"
 
 #: wllegal/templates/legal/documents/tos.html:131
-#, fuzzy
-#| msgid ""
-#| "means the website and services based on Weblate operated by the Provider"
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
-msgstr "指「供應商」基於 Weblate 營運的網站與服務"
+msgstr "指由提供者所提供，基於 Weblate 之網站及服務；"
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid "Self-hosting"
@@ -881,12 +942,12 @@ msgid ""
 "means a form of collaboration where the User is the sole user of the "
 "Service, and this Service is operated directly on the User Server;"
 msgstr ""
+"指一種合作形式，其中使用者為本服務之唯一使用者，且本服務直接於使用者伺服器上"
+"運作；"
 
 #: wllegal/templates/legal/documents/tos.html:142
-#, fuzzy
-#| msgid "Service"
 msgid "Support Services"
-msgstr "服務"
+msgstr "支援服務"
 
 #: wllegal/templates/legal/documents/tos.html:145
 msgid ""
@@ -894,31 +955,26 @@ msgid ""
 "Support Services are governed separately by a separate support service "
 "agreement;"
 msgstr ""
+"指提供者在本服務範圍內向使用者提供之支援。支援服務另由單獨之支援服務協議規範"
+"；"
 
 #: wllegal/templates/legal/documents/tos.html:149
 msgid "Translation Memory"
 msgstr "翻譯記憶"
 
 #: wllegal/templates/legal/documents/tos.html:152
-#, fuzzy
-#| msgid ""
-#| "means the optional translation memory service provided within Weblate"
 msgid "means an optional translation memory service provided on Weblate;"
-msgstr "指 Weblate 提供的選擇性翻譯記憶服務"
+msgstr "指 Weblate 上提供之選用翻譯記憶服務；"
 
 #: wllegal/templates/legal/documents/tos.html:156
 msgid "User"
 msgstr "使用者"
 
 #: wllegal/templates/legal/documents/tos.html:159
-#, fuzzy
-#| msgid ""
-#| "means any legal entity or an individual other than the Provider, who is "
-#| "using the Service"
 msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
-msgstr "指任何法人，或「供應商」以外有在使用本「服務」的個人"
+msgstr "指提供者以外，利用本服務之任何法人或自然人；"
 
 #: wllegal/templates/legal/documents/tos.html:163
 msgid "User Account"
@@ -929,6 +985,8 @@ msgid ""
 "means a user account with a unique access code and password in the Hosted "
 "Weblate web interface. Each User Account can be used by only one User;"
 msgstr ""
+"指在託管 Weblate 網頁介面中具有唯一存取碼及密碼之使用者帳號。每一使用者帳號僅"
+"供一位使用者使用；"
 
 #: wllegal/templates/legal/documents/tos.html:170
 msgid "User Server"
@@ -938,31 +996,29 @@ msgstr "使用者伺服器"
 msgid ""
 "refers to the server and other hardware equipment not owned, managed, or "
 "controlled by the Provider;"
-msgstr ""
+msgstr "指非由提供者擁有、管理或控制之伺服器及其他硬體設備；"
 
 #: wllegal/templates/legal/documents/tos.html:179
 msgid "Methods of Acceptance"
-msgstr ""
+msgstr "承諾方式"
 
 #: wllegal/templates/legal/documents/tos.html:183
 msgid "The License is granted to the User based on the concluded Agreement."
-msgstr ""
+msgstr "授權係基於已締結之本協議授與使用者。"
 
 #: wllegal/templates/legal/documents/tos.html:187
 msgid "These GTC are an integral part of the Agreement."
-msgstr ""
+msgstr "本條款為本協議不可分割之一部分。"
 
 #: wllegal/templates/legal/documents/tos.html:191
-#, fuzzy
-#| msgid "License Agreement Conclusion"
 msgid "The Agreement is concluded:"
-msgstr "授權契約簽訂"
+msgstr "本協議於下列時點成立："
 
 #: wllegal/templates/legal/documents/tos.html:196
 msgid ""
 "on the day of signing by both parties (especially for all Services offered "
 "with custom settings);"
-msgstr ""
+msgstr "雙方簽署之日（特別是針對所有提供客製化設定之服務）；"
 
 #: wllegal/templates/legal/documents/tos.html:199
 msgid ""
@@ -973,10 +1029,13 @@ msgid ""
 "Provider's bank account) for the amount stated in the first billing period "
 "by the User."
 msgstr ""
+"透過網頁介面依據價目表線上承諾（確認），本協議於使用者依第一期帳單週期所示金"
+"額完成授權價格之支付時生效（若為銀行轉帳，則指授權價格相對應之金額入帳至提供"
+"者銀行帳戶時）。"
 
 #: wllegal/templates/legal/documents/tos.html:207
 msgid "Service Provision"
-msgstr ""
+msgstr "服務之提供"
 
 #: wllegal/templates/legal/documents/tos.html:211
 msgid ""
@@ -985,6 +1044,8 @@ msgid ""
 "accordance with the Agreement and the technical specifications outlined in "
 "the Product specification."
 msgstr ""
+"提供者依據本協議及產品規格中概述之技術規格，於產品規格指定之網際網路位址及其"
+"子網域，或於使用者伺服器上運作本服務。"
 
 #: wllegal/templates/legal/documents/tos.html:215
 msgid ""
@@ -995,12 +1056,15 @@ msgid ""
 "specification defined in this manner takes precedence over the form of "
 "Service offered according to the Price List."
 msgstr ""
+"若本協議係依第 2.3(a) 條締結，服務範圍定義於本協議附件之產品規格中。產品規格"
+"得進一步詳述個別（子）服務之內容及啟用方式。以此方式定義之產品規格，優先於價"
+"目表所提供之服務形式適用。"
 
 #: wllegal/templates/legal/documents/tos.html:219
 msgid ""
 "The Service is provided in three forms of cooperation: Hosted Weblate, "
 "Dedicated Weblate, and Self-hosting."
-msgstr ""
+msgstr "本服務提供三種合作形式：託管 Weblate、專用 Weblate 及自託管。"
 
 #: wllegal/templates/legal/documents/tos.html:223
 msgid ""
@@ -1013,12 +1077,14 @@ msgid ""
 "third parties may process Personal Data within their activities in "
 "accordance with the Agreement and GPLv3."
 msgstr ""
+"依據 GPLv3，本服務之特定部分可能由提供者以外之第三方協助提供，或直接由該等第"
+"三方提供。使用者確認知悉該等第三方將依據本協議及 GPLv3 授權提供其服務。使用者"
+"確認知悉參與提供本服務之第三方可能在服務提供過程中變更。該等第三方得依據本協"
+"議及 GPLv3，於其活動範圍內處理個人資料。"
 
 #: wllegal/templates/legal/documents/tos.html:227
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
-msgstr "服務"
+msgstr "服務期間"
 
 #: wllegal/templates/legal/documents/tos.html:231
 msgid ""
@@ -1027,6 +1093,8 @@ msgid ""
 "subscription can be paid monthly or annually in accordance with Article 5 of "
 "the GTC."
 msgstr ""
+"除本協議另有明文約定外，本協議之締結期間對應於訂閱模式。訂閱費用可依本條款第 "
+"5 條按月或按年支付。"
 
 #: wllegal/templates/legal/documents/tos.html:239
 msgid ""
@@ -1038,6 +1106,9 @@ msgid ""
 "List. The price for Services consists of the following separate items or "
 "their combination, which are paid regularly monthly/annually:"
 msgstr ""
+"服務價格依報價或價目表決定。使用者確認並同意，提供者得比照本條款之修改方式單"
+"方變更價目表。價格取決於所選之服務配置，本服務有多種提供方案。該等方案列於價"
+"目表中。服務價格由下列單獨項目或其組合構成，並按月/年定期支付："
 
 #: wllegal/templates/legal/documents/tos.html:243
 msgid ""
@@ -1046,6 +1117,8 @@ msgid ""
 "but paid monthly or annually, with this price varying for different forms of "
 "collaboration according to the Price List;"
 msgstr ""
+"存取服務之定期價格，係針對相關期間及基於服務特定條件設定，按月或按年支付，此"
+"價格依價目表針對不同合作形式而異；"
 
 #: wllegal/templates/legal/documents/tos.html:246
 msgid ""
@@ -1053,24 +1126,24 @@ msgid ""
 "User from the options offered in the Price List or in agreement with the "
 "Provider;"
 msgstr ""
+"託管字串數量之定期價格；此金額由使用者從價目表提供之選項中選擇，或與提供者協"
+"議定之；"
 
 #: wllegal/templates/legal/documents/tos.html:249
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "翻譯記憶"
+msgstr "翻譯記憶之定期價格；"
 
 #: wllegal/templates/legal/documents/tos.html:254
 msgid ""
 "(points a), b), and c) are collectively referred to as the "
 "\"<strong>Subscription</strong>\")."
-msgstr ""
+msgstr "（a、b 及 c 點統稱為「<strong>訂閱</strong>」）。"
 
 #: wllegal/templates/legal/documents/tos.html:258
 msgid ""
 "To avoid doubt, the Subscription may guarantee either only access to a "
 "specific Product or License and/or a specific package of guaranteed Services."
-msgstr ""
+msgstr "為免疑義，訂閱可能僅保證存取特定產品或授權，和/或保證特定之服務組合。"
 
 #: wllegal/templates/legal/documents/tos.html:262
 msgid ""
@@ -1079,6 +1152,8 @@ msgid ""
 "invoice is issued and delivered to the User within 5 working days after the "
 "end of each relevant period."
 msgstr ""
+"使用者有義務依據收到之提供者開立之稅務憑證（發票）支付價格。價格採預付制，發"
+"票於每一相關期間結束後 5 個工作日內開立並送達予使用者。"
 
 #: wllegal/templates/legal/documents/tos.html:266
 #, python-format
@@ -1089,6 +1164,9 @@ msgid ""
 "an additional VAT of 21%%. Reverse charge applies to invoices issued to "
 "businesses within the EU."
 msgstr ""
+"支付價格可透過信用卡、銀行轉帳或加密貨幣交易為之。價目表所列價格均不含增值稅"
+"（VAT）。歐盟終端使用者及捷克商業公司需額外支付 21%% 之增值稅。開立予歐盟境內"
+"企業之發票適用逆向課稅機制（Reverse Charge）。"
 
 #: wllegal/templates/legal/documents/tos.html:270
 msgid ""
@@ -1098,6 +1176,8 @@ msgid ""
 "verifying with the prepaid card issuer or bank whether recurring billing is "
 "possible."
 msgstr ""
+"若使用者欲避免被收取訂閱模式之服務費用，必須在服務使用自動續約前至少三天取消"
+"訂閱。提供者建議向預付卡發卡機構或銀行確認是否支援定期扣款。"
 
 #: wllegal/templates/legal/documents/tos.html:274
 msgid ""
@@ -1107,6 +1187,8 @@ msgid ""
 "date as per point 5.5 above, their Subscription will stop at the end of the "
 "current billing cycle."
 msgstr ""
+"使用者可登入其使用者帳號線上變更訂閱模式，或於該處取消訂閱。若使用者依上述第 "
+"5.5 點於續約日前至少三天取消訂閱，其訂閱將於當期帳單週期結束時停止。"
 
 #: wllegal/templates/legal/documents/tos.html:278
 msgid ""
@@ -1120,6 +1202,10 @@ msgid ""
 "prepaid Services were prepaid for a period exceeding the actual usage "
 "period, the conditions of such a refund will be agreed upon individually."
 msgstr ""
+"對於使用者取消服務前已提供之服務、支援服務和/或依本協議及本條款提供之任何其他"
+"服務，提供者不退還任何款項。付款後之訂單取消，若所訂購服務尚未使用或未曾嘗試"
+"下載，得經協議為之。若已嘗試下載，則無協商餘地，使用者無權要求任何退款、折扣"
+"或其他金錢補償。若預付服務之預付期間超過實際使用期間，該退款條件將個別議定。"
 
 #: wllegal/templates/legal/documents/tos.html:282
 msgid ""
@@ -1132,12 +1218,14 @@ msgid ""
 "new Price or conditions come into effect. Under these conditions, the User "
 "has the right to cancel the Subscription."
 msgstr ""
+"營運商（提供者）得隨時單方變更價格及訂閱條件。首次購買或最近一次訂閱續約時有"
+"效之價格及條件，於該訂閱期間內維持有效，但續約或新訂閱可能適用新價格及條件。"
+"提供者將於新價格或條件生效前之合理期間內，通知使用者任何價格或訂閱條件之變更"
+"。在此情況下，使用者有權取消訂閱。"
 
 #: wllegal/templates/legal/documents/tos.html:286
-#, fuzzy
-#| msgid "License"
 msgid "License Terms"
-msgstr "授權"
+msgstr "授權條款"
 
 #: wllegal/templates/legal/documents/tos.html:290
 #, python-format
@@ -1149,6 +1237,9 @@ msgid ""
 "License is provided. The License is granted in accordance with the option "
 "selected according to the Price List."
 msgstr ""
+"提供者之軟體及 Weblate 軟體擴充套件係依據 GNU/GPLv3 授權發布（參見 <a "
+"href=\"%(url)s\">%(url)s</a>）。使用者獲授與本服務任何元素之非專屬授權，適用"
+"授權提供時最新版本之本條款規定。授權係依據價目表所選之選項授與。"
 
 #: wllegal/templates/legal/documents/tos.html:295
 #, python-format
@@ -1161,6 +1252,10 @@ msgid ""
 "according to the information provided on the Provider's website (see <a "
 "href=\"%(url)s\">%(url)s</a>)."
 msgstr ""
+"除本協議另有規定外，本協議之授權條款完全受 GPLv3 授權規範。然而，軟體之特定部"
+"分亦可能適用其他授權。提供者軟體及軟體擴充套件所使用之完整授權清單可於其原始"
+"碼中查閱，該原始碼符合 REUSE 3.0 規範，詳情請見提供者網站資訊（參見 <a "
+"href=\"%(url)s\">%(url)s</a>）。"
 
 #: wllegal/templates/legal/documents/tos.html:299
 msgid ""
@@ -1172,6 +1267,10 @@ msgid ""
 "creating, and distributing the Service, even if the User does not publicly "
 "release the Service."
 msgstr ""
+"使用者確認本服務之所有著作權及其他智慧財產權均歸屬於提供者，和/或其作品已被納"
+"入本服務或與本服務共同使用之第三方。然而，使用者不因此喪失在適用授權允許範圍"
+"內使用本服務之權利，包含執行、創作及散布本服務，即使使用者未公開發布本服務亦"
+"同。"
 
 #: wllegal/templates/legal/documents/tos.html:303
 msgid ""
@@ -1181,6 +1280,9 @@ msgid ""
 "or later versions of the GPL license), they publish all materials to which "
 "they do not own copyright."
 msgstr ""
+"若僅為使用者之利益而對本服務進行專屬修改，或為建立運作本服務之手段，使用者僅"
+"得在符合 GPLv3（和/或 GPL 授權後續版本）條款之前提下發布本服務，即必須發布其"
+"未擁有著作權之所有材料。"
 
 #: wllegal/templates/legal/documents/tos.html:307
 msgid ""
@@ -1191,6 +1293,9 @@ msgid ""
 "released. The User acknowledges that not all Self-hosting Subscription "
 "packages include updates and/or modifications to the Services."
 msgstr ""
+"本授權包含提供者未來對本服務所做之更新和/或修改，前提是服務係基於所選訂閱提供"
+"，且已全額支付該更新和/或修改發布期間之所有相關授權及其他費用。使用者確認並非"
+"所有自託管訂閱方案皆包含服務之更新和/或修改。"
 
 #: wllegal/templates/legal/documents/tos.html:311
 msgid ""
@@ -1204,12 +1309,15 @@ msgid ""
 "intact, and the User provides all recipients of such copies of the source "
 "code with a copy of the license along with the program."
 msgstr ""
+"使用者有權在 GPLv3（和/或 GPL 授權後續版本）之限制範圍內使用原始碼及處理受著"
+"作權保護之元素，包含但不限於製作副本。使用者僅得在每一副本均於顯著可見處包含"
+"對提供者之引用及無保證聲明之前提下散布該副本，並確保對本授權及任何附加條件之"
+"引用維持不變，且所有關於無保證之引用保持完整，同時使用者須隨程式提供本授權之"
+"副本予該原始碼副本之所有接收者。"
 
 #: wllegal/templates/legal/documents/tos.html:315
-#, fuzzy
-#| msgid "Payment error"
 msgid "Payment Terms"
-msgstr "支付發生錯誤"
+msgstr "付款條款"
 
 #: wllegal/templates/legal/documents/tos.html:319
 msgid ""
@@ -1217,6 +1325,8 @@ msgid ""
 "issuance of invoices and to receiving them via electronic means. Invoices "
 "will be issued with a due date of 14 calendar days."
 msgstr ""
+"發票將以電子方式開立。使用者同意發票之電子開立及透過電子方式接收。發票付款期"
+"限為 14 個日曆天。"
 
 #: wllegal/templates/legal/documents/tos.html:323
 msgid ""
@@ -1227,6 +1337,9 @@ msgid ""
 "any reason, the Provider will issue an invoice, and the User is obliged to "
 "pay such an invoice within the same deadlines."
 msgstr ""
+"帳單週期定義為一循環期間（日曆月/年）。款項將透過所選付款方式自動扣款，發票將"
+"於提供者收到款項後無不當遲延發送予使用者。若因任何原因無法自動扣款，提供者將"
+"開立發票，使用者有義務於相同期限內支付該發票。"
 
 #: wllegal/templates/legal/documents/tos.html:327
 msgid ""
@@ -1238,6 +1351,10 @@ msgid ""
 "a material breach of the Agreement, entitling the Provider to terminate the "
 "Agreement for the reason stated in Article 11 below."
 msgstr ""
+"若使用者遲延支付任何款項，提供者亦有權暫停或限制服務之提供，直至債務全額清償"
+"為止。於服務暫停或限制提供期間，使用者仍有義務依已送達之稅務憑證支付價格。使"
+"用者屢次遲延付款視為本協議之重大違約，提供者有權依下述第 11 條之事由終止本協"
+"議。"
 
 #: wllegal/templates/legal/documents/tos.html:331
 msgid ""
@@ -1251,6 +1368,10 @@ msgid ""
 "continuous and automatically renews until it is cancelled, or the User "
 "Account is terminated."
 msgstr ""
+"使用者於購買時同意本條款，即代表訂閱未來之自動續約。訂閱將於每一訂閱期間屆滿"
+"時，依購買時所選之訂閱期間自動續約。於每一帳單週期開始時，訂閱將依據更新後之"
+"價目表費率，和/或提供者於上一帳單週期結束前另行通知之費率收費。訂閱為連續性且"
+"自動續約，直至取消訂閱或使用者帳號終止為止。"
 
 #: wllegal/templates/legal/documents/tos.html:335
 msgid ""
@@ -1262,6 +1383,10 @@ msgid ""
 "conditions for the payment of the Fee are governed by the relevant "
 "contractual terms of ThePay."
 msgstr ""
+"使用者確認，若透過支付閘道支付訂閱費用，該閘道係由 <strong>ThePay, a.s.</"
+"strong> 提供（註冊地址：Masarykovo náměstí 102/65, 586 01 Jihlava，統一編號："
+"281 35 261，登記於布爾諾（Brno）地方法院商事登記處，B 節，案號 8977，下稱"
+"「<strong>ThePay</strong>」）。費用支付條件受 ThePay 之相關契約條款規範。"
 
 #: wllegal/templates/legal/documents/tos.html:339
 msgid ""
@@ -1269,10 +1394,12 @@ msgid ""
 "by the Provider, and the Provider is not responsible for the functionality "
 "of ThePay's payment gateway."
 msgstr ""
+"輸入支付閘道之付款卡資訊非由提供者處理，提供者對 ThePay 支付閘道之功能概不負"
+"責。"
 
 #: wllegal/templates/legal/documents/tos.html:343
 msgid "Provider's Rights and Obligations"
-msgstr ""
+msgstr "提供者之權利與義務"
 
 #: wllegal/templates/legal/documents/tos.html:347
 msgid ""
@@ -1298,6 +1425,17 @@ msgid ""
 "any case, the User may either accept the Change (implicitly through failure "
 "to object) or terminate the Agreement within the above period."
 msgstr ""
+"提供者有權對本服務或其範圍進行任何變更。在此情況下，提供者將透過與所提供服務"
+"相關之網頁介面通知使用者。若發生法律或監管架構、產業標準、提供者相關成本、市"
+"場慣例、影響相關市場之條件變更，或任何其他可能影響服務提供之變更，提供者得隨"
+"時修改、取消或增補本條款（稱「<strong>變更</strong>」），並於變更生效前至少 "
+"14 天，透過在網站上發布本條款修訂版，以及透過電子郵件和與所提供服務相關之介面"
+"通知使用者該變更。若使用者未於上述期間內對該變更作出回應，將視為使用者同意該"
+"變更。若變更係法律、法院命令所要求，或涉及新增服務、現有服務之額外功能，或任"
+"何其他未減損使用者權利或增加其義務之變更，則不適用通知規定。在此類情況下，變"
+"更將在未經事先通知使用者之情況下實施並立即生效。若使用者於上述期間內對本條款"
+"之變更提出異議，其有權終止本協議。無論如何，使用者得接受變更（透過未提出異議"
+"之默示方式）或於上述期間內終止本協議。"
 
 #: wllegal/templates/legal/documents/tos.html:351
 msgid ""
@@ -1305,6 +1443,8 @@ msgid ""
 "to ensure the functionality and availability of the Service. The User "
 "acknowledges and agrees that they use the Service at their own risk."
 msgstr ""
+"提供者承諾在其技術能力範圍內採取所有步驟，以確保本服務之功能性及可用性。使用"
+"者確認並同意使用本服務之風險由其自行承擔。"
 
 #: wllegal/templates/legal/documents/tos.html:355
 msgid ""
@@ -1313,6 +1453,8 @@ msgid ""
 "version. The Provider undertakes to fulfil these requirements and ensure the "
 "proper operation of the Service through its own actions."
 msgstr ""
+"本服務正常運作之基本系統需求包含伺服器環境及最新版本中定義之技術狀態。提供者"
+"承諾透過自身行為滿足該等需求並確保本服務之正常運作。"
 
 #: wllegal/templates/legal/documents/tos.html:359
 msgid ""
@@ -1325,6 +1467,10 @@ msgid ""
 "Provider bears no responsibility for any damages incurred by the User in "
 "connection with these events."
 msgstr ""
+"若使用者發現任何與本服務速度、功能性或可用性相關之問題，有義務立即向提供者回"
+"報。使用者確認，超出提供者控制範圍之事件，如使用者之網際網路連線故障、自然災"
+"害、對提供者技術設備之 DOS 或 DNS 攻擊及其他因素，可能會影響本服務之功能性或"
+"可用性。提供者對使用者因該等事件所生之任何損害不負責任。"
 
 #: wllegal/templates/legal/documents/tos.html:363
 msgid ""
@@ -1338,12 +1484,16 @@ msgid ""
 "the Service. In the case of planned outages, the Provider is obligated to "
 "inform the User in advance within a reasonable time."
 msgstr ""
+"使用者確認並同意，提供者得因重大事由暫時中止服務之提供，特別是在必要時（如預"
+"防網路攻擊），或發生需必要停機之嚴重服務故障時。提供者必須儘速通知使用者該中"
+"斷。提供者有義務實施適當之營運及安全措施，以將潛在故障或服務受限或完全無法使"
+"用之情形降至最低。若為計畫性停機，提供者有義務在合理時間內提前通知使用者。"
 
 #: wllegal/templates/legal/documents/tos.html:367
 msgid ""
 "The Provider agrees not to provide the content of the User's data to third "
 "parties."
-msgstr ""
+msgstr "提供者同意不將使用者之資料內容提供予第三方。"
 
 #: wllegal/templates/legal/documents/tos.html:371
 msgid ""
@@ -1351,6 +1501,8 @@ msgid ""
 "of the User's data. The User is solely responsible for the content of the "
 "data stored on their Server or the Provider's server."
 msgstr ""
+"締約雙方同意，提供者不取得使用者資料之所有權。使用者對儲存於其伺服器或提供者"
+"伺服器上之資料內容負完全責任。"
 
 #: wllegal/templates/legal/documents/tos.html:375
 msgid ""
@@ -1359,10 +1511,12 @@ msgid ""
 "the Service in accordance with the Agreement. The User undertakes to fully "
 "cooperate with the Provider in such cases."
 msgstr ""
+"一旦接受本條款，即代表使用者確認並同意提供者有權利用其自身資源監控使用者是否"
+"依據本協議使用本服務。在此情況下，使用者承諾完全配合提供者。"
 
 #: wllegal/templates/legal/documents/tos.html:380
 msgid "User’s Rights and Obligations"
-msgstr ""
+msgstr "使用者之權利與義務"
 
 #: wllegal/templates/legal/documents/tos.html:384
 msgid ""
@@ -1371,6 +1525,8 @@ msgid ""
 "modifications to the Service made by them are in compliance with applicable "
 "legal regulations."
 msgstr ""
+"使用者不得違反適用之法律規範使用本服務。使用者亦應負全責確保其對本服務所做之"
+"任何修改皆符合適用之法律規範。"
 
 #: wllegal/templates/legal/documents/tos.html:388
 msgid ""
@@ -1385,6 +1541,11 @@ msgid ""
 "expand the scope of required personal information but emphasizes the "
 "truthfulness, accuracy, and currency of the information provided by the User."
 msgstr ""
+"為取得本服務之存取權，提供者可能要求使用者提供特定識別詳情及其他資訊，且僅限"
+"於表單要求之範圍。我們大部分的使用者僅需提供暱稱；然而，若需開立發票，將要求"
+"提供額外之法律應備資訊。使用者有義務依法律要求，始終提供真實、準確且最新之資"
+"訊。對於僅提供暱稱之使用者，此不代表其需提供任何額外資訊。本條款並不擴大所需"
+"個人資訊之範圍，而在於強調使用者所提供資訊之真實性、準確性及時效性。"
 
 #: wllegal/templates/legal/documents/tos.html:392
 msgid ""
@@ -1394,13 +1555,15 @@ msgid ""
 "in cases where the Provider performs system outages for the reasons "
 "mentioned in Section 8.5."
 msgstr ""
+"應提供者要求，使用者有義務在解決故障或調整本服務時提供必要之配合，包含在提供"
+"者因第 8.5 條所述原因執行系統停機時，有義務容忍對服務使用之限制。"
 
 #: wllegal/templates/legal/documents/tos.html:396
 msgid ""
 "The Provider is entitled to implement security measures to protect the "
 "Service in accordance with this Agreement, and the User is required to "
 "comply with and respect these measures."
-msgstr ""
+msgstr "提供者有權依據本協議實施安全措施以保護本服務，使用者必須遵守並尊重該等措施。"
 
 #: wllegal/templates/legal/documents/tos.html:400
 msgid ""
@@ -1408,13 +1571,15 @@ msgid ""
 "terms specified in Section 6 of this Agreement, ensuring that they do not "
 "jeopardize the Service's functionality."
 msgstr ""
+"使用者有義務依據本協議第 6 條指定之授權條款使用本服務，確保其不危及本服務之功"
+"能性。"
 
 #: wllegal/templates/legal/documents/tos.html:404
 msgid ""
 "According to the Service variant listed in the Price List, the User has the "
 "right to request Support Services from the Provider, as specified in the "
 "Price List."
-msgstr ""
+msgstr "依據價目表所列之服務方案，使用者有權依價目表規定向提供者請求支援服務。"
 
 #: wllegal/templates/legal/documents/tos.html:408
 msgid ""
@@ -1424,6 +1589,9 @@ msgid ""
 "reasonable extent to minimize the risk of third parties misusing access "
 "credentials to the User's account."
 msgstr ""
+"使用者必須對本服務之存取憑證保密，且不得從事任何可能危及本服務安全之行為。使"
+"用者亦必須在合理範圍內保護其技術設備，以將第三方濫用使用者帳號存取憑證之風險"
+"降至最低。"
 
 #: wllegal/templates/legal/documents/tos.html:412
 msgid ""
@@ -1435,10 +1603,14 @@ msgid ""
 "be exposed to third parties due to a leak of access information, they are "
 "required to report this to the Provider."
 msgstr ""
+"若使用者違反本節指定之任何義務，提供者對使用者所生之任何損害概不負責，且使用"
+"者應單獨對提供者或第三方所生之任何損害負責。違反該等義務亦賦予提供者終止本協"
+"議之權利。若使用者因存取資訊外洩而知悉服務存取權可能暴露予第三方，必須向提供"
+"者回報。"
 
 #: wllegal/templates/legal/documents/tos.html:416
 msgid "Prohibited Conduct"
-msgstr ""
+msgstr "禁止行為"
 
 #: wllegal/templates/legal/documents/tos.html:420
 msgid ""
@@ -1452,48 +1624,53 @@ msgid ""
 "another User’s account or the Provider’s servers. Violation of these "
 "obligations constitutes a material breach of the Agreement."
 msgstr ""
+"使用者不得於服務入口網站上傳、發送或以其他方式儲存任何可能包含軟體病毒，或其"
+"他可能破壞、損害或限制提供者或其他使用者裝置功能之檔案及程式之內容。使用者亦"
+"未獲授權上傳持有或散布即屬違法、侵害第三方著作權、屬於犯罪活動一部分、透過本"
+"服務散布垃圾郵件，或試圖存取其他使用者帳號或提供者伺服器之內容至服務入口網站"
+"。違反該等義務構成對本協議之重大違約。"
 
 #: wllegal/templates/legal/documents/tos.html:424
 msgid ""
 "The User particularly agrees to refrain from the following activities while "
 "using the Services, especially through the Services:"
-msgstr ""
+msgstr "使用者特別同意在使用本服務時（特別是透過本服務）避免下列活動："
 
 #: wllegal/templates/legal/documents/tos.html:428
 msgid ""
 "Disseminating or offering any content that violates applicable laws at the "
 "national, EU, or international level;"
-msgstr ""
+msgstr "散布或提供任何違反國家、歐盟或國際層級適用法律之內容；"
 
 #: wllegal/templates/legal/documents/tos.html:432
 msgid ""
 "Disseminating or offering any illegally obtained content or content whose "
 "dissemination would be illegal;"
-msgstr ""
+msgstr "散布或提供任何非法取得之內容，或其散布屬違法之內容；"
 
 #: wllegal/templates/legal/documents/tos.html:436
 msgid ""
 "Disseminating or offering any pornographic, obscene, or otherwise vulgar "
 "content;"
-msgstr ""
+msgstr "散布或提供任何色情、猥褻或其他粗俗之內容；"
 
 #: wllegal/templates/legal/documents/tos.html:440
 msgid ""
 "Engaging in any services or activities that are contrary to applicable laws "
 "at the national, EU, or international level;"
-msgstr ""
+msgstr "從事任何違反國家、歐盟或國際層級適用法律之服務或活動；"
 
 #: wllegal/templates/legal/documents/tos.html:444
 msgid ""
 "Engaging in activities that bypass intellectual property protection elements "
 "(such as cracks, warez, etc.);"
-msgstr ""
+msgstr "從事規避智慧財產權保護元件之活動（如破解檔、非法軟體等）；"
 
 #: wllegal/templates/legal/documents/tos.html:448
 msgid ""
 "Sending unsolicited commercial messages and other spam or other illegal "
 "harassment of third parties;"
-msgstr ""
+msgstr "發送未經請求之商業訊息及其他垃圾郵件，或對第三方進行其他非法騷擾；"
 
 #: wllegal/templates/legal/documents/tos.html:452
 msgid ""
@@ -1502,81 +1679,87 @@ msgid ""
 "impolite, or otherwise inappropriate content that unlawfully or illegally "
 "infringes on the personal rights of third parties;"
 msgstr ""
+"發布或散布任何可能侵害第三方權利之內容（包含對該等人士之攻擊），或任何違法或"
+"非法侵害第三方人格權之冒犯性、無禮或其他不當內容；"
 
 #: wllegal/templates/legal/documents/tos.html:456
 msgid ""
 "Disseminating or offering any content that infringes on third-party "
 "intellectual or industrial property rights;"
-msgstr ""
+msgstr "散布或提供任何侵害第三方智慧或工業財產權之內容；"
 
 #: wllegal/templates/legal/documents/tos.html:460
 msgid ""
 "Operating or disseminating any tools that may be misused to breach network, "
 "device, or service security;"
-msgstr ""
+msgstr "操作或散布任何可能被濫用於破壞網路、裝置或服務安全之工具；"
 
 #: wllegal/templates/legal/documents/tos.html:464
 msgid "Overburdening the Provider's or third-party servers;"
-msgstr ""
+msgstr "使提供者或第三方之伺服器負載過重；"
 
 #: wllegal/templates/legal/documents/tos.html:468
 msgid ""
 "Engaging in any activities that could harm the Provider, its reputation, or "
 "its assets;"
-msgstr ""
+msgstr "從事任何可能損害提供者、其商譽或其資產之活動；"
 
 #: wllegal/templates/legal/documents/tos.html:472
 msgid ""
 "Using any means, servers, devices, or elements provided by the Provider in a "
 "manner not expressly agreed upon in these Terms or the Agreement;"
 msgstr ""
+"以未經本條款或本協議明示同意之方式，使用提供者提供之任何手段、伺服器、裝置或"
+"元件；"
 
 #: wllegal/templates/legal/documents/tos.html:476
 msgid ""
 "Conducting activities that would disclose any content to third parties that:"
-msgstr ""
+msgstr "進行將向第三方揭露下列內容之活動："
 
 #: wllegal/templates/legal/documents/tos.html:480
 msgid "Contains prohibited applications and scripts;"
-msgstr ""
+msgstr "包含受禁止之應用程式及指令碼；"
 
 #: wllegal/templates/legal/documents/tos.html:484
 msgid "Overloads database systems or causes malfunction of servers;"
-msgstr ""
+msgstr "使資料庫系統過載或導致伺服器故障；"
 
 #: wllegal/templates/legal/documents/tos.html:488
 msgid ""
 "Overburdens the infrastructure, connection lines, or hardware of the "
 "Provider or third parties;"
-msgstr ""
+msgstr "使提供者或第三方之基礎設施、連線線路或硬體負載過重；"
 
 #: wllegal/templates/legal/documents/tos.html:492
 msgid ""
 "Involves music, sound, image, film, or similar files for which the User "
 "lacks distribution rights;"
-msgstr ""
+msgstr "涉及使用者無散布權之音樂、聲音、影像、電影或類似檔案；"
 
 #: wllegal/templates/legal/documents/tos.html:496
 msgid ""
 "Threatens the privacy or security of other Internet users or the security of "
 "computer systems (e.g., through viruses, password generators, etc.);"
 msgstr ""
+"威脅其他網際網路使用者之隱私或安全，或電腦系統之安全（例如透過病毒、密碼產生"
+"器等）；"
 
 #: wllegal/templates/legal/documents/tos.html:500
 msgid ""
 "Is part of the provided Service without written permission from the Provider "
 "to share it with third parties;"
-msgstr ""
+msgstr "屬於所提供服務之一部分，且未經提供者書面許可分享予第三方；"
 
 #: wllegal/templates/legal/documents/tos.html:504
 msgid ""
 "Gives the impression that the User acts on behalf of the Provider without "
 "authorization;"
-msgstr ""
+msgstr "未經授權而造成使用者係代表提供者行事之印象；"
 
 #: wllegal/templates/legal/documents/tos.html:508
 msgid "May harm any third-party rights."
-msgstr ""
+msgstr "可能損害任何第三方權利。"
 
 #: wllegal/templates/legal/documents/tos.html:512
 msgid ""
@@ -1586,6 +1769,9 @@ msgid ""
 "public morality, ethical principles, or Internet usage rules, or is aiding "
 "in or committing criminal activities."
 msgstr ""
+"若提供者合理認為使用者違反本條款、本協議，或以違反適用法律、公共道德、倫理原"
+"則或網際網路使用規則之方式使用本服務，或正在協助或實施犯罪活動，提供者得不經"
+"事先通知，中斷、限制或暫停服務之提供。"
 
 #: wllegal/templates/legal/documents/tos.html:516
 msgid ""
@@ -1595,6 +1781,9 @@ msgid ""
 "invoicing) or excessive usage, particularly through automated software and "
 "bots that overload the Provider’s servers or other technical facilities."
 msgstr ""
+"若本服務被濫用於未經授權干擾提供者權利（例如冒充、詐欺性發票），或過度使用（"
+"特別是透過使提供者伺服器或其他技術設施過載之自動化軟體及機器人），提供者亦得"
+"不經事先通知，中斷、限制或暫停服務之提供。"
 
 #: wllegal/templates/legal/documents/tos.html:520
 msgid ""
@@ -1603,6 +1792,8 @@ msgid ""
 "responsible for any damages resulting from the interruption and cannot claim "
 "any compensation from the Provider for such damages."
 msgstr ""
+"使用者明示同意，若提供者有正當理由中斷、限制或暫停服務，使用者應自行承擔因該"
+"中斷所生之任何損害，且不得向提供者請求任何賠償。"
 
 #: wllegal/templates/legal/documents/tos.html:524
 msgid ""
@@ -1612,6 +1803,9 @@ msgid ""
 "or ensuring the installation and execution of tools and scripts on the "
 "virtual server that verify and check the software resources used."
 msgstr ""
+"為驗證所使用之軟體解決方案，或稽核指派軟體資源及透過本服務上傳內容之授權狀況"
+"，使用者同意提供提供者完全之配合。此包含啟用或確保在虛擬伺服器上安裝及執行驗"
+"證與檢查所用軟體資源之工具及指令碼。"
 
 #: wllegal/templates/legal/documents/tos.html:528
 msgid ""
@@ -1625,10 +1819,14 @@ msgid ""
 "does not affect the Provider’s right to claim damages in addition to the "
 "penalty."
 msgstr ""
+"使用者明示同意對提供者、其客戶、合作夥伴或第三方造成之任何損害負責。此責任特"
+"別包含違反本條款第 10 條規定之任何法律行動之後果。使用者亦同意提供者得調整服"
+"務設定以防止濫用。若使用者違約，未使用的服務期間將不予退款，並自動視為一次性"
+"違約金。此違約金不影響提供者除違約金外請求損害賠償之權利。"
 
 #: wllegal/templates/legal/documents/tos.html:533
 msgid "Termination of the Agreement"
-msgstr ""
+msgstr "協議之終止"
 
 #: wllegal/templates/legal/documents/tos.html:537
 msgid ""
@@ -1637,6 +1835,8 @@ msgid ""
 "(either the Provider or the User) with liquidation, termination of the "
 "Agreement, or by mutual agreement of the Parties."
 msgstr ""
+"契約關係得因解除協議、約定期限屆滿、法人（提供者或使用者）解散清算、終止協議"
+"或雙方合意而終止。"
 
 #: wllegal/templates/legal/documents/tos.html:541
 msgid ""
@@ -1644,12 +1844,14 @@ msgid ""
 "reason. The notice period is three months, starting from the first day of "
 "the calendar month following the delivery of the notice to the User."
 msgstr ""
+"提供者得隨時終止本協議且無須附理由。通知期間為三個月，自送達通知予使用者之次"
+"月一日起算。"
 
 #: wllegal/templates/legal/documents/tos.html:545
 msgid ""
 "The User may terminate the Agreement under the conditions specified in "
 "Section 8.1 of these Terms."
-msgstr ""
+msgstr "使用者得依本條款第 8.1 條指定之條件終止本協議。"
 
 #: wllegal/templates/legal/documents/tos.html:549
 msgid ""
@@ -1659,6 +1861,8 @@ msgid ""
 "Agreement. The withdrawal becomes effective the day after the User receives "
 "the notice of withdrawal."
 msgstr ""
+"若使用者重大或屢次違反其於本條款或本協議下之義務，且未於收受違約通知後 14 日"
+"內補正該違約，提供者得解除本協議。解除於使用者收到解除通知之次日生效。"
 
 #: wllegal/templates/legal/documents/tos.html:553
 msgid ""
@@ -1667,6 +1871,8 @@ msgid ""
 "withdraw from the Agreement and terminate the provision of the Service as "
 "soon as such a breach is discovered."
 msgstr ""
+"若使用者以情節特別重大之方式違反其於本條款或本協議下之義務，提供者有權於發現"
+"該違約時立即解除本協議並終止服務之提供。"
 
 #: wllegal/templates/legal/documents/tos.html:557
 msgid ""
@@ -1674,6 +1880,8 @@ msgid ""
 "in a particularly serious manner, the User is entitled to immediately "
 "withdraw from the Agreement as soon as such a breach is discovered."
 msgstr ""
+"若提供者以情節特別重大之方式違反其於本條款或本協議下之義務，使用者有權於發現"
+"該違約時立即解除本協議。"
 
 #: wllegal/templates/legal/documents/tos.html:561
 msgid ""
@@ -1683,10 +1891,13 @@ msgid ""
 "including the provisions of Sections 1912 (2), 1923, 1969, 1977, 1978, 1979, "
 "2001, 2002, 2003, 2106, 2107, 2110, and 2111 of the Czech Civil Code."
 msgstr ""
+"除本節明文規定之情況外，任一方均不得終止或以其他方式結束本協議。雙方在最大可"
+"能範圍內，排除任一方終止本協議之權利，包含捷克民法典第 1912 (2)、1923、1969、"
+"1977、1978、1979、2001、2002、2003、2106、2107、2110 及 2111 條之規定。"
 
 #: wllegal/templates/legal/documents/tos.html:565
 msgid "Limitation of Liability"
-msgstr ""
+msgstr "責任限制"
 
 #: wllegal/templates/legal/documents/tos.html:569
 msgid ""
@@ -1697,10 +1908,14 @@ msgid ""
 "other intangible losses (even if the Provider has been advised of the "
 "possibility of such damages), resulting from:"
 msgstr ""
+"對於因提供本服務所生之任何間接損害，如利潤損失、營收損失、資料遺失、財務損害"
+"，或任何間接、特殊或衍生性損害，包含懲戒性或懲罰性損害賠償，例如但不限於其他"
+"無形損失之損害賠償（即使提供者已被告知該等損害之可能性），提供者概不負責。上"
+"述損害係指源自於："
 
 #: wllegal/templates/legal/documents/tos.html:574
 msgid "Use or inability to use the Service;"
-msgstr ""
+msgstr "使用或無法使用本服務；"
 
 #: wllegal/templates/legal/documents/tos.html:577
 msgid ""
@@ -1708,6 +1923,8 @@ msgid ""
 "data, information, or services purchased or obtained or messages received, "
 "or transactions entered into through or from the Service;"
 msgstr ""
+"因透過或源自本服務購買或取得之任何商品、資料、資訊或服務，或接收之訊息或進行"
+"之交易，而衍生取得替代商品及服務之成本；"
 
 #: wllegal/templates/legal/documents/tos.html:580
 msgid ""
@@ -1715,12 +1932,12 @@ msgid ""
 "including any outcomes of third-party solutions or services related to the "
 "Service;"
 msgstr ""
+"參與提供本服務之任何第三方之聲明或行為，包含與本服務相關之第三方解決方案或服"
+"務之任何結果；"
 
 #: wllegal/templates/legal/documents/tos.html:583
-#, fuzzy
-#| msgid "means translation project operated on the Service"
 msgid "Any other matters related to the Service."
-msgstr "指在本「服務」上作業的翻譯專案"
+msgstr "與本服務相關之任何其他事項。"
 
 #: wllegal/templates/legal/documents/tos.html:588
 msgid ""
@@ -1732,6 +1949,9 @@ msgid ""
 "war, or changes in the political situation that prevent or unduly hinder the "
 "exercise of rights and obligations arising from this Agreement."
 msgstr ""
+"如遇不可抗力，雙方有權暫時中止其契約義務，任何未履行或遲延履行本協議所課予義"
+"務之情事，均不被視為違約。不可抗力包含依據捷克法律排除責任之情況，如自然災害"
+"、戰爭或政治局勢變更，致使無法或過度阻礙行使源自本協議之權利與義務。"
 
 #: wllegal/templates/legal/documents/tos.html:592
 msgid ""
@@ -1742,6 +1962,9 @@ msgid ""
 "back up all of their data stored within the Service at another geographical "
 "location(s)."
 msgstr ""
+"透過締結本協議，使用者確認儘管提供者盡最大努力，本服務仍可能因超出提供者控制"
+"之情況（例如網際網路連線中斷）而暫時無法使用。因此，使用者同意並承諾將儲存於"
+"本服務內之所有資料備份於其他地理位置。"
 
 #: wllegal/templates/legal/documents/tos.html:596
 msgid ""
@@ -1750,12 +1973,13 @@ msgid ""
 "cancel their order or to request a refund of any fees paid, unless otherwise "
 "expressly agreed between the Parties in individual cases."
 msgstr ""
+"使用者依「現狀」使用本服務。除非雙方於個別案件中另有明示協議，否則與其他軟體"
+"、硬體配置之不相容，或任何瑕疵或故障，均不賦予使用者取消訂單或請求退還任何已"
+"付費用之權利。"
 
 #: wllegal/templates/legal/documents/tos.html:600
-#, fuzzy
-#| msgid "The Personal Data retention"
 msgid "Personal Data Protection"
-msgstr "「個人資料」留存"
+msgstr "個人資料保護"
 
 #: wllegal/templates/legal/documents/tos.html:604
 #, python-format
@@ -1767,13 +1991,16 @@ msgid ""
 "communications as defined in the <a href=\"%(privacy_url)s\">Privacy Policy</"
 "a>."
 msgstr ""
+"提供者蒐集使用者資料之目的，僅限於提供本服務、提升其品質、履行法律義務，以及"
+"在特定情況下為提供者之正當利益（例如維護伺服器安全與完整性），或為發送<a "
+"href=\"%(privacy_url)s\">隱私權政策</a>中定義之選用商業通訊。"
 
 #: wllegal/templates/legal/documents/tos.html:608
 msgid ""
 "All communication within the Service is encrypted using the SSL protocol. "
 "The User declares that they consider this encryption method sufficiently "
 "secure."
-msgstr ""
+msgstr "本服務內之所有通訊均採用 SSL 協定加密。使用者聲明其認為此加密方式已足夠安全。"
 
 #: wllegal/templates/legal/documents/tos.html:612
 #, python-format
@@ -1784,6 +2011,9 @@ msgid ""
 "defined in this Agreement and the <a href=\"%(privacy_url)s\">Privacy "
 "Policy</a>."
 msgstr ""
+"提供者承諾，除本協議及<a href=\"%(privacy_url)s\">隱私權政策</a>定義之目的外"
+"，不將使用者於註冊使用者帳號時提交之任何資訊或使用者提供之任何其他個人資料，"
+"提供予任何第三方。"
 
 #: wllegal/templates/legal/documents/tos.html:616
 msgid ""
@@ -1793,25 +2023,28 @@ msgid ""
 "technical cookies, for which explicit consent is not required under current "
 "legislation."
 msgstr ""
+"提供者之網站及網頁應用程式亦使用 Cookie。本服務僅使用來自提供者之工作階段 "
+"Cookie，絕不使用第三方 Cookie。就功能及類型而言，提供者僅使用功能性/技術性 "
+"Cookie，依現行法規無需明確同意。"
 
 #: wllegal/templates/legal/documents/tos.html:624
 msgid ""
 "The Parties commit to maintaining the confidentiality of all information "
 "learned during the contractual relationship established by this Agreement."
-msgstr ""
+msgstr "雙方承諾對本協議建立之契約關係期間所知悉之所有資訊保密。"
 
 #: wllegal/templates/legal/documents/tos.html:628
 msgid ""
 "The User’s rights arising from the Agreement and these Terms cannot be "
 "assigned without the prior written consent of the Provider."
-msgstr ""
+msgstr "未經提供者事前書面同意，使用者不得轉讓源自本協議及本條款之權利。"
 
 #: wllegal/templates/legal/documents/tos.html:632
 msgid ""
 "For the avoidance of doubt, the Parties explicitly confirm that they are "
 "business entities and that they are entering into this Agreement within the "
 "scope of their business activities."
-msgstr ""
+msgstr "為免疑義，雙方明確確認其為商業實體，且係在其商業活動範圍內締結本協議。"
 
 #: wllegal/templates/legal/documents/tos.html:636
 msgid ""
@@ -1822,6 +2055,10 @@ msgid ""
 "effort to amend the Agreement by replacing the invalid, unenforceable, or "
 "ineffective provision with a new one that reflects the original intent."
 msgstr ""
+"若本協議或本條款之任何條款無效、不生效力或無法執行，或嗣後變為無效、不生效力"
+"或無法執行，不影響本協議或本條款其餘條款之效力、執行力或有效性。在此情況下，"
+"雙方應盡最大努力修訂本協議，以反映原始意圖之新條款取代該無效、無法執行或不生"
+"效力之條款。"
 
 #: wllegal/templates/legal/documents/tos.html:640
 msgid ""
@@ -1841,6 +2078,16 @@ msgid ""
 "Parties. The Parties irrevocably agree not to contest the enforcement of the "
 "arbitration award in any jurisdiction."
 msgstr ""
+"本條款受歐盟成員國捷克共和國法律管轄。然而，雙方在最大可能範圍內排除捷克民法"
+"典第 1764、1765、1793 至 1795、2050、2389a 至 2389f、2389t 及 2389u 條之規定"
+"。任何因本協議履行或解釋所生且雙方無法友好解決之爭議，應提交捷克共和國經濟商"
+"會及捷克共和國農業商會仲裁法院（Arbitration Court of the Economic Chamber of "
+"the Czech Republic and the Agricultural Chamber of the Czech Republic），由依"
+"據該仲裁法院規則指派之三名仲裁人進行仲裁，以獲得最終解決。每一方指派一名仲裁"
+"人，該兩名仲裁人應於 30 日內協議選定第三名仲裁人。若該兩名仲裁人未於上述期間"
+"內就第三名仲裁人達成合意，將由仲裁法院主席指派第三名仲裁人。仲裁裁決為終局且"
+"對雙方具拘束力。雙方不可撤銷地同意，不在任何司法管轄區對仲裁裁決之執行提出異"
+"議。"
 
 #: wllegal/templates/legal/documents/tos.html:644
 msgid ""
@@ -1851,13 +2098,13 @@ msgid ""
 "the English version and any translated version, the English version shall "
 "prevail in all matters."
 msgstr ""
+"本條款之官方版本以英文撰寫，並視為唯一具拘束力之版本。任何翻譯成其他語言之本"
+"條款版本僅供使用者方便參考，不具法律效力。若英文版本與任何翻譯版本間有任何歧"
+"異或衝突，概以英文版本為準。"
 
 #: wllegal/templates/legal/documents/tos.html:648
-#, fuzzy
-#| msgid ""
-#| "These Terms of Service shall come into force and effect on 15th May 2023."
 msgid "These Terms enter into force on November 1, 2024."
-msgstr "這些「服務條款」應在2023 年 3 月 15 日實施並生效。"
+msgstr "本條款自 2024 年 11 月 1 日起生效。"
 
 #~ msgid ""
 #~ "Your translations are made under the license which is specified by each "
