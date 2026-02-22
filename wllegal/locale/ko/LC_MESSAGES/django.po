@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2026-01-11 14:01+0000\n"
-"Last-Translator: 이정희 <daemul72@gmail.com>\n"
+"PO-Revision-Date: 2026-02-22 09:56+0000\n"
+"Last-Translator: PICOPress <picopress@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/weblate/legal/ko/>"
 "\n"
 "Language: ko\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -188,7 +188,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:96
 msgid "email address(es),"
-msgstr "전자우편 주소,"
+msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -241,8 +241,6 @@ msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
-"위에 나열된 개인 정보의 각각의 범주는 계속해서 통칭하여 \"<strong>개인 정보</"
-"strong>\"로 지칭됩니다."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -850,7 +848,7 @@ msgstr "서비스"
 #: wllegal/templates/legal/documents/tos.html:131
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
-msgstr "는 공급자가 제공하는 Weblate 기반 웹사이트 및 서비스를 의미합니다;"
+msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid "Self-hosting"
@@ -875,11 +873,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:149
 msgid "Translation Memory"
-msgstr "번역 메모리"
+msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:152
 msgid "means an optional translation memory service provided on Weblate;"
-msgstr "는 Weblate에서 제공되는 선택적 번역 메모리 서비스를 의미합니다;"
+msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:156
 msgid "User"
@@ -889,7 +887,7 @@ msgstr "사용자"
 msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
-msgstr "는 서비스를 이용하는 제공자 이외의 법인 또는 자연인을 의미합니다;"
+msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:163
 msgid "User Account"
@@ -925,7 +923,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:191
 msgid "The Agreement is concluded:"
-msgstr "본 계약이 체결되었습니다:"
+msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:196
 msgid ""
@@ -1023,7 +1021,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:249
 msgid "regular price for Translation Memory;"
-msgstr "번역 메모리 표준 가격;"
+msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:254
 msgid ""
@@ -1679,7 +1677,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:583
 msgid "Any other matters related to the Service."
-msgstr "서비스로 운영되는 기타 모든 번역 프로젝트."
+msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:588
 msgid ""
