@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2026-02-25 21:09+0000\n"
+"PO-Revision-Date: 2026-02-28 23:09+0000\n"
 "Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "weblate/legal/en_GB/>\n"
@@ -712,16 +712,12 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:11
-#, fuzzy
-#| msgid ""
-#| "Your name and e-mail address is used in VCS commits, it will stay there "
-#| "indefinitely."
 msgid ""
 "Your name and e-mail can be used in version control system commits to author "
 "the changes you made; they can be stored there indefinitely."
 msgstr ""
-"Your name and e-mail address is used in VCS commits, it will stay there "
-"indefinitely."
+"Your name and e-mail can be used in version control system commits to author "
+"the changes you made; they can be stored there indefinitely."
 
 #: wllegal/templates/legal/documents/summary.html:12
 #, fuzzy
@@ -790,10 +786,8 @@ msgid "Civil Code"
 msgstr "Civil Code"
 
 #: wllegal/templates/legal/documents/tos.html:33
-#, fuzzy
-#| msgid "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
-msgstr "means Act No. %(law_89_2012)s Coll., the Civil Code, as amended"
+msgstr "means Act No. 89/2012 Coll., Civil Code, as amended;"
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
@@ -831,16 +825,12 @@ msgid "GDPR"
 msgstr "GDPR"
 
 #: wllegal/templates/legal/documents/tos.html:61
-#, fuzzy
-#| msgid ""
-#| "means EU Regulation No. %(law_679_2016)s, the General Data Protection "
-#| "Regulation"
 msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
 msgstr ""
-"means EU Regulation No. %(law_679_2016)s, the General Data Protection "
-"Regulation"
+"means EU Regulation No. 679/2016, General Regulation on Personal Data "
+"Protection;"
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
@@ -857,18 +847,12 @@ msgid "Hosted String"
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:75
-#, fuzzy
-#| msgid ""
-#| "The pricing is based on number of source strings and number of target "
-#| "languages. The source string is a text unit defined in a translation "
-#| "format, it can be word, sentence or a paragraph."
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph. It is counted separately for each language;"
 msgstr ""
-"The pricing is based on number of source strings and number of target "
-"languages. The source string is a text unit defined in a translation format, "
-"it can be word, sentence or a paragraph."
+"means a text unit defined in the translation format. It can be a word, "
+"sentence, or paragraph. It is counted separately for each language;"
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
@@ -886,32 +870,24 @@ msgid "License"
 msgstr "License"
 
 #: wllegal/templates/legal/documents/tos.html:89
-#, fuzzy
-#| msgid ""
-#| "means non-exclusive license granted by the Provider to the User for use "
-#| "of the Service"
 msgid ""
 "means the non-exclusive license granted by the Provider to the User for the "
 "use of the Service;"
 msgstr ""
-"means non-exclusive license granted by the Provider to the User for use of "
-"the Service"
+"means the non-exclusive licence granted by the Provider to the User for the "
+"use of the Service;"
 
 #: wllegal/templates/legal/documents/tos.html:93
 msgid "Personal Data"
 msgstr "Personal Data"
 
 #: wllegal/templates/legal/documents/tos.html:96
-#, fuzzy
-#| msgid ""
-#| "means personal data within the meaning of EU Regulation No. %"
-#| "(law_679_2016)s inserted by the User into the Service and/or Cookies"
 msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"means personal data within the meaning of EU Regulation No. %(law_679_2016)s "
-"inserted by the User into the Service and/or Cookies"
+"means personal data as defined in EU Regulation No. 679/2016, entered by the "
+"user into the Service and/or Cookies;"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
@@ -962,13 +938,10 @@ msgid "Service"
 msgstr "Service"
 
 #: wllegal/templates/legal/documents/tos.html:131
-#, fuzzy
-#| msgid ""
-#| "means the website and services based on Weblate operated by the Provider"
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
 msgstr ""
-"means the website and services based on Weblate operated by the Provider"
+"means the websites and services based on Weblate provided by the Provider;"
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid "Self-hosting"
@@ -998,27 +971,20 @@ msgid "Translation Memory"
 msgstr "Translation memory"
 
 #: wllegal/templates/legal/documents/tos.html:152
-#, fuzzy
-#| msgid ""
-#| "means the optional translation memory service provided within Weblate"
 msgid "means an optional translation memory service provided on Weblate;"
-msgstr "means the optional translation memory service provided within Weblate"
+msgstr "means an optional translation memory service provided on Weblate;"
 
 #: wllegal/templates/legal/documents/tos.html:156
 msgid "User"
 msgstr "User"
 
 #: wllegal/templates/legal/documents/tos.html:159
-#, fuzzy
-#| msgid ""
-#| "means any legal entity or an individual other than the Provider, who is "
-#| "using the Service"
 msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
 msgstr ""
-"means any legal entity or an individual other than the Provider, who is "
-"using the Service"
+"means any legal entity or natural person other than the Provider that "
+"utilises the Service;"
 
 #: wllegal/templates/legal/documents/tos.html:163
 msgid "User Account"
@@ -1053,10 +1019,8 @@ msgid "These GTC are an integral part of the Agreement."
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:191
-#, fuzzy
-#| msgid "License Agreement Conclusion"
 msgid "The Agreement is concluded:"
-msgstr "Licence Agreement Conclusion"
+msgstr "The Agreement is concluded:"
 
 #: wllegal/templates/legal/documents/tos.html:196
 msgid ""
@@ -1155,10 +1119,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:249
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "Translation memory"
+msgstr "regular price for Translation Memory;"
 
 #: wllegal/templates/legal/documents/tos.html:254
 msgid ""
@@ -1306,10 +1268,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:315
-#, fuzzy
-#| msgid "Failed to process form!"
 msgid "Payment Terms"
-msgstr "Failed to process form!"
+msgstr "Payment Terms"
 
 #: wllegal/templates/legal/documents/tos.html:319
 msgid ""
@@ -1817,10 +1777,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:583
-#, fuzzy
-#| msgid "means translation project operated on the Service"
 msgid "Any other matters related to the Service."
-msgstr "means translation project operated on the Service"
+msgstr "Any other matters related to the Service."
 
 #: wllegal/templates/legal/documents/tos.html:588
 msgid ""
