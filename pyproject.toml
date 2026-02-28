@@ -52,7 +52,7 @@ dev = [
   "wllegal[lint,test]"
 ]
 lint = [
-  "prek==0.3.3"
+  "prek==0.3.4"
 ]
 test = [
   "wllegal[weblate]",
