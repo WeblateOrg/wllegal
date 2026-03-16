@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2025-11-21 14:52+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-03-17 15:36+0000\n"
+"Last-Translator: Мария Рангелова <rangelova1186@gmail.com>\n"
 "Language-Team: Bulgarian <https://hosted.weblate.org/projects/weblate/legal/"
 "bg/>\n"
 "Language: bg\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -726,18 +726,12 @@ msgid "Hosted String"
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:75
-#, fuzzy
-#| msgid ""
-#| "The pricing is based on number of source strings and number of target "
-#| "languages. The source string is a text unit defined in a translation "
-#| "format, it can be word, sentence or a paragraph."
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph. It is counted separately for each language;"
 msgstr ""
-"Цената се определя от броя на оригиналните текстове и броя на целевите "
-"езици. Един оригинален текст е една текстова единица, както е описана във "
-"формата за превод. Това може да бъде дума, изречение или цял абзац."
+"означава текстова единица, дефинирана във формата на превод. Тя може да бъде "
+"дума, изречение или абзац. Брои се отделно за всеки език;"
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
@@ -997,10 +991,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:249
-#, fuzzy
-#| msgid "Translation Memory"
 msgid "regular price for Translation Memory;"
-msgstr "Памет за преводи"
+msgstr "редовна цена за преводна памет;"
 
 #: wllegal/templates/legal/documents/tos.html:254
 msgid ""
