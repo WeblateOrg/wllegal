@@ -49,7 +49,7 @@ msgid ""
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
 "Ši Privatumo politika, toliau – <strong>Politika</strong>, papildo „Weblate“ "
-"<a href=\"„%(terms_url)s“\">Bendrąsias sąlygas </a>, toliau – "
+"<a href=\"%(terms_url)s\">Bendrąsias sąlygas </a>, toliau – "
 "<strong>Sąlygos</strong>."
 
 #: wllegal/templates/legal/documents/privacy.html:17
