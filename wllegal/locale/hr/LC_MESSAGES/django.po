@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
-"Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
-"POT-Creation-Date: 2025-11-20 14:42+0000\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-28 13:30-0500\n"
 "PO-Revision-Date: 2026-01-01 15:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/weblate/legal/"
@@ -217,7 +217,8 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
-msgstr "broj bankovnog računa i eventualno druge korisničke podatke o plaćanju,"
+msgstr ""
+"broj bankovnog računa i eventualno druge korisničke podatke o plaćanju,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
