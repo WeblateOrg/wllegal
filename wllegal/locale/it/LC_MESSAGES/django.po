@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/wllegal/issues\n"
 "POT-Creation-Date: 2025-11-20 14:42+0000\n"
-"PO-Revision-Date: 2026-03-28 01:09+0000\n"
+"PO-Revision-Date: 2026-03-28 18:30+0000\n"
 "Last-Translator: tfr tint <tfrtint@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/weblate/legal/"
 "it/>\n"
@@ -696,6 +696,8 @@ msgid ""
 "temporary freezing of data processing operations for the purposes of the "
 "legitimate interest of the Provider;"
 msgstr ""
+"congelamento temporaneo delle operazioni di trattamento dei dati per "
+"finalità di legittimo interesse del Fornitore;"
 
 #: wllegal/templates/legal/documents/privacy.html:267
 #, python-format
@@ -705,11 +707,16 @@ msgid ""
 "authority if the User believes that the Provider is processing personal data "
 "in violation of this Policy or legal regulations."
 msgstr ""
+"presentare un reclamo direttamente all'Ufficio per la protezione dei dati "
+"personali (<a href=\"%(url)s\">%(url)s</a>) o ad un'altra autorità nazionale "
+"competente per la protezione dei dati se l'Utente ritiene che il Fornitore "
+"stia trattando i dati personali in violazione della presente Politica o "
+"delle norme legali."
 
 #: wllegal/templates/legal/documents/privacy.html:272
 #: wllegal/templates/legal/documents/tos.html:620
 msgid "Final Provisions"
-msgstr ""
+msgstr "Previsioni finali"
 
 #: wllegal/templates/legal/documents/privacy.html:276
 msgid ""
@@ -720,6 +727,12 @@ msgid ""
 "Policy displayed within the Service, or upon the next first login to their "
 "User Account."
 msgstr ""
+"Il Fornitore ha il diritto di modificare unilateralmente la Politica. La "
+"nuova formulazione della Policy diventa efficace dal momento della "
+"pubblicazione sul Sito. L'Utente, che ha con il Fornitore un rapporto "
+"contrattuale regolato dalla presente Policy al momento della modifica, "
+"riceverà una notifica della modifica della Policy visualizzata all'interno "
+"del Servizio, o al successivo primo accesso al proprio Account Utente."
 
 #: wllegal/templates/legal/documents/privacy.html:280
 msgid ""
@@ -785,16 +798,13 @@ msgstr ""
 "essere conservati lì a tempo indeterminato."
 
 #: wllegal/templates/legal/documents/summary.html:12
-#, fuzzy
-#| msgid ""
-#| "Chosen name is up to you and the e-mail address used for commits can be "
-#| "masked by Weblate system to protect your privacy."
 msgid ""
 "Name choice is yours, and the e-mail address used for commits can be masked "
 "by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
 "Il nome scelto dipende da te e per proteggere la tua privacy l'indirizzo e-"
-"mail usato per i commit può essere mascherato dal sistema Weblate."
+"mail usato per i commit può essere mascherato dal sistema Weblate. Puoi "
+"abilitarlo nel tuo profilo."
 
 #: wllegal/templates/legal/documents/summary.html:15
 msgid ""
@@ -919,16 +929,13 @@ msgid "Hosted String"
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:75
-#, fuzzy
-#| msgid ""
-#| "means a text unit defined in the translation format. It can be a word, "
-#| "sentence, or paragraph;"
 msgid ""
 "means a text unit defined in the translation format. It can be a word, "
 "sentence, or paragraph. It is counted separately for each language;"
 msgstr ""
-"indica un'unità di testo definita nel formato di traduzione. Può essere una "
-"parola, una frase o un paragrafo;"
+"indica un'unità testuale definita nel formato di traduzione. Può essere una "
+"parola, una frase o un paragrafo. Viene conteggiato separatamente per "
+"ciascuna lingua;"
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
@@ -961,15 +968,11 @@ msgid "Personal Data"
 msgstr "Dati Personali"
 
 #: wllegal/templates/legal/documents/tos.html:96
-#, fuzzy
-#| msgid ""
-#| "means personal data as defined in EU Regulation 679/2016, entered by the "
-#| "user into the Service and/or Cookies;"
 msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"indica i Dati Personali come definiti nel Regolamento UE 679/2016, inseriti "
+"indica i dati personali come definiti nel Regolamento UE 679/2016, inseriti "
 "dall'utente nel servizio e/o nei cookie;"
 
 #: wllegal/templates/legal/documents/tos.html:100
