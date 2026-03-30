@@ -61,7 +61,7 @@ test = [
 ]
 weblate = [
   "Weblate[postgres]>=5.0",
-  "django-otp<1.7.0; python_version < '3.12'"
+  "django-otp<1.7.1; python_version < '3.12'"
 ]
 
 [project.readme]
