@@ -8,17 +8,17 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-28 13:30-0500\n"
-"PO-Revision-Date: 2025-12-08 10:03+0000\n"
-"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
-"Language-Team: Hebrew <https://hosted.weblate.org/projects/weblate/legal/he/"
-">\n"
+"PO-Revision-Date: 2026-04-03 06:09+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Hebrew <https://hosted.weblate.org/projects/weblate/legal/he/>"
+"\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -671,16 +671,12 @@ msgid "We don’t use any third-party cookies."
 msgstr "איננו משתמשים בעוגיות מצד־שלישי."
 
 #: wllegal/templates/legal/documents/tos.html:5
-#, fuzzy
-#| msgid ""
-#| "The Terms of Service document is authoritative in English, translations "
-#| "are provided for your convenience."
 msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
-"התוקף המשפטי של מסמך תנאי השירות חל על הגרסה האנגלית בלבד, התרגומים מסופקים "
-"לנוחותך."
+"התוקף המשפטי של מסמך התנאים וההתניות הכלליים חל על הגרסה האנגלית בלבד, "
+"התרגומים מסופקים לנוחותך."
 
 #: wllegal/templates/legal/documents/tos.html:11
 #, fuzzy
