@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-04-04 04:11-0500\n"
-"PO-Revision-Date: 2026-01-17 22:01+0000\n"
-"Last-Translator: CRISTIAN ANDREI <cristianvdr@gmail.com>\n"
+"PO-Revision-Date: 2026-04-10 09:09+0000\n"
+"Last-Translator: Luciana Waldbaur <luciana.waldbaur@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/weblate/legal/"
 "ro/>\n"
 "Language: ro\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 5.17-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -147,6 +147,10 @@ msgid ""
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
+"Dacă nu se precizează contrariul în acest Regulament, Furnizorul are "
+"calitatea de <strong>operator de date</strong>, iar Utilizatorii, persoane "
+"fizice, au rolul de persoane vizate, în conformitate cu definirea acestor "
+"roluri prin GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
@@ -156,30 +160,43 @@ msgstr "Domeniu, scopuri și durata procesării"
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
 msgstr ""
+"Furnizorul prelucrează datele cu caracter personal ale utilizatorului în "
+"următoarele scopuri:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
 msgstr ""
+"îndeplinirea prevederilor Contractului conform Art. 6 alin. (1) lit. b) din "
+"Regulamentul general privind protecția datelor (GDPR),"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
 msgstr ""
+"negocierea Contractului conform Art. 6 alin. (1), lit. b) din Regulamentul "
+"general privind protecția datelor (GDPR),"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
 msgstr ""
+"îndeplinirea obligațiilor legale ale Furnizorului conform Art. 6 alin. (1) "
+"lit. c din Regulamentul general privind protecția datelor (GDPR),"
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, "
 "and in selected cases also"
 msgstr ""
+"interesele legitime ale Furnizorului conform Art. 6 alin. (1) lit. f) din "
+"Regulamentul general privind protecția datelor (GDPR), iar în anumite cazuri "
+"și"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
 msgstr ""
+"acceptul utilizatorului conform Art. 6 alin. (1) lit. a) din Regulamentul "
+"general privind protecția datelor (GDPR)."
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
