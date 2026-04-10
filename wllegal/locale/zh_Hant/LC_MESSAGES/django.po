@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-04-04 04:11-0500\n"
-"PO-Revision-Date: 2026-04-03 06:10+0000\n"
+"PO-Revision-Date: 2026-04-10 09:09+0000\n"
 "Last-Translator: UDP <udp@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/weblate/legal/zh_Hant/>\n"
@@ -847,7 +847,7 @@ msgstr "指翻譯格式中定義之文字單位。可為單字、句子或段落
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
-msgstr "託管 Weblate (Hosted Weblate)"
+msgstr "Hosted Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:82
 msgid ""
@@ -1670,7 +1670,7 @@ msgstr "從事任何違反國家、歐盟或國際層級適用法律之服務或
 msgid ""
 "Engaging in activities that bypass intellectual property protection elements "
 "(such as cracks, warez, etc.);"
-msgstr "從事規避智慧財產權保護元件之活動（如破解檔、非法軟體等）；"
+msgstr "從事規避智慧財產權保護組件之活動（如破解檔、非法軟體等）；"
 
 #: wllegal/templates/legal/documents/tos.html:448
 msgid ""
@@ -1716,7 +1716,7 @@ msgid ""
 "manner not expressly agreed upon in these Terms or the Agreement;"
 msgstr ""
 "以未經本條款或本協議明示同意之方式，使用提供者提供之任何手段、伺服器、裝置或"
-"元件；"
+"組件；"
 
 #: wllegal/templates/legal/documents/tos.html:476
 msgid ""
