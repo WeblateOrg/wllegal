@@ -9,10 +9,10 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-04-13 04:47-0500\n"
-"PO-Revision-Date: 2026-04-10 09:09+0000\n"
-"Last-Translator: username-generic <username_generic0@proton.me>\n"
-"Language-Team: Polish <https://hosted.weblate.org/projects/weblate/legal/pl/"
-">\n"
+"PO-Revision-Date: 2026-04-14 17:13+0000\n"
+"Last-Translator: Carp300 <picmat9@gmail.com>\n"
+"Language-Team: Polish <https://hosted.weblate.org/projects/weblate/legal/pl/>"
+"\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -749,7 +749,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:272
 #: wllegal/templates/legal/documents/tos.html:620
 msgid "Final Provisions"
-msgstr ""
+msgstr "Postanowienia końcowe"
 
 #: wllegal/templates/legal/documents/privacy.html:276
 msgid ""
@@ -775,6 +775,11 @@ msgid ""
 "Policy will be resolved before the competent civil court in the Czech "
 "Republic."
 msgstr ""
+"Wszystkie stosunki prawne między Dostawcą a Użytkownikiem wynikające z "
+"niniejszej Polityki podlegają obowiązującym przepisom prawa Republiki "
+"Czeskiej. Wszelkie spory powstałe między Dostawcą a Użytkownikiem z "
+"niniejszej Polityki lub w związku z nią będą rozstrzygane przez właściwy sąd "
+"cywilny w Republice Czeskiej."
 
 #: wllegal/templates/legal/documents/privacy.html:284
 msgid ""
@@ -796,6 +801,11 @@ msgid ""
 "provision does not affect the validity of the other provisions of this "
 "Policy."
 msgstr ""
+"Jeżeli jakiekolwiek postanowienie niniejszej Polityki jest nieważne lub "
+"nieskuteczne albo stanie się nieważne lub nieskuteczne, zostanie ono "
+"zastąpione postanowieniem, którego znaczenie najbliżej odpowiada nieważnemu "
+"postanowieniu. Nieważność lub nieskuteczność jednego postanowienia nie "
+"wpływa na ważność pozostałych postanowień niniejszej Polityki."
 
 #: wllegal/templates/legal/documents/privacy.html:292
 msgid "This Policy become effective upon their publication on the Website."
@@ -822,28 +832,22 @@ msgstr ""
 "użytkownika będą widoczne publicznie przez cały okres istnienia konta."
 
 #: wllegal/templates/legal/documents/summary.html:11
-#, fuzzy
-#| msgid ""
-#| "Your name and e-mail address is used in VCS commits, it will stay there "
-#| "indefinitely."
 msgid ""
 "Your name and e-mail can be used in version control system commits to author "
 "the changes you made; they can be stored there indefinitely."
 msgstr ""
-"Twoje imię, nazwisko i adres e-mail są używane w commitach na VCS i "
-"pozostaną tam na stałe."
+"Twoje imię i nazwisko oraz adres e-mail mogą zostać użyte w commitach do "
+"zatwierdzenia zmian, które wprowadziłeś; mogą być one tam przechowywane "
+"bezterminowo."
 
 #: wllegal/templates/legal/documents/summary.html:12
-#, fuzzy
-#| msgid ""
-#| "Chosen name is up to you and the e-mail address used for commits can be "
-#| "masked by Weblate system to protect your privacy."
 msgid ""
 "Name choice is yours, and the e-mail address used for commits can be masked "
 "by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
-"Wybrana nazwa zależy od ciebie, a adres e-mail używany do commitów może być "
-"maskowany przez system Weblate w celu ochrony twojej prywatności."
+"Wybór nazwy zależy od ciebie, a adres e-mail używany do commitów może być "
+"maskowany przez system Weblate w celu ochrony twojej prywatności. Możesz "
+"włączyć tę opcję w swoim profilu."
 
 #: wllegal/templates/legal/documents/summary.html:15
 msgid ""
@@ -855,11 +859,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:18
 msgid "We use cookies to deliver our services."
-msgstr "Używamy ciasteczek do świadczenia naszych usług."
+msgstr "Używamy plików cookie do świadczenia naszych usług."
 
 #: wllegal/templates/legal/documents/summary.html:19
 msgid "We don’t use any third-party cookies."
-msgstr "Nie używamy żadnych ciasteczek stron zewnętrznych."
+msgstr "Nie używamy żadnych plików cookie stron zewnętrznych."
 
 #: wllegal/templates/legal/documents/tos.html:5
 msgid ""
@@ -906,7 +910,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
-msgstr ""
+msgstr "Strony umowy"
 
 #: wllegal/templates/legal/documents/tos.html:40
 msgid "jointly refers to the User and the Provider;"
@@ -914,7 +918,7 @@ msgstr "wspólnie nawiązuje do Użytkownika i Usługodawcy;"
 
 #: wllegal/templates/legal/documents/tos.html:44
 msgid "Cookies"
-msgstr "Ciasteczka"
+msgstr "Pliki cookie"
 
 #: wllegal/templates/legal/documents/tos.html:47
 msgid ""
@@ -934,6 +938,8 @@ msgid ""
 "means a form of collaboration where the User is the sole user of the Service "
 "in a cloud hosted and provided by the Provider;"
 msgstr ""
+"oznacza formę współpracy, w której Użytkownik jest jedynym użytkownikiem "
+"Usługi w chmurze hostowanej i dostarczanej przez Dostawcę;"
 
 #: wllegal/templates/legal/documents/tos.html:58
 msgid "GDPR"
@@ -984,6 +990,9 @@ msgid ""
 "provides Services to Users on a non-dedicated (i.e., shared by multiple "
 "Users) cloud operated by the Provider;"
 msgstr ""
+"oznacza formę współpracy wyłącznie opartą na chmurze, w której Dostawca "
+"świadczy Usługi Użytkownikom w chmurze niededykowanej (tj. współdzielonej "
+"przez wielu Użytkowników) i zarządzanej przez Dostawcę;"
 
 #: wllegal/templates/legal/documents/tos.html:86
 msgid "License"
@@ -1002,16 +1011,12 @@ msgid "Personal Data"
 msgstr "Dane osobowe"
 
 #: wllegal/templates/legal/documents/tos.html:96
-#, fuzzy
-#| msgid ""
-#| "means personal data as defined in EU Regulation 679/2016, entered by the "
-#| "user into the Service and/or Cookies;"
 msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"oznacza dane osobowe w rozumieniu Rozporządzenia UE 679/2016, wprowadzone "
-"przez użytkownika do Serwisu i/lub Ciasteczka;"
+"oznacza dane osobowe w rozumieniu Rozporządzenia UE nr 679/2016, wprowadzone "
+"przez Użytkownika do Usługi i/lub plików cookie;"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
@@ -1084,6 +1089,8 @@ msgid ""
 "means a form of collaboration where the User is the sole user of the "
 "Service, and this Service is operated directly on the User Server;"
 msgstr ""
+"oznacza formę współpracy, w której Użytkownik jest jedynym użytkownikiem "
+"Usługi, a Usługa ta jest uruchamiana bezpośrednio na Serwerze Użytkownika;"
 
 #: wllegal/templates/legal/documents/tos.html:142
 msgid "Support Services"
@@ -1095,6 +1102,9 @@ msgid ""
 "Support Services are governed separately by a separate support service "
 "agreement;"
 msgstr ""
+"oznacza wsparcie świadczone przez Dostawcę na rzecz Użytkownika w ramach "
+"Usługi. Usługi wsparcia są regulowane odrębnie przez osobną umowę dotyczącą "
+"usług wsparcia;"
 
 #: wllegal/templates/legal/documents/tos.html:149
 msgid "Translation Memory"
