@@ -157,6 +157,20 @@ select = ["ALL"]
 [tool.ruff.lint.mccabe]
 max-complexity = 16
 
+[tool.rumdl]
+disable = [
+  # We do not enforce heading
+  "first-line-heading",
+  # Avoid length limit checks
+  "line-length"
+]
+
+[tool.rumdl.per-file-ignores]
+"README.md" = [
+  # Allow HTML
+  "MD033"
+]
+
 [tool.setuptools]
 include-package-data = true
 platforms = [
@@ -174,18 +188,4 @@ extend-exclude = [
   "**.po",
   "**.pot",
   "json/*.json"
-]
-
-[tool.rumdl]
-disable = [
-  # We do not enforce heading
-  "first-line-heading",
-  # Avoid length limit checks
-  "line-length"
-]
-
-[tool.rumdl.per-file-ignores]
-"README.md" = [
-  # Allow HTML
-  "MD033"
 ]
