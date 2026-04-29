@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-04-27 01:36-0500\n"
-"PO-Revision-Date: 2026-01-25 06:41+0000\n"
-"Last-Translator: Anusuk Sangubon <jaideejung007@gmail.com>\n"
+"PO-Revision-Date: 2026-04-30 08:25+0000\n"
+"Last-Translator: Anucha Hlownonkor <anucha.initdz@gmail.com>\n"
 "Language-Team: Thai <https://hosted.weblate.org/projects/weblate/legal/th/>\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.17.1-dev\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -60,6 +60,9 @@ msgid ""
 "the Commercial Register kept by the Regional Court in Ústí nad Labem, file "
 "No. C 52324, i.e. the \"<strong>Provider</strong>\"."
 msgstr ""
+"นโยบายฉบับนี้ออกโดย Weblate s.r.o. เลขประจำตัวผู้เสียภาษี: 21668027 สำนักงานจดทะเบียนตั้ง"
+"อยู่ที่ Nábřežní 694, Cvikov II, 471 54 Cvikov จดทะเบียนในทะเบียนพาณิชย์ของศาลภูมิภาคใ"
+"น Ústí nad Labem หมายเลขไฟล์ C 52324 ซึ่งก็คือ \"<strong>ผู้ให้บริการ</strong>\""
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid ""
@@ -738,8 +741,6 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:93
-#, fuzzy
-#| msgid "Personal info"
 msgid "Personal Data"
 msgstr "ข้อมูลส่วนบุคคล"
 
