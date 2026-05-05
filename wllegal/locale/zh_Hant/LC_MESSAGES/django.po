@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-05-04 17:42-0500\n"
-"PO-Revision-Date: 2026-04-22 22:09+0000\n"
+"PO-Revision-Date: 2026-05-06 18:11+0000\n"
 "Last-Translator: UDP <udp@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/weblate/legal/zh_Hant/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17.1-dev\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -990,8 +990,8 @@ msgid ""
 "means a user account with a unique access code and password in the Hosted "
 "Weblate web interface. Each User Account can be used by only one User;"
 msgstr ""
-"指在託管 Weblate 網頁介面中具有唯一存取碼及密碼之使用者帳號。每一使用者帳號僅"
-"供一位使用者使用；"
+"意思是 Hosted Weblate 網頁介面中具有唯一存取碼及密碼之使用者帳號。每一使用者"
+"帳號僅供一位使用者使用；"
 
 #: wllegal/templates/legal/documents/tos.html:170
 msgid "User Server"
@@ -1069,7 +1069,7 @@ msgstr ""
 msgid ""
 "The Service is provided in three forms of cooperation: Hosted Weblate, "
 "Dedicated Weblate, and Self-hosting."
-msgstr "本服務提供三種合作形式：託管 Weblate、專用 Weblate 及自託管。"
+msgstr "本服務提供三種合作形式：Hosted Weblate、專用 Weblate 與自行架設。"
 
 #: wllegal/templates/legal/documents/tos.html:223
 msgid ""
@@ -1322,7 +1322,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:315
 msgid "Payment Terms"
-msgstr "付款條款"
+msgstr "支付條款"
 
 #: wllegal/templates/legal/documents/tos.html:319
 msgid ""
