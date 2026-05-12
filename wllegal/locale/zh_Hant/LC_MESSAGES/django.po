@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-05-11 04:41-0500\n"
-"PO-Revision-Date: 2026-05-11 09:35+0000\n"
+"PO-Revision-Date: 2026-05-13 07:11+0000\n"
 "Last-Translator: 為什麼不加空格 <c++23@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/weblate/legal/zh_Hant/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.5-dev\n"
+"X-Generator: Weblate 2026.5.dev0\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -198,7 +198,7 @@ msgstr "使用者頭貼；"
 
 #: wllegal/templates/legal/documents/privacy.html:96
 msgid "email address(es),"
-msgstr "電子郵件地址；"
+msgstr "電子郵件位址，"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -701,7 +701,7 @@ msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"我們會處理個人資料（例如您的電子郵件地址）；若您移除帳號，相關資料將從我們的"
+"我們會處理個人資料（例如您的電子郵件位址）；若您移除帳號，相關資料將從我們的"
 "資料庫中刪除。"
 
 #: wllegal/templates/legal/documents/summary.html:8
@@ -723,7 +723,7 @@ msgid ""
 "Name choice is yours, and the e-mail address used for commits can be masked "
 "by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
-"姓名的選擇權在您，且 Weblate 可遮蔽用於提交的電子郵件地址以保護您的隱私。您可"
+"姓名的選擇權在您，且 Weblate 可遮蔽用於提交的電子郵件位址以保護您的隱私。您可"
 "以在個人檔案中啟用此功能。"
 
 #: wllegal/templates/legal/documents/summary.html:15
@@ -775,11 +775,11 @@ msgstr "就本一般條款與條件之目的而言，下列定義具有以下含
 
 #: wllegal/templates/legal/documents/tos.html:30
 msgid "Civil Code"
-msgstr "民法典"
+msgstr "民法"
 
 #: wllegal/templates/legal/documents/tos.html:33
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
-msgstr "指《第 89/2012 Coll. 號法案民法典》及其修訂；"
+msgstr "指《第 89/2012 Coll. 號法案民法》及其修訂；"
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
@@ -991,7 +991,7 @@ msgid ""
 "Weblate web interface. Each User Account can be used by only one User;"
 msgstr ""
 "意思是 Hosted Weblate 網頁介面中具有唯一存取碼及密碼之使用者帳號。每一使用者"
-"帳號僅供一位使用者使用；"
+"帳號僅供單個使用者使用；"
 
 #: wllegal/templates/legal/documents/tos.html:170
 msgid "User Server"
