@@ -12,8 +12,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-05-11 04:41-0500\n"
-"PO-Revision-Date: 2026-04-28 01:09+0000\n"
-"Last-Translator: Frank Paul Silye <frankps@gmail.com>\n"
+"PO-Revision-Date: 2026-05-13 07:11+0000\n"
+"Last-Translator: Zillazapdos <harald.vagle.undheim@icloud.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/weblate/"
 "legal/nb_NO/>\n"
 "Language: nb\n"
@@ -21,17 +21,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17.1-dev\n"
+"X-Generator: Weblate 2026.5.dev0\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr "Underleverandører i samsvar med artikkel nr. 28 av GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:11
-#, fuzzy
-#| msgid "Status as of March 2023."
 msgid "Status as of May 2024."
-msgstr "Status per Mars 2023."
+msgstr "Status per Mai 2024."
 
 #: wllegal/templates/legal/documents/privacy.html:5
 #, fuzzy
