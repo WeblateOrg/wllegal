@@ -27,7 +27,7 @@ classifiers = [
 ]
 dependencies = [
   "Django>=5.2,<6.1",
-  "weblate-language-data>=2026.7"
+  "weblate-language-data>=2026.8"
 ]
 description = "Hosted Weblate legal stuff"
 keywords = [
