@@ -24,7 +24,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr "GPDR 28. maddesi uyarınca alt yükleniciler"
+msgstr "GDPR 28. maddesi uyarınca alt yükleniciler"
 
 #: wllegal/templates/legal/documents/contracts.html:11
 msgid "Status as of May 2024."
