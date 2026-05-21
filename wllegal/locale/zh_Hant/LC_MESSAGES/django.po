@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-05-18 15:48-0500\n"
-"PO-Revision-Date: 2026-05-20 09:11+0000\n"
+"PO-Revision-Date: 2026-05-22 19:11+0000\n"
 "Last-Translator: 為什麼不加空格 <c++23@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/weblate/legal/zh_Hant/>\n"
@@ -176,7 +176,7 @@ msgstr "提供者處理使用者個人資料之範圍包含："
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr "姓名；"
+msgstr "姓名，"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
@@ -184,7 +184,7 @@ msgstr "使用者地址（送貨及帳單地址）；"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr "公司統編及稅籍編號；"
+msgstr "公司統編及稅籍編號，"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
@@ -194,7 +194,7 @@ msgstr "暱稱（包含任何自願連結之平臺，如 Liberapay、GitHub、X 
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr "使用者頭貼；"
+msgstr "使用者的 avatar，"
 
 #: wllegal/templates/legal/documents/privacy.html:96
 msgid "email address(es),"
@@ -233,7 +233,7 @@ msgstr "使用者之銀行帳號及其他可能之付款詳細資訊；"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr "加密貨幣錢包地址；"
+msgstr "加密貨幣錢包地址，"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
@@ -1133,6 +1133,7 @@ msgstr ""
 "議定之；"
 
 #: wllegal/templates/legal/documents/tos.html:249
+#, fuzzy
 msgid "regular price for Translation Memory;"
 msgstr "翻譯記憶之定期價格；"
 
