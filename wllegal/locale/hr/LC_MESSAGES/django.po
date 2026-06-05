@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-06-02 05:04-0500\n"
-"PO-Revision-Date: 2026-01-01 15:01+0000\n"
+"PO-Revision-Date: 2026-06-06 11:54+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/weblate/legal/"
 "hr/>\n"
@@ -19,11 +19,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 2026.6\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr "Podugovarači u skladu sa člankom 28 GDPR-a"
+msgstr "Ugovorni podpartneri u skladu sa člankom 28 GDPR-a"
 
 #: wllegal/templates/legal/documents/contracts.html:11
 msgid "Status as of May 2024."
@@ -357,6 +357,8 @@ msgid ""
 "selected contractors of the Provider who are involved in providing services "
 "to Users and who are also bound by confidentiality;"
 msgstr ""
+"odabrani ugovorni partneri pružatelja usluga koji sudjeluju u pružanju "
+"usluga korisnicima i koji su također obvezani čuvati povjerljivost podataka;"
 
 #: wllegal/templates/legal/documents/privacy.html:173
 msgid ""
