@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-06-09 17:04-0500\n"
-"PO-Revision-Date: 2026-06-04 07:01+0000\n"
+"PO-Revision-Date: 2026-06-13 09:01+0000\n"
 "Last-Translator: 為什麼不加空格 <c++23@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/weblate/legal/zh_Hant/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.6\n"
+"X-Generator: Weblate 2026.7.dev0\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -33,7 +33,7 @@ msgstr "2024 年 5 月版。"
 msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
-msgstr "本「隱私權政策」文件以英文版本具法律拘束力，翻譯版本僅供便利參考之用。"
+msgstr "本「隱私政策」文件以英文版本具法律拘束力，翻譯版本僅供便利參考之用。"
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:6
@@ -47,9 +47,9 @@ msgid ""
 "supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
-"本隱私權政策（下稱「<strong>本政策</strong>」）係 Weblate《<a "
-"href=\"%(terms_url)s\">一般條款與條件</a>》（下稱「<strong>本條款</"
-"strong>」）之補充。"
+"本隱私政策（下稱「<strong>本政策</strong>」）係 Weblate《<a href=\"%"
+"(terms_url)s\">一般條款與條件</a>》（下稱「<strong>本條款</strong>」）之補充"
+"。"
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
@@ -1998,7 +1998,7 @@ msgid ""
 msgstr ""
 "提供者蒐集使用者資料之目的，僅限於提供本服務、提升其品質、履行法律義務，以及"
 "在特定情況下為提供者之正當利益（例如維護伺服器安全與完整性），或為發送<a "
-"href=\"%(privacy_url)s\">隱私權政策</a>中定義之選用商業通訊。"
+"href=\"%(privacy_url)s\">隱私政策</a>中定義之選用商業通訊。"
 
 #: wllegal/templates/legal/documents/tos.html:608
 msgid ""
@@ -2017,9 +2017,9 @@ msgid ""
 "defined in this Agreement and the <a href=\"%(privacy_url)s\">Privacy "
 "Policy</a>."
 msgstr ""
-"提供者承諾，除本協議及<a href=\"%(privacy_url)s\">隱私權政策</a>定義之目的"
-"外，不將使用者於註冊使用者帳號時提交之任何資訊或使用者提供之任何其他個人資"
-"料，提供予任何第三方。"
+"提供者承諾，除本協議及<a href=\"%(privacy_url)s\">隱私政策</a>定義之目的外，"
+"不將使用者於註冊使用者帳號時提交之任何資訊或使用者提供之任何其他個人資料，提"
+"供予任何第三方。"
 
 #: wllegal/templates/legal/documents/tos.html:616
 msgid ""
