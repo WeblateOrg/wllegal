@@ -1407,6 +1407,11 @@ msgid ""
 "date as per point 5.5 above, their Subscription will stop at the end of the "
 "current billing cycle."
 msgstr ""
+"O Utilizador pode alterar o modo da sua Subscrição online iniciando sessão "
+"na sua Conta de Utilizador e efetuando a alteração ou cancelando a "
+"Subscrição nesse local. Se o Utilizador cancelar a sua Subscrição pelo menos "
+"três dias antes da data de renovação, conforme o ponto 5.5 acima, a sua "
+"Subscrição terminará no final do ciclo de faturação atual."
 
 #: wllegal/templates/legal/documents/tos.html:278
 msgid ""
