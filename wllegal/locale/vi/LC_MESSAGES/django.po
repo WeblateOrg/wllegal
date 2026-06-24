@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-06-22 21:04-0500\n"
-"PO-Revision-Date: 2026-05-25 10:02+0000\n"
+"PO-Revision-Date: 2026-06-24 12:23+0000\n"
 "Last-Translator: hoanghuy309 <hoanghuy309@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/weblate/legal/"
 "vi/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.6.dev0\n"
+"X-Generator: Weblate 2026.7.dev0\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -184,7 +184,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
-msgstr ""
+msgstr "họ và tên,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
@@ -1215,6 +1215,14 @@ msgid ""
 "continuous and automatically renews until it is cancelled, or the User "
 "Account is terminated."
 msgstr ""
+"Bằng việc chấp nhận Điều khoản và Điều kiện chung (GTC) tại thời điểm mua, "
+"Người dùng đồng ý gia hạn tự động Gói đăng ký trong tương lai. Gói đăng ký "
+"sẽ được tự động gia hạn vào cuối mỗi kỳ đăng ký dựa trên kỳ đăng ký đã chọn "
+"tại thời điểm mua. Vào đầu mỗi kỳ thanh toán, Gói đăng ký sẽ được tính phí "
+"theo mức giá được cập nhật trong Bảng giá và/hoặc theo thông báo riêng của "
+"Nhà cung cấp trước khi kết thúc kỳ thanh toán trước đó. Gói đăng ký có hiệu "
+"lực liên tục và tự động gia hạn cho đến khi bị hủy hoặc Tài khoản Người dùng "
+"bị chấm dứt."
 
 #: wllegal/templates/legal/documents/tos.html:335
 msgid ""
