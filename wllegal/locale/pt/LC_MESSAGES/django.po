@@ -68,7 +68,7 @@ msgstr ""
 "Esta 'Política' foi emitida pela Weblate s.r.o., N.º Id.: 21668027, com sede "
 "registada em Nábřežní 694, Cvikov II, 471 54 Cvikov, registada no Registo "
 "Comercial mantido pelo Tribunal Regional em Ústí nad Labem, n.º C 52324, ou "
-"seja, o 'strongProvider/strong'."
+"seja, o \"<strong>Fornecedor</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid ""
