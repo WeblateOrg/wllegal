@@ -396,7 +396,7 @@ msgstr ""
 "Utilizadores, ou para fornecer bónus ou materiais bónus selecionados não "
 "ligados a outros serviços do Fornecedor e/ou para a divulgação dos Dados "
 "Pessoais do Utilizador no âmbito de um donativo efetuado ao Fornecedor. "
-"Revogação também pode ser feita a qualquer moment diretamente na interface "
+"Revogação também pode ser feita a qualquer momento diretamente na interface "
 "da conta do Utilizador e, em caso de consentimento garantido de outra forma, "
 "ao enviar um pedido para <a href=\"mailto:%(address)s\">%(address)s</a>."
 
