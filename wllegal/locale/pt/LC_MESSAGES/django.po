@@ -68,7 +68,7 @@ msgstr ""
 "Esta 'Política' foi emitida pela Weblate s.r.o., N.º Id.: 21668027, com sede "
 "registada em Nábřežní 694, Cvikov II, 471 54 Cvikov, registada no Registo "
 "Comercial mantido pelo Tribunal Regional em Ústí nad Labem, n.º C 52324, ou "
-"seja, o 'strongProvider/strong'."
+"seja, o \"<strong>Fornecedor</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid ""
@@ -153,7 +153,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr "Âmbito. Propósitos, e Duração do Processamento"
+msgstr "Âmbito, Propósitos, e Duração do Processamento"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
@@ -396,7 +396,7 @@ msgstr ""
 "Utilizadores, ou para fornecer bónus ou materiais bónus selecionados não "
 "ligados a outros serviços do Fornecedor e/ou para a divulgação dos Dados "
 "Pessoais do Utilizador no âmbito de um donativo efetuado ao Fornecedor. "
-"Revogação também pode ser feita a qualquer moment diretamente na interface "
+"Revogação também pode ser feita a qualquer momento diretamente na interface "
 "da conta do Utilizador e, em caso de consentimento garantido de outra forma, "
 "ao enviar um pedido para <a href=\"mailto:%(address)s\">%(address)s</a>."
 
@@ -407,7 +407,7 @@ msgid ""
 "selected Personal Data based on a different legal reason if this legal "
 "reason in favour of the Provider continues to exist."
 msgstr ""
-"Assim que a ração para processar Dados Pessoais passou, o Fornecedor "
+"Assim que a razão para processar Dados Pessoais passou, o Fornecedor "
 "destruirá os Dados Pessoais. Isto não exclui processamento posterior de "
 "Dados Pessoais selecionados baseados em diferentes razões legais se esta "
 "razão legal a favor do Fornecedor continuar a existir."
@@ -1407,6 +1407,11 @@ msgid ""
 "date as per point 5.5 above, their Subscription will stop at the end of the "
 "current billing cycle."
 msgstr ""
+"O Utilizador pode alterar o modo da sua Subscrição online iniciando sessão "
+"na sua Conta de Utilizador e efetuando a alteração ou cancelando a "
+"Subscrição nesse local. Se o Utilizador cancelar a sua Subscrição pelo menos "
+"três dias antes da data de renovação, conforme o ponto 5.5 acima, a sua "
+"Subscrição terminará no final do ciclo de faturação atual."
 
 #: wllegal/templates/legal/documents/tos.html:278
 msgid ""
