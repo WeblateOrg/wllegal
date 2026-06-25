@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-06-22 21:04-0500\n"
-"PO-Revision-Date: 2026-06-24 10:18+0000\n"
+"PO-Revision-Date: 2026-06-25 10:39+0000\n"
 "Last-Translator: António Oliveira <antonio.oliveira5487@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/weblate/legal/"
 "pt/>\n"
@@ -1471,6 +1471,12 @@ msgid ""
 "License is provided. The License is granted in accordance with the option "
 "selected according to the Price List."
 msgstr ""
+"O software do Fornecedor e as extensões de software do Weblate são "
+"distribuídas sob a licença GNU/GPLv3 (veja <a href=\"%(url)s\">%(url)s</a>). "
+"O Utilizador é garantido uma licença não exclusiva para quaisquer elementos "
+"do serviço sob os termos do GTC na sua versão atualizada mais recente no "
+"momento que a licença é fornecida. A Licença é garantida conforme a opção "
+"selecionada de acordo com a Lista de Preços."
 
 #: wllegal/templates/legal/documents/tos.html:295
 #, python-format
@@ -1483,6 +1489,13 @@ msgid ""
 "according to the information provided on the Provider's website (see <a "
 "href=\"%(url)s\">%(url)s</a>)."
 msgstr ""
+"Salvo indicação em contrário no Acordo, os termos da licença deste Acordo "
+"são completamente governados pela licença GPLv3. No entanto, partes "
+"selecionadas do Código também podem ser licenciadas sob outras licenças. Uma "
+"lista completa de licenças usadas no Código do Fornecedor e extensões de "
+"software podem ser encontradas no seu código fonte, que corresponde à "
+"especificação do REUSE 3.0 de acordo com a informação fornecida no website "
+"do Fornecedor (veja <a href=\"%(url)s\">%(url)s</a>)."
 
 #: wllegal/templates/legal/documents/tos.html:299
 msgid ""
@@ -1494,6 +1507,13 @@ msgid ""
 "creating, and distributing the Service, even if the User does not publicly "
 "release the Service."
 msgstr ""
+"O Utilizador reconhece que todos os direitos de autor e outros direitos de "
+"propriedade intelectual pertencem ao Fornecedor e/ou a terceiros cujos "
+"trabalhos foram incorporados no Serviço e/ou são usados em conjunto com o "
+"Serviço. No entanto, o Utilizador não perde o direito de usar o Serviço na "
+"medida do permitido pelas licenças aplicáveis, incluindo execução, criação e "
+"distribuição do Serviço, ainda que o Utilizador não divulgue publicamente o "
+"Serviço."
 
 #: wllegal/templates/legal/documents/tos.html:303
 msgid ""
@@ -1503,6 +1523,11 @@ msgid ""
 "or later versions of the GPL license), they publish all materials to which "
 "they do not own copyright."
 msgstr ""
+"Para os fins de modificações exclusivas do Serviço apenas para o benefício "
+"do Utilizador ou para a criação de meios para executar estes Serviços, o "
+"Utilizador pode publicar o Serviço apenas se, em conformidade com os termos "
+"do GPLv3 (e/ou versões posteriores da licença GPL), eles publiquem os "
+"materiais aos quais não possuem os direitos de autor."
 
 #: wllegal/templates/legal/documents/tos.html:307
 msgid ""
@@ -1513,6 +1538,12 @@ msgid ""
 "released. The User acknowledges that not all Self-hosting Subscription "
 "packages include updates and/or modifications to the Services."
 msgstr ""
+"A licença inclui atualizações e/ou alterações aos Serviços feitas pelo "
+"Fornecedor no futuro, desde que os Serviços sejam fornecidos baseados na "
+"seleção de Subscrição e todas as licenças e outras taxas sejam devidamente "
+"pagas para o período no qual estas atualizações e/ou modificações estejam "
+"lançadas. O Utilizador reconhece que nem todos os Pacotes de Subscrição de "
+"Auto-hospedagem incluem atualizações e/ou modificações aos Serviços."
 
 #: wllegal/templates/legal/documents/tos.html:311
 msgid ""
@@ -1547,6 +1578,9 @@ msgid ""
 "issuance of invoices and to receiving them via electronic means. Invoices "
 "will be issued with a due date of 14 calendar days."
 msgstr ""
+"Faturas serão emitidas eletronicamente. O Utilizador concorda que a emissão "
+"eletrónica de faturas e para recebê-las através de meios eletrónicas. "
+"Faturas serão emitidas em um prazo de 14 dias de calendário."
 
 #: wllegal/templates/legal/documents/tos.html:323
 msgid ""
@@ -1557,6 +1591,13 @@ msgid ""
 "any reason, the Provider will issue an invoice, and the User is obliged to "
 "pay such an invoice within the same deadlines."
 msgstr ""
+"O período de faturação é definido em um período recorrente (mês/ano de "
+"calendário). Pagamento é cobrado automaticamente através do meio de "
+"pagamento selecionado, e a fatura é enviada para o Utilizador sem atraso "
+"indevido após o Fornecedor tenha recebido o pagamento. Se o pagamento não "
+"pode ser deduzido automaticamente por qualquer razão, o Fornecedor emitirá "
+"uma fatura, e o Utilizador é obrigado a pagar tal fatura dentro dos mesmos "
+"prazos."
 
 #: wllegal/templates/legal/documents/tos.html:327
 msgid ""
@@ -1608,6 +1649,13 @@ msgid ""
 "conditions for the payment of the Fee are governed by the relevant "
 "contractual terms of ThePay."
 msgstr ""
+"O Utilizador reconhece que em caso de pagamento de Subscrição através de um "
+"portal de pagamento, este portal é fornecido por <strong>ThePay, a.s.</"
+"strong>, com a sua sede social em Masarykovo náměstí 102/65, 586 01 Jihlava, "
+"ID: 281 35 261, registado com o Registo Comercial mantido pelo Tribunal "
+"Regional em Brno, Section B, Insert 8977 (\"<strong>ThePay</strong>\"). As "
+"condições para o pagamento da Taxa são governados pelos termos contratuais "
+"relevantes do ThePay."
 
 #: wllegal/templates/legal/documents/tos.html:339
 msgid ""
@@ -1615,10 +1663,13 @@ msgid ""
 "by the Provider, and the Provider is not responsible for the functionality "
 "of ThePay's payment gateway."
 msgstr ""
+"Informação de cartão de pagamento introduzido no portal de pagamento não é "
+"processado pelo Fornecedor, e o Fornecedor não é responsável pela "
+"funcionalidade do portal de pagamentos do ThePay."
 
 #: wllegal/templates/legal/documents/tos.html:343
 msgid "Provider's Rights and Obligations"
-msgstr ""
+msgstr "Direitos e Obrigações do Fornecedor"
 
 #: wllegal/templates/legal/documents/tos.html:347
 msgid ""
@@ -1674,6 +1725,10 @@ msgid ""
 "to ensure the functionality and availability of the Service. The User "
 "acknowledges and agrees that they use the Service at their own risk."
 msgstr ""
+"O Fornecedor compromete-se a tomar todas as medidas dentro das suas "
+"capacidades técnicas para assegurar a funcionalidade a disponibilidade do "
+"Serviço. O Utilizador reconhece e concorda que usam o Serviço por sua conta "
+"e risco."
 
 #: wllegal/templates/legal/documents/tos.html:355
 msgid ""
@@ -1682,6 +1737,10 @@ msgid ""
 "version. The Provider undertakes to fulfil these requirements and ensure the "
 "proper operation of the Service through its own actions."
 msgstr ""
+"Os requisitos básicos de sistema para o funcionamento adequado do Serviço "
+"incluem o ambiente do servidos e o estado técnico definido na versão mais "
+"recente. O Fornecedor compromete-se a cumprir estes requisitos e assegurar o "
+"funcionamento adequado do Serviço através das suas próprias ações."
 
 #: wllegal/templates/legal/documents/tos.html:359
 msgid ""
@@ -1694,6 +1753,14 @@ msgid ""
 "Provider bears no responsibility for any damages incurred by the User in "
 "connection with these events."
 msgstr ""
+"Se o Utilizador identificar quaisquer problemas relacionados à velocidade, "
+"funcionalidade ou disponibilidade do Serviço, eles são obrigados a comunicá-"
+"lo ao Fornecedor imediatamente. O Utilizador reconhece que eventos para além "
+"do controlo do Fornecedor, como a falha da conexão de internet do "
+"Utilizador, desastres naturais, ataques DOS ou DNS no equipamento técnico do "
+"Fornecedor, e outros fatores, poderão impactar a funcionalidade ou "
+"disponibilidade do Serviço. O Fornecedor não assume qualquer "
+"responsabilidade por danos sofridos pelo Utilizador no âmbito destes eventos."
 
 #: wllegal/templates/legal/documents/tos.html:363
 msgid ""
@@ -1722,6 +1789,8 @@ msgid ""
 "The Provider agrees not to provide the content of the User's data to third "
 "parties."
 msgstr ""
+"O Fornecedor concorda e não fornecer o conteúdo dos dados do Fornecedor a "
+"terceiros."
 
 #: wllegal/templates/legal/documents/tos.html:371
 msgid ""
@@ -1729,6 +1798,9 @@ msgid ""
 "of the User's data. The User is solely responsible for the content of the "
 "data stored on their Server or the Provider's server."
 msgstr ""
+"As partes contratantes concordam que o Fornecedor não adquire a propriedade "
+"dos dados do Utilizador. O Utilizador é o único responsável pelo conteúdo "
+"dos dados armazenados no seu Servidor ou no servidor do Fornecedor."
 
 #: wllegal/templates/legal/documents/tos.html:375
 msgid ""
@@ -1737,10 +1809,14 @@ msgid ""
 "the Service in accordance with the Agreement. The User undertakes to fully "
 "cooperate with the Provider in such cases."
 msgstr ""
+"Ao aceitar estes Termos, o Utilizador reconhece e concorda que o Fornecedor "
+"têm o direito de monitorizar, usando os seus próprios recursos, se o "
+"Utilizador está a usar o Serviço em conformidade com o Acordo. O Utilizador "
+"compromete-se a cooperar totalmente com o Fornecedor em tais casos."
 
 #: wllegal/templates/legal/documents/tos.html:380
 msgid "User’s Rights and Obligations"
-msgstr ""
+msgstr "Os Direitos e Obrigações do Utilizador"
 
 #: wllegal/templates/legal/documents/tos.html:384
 msgid ""
@@ -1749,6 +1825,10 @@ msgid ""
 "modifications to the Service made by them are in compliance with applicable "
 "legal regulations."
 msgstr ""
+"O Utilizador não deve usar o Serviço em violação das disposições legais "
+"aplicáveis. O Utilizador também é completamente responsável por assegurar "
+"que quaisquer modificações ao Serviço feitas por eles próprios estão em "
+"conformidade com as disposições legais aplicáveis."
 
 #: wllegal/templates/legal/documents/tos.html:388
 msgid ""
@@ -1783,6 +1863,11 @@ msgid ""
 "in cases where the Provider performs system outages for the reasons "
 "mentioned in Section 8.5."
 msgstr ""
+"O Utilizador é obrigado, mediante o pedido do Fornecedor, a fornecer a "
+"cooperação necessária em resolver avarias ou a fazer ajustes ao Serviço, "
+"incluindo a obrigação a tolerar restrições no uso do Serviço em casos onde o "
+"Fornecedor executa interrupções no sistema por razões mencionadas na Secção "
+"8.5."
 
 #: wllegal/templates/legal/documents/tos.html:396
 msgid ""
@@ -1790,6 +1875,9 @@ msgid ""
 "Service in accordance with this Agreement, and the User is required to "
 "comply with and respect these measures."
 msgstr ""
+"O Fornecedor tem o direito a implementar medidas de segurança para proteger "
+"o Serviço em conformidade com este Acordo, e o Utilizador é obrigado a "
+"cumprir e a respeitar estas medidas."
 
 #: wllegal/templates/legal/documents/tos.html:400
 msgid ""
@@ -1797,6 +1885,9 @@ msgid ""
 "terms specified in Section 6 of this Agreement, ensuring that they do not "
 "jeopardize the Service's functionality."
 msgstr ""
+"O Utilizador é obrigado a usar o Serviço em conformidade com os termos da "
+"licença especificados na Secção 6 deste Acordo, assegurando-se que não "
+"comprometem a funcionalidade do Serviço."
 
 #: wllegal/templates/legal/documents/tos.html:404
 msgid ""
@@ -1804,6 +1895,9 @@ msgid ""
 "right to request Support Services from the Provider, as specified in the "
 "Price List."
 msgstr ""
+"De acordo com a variante do Serviço listada na Lista de Preços, o Utilizador "
+"tem o direito de pedir Serviços de Suporte do Fornecedor, conforme "
+"especificado na Lista de Preços."
 
 #: wllegal/templates/legal/documents/tos.html:408
 msgid ""
@@ -1813,6 +1907,11 @@ msgid ""
 "reasonable extent to minimize the risk of third parties misusing access "
 "credentials to the User's account."
 msgstr ""
+"O Utilizador deve manter o acesso a credenciais do Serviço confidencial e "
+"não deve envolver-se em ações que comprometam a segurança do Serviço. O "
+"Utilizador também é obrigado a proteger o seu equipamento técnico a um nível "
+"razoável para minimizar o risco de terceiros usarem indevidamente as "
+"credenciais de acesso da conta do Utilizador."
 
 #: wllegal/templates/legal/documents/tos.html:412
 msgid ""
@@ -1835,7 +1934,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:416
 msgid "Prohibited Conduct"
-msgstr ""
+msgstr "Conduta Proibida"
 
 #: wllegal/templates/legal/documents/tos.html:420
 msgid ""
@@ -1865,42 +1964,56 @@ msgid ""
 "The User particularly agrees to refrain from the following activities while "
 "using the Services, especially through the Services:"
 msgstr ""
+"O Utilizador concorda particularmente em abster-se das seguintes atividades "
+"enquanto utiliza os Serviços, especialmente através dos Serviços:"
 
 #: wllegal/templates/legal/documents/tos.html:428
 msgid ""
 "Disseminating or offering any content that violates applicable laws at the "
 "national, EU, or international level;"
 msgstr ""
+"Disseminar ou oferecer qualquer conteúdo que viola as leis aplicáveis a "
+"nível nacional, UE, ou a nível internacional;"
 
 #: wllegal/templates/legal/documents/tos.html:432
 msgid ""
 "Disseminating or offering any illegally obtained content or content whose "
 "dissemination would be illegal;"
 msgstr ""
+"Disseminar ou oferecer qualquer conteúdo obtido ilegalmente ou conteúdo cuja "
+"disseminação seria ilegal;"
 
 #: wllegal/templates/legal/documents/tos.html:436
 msgid ""
 "Disseminating or offering any pornographic, obscene, or otherwise vulgar "
 "content;"
 msgstr ""
+"Disseminar ou oferecer qualquer conteúdo pornográfico, obsceno, ou de outra "
+"forma vulgar;"
 
 #: wllegal/templates/legal/documents/tos.html:440
 msgid ""
 "Engaging in any services or activities that are contrary to applicable laws "
 "at the national, EU, or international level;"
 msgstr ""
+"Envolver-se em quaisquer serviços ou atividades que são contrários às leia "
+"aplicadas ao nível nacional, UE, ou nível internacional;"
 
 #: wllegal/templates/legal/documents/tos.html:444
 msgid ""
 "Engaging in activities that bypass intellectual property protection elements "
 "(such as cracks, warez, etc.);"
 msgstr ""
+"Envolver-se em atividades que ignoram elementos de proteção de propriedade "
+"intelectual (como cracks, warez, etc.);"
 
 #: wllegal/templates/legal/documents/tos.html:448
 msgid ""
 "Sending unsolicited commercial messages and other spam or other illegal "
 "harassment of third parties;"
 msgstr ""
+"Enviar mensagens comerciais não solicitadas ou qualquer outro spam ou "
+"assédio ilegal de terceiros;"
 
 #: wllegal/templates/legal/documents/tos.html:452
 msgid ""
@@ -1909,81 +2022,105 @@ msgid ""
 "impolite, or otherwise inappropriate content that unlawfully or illegally "
 "infringes on the personal rights of third parties;"
 msgstr ""
+"Publicar ou disseminar qualquer conteúdo que possa infringir os direitos de "
+"terceiros, incluindo ataques em tais pessoas, ou qualquer conteúdo ofensivo, "
+"mal-educado, ou de outra forma inapropriado que ilicitamente ou ilegalmente "
+"infrinja nos direitos pessoais de terceiros;"
 
 #: wllegal/templates/legal/documents/tos.html:456
 msgid ""
 "Disseminating or offering any content that infringes on third-party "
 "intellectual or industrial property rights;"
 msgstr ""
+"Disseminar ou oferecer qualquer conteúdo que infringe nos direitos "
+"intelectuais ou de propriedade industrial de terceiros;"
 
 #: wllegal/templates/legal/documents/tos.html:460
 msgid ""
 "Operating or disseminating any tools that may be misused to breach network, "
 "device, or service security;"
 msgstr ""
+"Operar ou disseminar quaisquer ferramentas que possam ser usadas "
+"indevidamente para invadir uma rede, dispositivo ou serviço de segurança;"
 
 #: wllegal/templates/legal/documents/tos.html:464
 msgid "Overburdening the Provider's or third-party servers;"
-msgstr ""
+msgstr "Sobrecarregar os servidores do Fornecedor ou de terceiros;"
 
 #: wllegal/templates/legal/documents/tos.html:468
 msgid ""
 "Engaging in any activities that could harm the Provider, its reputation, or "
 "its assets;"
 msgstr ""
+"Envolver-se em atividades que possam causar danos ao Fornecedor, à sua "
+"reputação, ou aos seus ativos;"
 
 #: wllegal/templates/legal/documents/tos.html:472
 msgid ""
 "Using any means, servers, devices, or elements provided by the Provider in a "
 "manner not expressly agreed upon in these Terms or the Agreement;"
 msgstr ""
+"Usar quaisquer meios, servidores, dispositivos ou elementos fornecidos pelo "
+"Fornecedor de forma não expressamente acordada nestes Termos ou no Acordo;"
 
 #: wllegal/templates/legal/documents/tos.html:476
 msgid ""
 "Conducting activities that would disclose any content to third parties that:"
-msgstr ""
+msgstr "Realizar atividades que revelassem qualquer conteúdo a terceiros que:"
 
 #: wllegal/templates/legal/documents/tos.html:480
 msgid "Contains prohibited applications and scripts;"
-msgstr ""
+msgstr "Contenha aplicações e scripts proibidos;"
 
 #: wllegal/templates/legal/documents/tos.html:484
 msgid "Overloads database systems or causes malfunction of servers;"
 msgstr ""
+"Sobrecarregue sistemas de bases de dados ou cause o mau funcionar de "
+"servidores;"
 
 #: wllegal/templates/legal/documents/tos.html:488
 msgid ""
 "Overburdens the infrastructure, connection lines, or hardware of the "
 "Provider or third parties;"
 msgstr ""
+"Sobrecarrega a infraestrutura, linhas de conexão, ou hardware do Fornecedor "
+"ou de terceiros;"
 
 #: wllegal/templates/legal/documents/tos.html:492
 msgid ""
 "Involves music, sound, image, film, or similar files for which the User "
 "lacks distribution rights;"
 msgstr ""
+"Envolve música, som, imagem, filme, ou ficheiros semelhantes para os quais o "
+"Utilizador não possui direitos de distribuição;"
 
 #: wllegal/templates/legal/documents/tos.html:496
 msgid ""
 "Threatens the privacy or security of other Internet users or the security of "
 "computer systems (e.g., through viruses, password generators, etc.);"
 msgstr ""
+"Ameaça a privacidade ou segurança de outros utilizadores da Internet ou da "
+"segurança de sistemas de computadores (p.ex., através de vírus, geradores de "
+"palavra-passe, etc.);"
 
 #: wllegal/templates/legal/documents/tos.html:500
 msgid ""
 "Is part of the provided Service without written permission from the Provider "
 "to share it with third parties;"
 msgstr ""
+"É parte do Serviço fornecido sem permissão escrita do Fornecedor para "
+"partilhá-lo com terceiros;"
 
 #: wllegal/templates/legal/documents/tos.html:504
 msgid ""
 "Gives the impression that the User acts on behalf of the Provider without "
 "authorization;"
 msgstr ""
+"Dá a impressão que o Utilizador age em nome do Fornecedor sem autorização;"
 
 #: wllegal/templates/legal/documents/tos.html:508
 msgid "May harm any third-party rights."
-msgstr ""
+msgstr "Pode prejudicar quaisquer direitos de terceiros."
 
 #: wllegal/templates/legal/documents/tos.html:512
 msgid ""
@@ -1993,6 +2130,12 @@ msgid ""
 "public morality, ethical principles, or Internet usage rules, or is aiding "
 "in or committing criminal activities."
 msgstr ""
+"O Fornecedor pode, sem qualquer aviso prévio, interromper, limitar, ou "
+"suspender a provisão de Serviços se tem motivos razoáveis para acreditar que "
+"o Utilizador está a violar os Termos, o Acordo, ou a usar os Serviços "
+"contrário às leis aplicáveis, moralidade pública, princípios éticos, ou "
+"regras de utilização de Internet, ou está a ajudar ou a cometer atividades "
+"criminais."
 
 #: wllegal/templates/legal/documents/tos.html:516
 msgid ""
@@ -2002,6 +2145,12 @@ msgid ""
 "invoicing) or excessive usage, particularly through automated software and "
 "bots that overload the Provider’s servers or other technical facilities."
 msgstr ""
+"O Fornecedor também pode, sem aviso prévio, interromper, limitar ou "
+"suspender a provisão de Serviços se os Serviços estão a ser indevidamente "
+"utilizados para interferência não autorizada dos direitos do Fornecedor "
+"(p.ex., falsificação de identidade, faturação fraudulenta) ou utilização "
+"excessiva, particularmente através de software automatizado e robôs que "
+"sobrecarreguem os servidores do Fornecedor ou outras instalações técnicas."
 
 #: wllegal/templates/legal/documents/tos.html:520
 msgid ""
@@ -2010,6 +2159,10 @@ msgid ""
 "responsible for any damages resulting from the interruption and cannot claim "
 "any compensation from the Provider for such damages."
 msgstr ""
+"O Utilizador concorda expressamente que no caso de uma interrupção "
+"justificada, limitação, ou suspensão de Serviços feitos pelo Fornecedor, o "
+"Utilizador é o único responsável por dados resultantes da interrupção e não "
+"pode reclamar qualquer indemnização do Fornecedor para tais danos."
 
 #: wllegal/templates/legal/documents/tos.html:524
 msgid ""
@@ -2019,6 +2172,11 @@ msgid ""
 "or ensuring the installation and execution of tools and scripts on the "
 "virtual server that verify and check the software resources used."
 msgstr ""
+"Para verificar a solução de código usada ou auditar o licenciamento de "
+"recursos de código atribuído e conteúdo carregado através de Serviços, o "
+"Utilizador concorda em prestar cooperação total ao Fornecedor. Isto inclui "
+"ativar ou assegurar-se que a instalação e execução de ferramentas e scripts "
+"no servidor virtual que verificam conferem os recursos de código usados."
 
 #: wllegal/templates/legal/documents/tos.html:528
 msgid ""
@@ -2044,7 +2202,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:533
 msgid "Termination of the Agreement"
-msgstr ""
+msgstr "Terminação do Acordo"
 
 #: wllegal/templates/legal/documents/tos.html:537
 msgid ""
@@ -2053,6 +2211,10 @@ msgid ""
 "(either the Provider or the User) with liquidation, termination of the "
 "Agreement, or by mutual agreement of the Parties."
 msgstr ""
+"A relação contratual pode ser terminada por rescisão do Acordo, expiração do "
+"termo acordado, dissolução de uma entidade jurídica (ou o Fornecedor ou o "
+"Utilizador) com liquidação, terminação do Acordo, ou por acordo mútuo das "
+"Partes."
 
 #: wllegal/templates/legal/documents/tos.html:541
 msgid ""
@@ -2060,12 +2222,17 @@ msgid ""
 "reason. The notice period is three months, starting from the first day of "
 "the calendar month following the delivery of the notice to the User."
 msgstr ""
+"O Fornecedor pode terminar o Acordo a qualquer momento sem fornecer uma "
+"razão. O período de aviso são três meses, a partir do primeiro dia do mês "
+"civil seguinte à entrega da notificação ao Utilizador."
 
 #: wllegal/templates/legal/documents/tos.html:545
 msgid ""
 "The User may terminate the Agreement under the conditions specified in "
 "Section 8.1 of these Terms."
 msgstr ""
+"O Utilizador pode terminar o Acordo sob as condições especificadas na Secção "
+"8.1 destes Termos."
 
 #: wllegal/templates/legal/documents/tos.html:549
 msgid ""
@@ -2075,6 +2242,11 @@ msgid ""
 "Agreement. The withdrawal becomes effective the day after the User receives "
 "the notice of withdrawal."
 msgstr ""
+"Se o Utilizador viola materialmente ou repetidamente as suas obrigações sob "
+"estes Termos ou do Acordo e não consegue resolver a violação dentro de 14 "
+"dias a seguir à entrega de um aviso da violação, o Fornecedor pode rescindir "
+"do Acordo. A rescisão torna-se efetiva no dia após o Utilizador receber a "
+"notificação de rescisão."
 
 #: wllegal/templates/legal/documents/tos.html:553
 msgid ""
@@ -2083,6 +2255,10 @@ msgid ""
 "withdraw from the Agreement and terminate the provision of the Service as "
 "soon as such a breach is discovered."
 msgstr ""
+"Se o Utilizador viola as suas obrigações sob estes Termos ou o Acordo de "
+"maneira particularmente séria, o Fornecedor tem o direito de rescindir "
+"imediatamente do Acordo e terminar o fornecer do Serviço assim que uma "
+"violação seja descoberta."
 
 #: wllegal/templates/legal/documents/tos.html:557
 msgid ""
@@ -2090,6 +2266,9 @@ msgid ""
 "in a particularly serious manner, the User is entitled to immediately "
 "withdraw from the Agreement as soon as such a breach is discovered."
 msgstr ""
+"Se o Fornecedor viola as suas obrigações sob estes Termos ou o Acordo de "
+"forma particularmente séria, o Utilizador tem o direito de rescindir do "
+"Acordo imediatamente assim que uma violação seja descoberta."
 
 #: wllegal/templates/legal/documents/tos.html:561
 msgid ""
@@ -2099,10 +2278,15 @@ msgid ""
 "including the provisions of Sections 1912 (2), 1923, 1969, 1977, 1978, 1979, "
 "2001, 2002, 2003, 2106, 2107, 2110, and 2111 of the Czech Civil Code."
 msgstr ""
+"Nenhuma parte pode terminar ou acabar o Acordo exceto em casos "
+"explicitamente referido nesta Secção. As Partes excluem, na medida do "
+"possível, o direito de qualquer uma das Partes de terminar este Acordo, "
+"incluindo as disposições das Secções 1912 (2), 1923, 1969, 1977, 1978, 1979, "
+"2001, 2002, 2003, 2106, 2107, 2110, e 2111 do Código Civil Checo."
 
 #: wllegal/templates/legal/documents/tos.html:565
 msgid "Limitation of Liability"
-msgstr ""
+msgstr "Limitação de Responsabilidade"
 
 #: wllegal/templates/legal/documents/tos.html:569
 msgid ""
@@ -2113,10 +2297,16 @@ msgid ""
 "other intangible losses (even if the Provider has been advised of the "
 "possibility of such damages), resulting from:"
 msgstr ""
+"O Fornecedor não é responsável por danos indiretos resultantes da provisão "
+"de Serviços, tais como lucros cessantes, receitas perdidas, perda de dados, "
+"danos financeiros, ou quaisquer danos indiretos, especiais ou "
+"consequenciais, incluindo danos exemplares ou punitivos, tais como, mas não "
+"limitados a, danos de outras perdas intangíveis (ainda que o Fornecedor "
+"tenha sido informado da possibilidade de tais danos), resultantes de:"
 
 #: wllegal/templates/legal/documents/tos.html:574
 msgid "Use or inability to use the Service;"
-msgstr ""
+msgstr "Utilização ou incapacidade de utilização do Serviço;"
 
 #: wllegal/templates/legal/documents/tos.html:577
 msgid ""
@@ -2124,6 +2314,9 @@ msgid ""
 "data, information, or services purchased or obtained or messages received, "
 "or transactions entered into through or from the Service;"
 msgstr ""
+"O custo de aquisição de bens substitutos e serviços decorrentes de quaisquer "
+"bens, dados, informação, ou serviços adquiridos o obtidos ou mensagens "
+"recebidas, ou transações realizadas ou a partir do Serviço;"
 
 #: wllegal/templates/legal/documents/tos.html:580
 msgid ""
@@ -2131,6 +2324,9 @@ msgid ""
 "including any outcomes of third-party solutions or services related to the "
 "Service;"
 msgstr ""
+"Declarações ou ações de quaisquer terceiros envolvidos em fornecer o "
+"Serviço, incluindo quaisquer resultados de soluções de terceiros ou serviços "
+"relacionados com o Serviço;"
 
 #: wllegal/templates/legal/documents/tos.html:583
 msgid "Any other matters related to the Service."
