@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-06-22 21:04-0500\n"
-"PO-Revision-Date: 2026-06-24 12:23+0000\n"
+"PO-Revision-Date: 2026-06-25 10:39+0000\n"
 "Last-Translator: hoanghuy309 <hoanghuy309@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/weblate/legal/"
 "vi/>\n"
@@ -890,7 +890,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:163
 msgid "User Account"
-msgstr ""
+msgstr "Tài Khoản Người Dùng"
 
 #: wllegal/templates/legal/documents/tos.html:166
 msgid ""
@@ -1138,6 +1138,12 @@ msgid ""
 "creating, and distributing the Service, even if the User does not publicly "
 "release the Service."
 msgstr ""
+"Người dùng thừa nhận rằng tất cả quyền tác giả và các quyền sở hữu trí tuệ "
+"khác đối với Dịch vụ thuộc về Nhà cung cấp và/hoặc các bên thứ ba có tác "
+"phẩm đã được đưa vào Dịch vụ và/hoặc được sử dụng chung với Dịch vụ. Tuy "
+"nhiên, Người dùng không mất quyền sử dụng Dịch vụ trong phạm vi được phép "
+"bởi các giấy phép áp dụng, bao gồm việc chạy, tạo và phân phối Dịch vụ, ngay "
+"cả khi Người dùng không công khai phát hành Dịch vụ."
 
 #: wllegal/templates/legal/documents/tos.html:303
 msgid ""
