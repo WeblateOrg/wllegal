@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-06-22 21:04-0500\n"
-"PO-Revision-Date: 2026-06-25 10:39+0000\n"
+"PO-Revision-Date: 2026-06-26 11:01+0000\n"
 "Last-Translator: hoanghuy309 <hoanghuy309@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/weblate/legal/"
 "vi/>\n"
@@ -202,7 +202,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
-msgstr ""
+msgstr "Ảnh đại diện của người dùng,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
 #, fuzzy
@@ -1021,10 +1021,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:249
-#, fuzzy
-#| msgid "XLIFF Translation File"
 msgid "regular price for Translation Memory;"
-msgstr "Tập tin dịch kiểu XLIFF"
+msgstr "giá thông thường cho Bộ Nhớ Dịch Thuật;"
 
 #: wllegal/templates/legal/documents/tos.html:254
 msgid ""
@@ -1760,6 +1758,11 @@ msgid ""
 "defined in this Agreement and the <a href=\"%(privacy_url)s\">Privacy "
 "Policy</a>."
 msgstr ""
+"Nhà Cung Cấp cam kết không cung cấp bất kỳ thông tin nào do Người Dùng gửi "
+"trong quá trình đăng ký tài khoản Người Dùng hoặc bất kỳ dữ liệu cá nhân nào "
+"khác do Người Dùng cung cấp cho bên thứ ba với mục đích ngoài những mục đích "
+"đã được định nghĩa trong Thỏa Thuận này và <a href=\"%(privacy_url)s\">Chính "
+"Sách Bảo Mật</a>."
 
 #: wllegal/templates/legal/documents/tos.html:616
 msgid ""
