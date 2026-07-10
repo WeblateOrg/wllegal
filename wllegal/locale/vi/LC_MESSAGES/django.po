@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-07-08 05:34-0500\n"
-"PO-Revision-Date: 2026-07-09 04:01+0000\n"
+"PO-Revision-Date: 2026-07-11 16:01+0000\n"
 "Last-Translator: hoanghuy309 <hoanghuy309@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/weblate/legal/"
 "vi/>\n"
@@ -142,45 +142,53 @@ msgid ""
 "a <strong>data controller</strong> and Users who are natural persons act as "
 "data subjects as these roles are defined in the GDPR."
 msgstr ""
+"Trừ khi có quy định khác rõ ràng trong Chính sách này, Bên Cung Cấp đóng vai "
+"trò là <strong>bên kiểm soát dữ liệu</strong> và Người Dùng là cá nhân đóng "
+"vai trò là chủ thể dữ liệu theo định nghĩa trong GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:50
 msgid "Scope, Purposes, and Duration of Processing"
-msgstr ""
+msgstr "Phạm vi, Mục đích và Thời gian xử lý"
 
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
-msgstr ""
+msgstr "Bên cung cấp xử lý dữ liệu cá nhân của Người Dùng cho các mục đích sau:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "thực hiện Hợp đồng theo Điều 6(1)(b) của GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:62
 msgid "negotiating the Contract under Article 6(1)(b) of the GDPR,"
-msgstr ""
+msgstr "đàm phán Hợp đồng theo Điều 6(1)(b) của GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:65
 msgid ""
 "fulfilling the Provider's legal obligations under Article 6(1)(c) of the "
 "GDPR,"
 msgstr ""
+"thực hiện các nghĩa vụ pháp lý của Bên cung cấp theo Điều 6(1)(c) của GDPR,"
 
 #: wllegal/templates/legal/documents/privacy.html:68
 msgid ""
 "the legitimate interests of the Provider under Article 6(1)(f) of the GDPR, "
 "and in selected cases also"
 msgstr ""
+"lợi ích hợp pháp của Bên cung cấp theo Điều 6(1)(f) của GDPR, và trong một "
+"số trường hợp được chọn cũng"
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
-msgstr ""
+msgstr "sự đồng ý do Người dùng cấp theo Điều 6(1)(a) của GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
 msgstr ""
+"Phạm vi dữ liệu cá nhân của Người dùng được Bên cung cấp xử lý bao gồm bao "
+"gồm những nội dung sau:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
@@ -188,7 +196,7 @@ msgstr "họ và tên,"
 
 #: wllegal/templates/legal/documents/privacy.html:84
 msgid "User's address (delivery and billing),"
-msgstr ""
+msgstr "Địa chỉ của Người dùng (giao hàng và thanh toán),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
@@ -199,16 +207,16 @@ msgid ""
 "nickname(s) (including any voluntarily linked platforms such as Liberapay, "
 "GitHub, X, and others),"
 msgstr ""
+"biệt danh (bao gồm các nền tảng được liên kết tự nguyện như Liberapay, "
+"GitHub, X và các nền tảng khác),"
 
 #: wllegal/templates/legal/documents/privacy.html:93
 msgid "User's avatar,"
 msgstr "Ảnh đại diện của người dùng,"
 
 #: wllegal/templates/legal/documents/privacy.html:96
-#, fuzzy
-#| msgid "Username"
 msgid "email address(es),"
-msgstr "Tên tài khoản"
+msgstr "địa chỉ email,"
 
 #: wllegal/templates/legal/documents/privacy.html:99
 msgid ""
@@ -216,15 +224,21 @@ msgid ""
 "openSUSE, and Ubuntu in the event that accounts with these providers are "
 "linked to the User account,"
 msgstr ""
+"các định danh cho Bitbucket, Facebook, Google, LinkedIn, GitHub, GitLab, "
+"openSUSE và Ubuntu trong trường hợp các tài khoản với các nhà cung cấp này "
+"được liên kết với tài khoản Người dùng,"
 
 #: wllegal/templates/legal/documents/privacy.html:102
 msgid "specifications of the Service and Product used by the User,"
 msgstr ""
+"các thông số kỹ thuật của Dịch vụ và Sản phẩm mà Người dùng đang sử dụng,"
 
 #: wllegal/templates/legal/documents/privacy.html:105
 msgid ""
 "information about the number of team members of the User and their roles,"
 msgstr ""
+"thông tin về số lượng thành viên của đội do Người dùng quản lý và vai trò "
+"của họ,"
 
 #: wllegal/templates/legal/documents/privacy.html:108
 msgid ""
@@ -232,10 +246,15 @@ msgid ""
 "Profile), i.e., settings for languages, notifications, if they can identify "
 "the User directly or indirectly,"
 msgstr ""
+"tất cả các cài đặt người dùng khác của tài khoản Người Dùng (bao gồm cả cái "
+"gọi là “Hồ sơ”), tức là các cài đặt về ngôn ngữ, thông báo, nếu các cài đặt "
+"đó có thể xác định danh tính người dùng một cách trực tiếp hoặc gián tiếp,"
 
 #: wllegal/templates/legal/documents/privacy.html:111
 msgid "bank account number and possibly other payment details of the User,"
 msgstr ""
+"số tài khoản ngân hàng và có thể là các thông tin thanh toán khác của Người "
+"Dùng,"
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
@@ -504,12 +523,13 @@ msgid ""
 "correction, restriction, or deletion) can be automated through this user "
 "account."
 msgstr ""
-"Người dùng có thể thực hiện các quyền của mình phát sinh từ GDPR bất cứ lúc "
-"nào bằng cách gửi email đến <a href=\"mailto:%(address)s\">%(address)s</a>, "
-"cũng như thông qua Tài khoản người dùng của họ, vì việc thực hiện hầu hết "
-"các quyền được liệt kê bên dưới (đặc biệt là quyền truy cập vào tất cả Dữ "
-"liệu cá nhân đã được xử lý, việc chỉnh sửa, hạn chế hoặc xóa) có thể được tự "
-"động hóa thông qua tài khoản người dùng này."
+"Người dùng có thể thực hiện các quyền của mình theo Quy định chung về bảo vệ "
+"dữ liệu (GDPR) bất cứ lúc nào bằng cách gửi email đến <a href=\"mailto:%"
+"(address)s\">%(address)s</a>, cũng như thông qua Tài khoản Người dùng của "
+"mình, vì việc thực hiện hầu hết các quyền được liệt kê dưới đây (đặc biệt là "
+"quyền truy cập vào tất cả Dữ liệu cá nhân đã được xử lý, quyền chỉnh sửa, "
+"hạn chế hoặc xóa các dữ liệu này) có thể được tự động hóa thông qua tài "
+"khoản người dùng này."
 
 #: wllegal/templates/legal/documents/privacy.html:244
 msgid ""
@@ -854,10 +874,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:142
-#, fuzzy
-#| msgid "Service"
 msgid "Support Services"
-msgstr "Dịch vụ"
+msgstr "Dịch vụ Hỗ trợ"
 
 #: wllegal/templates/legal/documents/tos.html:145
 msgid ""
@@ -867,10 +885,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:149
-#, fuzzy
-#| msgid "XLIFF Translation File"
 msgid "Translation Memory"
-msgstr "Tập tin dịch kiểu XLIFF"
+msgstr "Bộ nhớ phiên dịch"
 
 #: wllegal/templates/legal/documents/tos.html:152
 msgid "means an optional translation memory service provided on Weblate;"
@@ -979,10 +995,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:227
-#, fuzzy
-#| msgid "Service"
 msgid "Service Duration"
-msgstr "Dịch vụ"
+msgstr "Thời Hạn Dịch Vụ"
 
 #: wllegal/templates/legal/documents/tos.html:231
 msgid ""
@@ -1096,10 +1110,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:286
-#, fuzzy
-#| msgid "License"
 msgid "License Terms"
-msgstr "Giấy phép"
+msgstr "Điều Khoản Cấp Phép"
 
 #: wllegal/templates/legal/documents/tos.html:290
 #, python-format
@@ -1724,10 +1736,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:600
-#, fuzzy
-#| msgid "PHP strings"
 msgid "Personal Data Protection"
-msgstr "PHP strings"
+msgstr "Bảo Vệ Dữ Liệu Cá Nhân"
 
 #: wllegal/templates/legal/documents/tos.html:604
 #, python-format
