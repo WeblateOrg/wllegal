@@ -6,9 +6,9 @@ msgstr ""
 "Project-Id-Version: Weblate / Hosted: Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-07-08 05:34-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-07-13 05:31+0000\n"
+"Last-Translator: BoneNI <bounkirdni@gmail.com>\n"
+"Language-Team: Lao <https://hosted.weblate.org/projects/weblate/legal/lo/>\n"
 "Language: lo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,11 +29,13 @@ msgid ""
 "The Privacy Policy document is legally-binding in English, translations are "
 "provided for your convenience."
 msgstr ""
+"ເອກະສານນະໂຍບາຍຄວາມເປັນສ່ວນຕົວມີຜົນຜູກມັດທາງກົດໝາຍໃນພາສາອັງກິດ, ການແປພາສາຖືກສະໜອງໃຫ້ເພື່ອຄວາ"
+"ມສະດວກຂອງເຈົ້າ."
 
 #: wllegal/templates/legal/documents/privacy.html:6
 #: wllegal/templates/legal/documents/tos.html:6
 msgid "View English version"
-msgstr ""
+msgstr "ເບິ່ງເວີຊັນພາສາອັງກິດ"
 
 #: wllegal/templates/legal/documents/privacy.html:12
 #, python-format
@@ -617,6 +619,8 @@ msgid ""
 "The General Terms and Conditions document is legally-binding in English, "
 "translations are provided for your convenience."
 msgstr ""
+"ເອກະສານຂໍ້ກຳນົດ ແລະ ເງື່ອນໄຂທົ່ວໄປມີຜົນຜູກມັດທາງກົດໝາຍໃນພາສາອັງກິດ, ການແປພາສາຖືກສະໜອງໃຫ້ເພື່ອຄວ"
+"າມສະດວກຂອງເຈົ້າ."
 
 #: wllegal/templates/legal/documents/tos.html:11
 msgid ""
@@ -711,7 +715,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:79
 msgid "Hosted Weblate"
-msgstr ""
+msgstr "Hosted Weblate"
 
 #: wllegal/templates/legal/documents/tos.html:82
 msgid ""
@@ -743,7 +747,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
 msgid "Price"
-msgstr ""
+msgstr "ລາຄາ"
 
 #: wllegal/templates/legal/documents/tos.html:103
 msgid ""
@@ -774,7 +778,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:121
 msgid "Provider"
-msgstr ""
+msgstr "ຜູ້ໃຫ້ບໍລິການ"
 
 #: wllegal/templates/legal/documents/tos.html:124
 msgid ""
@@ -786,7 +790,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:128
 msgid "Service"
-msgstr ""
+msgstr "ການບໍລິການ"
 
 #: wllegal/templates/legal/documents/tos.html:131
 msgid ""
@@ -824,7 +828,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:156
 msgid "User"
-msgstr ""
+msgstr "ຜູ້ໃຊ້"
 
 #: wllegal/templates/legal/documents/tos.html:159
 msgid ""
