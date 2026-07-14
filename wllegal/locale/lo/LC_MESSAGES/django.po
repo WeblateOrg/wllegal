@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Weblate / Hosted: Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-07-08 05:34-0500\n"
-"PO-Revision-Date: 2026-07-14 06:01+0000\n"
+"PO-Revision-Date: 2026-07-14 15:31+0000\n"
 "Last-Translator: BoneNI <bounkirdni@gmail.com>\n"
 "Language-Team: Lao <https://hosted.weblate.org/projects/weblate/legal/lo/>\n"
 "Language: lo\n"
@@ -749,8 +749,7 @@ msgid ""
 "By registering, you agree that your name and username will be visible "
 "publicly as long as your account exists."
 msgstr ""
-"ໂດຍການລົງທະບຽນ, ທ່ານຕົກລົງເຫັນດີວ່າຊື່ ແລະ ຊື່ຜູ້ໃຊ້ຂອງທ່ານຈະຖືກສະແດງຕໍ່ສາທາລະນະຕາບໃດທີ່ບັນຊີຂອງທ່ານ"
-"ຍັງຄົງຢູ່."
+"ໂດຍການລົງທະບຽນ, ທ່ານຍິນຍອມໃຫ້ຊື່ ແລະ ຊື່ຜູ້ໃຊ້ຂອງທ່ານປະກົດຕໍ່ສາທາລະນະຕາບໃດທີ່ບັນຊີຂອງທ່ານຍັງມີຢູ່."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid ""
@@ -773,7 +772,7 @@ msgid ""
 "You provide your contribution under the license defined by each project you "
 "contributed to."
 msgstr ""
-"ທ່ານໃຫ້ການປະກອບສ່ວນຂອງທ່ານພາຍໃຕ້ໃບອະນຸຍາດທີ່ກຳນົດໂດຍແຕ່ລະໂຄງການທີ່ທ່ານໄດ້ປະກອບສ່ວນເຂົ້າ."
+"ທ່ານສະໜອງການປະກອບສ່ວນຂອງທ່ານພາຍໃຕ້ໃບອະນຸຍາດທີ່ກຳນົດໂດຍແຕ່ລະໂຄງການທີ່ທ່ານປະກອບສ່ວນ."
 
 #: wllegal/templates/legal/documents/summary.html:18
 msgid "We use cookies to deliver our services."
@@ -989,7 +988,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:128
 msgid "Service"
-msgstr "ການບໍລິການ"
+msgstr "ບໍລິການ"
 
 #: wllegal/templates/legal/documents/tos.html:131
 msgid ""
