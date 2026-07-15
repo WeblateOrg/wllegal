@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-07-15 17:53-0500\n"
-"PO-Revision-Date: 2026-06-13 09:01+0000\n"
-"Last-Translator: 為什麼不加空格 <c++23@users.noreply.hosted.weblate.org>\n"
+"PO-Revision-Date: 2026-07-16 18:01+0000\n"
+"Last-Translator: Lee Vincent <vincentlee986@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/weblate/legal/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.7.dev0\n"
+"X-Generator: Weblate 2026.8.dev0\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -343,6 +343,8 @@ msgid ""
 "selected Personal Data based on a different legal reason if this legal "
 "reason in favour of the Provider continues to exist."
 msgstr ""
+"一旦處理個人資料的目的消失，服務提供者將銷毀該個人資料。然而，若服務提供者仍"
+"有其他法律依據存在，則不排除依據該不同的法律依據繼續處理特定個人資料。"
 
 #: wllegal/templates/legal/documents/privacy.html:149
 msgid "Recipients and Processors of Personal Data"
@@ -1133,7 +1135,6 @@ msgstr ""
 "議定之；"
 
 #: wllegal/templates/legal/documents/tos.html:249
-#, fuzzy
 msgid "regular price for Translation Memory;"
 msgstr "翻譯記憶之定期價格；"
 
