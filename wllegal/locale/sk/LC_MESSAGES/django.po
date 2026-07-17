@@ -380,7 +380,7 @@ msgstr ""
 "materiálov nenaviazaných na ďalšie služby Poskytovateľa a/alebo zverejnenie "
 "Osobných údajov Používateľa v súvislosti s darom poskytnutým "
 "Poskytovateľovi. Odvolanie je možné vykonať kedykoľvek priamo v rozhraní "
-"Používateľského účtu a v v prípade súhlasu udeleného inak aj zaslaním "
+"Používateľského účtu a v prípade súhlasu udeleného inak aj zaslaním "
 "žiadosti na adresu <a href=\"mailto:%(address)s\">%(address)s</a>."
 
 #: wllegal/templates/legal/documents/privacy.html:144
@@ -1265,7 +1265,8 @@ msgid ""
 "the GTC."
 msgstr ""
 "Ak nie je v Zmluve výslovne dohodnuté inak, Zmluva je uzatvorená na dobu, "
-"ktorá zodpovedá modelu predplatného. súlade s čl. 5 VOP."
+"ktorá zodpovedá modelu predplatného. Predplatné je možné platiť mesačne "
+"alebo ročne v súlade s čl. 5 VOP."
 
 #: wllegal/templates/legal/documents/tos.html:239
 msgid ""
