@@ -132,7 +132,7 @@ msgid ""
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
 msgstr ""
-"Việc xử lý được thực hiện có thể trực tiếp bởi nhà cung cấp hoặc vởi các bên "
+"Việc xử lý được thực hiện có thể trực tiếp bởi nhà cung cấp hoặc bởi các bên "
 "thứ ba theo nghĩa của mục 3 của Chính sách, đã được cấp quyền bởi nhà cung "
 "cấp để xử lý dữ liệu cá nhân tuân theo Chính sách này."
 
