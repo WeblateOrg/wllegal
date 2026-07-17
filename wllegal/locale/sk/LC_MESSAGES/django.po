@@ -468,8 +468,8 @@ msgid ""
 "the persons mentioned in this Article 3.1 are collectively referred to in "
 "this Policy as \"<strong>Processors</strong>\"."
 msgstr ""
-"osoby vyššie uvedené v tomto čl. 3.1 sú v týchto Zásadách naďalej spoločne "
-"označené ako len ako „<strong>Spracovávatelia</strong>“."
+"osoby vyššie uvedené v tomto čl. 3.1 sú v týchto Zásadách naďalej súhrnne "
+"označované ako „<strong>Spracovávatelia</strong>“."
 
 #: wllegal/templates/legal/documents/privacy.html:182
 msgid ""
