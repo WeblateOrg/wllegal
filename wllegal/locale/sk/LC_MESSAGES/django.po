@@ -1265,7 +1265,8 @@ msgid ""
 "the GTC."
 msgstr ""
 "Ak nie je v Zmluve výslovne dohodnuté inak, Zmluva je uzatvorená na dobu, "
-"ktorá zodpovedá modelu predplatného. súlade s čl. 5 VOP."
+"ktorá zodpovedá modelu predplatného. Predplatné je možné platiť mesačne "
+"alebo ročne v súlade s čl. 5 VOP."
 
 #: wllegal/templates/legal/documents/tos.html:239
 msgid ""
