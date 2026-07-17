@@ -14,7 +14,6 @@ jobs:
     strategy:
       matrix:
         python-version:
-        - '3.11'
         - '3.12'
         - '3.13'
         - '3.14'
@@ -53,6 +52,7 @@ jobs:
     - name: Install pip dependencies
       run: |
         uv pip install --system ".[test]"
+        uv pip install --system https://github.com/WeblateOrg/weblate/archive/main.zip
     - name: Test with Django
       env:
         CI_DATABASE: postgresql
