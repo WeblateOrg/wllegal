@@ -46,8 +46,8 @@ msgstr ""
 #, python-format
 msgid ""
 "This Privacy Policy, hereinafter referred to as \"<strong>Policy</strong>\", "
-"supplements the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
-"Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
+"supplements the <a href=\"%(terms_url)s\">General Terms and Conditions</a> "
+"of Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:17
@@ -573,10 +573,10 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:288
 msgid ""
 "If any provision of the Policy is invalid or ineffective, or becomes so, the "
-"provision whose meaning most closely approximates that of the invalid provision will "
-"replace the invalid provision. The invalidity or ineffectiveness of one "
-"provision does not affect the validity of the other provisions of this "
-"Policy."
+"provision whose meaning most closely approximates that of the invalid "
+"provision will replace the invalid provision. The invalidity or "
+"ineffectiveness of one provision does not affect the validity of the other "
+"provisions of this Policy."
 msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:292
