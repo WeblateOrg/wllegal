@@ -187,6 +187,7 @@ msgstr "sự đồng ý do Người dùng cấp theo Điều 6(1)(a) của GDPR.
 msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
+msgstr ""
 "Phạm vi dữ liệu cá nhân của Người dùng được Bên cung cấp xử lý bao gồm "
 "những nội dung sau:"
 "gồm những nội dung sau:"
