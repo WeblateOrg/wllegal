@@ -31,7 +31,7 @@ msgstr "Estado em maio de 2024."
 
 #: wllegal/templates/legal/documents/privacy.html:5
 msgid ""
-"The Privacy Policy document is legally-binding in English, translations are "
+"The Privacy Policy document is legally binding in English; translations are "
 "provided for your convenience."
 msgstr ""
 "O documento da «Política de Privacidade» é juridicamente vinculativo na "
@@ -46,7 +46,7 @@ msgstr "Ver versão em inglês"
 #, python-format
 msgid ""
 "This Privacy Policy, hereinafter referred to as \"<strong>Policy</strong>\", "
-"supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
+"supplements the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
 "Esta «Política de Privacidade», a seguir designada por \"<strong>Política</"
@@ -294,7 +294,7 @@ msgid ""
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
 "onde as categorias individuais dos dados pessoais listadas em cima "
-"continuarão a ser coletivamente referidas como \"<strong>Dados Pessoais&lt;</"
+"continuarão a ser coletivamente referidas como \"<strong>Dados Pessoais</"
 "strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:132
@@ -815,8 +815,8 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:288
 msgid ""
 "If any provision of the Policy is invalid or ineffective, or becomes so, the "
-"provision with meaning most closely approximates the invalid provision will "
-"replace the invalid provisions. The invalidity or ineffectiveness of one "
+"provision whose meaning most closely approximates that of the invalid provision will "
+"replace the invalid provision. The invalidity or ineffectiveness of one "
 "provision does not affect the validity of the other provisions of this "
 "Policy."
 msgstr ""
@@ -826,7 +826,7 @@ msgstr ""
 "a validade das outras provisões desta Política."
 
 #: wllegal/templates/legal/documents/privacy.html:292
-msgid "This Policy become effective upon their publication on the Website."
+msgid "This Policy becomes effective upon its publication on the Website."
 msgstr "Esta Política entra em vigor no momento da sua publicação no Website."
 
 #: wllegal/templates/legal/documents/privacy.html:296
@@ -886,7 +886,7 @@ msgstr "Nós não utilizamos quaisquer ''cookies'' de terceiros."
 
 #: wllegal/templates/legal/documents/tos.html:5
 msgid ""
-"The General Terms and Conditions document is legally-binding in English, "
+"The General Terms and Conditions document is legally binding in English; "
 "translations are provided for your convenience."
 msgstr ""
 "O documento dos «Termos e Condições Gerais» é legalmente vinculativo em "
@@ -2463,7 +2463,7 @@ msgid ""
 "scope of their business activities."
 msgstr ""
 "Para evitar dúvidas, as Partes confirmam explicitamente que são entidades "
-"empresariais e que estão a a celebrar este Acordo dentro do âmbito das suas "
+"empresariais e que estão a celebrar este Acordo dentro do âmbito das suas "
 "atividades empresariais."
 
 #: wllegal/templates/legal/documents/tos.html:636
