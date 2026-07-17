@@ -78,7 +78,7 @@ msgid ""
 msgstr ""
 "Chính sách này miêu tả cách mà Nhà cung cấp xử lý dữ liệu cá nhân của người "
 "làm chủ đề dữ liệu - các cá nhân khi truy cập và thường xuyên sử dụng dịch "
-"cụ, sản phẩm, dịch vụ hỗ trợ, cũng như khi sử dụng website, và các dịch vụ "
+"vụ, sản phẩm, dịch vụ hỗ trợ, cũng như khi sử dụng website, và các dịch vụ "
 "và hoạt động liên quan khả thi khác."
 
 #: wllegal/templates/legal/documents/privacy.html:29
@@ -132,7 +132,7 @@ msgid ""
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
 msgstr ""
-"Việc xử lý được thực hiện có thể trực tiếp bởi nhà cung cấp hoặc vởi các bên "
+"Việc xử lý được thực hiện có thể trực tiếp bởi nhà cung cấp hoặc bởi các bên "
 "thứ ba theo nghĩa của mục 3 của Chính sách, đã được cấp quyền bởi nhà cung "
 "cấp để xử lý dữ liệu cá nhân tuân theo Chính sách này."
 
@@ -187,8 +187,8 @@ msgstr "sự đồng ý do Người dùng cấp theo Điều 6(1)(a) của GDPR.
 msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
-msgstr ""
-"Phạm vi dữ liệu cá nhân của Người dùng được Bên cung cấp xử lý bao gồm bao "
+"Phạm vi dữ liệu cá nhân của Người dùng được Bên cung cấp xử lý bao gồm "
+"những nội dung sau:"
 "gồm những nội dung sau:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
