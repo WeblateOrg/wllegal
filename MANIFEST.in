@@ -2,6 +2,7 @@ include LICENSE
 include *.md
 include manage.py
 recursive-include wllegal *.py
+recursive-include wllegal/static *.css
 recursive-include wllegal/templates *.html *.txt
 recursive-include wllegal/locale *.pot
 recursive-include wllegal/locale *.po

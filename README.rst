@@ -6,13 +6,13 @@
 **Weblate is libre software web-based continuous localization system,
 used by over 2500 libre projects and companies in more than 165 countries.**
 
+This is the legal module used on services operated by Weblate s.r.o., including
+the `Hosted Weblate service <https://weblate.org/hosting/>`_.
 
-This is the legal module used on the `Hosted Weblate service
-<https://weblate.org/hosting/>`_.
-
-You can use it as an example of how to customize `Weblate
-<https://weblate.org/>`_, but it is probably not generally usable.  If you
-think something should be part of Weblate, please open an issue.
+It can serve as an implementation example for customizing `Weblate
+<https://weblate.org/>`_, but its legal documents are specific to those
+services and should not be used as a basis for other services. If you think
+something should be part of Weblate, please open an issue.
 
 .. image:: https://img.shields.io/badge/website-weblate.org-blue.svg
     :alt: Website
@@ -41,7 +41,7 @@ Install using pip:
 
 .. code-block:: sh
 
-    pip3 install wllegal
+    uv pip install wllegal
 
 Sources are available at <https://github.com/WeblateOrg/wllegal>.
 

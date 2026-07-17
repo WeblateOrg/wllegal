@@ -10,6 +10,7 @@ class LegalTestCase(TestCase):
     def test_terms(self) -> None:
         response = self.client.get(reverse("legal:terms"))
         self.assertContains(response, "21668027")
+        self.assertContains(response, "/static/wllegal/legal.css")
 
     def test_privacy(self) -> None:
         response = self.client.get(reverse("legal:privacy"))
@@ -18,6 +19,7 @@ class LegalTestCase(TestCase):
     def test_index(self) -> None:
         response = self.client.get(reverse("legal:index"))
         self.assertContains(response, "We process personal data")
+        self.assertContains(response, "/static/wllegal/legal.css")
 
     def test_security(self) -> None:
         response = self.client.get("/security.txt")
