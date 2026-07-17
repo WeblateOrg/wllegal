@@ -7,11 +7,11 @@
 used by over 2500 libre projects and companies in more than 165 countries.**
 
 
-This is legal module used on the `Hosted Weblate service
+This is the legal module used on the `Hosted Weblate service
 <https://weblate.org/hosting/>`_.
 
-You can use them as an example how to customize `Weblate
-<https://weblate.org/>`_, but there are probably not generally usable.  If you
+You can use it as an example of how to customize `Weblate
+<https://weblate.org/>`_, but it is probably not generally usable.  If you
 think something should be part of Weblate, please open an issue.
 
 .. image:: https://img.shields.io/badge/website-weblate.org-blue.svg
@@ -48,8 +48,8 @@ Sources are available at <https://github.com/WeblateOrg/wllegal>.
 Usage
 -----
 
-Include the module in the `INSTALLED_APPS`, it has to be placed prior to other
-Weblate modules to override it's templates:
+Include the module in the `INSTALLED_APPS`; it has to be placed prior to other
+Weblate modules to override their templates:
 
 .. code-block:: python
 

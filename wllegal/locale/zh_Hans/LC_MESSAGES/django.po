@@ -38,7 +38,7 @@ msgstr "截至 2024 年 5 月的状态。"
 
 #: wllegal/templates/legal/documents/privacy.html:5
 msgid ""
-"The Privacy Policy document is legally-binding in English, translations are "
+"The Privacy Policy document is legally binding in English; translations are "
 "provided for your convenience."
 msgstr "隐私政策文件为英文版，具有法律约束力，为您方便起见提供了翻译。"
 
@@ -51,7 +51,7 @@ msgstr "查看英文版"
 #, python-format
 msgid ""
 "This Privacy Policy, hereinafter referred to as \"<strong>Policy</strong>\", "
-"supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
+"supplements the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
 "本隐私政策，下文中称为 \"<strong>政策</strong>\" 补充 Weblate 的<a "
@@ -684,15 +684,15 @@ msgid ""
 "contractual obligations (Rome I)."
 msgstr ""
 "如果合约建立的关系包含国际（外国）因素，那么根据前一句的法律选择不剥夺用户-消"
-"费者由法律指令的条款所提供的保护。合约不得背离这些这些条款，否则依照欧洲议会"
+"费者由法律指令的条款所提供的保护。合约不得背离这些条款，否则依照欧洲议会"
 "和理事会2008年6月17日第593/2008号条例第6(1)款关于适用于合同义务的法律（罗马一"
 "指令）的规定，在没有法律选择的情况下，这些条款将变得适用。"
 
 #: wllegal/templates/legal/documents/privacy.html:288
 msgid ""
 "If any provision of the Policy is invalid or ineffective, or becomes so, the "
-"provision with meaning most closely approximates the invalid provision will "
-"replace the invalid provisions. The invalidity or ineffectiveness of one "
+"provision whose meaning most closely approximates that of the invalid provision will "
+"replace the invalid provision. The invalidity or ineffectiveness of one "
 "provision does not affect the validity of the other provisions of this "
 "Policy."
 msgstr ""
@@ -701,7 +701,7 @@ msgstr ""
 "性。"
 
 #: wllegal/templates/legal/documents/privacy.html:292
-msgid "This Policy become effective upon their publication on the Website."
+msgid "This Policy becomes effective upon its publication on the Website."
 msgstr "本政策自发布于网站之时起奏效。"
 
 #: wllegal/templates/legal/documents/privacy.html:296
@@ -754,7 +754,7 @@ msgstr "我们不使用任何第三方 cookies。"
 
 #: wllegal/templates/legal/documents/tos.html:5
 msgid ""
-"The General Terms and Conditions document is legally-binding in English, "
+"The General Terms and Conditions document is legally binding in English; "
 "translations are provided for your convenience."
 msgstr "一般条款和条件文件为英文版，具有法律约束力，为您方便起见提供了翻译。"
 

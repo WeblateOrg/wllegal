@@ -30,7 +30,7 @@ msgstr "Stanje od maja 2024."
 
 #: wllegal/templates/legal/documents/privacy.html:5
 msgid ""
-"The Privacy Policy document is legally-binding in English, translations are "
+"The Privacy Policy document is legally binding in English; translations are "
 "provided for your convenience."
 msgstr ""
 "Pravilnik o zasebnosti je pravno zavezujoč v angleščini, prevodi so na voljo "
@@ -45,7 +45,7 @@ msgstr "Ogled angleške različice"
 #, python-format
 msgid ""
 "This Privacy Policy, hereinafter referred to as \"<strong>Policy</strong>\", "
-"supplement the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
+"supplements the <a href=\"%(terms_url)s\">General Terms and Conditions</a> of "
 "Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
 "Pravilnik o zasebnosti, v nadaljevanju \"<strong>Pravilnik</strong>\", "
@@ -784,8 +784,8 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:288
 msgid ""
 "If any provision of the Policy is invalid or ineffective, or becomes so, the "
-"provision with meaning most closely approximates the invalid provision will "
-"replace the invalid provisions. The invalidity or ineffectiveness of one "
+"provision whose meaning most closely approximates that of the invalid provision will "
+"replace the invalid provision. The invalidity or ineffectiveness of one "
 "provision does not affect the validity of the other provisions of this "
 "Policy."
 msgstr ""
@@ -795,7 +795,7 @@ msgstr ""
 "drugih določb te Politike."
 
 #: wllegal/templates/legal/documents/privacy.html:292
-msgid "This Policy become effective upon their publication on the Website."
+msgid "This Policy becomes effective upon its publication on the Website."
 msgstr "Ta politika začne veljati z objavo na spletni strani."
 
 #: wllegal/templates/legal/documents/privacy.html:296
@@ -854,7 +854,7 @@ msgstr "Ne uporabljamo piškotkov tretjih oseb."
 
 #: wllegal/templates/legal/documents/tos.html:5
 msgid ""
-"The General Terms and Conditions document is legally-binding in English, "
+"The General Terms and Conditions document is legally binding in English; "
 "translations are provided for your convenience."
 msgstr ""
 "Dokument splošni pogoji poslovanja je pravno zavezujoč v angleščini, prevodi "
