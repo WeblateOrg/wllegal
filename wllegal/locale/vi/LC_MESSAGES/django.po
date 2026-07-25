@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-07-23 13:05-0500\n"
-"PO-Revision-Date: 2026-07-18 08:01+0000\n"
+"PO-Revision-Date: 2026-07-26 05:01+0000\n"
 "Last-Translator: hoanghuy309 <hoanghuy309@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/weblate/legal/"
 "vi/>\n"
@@ -646,18 +646,26 @@ msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
+"Chúng tôi xử lý dữ liệu cá nhân (chẳng hạn như địa chỉ email của bạn); những "
+"dữ liệu này sẽ bị xóa khỏi cơ sở dữ liệu của chúng tôi nếu bạn xóa tài khoản "
+"của mình."
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
 "By registering, you agree that your name and username will be visible "
 "publicly as long as your account exists."
 msgstr ""
+"Bằng cách đăng ký, bạn đồng ý rằng tên và tên người dùng của bạn sẽ hiển thị "
+"công khai miễn là tài khoản của bạn còn tồn tại."
 
 #: wllegal/templates/legal/documents/summary.html:11
 msgid ""
 "Your name and e-mail can be used in version control system commits to author "
 "the changes you made; they can be stored there indefinitely."
 msgstr ""
+"Tên và địa chỉ email của bạn có thể được sử dụng trong các bản ghi nhận trên "
+"hệ thống kiểm soát phiên bản để ghi nhận những thay đổi bạn đã thực hiện; "
+"chúng có thể được lưu trữ ở đó vô thời hạn."
 
 #: wllegal/templates/legal/documents/summary.html:12
 msgid ""
@@ -675,11 +683,11 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/summary.html:18
 msgid "We use cookies to deliver our services."
-msgstr ""
+msgstr "Chúng tôi sử dụng cookie để cung cấp dịch vụ của mình."
 
 #: wllegal/templates/legal/documents/summary.html:19
 msgid "We don’t use any third-party cookies."
-msgstr ""
+msgstr "Chúng tôi không sử dụng bất kỳ cookie của bên thứ ba nào."
 
 #: wllegal/templates/legal/documents/tos.html:5
 msgid ""
@@ -1786,6 +1794,10 @@ msgid ""
 "technical cookies, for which explicit consent is not required under current "
 "legislation."
 msgstr ""
+"Trang web và ứng dụng web của Nhà cung cấp cũng sử dụng cookie. Các Dịch vụ "
+"chỉ sử dụng cookie phiên từ Nhà cung cấp và không bao giờ sử dụng cookie của "
+"bên thứ ba. Về chức năng và loại, Nhà cung cấp chỉ sử dụng cookie chức năng/"
+"kỹ thuật, mà theo luật hiện hành không yêu cầu sự đồng ý rõ ràng."
 
 #: wllegal/templates/legal/documents/tos.html:624
 msgid ""
