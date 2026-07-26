@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-07-23 13:05-0500\n"
-"PO-Revision-Date: 2026-04-30 08:25+0000\n"
+"PO-Revision-Date: 2026-07-27 16:01+0000\n"
 "Last-Translator: Anucha Hlownonkor <anucha.initdz@gmail.com>\n"
 "Language-Team: Thai <https://hosted.weblate.org/projects/weblate/legal/th/>\n"
 "Language: th\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17.1-dev\n"
+"X-Generator: Weblate 2026.8.dev0\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -980,10 +980,8 @@ msgid ""
 msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:249
-#, fuzzy
-#| msgid "Administration"
 msgid "regular price for Translation Memory;"
-msgstr "การดูแลระบบ"
+msgstr "ราคาปกติสำหรับหน่วยความจำการแปล;"
 
 #: wllegal/templates/legal/documents/tos.html:254
 msgid ""
