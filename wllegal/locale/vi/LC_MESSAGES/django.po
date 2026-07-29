@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-07-23 13:05-0500\n"
-"PO-Revision-Date: 2026-07-26 05:01+0000\n"
+"PO-Revision-Date: 2026-07-30 15:01+0000\n"
 "Last-Translator: hoanghuy309 <hoanghuy309@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/weblate/legal/"
 "vi/>\n"
@@ -20,9 +20,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
-msgstr ""
-"Các bên thầu phụ theo quy định tại Điều 28 của Quy định Bảo vệ Dữ liệu Chung "
-"(GDPR)"
+msgstr "Nhà thầu phụ theo Điều 28 GDPR"
 
 #: wllegal/templates/legal/documents/contracts.html:11
 msgid "Status as of May 2024."
@@ -48,9 +46,9 @@ msgid ""
 "supplements the <a href=\"%(terms_url)s\">General Terms and Conditions</a> "
 "of Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
-"Chính sách về riêng tư, sau đây được đề cập là \"<strong>Policy</strong>\", "
-"bổ sung cho <a href=\"%(terms_url)s\"> Điều khoản và điều kiện chung</a> của "
-"Weblate, sau đây được đề cập là \"<strong>Terms</strong>\"."
+"Chính sách Riêng tư này, sau đây được gọi là \"<strong>Chính sách</strong>"
+"\", bổ sung cho <a href=\"%(terms_url)s\">Điều khoản và Điều kiện chung</a> "
+"của Weblate, sau đây được gọi là \"<strong>Điều khoản</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
@@ -76,10 +74,10 @@ msgid ""
 "the Services, Products, Support Services, as well as when using the Website "
 "and other possible services and related activities."
 msgstr ""
-"Chính sách này miêu tả cách mà Nhà cung cấp xử lý dữ liệu cá nhân của người "
-"làm chủ đề dữ liệu - các cá nhân khi truy cập và thường xuyên sử dụng dịch "
-"vụ, sản phẩm, dịch vụ hỗ trợ, cũng như khi sử dụng website, và các dịch vụ "
-"và hoạt động liên quan khả thi khác."
+"Chính sách này mô tả cách Nhà cung cấp xử lý dữ liệu cá nhân của Người dùng "
+"với tư cách là chủ thể dữ liệu - cá nhân tư nhân khi truy cập và sử dụng "
+"Dịch vụ, Sản phẩm, Dịch vụ hỗ trợ, cũng như khi sử dụng Trang web và các "
+"dịch vụ khác cùng các hoạt động liên quan."
 
 #: wllegal/templates/legal/documents/privacy.html:29
 msgid ""
@@ -102,14 +100,13 @@ msgid ""
 "personal data and the protection of privacy in the electronic communications "
 "sector (abbreviated as the \"<strong>ePrivacy Directive</strong>\")."
 msgstr ""
-"Trong việc xử lý dữ liệu cá nhân, nhà cung cấp có quyền tuân theo Quy định "
-"(EU) 2016/679 của Nghị viện châu Âu và của Hội đồng, Quy định Bảo vệ Dữ liệu "
-"Chung, hay còn được biết đến là GDPR (từ đây chúng ta sẽ sử dụng từ viết tắt "
-"\"<strong>GDPR</strong>\"), Luật số 110/2019 của Bộ luật, về việc xử lý dữ "
-"liệu cá nhân, cũng như Chỉ dạo 2002/58/EC của Nghị viện châu Âu và Hội đồng "
-"ngày 12/07/2002 về việc xử lý dữ liệu cá nhân và bảo vệ quyền riêng tư trong "
-"mục kết nối của thiết bị điện tử (viết tắt là \"<strong>ePrivacy Directive</"
-"strong>\")."
+"Khi xử lý dữ liệu cá nhân, Nhà cung cấp tuân thủ Quy định (EU) 2016/679 của "
+"Nghị viện Châu Âu và Hội đồng, Quy định Bảo vệ Dữ liệu Chung, còn gọi là "
+"GDPR (sau đây chúng tôi sẽ sử dụng viết tắt \"<strong>GDPR</strong>\"), Luật "
+"số 110/2019 Coll., về xử lý dữ liệu cá nhân, cũng như Chỉ thị 2002/58/EC của "
+"Nghị viện Châu Âu và Hội đồng ngày 12 tháng 7 năm 2002 về xử lý dữ liệu cá "
+"nhân dữ liệu và bảo vệ quyền riêng tư trong lĩnh vực truyền thông điện tử "
+"(viết tắt là \"<strong>ePrivacy Directive</strong>\")."
 
 #: wllegal/templates/legal/documents/privacy.html:37
 msgid ""
@@ -132,9 +129,9 @@ msgid ""
 "authorised by the Provider to process personal data in accordance with this "
 "Policy."
 msgstr ""
-"Việc xử lý được thực hiện có thể trực tiếp bởi nhà cung cấp hoặc bởi các bên "
-"thứ ba theo nghĩa của mục 3 của Chính sách, đã được cấp quyền bởi nhà cung "
-"cấp để xử lý dữ liệu cá nhân tuân theo Chính sách này."
+"Việc xử lý sau đó được thực hiện trực tiếp bởi Nhà cung cấp và/hoặc bởi bên "
+"thứ ba theo nghĩa của Điều 3 của Chính sách này, những bên đã được Nhà cung "
+"cấp ủy quyền xử lý dữ liệu cá nhân theo Chính sách này."
 
 #: wllegal/templates/legal/documents/privacy.html:45
 msgid ""
@@ -153,8 +150,7 @@ msgstr "Phạm vi, Mục đích và Thời gian xử lý"
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
-msgstr ""
-"Bên cung cấp xử lý dữ liệu cá nhân của Người Dùng cho các mục đích sau:"
+msgstr "Nhà cung cấp xử lý dữ liệu cá nhân của Người dùng cho các mục đích sau:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
@@ -181,15 +177,15 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:71
 msgid "consent granted by the User under Article 6(1)(a) of the GDPR."
-msgstr "sự đồng ý do Người dùng cấp theo Điều 6(1)(a) của GDPR."
+msgstr "được Người dùng đồng ý theo Điều 6(1)(a) của GDPR."
 
 #: wllegal/templates/legal/documents/privacy.html:76
 msgid ""
 "The scope of the User's personal data processed by the Provider includes the "
 "following:"
 msgstr ""
-"Phạm vi dữ liệu cá nhân của Người dùng được Bên cung cấp xử lý bao gồm những "
-"nội dung sau:gồm những nội dung sau:"
+"Phạm vi dữ liệu cá nhân của Người dùng được Nhà cung cấp xử lý bao gồm các "
+"nội dung sau:"
 
 #: wllegal/templates/legal/documents/privacy.html:81
 msgid "first and last name,"
@@ -201,7 +197,7 @@ msgstr "Địa chỉ của Người dùng (giao hàng và thanh toán),"
 
 #: wllegal/templates/legal/documents/privacy.html:87
 msgid "Company ID and Tax ID,"
-msgstr ""
+msgstr "Mã công ty và Mã số thuế,"
 
 #: wllegal/templates/legal/documents/privacy.html:90
 msgid ""
@@ -376,6 +372,8 @@ msgid ""
 "accounting, legal, and tax advisors of the Provider and possibly other "
 "persons bound by confidentiality under the law;"
 msgstr ""
+"các cố vấn kế toán, pháp lý và thuế của Nhà cung cấp và có thể cả những "
+"người khác bị ràng buộc bởi nghĩa vụ bảo mật theo luật;"
 
 #: wllegal/templates/legal/documents/privacy.html:167
 msgid ""
@@ -438,7 +436,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:199
 msgid "Common Provisions on Processing"
-msgstr ""
+msgstr "Các Quy Định Chung về Xử Lý Dữ Liệu"
 
 #: wllegal/templates/legal/documents/privacy.html:203
 msgid ""
@@ -570,6 +568,9 @@ msgid ""
 "on the consent of the Provider or in connection with fulfilling the "
 "Provider's contractual obligations, in a machine-readable format;"
 msgstr ""
+"cung cấp bản sao dữ liệu cá nhân được xử lý bằng phương tiện tự động dựa "
+"trên sự đồng ý của Nhà cung cấp hoặc liên quan đến việc thực hiện các nghĩa "
+"vụ hợp đồng của Nhà cung cấp, dưới dạng có thể đọc bằng máy;"
 
 #: wllegal/templates/legal/documents/privacy.html:264
 msgid ""
@@ -591,7 +592,7 @@ msgstr ""
 #: wllegal/templates/legal/documents/privacy.html:272
 #: wllegal/templates/legal/documents/tos.html:620
 msgid "Final Provisions"
-msgstr ""
+msgstr "Các Điều Khoản Cuối Cùng"
 
 #: wllegal/templates/legal/documents/privacy.html:276
 msgid ""
@@ -639,7 +640,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:296
 msgid "In Prague on November 1, 2024."
-msgstr ""
+msgstr "Tại Praha, ngày 1 tháng 11 năm 2024."
 
 #: wllegal/templates/legal/documents/summary.html:5
 msgid ""
@@ -647,8 +648,7 @@ msgid ""
 "discarded from our database if you remove your account."
 msgstr ""
 "Chúng tôi xử lý dữ liệu cá nhân (chẳng hạn như địa chỉ email của bạn); những "
-"dữ liệu này sẽ bị xóa khỏi cơ sở dữ liệu của chúng tôi nếu bạn xóa tài khoản "
-"của mình."
+"dữ liệu này sẽ bị xóa khỏi cơ sở dữ liệu của chúng tôi nếu bạn xóa tài khoản."
 
 #: wllegal/templates/legal/documents/summary.html:8
 msgid ""
@@ -664,7 +664,7 @@ msgid ""
 "the changes you made; they can be stored there indefinitely."
 msgstr ""
 "Tên và địa chỉ email của bạn có thể được sử dụng trong các bản ghi nhận trên "
-"hệ thống kiểm soát phiên bản để ghi nhận những thay đổi bạn đã thực hiện; "
+"hệ thống kiểm soát phiên bản để ghi nhận các thay đổi bạn đã thực hiện; "
 "chúng có thể được lưu trữ ở đó vô thời hạn."
 
 #: wllegal/templates/legal/documents/summary.html:12
@@ -672,6 +672,9 @@ msgid ""
 "Name choice is yours, and the e-mail address used for commits can be masked "
 "by Weblate to protect your privacy. You can enable this in your profile."
 msgstr ""
+"Bạn có thể tự chọn tên và địa chỉ email được sử dụng cho các ghi nhận có thể "
+"được Weblate che giấu để bảo vệ quyền riêng tư của bạn. Bạn có thể bật tính "
+"năng này trong hồ sơ của mình."
 
 #: wllegal/templates/legal/documents/summary.html:15
 msgid ""
@@ -862,6 +865,10 @@ msgid ""
 "the Commercial Register maintained by the Regional Court in Ústí nad Labem, "
 "file no. C 52324, with which the Agreement was concluded;"
 msgstr ""
+"đề cập đến công ty <strong>Weblate s.r.o.</strong>, mã số 21668027, có trụ "
+"sở đăng ký tại Nábřežní 694, Cvikov II, 471 54 Cvikov, đăng ký trong Sổ đăng "
+"ký Thương mại do Tòa án Khu vực duy trì tại Ústí nad Labem, hồ sơ số C "
+"52324, với Thỏa thuận được ký kết;"
 
 #: wllegal/templates/legal/documents/tos.html:128
 msgid "Service"
@@ -1201,7 +1208,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:315
 msgid "Payment Terms"
-msgstr ""
+msgstr "Điều Khoản Thanh Toán"
 
 #: wllegal/templates/legal/documents/tos.html:319
 msgid ""
@@ -1452,6 +1459,15 @@ msgid ""
 "another User’s account or the Provider’s servers. Violation of these "
 "obligations constitutes a material breach of the Agreement."
 msgstr ""
+"Người dùng bị nghiêm cấm tải lên, gửi hoặc lưu trữ bất kỳ nội dung nào trên "
+"cổng dịch vụ có thể chứa vi-rút phần mềm hoặc các tệp và chương trình khác "
+"có thể phá hủy, làm hỏng hoặc hạn chế chức năng của thiết bị của Nhà cung "
+"cấp hoặc Người dùng khác. Người dùng cũng không được phép tải lên cổng dịch "
+"vụ nội dung mà việc sở hữu hoặc phân phối là bất hợp pháp, xâm phạm bản "
+"quyền của bên thứ ba, là một phần của hoạt động tội phạm, phát tán thư rác "
+"thông qua Dịch vụ hoặc cố gắng truy cập vào tài khoản của Người dùng khác "
+"hoặc máy chủ của Nhà cung cấp. Vi phạm các nghĩa vụ này cấu thành vi phạm "
+"nghiêm trọng Thỏa thuận."
 
 #: wllegal/templates/legal/documents/tos.html:424
 msgid ""
@@ -1730,6 +1746,13 @@ msgid ""
 "war, or changes in the political situation that prevent or unduly hinder the "
 "exercise of rights and obligations arising from this Agreement."
 msgstr ""
+"Trong các trường hợp bất khả kháng, các Bên có quyền tạm thời đình chỉ nghĩa "
+"vụ hợp đồng, và bất kỳ việc không thực hiện hoặc chậm trễ nào trong việc "
+"thực hiện các nghĩa vụ do Thỏa thuận này đặt ra sẽ không được coi là vi phạm "
+"Thỏa thuận. Bất khả kháng bao gồm các trường hợp mà trách nhiệm bị loại trừ "
+"theo luật pháp Séc, chẳng hạn như thiên tai, chiến tranh hoặc những thay đổi "
+"trong tình hình chính trị ngăn cản hoặc cản trở quá mức việc thực hiện các "
+"quyền và nghĩa vụ phát sinh từ Thỏa thuận này."
 
 #: wllegal/templates/legal/documents/tos.html:592
 msgid ""
@@ -1846,6 +1869,21 @@ msgid ""
 "Parties. The Parties irrevocably agree not to contest the enforcement of the "
 "arbitration award in any jurisdiction."
 msgstr ""
+"Các Điều khoản này được điều chỉnh bởi luật pháp của Cộng hòa Séc, một quốc "
+"gia thành viên của Liên minh Châu Âu. Tuy nhiên, các Bên loại trừ tối đa các "
+"điều khoản của Mục 1764, 1765, 1793 đến 1795, 2050, 2389a đến 2389f, 2389t "
+"và 2389u của Bộ luật Dân sự Séc. Bất kỳ tranh chấp nào phát sinh liên quan "
+"đến việc thực hiện hoặc giải thích Thỏa thuận mà các Bên không thể giải "
+"quyết một cách hòa giải sẽ được giải quyết cuối cùng bằng trọng tài tại Tòa "
+"án Trọng tài của Phòng Thương mại Cộng hòa Séc và Phòng Nông nghiệp Cộng hòa "
+"Séc bởi ba trọng tài viên được bổ nhiệm theo Quy tắc của Tòa án Trọng tài "
+"này. Mỗi Bên chỉ định một trọng tài viên, và hai trọng tài viên sẽ thống "
+"nhất về trọng tài viên thứ ba trong vòng 30 ngày. Nếu hai trọng tài viên "
+"không thống nhất được trọng tài viên thứ ba trong thời hạn nêu trên, chủ "
+"tịch Tòa án Trọng tài sẽ chỉ định trọng tài viên thứ ba. Phán quyết trọng "
+"tài là quyết định cuối cùng và ràng buộc đối với các Bên. Các Bên nhất trí "
+"không tranh chấp việc thi hành phán quyết trọng tài tại bất kỳ khu vực pháp "
+"lý nào."
 
 #: wllegal/templates/legal/documents/tos.html:644
 msgid ""
