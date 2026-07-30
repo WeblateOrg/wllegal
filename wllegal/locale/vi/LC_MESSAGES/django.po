@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
-"POT-Creation-Date: 2026-07-23 13:05-0500\n"
+"POT-Creation-Date: 2026-07-30 10:06-0500\n"
 "PO-Revision-Date: 2026-07-30 15:01+0000\n"
 "Last-Translator: hoanghuy309 <hoanghuy309@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/weblate/legal/"
@@ -46,9 +46,9 @@ msgid ""
 "supplements the <a href=\"%(terms_url)s\">General Terms and Conditions</a> "
 "of Weblate, hereinafter referred to as \"<strong>Terms</strong>\"."
 msgstr ""
-"Chính sách Riêng tư này, sau đây được gọi là \"<strong>Chính sách</strong>"
-"\", bổ sung cho <a href=\"%(terms_url)s\">Điều khoản và Điều kiện chung</a> "
-"của Weblate, sau đây được gọi là \"<strong>Điều khoản</strong>\"."
+"Chính sách Riêng tư này, sau đây được gọi là \"<strong>Chính sách</"
+"strong>\", bổ sung cho <a href=\"%(terms_url)s\">Điều khoản và Điều kiện "
+"chung</a> của Weblate, sau đây được gọi là \"<strong>Điều khoản</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:17
 #: wllegal/templates/legal/documents/tos.html:16
@@ -150,7 +150,8 @@ msgstr "Phạm vi, Mục đích và Thời gian xử lý"
 #: wllegal/templates/legal/documents/privacy.html:54
 msgid ""
 "The Provider processes the User's personal data for the following purposes:"
-msgstr "Nhà cung cấp xử lý dữ liệu cá nhân của Người dùng cho các mục đích sau:"
+msgstr ""
+"Nhà cung cấp xử lý dữ liệu cá nhân của Người dùng cho các mục đích sau:"
 
 #: wllegal/templates/legal/documents/privacy.html:59
 msgid "fulfilling the Contract under Article 6(1)(b) of the GDPR,"
