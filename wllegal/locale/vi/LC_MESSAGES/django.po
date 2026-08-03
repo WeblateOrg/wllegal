@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-07-30 10:06-0500\n"
-"PO-Revision-Date: 2026-07-30 15:01+0000\n"
+"PO-Revision-Date: 2026-08-04 01:01+0000\n"
 "Last-Translator: hoanghuy309 <hoanghuy309@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/weblate/legal/"
 "vi/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.8.dev0\n"
+"X-Generator: Weblate 2026.8.1.dev0\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -62,10 +62,10 @@ msgid ""
 "the Commercial Register kept by the Regional Court in Ústí nad Labem, file "
 "No. C 52324, i.e. the \"<strong>Provider</strong>\"."
 msgstr ""
-"Chính sách này đã được cấp bởi Weblate s.r.o., Mã ID: 21668027, với văn "
-"phòng đã đăng ký tại Nábřežní 694, Cvikov II, 471 54 Cvikov, đăng ký trong "
-"Giấy Chứng nhận Đăng ký Doanh nghiệp giữ bởi Tòa án Địa Phương ở Ústí nad "
-"Labem, Tệp mã C 52324, tức \"<strong>Provider</strong>\"."
+"Chính sách này được ban hành bởi Weblate s.r.o., Mã số định danh: 21668027, "
+"có trụ sở đăng ký tại Nábřežní 694, Cvikov II, 471 54 Cvikov, đăng ký tại Sổ "
+"đăng ký thương mại do Tòa án khu vực Ústí nad Labem quản lý, hồ sơ số C "
+"52324, tức là \"<strong>Nhà cung cấp</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:25
 msgid ""
@@ -256,28 +256,36 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:114
 msgid "cryptocurrency wallet address or addresses,"
-msgstr ""
+msgstr "địa chỉ hoặc nhiều địa chỉ ví tiền điện tử,"
 
 #: wllegal/templates/legal/documents/privacy.html:117
 msgid ""
 "other personal data contained in messages sent by the User to the Provider "
 "(especially the subject and other content of the message),"
 msgstr ""
+"các dữ liệu cá nhân khác có trong tin nhắn do Người dùng gửi cho Nhà cung "
+"cấp (đặc biệt là tiêu đề và nội dung khác của tin nhắn),"
 
 #: wllegal/templates/legal/documents/privacy.html:120
 msgid ""
 "other personal data contained in communications with the Provider's support,"
 msgstr ""
+"các dữ liệu cá nhân khác có trong các cuộc liên lạc với bộ phận hỗ trợ của "
+"Nhà cung cấp,"
 
 #: wllegal/templates/legal/documents/privacy.html:123
 msgid "system data, logs, and session logs including the User's IP address,"
 msgstr ""
+"dữ liệu hệ thống, nhật ký và nhật ký phiên, bao gồm cả địa chỉ IP của người "
+"dùng,"
 
 #: wllegal/templates/legal/documents/privacy.html:128
 msgid ""
 "where the individual categories of personal data listed above will continue "
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
+"trong đó các loại dữ liệu cá nhân riêng lẻ được liệt kê ở trên sẽ tiếp tục "
+"được gọi chung là \"<strong>Dữ liệu Cá nhân</strong>\"."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -493,6 +501,13 @@ msgid ""
 "the User in the case where they provide the Provider with Personal Data of "
 "data subjects other than this User."
 msgstr ""
+"Người dùng xác nhận rằng Dữ liệu Cá nhân được cung cấp là đúng sự thật, "
+"chính xác và chỉ liên quan đến Người dùng, hoặc việc sử dụng dữ liệu đó "
+"không vi phạm quyền của bên thứ ba. Người dùng có nghĩa vụ luôn thông báo "
+"cho Nhà cung cấp về bất kỳ thay đổi nào đối với Dữ liệu Cá nhân của mình để "
+"chỉ dữ liệu hiện tại và đầy đủ được xử lý. Các nghĩa vụ tương tự cũng áp "
+"dụng cho Người dùng trong trường hợp họ cung cấp cho Nhà cung cấp Dữ liệu Cá "
+"nhân của các đối tượng dữ liệu khác ngoài Người dùng này."
 
 #: wllegal/templates/legal/documents/privacy.html:227
 msgid ""
@@ -625,6 +640,13 @@ msgid ""
 "Council (EC) No. 593/2008 of June 17, 2008, on the law applicable to "
 "contractual obligations (Rome I)."
 msgstr ""
+"Nếu mối quan hệ được thiết lập bởi Hợp đồng có yếu tố quốc tế (nước ngoài), "
+"việc lựa chọn luật theo câu trước không tước đoạt của Người dùng – Người "
+"tiêu dùng sự bảo vệ được cung cấp bởi các điều khoản của trật tự pháp luật "
+"không thể bị thay đổi bằng hợp đồng và sẽ được áp dụng trong trường hợp "
+"không có sự lựa chọn luật theo các điều khoản của Điều 6(1) của Quy định của "
+"Nghị viện và Hội đồng Châu Âu (EC) số 593/2008 ngày 17 tháng 6 năm 2008 về "
+"luật áp dụng cho các nghĩa vụ hợp đồng (Rome I)."
 
 #: wllegal/templates/legal/documents/privacy.html:288
 msgid ""
@@ -706,6 +728,8 @@ msgid ""
 "The rights and obligations of the User and the Provider resulting from the "
 "use of the Service are governed by these General Terms and Conditions."
 msgstr ""
+"Các quyền và nghĩa vụ của Người dùng và Nhà cung cấp phát sinh từ việc sử "
+"dụng Dịch vụ được điều chỉnh bởi các Điều khoản và Điều kiện chung này."
 
 #: wllegal/templates/legal/documents/tos.html:20
 msgid ""
@@ -725,15 +749,15 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:30
 msgid "Civil Code"
-msgstr ""
+msgstr "Bộ Luật Dân Sự"
 
 #: wllegal/templates/legal/documents/tos.html:33
 msgid "means Act No. 89/2012 Coll., Civil Code, as amended;"
-msgstr ""
+msgstr "có nghĩa là Luật số 89/2012 Coll., Bộ luật Dân sự, đã được sửa đổi;"
 
 #: wllegal/templates/legal/documents/tos.html:37
 msgid "Contracting Parties"
-msgstr ""
+msgstr "Các Bên Ký Kết"
 
 #: wllegal/templates/legal/documents/tos.html:40
 msgid "jointly refers to the User and the Provider;"
@@ -754,13 +778,15 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:51
 msgid "Dedicated Weblate"
-msgstr ""
+msgstr "Weblate Chuyên Dụng"
 
 #: wllegal/templates/legal/documents/tos.html:54
 msgid ""
 "means a form of collaboration where the User is the sole user of the Service "
 "in a cloud hosted and provided by the Provider;"
 msgstr ""
+"có nghĩa là một hình thức hợp tác trong đó Người dùng là người dùng duy nhất "
+"của Dịch vụ trên nền tảng đám mây được Nhà cung cấp lưu trữ và cung cấp;"
 
 #: wllegal/templates/legal/documents/tos.html:58
 msgid "GDPR"
@@ -771,6 +797,8 @@ msgid ""
 "means EU Regulation No. 679/2016, General Regulation on Personal Data "
 "Protection;"
 msgstr ""
+"có nghĩa là Quy định số 679/2016 của EU, Quy định chung về bảo vệ dữ liệu cá "
+"nhân;"
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
@@ -802,6 +830,10 @@ msgid ""
 "provides Services to Users on a non-dedicated (i.e., shared by multiple "
 "Users) cloud operated by the Provider;"
 msgstr ""
+"có nghĩa là một hình thức hợp tác hoàn toàn dựa trên điện toán đám mây, "
+"trong đó Nhà cung cấp cung cấp Dịch vụ cho Người dùng trên một nền tảng đám "
+"mây không chuyên dụng (tức là được nhiều Người dùng chia sẻ) do Nhà cung cấp "
+"vận hành;"
 
 #: wllegal/templates/legal/documents/tos.html:86
 msgid "License"
@@ -822,6 +854,8 @@ msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
+"có nghĩa là dữ liệu cá nhân được định nghĩa trong Quy định số 679/2016 của "
+"EU, do người dùng nhập vào Dịch vụ và/hoặc Cookie;"
 
 #: wllegal/templates/legal/documents/tos.html:100
 #: wllegal/templates/legal/documents/tos.html:235
@@ -889,6 +923,9 @@ msgid ""
 "means a form of collaboration where the User is the sole user of the "
 "Service, and this Service is operated directly on the User Server;"
 msgstr ""
+"có nghĩa là một hình thức hợp tác trong đó Người dùng là người dùng duy nhất "
+"của Dịch vụ, và Dịch vụ này được vận hành trực tiếp trên Máy chủ của Người "
+"dùng;"
 
 #: wllegal/templates/legal/documents/tos.html:142
 msgid "Support Services"
@@ -1306,6 +1343,29 @@ msgid ""
 "any case, the User may either accept the Change (implicitly through failure "
 "to object) or terminate the Agreement within the above period."
 msgstr ""
+"Nhà cung cấp có quyền thực hiện bất kỳ thay đổi nào đối với Dịch vụ hoặc "
+"phạm vi của Dịch vụ. Trong trường hợp đó, Nhà cung cấp sẽ thông báo cho "
+"Người dùng thông qua giao diện web liên quan đến Dịch vụ được cung cấp. "
+"Trong trường hợp có thay đổi về khung pháp lý hoặc quy định, tiêu chuẩn "
+"ngành, chi phí liên quan của Nhà cung cấp, tập quán thị trường, điều kiện "
+"ảnh hưởng đến thị trường liên quan, hoặc bất kỳ thay đổi nào khác có thể ảnh "
+"hưởng đến việc cung cấp Dịch vụ, Nhà cung cấp có thể bất cứ lúc nào sửa đổi, "
+"hủy bỏ hoặc bổ sung các Điều khoản này (được gọi là \"<strong>Thay đổi</"
+"strong>\") bằng cách thông báo cho Người dùng về Thay đổi đó bằng cách đăng "
+"phiên bản sửa đổi của các Điều khoản này trên Trang web và thông báo cho "
+"Người dùng qua email và thông qua giao diện liên quan đến Dịch vụ được cung "
+"cấp, ít nhất 14 ngày trước khi Thay đổi có hiệu lực. Nếu Người dùng không "
+"phản hồi về Thay đổi đó trong thời hạn nêu trên, sẽ được coi là Người dùng "
+"đồng ý với Thay đổi. Việc thông báo không áp dụng nếu Thay đổi được yêu cầu "
+"bởi luật pháp, lệnh của tòa án, liên quan đến việc bổ sung một dịch vụ mới, "
+"các tính năng bổ sung cho Dịch vụ hiện có, hoặc bất kỳ Thay đổi nào khác "
+"không làm giảm quyền của Người dùng hoặc tăng nghĩa vụ của họ. Trong những "
+"trường hợp như vậy, việc thay đổi sẽ được thực hiện mà không cần thông báo "
+"trước cho Người dùng và sẽ có hiệu lực ngay lập tức. Nếu Người dùng phản đối "
+"việc thay đổi Điều khoản trong thời hạn nêu trên, họ có quyền chấm dứt Thỏa "
+"thuận. Trong mọi trường hợp, Người dùng có thể chấp nhận việc thay đổi (ngầm "
+"hiểu thông qua việc không phản đối) hoặc chấm dứt Thỏa thuận trong thời hạn "
+"nêu trên."
 
 #: wllegal/templates/legal/documents/tos.html:351
 msgid ""
@@ -1700,6 +1760,11 @@ msgid ""
 "including the provisions of Sections 1912 (2), 1923, 1969, 1977, 1978, 1979, "
 "2001, 2002, 2003, 2106, 2107, 2110, and 2111 of the Czech Civil Code."
 msgstr ""
+"Không bên nào được phép chấm dứt hoặc kết thúc Thỏa thuận này bằng bất kỳ "
+"cách nào khác, trừ các trường hợp được nêu rõ trong Mục này. Các Bên loại "
+"trừ, ở mức tối đa có thể, quyền của bất kỳ Bên nào trong việc chấm dứt Thỏa "
+"thuận này, bao gồm các điều khoản của Mục 1912 (2), 1923, 1969, 1977, 1978, "
+"1979, 2001, 2002, 2003, 2106, 2107, 2110 và 2111 của Bộ luật Dân sự Séc."
 
 #: wllegal/templates/legal/documents/tos.html:565
 msgid "Limitation of Liability"
