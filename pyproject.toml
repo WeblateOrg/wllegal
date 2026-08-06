@@ -5,6 +5,27 @@ requires = [
   "translate-toolkit"
 ]
 
+[dependency-groups]
+dev = [
+  {include-group = "lint"},
+  {include-group = "test"}
+]
+lint = [
+  {include-group = "pre-commit"}
+]
+pre-commit = [
+  "prek==0.4.11"
+]
+test = [
+  "wllegal[weblate]",
+  "coverage==7.15.3",
+  "pytest-cov==7.1.0",
+  "pytest-django==4.13.0",
+  "pytest-github-actions-annotate-failures==0.4.2",
+  "pytest-profiling==1.8.1",
+  "pytest==9.1.1"
+]
+
 [project]
 classifiers = [
   "Development Status :: 5 - Production/Stable",
@@ -49,17 +70,6 @@ email = "michal@weblate.org"
 name = "Michal Čihař"
 
 [project.optional-dependencies]
-dev = [
-  "wllegal[lint,test]"
-]
-lint = [
-  "prek==0.4.11"
-]
-test = [
-  "wllegal[weblate]",
-  "coverage==7.15.3",
-  "translate-toolkit"
-]
 weblate = [
   "Weblate[postgres]>=5.0",
   "django-otp<1.7.0; python_version < '3.12'"
@@ -138,6 +148,11 @@ profile = "django"
 
 [tool.isort]
 profile = "black"
+
+[tool.pytest.ini_options]
+DJANGO_SETTINGS_MODULE = "wllegal.settings_test"
+addopts = "--cov"
+python_files = ["test_*.py", "*_test.py", "tests.py"]
 
 [tool.ruff.format]
 docstring-code-format = true
