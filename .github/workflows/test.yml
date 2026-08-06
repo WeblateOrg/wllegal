@@ -51,8 +51,8 @@ jobs:
         version: 0.12.1
     - name: Install pip dependencies
       run: |
-        uv pip install --system ".[test]"
-        uv pip install --system https://github.com/WeblateOrg/weblate/archive/main.zip
+        uv sync --dev
+        uv pip install https://github.com/WeblateOrg/weblate/archive/main.zip
     - name: Test with Django
       env:
         CI_DATABASE: postgresql
@@ -60,12 +60,11 @@ jobs:
         CI_DB_HOST: localhost
         DJANGO_SETTINGS_MODULE: wllegal.settings_test
       run: |
-        weblate collectstatic
-        coverage run "$(which weblate)" test
+        uv run --no-sync weblate collectstatic
+        uv run --no-sync pytest
     - name: Coverage
       run: |
-        coverage combine
-        coverage xml
+        uv run --no-sync coverage xml
     - uses: codecov/codecov-action@fb8b3582c8e4def4969c97caa2f19720cb33a72f # v7.0.0
       with:
         token: ${{secrets.CODECOV_TOKEN}} # zizmor: ignore[secrets-outside-env]
