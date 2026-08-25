@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-08-21 11:42-0500\n"
-"PO-Revision-Date: 2026-08-24 13:17+0000\n"
+"PO-Revision-Date: 2026-08-25 09:32+0000\n"
 "Last-Translator: hoanghuy309 <hoanghuy309@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/weblate/legal/"
 "vi/>\n"
@@ -449,6 +449,8 @@ msgid ""
 "selected contractors of the Provider who are involved in providing services "
 "to Users and who are also bound by confidentiality;"
 msgstr ""
+"các nhà thầu được lựa chọn của Nhà cung cấp có liên quan đến việc cung cấp "
+"dịch vụ cho Người dùng và cũng bị ràng buộc bởi tính bảo mật;"
 
 #: wllegal/templates/legal/documents/privacy.html:173
 msgid ""
@@ -1106,7 +1108,7 @@ msgstr "Bộ nhớ phiên dịch"
 
 #: wllegal/templates/legal/documents/tos.html:152
 msgid "means an optional translation memory service provided on Weblate;"
-msgstr ""
+msgstr "nghĩa là dịch vụ bộ nhớ dịch tùy chọn được cung cấp trên Weblate;"
 
 #: wllegal/templates/legal/documents/tos.html:156
 msgid "User"
@@ -1484,6 +1486,13 @@ msgid ""
 "released. The User acknowledges that not all Self-hosting Subscription "
 "packages include updates and/or modifications to the Services."
 msgstr ""
+"Giấy phép bao gồm các bản cập nhật và/hoặc sửa đổi đối với Dịch vụ do Nhà "
+"cung cấp thực hiện trong tương lai, với điều kiện là Dịch vụ được cung cấp "
+"dựa trên Đăng ký đã chọn và tất cả giấy phép liên quan cũng như các khoản "
+"phí khác đều được thanh toán đầy đủ trong khoảng thời gian các bản cập nhật "
+"và/hoặc sửa đổi này được phát hành. Người dùng thừa nhận rằng không phải tất "
+"cả các gói Đăng ký tự lưu trữ đều bao gồm các bản cập nhật và/hoặc sửa đổi "
+"Dịch vụ."
 
 #: wllegal/templates/legal/documents/tos.html:311
 msgid ""
@@ -1724,6 +1733,9 @@ msgid ""
 "of the User's data. The User is solely responsible for the content of the "
 "data stored on their Server or the Provider's server."
 msgstr ""
+"Các bên tham gia hợp đồng đều đồng ý rằng Nhà cung cấp không có quyền sở hữu "
+"dữ liệu của Người dùng. Người dùng hoàn toàn chịu trách nhiệm về nội dung dữ "
+"liệu được lưu trữ trên Máy chủ của họ hoặc máy chủ của Nhà cung cấp."
 
 #: wllegal/templates/legal/documents/tos.html:375
 msgid ""
@@ -1901,6 +1913,8 @@ msgid ""
 "Engaging in any services or activities that are contrary to applicable laws "
 "at the national, EU, or international level;"
 msgstr ""
+"Tham gia vào bất kỳ dịch vụ hoặc hoạt động nào trái với luật pháp hiện hành "
+"ở cấp quốc gia, EU hoặc quốc tế;"
 
 #: wllegal/templates/legal/documents/tos.html:444
 msgid ""
