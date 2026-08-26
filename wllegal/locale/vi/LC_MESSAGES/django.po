@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-08-21 11:42-0500\n"
-"PO-Revision-Date: 2026-08-26 02:32+0000\n"
+"PO-Revision-Date: 2026-08-26 08:05+0000\n"
 "Last-Translator: hoanghuy309 <hoanghuy309@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/weblate/legal/"
 "vi/>\n"
@@ -443,6 +443,8 @@ msgid ""
 "C-level and other managerial employees employed by or otherwise "
 "collaborating with the Provider;"
 msgstr ""
+"Các nhân viên cấp C và các nhân viên quản lý khác được Nhà cung cấp tuyển "
+"dụng hoặc cộng tác;"
 
 #: wllegal/templates/legal/documents/privacy.html:170
 msgid ""
@@ -1168,6 +1170,8 @@ msgid ""
 "on the day of signing by both parties (especially for all Services offered "
 "with custom settings);"
 msgstr ""
+"vào ngày ký kết của cả hai bên (đặc biệt đối với tất cả các Dịch vụ được "
+"cung cấp với cài đặt tùy chỉnh);"
 
 #: wllegal/templates/legal/documents/tos.html:199
 msgid ""
@@ -1312,6 +1316,8 @@ msgid ""
 "To avoid doubt, the Subscription may guarantee either only access to a "
 "specific Product or License and/or a specific package of guaranteed Services."
 msgstr ""
+"Để tránh hiểu nhầm, Gói đăng ký có thể chỉ đảm bảo quyền truy cập vào một "
+"Sản phẩm hoặc Giấy phép cụ thể và/hoặc một gói Dịch vụ được đảm bảo cụ thể."
 
 #: wllegal/templates/legal/documents/tos.html:262
 msgid ""
@@ -1914,6 +1920,7 @@ msgid ""
 "Disseminating or offering any pornographic, obscene, or otherwise vulgar "
 "content;"
 msgstr ""
+"Phát tán hoặc cung cấp bất kỳ nội dung khiêu dâm, tục tĩu hoặc thô tục nào;"
 
 #: wllegal/templates/legal/documents/tos.html:440
 msgid ""
@@ -1928,12 +1935,16 @@ msgid ""
 "Engaging in activities that bypass intellectual property protection elements "
 "(such as cracks, warez, etc.);"
 msgstr ""
+"Tham gia vào các hoạt động nhằm phá vỡ các yếu tố bảo vệ quyền sở hữu trí "
+"tuệ (như bẻ khóa, phần mềm lậu, v.v.);"
 
 #: wllegal/templates/legal/documents/tos.html:448
 msgid ""
 "Sending unsolicited commercial messages and other spam or other illegal "
 "harassment of third parties;"
 msgstr ""
+"Gửi tin nhắn thương mại không được yêu cầu và các loại thư rác khác hoặc các "
+"hành vi quấy rối bất hợp pháp khác đối với bên thứ ba;"
 
 #: wllegal/templates/legal/documents/tos.html:452
 msgid ""
@@ -1983,7 +1994,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:480
 msgid "Contains prohibited applications and scripts;"
-msgstr ""
+msgstr "Chứa các ứng dụng và tập lệnh bị cấm;"
 
 #: wllegal/templates/legal/documents/tos.html:484
 msgid "Overloads database systems or causes malfunction of servers;"
@@ -2002,6 +2013,8 @@ msgid ""
 "Involves music, sound, image, film, or similar files for which the User "
 "lacks distribution rights;"
 msgstr ""
+"Liên quan đến các tệp nhạc, âm thanh, hình ảnh, phim hoặc các tệp tương tự "
+"mà Người dùng không có quyền phân phối;"
 
 #: wllegal/templates/legal/documents/tos.html:496
 msgid ""
@@ -2064,6 +2077,10 @@ msgid ""
 "responsible for any damages resulting from the interruption and cannot claim "
 "any compensation from the Provider for such damages."
 msgstr ""
+"Người dùng đồng ý rõ ràng rằng trong trường hợp Nhà cung cấp gián đoạn, hạn "
+"chế hoặc tạm ngừng Dịch vụ một cách chính đáng, Người dùng hoàn toàn chịu "
+"trách nhiệm về mọi thiệt hại phát sinh từ sự gián đoạn đó và không thể yêu "
+"cầu Nhà cung cấp bồi thường cho những thiệt hại đó."
 
 #: wllegal/templates/legal/documents/tos.html:524
 msgid ""
@@ -2198,6 +2215,13 @@ msgid ""
 "other intangible losses (even if the Provider has been advised of the "
 "possibility of such damages), resulting from:"
 msgstr ""
+"Nhà cung cấp không chịu trách nhiệm đối với các thiệt hại gián tiếp phát "
+"sinh từ việc cung cấp Dịch vụ, chẳng hạn như mất lợi nhuận, mất doanh thu, "
+"mất dữ liệu, thiệt hại tài chính hoặc bất kỳ thiệt hại gián tiếp, đặc biệt "
+"hoặc hậu quả nào, bao gồm cả thiệt hại mang tính răn đe hoặc trừng phạt, "
+"chẳng hạn như, nhưng không giới hạn ở, thiệt hại đối với các tổn thất vô "
+"hình khác (ngay cả khi Nhà cung cấp đã được thông báo về khả năng xảy ra "
+"những thiệt hại đó), phát sinh từ:"
 
 #: wllegal/templates/legal/documents/tos.html:574
 msgid "Use or inability to use the Service;"
@@ -2209,6 +2233,9 @@ msgid ""
 "data, information, or services purchased or obtained or messages received, "
 "or transactions entered into through or from the Service;"
 msgstr ""
+"Chi phí mua hàng hóa và dịch vụ thay thế phát sinh từ bất kỳ hàng hóa, dữ "
+"liệu, thông tin hoặc dịch vụ nào được mua hoặc nhận được, hoặc tin nhắn nhận "
+"được, hoặc giao dịch được thực hiện thông qua hoặc từ Dịch vụ;"
 
 #: wllegal/templates/legal/documents/tos.html:580
 msgid ""
