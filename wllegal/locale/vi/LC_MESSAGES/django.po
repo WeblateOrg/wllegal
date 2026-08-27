@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-08-21 11:42-0500\n"
-"PO-Revision-Date: 2026-08-26 11:32+0000\n"
+"PO-Revision-Date: 2026-08-28 05:51+0000\n"
 "Last-Translator: hoanghuy309 <hoanghuy309@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/weblate/legal/"
 "vi/>\n"
@@ -460,6 +460,9 @@ msgid ""
 "the Service, Products, Support Services, and/or to ensure any other "
 "activities related to the above;"
 msgstr ""
+"bất kỳ cá nhân nào khác mà sự tham gia của họ là cần thiết để cung cấp Dịch "
+"vụ, Sản phẩm, Dịch vụ Hỗ trợ một cách đúng đắn và/hoặc để đảm bảo bất kỳ "
+"hoạt động nào khác liên quan đến những điều nêu trên;"
 
 #: wllegal/templates/legal/documents/privacy.html:178
 msgid ""
@@ -689,6 +692,8 @@ msgid ""
 "restriction of processing if there is concern that the Provider is "
 "processing more data than necessary;"
 msgstr ""
+"hạn chế xử lý nếu có lo ngại rằng Nhà cung cấp đang xử lý nhiều dữ liệu hơn "
+"mức cần thiết;"
 
 #: wllegal/templates/legal/documents/privacy.html:258
 msgid ""
@@ -1121,6 +1126,8 @@ msgid ""
 "means any legal entity or natural person other than the Provider that "
 "utilizes the Service;"
 msgstr ""
+"nghĩa là bất kỳ pháp nhân hoặc cá nhân nào khác ngoài Nhà cung cấp sử dụng "
+"Dịch vụ;"
 
 #: wllegal/templates/legal/documents/tos.html:163
 msgid "User Account"
@@ -1536,6 +1543,9 @@ msgid ""
 "issuance of invoices and to receiving them via electronic means. Invoices "
 "will be issued with a due date of 14 calendar days."
 msgstr ""
+"Hóa đơn sẽ được phát hành điện tử. Người dùng đồng ý với việc phát hành hóa "
+"đơn điện tử và nhận hóa đơn qua phương tiện điện tử. Hóa đơn sẽ được phát "
+"hành với thời hạn thanh toán là 14 ngày dương lịch."
 
 #: wllegal/templates/legal/documents/tos.html:323
 msgid ""
@@ -1776,6 +1786,10 @@ msgid ""
 "modifications to the Service made by them are in compliance with applicable "
 "legal regulations."
 msgstr ""
+"Người dùng không được sử dụng Dịch vụ vi phạm các quy định pháp luật hiện "
+"hành. Người dùng cũng hoàn toàn chịu trách nhiệm đảm bảo rằng mọi sửa đổi "
+"đối với Dịch vụ do họ thực hiện đều tuân thủ các quy định pháp luật hiện "
+"hành."
 
 #: wllegal/templates/legal/documents/tos.html:388
 msgid ""
@@ -1956,6 +1970,10 @@ msgid ""
 "impolite, or otherwise inappropriate content that unlawfully or illegally "
 "infringes on the personal rights of third parties;"
 msgstr ""
+"Việc đăng tải hoặc phát tán bất kỳ nội dung nào có thể xâm phạm quyền của "
+"bên thứ ba, bao gồm cả việc công kích những người đó, hoặc bất kỳ nội dung "
+"nào mang tính xúc phạm, bất lịch sự hoặc không phù hợp, vi phạm pháp luật "
+"hoặc xâm phạm quyền cá nhân của bên thứ ba;"
 
 #: wllegal/templates/legal/documents/tos.html:456
 msgid ""
@@ -2246,6 +2264,9 @@ msgid ""
 "including any outcomes of third-party solutions or services related to the "
 "Service;"
 msgstr ""
+"Tuyên bố hoặc hành động của bất kỳ bên thứ ba nào liên quan đến việc cung "
+"cấp Dịch vụ, bao gồm mọi kết quả từ các giải pháp hoặc dịch vụ của bên thứ "
+"ba liên quan đến Dịch vụ;"
 
 #: wllegal/templates/legal/documents/tos.html:583
 msgid "Any other matters related to the Service."
@@ -2324,6 +2345,8 @@ msgid ""
 "The User declares that they consider this encryption method sufficiently "
 "secure."
 msgstr ""
+"Tất cả thông tin liên lạc trong Dịch vụ được mã hóa bằng giao thức SSL. "
+"Người dùng tuyên bố rằng họ coi phương thức mã hóa này đủ an toàn."
 
 #: wllegal/templates/legal/documents/tos.html:612
 #, python-format
@@ -2449,7 +2472,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:648
 msgid "These Terms enter into force on November 1, 2024."
-msgstr ""
+msgstr "Các Điều khoản này có hiệu lực kể từ ngày 1 tháng 11 năm 2024."
 
 #, fuzzy
 #~| msgid "XLIFF Translation File"
