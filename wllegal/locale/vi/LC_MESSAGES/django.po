@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-08-28 00:54-0500\n"
-"PO-Revision-Date: 2026-08-29 07:51+0000\n"
+"PO-Revision-Date: 2026-08-31 05:51+0000\n"
 "Last-Translator: hoanghuy309 <hoanghuy309@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/weblate/legal/"
 "vi/>\n"
@@ -1082,6 +1082,7 @@ msgstr "Dịch vụ"
 msgid ""
 "means the websites and services based on Weblate provided by the Provider;"
 msgstr ""
+"nghĩa là các trang web và dịch vụ dựa trên Weblate do Nhà cung cấp cung cấp;"
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid "Self-hosting"
@@ -2019,7 +2020,7 @@ msgstr "Chứa các ứng dụng và tập lệnh bị cấm;"
 
 #: wllegal/templates/legal/documents/tos.html:484
 msgid "Overloads database systems or causes malfunction of servers;"
-msgstr ""
+msgstr "Gây quá tải cho hệ thống cơ sở dữ liệu hoặc gây ra sự cố cho máy chủ;"
 
 #: wllegal/templates/legal/documents/tos.html:488
 msgid ""
