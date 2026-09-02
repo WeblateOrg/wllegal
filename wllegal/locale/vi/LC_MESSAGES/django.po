@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-08-28 00:54-0500\n"
-"PO-Revision-Date: 2026-08-31 05:51+0000\n"
+"PO-Revision-Date: 2026-09-03 06:13+0000\n"
 "Last-Translator: hoanghuy309 <hoanghuy309@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/weblate/legal/"
 "vi/>\n"
@@ -1030,6 +1030,8 @@ msgid ""
 "the value expressed in money for the provided License in accordance with the "
 "Price List;"
 msgstr ""
+"giá trị được thể hiện bằng tiền đối với Giấy phép được cung cấp theo Bảng "
+"giá;"
 
 #: wllegal/templates/legal/documents/tos.html:107
 msgid "Price List"
@@ -1926,12 +1928,16 @@ msgid ""
 "Disseminating or offering any content that violates applicable laws at the "
 "national, EU, or international level;"
 msgstr ""
+"Phổ biến hoặc cung cấp bất kỳ nội dung nào vi phạm luật hiện hành ở cấp quốc "
+"gia, EU hoặc quốc tế;"
 
 #: wllegal/templates/legal/documents/tos.html:432
 msgid ""
 "Disseminating or offering any illegally obtained content or content whose "
 "dissemination would be illegal;"
 msgstr ""
+"Phổ biến hoặc cung cấp bất kỳ nội dung nào có được bất hợp pháp hoặc nội "
+"dung mà việc phổ biến sẽ là bất hợp pháp;"
 
 #: wllegal/templates/legal/documents/tos.html:436
 msgid ""
@@ -1981,6 +1987,8 @@ msgid ""
 "Disseminating or offering any content that infringes on third-party "
 "intellectual or industrial property rights;"
 msgstr ""
+"Phổ biến hoặc cung cấp bất kỳ nội dung nào vi phạm quyền sở hữu trí tuệ hoặc "
+"công nghiệp của bên thứ ba;"
 
 #: wllegal/templates/legal/documents/tos.html:460
 msgid ""
