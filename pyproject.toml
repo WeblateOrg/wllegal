@@ -72,7 +72,7 @@ name = "Michal Čihař"
 [project.optional-dependencies]
 weblate = [
   "Weblate[postgres]>=5.0",
-  "django-otp<1.7.0; python_version < '3.12'"
+  "django-otp<1.7.2; python_version < '3.12'"
 ]
 
 [project.readme]
