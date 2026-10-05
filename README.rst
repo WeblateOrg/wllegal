@@ -1,18 +1,5 @@
-.. image:: https://s.weblate.org/cdn/Logo-Darktext-borders.png
-   :alt: Weblate
-   :target: https://weblate.org/
-   :height: 80px
-
-**Weblate is libre software web-based continuous localization system,
-used by over 2500 libre projects and companies in more than 165 countries.**
-
-This is the legal module used on services operated by Weblate s.r.o., including
-the `Hosted Weblate service <https://weblate.org/hosting/>`_.
-
-It can serve as an implementation example for customizing `Weblate
-<https://weblate.org/>`_, but its legal documents are specific to those
-services and should not be used as a basis for other services. If you think
-something should be part of Weblate, please open an issue.
+Weblate legal
+=============
 
 .. image:: https://img.shields.io/badge/website-weblate.org-blue.svg
     :alt: Website
@@ -33,6 +20,22 @@ something should be part of Weblate, please open an issue.
 .. image:: https://readthedocs.org/projects/weblate/badge/
     :alt: Documentation
     :target: https://docs.weblate.org/
+
+This is the legal module used on services operated by Weblate s.r.o., including
+the `Hosted Weblate service <https://weblate.org/hosting/>`_.
+
+It can serve as an implementation example for customizing `Weblate
+<https://weblate.org/>`_, but its legal documents are specific to those
+services and should not be used as a basis for other services. If you think
+something should be part of Weblate, please open an issue.
+
+
+.. image:: https://s.weblate.org/cdn/Logo-Darktext-borders.png
+   :target: https://weblate.org/
+   :alt: Weblate
+   :height: 55px
+
+Part of `Weblate <https://weblate.org/>`_ — a privacy-respecting localization platform built on open-source foundations.
 
 Installation
 ------------
