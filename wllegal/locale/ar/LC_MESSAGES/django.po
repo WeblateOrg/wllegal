@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-10-02 20:23-0500\n"
-"PO-Revision-Date: 2026-10-05 05:46+0000\n"
+"PO-Revision-Date: 2026-10-09 19:51+0000\n"
 "Last-Translator: Sup! 0_0 <alelmnour1o234@proton.me>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/weblate/legal/ar/>"
 "\n"
@@ -1073,7 +1073,7 @@ msgstr ""
 #, fuzzy
 #| msgid "License Agreement Conclusion"
 msgid "The Agreement is concluded:"
-msgstr "إبرام اتفاقية الترخيص"
+msgstr "تم إبرام الاتفاقية:"
 
 #: wllegal/templates/legal/documents/tos.html:196
 msgid ""
