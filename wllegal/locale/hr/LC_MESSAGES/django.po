@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-10-16 20:00-0500\n"
-"PO-Revision-Date: 2026-10-17 11:51+0000\n"
+"PO-Revision-Date: 2026-10-23 10:51+0000\n"
 "Last-Translator: Milo Ivir <milotype@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/weblate/legal/"
 "hr/>\n"
@@ -249,7 +249,7 @@ msgid ""
 "to be collectively referred to as \"<strong>Personal Data</strong>\"."
 msgstr ""
 "gdje će se pojedinačne kategorije gore navedenih osobnih podataka nadalje "
-"navoditi pod zajedničkim nazivom <strong>„Osobni podatci“</strong>."
+"navoditi pod zajedničkim nazivom <strong>„Osobni podaci“</strong>."
 
 #: wllegal/templates/legal/documents/privacy.html:132
 msgid ""
@@ -394,14 +394,14 @@ msgid ""
 "the Controller is prohibited, or it would be futile) that a request for the "
 "Personal Data has been made to allow the User to object to the disclosure."
 msgstr ""
-"Osobni podatci se mogu otkriti trećim stranama u ograničenim okolnostima "
-"kada kontrolor obrade u dobroj vjeri pretpostavlja da je to zakonski "
-"potrebno, kao što je sudski poziv ili drugi sudski ili administrativni "
-"nalog. U slučaju da kontrolor na osnovi zakona mora otkriti osobne podatke, "
-"pokušat će prethodno obavijestiti korisnika putem e-maila (osim ako je to "
-"kontroloru zabranjeno ili ako bi bilo uzaludno) da je postavljen zahtjev za "
-"osobnim podatcima, kako bi se korisniku omogućilo ulaganje prigovora na "
-"otkrivanje podataka."
+"Osobni podaci se mogu otkriti trećim stranama u ograničenim okolnostima kada "
+"kontrolor obrade u dobroj vjeri pretpostavlja da je to zakonski potrebno, "
+"kao što je sudski poziv ili drugi sudski ili administrativni nalog. U "
+"slučaju da kontrolor na osnovi zakona mora otkriti osobne podatke, pokušat "
+"će prethodno obavijestiti korisnika putem e-maila (osim ako je to kontroloru "
+"zabranjeno ili ako bi bilo uzaludno) da je postavljen zahtjev za osobnim "
+"podacima, kako bi se korisniku omogućilo ulaganje prigovora na otkrivanje "
+"podataka."
 
 #: wllegal/templates/legal/documents/privacy.html:190
 msgid ""
@@ -493,7 +493,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/privacy.html:236
 msgid "User Rights in Relation to Personal Data"
-msgstr "Korisnička prava u vezi s osobnim podatcima"
+msgstr "Korisnička prava u vezi s osobnim podacima"
 
 #: wllegal/templates/legal/documents/privacy.html:240
 #, python-format
@@ -618,7 +618,7 @@ msgid ""
 "We process personal data (such as your e-mail address); those will be "
 "discarded from our database if you remove your account."
 msgstr ""
-"Obrađujemo osobne podatke (kao što je tvoja e-adresa). Ti se podatci "
+"Obrađujemo osobne podatke (kao što je tvoja e-adresa). Ti se podaci "
 "uklanjaju iz naše baze podataka ako ukloniš račun."
 
 #: wllegal/templates/legal/documents/summary.html:8
@@ -803,14 +803,14 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:93
 msgid "Personal Data"
-msgstr "Osobni podatci"
+msgstr "Osobni podaci"
 
 #: wllegal/templates/legal/documents/tos.html:96
 msgid ""
 "means personal data as defined in EU Regulation No. 679/2016, entered by the "
 "user into the Service and/or Cookies;"
 msgstr ""
-"znači osobni podatci koji su definirani u EU uredbi br. 679/2016, koje je "
+"znači osobni podaci koji su definirani u EU uredbi br. 679/2016, koje je "
 "korisnik upisao u uslugu i/ili kolačiće;"
 
 #: wllegal/templates/legal/documents/tos.html:100
