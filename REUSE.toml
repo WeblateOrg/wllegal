@@ -18,7 +18,7 @@ precedence = "aggregate"
 [[annotations]]
 SPDX-FileCopyrightText = "Michal Čihař <michal@weblate.org>"
 SPDX-License-Identifier = "GPL-3.0-or-later"
-path = [".coveragerc", ".editorconfig", ".gitattributes", ".gitignore", ".gitmodules", ".imgbotconfig", ".pre-commit-config.yaml", ".prettierrc.yaml", ".pylintrc", ".readthedocs.yml", ".weblate", "MANIFEST.in", "codecov.yml", "pyproject.toml", "requirements**.txt", "dev-docker/environment", "scripts/yarn/.gitignore", "scripts/yarn/modernizr-config.json", "scripts/yarn/package.json", "scripts/yarn/yarn.lock", "setup.cfg", "tox.ini"]
+path = [".coveragerc", ".editorconfig", ".gitattributes", ".gitignore", ".gitmodules", ".imgbotconfig", ".pre-commit-config.yaml", ".prettierrc.yaml", ".pylintrc", ".readthedocs.yml", ".weblate", "MANIFEST.in", "codecov.yml", "pyproject.toml", "uv.lock", "requirements**.txt", "dev-docker/environment", "scripts/yarn/.gitignore", "scripts/yarn/modernizr-config.json", "scripts/yarn/package.json", "scripts/yarn/yarn.lock", "setup.cfg", "tox.ini"]
 precedence = "aggregate"
 
 [[annotations]]
