@@ -25,6 +25,13 @@ test = [
   "pytest-profiling==1.8.1",
   "pytest==9.2.0"
 ]
+package-lint = [
+  "check-manifest==0.51",
+  "check-wheel-contents==0.6.3",
+  "pydistcheck==0.11.3",
+  "pyroma==5.0.1",
+  "twine==6.2.0"
+]
 
 [project]
 classifiers = [
@@ -89,6 +96,7 @@ Twitter = "https://twitter.com/WeblateOrg"
 
 [tool.check-manifest]
 ignore = [
+  "uv.lock",
   "LICENSES/*",
   "json/*",
   ".reuse/dep5",
