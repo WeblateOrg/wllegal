@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-11-06 18:55-0600\n"
-"PO-Revision-Date: 2026-09-11 08:48+0000\n"
-"Last-Translator: hoanghuy309 <hoanghuy309@gmail.com>\n"
+"PO-Revision-Date: 2026-11-14 07:51+0000\n"
+"Last-Translator: hoanghuy309 <hoanghuy309@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/weblate/legal/"
 "vi/>\n"
 "Language: vi\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.10.dev0\n"
+"X-Generator: Weblate 2026.12.dev0\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -419,6 +419,8 @@ msgid ""
 "hosting provider (including web hosting and mail hosting services), "
 "currently this is <strong>Hetzner Online GmbH</strong>;"
 msgstr ""
+"nhà cung cấp dịch vụ lưu trữ (bao gồm dịch vụ lưu trữ web và lưu trữ thư), "
+"hiện tại là <strong>Hetzner Online GmbH</strong>;"
 
 #: wllegal/templates/legal/documents/privacy.html:161
 msgid ""
@@ -947,7 +949,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:58
 msgid "GDPR"
-msgstr ""
+msgstr "GDPR"
 
 #: wllegal/templates/legal/documents/tos.html:61
 msgid ""
@@ -959,7 +961,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:65
 msgid "GTC"
-msgstr ""
+msgstr "GTC"
 
 #: wllegal/templates/legal/documents/tos.html:68
 msgid ""
@@ -1047,7 +1049,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:114
 msgid "Product"
-msgstr ""
+msgstr "Sản phẩm"
 
 #: wllegal/templates/legal/documents/tos.html:117
 msgid ""
@@ -1088,7 +1090,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:135
 msgid "Self-hosting"
-msgstr ""
+msgstr "Tự lưu trữ"
 
 #: wllegal/templates/legal/documents/tos.html:138
 msgid ""
@@ -1147,7 +1149,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:170
 msgid "User Server"
-msgstr ""
+msgstr "Máy Chủ Người Dùng"
 
 #: wllegal/templates/legal/documents/tos.html:173
 msgid ""
@@ -1159,7 +1161,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:179
 msgid "Methods of Acceptance"
-msgstr ""
+msgstr "Phương Thức Chấp Nhận"
 
 #: wllegal/templates/legal/documents/tos.html:183
 msgid "The License is granted to the User based on the concluded Agreement."
@@ -1200,7 +1202,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:207
 msgid "Service Provision"
-msgstr ""
+msgstr "Cung Cấp Dịch Vụ"
 
 #: wllegal/templates/legal/documents/tos.html:211
 msgid ""
@@ -1635,7 +1637,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:343
 msgid "Provider's Rights and Obligations"
-msgstr ""
+msgstr "Quyền và Nghĩa Vụ của Nhà Cung Cấp"
 
 #: wllegal/templates/legal/documents/tos.html:347
 msgid ""
@@ -1782,7 +1784,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:380
 msgid "User’s Rights and Obligations"
-msgstr ""
+msgstr "Quyền và Nghĩa Vụ của Người Dùng"
 
 #: wllegal/templates/legal/documents/tos.html:384
 msgid ""
@@ -1897,7 +1899,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:416
 msgid "Prohibited Conduct"
-msgstr ""
+msgstr "Hành Vi Bị Cấm"
 
 #: wllegal/templates/legal/documents/tos.html:420
 msgid ""
@@ -1926,6 +1928,8 @@ msgid ""
 "The User particularly agrees to refrain from the following activities while "
 "using the Services, especially through the Services:"
 msgstr ""
+"Người dùng đặc biệt đồng ý không thực hiện các hoạt động sau đây trong khi "
+"sử dụng Dịch vụ, đặc biệt là thông qua Dịch vụ:"
 
 #: wllegal/templates/legal/documents/tos.html:428
 msgid ""
@@ -2004,7 +2008,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:464
 msgid "Overburdening the Provider's or third-party servers;"
-msgstr ""
+msgstr "Gây quá tải cho máy chủ của Nhà cung cấp hoặc bên thứ ba;"
 
 #: wllegal/templates/legal/documents/tos.html:468
 msgid ""
@@ -2078,7 +2082,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:508
 msgid "May harm any third-party rights."
-msgstr ""
+msgstr "Có thể xâm phạm quyền lợi của bên thứ ba."
 
 #: wllegal/templates/legal/documents/tos.html:512
 msgid ""
@@ -2263,7 +2267,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:574
 msgid "Use or inability to use the Service;"
-msgstr ""
+msgstr "Việc sử dụng hoặc không thể sử dụng Dịch vụ;"
 
 #: wllegal/templates/legal/documents/tos.html:577
 msgid ""
