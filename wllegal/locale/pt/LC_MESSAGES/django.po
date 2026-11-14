@@ -10,8 +10,9 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-11-06 18:55-0600\n"
-"PO-Revision-Date: 2026-06-27 05:09+0000\n"
-"Last-Translator: António Oliveira <antonio.oliveira5487@gmail.com>\n"
+"PO-Revision-Date: 2026-11-14 14:24+0000\n"
+"Last-Translator: Manuela Silva "
+"<mansil_alfalb@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/weblate/legal/"
 "pt/>\n"
 "Language: pt\n"
@@ -19,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.7.dev0\n"
+"X-Generator: Weblate 2026.12.dev0\n"
 
 #: wllegal/templates/legal/documents/contracts.html:3
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -1086,7 +1087,7 @@ msgstr ""
 
 #: wllegal/templates/legal/documents/tos.html:121
 msgid "Provider"
-msgstr "Fornecedor"
+msgstr "Provedor"
 
 #: wllegal/templates/legal/documents/tos.html:124
 msgid ""
