@@ -26,6 +26,25 @@
 .tos dl {
   padding: 0 3.5em;
 }
+
+.tos .subcontractors ul {
+  padding-inline-start: 1.5em;
+  margin-block-end: 1.25em;
+}
+
+.tos .subcontractors li + li {
+  margin-block-start: 1.25em;
+}
+
+.tos .subcontractors p {
+  padding: 0;
+}
+
+.tos .subcontractors li p {
+  margin: 0.25em 0 0;
+  max-inline-size: 75ch;
+}
+
 .tos p.item {
   counter-reset: tos_subitem;
 }

@@ -1,11 +1,27 @@
 {% load i18n %}
 
-<h2>{% translate "Subcontractors in Accordance with Art. 28 GDPR" %}</h2>
+<div class="subcontractors">
+  <h2>{% translate "Subcontractors in Accordance with Art. 28 GDPR" %}</h2>
 
-<ul>
-  <li>Hetzner Online GmbH, Industriestr. 25, 91710 Gunzenhausen, Germany</li>
-  <li>ThePay.cz, s.r.o., Masarykovo náměstí 102/65, 586 01 Jihlava, Czechia</li>
-  <li>Functional Software, Inc., 45 Fremont Street, 8th Floor, San Francisco, CA 94105, United States of America</li>
-</ul>
+  <ul>
+    <li>
+      <strong>Hetzner Online GmbH</strong>
+      <div>Industriestr. 25, 91710 Gunzenhausen, Germany</div>
+      <p>{% translate "Hosts Weblate’s infrastructure, including the data stored and processed on that infrastructure." %}</p>
+    </li>
+    <li>
+      <strong>ThePay.cz, s.r.o.</strong>
+      <div>Masarykovo náměstí 102/65, 586 01 Jihlava, Czechia</div>
+      <p>{% translate "Processes only payment data for users who make a purchase." %}</p>
+    </li>
+    <li>
+      <strong>Functional Software, Inc.</strong>
+      <div>45 Fremont Street, 8th Floor, San Francisco, CA 94105, United States of America</div>
+      <p>
+        {% translate "Operates Sentry, which collects production errors and performance metrics. Personal information is scrubbed from this monitoring data. Users may choose to include contact information when submitting a report." %}
+      </p>
+    </li>
+  </ul>
 
-<p>{% translate "Status as of May 2024." %}</p>
+  <p>{% translate "Status as of May 2024." %}</p>
+</div>
