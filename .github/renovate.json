@@ -2,5 +2,16 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "github>WeblateOrg/meta:renovate"
+  ],
+  "packageRules": [
+    {
+      "matchDatasources": [
+        "pypi"
+      ],
+      "matchPackageNames": [
+        "weblate-language-data"
+      ],
+      "rangeStrategy": "widen"
+    }
   ]
 }

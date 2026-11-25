@@ -55,7 +55,8 @@ classifiers = [
 ]
 dependencies = [
   "Django>=5.2,<6.2",
-  "weblate-language-data>=2026.11"
+  # This is the version that introduced documentation URL metadata
+  "weblate-language-data>=2024.14"
 ]
 description = "Hosted Weblate legal stuff"
 keywords = [
