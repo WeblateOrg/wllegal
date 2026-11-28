@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
 "POT-Creation-Date: 2026-11-27 18:26-0600\n"
-"PO-Revision-Date: 2026-10-26 00:51+0000\n"
+"PO-Revision-Date: 2026-11-28 12:51+0000\n"
 "Last-Translator: Hosted Weblate user 54392 "
 "<hamburger2048@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.11.dev0\n"
+"X-Generator: Weblate 2026.12.dev0\n"
 
 #: wllegal/templates/legal/documents/contracts.html:4
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
@@ -36,11 +36,11 @@ msgstr "分包商依照欧盟《通用数据保护条例》第28条之规定"
 msgid ""
 "Hosts Weblate’s infrastructure, including the data stored and processed on "
 "that infrastructure."
-msgstr ""
+msgstr "Hosted Weblate 的基础设施，包括在此基础设施上存储和处理的数据。"
 
 #: wllegal/templates/legal/documents/contracts.html:15
 msgid "Processes only payment data for users who make a purchase."
-msgstr ""
+msgstr "对于进行购买的用户仅处理付款数据。"
 
 #: wllegal/templates/legal/documents/contracts.html:21
 msgid ""
@@ -48,6 +48,8 @@ msgid ""
 "Personal information is scrubbed from this monitoring data. Users may choose "
 "to include contact information when submitting a report."
 msgstr ""
+"运行 Sentry，它收集生产错误和性能指标。个人信息从这些监控数据中被擦除。提交报"
+"告时用户可选择包含联系信息。"
 
 #: wllegal/templates/legal/documents/contracts.html:26
 msgid "Status as of May 2024."
