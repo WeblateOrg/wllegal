@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hosted Weblate Legal\n"
 "Report-Msgid-Bugs-To: https://hosted.weblate.org/projects/weblate/legal/\n"
-"POT-Creation-Date: 2026-11-20 22:31-0600\n"
+"POT-Creation-Date: 2026-11-27 18:26-0600\n"
 "PO-Revision-Date: 2026-04-20 06:39+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Abkhazian <https://hosted.weblate.org/projects/weblate/legal/"
@@ -19,11 +19,28 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.17.1-dev\n"
 
-#: wllegal/templates/legal/documents/contracts.html:3
+#: wllegal/templates/legal/documents/contracts.html:4
 msgid "Subcontractors in Accordance with Art. 28 GDPR"
 msgstr ""
 
-#: wllegal/templates/legal/documents/contracts.html:11
+#: wllegal/templates/legal/documents/contracts.html:10
+msgid ""
+"Hosts Weblate’s infrastructure, including the data stored and processed on "
+"that infrastructure."
+msgstr ""
+
+#: wllegal/templates/legal/documents/contracts.html:15
+msgid "Processes only payment data for users who make a purchase."
+msgstr ""
+
+#: wllegal/templates/legal/documents/contracts.html:21
+msgid ""
+"Operates Sentry, which collects production errors and performance metrics. "
+"Personal information is scrubbed from this monitoring data. Users may choose "
+"to include contact information when submitting a report."
+msgstr ""
+
+#: wllegal/templates/legal/documents/contracts.html:26
 msgid "Status as of May 2024."
 msgstr ""
 
